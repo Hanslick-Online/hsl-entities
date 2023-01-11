@@ -1,0 +1,470 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ortsregister der Hanslick Edition</title>
+            <respStmt>
+               <resp>Lektorat</resp>
+               <name>Wilfing, Alexander</name>
+               <name>Bamer, Katharina</name>
+               <name>Pfiel, Anna</name>
+            </respStmt>
+            <respStmt>
+               <resp>XML/TEI Serialisierung der Daten</resp>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+            <funder xmlns="http://www.tei-c.org/ns/1.0">
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                     <street>Sensengasse 1</street>
+                     <postCode>1090 Wien</postCode>
+                     <placeName>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                     </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Orte der Hanslick Edition</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="index_places">
+            <listPlace xml:id="listplace">
+               <place xml:id="hsl_place_id_1">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_2">
+                  <placeName type="main"/>
+                  <placeName type="alternative">spanisch</placeName>
+               </place>
+               <place xml:id="hsl_place_id_68">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_62">
+                  <placeName type="main"/>
+                  <placeName type="alternative">antiochische</placeName>
+               </place>
+               <place xml:id="hsl_place_id_3">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_4">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_70">
+                  <settlement type="P">
+                     <placeName type="main"/>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>PL, Poland</country>
+                  <location type="coords">
+                     <geo>51.1, 17.03333</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3081368/</idno>
+               </place>
+               <place xml:id="hsl_place_id_5">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_6">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_7">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_8">
+                  <settlement type="P">
+                     <placeName type="main"/>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <placeName type="alternative">Baireuth</placeName>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>49.94782, 11.57893</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2951825/</idno>
+               </place>
+               <place xml:id="hsl_place_id_9">
+                  <settlement type="P">
+                     <placeName type="main"/>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>52.52437, 13.41053</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2950159/</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q64</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4005728-8</idno>
+               </place>
+               <place xml:id="hsl_place_id_10">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_11">
+                  <placeName type="main"/>
+                  <placeName type="alternative">croatisch</placeName>
+               </place>
+               <place xml:id="hsl_place_id_12">
+                  <placeName type="main"/>
+                  <placeName type="alternative">dänisch</placeName>
+               </place>
+               <place xml:id="hsl_place_id_13">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_14">
+                  <placeName type="main"/>
+                  <placeName type="alternative">deutsch</placeName>
+               </place>
+               <place xml:id="hsl_place_id_15">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_16">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_17">
+                  <placeName type="main"/>
+                  <placeName type="alternative">englisch</placeName>
+               </place>
+               <place xml:id="hsl_place_id_18">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_19">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_20">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_21">
+                  <placeName type="main"/>
+                  <placeName type="alternative">französisch</placeName>
+               </place>
+               <place xml:id="hsl_place_id_22">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_23">
+                  <placeName type="main"/>
+                  <placeName type="alternative">griechisch</placeName>
+               </place>
+               <place xml:id="hsl_place_id_60">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_24">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_69">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_25">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_26">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_27">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_28">
+                  <placeName type="main"/>
+                  <placeName type="alternative">italienisch, wälschen</placeName>
+               </place>
+               <place xml:id="hsl_place_id_63">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_29">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_30">
+                  <placeName type="main"/>
+                  <placeName type="alternative">Kärntner</placeName>
+               </place>
+               <place xml:id="hsl_place_id_31">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_32">
+                  <settlement type="P">
+                     <placeName type="main"/>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>51.33962, 12.37129</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2879139/</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2079</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4035206-7</idno>
+               </place>
+               <place xml:id="hsl_place_id_33">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_34">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_35">
+                  <placeName type="main"/>
+                  <placeName type="alternative">Mailänder</placeName>
+               </place>
+               <place xml:id="hsl_place_id_36">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_37">
+                  <settlement type="P">
+                     <placeName type="main"/>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>IT, Italy</country>
+                  <location type="coords">
+                     <geo>46.66817, 11.15953</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3173577/</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q30027458</idno>
+               </place>
+               <place xml:id="hsl_place_id_38">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_39">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_40">
+                  <placeName type="main"/>
+                  <placeName type="alternative">Neapel; Naples; neapolitanisch</placeName>
+               </place>
+               <place xml:id="hsl_place_id_41">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_42">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_43">
+                  <placeName type="main"/>
+                  <placeName type="alternative">Oesterreich</placeName>
+               </place>
+               <place xml:id="hsl_place_id_44">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_45">
+                  <settlement type="P">
+                     <placeName type="main"/>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <placeName type="alternative">Prag</placeName>
+                  <country>CZ, Czechia</country>
+                  <location type="coords">
+                     <geo>50.08804, 14.42076</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3067696/</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1085</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4076310-9</idno>
+               </place>
+               <place xml:id="hsl_place_id_46">
+                  <placeName type="main"/>
+                  <placeName type="alternative">preuß.</placeName>
+               </place>
+               <place xml:id="hsl_place_id_47">
+                  <placeName type="main"/>
+                  <placeName type="alternative">römisch</placeName>
+               </place>
+               <place xml:id="hsl_place_id_48">
+                  <placeName type="main"/>
+                  <placeName type="alternative">russisch</placeName>
+               </place>
+               <place xml:id="hsl_place_id_49">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_50">
+                  <placeName type="main"/>
+                  <placeName type="alternative">Petersburg</placeName>
+               </place>
+               <place xml:id="hsl_place_id_51">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_52">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_53">
+                  <placeName type="main"/>
+                  <placeName type="alternative">ungarisch</placeName>
+               </place>
+               <place xml:id="hsl_place_id_54">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_61">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_55">
+                  <settlement type="P">
+                     <placeName type="main"/>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1741</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4066009-6</idno>
+               </place>
+               <place xml:id="hsl_place_id_56">
+                  <placeName type="main"/>
+                  <placeName type="alternative">Zélez</placeName>
+               </place>
+               <place xml:id="hsl_place_id_57">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_59">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_64">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_65">
+                  <placeName type="main"/>
+                  <placeName type="alternative">Cythere</placeName>
+               </place>
+               <place xml:id="hsl_place_id_66">
+                  <placeName type="main"/>
+                  <placeName type="alternative">Nauplia</placeName>
+               </place>
+               <place xml:id="hsl_place_id_67">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_71">
+                  <placeName type="main"/>
+                  <placeName type="alternative">Straßburg</placeName>
+               </place>
+               <place xml:id="hsl_place_id_72">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_73">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_75">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_76">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_77">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_78">
+                  <placeName type="main"/>
+                  <placeName type="alternative">Dhawalagiri</placeName>
+               </place>
+               <place xml:id="hsl_place_id_79">
+                  <settlement type="P">
+                     <placeName type="main"/>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <placeName type="alternative">Marienbad</placeName>
+                  <country>CZ, Czechia</country>
+                  <location type="coords">
+                     <geo>49.96459, 12.70118</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3071024/</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q523469</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4037541-9</idno>
+               </place>
+               <place xml:id="hsl_place_id_80">
+                  <placeName type="main"/>
+                  <placeName type="alternative">asiatisch</placeName>
+               </place>
+               <place xml:id="hsl_place_id_81">
+                  <placeName type="main"/>
+                  <placeName type="alternative">Tiroler</placeName>
+               </place>
+               <place xml:id="hsl_place_id_82">
+                  <placeName type="main"/>
+                  <placeName type="alternative">chinesisch</placeName>
+               </place>
+               <place xml:id="hsl_place_id_83">
+                  <placeName type="main"/>
+                  <placeName type="alternative">indisch</placeName>
+               </place>
+               <place xml:id="hsl_place_id_84">
+                  <placeName type="main"/>
+                  <placeName type="alternative">südliches Amerika</placeName>
+               </place>
+               <place xml:id="hsl_place_id_85">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_86">
+                  <settlement type="P">
+                     <placeName type="main"/>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <placeName type="alternative">Königsberg</placeName>
+                  <country>RU, Russia</country>
+                  <location type="coords">
+                     <geo>54.70649, 20.51095</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/554234/</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1829</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4031541-1</idno>
+               </place>
+               <place xml:id="hsl_place_id_87">
+                  <settlement type="P">
+                     <placeName type="main"/>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>48.78232, 9.17702</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2825297/</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q32749678</idno>
+               </place>
+               <place xml:id="hsl_place_id_88">
+                  <settlement type="P">
+                     <placeName type="main"/>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <placeName type="alternative">Karlsbad</placeName>
+                  <country>CZ, Czechia</country>
+                  <location type="coords">
+                     <geo>50.23271, 12.87117</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3073803/</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q384544</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4029705-6</idno>
+               </place>
+               <place xml:id="hsl_place_id_89">
+                  <placeName type="main"/>
+                  <placeName type="alternative">venetia</placeName>
+               </place>
+               <place xml:id="hsl_place_id_90">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_91">
+                  <placeName type="main"/>
+               </place>
+            </listPlace>
+         </div>
+      </body>
+   </text>
+</TEI>

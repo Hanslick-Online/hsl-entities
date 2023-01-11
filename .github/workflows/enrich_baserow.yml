@@ -1,0 +1,26 @@
+name: Enrich Baserow data with Wikidata URI
+
+on:
+  workflow_dispatch:
+
+jobs:
+  download:
+    name: enrich baserow
+    runs-on: ubuntu-latest
+    env:
+      BASEROW_TOKEN: ${{secrets.BASEROW_TOKEN}}
+      BASEROW_USER: ${{secrets.BASEROW_USER}}
+      BASEROW_PW: ${{secrets.BASEROW_PW}}
+      GEONAMES_USER: ${{secrets.GEONAMES_USER}}
+    steps:
+      - name: Perfom Checkout
+        uses: actions/checkout@v3
+      - name: Install Python Packages
+        run: |
+          pip install -r requirements.txt
+      - name: enrich data uri
+        run: |
+          python enrich_data.py
+      - name: enrich data location
+        run: |
+          python geonames.py
