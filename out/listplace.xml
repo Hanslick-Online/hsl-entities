@@ -119,6 +119,7 @@
                      <placeName type="main">Berlin</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
+                  <placeName type="alternative">berlinerisch</placeName>
                   <country>DE, Germany</country>
                   <location type="coords">
                      <geo>52.52437, 13.41053</geo>
@@ -292,7 +293,7 @@
                </place>
                <place xml:id="hsl_place_id_46">
                   <placeName type="main">Preußen</placeName>
-                  <placeName type="alternative">preuß.</placeName>
+                  <placeName type="alternative">preuß., preußisch</placeName>
                </place>
                <place xml:id="hsl_place_id_47">
                   <placeName type="main">Rom</placeName>
@@ -331,6 +332,7 @@
                      <placeName type="main">Wien</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
+                  <placeName type="alternative">wienerischen, Wiener</placeName>
                   <country>AT, Austria</country>
                   <location type="coords">
                      <geo>48.20849, 16.37208</geo>
@@ -481,6 +483,9 @@
                </place>
                <place xml:id="hsl_place_id_91">
                   <placeName type="main">Verona</placeName>
+               </place>
+               <place xml:id="hsl_place_id_92">
+                  <placeName type="main">Madrid</placeName>
                </place>
             </listPlace>
          </div>
