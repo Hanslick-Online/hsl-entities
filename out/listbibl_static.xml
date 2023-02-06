@@ -1,59 +1,59 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="main">Publikationen über die Hanslick Edition</title>
-            <respStmt>
-               <resp>Lektorat</resp>
-               <name>Wilfing, Alexander</name>
-               <name>Bamer, Katharina</name>
-               <name>Pfiel, Anna</name>
-            </respStmt>
-            <respStmt>
-               <resp>XML/TEI Serialisierung der Daten</resp>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-            <funder xmlns="http://www.tei-c.org/ns/1.0">
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Publikationen über die Hanslick Edition</title>
+        <respStmt>
+          <resp>Lektorat</resp>
+          <name>Wilfing, Alexander</name>
+          <name>Bamer, Katharina</name>
+          <name>Pfiel, Anna</name>
+        </respStmt>
+        <respStmt>
+          <resp>XML/TEI Serialisierung der Daten</resp>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+        <funder xmlns="http://www.tei-c.org/ns/1.0">
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2023</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Publikationen über die Hanslick Edition</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Publikationen über die Hanslick Edition</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <listBibl>
@@ -1075,6 +1075,1107 @@
             <imprint>
               <date>2018</date>
               <note type="url">http://www.musau.org/parts/neue-article-page/view/47</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__RHQY686X" corresp="http://zotero.org/groups/4938561/items/RHQY686X">
+          <monogr>
+            <title level="m">Eduard Hanslick’s ‚On the Musically Beautiful‘: A New Translation</title>
+            <idno type="ISBN">978-0-19-069818-8</idno>
+            <respStmt>
+              <resp>translator</resp>
+              <persName>
+                <forename>Lee A.</forename>
+                <surname>Rothfarb</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>translator</resp>
+              <persName>
+                <forename>Christoph</forename>
+                <surname>Landerer</surname>
+              </persName>
+            </respStmt>
+            <author>
+              <forename>Eduard</forename>
+              <surname>Hanslick</surname>
+            </author>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>2018</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__F5V23E8C" corresp="http://zotero.org/groups/4938561/items/F5V23E8C">
+          <analytic>
+            <title level="a">Introduction to Hanslick’s Central Concepts</title>
+            <respStmt>
+              <resp>translator</resp>
+              <persName>
+                <forename>Lee A.</forename>
+                <surname>Rothfarb</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>translator</resp>
+              <persName>
+                <forename>Christoph</forename>
+                <surname>Landerer</surname>
+              </persName>
+            </respStmt>
+            <author>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </author>
+            <author>
+              <forename>Lee A.</forename>
+              <surname>Rothfarb</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Eduard Hanslick’s ‚On the Musically Beautiful‘: A New Translation</title>
+            <idno type="ISBN">978-0-19-069818-8</idno>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <biblScope unit="page">xxxi–lii</biblScope>
+              <publisher>Oxford University Press</publisher>
+              <date>2018</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__CYN6E8MH" corresp="http://zotero.org/groups/4938561/items/CYN6E8MH">
+          <analytic>
+            <title level="a">Eduard Hanslick’s ‚Vom Musikalisch-Schönen‘: Text, Contexts, and Their Developmental Dimensions; Towards a Dynamic View of Hanslick’s Aesthetics</title>
+            <author>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </author>
+            <author>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Musicologica Austriaca: Journal for Austrian Music Studies</title>
+            <imprint>
+              <date>2018</date>
+              <note type="url">http://www.musau.org/parts/neue-article-page/view/51</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__2EEUPQ94" corresp="http://zotero.org/groups/4938561/items/2EEUPQ94">
+          <analytic>
+            <title level="a">‚Autonomania‘ und ‚Ideology of Autonomy‘: Die Autonomie-Diskussion in der analytischen Musikästhetik und der New Musicology</title>
+            <author>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Von der Autonomie des Klangs zur Heteronomie der Musik: Musikwissenschaftliche Antworten auf Musikphilosophie</title>
+            <idno type="ISBN">978-3-476-04654-3</idno>
+            <editor>
+              <forename>Nikolaus</forename>
+              <surname>Urbanek</surname>
+            </editor>
+            <editor>
+              <forename>Melanie</forename>
+              <surname>Wald-Fuhrmann</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <biblScope unit="page">179–210</biblScope>
+              <publisher>Metzler</publisher>
+              <date>2018</date>
+              <note type="url">https://doi.org/10.1007/978-3-476-04654-3_11</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Abhandlungen zur Musikwissenschaft</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__QDZXNWNS" corresp="http://zotero.org/groups/4938561/items/QDZXNWNS">
+          <monogr>
+            <title level="m">Teilnahme am Roundtable</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Alexander</forename>
+                <surname>Wilfing</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Huddersfield</pubPlace>
+              <date>2018</date>
+              <note type="url">https://musikwissenschaft.univie.ac.at/ueber-uns/veranstaltungsarchiv/2018/detailansicht-archiv/news/23-juni-interdisziplinaerer-workshop/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=96c71a8616b4f59118025f4784aa09d8</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__Y3CNU475" corresp="http://zotero.org/groups/4938561/items/Y3CNU475">
+          <monogr>
+            <title level="m">Historicism, Modernity, and the ‚Musically Beautiful‘: Re-Reading Eduard Hanslick’s Aesthetics</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Alexander</forename>
+                <surname>Wilfing</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Huddersfield</pubPlace>
+              <date>2018</date>
+              <note type="url">https://research.hud.ac.uk/music/conferences/19thcenturymusic/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__PS94K2HC" corresp="http://zotero.org/groups/4938561/items/PS94K2HC">
+          <monogr>
+            <title level="m">Teilnahme am Panel ‚Leerstellen: Über methodische Problematiken der editorischen Praxis‘</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Alexander</forename>
+                <surname>Wilfing</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <date>2018</date>
+              <note type="url">https://www.oeaw.ac.at/detail/news/musik-quellen-denken/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__REHN2LS4" corresp="http://zotero.org/groups/4938561/items/REHN2LS4">
+          <analytic>
+            <title level="a">‚Absolute‘ Aesthetics in Context: The Sociopolitical Fundamentals of Eduard Hanslick’s Scholarly Activities; Towards a Cultural Turn in Hanslick Scholarship</title>
+            <author>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">International Review for the Aesthetics and Sociology of Music</title>
+            <imprint>
+              <biblScope unit="volume">50</biblScope>
+              <biblScope unit="issue">1–2</biblScope>
+              <biblScope unit="page">179–190</biblScope>
+              <date>2019</date>
+              <note type="url">https://www.jstor.org/stable/26844664</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__RQDGCREC" corresp="http://zotero.org/groups/4938561/items/RQDGCREC">
+          <monogr>
+            <title level="m">Re-Reading Hanslick’s Aesthetics: Die Rezeption Eduard Hanslicks im englischen Sprachraum und ihre diskursiven Grundlagen</title>
+            <idno type="ISBN">978-3-99012-525-0</idno>
+            <author>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <publisher>Hollitzer</publisher>
+              <date>2019</date>
+              <note type="url">https://e-book.fwf.ac.at/o:1277</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Wiener Veröffentlichungen zur Musikwissenschaft</title>
+            <biblScope unit="volume">49</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="encyclopediaArticle" xml:id="zotero__B7N2E5JS" corresp="http://zotero.org/groups/4938561/items/B7N2E5JS">
+          <analytic>
+            <title level="a">Eduard Hanslick</title>
+            <author>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </author>
+            <author>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Internet Encyclopedia of Philosophy</title>
+            <imprint>
+              <date>2019</date>
+              <note type="url">https://iep.utm.edu/hanslick/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__68KTIQRH" corresp="http://zotero.org/groups/4938561/items/68KTIQRH">
+          <monogr>
+            <title level="m">Präsentation der Monographie ‚Re-Reading Hanslick’s Aesthetics: Die Rezeption Eduard Hanslicks im englischen Sprachraum und ihre diskursiven Grundlagen‘</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Alexander</forename>
+                <surname>Wilfing</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <date>2019</date>
+              <note type="url">https://muwiserver.synology.me/Tag_der_offenen_Tuer/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__BNAH6Z8E" corresp="http://zotero.org/groups/4938561/items/BNAH6Z8E">
+          <monogr>
+            <title level="m">‚Schön‘, ‚das Schöne‘, ‚Schönheit‘: Hanslick’s Notion(s) of Beauty</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Christoph</forename>
+                <surname>Landerer</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <date>2019</date>
+              <note type="url">https://musicandphilosophy.ac.uk/events/mpsg-2019/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__JL87ZNSV" corresp="http://zotero.org/groups/4938561/items/JL87ZNSV">
+          <monogr>
+            <title level="m">How Do We Understand Hanslick?</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Lee A.</forename>
+                <surname>Rothfarb</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <date>2019</date>
+              <note type="url">https://musicandphilosophy.ac.uk/events/mpsg-2019/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__WKPZYZAF" corresp="http://zotero.org/groups/4938561/items/WKPZYZAF">
+          <monogr>
+            <title level="m">Eduard Hanslick and Formalist Musicology: Tone, Score, and Composition in Hanslick’s Aesthet­ics</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Alexander</forename>
+                <surname>Wilfing</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Manchester</pubPlace>
+              <date>2019</date>
+              <note type="url">https://www.rma.ac.uk/2019/11/16/conference-review-rma-annual-conference-2019/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__UTNDDL77" corresp="http://zotero.org/groups/4938561/items/UTNDDL77">
+          <monogr>
+            <title level="m">Aesthetics, Education, Liberalism: Eduard Hanslick’s ‚Vom Musikalisch-Schönen‘ and its Socio-Political Contexts</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Alexander</forename>
+                <surname>Wilfing</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Zagreb</pubPlace>
+              <date>2019</date>
+              <note type="url">https://hmd-music.org/14-medunarodni-i-interdisciplinarni-simpozij/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__LRHQS5LB" corresp="http://zotero.org/groups/4938561/items/LRHQS5LB">
+          <monogr>
+            <title level="m">Gurney Reading Hanslick?</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Alexander</forename>
+                <surname>Wilfing</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Boston</pubPlace>
+              <date>2019</date>
+              <note type="url">https://www.amsmusicology.org/general/custom.asp?page=boston</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__HBKC6VEB" corresp="http://zotero.org/groups/4938561/items/HBKC6VEB">
+          <monogr>
+            <title level="m">The Reception of Hanslick’s Concepts</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Alexander</forename>
+                <surname>Wilfing</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <date>2019</date>
+              <note type="url">https://musicandphilosophy.ac.uk/events/mpsg-2019/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__R4CXD5XV" corresp="http://zotero.org/groups/4938561/items/R4CXD5XV">
+          <analytic>
+            <title level="a">Hanslick and Leibniz</title>
+            <author>
+              <forename>Mark Evan</forename>
+              <surname>Bonds</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Hanslick im Kontext: Perspektiven auf die Ästhetik, Musikkritik und das historische Umfeld von Eduard Hanslick / Hanslick in Context: Perspectives on the Aesthetics, Musical Criticism, and Historical Setting of Eduard Hanslick</title>
+            <idno type="ISBN">978-3-99012-828-2</idno>
+            <editor>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </editor>
+            <editor>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </editor>
+            <editor>
+              <forename>Meike</forename>
+              <surname>Wilfing-Albrecht</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="page">21–30</biblScope>
+              <publisher>Hollitzer</publisher>
+              <date>2020</date>
+              <note type="url">https://doi.org/10.2307/j.ctv1cdx6qk.5</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__V5WYGN7Q" corresp="http://zotero.org/groups/4938561/items/V5WYGN7Q">
+          <analytic>
+            <title level="a">Re-Thinking Beauty in the Musically Beautiful</title>
+            <author>
+              <forename>Thomas S.</forename>
+              <surname>Grey</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Hanslick im Kontext: Perspektiven auf die Ästhetik, Musikkritik und das historische Umfeld von Eduard Hanslick / Hanslick in Context: Perspectives on the Aesthetics, Musical Criticism, and Historical Setting of Eduard Hanslick</title>
+            <idno type="ISBN">978-3-99012-828-2</idno>
+            <editor>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </editor>
+            <editor>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </editor>
+            <editor>
+              <forename>Meike</forename>
+              <surname>Wilfing-Albrecht</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="page">89–117</biblScope>
+              <publisher>Hollitzer</publisher>
+              <date>2020</date>
+              <note type="url">https://doi.org/10.2307/j.ctv1cdx6qk.9</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__4TTWTKYC" corresp="http://zotero.org/groups/4938561/items/4TTWTKYC">
+          <analytic>
+            <title level="a">‚Ueber Religionsverschiedenheit‘: The Role of Religious Difference in Hanslick‘s Music Criticism</title>
+            <author>
+              <forename>Nicole</forename>
+              <surname>Grimes</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Hanslick im Kontext: Perspektiven auf die Ästhetik, Musikkritik und das historische Umfeld von Eduard Hanslick / Hanslick in Context: Perspectives on the Aesthetics, Musical Criticism, and Historical Setting of Eduard Hanslick</title>
+            <idno type="ISBN">978-3-99012-828-2</idno>
+            <editor>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </editor>
+            <editor>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </editor>
+            <editor>
+              <forename>Meike</forename>
+              <surname>Wilfing-Albrecht</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="page">193–204</biblScope>
+              <publisher>Hollitzer</publisher>
+              <date>2020</date>
+              <note type="url">https://doi.org/10.2307/j.ctv1cdx6qk.14</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__N7K5ZEL7" corresp="http://zotero.org/groups/4938561/items/N7K5ZEL7">
+          <analytic>
+            <title level="a">Hanslick und die Jurisprudenz</title>
+            <author>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Hanslick im Kontext: Perspektiven auf die Ästhetik, Musikkritik und das historische Umfeld von Eduard Hanslick / Hanslick in Context: Perspectives on the Aesthetics, Musical Criticism, and Historical Setting of Eduard Hanslick</title>
+            <idno type="ISBN">978-3-99012-828-2</idno>
+            <editor>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </editor>
+            <editor>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </editor>
+            <editor>
+              <forename>Meike</forename>
+              <surname>Wilfing-Albrecht</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="page">31–45</biblScope>
+              <publisher>Hollitzer</publisher>
+              <date>2020</date>
+              <note type="url">https://doi.org/10.2307/j.ctv1cdx6qk.6</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__5EU8QEGA" corresp="http://zotero.org/groups/4938561/items/5EU8QEGA">
+          <analytic>
+            <title level="a">Hanslick‘s ‚Vom Musikalisch-Schönen‘ and the Notion of Performance Interpretation: Contexts and Consequences</title>
+            <author>
+              <forename>Manos</forename>
+              <surname>Perrakis</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Hanslick im Kontext: Perspektiven auf die Ästhetik, Musikkritik und das historische Umfeld von Eduard Hanslick / Hanslick in Context: Perspectives on the Aesthetics, Musical Criticism, and Historical Setting of Eduard Hanslick</title>
+            <idno type="ISBN">978-3-99012-828-2</idno>
+            <editor>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </editor>
+            <editor>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </editor>
+            <editor>
+              <forename>Meike</forename>
+              <surname>Wilfing-Albrecht</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="page">131–151</biblScope>
+              <publisher>Hollitzer</publisher>
+              <date>2020</date>
+              <note type="url">https://doi.org/10.2307/j.ctv1cdx6qk.11</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__7UQLV3W7" corresp="http://zotero.org/groups/4938561/items/7UQLV3W7">
+          <analytic>
+            <title level="a">Lively Arabesque: Between the Sublime and the Beautiful</title>
+            <author>
+              <forename>Manos</forename>
+              <surname>Perrakis</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Hanslick im Kontext: Perspektiven auf die Ästhetik, Musikkritik und das historische Umfeld von Eduard Hanslick / Hanslick in Context: Perspectives on the Aesthetics, Musical Criticism, and Historical Setting of Eduard Hanslick</title>
+            <idno type="ISBN">978-3-99012-828-2</idno>
+            <editor>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </editor>
+            <editor>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </editor>
+            <editor>
+              <forename>Meike</forename>
+              <surname>Wilfing-Albrecht</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="page">119–130</biblScope>
+              <publisher>Hollitzer</publisher>
+              <date>2020</date>
+              <note type="url">https://doi.org/10.2307/j.ctv1cdx6qk.10</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__FUHW8YYX" corresp="http://zotero.org/groups/4938561/items/FUHW8YYX">
+          <analytic>
+            <title level="a">Hörer-Statistik zu Hanslicks musikgeschichtlichen Vorlesungen an der Universität Wien</title>
+            <author>
+              <forename>Andrea</forename>
+              <surname>Singer</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Hanslick im Kontext: Perspektiven auf die Ästhetik, Musikkritik und das historische Umfeld von Eduard Hanslick / Hanslick in Context: Perspectives on the Aesthetics, Musical Criticism, and Historical Setting of Eduard Hanslick</title>
+            <idno type="ISBN">978-3-99012-828-2</idno>
+            <editor>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </editor>
+            <editor>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </editor>
+            <editor>
+              <forename>Meike</forename>
+              <surname>Wilfing-Albrecht</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="page">231–249</biblScope>
+              <publisher>Hollitzer</publisher>
+              <date>2020</date>
+              <note type="url">https://doi.org/10.2307/j.ctv1cdx6qk.16</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__NF8GMGAZ" corresp="http://zotero.org/groups/4938561/items/NF8GMGAZ">
+          <analytic>
+            <title level="a">Hanslick’s Discourse on Musical Aesthetics in the Context of Medicine and Psychiatry circa 1850</title>
+            <author>
+              <forename>Andrea</forename>
+              <surname>Korenjak</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Hanslick im Kontext: Perspektiven auf die Ästhetik, Musikkritik und das historische Umfeld von Eduard Hanslick / Hanslick in Context: Perspectives on the Aesthetics, Musical Criticism, and Historical Setting of Eduard Hanslick</title>
+            <idno type="ISBN">978-3-99012-828-2</idno>
+            <editor>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </editor>
+            <editor>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </editor>
+            <editor>
+              <forename>Meike</forename>
+              <surname>Wilfing-Albrecht</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="page">205–229</biblScope>
+              <publisher>Hollitzer</publisher>
+              <date>2020</date>
+              <note type="url">https://doi.org/10.2307/j.ctv1cdx6qk.15</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__ECCJUK4Q" corresp="http://zotero.org/groups/4938561/items/ECCJUK4Q">
+          <analytic>
+            <title level="a">(Un)formalistische Wahlverwandtschaften: Hanslick und Simmel</title>
+            <author>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Musik und Lebensphilosophie</title>
+            <idno type="ISBN">978-3-7024-7711-0</idno>
+            <editor>
+              <forename>Manos</forename>
+              <surname>Perrakis</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="page">45–62</biblScope>
+              <publisher>Universal Edition</publisher>
+              <date>2020</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Studien zur Wertungsforschung</title>
+            <biblScope unit="volume">64</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__HBYNH728" corresp="http://zotero.org/groups/4938561/items/HBYNH728">
+          <analytic>
+            <title level="a">Hanslick‘s ‚Hauptsatz‘: Brahms und Bruckner</title>
+            <author>
+              <forename>Lee A.</forename>
+              <surname>Rothfarb</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Hanslick im Kontext: Perspektiven auf die Ästhetik, Musikkritik und das historische Umfeld von Eduard Hanslick / Hanslick in Context: Perspectives on the Aesthetics, Musical Criticism, and Historical Setting of Eduard Hanslick</title>
+            <idno type="ISBN">978-3-99012-828-2</idno>
+            <editor>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </editor>
+            <editor>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </editor>
+            <editor>
+              <forename>Meike</forename>
+              <surname>Wilfing-Albrecht</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="page">153–172</biblScope>
+              <publisher>Hollitzer</publisher>
+              <date>2020</date>
+              <note type="url">https://doi.org/10.2307/j.ctv1cdx6qk.12</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__LQFMLWH4" corresp="http://zotero.org/groups/4938561/items/LQFMLWH4">
+          <analytic>
+            <title level="a">August Wilhelm Ambros’ Relektüre von ‚Vom Musikalisch-Schönen‘</title>
+            <author>
+              <forename>Markéta</forename>
+              <surname>Štědronská</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Hanslick im Kontext: Perspektiven auf die Ästhetik, Musikkritik und das historische Umfeld von Eduard Hanslick / Hanslick in Context: Perspectives on the Aesthetics, Musical Criticism, and Historical Setting of Eduard Hanslick</title>
+            <idno type="ISBN">978-3-99012-828-2</idno>
+            <editor>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </editor>
+            <editor>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </editor>
+            <editor>
+              <forename>Meike</forename>
+              <surname>Wilfing-Albrecht</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="page">47–59</biblScope>
+              <publisher>Hollitzer</publisher>
+              <date>2020</date>
+              <note type="url">https://doi.org/10.2307/j.ctv1cdx6qk.7</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__K3KX4ML9" corresp="http://zotero.org/groups/4938561/items/K3KX4ML9">
+          <analytic>
+            <title level="a">Rudolf von Eitelberger (1817–1885): Hanslick und die Anfänge der Kunstgeschichte in Wien</title>
+            <author>
+              <forename>Werner</forename>
+              <surname>Telesko</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Hanslick im Kontext: Perspektiven auf die Ästhetik, Musikkritik und das historische Umfeld von Eduard Hanslick / Hanslick in Context: Perspectives on the Aesthetics, Musical Criticism, and Historical Setting of Eduard Hanslick</title>
+            <idno type="ISBN">978-3-99012-828-2</idno>
+            <editor>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </editor>
+            <editor>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </editor>
+            <editor>
+              <forename>Meike</forename>
+              <surname>Wilfing-Albrecht</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="page">251–264</biblScope>
+              <publisher>Hollitzer</publisher>
+              <date>2020</date>
+              <note type="url">https://doi.org/10.2307/j.ctv1cdx6qk.17</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__WQKKAUXW" corresp="http://zotero.org/groups/4938561/items/WQKKAUXW">
+          <analytic>
+            <title level="a">Hanslick’s Kantianism? Johann Heinrich Dambeck, Christian Friedrich Michaelis, and Hans Georg Nägeli</title>
+            <author>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Hanslick im Kontext: Perspektiven auf die Ästhetik, Musikkritik und das historische Umfeld von Eduard Hanslick / Hanslick in Context: Perspectives on the Aesthetics, Musical Criticism, and Historical Setting of Eduard Hanslick</title>
+            <idno type="ISBN">978-3-99012-828-2</idno>
+            <editor>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </editor>
+            <editor>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </editor>
+            <editor>
+              <forename>Meike</forename>
+              <surname>Wilfing-Albrecht</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="page">61–86</biblScope>
+              <publisher>Hollitzer</publisher>
+              <date>2020</date>
+              <note type="url">https://doi.org/10.2307/j.ctv1cdx6qk.8</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__Y7ZE4XZN" corresp="http://zotero.org/groups/4938561/items/Y7ZE4XZN">
+          <analytic>
+            <title level="a">Production Archives 02: Production Contexts</title>
+          </analytic>
+          <monogr>
+            <title level="m">Special Collection, Open Library of Humanities</title>
+            <editor>
+              <forename>Sabine</forename>
+              <surname>Coelsch-Foinser</surname>
+            </editor>
+            <editor>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </editor>
+            <editor>
+              <forename>Meike</forename>
+              <surname>Wilfing-Albrecht</surname>
+            </editor>
+            <imprint>
+              <date>2021</date>
+              <note type="url">https://olh.openlibhums.org/collections/454/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__3KKGVTGC" corresp="http://zotero.org/groups/4938561/items/3KKGVTGC">
+          <analytic>
+            <title level="a">Aesthetics, Education, Liberalism: Eduard Hanslick’s ‚Vom Musikalisch-Schönen‘ (1854) and its Socio-Political Contexts</title>
+            <author>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Music, Arts, and Politics: Revolutions and Restorations in Europe and Croatia, 1815–1860; on the Occasion of the 200th Anniversary of Vatroslav Lisinski and 160th Anniversary of the Death of Ban Josip Jelačić</title>
+            <idno type="ISBN">978-953-347-439-7</idno>
+            <editor>
+              <forename>Stanislav</forename>
+              <surname>Tuksar</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Zagreb</pubPlace>
+              <biblScope unit="page">565–578</biblScope>
+              <publisher>Croatian Academy of Sciences and Arts / Croatian Musicological Society</publisher>
+              <date>2021</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Musicological Proceedings</title>
+            <biblScope unit="volume">23</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__E8FTZXUK" corresp="http://zotero.org/groups/4938561/items/E8FTZXUK">
+          <analytic>
+            <title level="a">Spezialästhetik, Grenzziehung, Methodologie: August Wilhelm Ambros und Eduard Hanslick im österreichischen Ästhetikdiskurs um 1850</title>
+            <author>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">August Wilhelm Ambros: Wege seiner Musikkritik, -ästhetik und -historiographie</title>
+            <idno type="ISBN">978-3-99012-877-0</idno>
+            <editor>
+              <forename>Markéta</forename>
+              <surname>Štědronská</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="page">37–60</biblScope>
+              <publisher>Hollitzer</publisher>
+              <date>2021</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Wiener Veröffentlichungen zur Musikwissenschaft</title>
+            <biblScope unit="volume">53</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__AS7MZIQW" corresp="http://zotero.org/groups/4938561/items/AS7MZIQW">
+          <analytic>
+            <title level="a">Der Direktor und sein Kritiker: Die wechselseitige Beeinflussung zwischen Künstler und Kritiker am Beispiel von Eduard Hanslick und Gustav Mahler</title>
+            <author>
+              <forename>Meike</forename>
+              <surname>Wilfing-Albrecht</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Musikinstrumente und Musizierpraxis zur Zeit Gustav Mahlers 2</title>
+            <idno type="ISBN">978-3-205-21118-1</idno>
+            <editor>
+              <forename>Hartmut</forename>
+              <surname>Krones</surname>
+            </editor>
+            <editor>
+              <forename>Reinhold</forename>
+              <surname>Kubik</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="page">367–384</biblScope>
+              <publisher>Böhlau</publisher>
+              <date>2021</date>
+              <note type="url">https://doi.org/10.7767/9783205211204.367</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Wiener Schriften zur Stilkunde und Aufführungspraxis</title>
+            <biblScope unit="volume">9</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__7Y3JDKDG" corresp="http://zotero.org/groups/4938561/items/7Y3JDKDG">
+          <monogr>
+            <title level="m">Präsentation von ‚Hanslick Online‘</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Alexander</forename>
+                <surname>Wilfing</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <date>2021</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__YJNF4XKP" corresp="http://zotero.org/groups/4938561/items/YJNF4XKP">
+          <analytic>
+            <title level="a">Rezension von: Matthias Schmidt, ‚Eingebildete Musik: Richard Wagner, das jüdische Wien und die Ästhetik der Moderne‘ (München: edition text + kritik, 2019)</title>
+            <author>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">wagnerspectrum</title>
+            <imprint>
+              <biblScope unit="volume">16</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">266–270</biblScope>
+              <date>2020</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__DHJXHP7G" corresp="http://zotero.org/groups/4938561/items/DHJXHP7G">
+          <monogr>
+            <title level="m">Hanslick im Kontext: Perspektiven auf die Ästhetik, Musikkritik und das historische Umfeld von Eduard Hanslick / Hanslick in Context: Perspectives on the Aesthetics, Musical Criticism, and Historical Setting of Eduard Hanslick</title>
+            <idno type="ISBN">978-3-99012-828-2</idno>
+            <editor>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </editor>
+            <editor>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </editor>
+            <editor>
+              <forename>Meike</forename>
+              <surname>Wilfing-Albrecht</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <publisher>Hollitzer</publisher>
+              <date>2020</date>
+              <note type="url">https://www.jstor.org/stable/j.ctv1cdx6qk</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__5S7LUV54" corresp="http://zotero.org/groups/4938561/items/5S7LUV54">
+          <analytic>
+            <title level="a">Hanslick on Non-Absolute Music</title>
+            <author>
+              <forename>Nick</forename>
+              <surname>Zangwill</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Hanslick im Kontext: Perspektiven auf die Ästhetik, Musikkritik und das historische Umfeld von Eduard Hanslick / Hanslick in Context: Perspectives on the Aesthetics, Musical Criticism, and Historical Setting of Eduard Hanslick</title>
+            <idno type="ISBN">978-3-99012-828-2</idno>
+            <editor>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </editor>
+            <editor>
+              <forename>Christoph</forename>
+              <surname>Landerer</surname>
+            </editor>
+            <editor>
+              <forename>Meike</forename>
+              <surname>Wilfing-Albrecht</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="page">173–190</biblScope>
+              <publisher>Hollitzer</publisher>
+              <date>2020</date>
+              <note type="url">https://doi.org/10.2307/j.ctv1cdx6qk.13</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__NVZXHBGL" corresp="http://zotero.org/groups/4938561/items/NVZXHBGL">
+          <monogr>
+            <title level="m">Hanslick’s Concept(s) of Beauty in Relation to History</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Alexander</forename>
+                <surname>Wilfing</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Dublin</pubPlace>
+              <date>2020</date>
+              <note type="url">https://www.ucd.ie/music/t4media/SMI%202020%20Timetable.pdf</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__E9IHKAWX" corresp="http://zotero.org/groups/4938561/items/E9IHKAWX">
+          <analytic>
+            <title level="a">Meaning and Value in Romantic Musical Aesthetics</title>
+            <author>
+              <forename>Alexander</forename>
+              <surname>Wilfing</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">The Cambridge Companion to Music and Romanticism</title>
+            <idno type="ISBN">978-1-108-47543-3</idno>
+            <editor>
+              <forename>Benedict</forename>
+              <surname>Taylor</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <biblScope unit="page">183–198</biblScope>
+              <publisher>Cambridge University Press</publisher>
+              <date>2021</date>
+              <note type="url">https://doi.org/10.1017/9781108647342.013</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Cambridge Companions to Music</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__F38WSRU9" corresp="http://zotero.org/groups/4938561/items/F38WSRU9">
+          <monogr>
+            <title level="m">How to Establish an Academic Discipline: The Multi-Ethnic Makeup of 19th-Century Austria, Habsburg Positivism, and the (Political) Creation of Musicology and Art History</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Alexander</forename>
+                <surname>Wilfing</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Surrey</pubPlace>
+              <date>2021</date>
+              <note type="url">https://iagmr.org/inaugural-conference-september-2021-copy/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__FFQI9GP8" corresp="http://zotero.org/groups/4938561/items/FFQI9GP8">
+          <monogr>
+            <title level="m">Reframing the Beginnings of Academic Musicology</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Alexander</forename>
+                <surname>Wilfing</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Bern</pubPlace>
+              <date>2021</date>
+              <note type="url">https://narratingmusicology.home.blog/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__5ZD6AGIJ" corresp="http://zotero.org/groups/4938561/items/5ZD6AGIJ">
+          <monogr>
+            <title level="m">Präsentation des Projekts ‚Creating an Academic Discipline‘ und der Projektidee ‚In Search of Identity: The Histories and Synergies of Musicology and Art History‘</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Alexander</forename>
+                <surname>Wilfing</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Frankfurt</pubPlace>
+              <date>2022</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__JWWQ3J5R" corresp="http://zotero.org/groups/4938561/items/JWWQ3J5R">
+          <monogr>
+            <title level="m">Präsentation der Projektidee ‚In Search of Identity: The Histories and Synergies of Musicology and Art History‘</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Alexander</forename>
+                <surname>Wilfing</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Surrey</pubPlace>
+              <date>2022</date>
+              <note type="url">https://iagmr.org/events/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__4ABUL9HL" corresp="http://zotero.org/groups/4938561/items/4ABUL9HL">
+          <monogr>
+            <title level="m">Präsentation der Projektidee ‚In Search of Identity: The Histories and Synergies of Musicology and Art History‘</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Alexander</forename>
+                <surname>Wilfing</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Brno</pubPlace>
+              <date>2022</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="zotero__A7CG5JCE" corresp="http://zotero.org/groups/4938561/items/A7CG5JCE">
+          <monogr>
+            <title level="m">Politik, Kultur, Philosophie: Frühe Weichenstellungen der Musikwissenschaft und ihre Folgen</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Alexander</forename>
+                <surname>Wilfing</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <date>2022</date>
+              <note type="url">https://www.musikundmedien.hu-berlin.de/de/musikwissenschaft/gfm2022</note>
             </imprint>
           </monogr>
         </biblStruct>

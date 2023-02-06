@@ -4,7 +4,7 @@ import lxml.etree as ET
 from tqdm import tqdm
 
 
-def get_listbibl(group_id="4938561", limit="50"):
+def get_listbibl(group_id="4938561", limit="500"):
     base_url = f"https://api.zotero.org/groups/{group_id}/items"
     params = [
         ("format", "tei"),
