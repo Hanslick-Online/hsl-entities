@@ -80,6 +80,10 @@ def geonames_to_location(br_table_id, user, field_name_input, field_name_update)
             geo_id = norm_id.split('/')[-2]
             try:
                 g = geocoder.geonames(geo_id, method='details', key=user)
+                print(f"geonames id {geo_id} found. Updating lat: {lat} and lng: {lng}")
+            except Exception as err:
+                print(f"no match for {norm_id} found.")
+            if g:
                 lat = g.lat
                 lng = g.lng
                 typ = g.class_description
@@ -97,9 +101,6 @@ def geonames_to_location(br_table_id, user, field_name_input, field_name_update)
                 if ctry_c:
                     update[field_name_update["country_code"]] = ctry_c
                 geo_u += 1
-                print(f"geonames id {geo_id} found. Updating lat: {lat} and lng: {lng}")
-            except Exception as err:
-                print(f"no match for {norm_id} found.")
         if update:
             update["updated"] = True
             row_id = x["id"]
