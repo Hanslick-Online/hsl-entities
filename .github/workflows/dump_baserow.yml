@@ -16,13 +16,12 @@ jobs:
     steps:
       - name: Perfom Checkout
         uses: actions/checkout@v3
-      - name: Install Python Packages
+      - name: isntall py dump denormalize data
         run: |
           pip install -r requirements.txt
-      - name: dump the data
-        run: |
           python dump_data.py
           python download_zotero.py
+          python denormalize.py
       - name: data dump to xml
         run: |
           python json2xml.py

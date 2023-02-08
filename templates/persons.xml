@@ -64,21 +64,16 @@
                      <forename>{{ x.name.split(', ')[1] }}</forename>
                      <surname>{{ x.name.split(', ')[0] }}</surname>
                   </persName>
-                  {% if x.alternative_schreibweise is string and x.alternative_schreibweise|length > 0  %}
-                  <persName type="alternative">
-                     {{ x.alternative_schreibweise }}
-                  </persName>
-                  {% endif %}
                   {% if x.gnd|length > 0 %}
                   <idno type="GND">{{ x.gnd }}</idno>
                   {% endif %}
                   {% if x.wikidata|length > 0 %}
                   <idno type="WIKIDATA">{{ x.wikidata }}</idno>
                   {% endif %}
-                  {% if x.werke_fiktive_person_und_schoepfer|length > 0 %}
+                  {% if x.Werke %}
                   <listBibl>
-                     {% for b in x.werke_fiktive_person_und_schoepfer|split(";") %}
-                     <bibl>{{ b.value }}</bibl>
+                     {% for b in x.Werke if b.data %}
+                     <bibl n="{{ b.data.hsl_id }}">{{ b.data.name }}</bibl>
                      {% endfor %}
                   </listBibl>
                   {% endif %}

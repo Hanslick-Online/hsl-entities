@@ -68,9 +68,6 @@
                   {% else %}
                   <placeName type="main">{{ x.ortsname }}</placeName>
                   {% endif %}
-                  {% if x.alternative_schreibweise is string and x.alternative_schreibweise|length > 0 %}
-                  <placeName type="alternative">{{ x.alternative_schreibweise }}</placeName>
-                  {% endif %}
                   {% if x.country %}
                   <country>{{ x.country_code }}, {{ x.country }}</country>
                   {% endif %}
