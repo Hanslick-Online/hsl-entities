@@ -60,11 +60,6 @@
          {% for x in objects %}
             <bibl xml:id="{{ x.hsl_id }}">
                <title type="main">{{ x.name }}</title>
-               {% if x.komponist_autor is string %}
-               <author ref="#">
-                  <persName>{{ x.komponist_autor }}</persName>
-               </author>
-               {% endif %}
                {% if x.schoepfer %}
                {% for s in x.schoepfer if s.data %}
                <author ref="#{{ s.data.hsl_id }}">
