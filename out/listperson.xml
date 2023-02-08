@@ -1583,9 +1583,6 @@
                      <forename>Franz</forename>
                      <surname>Liszt</surname>
                   </persName>
-                  <persName type="alternative">
-                     VMS: "Lißt"
-                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118573527</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q41309</idno>
                </person>
@@ -3418,7 +3415,7 @@
                      <surname>Richter</surname>
                   </persName>
                   <persName type="alternative">
-                     Pseudonym "Amadeus Autodidactos"; VMS: "Amadeus Autodidaktus"
+                     Pseudonym "Amadeus Autodidactos"
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/1089752962</idno>
                </person>
@@ -4266,9 +4263,6 @@
                      <forename>Johann</forename>
                      <surname>Stanitz</surname>
                   </persName>
-                  <persName type="alternative">
-                     VMS: "Stanitz"
-                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118752618</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q156033</idno>
                </person>
@@ -4668,9 +4662,6 @@
                      <forename>Giambattista</forename>
                      <surname>Della Porta</surname>
                   </persName>
-                  <persName type="alternative">
-                     VMS: "Baptista Porta"
-                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/119054647</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q334154</idno>
                </person>
@@ -4800,9 +4791,6 @@
                      <forename/>
                      <surname>Duke Orsino</surname>
                   </persName>
-                  <persName type="alternative">
-                     VMS: "verliebte Herzog"
-                  </persName>
                </person>
                <person xml:id="hsl_person_id_579">
                   <persName type="main">
@@ -4829,9 +4817,6 @@
                      <forename>Milesius</forename>
                      <surname>Timotheus</surname>
                   </persName>
-                  <persName type="alternative">
-                     VMS: "Timotheus"
-                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/11862279X</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q669691</idno>
                </person>
@@ -4840,9 +4825,6 @@
                      <forename/>
                      <surname>Antigenida</surname>
                   </persName>
-                  <persName type="alternative">
-                     VMS: "Antigenides"
-                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/11924814X</idno>
                </person>
                <person xml:id="hsl_person_id_584">
@@ -4850,17 +4832,11 @@
                      <forename/>
                      <surname>Erik I. Ejegod</surname>
                   </persName>
-                  <persName type="alternative">
-                     VMS: "Ericus bonus"
-                  </persName>
                </person>
                <person xml:id="hsl_person_id_585">
                   <persName type="main">
                      <forename>Albert</forename>
                      <surname>Krantz</surname>
-                  </persName>
-                  <persName type="alternative">
-                     VMS: "Albert Krantzius"
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118777939</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q70026</idno>
@@ -5531,9 +5507,6 @@
                      <forename>Karl Friedrich</forename>
                      <surname>Reinhard</surname>
                   </persName>
-                  <persName type="alternative">
-                     VMS: "Graf Reinhardt"
-                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118744224</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q73890</idno>
                </person>
@@ -6147,9 +6120,6 @@
                      <forename>Bartolomeo Ortensio</forename>
                      <surname>Mauro</surname>
                   </persName>
-                  <persName type="alternative">
-                     VMS: "Mauro Ortensio"
-                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/130325449</idno>
                </person>
                <person xml:id="hsl_person_id_785">
@@ -6176,9 +6146,6 @@
                   <persName type="main">
                      <forename>Großbritannien</forename>
                      <surname>Karoline</surname>
-                  </persName>
-                  <persName type="alternative">
-                     VMS: "Caroline v. Hanover"
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/11887036X</idno>
                </person>
@@ -6207,9 +6174,6 @@
                   <persName type="main">
                      <forename>Emil Heinrich</forename>
                      <surname>Du Bois-Reymond</surname>
-                  </persName>
-                  <persName type="alternative">
-                     VMS: "Dubois-Reymond"
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118527665</idno>
                </person>
@@ -6964,6 +6928,20 @@
                      Aischylos
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118500856</idno>
+               </person>
+               <person xml:id="hsl_person_id_903">
+                  <persName type="main">
+                     <forename>Jean Le Rond d’</forename>
+                     <surname>Alembert</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11850178X</idno>
+               </person>
+               <person xml:id="hsl_person_id_904">
+                  <persName type="main">
+                     <forename>Henry</forename>
+                     <surname>Purcell</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118742973</idno>
                </person>
             </listPerson>
          </div>
