@@ -11,10 +11,12 @@ BASEROW_TOKEN = os.environ.get("BASEROW_TOKEN")
 GEONAMES_USER = os.environ.get("GEONAMES_USER")
 
 MAPPING_PERSONS = {
-    "Werke": "Werke.json"
+    "werke_schoepfer": "Werke.json",
+    "werke_figur": "Werke.json"
 }
 MAPPING_WORKS = {
-    "schoepfer": "Personen.json"
+    "schoepfer": "Personen.json",
+    "figur": "Personen.json"
 }
 
 
