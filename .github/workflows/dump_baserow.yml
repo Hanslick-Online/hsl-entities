@@ -18,16 +18,16 @@ jobs:
         uses: actions/checkout@v3
       - name: isntall py dump denormalize data
         run: |
-          pip install -r requirements.txt
-          python dump_data.py
-          python download_zotero.py
-          python denormalize.py
+          pip install -U pip
+          pip install -r scripts/python/requirements.txt
+          python scripts/python/dump_data.py
+          python scripts/python/denormalize.py
       - name: data dump to xml
         run: |
-          python json2xml.py
+          python scripts/python/json2xml.py
       - name: create pmb beacon
         run: |
-          python pmb-beacon-generator.py
+          python scripts/python/pmb-beacon-generator.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
