@@ -70,9 +70,16 @@
                   {% if x.wikidata|length > 0 %}
                   <idno type="WIKIDATA">{{ x.wikidata }}</idno>
                   {% endif %}
-                  {% if x.Werke %}
-                  <listBibl>
-                     {% for b in x.Werke if b.data %}
+                  {% if x.werke_schoepfer %}
+                  <listBibl type="authorOf">
+                     {% for b in x.werke_schoepfer if b.data %}
+                     <bibl n="{{ b.data.hsl_id }}">{{ b.data.name }}</bibl>
+                     {% endfor %}
+                  </listBibl>
+                  {% endif %}
+                  {% if x.werke_figur %}
+                  <listBibl type="characterOf">
+                     {% for b in x.werke_figur if b.data %}
                      <bibl n="{{ b.data.hsl_id }}">{{ b.data.name }}</bibl>
                      {% endfor %}
                   </listBibl>
