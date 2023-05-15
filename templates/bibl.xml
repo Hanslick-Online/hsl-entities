@@ -60,7 +60,7 @@
          {% for x in objects %}
             <bibl xml:id="{{ x.hsl_id }}">
                <title type="main">{{ x.name }}</title>
-               <title type="alternative">{{ x.alternativen }}</title>
+               <title type="alternative">{{ x.Alternativtitel }}</title>
                {% if x.schoepfer %}
                {% for s in x.schoepfer if s.data %}
                <author ref="#{{ s.data.hsl_id }}">
