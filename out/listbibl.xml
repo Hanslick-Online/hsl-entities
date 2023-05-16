@@ -92,7 +92,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3">
-               <title type="main">Oktett in B-Dur, D803</title>
+               <title type="main">Oktett in F-Dur, D803</title>
+               <title type="alternative">Octett in B-Dur, op. 166</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -419,7 +420,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_51">
-               <title type="main">Symphonie Nr. 41 in C-Dur, KV 551</title>
+               <title type="main">Symphonie Nr. 41 in C-Dur, KV551</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
@@ -499,9 +500,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_62">
                <title type="main">Rákóczi-induló</title>
-               <author ref="#hsl_person_id_28">
-                  <persName>Berlioz, Hector</persName>
-               </author>
+               <title type="alternative">Rakoczymarsch</title>
             </bibl>
             <bibl xml:id="hsl_work_id_63">
                <title type="main">Symphonie Nr. 5 in c-Moll, op. 52</title>
@@ -982,9 +981,14 @@
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
                </author>
+               <author ref="#hsl_person_id_95">
+                  <persName>Gandonnière, Almire</persName>
+               </author>
+               <author ref="#hsl_person_id_192">
+                  <persName>Nerval, Gérard de</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_454">Brander</name>
                <name type="character" ref="#hsl_person_id_530">Faust</name>
-               <name type="character" ref="#hsl_person_id_543">Gnome</name>
                <name type="character" ref="#hsl_person_id_550">Marguerite</name>
                <name type="character" ref="#hsl_person_id_628">Méphistophélès</name>
             </bibl>
@@ -3690,7 +3694,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_581">
-               <title type="main">Konzert für Violine und Orchester in D-Dur, op. 61</title>
+               <title type="main">Violinkonzert in D-Dur, op. 61</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -4085,7 +4089,10 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_656">
-               <title type="main"/>
+               <title type="main">Suite für Orchester Nr. 1 in F-Dur, op. 70</title>
+               <author ref="#hsl_person_id_74">
+                  <persName>Esser, Heinrich</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_657">
                <title type="main"/>

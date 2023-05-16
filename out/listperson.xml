@@ -526,7 +526,7 @@
                      <bibl n="hsl_work_id_529">Die Ruinen von Athen, op. 113</bibl>
                      <bibl n="hsl_work_id_530">Symphonie Nr. 7 in a-Dur, op. 92</bibl>
                      <bibl n="hsl_work_id_532">Streichquartett Nr. 12 in Es-Dur, op. 127</bibl>
-                     <bibl n="hsl_work_id_581">Konzert für Violine und Orchester in D-Dur, op. 61</bibl>
+                     <bibl n="hsl_work_id_581">Violinkonzert in D-Dur, op. 61</bibl>
                      <bibl n="hsl_work_id_593">Sinfonie Nr. 7 in A-Dur, op. 92</bibl>
                      <bibl n="hsl_work_id_598">Septett in Es-Dur op. 20</bibl>
                      <bibl n="hsl_work_id_599">Adelaide</bibl>
@@ -562,7 +562,6 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1151</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_55">Roméo et Juliette</bibl>
-                     <bibl n="hsl_work_id_62">Rákóczi-induló</bibl>
                      <bibl n="hsl_work_id_65">Symphonie fantastique</bibl>
                      <bibl n="hsl_work_id_104">Les Troyens</bibl>
                      <bibl n="hsl_work_id_132">La damnation de Faust</bibl>
@@ -1020,6 +1019,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1597167</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_366">Des Sängers Fluch, op. 8</bibl>
+                     <bibl n="hsl_work_id_656">Suite für Orchester Nr. 1 in F-Dur, op. 70</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_75">
@@ -1167,8 +1167,12 @@
                <person xml:id="hsl_person_id_95">
                   <persName type="main">
                      <forename>Almire</forename>
-                     <surname>Gandonière</surname>
+                     <surname>Gandonnière</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/105283616X</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_132">La damnation de Faust</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_97">
                   <persName type="main">
@@ -2128,7 +2132,7 @@
                      <bibl n="hsl_work_id_4">Le nozze di Figaro</bibl>
                      <bibl n="hsl_work_id_146">Klavierkonzert Nr. 20 in d-Moll, KV466</bibl>
                      <bibl n="hsl_work_id_46">Streichquintett Nr. 4 in g-Moll, KV516</bibl>
-                     <bibl n="hsl_work_id_51">Symphonie Nr. 41 in C-Dur, KV 551</bibl>
+                     <bibl n="hsl_work_id_51">Symphonie Nr. 41 in C-Dur, KV551</bibl>
                      <bibl n="hsl_work_id_168">Io ti lascio, o cara, addio</bibl>
                      <bibl n="hsl_work_id_174">Il dissoluto punito ossia Il Don Giovanni</bibl>
                      <bibl n="hsl_work_id_282">F-Dur-Arie (Le Nozze di Figaro, 13.04.1865)</bibl>
@@ -2169,6 +2173,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118587013</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q191305</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_132">La damnation de Faust</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_193">
                   <persName type="main">
@@ -2929,7 +2936,7 @@
                   <idno type="GND">https://d-nb.info/gnd/103805850</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q322989</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_3">Oktett in B-Dur, D803</bibl>
+                     <bibl n="hsl_work_id_3">Oktett in F-Dur, D803</bibl>
                      <bibl n="hsl_work_id_16">Alfonso und Estrella</bibl>
                      <bibl n="hsl_work_id_18">Fierrabras</bibl>
                      <bibl n="hsl_work_id_19">Die Zauberharfe</bibl>
@@ -3400,7 +3407,6 @@
                      <forename>Joseph</forename>
                      <surname>Weidner</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/1131830644</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q26234773</idno>
                </person>
                <person xml:id="hsl_person_id_323">
@@ -4734,8 +4740,9 @@
                <person xml:id="hsl_person_id_463">
                   <persName type="main">
                      <forename/>
-                     <surname>Christus</surname>
+                     <surname>Jesus Christus</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118557513</idno>
                </person>
                <person xml:id="hsl_person_id_464" role="fictional">
                   <persName type="main">
@@ -5298,15 +5305,6 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_144">I Lombardi alla prima crociata</bibl>
-                  </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_543" role="fictional">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Gnome</surname>
-                  </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_132">La damnation de Faust</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_544" role="fictional">
@@ -9707,11 +9705,12 @@
                      <bibl n="hsl_work_id_665">Abschied</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1123" role="fictional">
+               <person xml:id="hsl_person_id_1123">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Nikolaus</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/12918814X</idno>
                </person>
                <person xml:id="hsl_person_id_1124" role="fictional">
                   <persName type="main">
