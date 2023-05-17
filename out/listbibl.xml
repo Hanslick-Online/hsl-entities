@@ -402,7 +402,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_48">
-               <title type="main">Streichquartett Nr. 13 „Rosamunde“ in a-Moll, D804</title>
+               <title type="main">Streichquartett Nr. 13 in a-Moll, D804</title>
+               <title type="alternative">Rosamunde</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -511,7 +512,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_64">
-               <title type="main">Präludien, op. 9</title>
+               <title type="main">16 Preludes, op. 9</title>
+               <title type="alternative">Präludien, op. 9</title>
                <author ref="#hsl_person_id_144">
                   <persName>Kirchner, Theodor</persName>
                </author>
@@ -611,6 +613,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_80">
                <title type="main">Nun der Lenz im Forste wieder</title>
+               <author ref="#hsl_person_id_213">
+                  <persName>Pfeffer, Karl</persName>
+               </author>
                <author ref="#hsl_person_id_714">
                   <persName>Geibel, Emanuel</persName>
                </author>
@@ -663,6 +668,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_87">
                <title type="main">Missa solemnis</title>
+               <title type="alternative">D-Messe</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -701,6 +707,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_93">
                <title type="main">König Nomans Zins</title>
+               <title type="alternative">Köng Nomann's Zins</title>
                <author ref="#hsl_person_id_714">
                   <persName>Geibel, Emanuel</persName>
                </author>
@@ -756,13 +763,16 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_101">
-               <title type="main">Lied des Mädchens</title>
+               <title type="main">Das Lied des Mädchens</title>
                <author ref="#hsl_person_id_213">
                   <persName>Pfeffer, Karl</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_102">
                <title type="main">Liebesbote</title>
+               <author ref="#hsl_person_id_188">
+                  <persName>Mosenthal, Salomon Hermann von</persName>
+               </author>
                <author ref="#hsl_person_id_213">
                   <persName>Pfeffer, Karl</persName>
                </author>
@@ -1083,7 +1093,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_151">
-               <title type="main">Klaviertrio No. 3 in B-Dur, op. 52</title>
+               <title type="main">Klaviertrio Nr. 3 in B-Dur, op. 52</title>
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
@@ -1302,7 +1312,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_182">
                <title type="main">Harold en Italie</title>
-               <title type="alternative">Harald in Italien</title>
+               <title type="alternative">Harald in Italien / Childe Harold</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
                </author>
@@ -1916,7 +1926,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_294">
-               <title type="main">Matthäus-Passion, BWV 244</title>
+               <title type="main">Matthäus-Passion</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -2526,7 +2536,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_372">
-               <title type="main">Präludium und Fuge in C-Dur, BWV 846</title>
+               <title type="main">Präludium und Fuge in C-Dur, BWV846</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -3863,7 +3873,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_610">
-               <title type="main">Kalvierquartett in Es-Dur, op. 47</title>
+               <title type="main">Klavierquartett in Es-Dur, op. 47</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
@@ -4113,7 +4123,10 @@
                <title type="main"/>
             </bibl>
             <bibl xml:id="hsl_work_id_662">
-               <title type="main"/>
+               <title type="main">Die junge Nonne</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_663">
                <title type="main">Mazurkas</title>
@@ -4131,6 +4144,13 @@
                <title type="main">Abschied</title>
                <author ref="#hsl_person_id_1122">
                   <persName>Loewe, Carl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_666">
+               <title type="main">Violinkonzert</title>
+               <title type="alternative">unklarer Bezug (BWV1041 oder BWV1042)</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
                </author>
             </bibl>
       </listBibl>
