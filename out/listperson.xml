@@ -866,6 +866,10 @@
                      <forename>Ema</forename>
                      <surname>Destinnová</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Emmy</forename>
+                     <surname>Destinn</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/119357437</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q271731</idno>
                </person>
@@ -1319,6 +1323,10 @@
                      <forename>Fromental</forename>
                      <surname>Halévy</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Halevy</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118832433</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q313917</idno>
                   <listBibl type="authorOf">
@@ -1708,7 +1716,7 @@
                      <surname>Krauss</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename>Gabriele</forename>
+                     <forename/>
                      <surname>Krauß</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116400986</idno>
@@ -1812,10 +1820,14 @@
                      <forename>Michail Jurʹevič</forename>
                      <surname>Lermontov</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Lermontoff</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/11857194X</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q46599</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_54">Rusalka, Die Meerjungfrau</bibl>
+                     <bibl n="hsl_work_id_54">Die Meerjungfrau</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_160">
@@ -1964,7 +1976,7 @@
                      <surname>Marckhl-Wiswe</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename>Elisabeth</forename>
+                     <forename/>
                      <surname>Markl-Wiswe</surname>
                   </persName>
                </person>
@@ -1974,7 +1986,7 @@
                      <surname>L'Hospital</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename>Nicolas</forename>
+                     <forename>duc de Vitry</forename>
                      <surname>L'Hospital</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/1011847108</idno>
@@ -2119,6 +2131,10 @@
                   <persName type="main">
                      <forename>Johann</forename>
                      <surname>Mayrhofer</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Meyrhofer / Meyerhofer</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/119045451</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q86566</idno>
@@ -2764,15 +2780,19 @@
                      <forename>Anton G.</forename>
                      <surname>Rubinštejn</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Rubinstein</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118926802</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q87567</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_151">Klaviertrio Nr. 3 in B-Dur, op. 52</bibl>
                      <bibl n="hsl_work_id_155">Klavierquartett in C-Dur, op. 66</bibl>
                      <bibl n="hsl_work_id_196">Feramors</bibl>
-                     <bibl n="hsl_work_id_216">Die Nixe (Rusalka)</bibl>
                      <bibl n="hsl_work_id_220">Die Kinder der Haide</bibl>
                      <bibl n="hsl_work_id_519">Die Nixe</bibl>
+                     <bibl n="hsl_work_id_659">Das verlorene Paradies</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_245">
@@ -3177,6 +3197,9 @@
                      <forename>Robert</forename>
                      <surname>Sprato</surname>
                   </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_519">Die Nixe</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_296">
                   <persName type="main">
@@ -5146,7 +5169,7 @@
                <person xml:id="hsl_person_id_519" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Dorego</surname>
+                     <surname>Graf Dorego</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_247">Concino Concini</bibl>
@@ -6063,7 +6086,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Margarethe von Miroix</surname>
+                     <surname>Margarethe</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_247">Concino Concini</bibl>
@@ -9754,6 +9777,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/11861794X</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q218960</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_660">A Sentimental Journey Through France and Italy</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1113" role="fictional">
                   <persName type="main">
@@ -9847,7 +9873,7 @@
                      <surname>Förchtgott</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename>Ernst</forename>
+                     <forename/>
                      <surname>Fürchtgott</surname>
                   </persName>
                </person>
@@ -9898,6 +9924,15 @@
                      <surname>Franz Joseph I.</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118535013</idno>
+               </person>
+               <person xml:id="hsl_person_id_1132" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Yorick</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_660">A Sentimental Journey Through France and Italy</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

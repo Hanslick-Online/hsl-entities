@@ -440,7 +440,8 @@
                <name type="character" ref="#hsl_person_id_655">Samson</name>
             </bibl>
             <bibl xml:id="hsl_work_id_54">
-               <title type="main">Rusalka, Die Meerjungfrau</title>
+               <title type="main">Die Meerjungfrau</title>
+               <title type="alternative">Die Nixe</title>
                <author ref="#hsl_person_id_159">
                   <persName>Lermontov, Michail Jurʹevič</persName>
                </author>
@@ -1578,12 +1579,6 @@
                   <persName>Balfe, Michael W.</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_216">
-               <title type="main">Die Nixe (Rusalka)</title>
-               <author ref="#hsl_person_id_244">
-                  <persName>Rubinštejn, Anton G.</persName>
-               </author>
-            </bibl>
             <bibl xml:id="hsl_work_id_217">
                <title type="main">Die Meistersinger von Nürnberg</title>
                <author ref="#hsl_person_id_319">
@@ -1780,7 +1775,7 @@
                   <persName>Löwe, Thomas</persName>
                </author>
                <name type="character" ref="#hsl_person_id_467">Concini</name>
-               <name type="character" ref="#hsl_person_id_519">Dorego</name>
+               <name type="character" ref="#hsl_person_id_519">Graf Dorego</name>
                <name type="character" ref="#hsl_person_id_545">Graf Harley</name>
                <name type="character" ref="#hsl_person_id_623">Maréchal de Vitry</name>
                <name type="character" ref="#hsl_person_id_624">Margaretha von Miroix</name>
@@ -3393,6 +3388,9 @@
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
+               <author ref="#hsl_person_id_295">
+                  <persName>Sprato, Robert</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_520">
                <title type="main">Israel in Egypt</title>
@@ -4136,10 +4134,17 @@
                <title type="main"/>
             </bibl>
             <bibl xml:id="hsl_work_id_659">
-               <title type="main"/>
+               <title type="main">Das verlorene Paradies</title>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_660">
-               <title type="main"/>
+               <title type="main">A Sentimental Journey Through France and Italy</title>
+               <author ref="#hsl_person_id_1112">
+                  <persName>Sterne, Laurence</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_1132">Yorick</name>
             </bibl>
             <bibl xml:id="hsl_work_id_661">
                <title type="main">Solovey</title>
