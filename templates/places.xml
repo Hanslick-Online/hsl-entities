@@ -72,7 +72,7 @@
                   <placeName type="main">{{ x.ortsname }}</placeName>
                   {% if x.Alternativname %}
                      <placeName type="alternative">{{ x.Alternativname }}</placeName>
-                     {% endif %}
+                  {% endif %}
                   {% endif %}
                   {% if x.country %}
                   <country>{{ x.country_code }}, {{ x.country }}</country>

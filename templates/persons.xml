@@ -64,6 +64,12 @@
                      <forename>{{ x.name.split(', ')[1] }}</forename>
                      <surname>{{ x.name.split(', ')[0] }}</surname>
                   </persName>
+                  {% if x.Alternativname %}
+                  <persName type="alternative">
+                     <forename>{{ x.Alternativname.split(', ')[1] }}</forename>
+                     <surname>{{ x.Alternativname.split(', ')[0] }}</surname>
+                  </persName>
+                  {% endif %}
                   {% if x.gnd|length > 0 %}
                   <idno type="GND">{{ x.gnd }}</idno>
                   {% endif %}
