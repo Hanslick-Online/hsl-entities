@@ -124,6 +124,10 @@
                      <forename>Henriette</forename>
                      <surname>Sontag</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Henriette</forename>
+                     <surname>Sonntag</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118797999</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q64098</idno>
                </person>
@@ -416,7 +420,9 @@
                      <bibl n="hsl_work_id_347">Das Wohltemperirte Clavier</bibl>
                      <bibl n="hsl_work_id_372">Präludium und Fuge in C-Dur, BWV846</bibl>
                      <bibl n="hsl_work_id_483">Weihnachtsoratorium</bibl>
+                     <bibl n="hsl_work_id_657">Suite</bibl>
                      <bibl n="hsl_work_id_666">Violinkonzert</bibl>
+                     <bibl n="hsl_work_id_671">Violinkonzert in  a-Moll, BWV1041</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_19">
@@ -529,10 +535,9 @@
                      <bibl n="hsl_work_id_471">Klaviersonate Nr. 26 in Es-Dur, op. 81a</bibl>
                      <bibl n="hsl_work_id_526">König Stephan, op. 117</bibl>
                      <bibl n="hsl_work_id_529">Die Ruinen von Athen, op. 113</bibl>
-                     <bibl n="hsl_work_id_530">Symphonie Nr. 7 in a-Dur, op. 92</bibl>
                      <bibl n="hsl_work_id_532">Streichquartett Nr. 12 in Es-Dur, op. 127</bibl>
                      <bibl n="hsl_work_id_581">Violinkonzert in D-Dur, op. 61</bibl>
-                     <bibl n="hsl_work_id_593">Sinfonie Nr. 7 in A-Dur, op. 92</bibl>
+                     <bibl n="hsl_work_id_593">Symphonie Nr. 7 in A-Dur, op. 92</bibl>
                      <bibl n="hsl_work_id_598">Septett in Es-Dur op. 20</bibl>
                      <bibl n="hsl_work_id_599">Adelaide</bibl>
                      <bibl n="hsl_work_id_667">Klaviertrio in B-Dur, op. 97</bibl>
@@ -711,6 +716,7 @@
                      <bibl n="hsl_work_id_622">6 Lieder und Romanzen, op. 93a</bibl>
                      <bibl n="hsl_work_id_623">Vier Quartette op. 92</bibl>
                      <bibl n="hsl_work_id_624">Zigeunerlieder, op. 103</bibl>
+                     <bibl n="hsl_work_id_673">Klavierkonzert Nr. 1 in d-Moll, op. 15</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_42">
@@ -762,7 +768,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_276">Streichquartett Nr. 1 in Es-Dur</bibl>
                      <bibl n="hsl_work_id_370">Médée</bibl>
-                     <bibl n="hsl_work_id_522">Sinfonie in D-Dur</bibl>
+                     <bibl n="hsl_work_id_522">Symphonie in D-Dur</bibl>
                      <bibl n="hsl_work_id_559">Les deux journées</bibl>
                   </listBibl>
                </person>
@@ -1419,6 +1425,7 @@
                      <bibl n="hsl_work_id_488">Il ritorno di Tobia, Hob.XXI:1</bibl>
                      <bibl n="hsl_work_id_510">Symphonie in D-Dur, Hob I:1</bibl>
                      <bibl n="hsl_work_id_591">Le Midi. In Nomine Domini. Giuseppe Haydn 761.</bibl>
+                     <bibl n="hsl_work_id_670">Symphonie in D-Dur, Hob. I:104</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_115">
@@ -1621,6 +1628,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/130187801</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55836539</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_168">Io ti lascio, o cara, addio</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_138">
                   <persName type="main">
@@ -1693,6 +1703,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116274352</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q78529</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_658">Chronologisch-thematisches Verzeichniss sämmtlicher Tonwerke Wolfgang Amade Mozart’s</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_146">
                   <persName type="main">
@@ -1876,7 +1889,7 @@
                   <idno type="GND">https://d-nb.info/gnd/118573527</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q41309</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_39">Tasso: lamento e trionfo</bibl>
+                     <bibl n="hsl_work_id_39">Tasso, Lamento e Trionfo</bibl>
                      <bibl n="hsl_work_id_66">Fantasie über ungarische Volksmelodien</bibl>
                      <bibl n="hsl_work_id_414">Eine Faust-Symphonie in drei Charakterbildern</bibl>
                      <bibl n="hsl_work_id_423">Licht! Mehr Licht!</bibl>
@@ -1966,6 +1979,10 @@
                   <persName type="main">
                      <forename>Gertrud Elisabeth</forename>
                      <surname>Mara</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Gertrud Elisabeth</forename>
+                     <surname>Schmeling</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118730770</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q64558</idno>
@@ -2061,7 +2078,6 @@
                   <idno type="GND">https://d-nb.info/gnd/118782843</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q364020</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_133">La chasse du jeune Henri</bibl>
                      <bibl n="hsl_work_id_164">La chasse du jeune Henri</bibl>
                      <bibl n="hsl_work_id_643">Joseph en Égypte</bibl>
                   </listBibl>
@@ -2177,6 +2193,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2214998</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_102">Liebesbote</bibl>
+                     <bibl n="hsl_work_id_218">Die lustigen Weiber von Windsor</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_189">
@@ -2913,6 +2930,7 @@
                      <forename>Carl</forename>
                      <surname>Schmid</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117499315</idno>
                </person>
                <person xml:id="hsl_person_id_342">
                   <persName type="main">
@@ -3018,7 +3036,7 @@
                      <bibl n="hsl_work_id_441">Haidenröslein</bibl>
                      <bibl n="hsl_work_id_443">Widerspruch</bibl>
                      <bibl n="hsl_work_id_444">An die Entfernte</bibl>
-                     <bibl n="hsl_work_id_537">Sinfonie in h-Moll, D 759, Die Unvollendete</bibl>
+                     <bibl n="hsl_work_id_537">Symphonie in h-Moll, D 759, Die Unvollendete</bibl>
                      <bibl n="hsl_work_id_538">Der Graf von Gleichen, D 918</bibl>
                      <bibl n="hsl_work_id_539">Morgengesang</bibl>
                      <bibl n="hsl_work_id_662">Die junge Nonne</bibl>
@@ -3057,7 +3075,7 @@
                      <bibl n="hsl_work_id_150">Klaviertrio Nr. 1 in d-Moll, op. 63</bibl>
                      <bibl n="hsl_work_id_157">Ouvertüre zu "Julius Caesar"</bibl>
                      <bibl n="hsl_work_id_191">Genoveva</bibl>
-                     <bibl n="hsl_work_id_203">Sinfonie Nr. 3 in Es-Dur, op. 97</bibl>
+                     <bibl n="hsl_work_id_203">Symphonie Nr. 3 in Es-Dur, op. 97</bibl>
                      <bibl n="hsl_work_id_233">Der Rose Pilgerfahrt</bibl>
                      <bibl n="hsl_work_id_235">Der Königssohn</bibl>
                      <bibl n="hsl_work_id_239">Das Paradies und die Peri</bibl>
@@ -3398,6 +3416,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_291">Symphonie Nr. 1 in d-Moll, op.44</bibl>
                      <bibl n="hsl_work_id_631">Ouvertüre zu "Richard III"</bibl>
+                     <bibl n="hsl_work_id_672">Symphonie Nr. 2 in B-Dur, op.53</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_318">
@@ -4193,6 +4212,10 @@
                      <forename/>
                      <surname>Gott</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Heiliger Vater</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/4021662-7</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q190</idno>
                </person>
@@ -4619,8 +4642,8 @@
                </person>
                <person xml:id="hsl_person_id_441" role="fictional">
                   <persName type="main">
-                     <forename>Anna</forename>
-                     <surname>Reich</surname>
+                     <forename/>
+                     <surname>Jungfer Anna Reich</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_218">Die lustigen Weiber von Windsor</bibl>
@@ -4807,6 +4830,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Cherubino</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Cherubim</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_4">Le nozze di Figaro</bibl>
@@ -5301,6 +5328,10 @@
                      <forename/>
                      <surname>Fidès</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Fides</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_113">Le prophète</bibl>
                   </listBibl>
@@ -5419,6 +5450,10 @@
                </person>
                <person xml:id="hsl_person_id_547" role="fictional">
                   <persName type="main">
+                     <forename/>
+                     <surname>Le comte d’Oberthal</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename/>
                      <surname>Graf Oberthal</surname>
                   </persName>
@@ -5793,6 +5828,10 @@
                </person>
                <person xml:id="hsl_person_id_590" role="fictional">
                   <persName type="main">
+                     <forename/>
+                     <surname>Herr Fluth</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename/>
                      <surname>Herr Bach</surname>
                   </persName>
@@ -6506,6 +6545,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Zerlina</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Zerline</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_174">Il dissoluto punito ossia Il Don Giovanni</bibl>
@@ -9029,9 +9072,8 @@
                   <idno type="GND">https://d-nb.info/gnd/118638157</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7315</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_577">Sinfonie Nr. 5 in e-Moll, op. 64</bibl>
-                     <bibl n="hsl_work_id_579">Sinfonie Nr. 6 in h-Moll, op. 74</bibl>
-                     <bibl n="hsl_work_id_580">Walzer aus der Sinfonie Nr. 5 in e-Moll, op. 64</bibl>
+                     <bibl n="hsl_work_id_577">Symphonie Nr. 5 in e-Moll, op. 64</bibl>
+                     <bibl n="hsl_work_id_579">Symphonie Nr. 6 in h-Moll, op. 74</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1015">
@@ -9047,10 +9089,14 @@
                      <forename>Franz</forename>
                      <surname>Schreker</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Franz</forename>
+                     <surname>Schrecker</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118610740</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q78528</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_583">Ekkehard, op. 12</bibl>
+                     <bibl n="hsl_work_id_583">Ekkehard</bibl>
                      <bibl n="hsl_work_id_584">Der 116. Psalm</bibl>
                      <bibl n="hsl_work_id_585">Intermezzo, op. 8</bibl>
                   </listBibl>
@@ -9194,7 +9240,7 @@
                   <idno type="GND">https://d-nb.info/gnd/116808268</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q66874</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_594">Sinfonie in Es-Dur</bibl>
+                     <bibl n="hsl_work_id_594">Symphonie in Es-Dur</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1034">
@@ -9225,7 +9271,7 @@
                   <idno type="GND">https://d-nb.info/gnd/118707469</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q673938</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_597">Sinfonie Nr. 2 in e-Moll, op. 115</bibl>
+                     <bibl n="hsl_work_id_597">Symphonie Nr. 2 in e-Moll, op. 115</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1037">
@@ -9932,6 +9978,15 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_660">A Sentimental Journey Through France and Italy</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1134" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Benjamin</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_643">Joseph en Égypte</bibl>
                   </listBibl>
                </person>
             </listPerson>

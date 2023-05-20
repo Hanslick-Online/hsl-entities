@@ -1548,6 +1548,7 @@
                <place xml:id="hsl_place_id_125">
                   <settlement type="P">
                      <placeName type="main">Rio de Janeiro</placeName>
+                     <placeName type="alternative">Rio-de-Janeiro</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>BR, Brazil</country>
@@ -1645,6 +1646,11 @@
                   <idno type="GEONAMES">https://sws.geonames.org/2830590/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q182470</idno>
                   <idno type="GND">https://d-nb.info/gnd/4056178-1</idno>
+               </place>
+               <place xml:id="hsl_place_id_136">
+                  <placeName type="main">Brasil</placeName>
+                     <placeName type="alternative">Brasilien</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3469034/</idno>
                </place>
             </listPlace>
          </div>

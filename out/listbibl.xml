@@ -347,7 +347,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_39">
-               <title type="main">Tasso: lamento e trionfo</title>
+               <title type="main">Tasso, Lamento e Trionfo</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -422,6 +422,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_51">
                <title type="main">Symphonie Nr. 41 in C-Dur, KV551</title>
+               <title type="alternative">Jupiter-Symphonie</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
@@ -558,6 +559,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_71">
                <title type="main">Ouvertüre zu einem Trauerspiel</title>
+               <title type="alternative">Trauerspiel-Ouvertüre</title>
                <author ref="#hsl_person_id_20">
                   <persName>Bargiel, Woldemar</persName>
                </author>
@@ -860,7 +862,7 @@
                   <persName>Meyerbeer, Giacomo</persName>
                </author>
                <name type="character" ref="#hsl_person_id_533">Fidès</name>
-               <name type="character" ref="#hsl_person_id_547">Graf Oberthal</name>
+               <name type="character" ref="#hsl_person_id_547">Le comte d’Oberthal</name>
                <name type="character" ref="#hsl_person_id_599">Jean de Leyde</name>
                <name type="character" ref="#hsl_person_id_600">Jonas</name>
             </bibl>
@@ -1008,12 +1010,6 @@
                <name type="character" ref="#hsl_person_id_530">Faust</name>
                <name type="character" ref="#hsl_person_id_550">Marguerite</name>
                <name type="character" ref="#hsl_person_id_628">Méphistophélès</name>
-            </bibl>
-            <bibl xml:id="hsl_work_id_133">
-               <title type="main">La chasse du jeune Henri</title>
-               <author ref="#hsl_person_id_179">
-                  <persName>Méhul, Étienne Nicolas</persName>
-               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_134">
                <title type="main">La Cenerentola, ossia La bontà in trionfo</title>
@@ -1180,6 +1176,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_164">
                <title type="main">La chasse du jeune Henri</title>
+               <title type="alternative">Jagd-Ouvertüre / Jagd-Symphonie</title>
                <author ref="#hsl_person_id_179">
                   <persName>Méhul, Étienne Nicolas</persName>
                </author>
@@ -1219,6 +1216,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_168">
                <title type="main">Io ti lascio, o cara, addio</title>
+               <author ref="#hsl_person_id_137">
+                  <persName>Jacquin, Gottfried von</persName>
+               </author>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
@@ -1484,7 +1484,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_203">
-               <title type="main">Sinfonie Nr. 3 in Es-Dur, op. 97</title>
+               <title type="main">Symphonie Nr. 3 in Es-Dur, op. 97</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
@@ -1587,13 +1587,16 @@
             </bibl>
             <bibl xml:id="hsl_work_id_218">
                <title type="main">Die lustigen Weiber von Windsor</title>
+               <author ref="#hsl_person_id_188">
+                  <persName>Mosenthal, Salomon Hermann von</persName>
+               </author>
                <author ref="#hsl_person_id_193">
                   <persName>Nicolai, Otto</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_441">Reich, Anna</name>
+               <name type="character" ref="#hsl_person_id_441">Jungfer Anna Reich</name>
                <name type="character" ref="#hsl_person_id_528">Falstaff</name>
                <name type="character" ref="#hsl_person_id_538">Frau Fluth</name>
-               <name type="character" ref="#hsl_person_id_590">Herr Bach</name>
+               <name type="character" ref="#hsl_person_id_590">Herr Fluth</name>
                <name type="character" ref="#hsl_person_id_604">Junker Spärlich</name>
             </bibl>
             <bibl xml:id="hsl_work_id_219">
@@ -3409,7 +3412,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_522">
-               <title type="main">Sinfonie in D-Dur</title>
+               <title type="main">Symphonie in D-Dur</title>
                <author ref="#hsl_person_id_47">
                   <persName>Cherubini, Luigi</persName>
                </author>
@@ -3446,12 +3449,6 @@
             </bibl>
             <bibl xml:id="hsl_work_id_529">
                <title type="main">Die Ruinen von Athen, op. 113</title>
-               <author ref="#hsl_person_id_25">
-                  <persName>Beethoven, Ludwig van</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_530">
-               <title type="main">Symphonie Nr. 7 in a-Dur, op. 92</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -3493,7 +3490,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_537">
-               <title type="main">Sinfonie in h-Moll, D 759, Die Unvollendete</title>
+               <title type="main">Symphonie in h-Moll, D 759, Die Unvollendete</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -3703,7 +3700,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_577">
-               <title type="main">Sinfonie Nr. 5 in e-Moll, op. 64</title>
+               <title type="main">Symphonie Nr. 5 in e-Moll, op. 64</title>
                <author ref="#hsl_person_id_1014">
                   <persName>Čajkovskij, Pëtr Ilʹič</persName>
                </author>
@@ -3715,13 +3712,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_579">
-               <title type="main">Sinfonie Nr. 6 in h-Moll, op. 74</title>
-               <author ref="#hsl_person_id_1014">
-                  <persName>Čajkovskij, Pëtr Ilʹič</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_580">
-               <title type="main">Walzer aus der Sinfonie Nr. 5 in e-Moll, op. 64</title>
+               <title type="main">Symphonie Nr. 6 in h-Moll, op. 74</title>
+               <title type="alternative">Pathetische / Pathétique</title>
                <author ref="#hsl_person_id_1014">
                   <persName>Čajkovskij, Pëtr Ilʹič</persName>
                </author>
@@ -3739,7 +3731,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_583">
-               <title type="main">Ekkehard, op. 12</title>
+               <title type="main">Ekkehard</title>
+               <title type="alternative">Ekkehart</title>
                <author ref="#hsl_person_id_1016">
                   <persName>Schreker, Franz</persName>
                </author>
@@ -3770,6 +3763,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_588">
                <title type="main">L'Avare ou l'École du mensonge</title>
+               <title type="alternative">Der Geizige</title>
                <author ref="#hsl_person_id_864">
                   <persName>Molière</persName>
                </author>
@@ -3799,13 +3793,13 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_593">
-               <title type="main">Sinfonie Nr. 7 in A-Dur, op. 92</title>
+               <title type="main">Symphonie Nr. 7 in A-Dur, op. 92</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_594">
-               <title type="main">Sinfonie in Es-Dur</title>
+               <title type="main">Symphonie in Es-Dur</title>
                <author ref="#hsl_person_id_1033">
                   <persName>Grädener, Hermann</persName>
                </author>
@@ -3820,7 +3814,7 @@
                <title type="main">Venus und Bellona</title>
             </bibl>
             <bibl xml:id="hsl_work_id_597">
-               <title type="main">Sinfonie Nr. 2 in e-Moll, op. 115</title>
+               <title type="main">Symphonie Nr. 2 in e-Moll, op. 115</title>
                <title type="alternative">Böcklin-Symphonie</title>
                <author ref="#hsl_person_id_1036">
                   <persName>Huber, Hans</persName>
@@ -4078,6 +4072,7 @@
                <author ref="#hsl_person_id_179">
                   <persName>Méhul, Étienne Nicolas</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1134">Benjamin</name>
             </bibl>
             <bibl xml:id="hsl_work_id_644">
                <title type="main">Le Petit Chaperon rouge</title>
@@ -4128,10 +4123,18 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_657">
-               <title type="main"/>
+               <title type="main">Suite</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_658">
-               <title type="main"/>
+               <title type="main">Chronologisch-thematisches Verzeichniss sämmtlicher Tonwerke Wolfgang Amade Mozart’s</title>
+               <title type="alternative">Köchel-Verzeichnis / Köchel-Katalog</title>
+               <author ref="#hsl_person_id_145">
+                  <persName>Köchel, Ludwig von</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_659">
                <title type="main">Das verlorene Paradies</title>
@@ -4195,6 +4198,34 @@
                <title type="alternative">unklarer Bezug (op. 11 oder op. 97)</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_669">
+               <title type="main">Allgemeine musikalische Zeitung</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_670">
+               <title type="main">Symphonie in D-Dur, Hob. I:104</title>
+               <title type="alternative">Salomon</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_671">
+               <title type="main">Violinkonzert in  a-Moll, BWV1041</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_672">
+               <title type="main">Symphonie Nr. 2 in B-Dur, op.53</title>
+               <author ref="#hsl_person_id_317">
+                  <persName>Volkmann, Robert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_673">
+               <title type="main">Klavierkonzert Nr. 1 in d-Moll, op. 15</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
                </author>
             </bibl>
       </listBibl>
