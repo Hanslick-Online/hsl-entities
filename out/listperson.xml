@@ -570,6 +570,10 @@
                      <forename>Hector</forename>
                      <surname>Berlioz</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Hektor</forename>
+                     <surname>Berlioz</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118509675</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1151</idno>
                   <listBibl type="authorOf">
@@ -589,7 +593,6 @@
                      <bibl n="hsl_work_id_569">Scène héroïque</bibl>
                      <bibl n="hsl_work_id_570">La Mort d'Orphée</bibl>
                      <bibl n="hsl_work_id_572">Grande Messe des morts</bibl>
-                     <bibl n="hsl_work_id_576">Ronde de Sabbat aus der Symphonie fantastique</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_29">
@@ -1893,7 +1896,7 @@
                      <bibl n="hsl_work_id_66">Fantasie über ungarische Volksmelodien</bibl>
                      <bibl n="hsl_work_id_414">Eine Faust-Symphonie in drei Charakterbildern</bibl>
                      <bibl n="hsl_work_id_423">Licht! Mehr Licht!</bibl>
-                     <bibl n="hsl_work_id_574">Symphonie Fantastique S.470</bibl>
+                     <bibl n="hsl_work_id_574">Symphonie fantastique, S.470</bibl>
                      <bibl n="hsl_work_id_575">Ouvertüre du Roi Lear de Hector Berlioz</bibl>
                   </listBibl>
                </person>
@@ -8965,6 +8968,10 @@
                      <forename>Frankreich</forename>
                      <surname>Heinrich IV.</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Henri IV.</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118548174</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q936976</idno>
                </person>
@@ -9045,6 +9052,10 @@
                   <persName type="main">
                      <forename>Marie</forename>
                      <surname>Berlioz</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Mariquita</forename>
+                     <surname>Rezio</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/1096361728</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q33422412</idno>
@@ -9988,6 +9999,13 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_643">Joseph en Égypte</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1135">
+                  <persName type="main">
+                     <forename>Louis des Balbes de Berton de</forename>
+                     <surname>Crillon</surname>
+                  </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q2624700</idno>
                </person>
             </listPerson>
          </div>
