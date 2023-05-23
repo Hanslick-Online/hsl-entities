@@ -72,6 +72,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4">
                <title type="main">Le nozze di Figaro</title>
+               <title type="alternative">Figaro's Hochzeit / Die Hochzeit des Figaro</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
@@ -80,8 +81,8 @@
                <name type="character" ref="#hsl_person_id_462">Cherubino</name>
                <name type="character" ref="#hsl_person_id_474">Don Curzio</name>
                <name type="character" ref="#hsl_person_id_534">Figaro</name>
-               <name type="character" ref="#hsl_person_id_544">Graf Almaviva</name>
-               <name type="character" ref="#hsl_person_id_546">Gräfin Almaviva</name>
+               <name type="character" ref="#hsl_person_id_544">Il Conte di Almaviva</name>
+               <name type="character" ref="#hsl_person_id_546">La Contessa di Almaviva</name>
                <name type="character" ref="#hsl_person_id_622">Marcellina</name>
                <name type="character" ref="#hsl_person_id_661">Susanna</name>
             </bibl>
@@ -357,11 +358,11 @@
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_522">Elisabeth von Thüringen</name>
-               <name type="character" ref="#hsl_person_id_588">Hermann Landgraf von Thüringen</name>
+               <name type="character" ref="#hsl_person_id_522">Elisabeth, Nichte des Landgrafen</name>
+               <name type="character" ref="#hsl_person_id_588">Hermann, Landgraf von Thüringen</name>
                <name type="character" ref="#hsl_person_id_663">Tannhäuser</name>
                <name type="character" ref="#hsl_person_id_667">Venus</name>
-               <name type="character" ref="#hsl_person_id_671">Wolfram von Eschenbach</name>
+               <name type="character" ref="#hsl_person_id_671">Wolfram von Eschinbach</name>
             </bibl>
             <bibl xml:id="hsl_work_id_41">
                <title type="main">Tancredi</title>
@@ -481,6 +482,7 @@
                <name type="character" ref="#hsl_person_id_453">Bertram</name>
                <name type="character" ref="#hsl_person_id_596">Isabelle</name>
                <name type="character" ref="#hsl_person_id_646">Raimbaud</name>
+               <name type="character" ref="#hsl_person_id_1138">Robert, duc de Normandie</name>
             </bibl>
             <bibl xml:id="hsl_work_id_59">
                <title type="main">Rigoletto</title>
@@ -1972,8 +1974,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_271">
-               <title type="main">Klaviersonate in a-Moll</title>
-               <title type="alternative">unklarer Bezug (D537, D784 oder D845)</title>
+               <title type="main">Klaviersonate in a-Moll, D537</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -3367,6 +3368,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_516">
                <title type="main">Die Schweizer Familie</title>
+               <title type="alternative">Die Schweizerfamilie</title>
                <author ref="#hsl_person_id_341">
                   <persName>Weigl, Joseph</persName>
                </author>
@@ -3811,7 +3813,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_597">
                <title type="main">Symphonie Nr. 2 in e-Moll, op. 115</title>
-               <title type="alternative">Böcklin-Symphonie</title>
+               <title type="alternative">Böcklin</title>
                <author ref="#hsl_person_id_1036">
                   <persName>Huber, Hans</persName>
                </author>
@@ -3836,6 +3838,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_601">
                <title type="main">Peet Gynt, Solvejgs sang</title>
+               <title type="alternative">Solveigslied</title>
                <author ref="#hsl_person_id_1042">
                   <persName>Grieg, Edvard</persName>
                </author>
@@ -3869,6 +3872,7 @@
                <author ref="#hsl_person_id_174">
                   <persName>Marschner, Heinrich</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1139">Lord Ruthwen</name>
             </bibl>
             <bibl xml:id="hsl_work_id_607">
                <title type="main">Ein Weihnachtsmysterium, op. 31</title>
@@ -4064,7 +4068,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_643">
-               <title type="main">Joseph en Égypte</title>
+               <title type="main">Joseph</title>
                <author ref="#hsl_person_id_179">
                   <persName>Méhul, Étienne Nicolas</persName>
                </author>
@@ -4072,18 +4076,21 @@
             </bibl>
             <bibl xml:id="hsl_work_id_644">
                <title type="main">Le Petit Chaperon rouge</title>
+               <title type="alternative">Rothkäppchen</title>
                <author ref="#hsl_person_id_36">
                   <persName>Boieldieu, François Adrien</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_645">
                <title type="main">Lalla-Roukh</title>
+               <title type="alternative">Lalla Rookh</title>
                <author ref="#hsl_person_id_969">
                   <persName>David, Félicien</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_646">
                <title type="main">Les dragons de Villars</title>
+               <title type="alternative">Das Glöckchen des Eremiten</title>
                <author ref="#hsl_person_id_1104">
                   <persName>Maillart, Louis Aimé</persName>
                </author>
@@ -4176,22 +4183,8 @@
                   <persName>Loewe, Carl</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_666">
-               <title type="main">Violinkonzert</title>
-               <title type="alternative">unklarer Bezug (BWV1041 oder BWV1042)</title>
-               <author ref="#hsl_person_id_18">
-                  <persName>Bach, Johann Sebastian</persName>
-               </author>
-            </bibl>
             <bibl xml:id="hsl_work_id_667">
                <title type="main">Klaviertrio in B-Dur, op. 97</title>
-               <author ref="#hsl_person_id_25">
-                  <persName>Beethoven, Ludwig van</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_668">
-               <title type="main">Klaviertrio in B-Dur</title>
-               <title type="alternative">unklarer Bezug (op. 11 oder op. 97)</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -4223,6 +4216,33 @@
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_674">
+               <title type="main">Tannhäuser. Zukunftsposse mit vergangener Musik und gegenwärtigen Gruppierungen</title>
+               <author ref="#hsl_person_id_5">
+                  <persName>Nestroy, Johann</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_675">
+               <title type="main">Violinkonzert in E-Dur, BWV1042</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_676">
+               <title type="main">Klaviersonate in a-Moll, D784</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_677">
+               <title type="main">Klaviersonate in a-Moll, D845</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_678">
+               <title type="main">Carvis</title>
             </bibl>
       </listBibl>
       </body>

@@ -94,6 +94,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118587080</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q44862</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_674">Tannhäuser. Zukunftsposse mit vergangener Musik und gegenwärtigen Gruppierungen</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_6">
                   <persName type="main">
@@ -421,8 +424,8 @@
                      <bibl n="hsl_work_id_372">Präludium und Fuge in C-Dur, BWV846</bibl>
                      <bibl n="hsl_work_id_483">Weihnachtsoratorium</bibl>
                      <bibl n="hsl_work_id_657">Suite</bibl>
-                     <bibl n="hsl_work_id_666">Violinkonzert</bibl>
                      <bibl n="hsl_work_id_671">Violinkonzert in  a-Moll, BWV1041</bibl>
+                     <bibl n="hsl_work_id_675">Violinkonzert in E-Dur, BWV1042</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_19">
@@ -541,7 +544,6 @@
                      <bibl n="hsl_work_id_598">Septett in Es-Dur op. 20</bibl>
                      <bibl n="hsl_work_id_599">Adelaide</bibl>
                      <bibl n="hsl_work_id_667">Klaviertrio in B-Dur, op. 97</bibl>
-                     <bibl n="hsl_work_id_668">Klaviertrio in B-Dur</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_26">
@@ -661,6 +663,10 @@
                   <persName type="main">
                      <forename>François Adrien</forename>
                      <surname>Boieldieu</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Boyeldieu / Boïeldieu</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118512978</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q109875</idno>
@@ -1499,6 +1505,10 @@
                      <forename>Ferdinand</forename>
                      <surname>Hérold</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Herold</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118774204</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q362639</idno>
                   <listBibl type="authorOf">
@@ -2078,11 +2088,15 @@
                      <forename>Étienne Nicolas</forename>
                      <surname>Méhul</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Mehul</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118782843</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q364020</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_164">La chasse du jeune Henri</bibl>
-                     <bibl n="hsl_work_id_643">Joseph en Égypte</bibl>
+                     <bibl n="hsl_work_id_643">Joseph</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_180">
@@ -3034,7 +3048,7 @@
                      <bibl n="hsl_work_id_234">Der Neugierige</bibl>
                      <bibl n="hsl_work_id_248">Fantasie für Klavier in C-Dur, D760</bibl>
                      <bibl n="hsl_work_id_264">An die Nachtigall</bibl>
-                     <bibl n="hsl_work_id_271">Klaviersonate in a-Moll</bibl>
+                     <bibl n="hsl_work_id_271">Klaviersonate in a-Moll, D537</bibl>
                      <bibl n="hsl_work_id_284">Marsch in h-Moll, op.27</bibl>
                      <bibl n="hsl_work_id_441">Haidenröslein</bibl>
                      <bibl n="hsl_work_id_443">Widerspruch</bibl>
@@ -3043,6 +3057,8 @@
                      <bibl n="hsl_work_id_538">Der Graf von Gleichen, D 918</bibl>
                      <bibl n="hsl_work_id_539">Morgengesang</bibl>
                      <bibl n="hsl_work_id_662">Die junge Nonne</bibl>
+                     <bibl n="hsl_work_id_676">Klaviersonate in a-Moll, D784</bibl>
+                     <bibl n="hsl_work_id_677">Klaviersonate in a-Moll, D845</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_280">
@@ -4939,6 +4955,10 @@
                      <forename/>
                      <surname>Don Curzio</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Richter</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_4">Le nozze di Figaro</bibl>
                   </listBibl>
@@ -5229,6 +5249,10 @@
                </person>
                <person xml:id="hsl_person_id_522" role="fictional">
                   <persName type="main">
+                     <forename>Nichte des Landgrafen</forename>
+                     <surname>Elisabeth</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename/>
                      <surname>Elisabeth von Thüringen</surname>
                   </persName>
@@ -5427,6 +5451,10 @@
                <person xml:id="hsl_person_id_544" role="fictional">
                   <persName type="main">
                      <forename/>
+                     <surname>Il Conte di Almaviva</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Graf Almaviva</surname>
                   </persName>
                   <listBibl type="characterOf">
@@ -5444,6 +5472,10 @@
                </person>
                <person xml:id="hsl_person_id_546" role="fictional">
                   <persName type="main">
+                     <forename/>
+                     <surname>La Contessa di Almaviva</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename/>
                      <surname>Gräfin Almaviva</surname>
                   </persName>
@@ -5813,8 +5845,8 @@
                </person>
                <person xml:id="hsl_person_id_588" role="fictional">
                   <persName type="main">
-                     <forename/>
-                     <surname>Hermann Landgraf von Thüringen</surname>
+                     <forename>Landgraf von Thüringen</forename>
+                     <surname>Hermann</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_40">Tannhäuser und der Sängerkrieg auf Wartburg</bibl>
@@ -6018,6 +6050,10 @@
                      <forename/>
                      <surname>Konrad</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Conrad</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_184">Hans Heiling</bibl>
                   </listBibl>
@@ -6107,6 +6143,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Marcellina</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Marzelline</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_4">Le nozze di Figaro</bibl>
@@ -6451,6 +6491,10 @@
                      <forename/>
                      <surname>Susanna</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Susanne</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_4">Le nozze di Figaro</bibl>
                   </listBibl>
@@ -6538,7 +6582,11 @@
                <person xml:id="hsl_person_id_671" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Wolfram von Eschenbach</surname>
+                     <surname>Wolfram von Eschinbach</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Eschenbach</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_40">Tannhäuser und der Sängerkrieg auf Wartburg</bibl>
@@ -9254,14 +9302,6 @@
                      <bibl n="hsl_work_id_594">Symphonie in Es-Dur</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1034">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Rosé-Quartett</surname>
-                  </persName>
-                  <idno type="GND">https://d-nb.info/gnd/10298369-0</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q686634</idno>
-               </person>
                <person xml:id="hsl_person_id_1035">
                   <persName type="main">
                      <forename>Richard</forename>
@@ -9305,6 +9345,10 @@
                   <persName type="main">
                      <forename>Friedrich von</forename>
                      <surname>Matthisson</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Matthison</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118731890</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q213993</idno>
@@ -9389,6 +9433,10 @@
                      <forename/>
                      <surname>Königin der Erdgeister</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Gnomenkönigin</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_184">Hans Heiling</bibl>
                   </listBibl>
@@ -9423,6 +9471,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Brian de Bois-Guilbert</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Templer</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_230">Der Templer und die Jüdin</bibl>
@@ -9997,7 +10049,7 @@
                      <surname>Benjamin</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_643">Joseph en Égypte</bibl>
+                     <bibl n="hsl_work_id_643">Joseph</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1135">
@@ -10006,6 +10058,40 @@
                      <surname>Crillon</surname>
                   </persName>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q2624700</idno>
+               </person>
+               <person xml:id="hsl_person_id_1136" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1137" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1138" role="fictional">
+                  <persName type="main">
+                     <forename>duc de Normandie</forename>
+                     <surname>Robert</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Robert der Teufel</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_58">Robert le diable</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1139" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Lord Ruthwen</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_606">Der Vampyr</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
