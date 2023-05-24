@@ -155,8 +155,6 @@
                      <forename>Julius</forename>
                      <surname>Campe</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/118518666</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1425007</idno>
                </person>
                <person xml:id="hsl_person_id_11">
                   <persName type="main">
@@ -1571,6 +1569,10 @@
                      <forename>Gustav</forename>
                      <surname>Hölzel</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Hölzl</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/116927755</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q15440981</idno>
                </person>
@@ -1821,6 +1823,10 @@
                <person xml:id="hsl_person_id_156">
                   <persName type="main">
                      <forename>Ernest</forename>
+                     <surname>Legouvé</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Ernst</forename>
                      <surname>Legouvé</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/119524872</idno>
@@ -2540,6 +2546,10 @@
                      <forename>Niccolò</forename>
                      <surname>Piccinni</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Picinni / Piccini</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/119314061</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q310687</idno>
                   <listBibl type="authorOf">
@@ -3247,6 +3257,7 @@
                      <forename>Joseph</forename>
                      <surname>Staudigl</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117223301</idno>
                </person>
                <person xml:id="hsl_person_id_297">
                   <persName type="main">
@@ -3414,6 +3425,10 @@
                   <persName type="main">
                      <forename>Publius</forename>
                      <surname>Vergilius Maro</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Virgil</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118626574</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1398</idno>
@@ -3809,11 +3824,10 @@
                </person>
                <person xml:id="hsl_person_id_370">
                   <persName type="main">
-                     <forename>Johann Joachim</forename>
-                     <surname>Winckelmann</surname>
+                     <forename>Hermann</forename>
+                     <surname>Winkelmann</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/118633600</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q57280</idno>
+                  <idno type="GND">https://d-nb.info/gnd/117414840</idno>
                </person>
                <person xml:id="hsl_person_id_372">
                   <persName type="main">
@@ -4758,6 +4772,10 @@
                      <forename/>
                      <surname>Benedick</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Benedict</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_83">Much Ado About Nothing</bibl>
                   </listBibl>
@@ -4980,6 +4998,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Don John</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Don Juan</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_83">Much Ado About Nothing</bibl>
@@ -5232,7 +5254,7 @@
                <person xml:id="hsl_person_id_520" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Dr. Cajus</surname>
+                     <surname>Dott. Cajus</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_200">Falstaff</bibl>
@@ -5322,6 +5344,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Bardolfo</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Bardolf</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_200">Falstaff</bibl>
@@ -5548,6 +5574,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Harold</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Harald</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_182">Harold en Italie</bibl>
@@ -6001,6 +6031,10 @@
                <person xml:id="hsl_person_id_603" role="fictional">
                   <persName type="main">
                      <forename/>
+                     <surname>Julia</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Julie</surname>
                   </persName>
                   <listBibl type="characterOf">
@@ -6267,6 +6301,10 @@
                      <forename/>
                      <surname>Nannetta</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Elfenkönigin</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_200">Falstaff</bibl>
                   </listBibl>
@@ -6339,6 +6377,10 @@
                      <forename/>
                      <surname>Pistola</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Pistol</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_200">Falstaff</bibl>
                   </listBibl>
@@ -6408,6 +6450,10 @@
                </person>
                <person xml:id="hsl_person_id_652" role="fictional">
                   <persName type="main">
+                     <forename/>
+                     <surname>Roméo</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename/>
                      <surname>Romeo</surname>
                   </persName>
@@ -9467,6 +9513,10 @@
                      <forename/>
                      <surname>Rebecca</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Rebekka</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_230">Der Templer und die Jüdin</bibl>
                   </listBibl>
@@ -9496,6 +9546,10 @@
                   <persName type="main">
                      <forename>Sophie</forename>
                      <surname>Sedlmaier</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Sedlmair</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/117469181</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94753929</idno>
