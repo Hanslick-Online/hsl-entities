@@ -277,6 +277,7 @@
                   <idno type="GND">https://d-nb.info/gnd/11864372X</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q189544</idno>
                   <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_175">Il birraio di Preston</bibl>
                      <bibl n="hsl_work_id_189">Giralda ou La Nouvelle Psyché</bibl>
                      <bibl n="hsl_work_id_587">Le Postillon de Lonjumeau</bibl>
                   </listBibl>
@@ -1152,6 +1153,7 @@
                      <bibl n="hsl_work_id_89">Martha  oder Der Markt zu Richmond</bibl>
                      <bibl n="hsl_work_id_169">Indra</bibl>
                      <bibl n="hsl_work_id_266">Alessandro Stradella</bibl>
+                     <bibl n="hsl_work_id_686">Die Matrosen</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_82">
@@ -2874,6 +2876,7 @@
                      <bibl n="hsl_work_id_534">Zelmira</bibl>
                      <bibl n="hsl_work_id_544">Tancredi</bibl>
                      <bibl n="hsl_work_id_683">Petite messe solennelle</bibl>
+                     <bibl n="hsl_work_id_687">Overtüre Guillaume Tell</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_242">
@@ -4806,7 +4809,7 @@
                      <surname>Arthur</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_511">King Arthur, or The British Worthy</bibl>
+                     <bibl n="hsl_work_id_686">Die Matrosen</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_445" role="fictional">
@@ -7449,7 +7452,6 @@
                   <idno type="GND">https://d-nb.info/gnd/132700107</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q570279</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_175">Il birraio di Preston</bibl>
                      <bibl n="hsl_work_id_457">Un'avventura di Scaramuccia</bibl>
                   </listBibl>
                </person>
@@ -8426,9 +8428,6 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118742973</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9695</idno>
-                  <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_511">King Arthur, or The British Worthy</bibl>
-                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_905">
                   <persName type="main">
@@ -10363,11 +10362,13 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/124142095</idno>
                </person>
-               <person xml:id="hsl_person_id_1145" role="fictional">
+               <person xml:id="hsl_person_id_1145">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Johann Josef Philipp</forename>
+                     <surname>Pachta von Rayhofen</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/102490735X</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q60819586</idno>
                </person>
                <person xml:id="hsl_person_id_1146">
                   <persName type="main">
@@ -10381,6 +10382,52 @@
                      <forename/>
                      <surname/>
                   </persName>
+               </person>
+               <person xml:id="hsl_person_id_1149" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1150">
+                  <persName type="main">
+                     <forename>Johann</forename>
+                     <surname>Strauss</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Strauß</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118619098</idno>
+               </person>
+               <person xml:id="hsl_person_id_1151">
+                  <persName type="main">
+                     <forename>Josef</forename>
+                     <surname>Strauss</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Strauß</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118809555</idno>
+               </person>
+               <person xml:id="hsl_person_id_1152">
+                  <persName type="main">
+                     <forename>Eduard</forename>
+                     <surname>Strauss</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Strauß</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118755838</idno>
+               </person>
+               <person xml:id="hsl_person_id_1153">
+                  <persName type="main">
+                     <forename>Charles</forename>
+                     <surname>Darvin</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118523813</idno>
                </person>
             </listPerson>
          </div>

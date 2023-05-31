@@ -1277,8 +1277,8 @@
             <bibl xml:id="hsl_work_id_175">
                <title type="main">Il birraio di Preston</title>
                <title type="alternative">Der Brauer von Preston</title>
-               <author ref="#hsl_person_id_773">
-                  <persName>Ricci, Luigi</persName>
+               <author ref="#hsl_person_id_12">
+                  <persName>Adam, Adolphe</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_176">
@@ -2879,6 +2879,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_429">
                <title type="main">Klaviersonate Nr. 8 in c-Moll, op. 13</title>
+               <title type="alternative">Sonate pathétique</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -3331,13 +3332,6 @@
                <author ref="#hsl_person_id_114">
                   <persName>Haydn, Joseph</persName>
                </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_511">
-               <title type="main">King Arthur, or The British Worthy</title>
-               <author ref="#hsl_person_id_904">
-                  <persName>Purcell, Henry</persName>
-               </author>
-               <name type="character" ref="#hsl_person_id_444">Arthur</name>
             </bibl>
             <bibl xml:id="hsl_work_id_512">
                <title type="main">Wilhelm Tell</title>
@@ -4275,7 +4269,18 @@
                <title type="main"/>
             </bibl>
             <bibl xml:id="hsl_work_id_686">
-               <title type="main"/>
+               <title type="main">Die Matrosen</title>
+               <author ref="#hsl_person_id_81">
+                  <persName>Flotow, Friedrich von</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_444">Arthur</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_687">
+               <title type="main">Overtüre Guillaume Tell</title>
+               <title type="alternative">Wilhelm-Tell-Ouverture, Tell-Sturm</title>
+               <author ref="#hsl_person_id_241">
+                  <persName>Rossini, Gioachino</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
