@@ -1169,8 +1169,12 @@
                </person>
                <person xml:id="hsl_person_id_83">
                   <persName type="main">
-                     <forename/>
+                     <forename>König von Preußen</forename>
                      <surname>Friedrich II.</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Friedrich der Große</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118535749</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q33550</idno>
@@ -2211,7 +2215,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q105237</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_8">Ein Feldlager in Schlesien</bibl>
-                     <bibl n="hsl_work_id_9">Festmarsch zu Schiller’s 100 jähriger Geburtstagsfeier</bibl>
+                     <bibl n="hsl_work_id_9">Festmarsch zu Schillers 100 jähriger Geburtstagsfeier</bibl>
                      <bibl n="hsl_work_id_10">Struensee</bibl>
                      <bibl n="hsl_work_id_12">Il crociato in Egitto</bibl>
                      <bibl n="hsl_work_id_58">Robert le diable</bibl>
@@ -6531,6 +6535,10 @@
                      <forename/>
                      <surname>Raimbaud</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Raimbaut</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_58">Robert le diable</bibl>
                   </listBibl>
@@ -6606,6 +6614,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Saldorf</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Seldorf</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_8">Ein Feldlager in Schlesien</bibl>
@@ -10379,15 +10391,21 @@
                </person>
                <person xml:id="hsl_person_id_1147" role="fictional">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Péters (Peter der Große von Russland)</forename>
+                     <surname>Michaeloff</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_139">L'étoile du nord</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1149" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Papageno</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_350">Die Zauberflöte</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1150">
                   <persName type="main">
