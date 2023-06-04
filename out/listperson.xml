@@ -431,6 +431,7 @@
                      <bibl n="hsl_work_id_657">Suite</bibl>
                      <bibl n="hsl_work_id_671">Violinkonzert in  a-Moll, BWV1041</bibl>
                      <bibl n="hsl_work_id_675">Violinkonzert in E-Dur, BWV1042</bibl>
+                     <bibl n="hsl_work_id_689">Präludium und Fuge in cis-Moll, BWV849</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_19">
@@ -489,6 +490,7 @@
                      <bibl n="hsl_work_id_442">Notturno (Sommernachtstraum)</bibl>
                      <bibl n="hsl_work_id_525">Die Primel, op.48 Nr. 2</bibl>
                      <bibl n="hsl_work_id_531">Violinkonzert in e-Moll, op. 64</bibl>
+                     <bibl n="hsl_work_id_690">Klaviertrio Nr. 1 in d-Moll, op. 49</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_22">
@@ -2316,6 +2318,7 @@
                      <bibl n="hsl_work_id_437">O Isis und Osiris (Zauberflöte)</bibl>
                      <bibl n="hsl_work_id_533">Il barbiere di Siviglia</bibl>
                      <bibl n="hsl_work_id_626">Serenade in B-Dur für zwölf Bläser und Kontrabass, KV361</bibl>
+                     <bibl n="hsl_work_id_691">Klavierquartett Nr. 1 in g-Moll, KV478</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_190">
@@ -3156,6 +3159,8 @@
                      <bibl n="hsl_work_id_662">Die junge Nonne</bibl>
                      <bibl n="hsl_work_id_676">Klaviersonate in a-Moll, D784</bibl>
                      <bibl n="hsl_work_id_677">Klaviersonate in a-Moll, D845</bibl>
+                     <bibl n="hsl_work_id_692">Symphonie Nr. 7 in h-Moll, D759</bibl>
+                     <bibl n="hsl_work_id_696">Bühnenmusik zu Rosamunde</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_280">
@@ -3211,6 +3216,7 @@
                      <bibl n="hsl_work_id_610">Klavierquartett in Es-Dur, op. 47</bibl>
                      <bibl n="hsl_work_id_642">Klavierkonzert in a-Moll, op. 54</bibl>
                      <bibl n="hsl_work_id_681">Der Gärtner, op. 107 Nr. 3</bibl>
+                     <bibl n="hsl_work_id_693">Novelletten, op. 28</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_283">
@@ -5150,6 +5156,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Leonore</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Fidelio</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_348">Fidelio</bibl>
@@ -10076,6 +10086,10 @@
                      <forename>Emilie</forename>
                      <surname>Neumann</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Emilie</forename>
+                     <surname>Lukas</surname>
+                  </persName>
                </person>
                <person xml:id="hsl_person_id_1108">
                   <persName type="main">
@@ -10471,6 +10485,118 @@
                      <surname>Wieck</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118767755</idno>
+               </person>
+               <person xml:id="hsl_person_id_1160">
+                  <persName type="main">
+                     <forename>Conrad</forename>
+                     <surname>Graf</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/13606244X</idno>
+               </person>
+               <person xml:id="hsl_person_id_1161">
+                  <persName type="main">
+                     <forename>Camilla</forename>
+                     <surname>Pleyel</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116245247</idno>
+               </person>
+               <person xml:id="hsl_person_id_1162" role="fictional">
+                  <persName type="main">
+                     <forename>Johann Baptist</forename>
+                     <surname>Cramer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119175606</idno>
+               </person>
+               <person xml:id="hsl_person_id_1163">
+                  <persName type="main">
+                     <forename>Auguste</forename>
+                     <surname>Franchomme</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11669386X</idno>
+               </person>
+               <person xml:id="hsl_person_id_1164">
+                  <persName type="main">
+                     <forename>George Alexander</forename>
+                     <surname>Osborne</surname>
+                  </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5543056</idno>
+               </person>
+               <person xml:id="hsl_person_id_1165">
+                  <persName type="main">
+                     <forename>Pierre Marie François de Sales</forename>
+                     <surname>Baillot</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116040505</idno>
+               </person>
+               <person xml:id="hsl_person_id_1166">
+                  <persName type="main">
+                     <forename>Ferdinando</forename>
+                     <surname>Paër</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/100001718</idno>
+               </person>
+               <person xml:id="hsl_person_id_1167">
+                  <persName type="main">
+                     <forename>Friedrich</forename>
+                     <surname>Kalkbrenner</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118559559</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_694">Klaviersextett in G-Dur, op. 58</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1168">
+                  <persName type="main">
+                     <forename>Alexander</forename>
+                     <surname>Batta</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11608166X</idno>
+               </person>
+               <person xml:id="hsl_person_id_1169">
+                  <persName type="main">
+                     <forename>Alexander</forename>
+                     <surname>Dreyschock</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116222743</idno>
+               </person>
+               <person xml:id="hsl_person_id_1170">
+                  <persName type="main">
+                     <forename>Franz Anton von</forename>
+                     <surname>Kolowrat-Liebsteinsky</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116330422</idno>
+               </person>
+               <person xml:id="hsl_person_id_1171">
+                  <persName type="main">
+                     <forename>Kaiser von Österreich</forename>
+                     <surname>Ferdinand I.</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118686747</idno>
+               </person>
+               <person xml:id="hsl_person_id_1172">
+                  <persName type="main">
+                     <forename>Johann</forename>
+                     <surname>Vesque von Püttlingen</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>J. Hoven</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117395684</idno>
+               </person>
+               <person xml:id="hsl_person_id_1173">
+                  <persName type="main">
+                     <forename>Joseph</forename>
+                     <surname>Fischhof</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116584645</idno>
+               </person>
+               <person xml:id="hsl_person_id_1174">
+                  <persName type="main">
+                     <forename>Ludwig August</forename>
+                     <surname>Frankl</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116718234</idno>
                </person>
             </listPerson>
          </div>
