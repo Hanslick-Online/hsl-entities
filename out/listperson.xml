@@ -177,12 +177,13 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_306">Gesang der heiligen drei Könige</bibl>
                      <bibl n="hsl_work_id_307">Die Flucht der heiligen Familie</bibl>
-                     <bibl n="hsl_work_id_308">Zehn Lieder op. 17</bibl>
-                     <bibl n="hsl_work_id_309">Zwölf schottische Volkslieder, WoO</bibl>
+                     <bibl n="hsl_work_id_308">10 Lieder, op. 17</bibl>
+                     <bibl n="hsl_work_id_309">12 schottische Volkslieder</bibl>
                      <bibl n="hsl_work_id_310">Frithjof</bibl>
                      <bibl n="hsl_work_id_582">Violinkonzert Nr. 1 in g-Moll, op. 26</bibl>
                      <bibl n="hsl_work_id_679">Violinkonzert Nr. 2 in d-Moll, op. 44</bibl>
                      <bibl n="hsl_work_id_680">Violinkonzert Nr. 3 in d-Moll, op. 58</bibl>
+                     <bibl n="hsl_work_id_701">Die Loreley</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_373">
@@ -190,8 +191,15 @@
                      <forename>Tegnér</forename>
                      <surname>Esaias</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Tegner</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/1038690323</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q6205468</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_702">Frithiofs saga</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_501">
                   <persName type="main">
@@ -317,6 +325,10 @@
                   <persName type="main">
                      <forename>Josef</forename>
                      <surname>Kupelwieser</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Kuppelwieser</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/134672275</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q89961</idno>
@@ -485,8 +497,8 @@
                      <bibl n="hsl_work_id_262">Antigone</bibl>
                      <bibl n="hsl_work_id_270">Symphonie Nr. 3 in a-Moll, op. 56</bibl>
                      <bibl n="hsl_work_id_357">Die Hebriden oder Die Fingalshöhle</bibl>
-                     <bibl n="hsl_work_id_367">Die Waldvögelein</bibl>
-                     <bibl n="hsl_work_id_368">Winterlied, op. 19</bibl>
+                     <bibl n="hsl_work_id_367">Die Waldvögelein, op. 88 Nr. 4</bibl>
+                     <bibl n="hsl_work_id_368">Winterlied, op. 19a Nr. 3</bibl>
                      <bibl n="hsl_work_id_442">Notturno (Sommernachtstraum)</bibl>
                      <bibl n="hsl_work_id_525">Die Primel, op.48 Nr. 2</bibl>
                      <bibl n="hsl_work_id_531">Violinkonzert in e-Moll, op. 64</bibl>
@@ -739,7 +751,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_578">Violinkonzert in D-Dur op. 77</bibl>
                      <bibl n="hsl_work_id_611">Nänie, op. 82</bibl>
-                     <bibl n="hsl_work_id_612">Elf Choralvorspiele, op. posth. 122</bibl>
+                     <bibl n="hsl_work_id_612">11 Choralvorspiele, op. posth. 122</bibl>
                      <bibl n="hsl_work_id_619">4 Gesänge, op. 17</bibl>
                      <bibl n="hsl_work_id_620">5 Lieder, op. 72</bibl>
                      <bibl n="hsl_work_id_621">12 Lieder und Romanzen, op. 44</bibl>
@@ -1774,7 +1786,7 @@
                   <idno type="GND">https://d-nb.info/gnd/119430606</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q67759</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_27">Zehn Klavierstücke op. 2</bibl>
+                     <bibl n="hsl_work_id_27">10 Klavierstücke op. 2</bibl>
                      <bibl n="hsl_work_id_64">16 Preludes, op. 9</bibl>
                      <bibl n="hsl_work_id_268">Albumblätter, op. 7</bibl>
                   </listBibl>
@@ -2731,7 +2743,7 @@
                </person>
                <person xml:id="hsl_person_id_256">
                   <persName type="main">
-                     <forename/>
+                     <forename>?</forename>
                      <surname>Ritter</surname>
                   </persName>
                </person>
@@ -3076,15 +3088,19 @@
                </person>
                <person xml:id="hsl_person_id_274">
                   <persName type="main">
-                     <forename>Eduard (Pseudonym Engelsberg)</forename>
+                     <forename>Eduard</forename>
                      <surname>Schön</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>E. S.</forename>
+                     <surname>Engelsberg</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/123911508</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q86310</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_210">Doctor Heine. Ein Rigorosum im Sommer. Lustspiel in drei Scenen</bibl>
                      <bibl n="hsl_work_id_286">Wandernder Dichter</bibl>
-                     <bibl n="hsl_work_id_316">Pagenlied</bibl>
+                     <bibl n="hsl_work_id_316">Lied der Pagen aus "Wie es euch gefällt"</bibl>
                      <bibl n="hsl_work_id_431">Ständchen</bibl>
                      <bibl n="hsl_work_id_432">Romankapitel</bibl>
                      <bibl n="hsl_work_id_434">Quadrille</bibl>
@@ -3138,7 +3154,7 @@
                      <bibl n="hsl_work_id_16">Alfonso und Estrella</bibl>
                      <bibl n="hsl_work_id_18">Fierrabras</bibl>
                      <bibl n="hsl_work_id_19">Die Zauberharfe</bibl>
-                     <bibl n="hsl_work_id_20">Große Sinfonie in C-Dur</bibl>
+                     <bibl n="hsl_work_id_20">Große Symphonie in C-Dur, D944</bibl>
                      <bibl n="hsl_work_id_25">12 Ländler, D790</bibl>
                      <bibl n="hsl_work_id_48">Streichquartett Nr. 13 in a-Moll, D804</bibl>
                      <bibl n="hsl_work_id_202">Klaviertrio in Es-Dur, D929</bibl>
@@ -3161,6 +3177,10 @@
                      <bibl n="hsl_work_id_677">Klaviersonate in a-Moll, D845</bibl>
                      <bibl n="hsl_work_id_692">Symphonie Nr. 7 in h-Moll, D759</bibl>
                      <bibl n="hsl_work_id_696">Bühnenmusik zu Rosamunde</bibl>
+                     <bibl n="hsl_work_id_697">Memnon</bibl>
+                     <bibl n="hsl_work_id_698">Gruppe aus dem Tartarus</bibl>
+                     <bibl n="hsl_work_id_699">Am Grabe Anselmos</bibl>
+                     <bibl n="hsl_work_id_700">Geheimes</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_280">
@@ -3191,8 +3211,8 @@
                   <idno type="GND">https://d-nb.info/gnd/118611666</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7351</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_14">Das Schifflein, op. 146 No. 5</bibl>
-                     <bibl n="hsl_work_id_15">Im Walde</bibl>
+                     <bibl n="hsl_work_id_14">Das Schifflein, op. 146 Nr. 5</bibl>
+                     <bibl n="hsl_work_id_15">Im Walde, op. 75 Nr. 2</bibl>
                      <bibl n="hsl_work_id_31">Vom Pagen und der Königstochter</bibl>
                      <bibl n="hsl_work_id_73">Ouvertüre zu "Die Braut von Messina"</bibl>
                      <bibl n="hsl_work_id_92">Manfred. Dramatisches Gedicht in drei Abteilungen</bibl>
@@ -3626,6 +3646,7 @@
                      <bibl n="hsl_work_id_201">Euryanthe</bibl>
                      <bibl n="hsl_work_id_236">Der Freischütz</bibl>
                      <bibl n="hsl_work_id_258">Aufforderung zum Tanz</bibl>
+                     <bibl n="hsl_work_id_314">Schlummerlied, op. 68 Nr. 4</bibl>
                      <bibl n="hsl_work_id_480">Klaviersonate in As-Dur, op. 39</bibl>
                      <bibl n="hsl_work_id_495">Preciosa</bibl>
                      <bibl n="hsl_work_id_505">Die drei Pintos</bibl>
@@ -3769,6 +3790,10 @@
                      <forename>Ekaterina Iosifovna</forename>
                      <surname>Friedberg</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Kathinka</forename>
+                     <surname>Friedberg</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/122841379</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94692249</idno>
                </person>
@@ -3839,6 +3864,10 @@
                </person>
                <person xml:id="hsl_person_id_353">
                   <persName type="main">
+                     <forename>Camillo</forename>
+                     <surname>Walzel</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename>F.</forename>
                      <surname>Zell</surname>
                   </persName>
@@ -3953,6 +3982,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118571508</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q84280</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_704">Sturmesmythe</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_376">
                   <persName type="main">
@@ -4187,7 +4219,6 @@
                   <idno type="GND">https://d-nb.info/gnd/118643231</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q215604</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_314">Schlummerlied</bibl>
                      <bibl n="hsl_work_id_336">Versuch einer geordneten Theorie der Tonsezkunst zum Selbstunterricht, mit Anmerkungen für Gelehrtere</bibl>
                   </listBibl>
                </person>
@@ -4206,6 +4237,10 @@
                   <persName type="main">
                      <forename>Heinrich Friedrich Wilhelm</forename>
                      <surname>Richter</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Amadeus Autodidactos</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/1089752962</idno>
                   <listBibl type="authorOf">
@@ -4370,10 +4405,14 @@
                      <forename>Michail Ivanovič</forename>
                      <surname>Glinka</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Michael von</forename>
+                     <surname>Glinka</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118695398</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q181885</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_363">Kamarinskaj</bibl>
+                     <bibl n="hsl_work_id_363">Kamarinskaja</bibl>
                      <bibl n="hsl_work_id_364">Schisn sa zarja</bibl>
                   </listBibl>
                </person>
@@ -4382,6 +4421,11 @@
                      <forename>Jan Křtitel</forename>
                      <surname>Pišek</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Pischek</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116191961</idno>
                </person>
                <person xml:id="hsl_person_id_419">
                   <persName type="main">
@@ -4933,6 +4977,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Calchas</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Kalchas</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_166">Iphigénie en Aulide</bibl>
@@ -5576,6 +5624,10 @@
                      <forename/>
                      <surname>Frithjof</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Frithjof</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_310">Frithjof</bibl>
                   </listBibl>
@@ -5723,12 +5775,6 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/119291002</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q159666</idno>
-               </person>
-               <person xml:id="hsl_person_id_554" role="fictional">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Helena</surname>
-                  </persName>
                </person>
                <person xml:id="hsl_person_id_555">
                   <persName type="main">
@@ -5996,6 +6042,10 @@
                <person xml:id="hsl_person_id_586" role="fictional">
                   <persName type="main">
                      <forename/>
+                     <surname>Hélène</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Helena</surname>
                   </persName>
                   <listBibl type="characterOf">
@@ -6206,6 +6256,10 @@
                <person xml:id="hsl_person_id_607" role="fictional">
                   <persName type="main">
                      <forename/>
+                     <surname>Calchas</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Kalchas</surname>
                   </persName>
                   <listBibl type="characterOf">
@@ -6378,7 +6432,11 @@
                <person xml:id="hsl_person_id_627" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Menelaos</surname>
+                     <surname>Ménélas</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Menelaus</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_280">La belle Hélène</bibl>
@@ -6506,6 +6564,10 @@
                </person>
                <person xml:id="hsl_person_id_641" role="fictional">
                   <persName type="main">
+                     <forename/>
+                     <surname>Pâris</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename/>
                      <surname>Paris</surname>
                   </persName>
@@ -10071,7 +10133,7 @@
                </person>
                <person xml:id="hsl_person_id_1105">
                   <persName type="main">
-                     <forename/>
+                     <forename>Marie</forename>
                      <surname>Klang</surname>
                   </persName>
                </person>
@@ -10087,7 +10149,7 @@
                      <surname>Neumann</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename>Emilie</forename>
+                     <forename>Emilie / Lucas</forename>
                      <surname>Lukas</surname>
                   </persName>
                </person>
@@ -10597,6 +10659,27 @@
                      <surname>Frankl</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116718234</idno>
+               </person>
+               <person xml:id="hsl_person_id_1175" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Franz</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_22">Pâquerette</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1176" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1177" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
                </person>
             </listPerson>
          </div>
