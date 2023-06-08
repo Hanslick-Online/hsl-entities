@@ -3468,6 +3468,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/12989432X</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q57239</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_703">Leben und Tod der heiligen Genoveva</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_307">
                   <persName type="main">
@@ -10912,6 +10915,19 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116113669</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1947966</idno>
+               </person>
+               <person xml:id="hsl_person_id_1208" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Bonifatius</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Bonifacius</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_703">Leben und Tod der heiligen Genoveva</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
