@@ -679,7 +679,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_87">
-               <title type="main">Missa solemnis</title>
+               <title type="main">Missa Solemnis</title>
                <title type="alternative">D-Messe</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -1384,6 +1384,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_190">
                <title type="main">Giovanna d’Arco</title>
+               <title type="alternative">Johanna d’Arc</title>
                <author ref="#hsl_person_id_312">
                   <persName>Verdi, Giuseppe</persName>
                </author>
@@ -1444,6 +1445,8 @@
                   <persName>Spohr, Louis</persName>
                </author>
                <name type="character" ref="#hsl_person_id_594">Graf Hugo</name>
+               <name type="character" ref="#hsl_person_id_1227">Faust</name>
+               <name type="character" ref="#hsl_person_id_1228">Mephistofeles</name>
             </bibl>
             <bibl xml:id="hsl_work_id_199">
                <title type="main">Faust</title>
@@ -3692,6 +3695,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_572">
                <title type="main">Grande Messe des morts</title>
+               <title type="alternative">Requiem</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
                </author>
@@ -3894,10 +3898,14 @@
             </bibl>
             <bibl xml:id="hsl_work_id_607">
                <title type="main">Ein Weihnachtsmysterium, op. 31</title>
-               <title type="alternative">Weihnachtsoratorium</title>
+               <title type="alternative">Weihnachts-Mysterium / Weihnachtsoratorium</title>
                <author ref="#hsl_person_id_1060">
                   <persName>Wolfrum, Philipp</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1214">Der Engel Gabriel</name>
+               <name type="character" ref="#hsl_person_id_1215">Maria</name>
+               <name type="character" ref="#hsl_person_id_1216">Joseph</name>
+               <name type="character" ref="#hsl_person_id_1217">Der Evangelist und Erzähler</name>
             </bibl>
             <bibl xml:id="hsl_work_id_609">
                <title type="main">Szenen aus Goethes Faust</title>
@@ -4491,6 +4499,178 @@
                <author ref="#hsl_person_id_99">
                   <persName>Gluck, Christoph Willibald</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_721">
+               <title type="main">Messa da Requiem</title>
+               <author ref="#hsl_person_id_312">
+                  <persName>Verdi, Giuseppe</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_722">
+               <title type="main">Missa Solemnis</title>
+               <title type="alternative">Festmesse</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_723">
+               <title type="main">Messe in h-Moll, BWV232</title>
+               <title type="alternative">Hohe Messe</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_724">
+               <title type="main">Messe Nr. 5 in As-Dur, D678</title>
+               <title type="alternative">As-Dur-Messe</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_725">
+               <title type="main">Große Messe in c-Moll, KV427</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_726">
+               <title type="main">L'Enfance du Christ</title>
+               <title type="alternative">Enfance de Jésus Christ</title>
+               <author ref="#hsl_person_id_28">
+                  <persName>Berlioz, Hector</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_727">
+               <title type="main">Geistliches Wiegenlied, op. 91 Nr. 2</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_728">
+               <title type="main">Pikowaja dama</title>
+               <title type="alternative">Pique-Dame</title>
+               <author ref="#hsl_person_id_1014">
+                  <persName>Čajkovskij, Pëtr Ilʹič</persName>
+               </author>
+               <author ref="#hsl_person_id_1236">
+                  <persName>Čajkovskij, Modest I.</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_1229">Hermann</name>
+               <name type="character" ref="#hsl_person_id_1230">Gräfin</name>
+               <name type="character" ref="#hsl_person_id_1231">Lisa</name>
+               <name type="character" ref="#hsl_person_id_1235">Fürst Jelezki</name>
+               <name type="character" ref="#hsl_person_id_1237">Graf Tomski</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_729">
+               <title type="main">Jewgeni Onegin</title>
+               <title type="alternative">Eugen Onegin</title>
+               <name type="character" ref="#hsl_person_id_1014">Čajkovskij, Pëtr Ilʹič</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_730">
+               <title type="main">Iolanta</title>
+               <title type="alternative">Jolanthe</title>
+               <name type="character" ref="#hsl_person_id_1014">Čajkovskij, Pëtr Ilʹič</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_731">
+               <title type="main">Kuznets Vakula</title>
+               <title type="alternative">Wakula der Schmied</title>
+               <author ref="#hsl_person_id_1014">
+                  <persName>Čajkovskij, Pëtr Ilʹič</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_732">
+               <title type="main">Opritschnik</title>
+               <name type="character" ref="#hsl_person_id_1014">Čajkovskij, Pëtr Ilʹič</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_733">
+               <title type="main">Ruslan i Lyudmila</title>
+               <title type="alternative">Ruslan und Ludmilla</title>
+               <name type="character" ref="#hsl_person_id_1220">Puškin, Aleksandr Sergeevič</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_734">
+               <title type="main">Rusalka</title>
+               <title type="alternative">Russalka</title>
+               <author ref="#hsl_person_id_1225">
+                  <persName>Dargomyžskij, Aleksandr S.</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_735">
+               <title type="main">Kamenny gost</title>
+               <title type="alternative">Don Juan</title>
+               <author ref="#hsl_person_id_1225">
+                  <persName>Dargomyžskij, Aleksandr S.</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_736">
+               <title type="main">Boris Godunov</title>
+               <title type="alternative">Boris Gudonow</title>
+               <author ref="#hsl_person_id_1220">
+                  <persName>Puškin, Aleksandr Sergeevič</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_737">
+               <title type="main">Demon</title>
+               <title type="alternative">Der Dämon</title>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_738">
+               <title type="main">Die Räuber</title>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_739">
+               <title type="main">Kabale und Liebe</title>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_740">
+               <title type="main">Maria Stuart</title>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_741">
+               <title type="main">Die Jungfrau von Orleans</title>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_742">
+               <title type="main">Wallenstein</title>
+               <name type="character" ref="#hsl_person_id_248">Schiller, Friedrich</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_743">
+               <title type="main">Egmont</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_744">
+               <title type="main">Nathan der Weise</title>
+               <author ref="#hsl_person_id_697">
+                  <persName>Lessing, Gotthold Ephraim</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_745">
+               <title type="main">Luisa Miller</title>
+               <title type="alternative">Luise Miller</title>
+               <author ref="#hsl_person_id_312">
+                  <persName>Verdi, Giuseppe</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_746">
+               <title type="main">Pikowaja dama</title>
+               <title type="alternative">Pique-Dame</title>
+               <author ref="#hsl_person_id_1220">
+                  <persName>Puškin, Aleksandr Sergeevič</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_1232">Gräfin</name>
+               <name type="character" ref="#hsl_person_id_1233">Hermann</name>
+               <name type="character" ref="#hsl_person_id_1234">Lisa</name>
             </bibl>
       </listBibl>
       </body>
