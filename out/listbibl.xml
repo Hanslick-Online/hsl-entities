@@ -87,7 +87,8 @@
                <name type="character" ref="#hsl_person_id_661">Susanna</name>
             </bibl>
             <bibl xml:id="hsl_work_id_148">
-               <title type="main">Oberto, Conte di San Benficacio</title>
+               <title type="main">Oberto, Conte di San Bonifacio</title>
+               <title type="alternative">Oberto, Conte di S. Bonifacio</title>
                <author ref="#hsl_person_id_312">
                   <persName>Verdi, Giuseppe</persName>
                </author>
@@ -139,7 +140,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_147">
-               <title type="main">Der Sammler. Ein Blatt zur Unterhaltung und Belehrung</title>
+               <title type="main">Der Sammler. Ein Unterhaltungsblatt</title>
             </bibl>
             <bibl xml:id="hsl_work_id_11">
                <title type="main">Die Grille</title>
@@ -168,14 +169,19 @@
             </bibl>
             <bibl xml:id="hsl_work_id_144">
                <title type="main">I Lombardi alla prima crociata</title>
+               <author ref="#hsl_person_id_335">
+                  <persName>Solera, Temistocle</persName>
+               </author>
                <author ref="#hsl_person_id_312">
                   <persName>Verdi, Giuseppe</persName>
                </author>
                <name type="character" ref="#hsl_person_id_445">Arvino</name>
                <name type="character" ref="#hsl_person_id_542">Giselda</name>
                <name type="character" ref="#hsl_person_id_638">Pagano</name>
-               <name type="character" ref="#hsl_person_id_644">Prinz Oronte</name>
-               <name type="character" ref="#hsl_person_id_660">Sultan</name>
+               <name type="character" ref="#hsl_person_id_644">Oronte</name>
+               <name type="character" ref="#hsl_person_id_660">Acciano</name>
+               <name type="character" ref="#hsl_person_id_1247">Viclinda</name>
+               <name type="character" ref="#hsl_person_id_1249">Sofia</name>
             </bibl>
             <bibl xml:id="hsl_work_id_15">
                <title type="main">Im Walde, op. 75 Nr. 2</title>
@@ -1738,6 +1744,7 @@
                <author ref="#hsl_person_id_321">
                   <persName>Weber, Carl Maria von</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1263">Kaspar</name>
             </bibl>
             <bibl xml:id="hsl_work_id_237">
                <title type="main">Der fliegende Holländer</title>
@@ -2221,6 +2228,9 @@
                <author ref="#hsl_person_id_94">
                   <persName>Gade, Niels Wilhelm</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1254">Oluf</name>
+               <name type="character" ref="#hsl_person_id_1256">Erlkönig's Tochter</name>
+               <name type="character" ref="#hsl_person_id_1257">Mutter</name>
             </bibl>
             <bibl xml:id="hsl_work_id_312">
                <title type="main">Loreley</title>
@@ -4217,7 +4227,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_672">
-               <title type="main">Symphonie Nr. 2 in B-Dur, op.53</title>
+               <title type="main">Symphonie Nr. 2 in B-Dur, op. 53</title>
                <author ref="#hsl_person_id_317">
                   <persName>Volkmann, Robert</persName>
                </author>
@@ -4671,6 +4681,182 @@
                <name type="character" ref="#hsl_person_id_1232">Gräfin</name>
                <name type="character" ref="#hsl_person_id_1233">Hermann</name>
                <name type="character" ref="#hsl_person_id_1234">Lisa</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_747">
+               <title type="main">Ouvertüre Ruy Blas</title>
+               <author ref="#hsl_person_id_21">
+                  <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_748">
+               <title type="main">Ruy Blas</title>
+               <author ref="#hsl_person_id_131">
+                  <persName>Hugo, Victor</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_749">
+               <title type="main">Lodoïska</title>
+               <author ref="#hsl_person_id_47">
+                  <persName>Cherubini, Luigi</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_750">
+               <title type="main">Fanisky</title>
+               <author ref="#hsl_person_id_47">
+                  <persName>Cherubini, Luigi</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_751">
+               <title type="main">Suite in Canonform, op.10</title>
+               <author ref="#hsl_person_id_1243">
+                  <persName>Grimm, Julius Otto</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_752">
+               <title type="main">Studien für den Pedal-Flügel, op. 56</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_753">
+               <title type="main">Der Verliebte</title>
+               <author ref="#hsl_person_id_121">
+                  <persName>Herbeck, Johann von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_754">
+               <title type="main">Ännchen von Tharau</title>
+               <author ref="#hsl_person_id_1244">
+                  <persName>Dach, Simon</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_755">
+               <title type="main">Die Poeten auf der Alm</title>
+               <author ref="#hsl_person_id_274">
+                  <persName>Schön, Eduard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_756">
+               <title type="main">Heini von Steier</title>
+               <author ref="#hsl_person_id_274">
+                  <persName>Schön, Eduard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_757">
+               <title type="main">Dichter und ihre Gesellen</title>
+               <author ref="#hsl_person_id_1245">
+                  <persName>Eichendorff, Joseph von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_758">
+               <title type="main">Die Landpartie</title>
+               <name type="character" ref="#hsl_person_id_1246">Schläger, Hans</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_759">
+               <title type="main">Konzertstück, op. 42</title>
+               <author ref="#hsl_person_id_317">
+                  <persName>Volkmann, Robert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_760">
+               <title type="main">Serenade Nr. 1 D-Dur, op. 11</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_761">
+               <title type="main">Serenade Nr. 2 A-Dur op. 16</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_762">
+               <title type="main">Ouvertüre für Orchester zu Shakespeare's Sturm</title>
+               <author ref="#hsl_person_id_909">
+                  <persName>Hager, Johannes</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_763">
+               <title type="main">Gottes Zeit ist die allerbeste Zeit</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_764">
+               <title type="main">Ich hatte viel Bekümmernis</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_765">
+               <title type="main">Liebster Gott, wenn werd ich sterben?</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_766">
+               <title type="main">Violin Concerto No.5, Op.21</title>
+               <author ref="#hsl_person_id_1258">
+                  <persName>Molique, Bernhard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_767">
+               <title type="main">Violinkonzert Nr. 8 in a-Moll „In Form einer Gesangsszene“</title>
+               <author ref="#hsl_person_id_293">
+                  <persName>Spohr, Louis</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_768">
+               <title type="main">Streichquartett Nr. 6 B-Dur op. 18,6</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_769">
+               <title type="main">Große Fuge für Streichorchester</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_770">
+               <title type="main">V podvečer, op. 39</title>
+               <title type="alternative">Am Abend</title>
+               <author ref="#hsl_person_id_1259">
+                  <persName>Fibich, Zdeněk</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_771">
+               <title type="main">Smrt Hippodamie, op.33</title>
+               <title type="alternative">Hypodamia</title>
+               <author ref="#hsl_person_id_1259">
+                  <persName>Fibich, Zdeněk</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_772">
+               <title type="main">Symphonie Nr. 2 in Es-Dur op. 38</title>
+               <author ref="#hsl_person_id_1259">
+                  <persName>Fibich, Zdeněk</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_773">
+               <title type="main">Noc na Karlštejně</title>
+               <title type="alternative">Eine Nacht auf Karlstein</title>
+               <author ref="#hsl_person_id_1259">
+                  <persName>Fibich, Zdeněk</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_774">
+               <title type="main">Violinkonzert in C-Dur, op. 30</title>
+               <author ref="#hsl_person_id_1262">
+                  <persName>Moszkowski, Moritz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_775">
+               <title type="main">Symphonie Nr. 1 in E-Dur</title>
+               <author ref="#hsl_person_id_1264">
+                  <persName>Schmidt, Franz</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
