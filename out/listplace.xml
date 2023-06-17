@@ -733,7 +733,7 @@
                <place xml:id="hsl_place_id_48">
                   <settlement type="A">
                      <placeName type="main">Rossija</placeName>
-                     <placeName type="alternative">Russland</placeName>
+                     <placeName type="alternative">Russland / Rußland</placeName>
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>RU, Russia</country>
@@ -1687,9 +1687,11 @@
                </place>
                <place xml:id="hsl_place_id_143">
                   <placeName type="main">Linz</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2772400/</idno>
                </place>
                <place xml:id="hsl_place_id_144">
                   <placeName type="main">Niederösterreich</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2770542/</idno>
                </place>
                <place xml:id="hsl_place_id_146">
                   <placeName type="main">Zwickau</placeName>
@@ -1767,6 +1769,51 @@
                <place xml:id="hsl_place_id_159">
                   <placeName type="main">Cimetière du Père-Lachaise</placeName>
                   <idno type="GEONAMES">https://sws.geonames.org/6452891/</idno>
+               </place>
+               <place xml:id="hsl_place_id_160">
+                  <placeName type="main">Krásno nad Teplou</placeName>
+                     <placeName type="alternative">Schönfeld</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3072873/</idno>
+               </place>
+               <place xml:id="hsl_place_id_161">
+                  <placeName type="main">Bečov nad Teplou</placeName>
+                     <placeName type="alternative">Petschau</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3079609/</idno>
+               </place>
+               <place xml:id="hsl_place_id_162">
+                  <placeName type="main">Toronto</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/6167865/</idno>
+               </place>
+               <place xml:id="hsl_place_id_163">
+                  <placeName type="main">Canada</placeName>
+                     <placeName type="alternative">Canadien</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/6251999/</idno>
+               </place>
+               <place xml:id="hsl_place_id_164">
+                  <placeName type="main">Eger</placeName>
+               </place>
+               <place xml:id="hsl_place_id_165">
+                  <placeName type="main">Sachsen</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2842566/</idno>
+               </place>
+               <place xml:id="hsl_place_id_166">
+                  <placeName type="main">Františkovy Lázně</placeName>
+                     <placeName type="alternative">Franzensbad</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3076136/</idno>
+               </place>
+               <place xml:id="hsl_place_id_167">
+                  <placeName type="main">Teplice</placeName>
+                     <placeName type="alternative">Teplitz</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3064288/</idno>
+               </place>
+               <place xml:id="hsl_place_id_168">
+                  <placeName type="main">Oberammergau</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2861422/</idno>
+               </place>
+               <place xml:id="hsl_place_id_169">
+                  <placeName type="main">Jisra'el</placeName>
+                     <placeName type="alternative">Israel</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/294640/</idno>
                </place>
             </listPlace>
          </div>
