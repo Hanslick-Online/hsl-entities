@@ -360,7 +360,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_39">
-               <title type="main">Tasso, Lamento e Trionfo</title>
+               <title type="main">Tasso, Lamento e Trionfo, S96</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -1464,12 +1464,6 @@
                <name type="character" ref="#hsl_person_id_665">Valentin</name>
                <name type="character" ref="#hsl_person_id_1111">Faust</name>
             </bibl>
-            <bibl xml:id="hsl_work_id_282">
-               <title type="main">F-Dur-Arie (Le Nozze di Figaro, 13.04.1865)</title>
-               <author ref="#hsl_person_id_189">
-                  <persName>Mozart, Wolfgang Amadeus</persName>
-               </author>
-            </bibl>
             <bibl xml:id="hsl_work_id_200">
                <title type="main">Falstaff</title>
                <author ref="#hsl_person_id_312">
@@ -1930,6 +1924,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_286">
                <title type="main">Wandernder Dichter</title>
+               <title type="alternative">Der wandernde Dichter</title>
                <author ref="#hsl_person_id_274">
                   <persName>Schön, Eduard</persName>
                </author>
@@ -1962,10 +1957,11 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_294">
-               <title type="main">Matthäus-Passion</title>
+               <title type="main">Matthäus-Passion, BWV244</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1284">Evangelist</name>
             </bibl>
             <bibl xml:id="hsl_work_id_385">
                <title type="main">La Forza del destino</title>
@@ -2072,7 +2068,10 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_284">
-               <title type="main">Marsch in h-Moll, op.27</title>
+               <title type="main">Marsch in h-Moll, op. 40 Nr. 3</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -2093,9 +2092,9 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_289">
-               <title type="main">Die Uhr, op.123 Nr. 3</title>
-               <author ref="#hsl_person_id_166">
-                  <persName>Löwe, Thomas</persName>
+               <title type="main">Die Uhr, op. 52 Nr. 2</title>
+               <author ref="#hsl_person_id_1172">
+                  <persName>Vesque von Püttlingen, Johann</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_430">
@@ -2611,6 +2610,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_376">
                <title type="main">Sinfonia Dante</title>
+               <title type="alternative">(Große) Dante-Symphonie</title>
                <author ref="#hsl_person_id_334">
                   <persName>Pacini, Giovanni</persName>
                </author>
@@ -2843,7 +2843,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_414">
-               <title type="main">Eine Faust-Symphonie in drei Charakterbildern</title>
+               <title type="main">Eine Faust-Symphonie in drei Charakterbildern, S108</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -4188,7 +4188,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_663">
-               <title type="main">Mazurkas</title>
+               <title type="main">Mazurka</title>
+               <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_48">
                   <persName>Chopin, Frédéric</persName>
                </author>
@@ -4200,7 +4201,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_665">
-               <title type="main">Abschied</title>
+               <title type="main">Abschied, op. 3 Nr. 1</title>
                <author ref="#hsl_person_id_1122">
                   <persName>Loewe, Carl</persName>
                </author>
@@ -5021,6 +5022,51 @@
                <author ref="#hsl_person_id_1281">
                   <persName>Kunz, Konrad Max</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_803">
+               <title type="main">Ungarische Phantasie, op. 35</title>
+               <title type="alternative">Phantasie über ungarische Volkslieder</title>
+               <author ref="#hsl_person_id_64">
+                  <persName>Doppler, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_344">
+                  <persName>Doppler, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_804">
+               <title type="main">Madrigal</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_357">
+                  <persName>Dowland, John</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_805">
+               <title type="main">Volkslied aus Kärnthen</title>
+               <title type="alternative">Kärntnerisches Volkslied</title>
+               <author ref="#hsl_person_id_121">
+                  <persName>Herbeck, Johann von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_806">
+               <title type="main">Hamlet, S104</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_807">
+               <title type="main">Hunnenschlacht, S105</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_808">
+               <title type="main">Saffo</title>
+               <author ref="#hsl_person_id_334">
+                  <persName>Pacini, Giovanni</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_809">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>
