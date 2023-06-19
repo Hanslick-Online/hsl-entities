@@ -1349,6 +1349,7 @@
                      <bibl n="hsl_work_id_513">Clavigo</bibl>
                      <bibl n="hsl_work_id_625">Wandrers Sturmlied</bibl>
                      <bibl n="hsl_work_id_743">Egmont</bibl>
+                     <bibl n="hsl_work_id_844">Hans Sachsens poetische Sendung</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_101">
@@ -3689,7 +3690,7 @@
                      <bibl n="hsl_work_id_60">Rienzi, der letzte der Tribunen</bibl>
                      <bibl n="hsl_work_id_97">Lohengrin, WWV75</bibl>
                      <bibl n="hsl_work_id_167">Iphigenia in Aulis (Bearbeitung)</bibl>
-                     <bibl n="hsl_work_id_217">Die Meistersinger von Nürnberg</bibl>
+                     <bibl n="hsl_work_id_217">Die Meistersinger von Nürnberg, WWV96</bibl>
                      <bibl n="hsl_work_id_237">Der fliegende Holländer</bibl>
                      <bibl n="hsl_work_id_238">Das Rheingold</bibl>
                      <bibl n="hsl_work_id_240">Das Liebesmahl der Apostel, WWV69</bibl>
@@ -3737,6 +3738,7 @@
                      <bibl n="hsl_work_id_495">Preciosa</bibl>
                      <bibl n="hsl_work_id_505">Die drei Pintos</bibl>
                      <bibl n="hsl_work_id_524">Konzertstück in f-Moll, op. 79.</bibl>
+                     <bibl n="hsl_work_id_842">Abu Hassan, J106</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_322">
@@ -9192,6 +9194,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q189015</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_555">La Bohème</bibl>
+                     <bibl n="hsl_work_id_849">Pagliacci</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_979">
@@ -9344,6 +9347,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q181894</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_560">L'amico Fritz</bibl>
+                     <bibl n="hsl_work_id_848">Cavalleria rusticana</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_994">
@@ -9729,6 +9733,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_595">Also sprach Zarathustra</bibl>
                      <bibl n="hsl_work_id_618">Wandrers Sturmlied, op. 14</bibl>
+                     <bibl n="hsl_work_id_851">Feuersnot, op. 50</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1036">
@@ -11183,15 +11188,16 @@
                </person>
                <person xml:id="hsl_person_id_1221">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>Marie</forename>
                      <surname>Günzburg</surname>
                   </persName>
                </person>
                <person xml:id="hsl_person_id_1222">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>Virginie</forename>
                      <surname>Fournier</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/130148741</idno>
                </person>
                <person xml:id="hsl_person_id_1223">
                   <persName type="main">
@@ -11613,6 +11619,12 @@
                      <surname>Forster</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116666307</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_841">Der dot Mon</bibl>
+                     <bibl n="hsl_work_id_845">Die Assassinen</bibl>
+                     <bibl n="hsl_work_id_846">Der Spielmann</bibl>
+                     <bibl n="hsl_work_id_847">Die Rose von Pontevedra</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1267">
                   <persName type="main">
@@ -12231,8 +12243,11 @@
                <person xml:id="hsl_person_id_1339" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Der Mann</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_841">Der dot Mon</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1340">
                   <persName type="main">
@@ -12262,6 +12277,118 @@
                      <surname>Schatz</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/117110922</idno>
+               </person>
+               <person xml:id="hsl_person_id_1343">
+                  <persName type="main">
+                     <forename>Hans</forename>
+                     <surname>Sachs</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118604597</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_841">Der dot Mon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1344" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Das Weib</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_841">Der dot Mon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1345" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Der Nachbar</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_841">Der dot Mon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1346" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Die Nachbarin</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_841">Der dot Mon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1347">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Petrus</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118593323</idno>
+               </person>
+               <person xml:id="hsl_person_id_1348">
+                  <persName type="main">
+                     <forename>Georg</forename>
+                     <surname>Müller</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117590681</idno>
+               </person>
+               <person xml:id="hsl_person_id_1349" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Abu Hassan</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_842">Abu Hassan, J106</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1350">
+                  <persName type="main">
+                     <forename>Wilhelm</forename>
+                     <surname>Scherer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118607200</idno>
+               </person>
+               <person xml:id="hsl_person_id_1351">
+                  <persName type="main">
+                     <forename>Max von</forename>
+                     <surname>Schillings</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11875503X</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_843">Der Pfeifertag, op. 10</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1352">
+                  <persName type="main">
+                     <forename>Königin von England</forename>
+                     <surname>Elisabeth I.</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118529870</idno>
+               </person>
+               <person xml:id="hsl_person_id_1353">
+                  <persName type="main">
+                     <forename>William</forename>
+                     <surname>Byrd</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118675109</idno>
+               </person>
+               <person xml:id="hsl_person_id_1354">
+                  <persName type="main">
+                     <forename>Laura</forename>
+                     <surname>Hilgermann</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116806745</idno>
+               </person>
+               <person xml:id="hsl_person_id_1355">
+                  <persName type="main">
+                     <forename>Gerhard</forename>
+                     <surname>Stehmann</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117237094</idno>
+               </person>
+               <person xml:id="hsl_person_id_1356">
+                  <persName type="main">
+                     <forename>Hans</forename>
+                     <surname>Breuer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116493380</idno>
                </person>
             </listPerson>
          </div>
