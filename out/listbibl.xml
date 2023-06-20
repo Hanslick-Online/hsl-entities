@@ -549,7 +549,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_67">
-               <title type="main">Paulus</title>
+               <title type="main">Paulus, op.36</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
@@ -1745,6 +1745,8 @@
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1375">Senta</name>
+               <name type="character" ref="#hsl_person_id_1376">Der Holländer</name>
             </bibl>
             <bibl xml:id="hsl_work_id_238">
                <title type="main">Das Rheingold</title>
@@ -4578,12 +4580,16 @@
             <bibl xml:id="hsl_work_id_729">
                <title type="main">Jewgeni Onegin</title>
                <title type="alternative">Eugen Onegin</title>
-               <name type="character" ref="#hsl_person_id_1014">Čajkovskij, Pëtr Ilʹič</name>
+               <author ref="#hsl_person_id_1014">
+                  <persName>Čajkovskij, Pëtr Ilʹič</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_730">
                <title type="main">Iolanta</title>
                <title type="alternative">Jolanthe</title>
-               <name type="character" ref="#hsl_person_id_1014">Čajkovskij, Pëtr Ilʹič</name>
+               <author ref="#hsl_person_id_1014">
+                  <persName>Čajkovskij, Pëtr Ilʹič</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_731">
                <title type="main">Kuznets Vakula</title>
@@ -4594,12 +4600,16 @@
             </bibl>
             <bibl xml:id="hsl_work_id_732">
                <title type="main">Opritschnik</title>
-               <name type="character" ref="#hsl_person_id_1014">Čajkovskij, Pëtr Ilʹič</name>
+               <author ref="#hsl_person_id_1014">
+                  <persName>Čajkovskij, Pëtr Ilʹič</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_733">
                <title type="main">Ruslan i Lyudmila</title>
                <title type="alternative">Ruslan und Ludmilla</title>
-               <name type="character" ref="#hsl_person_id_1220">Puškin, Aleksandr Sergeevič</name>
+               <author ref="#hsl_person_id_1220">
+                  <persName>Puškin, Aleksandr Sergeevič</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_734">
                <title type="main">Rusalka</title>
@@ -5343,6 +5353,61 @@
                <title type="alternative">Feuersnoth</title>
                <author ref="#hsl_person_id_1035">
                   <persName>Strauss, Richard</persName>
+               </author>
+               <author ref="#hsl_person_id_1372">
+                  <persName>Kunrad</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_1373">Diemut</name>
+               <name type="character" ref="#hsl_person_id_1374">Ortolf Sentlinger</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_852">
+               <title type="main">Tscherewitschki</title>
+               <title type="alternative">Pantöffelchen</title>
+               <author ref="#hsl_person_id_1223">
+                  <persName>Gogolʹ, Nikolaj Vasilʹevič</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_853">
+               <title type="main">Jewgeni Onegin</title>
+               <title type="alternative">Eugen Onegin</title>
+               <author ref="#hsl_person_id_1220">
+                  <persName>Puškin, Aleksandr Sergeevič</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_854">
+               <title type="main">Opritschniki</title>
+               <author ref="#hsl_person_id_1224">
+                  <persName>Lažečnikov, Ivan Ivanovič</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_855">
+               <title type="main">Demon. Wostotschnaja powest</title>
+               <title type="alternative">Der Dämon: Eine orientalische Erzählung</title>
+               <author ref="#hsl_person_id_159">
+                  <persName>Lermontov, Michail Jurʹevič</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_856">
+               <title type="main">St. Franziskus</title>
+               <title type="alternative">Sanct Franciscus</title>
+               <author ref="#hsl_person_id_1357">
+                  <persName>Hartmann, Pater</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_1363">Franziskus</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_857">
+               <title type="main">Franciscus, op. 36</title>
+               <title type="alternative">Der Heilige Franciscus</title>
+               <author ref="#hsl_person_id_1359">
+                  <persName>Tinel, Edgar</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_1360">Franciscus</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_858">
+               <title type="main">La risurrezione di Lazzaro</title>
+               <title type="alternative">Lazarus</title>
+               <author ref="#hsl_person_id_1358">
+                  <persName>Perosi, Lorenzo</persName>
                </author>
             </bibl>
       </listBibl>

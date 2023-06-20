@@ -488,7 +488,7 @@
                      <bibl n="hsl_work_id_6">Das Märchen von der schönen Melusine</bibl>
                      <bibl n="hsl_work_id_32">Variations sérieuses, op. 54</bibl>
                      <bibl n="hsl_work_id_50">Ein Sommernachtstraum</bibl>
-                     <bibl n="hsl_work_id_67">Paulus</bibl>
+                     <bibl n="hsl_work_id_67">Paulus, op.36</bibl>
                      <bibl n="hsl_work_id_78">Oedipus in Kolonos</bibl>
                      <bibl n="hsl_work_id_88">Meeresstille und glückliche Fahrt</bibl>
                      <bibl n="hsl_work_id_206">Elias</bibl>
@@ -1978,6 +1978,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q46599</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_54">Die Meerjungfrau</bibl>
+                     <bibl n="hsl_work_id_855">Demon. Wostotschnaja powest</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_160">
@@ -9529,7 +9530,10 @@
                      <bibl n="hsl_work_id_577">Symphonie Nr. 5 in e-Moll, op. 64</bibl>
                      <bibl n="hsl_work_id_579">Symphonie Nr. 6 in h-Moll, op. 74</bibl>
                      <bibl n="hsl_work_id_728">Pikowaja dama</bibl>
+                     <bibl n="hsl_work_id_729">Jewgeni Onegin</bibl>
+                     <bibl n="hsl_work_id_730">Iolanta</bibl>
                      <bibl n="hsl_work_id_731">Kuznets Vakula</bibl>
+                     <bibl n="hsl_work_id_732">Opritschnik</bibl>
                      <bibl n="hsl_work_id_781">Francesca da Rimini, op. 32</bibl>
                      <bibl n="hsl_work_id_785">Symphonie Nr. 3 in D-Dur, op. 29</bibl>
                      <bibl n="hsl_work_id_786">Serenade für Streicher in C-Dur, op. 48</bibl>
@@ -9541,11 +9545,6 @@
                      <bibl n="hsl_work_id_792">Manfred, op. 58</bibl>
                      <bibl n="hsl_work_id_793">Hamlet, op. 67</bibl>
                      <bibl n="hsl_work_id_794">Romeo i Djoulietta</bibl>
-                  </listBibl>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_729">Jewgeni Onegin</bibl>
-                     <bibl n="hsl_work_id_730">Iolanta</bibl>
-                     <bibl n="hsl_work_id_732">Opritschnik</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1015">
@@ -11179,11 +11178,10 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118641816</idno>
                   <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_733">Ruslan i Lyudmila</bibl>
                      <bibl n="hsl_work_id_736">Boris Godunov</bibl>
                      <bibl n="hsl_work_id_746">Pikowaja dama</bibl>
-                  </listBibl>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_733">Ruslan i Lyudmila</bibl>
+                     <bibl n="hsl_work_id_853">Jewgeni Onegin</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1221">
@@ -11205,6 +11203,9 @@
                      <surname>Gogolʹ</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118540424</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_852">Tscherewitschki</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1224">
                   <persName type="main">
@@ -11216,6 +11217,9 @@
                      <surname>Lagetschnikow</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/119208261</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_854">Opritschniki</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1225">
                   <persName type="main">
@@ -11323,6 +11327,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Fürst Jelezki</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Fürst Jelezky</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_728">Pikowaja dama</bibl>
@@ -12389,6 +12397,179 @@
                      <surname>Breuer</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116493380</idno>
+               </person>
+               <person xml:id="hsl_person_id_1357">
+                  <persName type="main">
+                     <forename>Pater</forename>
+                     <surname>Hartmann</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>von An der Lahn-Hochbrunn</forename>
+                     <surname>Hartmann</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/10389991X</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_856">St. Franziskus</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1358">
+                  <persName type="main">
+                     <forename>Lorenzo</forename>
+                     <surname>Perosi</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119378671</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_858">La risurrezione di Lazzaro</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1359">
+                  <persName type="main">
+                     <forename>Edgar</forename>
+                     <surname>Tinel</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11738626X</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_857">Franciscus, op. 36</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1360" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Franciscus</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_857">Franciscus, op. 36</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1361">
+                  <persName type="main">
+                     <forename>von Assisi</forename>
+                     <surname>Franz</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Franciscus</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118534963</idno>
+               </person>
+               <person xml:id="hsl_person_id_1362">
+                  <persName type="main">
+                     <forename>Pietro di</forename>
+                     <surname>Bernardone</surname>
+                  </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q11816870</idno>
+               </person>
+               <person xml:id="hsl_person_id_1363" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Franziskus</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_856">St. Franziskus</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1364">
+                  <persName type="main">
+                     <forename>Girolamo</forename>
+                     <surname>Savonarola</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118605933</idno>
+               </person>
+               <person xml:id="hsl_person_id_1365">
+                  <persName type="main">
+                     <forename>Papst</forename>
+                     <surname>Innozenz III.</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Innocenz</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118555642</idno>
+               </person>
+               <person xml:id="hsl_person_id_1366">
+                  <persName type="main">
+                     <forename>Papst</forename>
+                     <surname>Honorius III.</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118553437</idno>
+               </person>
+               <person xml:id="hsl_person_id_1367" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1368" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1369">
+                  <persName type="main">
+                     <forename>Oskar von</forename>
+                     <surname>Redwitz</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116392983</idno>
+               </person>
+               <person xml:id="hsl_person_id_1370">
+                  <persName type="main">
+                     <forename>Moritz</forename>
+                     <surname>Frauscher</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116746653</idno>
+               </person>
+               <person xml:id="hsl_person_id_1371">
+                  <persName type="main">
+                     <forename>Ernst von</forename>
+                     <surname>Wolzogen</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11889028X</idno>
+               </person>
+               <person xml:id="hsl_person_id_1372" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Kunrad</surname>
+                  </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_851">Feuersnot, op. 50</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1373" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Diemut</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_851">Feuersnot, op. 50</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1374" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ortolf Sentlinger</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_851">Feuersnot, op. 50</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1375" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Senta</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_237">Der fliegende Holländer</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1376" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Der Holländer</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_237">Der fliegende Holländer</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
