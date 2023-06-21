@@ -448,6 +448,7 @@
                      <bibl n="hsl_work_id_764">Ich hatte viel Bekümmernis</bibl>
                      <bibl n="hsl_work_id_765">Liebster Gott, wenn werd ich sterben?</bibl>
                      <bibl n="hsl_work_id_769">Große Fuge für Streichorchester</bibl>
+                     <bibl n="hsl_work_id_862">Partita für Violine Nr. 3 in E-Dur, BWV1006</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_19">
@@ -9561,7 +9562,7 @@
                      <surname>Schreker</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename>Franz</forename>
+                     <forename/>
                      <surname>Schrecker</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118610740</idno>
@@ -11561,7 +11562,7 @@
                      <bibl n="hsl_work_id_770">V podvečer, op. 39</bibl>
                      <bibl n="hsl_work_id_771">Smrt Hippodamie, op.33</bibl>
                      <bibl n="hsl_work_id_772">Symphonie Nr. 2 in Es-Dur op. 38</bibl>
-                     <bibl n="hsl_work_id_773">Noc na Karlštejně</bibl>
+                     <bibl n="hsl_work_id_773">Noc na Karlštejně, op. 26</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1260">
@@ -12496,14 +12497,20 @@
                <person xml:id="hsl_person_id_1367" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Walther von Stolzing</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_217">Die Meistersinger von Nürnberg, WWV96</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1368" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Veit Pogner</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_217">Die Meistersinger von Nürnberg, WWV96</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1369">
                   <persName type="main">
@@ -12570,6 +12577,54 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_237">Der fliegende Holländer</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1377">
+                  <persName type="main">
+                     <forename>Friedrich</forename>
+                     <surname>Nietzsche</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118587943</idno>
+               </person>
+               <person xml:id="hsl_person_id_1378">
+                  <persName type="main">
+                     <forename>Margarethe</forename>
+                     <surname>Michalek</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/133114805</idno>
+               </person>
+               <person xml:id="hsl_person_id_1379">
+                  <persName type="main">
+                     <forename>Josef</forename>
+                     <surname>Bayer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116097108</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_859">Rouge et noir</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1380">
+                  <persName type="main">
+                     <forename>Siegfried</forename>
+                     <surname>Wagner</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118628429</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_860">Herzog Wildfang, op. 2</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1381">
+                  <persName type="main">
+                     <forename>Elisabeth</forename>
+                     <surname>Petznek</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118593412</idno>
+               </person>
+               <person xml:id="hsl_person_id_1382">
+                  <persName type="main">
+                     <forename>Marie</forename>
+                     <surname>Soldat</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117460354</idno>
                </person>
             </listPerson>
          </div>
