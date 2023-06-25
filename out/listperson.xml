@@ -1257,6 +1257,10 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/119309998</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q548181</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_893">Les Contes d'Hoffmann</bibl>
+                     <bibl n="hsl_work_id_897">Les Contes d'Hoffmann (1851)</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_91">
                   <persName type="main">
@@ -1388,6 +1392,7 @@
                      <bibl n="hsl_work_id_56">Roméo et Juliette</bibl>
                      <bibl n="hsl_work_id_199">Faust</bibl>
                      <bibl n="hsl_work_id_371">Méditation sur le premier Prélude de J. S. Bach</bibl>
+                     <bibl n="hsl_work_id_910">La Rédemption</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_336">
@@ -1472,6 +1477,10 @@
                      <bibl n="hsl_work_id_708">Ode for St. Cecilia's Day, HWV 76</bibl>
                      <bibl n="hsl_work_id_709">Das Alexanderfest, HW 75</bibl>
                      <bibl n="hsl_work_id_710">Acis and Galathea, HW 49</bibl>
+                     <bibl n="hsl_work_id_901">Saul, HWV53</bibl>
+                     <bibl n="hsl_work_id_907">Theodora, HWV68</bibl>
+                     <bibl n="hsl_work_id_908">Joshua, HWV64</bibl>
+                     <bibl n="hsl_work_id_909">Deborah, HWV51</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_109">
@@ -1702,6 +1711,8 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q535</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_748">Ruy Blas</bibl>
+                     <bibl n="hsl_work_id_896">Notre-Dame de Paris</bibl>
+                     <bibl n="hsl_work_id_898">Le roi s'amuse</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_132">
@@ -2571,6 +2582,7 @@
                      <bibl n="hsl_work_id_172">Il signor Fagotto</bibl>
                      <bibl n="hsl_work_id_280">La belle Hélène</bibl>
                      <bibl n="hsl_work_id_281">Orphée aux Enfers</bibl>
+                     <bibl n="hsl_work_id_893">Les Contes d'Hoffmann</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_203">
@@ -3553,6 +3565,8 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q297717</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_782">Françoise de Rimini</bibl>
+                     <bibl n="hsl_work_id_894">Mignon</bibl>
+                     <bibl n="hsl_work_id_895">Hamlet</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_306">
@@ -7745,6 +7759,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q61648</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_462">Händel und Shakespeare. Zur Ästhetik der Tonkunst</bibl>
+                     <bibl n="hsl_work_id_900">Geschichte der deutschen Dichtung</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_783" role="fictional">
@@ -10870,7 +10885,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>"Hausherr" (27.09.1865)</surname>
+                     <surname>Svieten</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118620185</idno>
                </person>
@@ -11644,6 +11659,11 @@
                   <idno type="GND">https://d-nb.info/gnd/11852836X</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_780">Karneval, op. 92</bibl>
+                     <bibl n="hsl_work_id_902">Zlatý kolovrat, op. 109</bibl>
+                     <bibl n="hsl_work_id_903">Vodník</bibl>
+                     <bibl n="hsl_work_id_904">Polednice, op. 108</bibl>
+                     <bibl n="hsl_work_id_905">Holoubek, op. 110</bibl>
+                     <bibl n="hsl_work_id_906">Rusalka, op. 114</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1266">
@@ -12860,8 +12880,11 @@
                <person xml:id="hsl_person_id_1407" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Quasimodo</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_896">Notre-Dame de Paris</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1408">
                   <persName type="main">
@@ -12874,6 +12897,331 @@
                      <forename>?</forename>
                      <surname>Untilowa</surname>
                   </persName>
+               </person>
+               <person xml:id="hsl_person_id_1410">
+                  <persName type="main">
+                     <forename>Charles</forename>
+                     <surname>Nuitter</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117071099</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_107">Les fées du Rhin</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1411">
+                  <persName type="main">
+                     <forename>Alfred von</forename>
+                     <surname>Wolzogen</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117435325</idno>
+               </person>
+               <person xml:id="hsl_person_id_1412">
+                  <persName type="main">
+                     <forename>E. T. A.</forename>
+                     <surname>Hoffmann</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118552465</idno>
+               </person>
+               <person xml:id="hsl_person_id_1413" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Triboulet</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_898">Le roi s'amuse</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1414">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Erckmann-Chatrian</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Erckmann-Chatrian</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1026760488</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_899">Schinderhannes ou les Brigands des Vosges</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1415">
+                  <persName type="main">
+                     <forename>Ludwig</forename>
+                     <surname>Devrient</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11867174X</idno>
+               </person>
+               <person xml:id="hsl_person_id_1416">
+                  <persName type="main">
+                     <forename>Georg Christoph</forename>
+                     <surname>Lichtenberg</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118572628</idno>
+               </person>
+               <person xml:id="hsl_person_id_1417" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Luther</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Lutter</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_893">Les Contes d'Hoffmann</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1418">
+                  <persName type="main">
+                     <forename>Franz</forename>
+                     <surname>Pácal</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Pacal</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1024898644</idno>
+               </person>
+               <person xml:id="hsl_person_id_1419" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Hoffmann</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_893">Les Contes d'Hoffmann</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1420" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Werther</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_823">Werther</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1421" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Olympia</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_893">Les Contes d'Hoffmann</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1422" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Spalanzani</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_893">Les Contes d'Hoffmann</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1423" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Giulietta</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_893">Les Contes d'Hoffmann</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1424" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Antonia</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_893">Les Contes d'Hoffmann</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1425" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Nicklausse</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_893">Les Contes d'Hoffmann</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1426">
+                  <persName type="main">
+                     <forename>Karoline</forename>
+                     <surname>Kusmitsch</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1427" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Schlémil</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Schlemihl</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_893">Les Contes d'Hoffmann</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1428">
+                  <persName type="main">
+                     <forename>Franz</forename>
+                     <surname>Neidl</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1019425024</idno>
+               </person>
+               <person xml:id="hsl_person_id_1429" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Miracle</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_893">Les Contes d'Hoffmann</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1430">
+                  <persName type="main">
+                     <forename>Josef</forename>
+                     <surname>Ritter</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/133631796</idno>
+               </person>
+               <person xml:id="hsl_person_id_1431" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Coppélius</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Coppelius</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_893">Les Contes d'Hoffmann</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1432" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Dapertutto</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_893">Les Contes d'Hoffmann</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1433">
+                  <persName type="main">
+                     <forename>Wilhelm</forename>
+                     <surname>Hesch</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/12962537X</idno>
+               </person>
+               <person xml:id="hsl_person_id_1434" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Crespel</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Krespel</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_893">Les Contes d'Hoffmann</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1435">
+                  <persName type="main">
+                     <forename>Karl von</forename>
+                     <surname>Piloty</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118641662</idno>
+               </person>
+               <person xml:id="hsl_person_id_1436">
+                  <persName type="main">
+                     <forename>César</forename>
+                     <surname>Franck</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118534645</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_911">Les Béatitudes</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1437">
+                  <persName type="main">
+                     <forename>Peter</forename>
+                     <surname>Benoît</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118886568</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_912">Lucifer</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1438" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Saul</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_901">Saul, HWV53</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1439" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>David</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_901">Saul, HWV53</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1440" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Jonathan</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_901">Saul, HWV53</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1441" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Michal</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Michel</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_901">Saul, HWV53</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1442" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Merab</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Meral</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_901">Saul, HWV53</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1443">
+                  <persName type="main">
+                     <forename>Rita</forename>
+                     <surname>Kury</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1444">
+                  <persName type="main">
+                     <forename>Friedrich</forename>
+                     <surname>Chrysander</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118816098</idno>
                </person>
             </listPerson>
          </div>
