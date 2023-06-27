@@ -1790,7 +1790,9 @@
                   <idno type="GEONAMES">https://sws.geonames.org/6251999/</idno>
                </place>
                <place xml:id="hsl_place_id_164">
-                  <placeName type="main">Eger</placeName>
+                  <placeName type="main">Cheb</placeName>
+                     <placeName type="alternative">Eger</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3077835/</idno>
                </place>
                <place xml:id="hsl_place_id_165">
                   <placeName type="main">Sachsen</placeName>
@@ -1872,11 +1874,65 @@
                   <idno type="GEONAMES">https://sws.geonames.org/130758/</idno>
                </place>
                <place xml:id="hsl_place_id_182">
-                  <placeName type="main"/>
+                  <placeName type="main">Torino</placeName>
+                     <placeName type="alternative">Turin</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3165524/</idno>
                </place>
                <place xml:id="hsl_place_id_183">
                   <placeName type="main">Cremona</placeName>
                   <idno type="GEONAMES">https://sws.geonames.org/3177838/</idno>
+               </place>
+               <place xml:id="hsl_place_id_184">
+                  <placeName type="main">Liberec</placeName>
+                     <placeName type="alternative">Reichenberg</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3071961/</idno>
+               </place>
+               <place xml:id="hsl_place_id_185">
+                  <placeName type="main">Heidelberg</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2907911/</idno>
+               </place>
+               <place xml:id="hsl_place_id_186">
+                  <settlement type="P">
+                     <placeName type="main">New York City</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>US, United Statea</country>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/5128581/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q60</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4042011-5</idno>
+               </place>
+               <place xml:id="hsl_place_id_187">
+                  <placeName type="main">Boston</placeName>
+                  <country>US, United States</country>
+                  <location type="coords">
+                     <geo>42.35843, -71.05977</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/4930956/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q100</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4007840-1</idno>
+               </place>
+               <place xml:id="hsl_place_id_188">
+                  <placeName type="main">Baltimore</placeName>
+                  <country>US, United States</country>
+                  <location type="coords">
+                     <geo>39.29038, -76.61219</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/4347778/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5092</idno>
+                  <idno type="GND">https://d-nb.info/gnd/1087584116</idno>
+               </place>
+               <place xml:id="hsl_place_id_189">
+                  <placeName type="main">Philadelphie</placeName>
+                  <country>US, United States</country>
+                  <location type="coords">
+                     <geo>39.95238, -75.16362</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/4560349/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1345</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4103331-0</idno>
                </place>
             </listPlace>
          </div>
