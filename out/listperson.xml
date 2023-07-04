@@ -1441,7 +1441,7 @@
                </person>
                <person xml:id="hsl_person_id_340">
                   <persName type="main">
-                     <forename/>
+                     <forename>Camillo</forename>
                      <surname>Guidotti</surname>
                   </persName>
                </person>
@@ -2348,6 +2348,7 @@
                      <forename>Pietro</forename>
                      <surname>Milesi</surname>
                   </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q102288947</idno>
                </person>
                <person xml:id="hsl_person_id_185">
                   <persName type="main">
@@ -2404,7 +2405,6 @@
                      <bibl n="hsl_work_id_358">Symphonie Nr. 40 in g-Moll, KV550</bibl>
                      <bibl n="hsl_work_id_433">Sinfonia concertante in Es-Dur KV364</bibl>
                      <bibl n="hsl_work_id_437">O Isis und Osiris (Zauberflöte)</bibl>
-                     <bibl n="hsl_work_id_533">Il barbiere di Siviglia</bibl>
                      <bibl n="hsl_work_id_626">Serenade in B-Dur für zwölf Bläser und Kontrabass, KV361</bibl>
                      <bibl n="hsl_work_id_691">Klavierquartett Nr. 1 in g-Moll, KV478</bibl>
                      <bibl n="hsl_work_id_725">Große Messe in c-Moll, KV427</bibl>
@@ -7767,6 +7767,10 @@
                      <forename/>
                      <surname>Angelina</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Cenerentola / Aschenbrödel</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_134">La Cenerentola, ossia La bontà in trionfo</bibl>
                   </listBibl>
@@ -7778,6 +7782,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/100471196</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q659749</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_134">La Cenerentola, ossia La bontà in trionfo</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_780">
                   <persName type="main">
@@ -7786,12 +7793,20 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118682482</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2277482</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_461">Cendrillon</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_781" role="fictional">
                   <persName type="main">
                      <forename/>
+                     <surname>Aschenputtel</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Aschenbrödel</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118958801</idno>
                </person>
                <person xml:id="hsl_person_id_782">
                   <persName type="main">
@@ -7935,6 +7950,7 @@
                      <forename>Ester</forename>
                      <surname>Mombelli</surname>
                   </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q16268550</idno>
                </person>
                <person xml:id="hsl_person_id_799">
                   <persName type="main">
@@ -7975,6 +7991,10 @@
                   <persName type="main">
                      <forename>Emanuel</forename>
                      <surname>Carrión</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Carrion</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116459026</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55896806</idno>
@@ -14115,6 +14135,41 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118903861</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q362139</idno>
+               </person>
+               <person xml:id="hsl_person_id_1546" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Alidor</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Alcidor</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_461">Cendrillon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1547" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Cendrillon</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Aschenbrödel</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_461">Cendrillon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1548" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Elvira</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_449">L’italiana in Algeri</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
