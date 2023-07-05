@@ -3040,7 +3040,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_453">
-               <title type="main">Czaar und Zimmermann</title>
+               <title type="main">Czar und Zimmermann</title>
                <author ref="#hsl_person_id_165">
                   <persName>Lortzing, Albert</persName>
                </author>
@@ -3593,9 +3593,14 @@
             </bibl>
             <bibl xml:id="hsl_work_id_546">
                <title type="main">Il matrimonio segreto</title>
+               <title type="alternative">Die heimliche Ehe</title>
                <author ref="#hsl_person_id_928">
                   <persName>Cimarosa, Domenico</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1556">Geronimo</name>
+               <name type="character" ref="#hsl_person_id_1557">Paolino</name>
+               <name type="character" ref="#hsl_person_id_1558">Fidalma</name>
+               <name type="character" ref="#hsl_person_id_1565">Conte Robinson</name>
             </bibl>
             <bibl xml:id="hsl_work_id_547">
                <title type="main">Les batailles d'Alexandre</title>
@@ -6183,6 +6188,22 @@
                <title type="main">Stabat Mater, op. 58</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_976">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_977">
+               <title type="main">Don César de Bazan</title>
+               <author ref="#hsl_person_id_1302">
+                  <persName>Massenet, Jules</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_978">
+               <title type="main">Le roi l'a dit</title>
+               <title type="alternative">Der König hat’s gesagt</title>
+               <author ref="#hsl_person_id_1447">
+                  <persName>Delibes, Léo</persName>
                </author>
             </bibl>
       </listBibl>

@@ -2087,7 +2087,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q154203</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_229">Der Wildschütz oder die Stimme der Natur</bibl>
-                     <bibl n="hsl_work_id_453">Czaar und Zimmermann</bibl>
+                     <bibl n="hsl_work_id_453">Czar und Zimmermann</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_337">
@@ -5329,10 +5329,6 @@
                      <forename/>
                      <surname>Don Curzio</surname>
                   </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Richter</surname>
-                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_4">Le nozze di Figaro</bibl>
                   </listBibl>
@@ -5377,6 +5373,7 @@
                      <forename>Cesare</forename>
                      <surname>Boccolini</surname>
                   </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q30077041</idno>
                </person>
                <person xml:id="hsl_person_id_479" role="fictional">
                   <persName type="main">
@@ -7678,6 +7675,10 @@
                      <forename/>
                      <surname>Abdalà</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Abdallah</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_381">Tutti in maschera</bibl>
                   </listBibl>
@@ -7686,6 +7687,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Dorotea</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Dorothea</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_381">Tutti in maschera</bibl>
@@ -8131,8 +8136,8 @@
                </person>
                <person xml:id="hsl_person_id_820">
                   <persName type="main">
-                     <forename>Pauline von</forename>
-                     <surname>Rhade</surname>
+                     <forename>Pauline</forename>
+                     <surname>Lucca</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116458658</idno>
                   <idno type="WIKIDATA">wikidata.org/wiki/Q86422</idno>
@@ -12059,6 +12064,7 @@
                      <bibl n="hsl_work_id_823">Werther</bibl>
                      <bibl n="hsl_work_id_825">La Vierge</bibl>
                      <bibl n="hsl_work_id_881">Phèdre</bibl>
+                     <bibl n="hsl_work_id_977">Don César de Bazan</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1303">
@@ -13361,6 +13367,7 @@
                   <idno type="GND">https://d-nb.info/gnd/118924265</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_916">Coppélia, ou la Fille aux yeux d'émail</bibl>
+                     <bibl n="hsl_work_id_978">Le roi l'a dit</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1448" role="fictional">
@@ -14220,6 +14227,179 @@
                      <surname>Plank</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116205164</idno>
+               </person>
+               <person xml:id="hsl_person_id_1553">
+                  <persName type="main">
+                     <forename>Angelo</forename>
+                     <surname>Eisner von Eisenhof</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1021283436</idno>
+               </person>
+               <person xml:id="hsl_person_id_1554">
+                  <persName type="main">
+                     <forename>Robert</forename>
+                     <surname>Hirschfeld</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119060620</idno>
+               </person>
+               <person xml:id="hsl_person_id_1555">
+                  <persName type="main">
+                     <forename>Albert Josef</forename>
+                     <surname>Weltner</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1032431776</idno>
+               </person>
+               <person xml:id="hsl_person_id_1556" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Geronimo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_546">Il matrimonio segreto</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1557" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Paolino</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_546">Il matrimonio segreto</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1558" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Fidalma</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_546">Il matrimonio segreto</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1559">
+                  <persName type="main">
+                     <forename>Josephine</forename>
+                     <surname>Reif</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1560">
+                  <persName type="main">
+                     <forename>Otto</forename>
+                     <surname>Beer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1269441396</idno>
+               </person>
+               <person xml:id="hsl_person_id_1561">
+                  <persName type="main">
+                     <forename>Sofija</forename>
+                     <surname>Sedmakova</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Sedmak</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/123332098X</idno>
+               </person>
+               <person xml:id="hsl_person_id_1562">
+                  <persName type="main">
+                     <forename>Marie</forename>
+                     <surname>Richter</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Cankl</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1059931524</idno>
+               </person>
+               <person xml:id="hsl_person_id_1563">
+                  <persName type="main">
+                     <forename>Leopold</forename>
+                     <surname>Hell</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1564">
+                  <persName type="main">
+                     <forename>L.</forename>
+                     <surname>Hagenauer</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1565" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Conte Robinson</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Graf Robinson</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_546">Il matrimonio segreto</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1566">
+                  <persName type="main">
+                     <forename>Gaspare</forename>
+                     <surname>Pacchierotti</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Pacchiarotti</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/101536375X</idno>
+               </person>
+               <person xml:id="hsl_person_id_1567">
+                  <persName type="main">
+                     <forename>Anton</forename>
+                     <surname>Erl</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116539364</idno>
+               </person>
+               <person xml:id="hsl_person_id_1568">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Rollet</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1570">
+                  <persName type="main">
+                     <forename>Natalie</forename>
+                     <surname>Lechner-Bauer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/121751414</idno>
+               </person>
+               <person xml:id="hsl_person_id_1571">
+                  <persName type="main">
+                     <forename>Lucy</forename>
+                     <surname>Müller-Campbell</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117167711</idno>
+               </person>
+               <person xml:id="hsl_person_id_1572">
+                  <persName type="main">
+                     <forename>Mathilde von</forename>
+                     <surname>Schwarzburg-Sonderhausen</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/124297854</idno>
+               </person>
+               <person xml:id="hsl_person_id_1573">
+                  <persName type="main">
+                     <forename>Johann-Simon</forename>
+                     <surname>Hermstedt</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116744545</idno>
+               </person>
+               <person xml:id="hsl_person_id_1574" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1576">
+                  <persName type="main">
+                     <forename>Richard</forename>
+                     <surname>Mühlfeld</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117163406</idno>
                </person>
             </listPerson>
          </div>
