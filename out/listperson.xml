@@ -1061,6 +1061,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118528068</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q38337</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_981">La Dame aux camélias</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_66">
                   <persName type="main">
@@ -3407,6 +3410,10 @@
                      <forename>William</forename>
                      <surname>Shakespeare</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Shakspeare</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118613723</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q692</idno>
                   <listBibl type="authorOf">
@@ -3667,7 +3674,6 @@
                      <bibl n="hsl_work_id_74">Otello</bibl>
                      <bibl n="hsl_work_id_145">Nabucco</bibl>
                      <bibl n="hsl_work_id_94">Macbeth</bibl>
-                     <bibl n="hsl_work_id_96">Louisa Miller</bibl>
                      <bibl n="hsl_work_id_122">La Traviata</bibl>
                      <bibl n="hsl_work_id_171">Il trovatore</bibl>
                      <bibl n="hsl_work_id_178">I masnadieri</bibl>
@@ -3679,6 +3685,10 @@
                      <bibl n="hsl_work_id_650">Inno delle nazioni</bibl>
                      <bibl n="hsl_work_id_721">Messa da Requiem</bibl>
                      <bibl n="hsl_work_id_745">Luisa Miller</bibl>
+                     <bibl n="hsl_work_id_976">Attila</bibl>
+                     <bibl n="hsl_work_id_980">I due Foscari</bibl>
+                     <bibl n="hsl_work_id_982">Aida</bibl>
+                     <bibl n="hsl_work_id_983">Quattro pezzi sacri</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_313">
@@ -14399,11 +14409,16 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116744545</idno>
                </person>
-               <person xml:id="hsl_person_id_1574" role="fictional">
+               <person xml:id="hsl_person_id_1574">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>König von Italien</forename>
+                     <surname>Humbert I.</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Umberto</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118803131</idno>
                </person>
                <person xml:id="hsl_person_id_1576">
                   <persName type="main">
@@ -14411,6 +14426,62 @@
                      <surname>Mühlfeld</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/117163406</idno>
+               </person>
+               <person xml:id="hsl_person_id_1577">
+                  <persName type="main">
+                     <forename>Königin von Italien</forename>
+                     <surname>Margarete</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Margherita</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/120736233</idno>
+               </person>
+               <person xml:id="hsl_person_id_1578">
+                  <persName type="main">
+                     <forename>Antonio</forename>
+                     <surname>Barezzi</surname>
+                  </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q599757</idno>
+               </person>
+               <person xml:id="hsl_person_id_1579">
+                  <persName type="main">
+                     <forename>Francesco</forename>
+                     <surname>Basili</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Basily</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117768103</idno>
+               </person>
+               <person xml:id="hsl_person_id_1580">
+                  <persName type="main">
+                     <forename>Bartolomeo</forename>
+                     <surname>Merelli</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/130551600</idno>
+               </person>
+               <person xml:id="hsl_person_id_1581" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1582">
+                  <persName type="main">
+                     <forename>König von Babylonien</forename>
+                     <surname>Nebukadnezar II.</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118586718</idno>
+               </person>
+               <person xml:id="hsl_person_id_1583">
+                  <persName type="main">
+                     <forename>Marcella</forename>
+                     <surname>Sembrich</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117469513</idno>
                </person>
             </listPerson>
          </div>

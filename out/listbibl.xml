@@ -746,13 +746,6 @@
                <name type="character" ref="#hsl_person_id_505">Lucia</name>
                <name type="character" ref="#hsl_person_id_521">Sir Edgardo di Ravenswood</name>
             </bibl>
-            <bibl xml:id="hsl_work_id_96">
-               <title type="main">Louisa Miller</title>
-               <title type="alternative">Louise Miller</title>
-               <author ref="#hsl_person_id_312">
-                  <persName>Verdi, Giuseppe</persName>
-               </author>
-            </bibl>
             <bibl xml:id="hsl_work_id_97">
                <title type="main">Lohengrin, WWV75</title>
                <author ref="#hsl_person_id_319">
@@ -1545,6 +1538,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_208">
                <title type="main">Don Carlos</title>
+               <title type="alternative">Don Carlo</title>
                <author ref="#hsl_person_id_312">
                   <persName>Verdi, Giuseppe</persName>
                </author>
@@ -1982,6 +1976,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_385">
                <title type="main">La Forza del destino</title>
+               <title type="alternative">Die Macht des Schicksals</title>
                <author ref="#hsl_person_id_312">
                   <persName>Verdi, Giuseppe</persName>
                </author>
@@ -4711,7 +4706,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_745">
                <title type="main">Luisa Miller</title>
-               <title type="alternative">Luise Miller</title>
+               <title type="alternative">Luise Miller / Louise Miller</title>
                <author ref="#hsl_person_id_312">
                   <persName>Verdi, Giuseppe</persName>
                </author>
@@ -6195,7 +6190,10 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_976">
-               <title type="main"/>
+               <title type="main">Attila</title>
+               <author ref="#hsl_person_id_312">
+                  <persName>Verdi, Giuseppe</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_977">
                <title type="main">Don César de Bazan</title>
@@ -6215,6 +6213,33 @@
                <title type="alternative">Schiller-Kantate</title>
                <author ref="#hsl_person_id_182">
                   <persName>Meyerbeer, Giacomo</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_980">
+               <title type="main">I due Foscari</title>
+               <author ref="#hsl_person_id_312">
+                  <persName>Verdi, Giuseppe</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_981">
+               <title type="main">La Dame aux camélias</title>
+               <title type="alternative">Cameliendame</title>
+               <author ref="#hsl_person_id_65">
+                  <persName>Dumas, Alexandre</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_982">
+               <title type="main">Aida</title>
+               <title type="alternative">Aïda</title>
+               <author ref="#hsl_person_id_312">
+                  <persName>Verdi, Giuseppe</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_983">
+               <title type="main">Quattro pezzi sacri</title>
+               <title type="alternative">Vier geistliche Stücke</title>
+               <author ref="#hsl_person_id_312">
+                  <persName>Verdi, Giuseppe</persName>
                </author>
             </bibl>
       </listBibl>

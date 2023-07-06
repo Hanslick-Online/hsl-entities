@@ -760,7 +760,7 @@
                <place xml:id="hsl_place_id_50">
                   <settlement type="P">
                      <placeName type="main">Sankt-Peterburg</placeName>
-                     <placeName type="alternative">Sankt Petersburg</placeName>
+                     <placeName type="alternative">St. / Sankt Petersburg</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>RU, Russia</country>
@@ -1945,6 +1945,23 @@
                </place>
                <place xml:id="hsl_place_id_192">
                   <placeName type="main">Meiningen</placeName>
+               </place>
+               <place xml:id="hsl_place_id_193">
+                  <placeName type="main">Roncole Verdi</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/7280681/</idno>
+               </place>
+               <place xml:id="hsl_place_id_194">
+                  <placeName type="main">Provincia di Parma</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3171456/</idno>
+               </place>
+               <place xml:id="hsl_place_id_195">
+                  <placeName type="main">Busseto</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3181364/</idno>
+               </place>
+               <place xml:id="hsl_place_id_196">
+                  <placeName type="main">al-Qāhirah</placeName>
+                     <placeName type="alternative">Kairo / Cairo</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/360630/</idno>
                </place>
             </listPlace>
          </div>
