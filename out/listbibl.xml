@@ -974,7 +974,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_126">
                <title type="main">La Part du diable</title>
-               <title type="alternative">Des Teufels Anteil</title>
+               <title type="alternative">Des Teufels Antheil</title>
                <author ref="#hsl_person_id_16">
                   <persName>Auber, Daniel-François-Esprit</persName>
                </author>
@@ -2639,7 +2639,6 @@
                <author ref="#hsl_person_id_63">
                   <persName>Donizetti, Gaetano</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_722">Ruggiero, Ubaldini</name>
             </bibl>
             <bibl xml:id="hsl_work_id_378">
                <title type="main">Ideen zu einer Ästhetik der Tonkunst</title>
@@ -2918,7 +2917,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_423">
-               <title type="main">Licht! Mehr Licht!</title>
+               <title type="main">Licht! Mehr Licht!, S84</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -3010,12 +3009,14 @@
             </bibl>
             <bibl xml:id="hsl_work_id_448">
                <title type="main">Il turco in Italia</title>
+               <title type="alternative">Der Türke in Italien</title>
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_449">
                <title type="main">L’italiana in Algeri</title>
+               <title type="alternative">Die Italienerin in Algier</title>
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
                </author>
@@ -4158,6 +4159,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_650">
                <title type="main">Inno delle nazioni</title>
+               <title type="alternative">Weltausstellungskantate</title>
                <author ref="#hsl_person_id_312">
                   <persName>Verdi, Giuseppe</persName>
                </author>
@@ -4691,7 +4693,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_742">
                <title type="main">Wallenstein</title>
-               <name type="character" ref="#hsl_person_id_248">Schiller, Friedrich</name>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_743">
                <title type="main">Egmont</title>
@@ -6204,6 +6208,13 @@
                <title type="alternative">Der König hat’s gesagt</title>
                <author ref="#hsl_person_id_1447">
                   <persName>Delibes, Léo</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_979">
+               <title type="main">Festgesang zur Feier des 100jährigen Geburtsfestes von Friedrich Schiller</title>
+               <title type="alternative">Schiller-Kantate</title>
+               <author ref="#hsl_person_id_182">
+                  <persName>Meyerbeer, Giacomo</persName>
                </author>
             </bibl>
       </listBibl>

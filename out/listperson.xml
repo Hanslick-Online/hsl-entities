@@ -2056,10 +2056,6 @@
                      <forename>Franz</forename>
                      <surname>Liszt</surname>
                   </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Lißt</surname>
-                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118573527</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q41309</idno>
                   <listBibl type="authorOf">
@@ -2067,7 +2063,7 @@
                      <bibl n="hsl_work_id_66">Fantasie über ungarische Volksmelodien</bibl>
                      <bibl n="hsl_work_id_284">Marsch in h-Moll, op. 40 Nr. 3</bibl>
                      <bibl n="hsl_work_id_414">Eine Faust-Symphonie in drei Charakterbildern, S108</bibl>
-                     <bibl n="hsl_work_id_423">Licht! Mehr Licht!</bibl>
+                     <bibl n="hsl_work_id_423">Licht! Mehr Licht!, S84</bibl>
                      <bibl n="hsl_work_id_574">Symphonie fantastique, S.470</bibl>
                      <bibl n="hsl_work_id_575">Ouvertüre du Roi Lear de Hector Berlioz</bibl>
                      <bibl n="hsl_work_id_722">Missa Solemnis</bibl>
@@ -2317,6 +2313,7 @@
                      <bibl n="hsl_work_id_211">Dinorah ou Le pardon de Ploërmel</bibl>
                      <bibl n="hsl_work_id_502">La Jeunesse de Goethe</bibl>
                      <bibl n="hsl_work_id_550">Krönungsmarsch aus Le prophète</bibl>
+                     <bibl n="hsl_work_id_979">Festgesang zur Feier des 100jährigen Geburtsfestes von Friedrich Schiller</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_183">
@@ -3086,10 +3083,8 @@
                      <bibl n="hsl_work_id_739">Kabale und Liebe</bibl>
                      <bibl n="hsl_work_id_740">Maria Stuart</bibl>
                      <bibl n="hsl_work_id_741">Die Jungfrau von Orleans</bibl>
-                     <bibl n="hsl_work_id_965">Turandot, Prinzessin von China</bibl>
-                  </listBibl>
-                  <listBibl type="characterOf">
                      <bibl n="hsl_work_id_742">Wallenstein</bibl>
+                     <bibl n="hsl_work_id_965">Turandot, Prinzessin von China</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_249">
@@ -3906,6 +3901,10 @@
                      <forename>Antonio</forename>
                      <surname>Zamara</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Zamarra</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/137695039</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1966516</idno>
                </person>
@@ -4614,6 +4613,11 @@
                      <forename>Isabella</forename>
                      <surname>Galletti Gianoli</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Galetti</surname>
+                  </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q20003267</idno>
                </person>
                <person xml:id="hsl_person_id_422">
                   <persName type="main">
@@ -5533,6 +5537,7 @@
                      <forename>Elisa</forename>
                      <surname>Volpini</surname>
                   </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q19998535</idno>
                </person>
                <person xml:id="hsl_person_id_498">
                   <persName type="main">
@@ -7490,14 +7495,16 @@
                      <bibl n="hsl_work_id_716">Sappho</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_722" role="fictional">
+               <person xml:id="hsl_person_id_722">
                   <persName type="main">
-                     <forename>Ubaldini</forename>
+                     <forename/>
+                     <surname>Ruggieri degli Ubaldini</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Ruggiero</surname>
                   </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_377">Il Canto 33 della Divina Commedia di Dante (Il Conte Ugolino)</bibl>
-                  </listBibl>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1093574</idno>
                </person>
                <person xml:id="hsl_person_id_725">
                   <persName type="main">
@@ -7725,6 +7732,10 @@
                <person xml:id="hsl_person_id_772">
                   <persName type="main">
                      <forename>Federico</forename>
+                     <surname>Ricci</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Federigo</forename>
                      <surname>Ricci</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116504331</idno>
