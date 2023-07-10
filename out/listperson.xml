@@ -1550,16 +1550,16 @@
                   <idno type="GND">https://d-nb.info/gnd/118547356</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7349</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_13">Symphonie in G-Dur, Hob I:94</bibl>
+                     <bibl n="hsl_work_id_13">Symphonie in G-Dur, Hob. I:94</bibl>
                      <bibl n="hsl_work_id_438">Mit Würdʼ und Hoheit angetan (Schöpfung)</bibl>
                      <bibl n="hsl_work_id_243">Die Schöpfung</bibl>
                      <bibl n="hsl_work_id_244">Die Jahreszeiten</bibl>
-                     <bibl n="hsl_work_id_257">Symphonie in B-Dur, Hob I:108</bibl>
-                     <bibl n="hsl_work_id_488">Il ritorno di Tobia, Hob.XXI:1</bibl>
-                     <bibl n="hsl_work_id_510">Symphonie in D-Dur, Hob I:1</bibl>
-                     <bibl n="hsl_work_id_591">Symphonie in C-Dur, Hob I:7</bibl>
+                     <bibl n="hsl_work_id_257">Symphonie in B-Dur, Hob. I:108</bibl>
+                     <bibl n="hsl_work_id_488">Il ritorno di Tobia, Hob. XXI:1</bibl>
+                     <bibl n="hsl_work_id_510">Symphonie in D-Dur, Hob. I:1</bibl>
+                     <bibl n="hsl_work_id_591">Symphonie in C-Dur, Hob. I:7</bibl>
                      <bibl n="hsl_work_id_670">Symphonie in D-Dur, Hob. I:104</bibl>
-                     <bibl n="hsl_work_id_827">Die sieben letzten Worte unseres Erlösers am Kreuze</bibl>
+                     <bibl n="hsl_work_id_827">Die sieben letzten Worte unseres Erlösers am Kreuze, Hob. XX/1:A</bibl>
                      <bibl n="hsl_work_id_1005">Gott erhalte Franz den Kaiser</bibl>
                   </listBibl>
                </person>
@@ -1626,6 +1626,8 @@
                      <bibl n="hsl_work_id_163">Jägerlied</bibl>
                      <bibl n="hsl_work_id_753">Der Verliebte</bibl>
                      <bibl n="hsl_work_id_805">Volkslied aus Kärnthen</bibl>
+                     <bibl n="hsl_work_id_1008">Streichquartett Nr. 1 in d-Moll</bibl>
+                     <bibl n="hsl_work_id_1009">Streichquartett Nr. 2 in F-Dur, op. 9</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_122">
@@ -7213,6 +7215,10 @@
                      <forename>Moritz</forename>
                      <surname>Hauptmann</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Moriz</forename>
+                     <surname>Hauptmann</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118709143</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q60908</idno>
                   <listBibl type="authorOf">
@@ -7289,6 +7295,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Apollon</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Apollo</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118503642</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q37340</idno>
@@ -10581,7 +10591,7 @@
                      <surname>Przihoda</surname>
                   </persName>
                </person>
-               <person xml:id="hsl_person_id_1122" role="fictional">
+               <person xml:id="hsl_person_id_1122">
                   <persName type="main">
                      <forename>Carl</forename>
                      <surname>Loewe</surname>
@@ -11620,7 +11630,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename>Nikolas</forename>
-                     <surname>Dumbe</surname>
+                     <surname>Dumba</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/11881740X</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q113818</idno>
@@ -11987,6 +11997,7 @@
                      <forename>Ludwig</forename>
                      <surname>Löwe</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/101459734</idno>
                </person>
                <person xml:id="hsl_person_id_1288">
                   <persName type="main">
@@ -11998,6 +12009,10 @@
                <person xml:id="hsl_person_id_1289">
                   <persName type="main">
                      <forename>Rudolf</forename>
+                     <surname>Mannl</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Rudolph</forename>
                      <surname>Mannl</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/1013170946</idno>
@@ -12166,7 +12181,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Heiland</surname>
+                     <surname>Jesus / Heiland</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_817">Marie-Magdeleine</bibl>
@@ -12191,19 +12206,6 @@
                      <surname>Judas</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_817">Marie-Magdeleine</bibl>
-                  </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_1311" role="fictional">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Jésus</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Jesus</surname>
-                  </persName>
-                  <listBibl type="authorOf">
                      <bibl n="hsl_work_id_817">Marie-Magdeleine</bibl>
                   </listBibl>
                </person>
@@ -12236,6 +12238,10 @@
                      <forename>Makkabäus</forename>
                      <surname>Judas</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Judas Maccäbus</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118886673</idno>
                </person>
                <person xml:id="hsl_person_id_1316">
@@ -12244,6 +12250,9 @@
                      <surname>Gallait</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/119005247</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_817">Marie-Magdeleine</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1317">
                   <persName type="main">
@@ -12280,8 +12289,8 @@
                </person>
                <person xml:id="hsl_person_id_1321">
                   <persName type="main">
-                     <forename/>
-                     <surname>Migliardi Lia</surname>
+                     <forename>Lia</forename>
+                     <surname>Migliardi</surname>
                   </persName>
                </person>
                <person xml:id="hsl_person_id_1322">
@@ -14485,10 +14494,10 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/130551600</idno>
                </person>
-               <person xml:id="hsl_person_id_1581" role="fictional">
+               <person xml:id="hsl_person_id_1581">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>?</forename>
+                     <surname>Jaretschek</surname>
                   </persName>
                </person>
                <person xml:id="hsl_person_id_1582">
