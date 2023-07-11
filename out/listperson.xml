@@ -452,7 +452,7 @@
                      <bibl n="hsl_work_id_862">Partita für Violine Nr. 3 in E-Dur, BWV1006</bibl>
                      <bibl n="hsl_work_id_875">Fürchte dich nicht, ich bin bei dir, BWV228</bibl>
                      <bibl n="hsl_work_id_887">Präludium</bibl>
-                     <bibl n="hsl_work_id_1012">Toccata und Fuge in d-Moll, BWV 565</bibl>
+                     <bibl n="hsl_work_id_1012">Toccata und Fuge in d-Moll, BWV565</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_19">
@@ -2082,6 +2082,7 @@
                      <bibl n="hsl_work_id_807">Hunnenschlacht, S105</bibl>
                      <bibl n="hsl_work_id_835">Concerto pathétique, S258</bibl>
                      <bibl n="hsl_work_id_886">Klavierkonzert Nr. 1 in Es-Dur, S124</bibl>
+                     <bibl n="hsl_work_id_1013">St. François d'Assise: La Prédication aux Oiseaux, S175 Nr. 1</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_165">
@@ -3504,7 +3505,7 @@
                      <bibl n="hsl_work_id_198">Faust</bibl>
                      <bibl n="hsl_work_id_407">Symphonie Nr. 4 in F-Dur, op. 86</bibl>
                      <bibl n="hsl_work_id_767">Violinkonzert Nr. 8 in a-Moll „In Form einer Gesangsszene“</bibl>
-                     <bibl n="hsl_work_id_1010">Sechs deutsche Lieder für Singstimme, Klarinette und Klavier, op. 103</bibl>
+                     <bibl n="hsl_work_id_1010">Sechs deutsche Lieder, op. 103</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_294">
@@ -12836,7 +12837,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Soldat-Röger; Soldat-Roeger</surname>
+                     <surname>Soldat-Röger / Soldat-Roeger</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/117460354</idno>
                </person>
@@ -14447,15 +14448,19 @@
                </person>
                <person xml:id="hsl_person_id_1572">
                   <persName type="main">
-                     <forename>Mathilde von</forename>
-                     <surname>Schwarzburg-Sondershausen</surname>
+                     <forename>Fürstin von Schwarzburg-Sondershausen</forename>
+                     <surname>Mathilde</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/124297854</idno>
                </person>
                <person xml:id="hsl_person_id_1573">
                   <persName type="main">
-                     <forename>Johann-Simon</forename>
+                     <forename>Johann Simon</forename>
                      <surname>Hermstedt</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Hermstädt</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116744545</idno>
                </person>
@@ -14650,6 +14655,10 @@
                      <forename>Marie</forename>
                      <surname>Baumayer</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Maria</forename>
+                     <surname>Baumayer</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/130099104</idno>
                </person>
                <person xml:id="hsl_person_id_1598">
@@ -14739,6 +14748,12 @@
                      <surname>Grimm</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118697773</idno>
+               </person>
+               <person xml:id="hsl_person_id_1613">
+                  <persName type="main">
+                     <forename>Mathilde von</forename>
+                     <surname>Hochmeister</surname>
+                  </persName>
                </person>
             </listPerson>
          </div>
