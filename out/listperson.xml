@@ -11815,6 +11815,10 @@
                      <bibl n="hsl_work_id_972">Suite für Orchester in A-Dur, op. 98b</bibl>
                      <bibl n="hsl_work_id_973">Můj domov, op. 62</bibl>
                      <bibl n="hsl_work_id_974">Stabat Mater, op. 58</bibl>
+                     <bibl n="hsl_work_id_1015">Klänge aus Mähren, op. 20</bibl>
+                     <bibl n="hsl_work_id_1017">Klänge aus Mähren, op. 29</bibl>
+                     <bibl n="hsl_work_id_1018">Klänge aus Mähren, op. 32</bibl>
+                     <bibl n="hsl_work_id_1019">Svatá Lumila</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1266">
@@ -12743,13 +12747,16 @@
                      <surname>Wolzogen</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/11889028X</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_851">Feuersnot, op. 50</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1372" role="fictional">
                   <persName type="main">
                      <forename/>
                      <surname>Kunrad</surname>
                   </persName>
-                  <listBibl type="authorOf">
+                  <listBibl type="characterOf">
                      <bibl n="hsl_work_id_851">Feuersnot, op. 50</bibl>
                   </listBibl>
                </person>
@@ -12766,6 +12773,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Ortolf Sentlinger</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Bürgermeister</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_851">Feuersnot, op. 50</bibl>
@@ -13337,6 +13348,7 @@
                   <idno type="GND">https://d-nb.info/gnd/118886568</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_912">Lucifer</bibl>
+                     <bibl n="hsl_work_id_1014">De Oorlog</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1438" role="fictional">
@@ -14753,6 +14765,66 @@
                   <persName type="main">
                      <forename>Mathilde von</forename>
                      <surname>Hochmeister</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1614">
+                  <persName type="main">
+                     <forename>Jacob van</forename>
+                     <surname>Artevelde</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119109840</idno>
+               </person>
+               <person xml:id="hsl_person_id_1615">
+                  <persName type="main">
+                     <forename>Jan van</forename>
+                     <surname>Beers</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/13588568X</idno>
+               </person>
+               <person xml:id="hsl_person_id_1616">
+                  <persName type="main">
+                     <forename>Julius</forename>
+                     <surname>Buths</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117184195</idno>
+               </person>
+               <person xml:id="hsl_person_id_1617">
+                  <persName type="main">
+                     <forename>Bedřich</forename>
+                     <surname>Smetana</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118615017</idno>
+               </person>
+               <person xml:id="hsl_person_id_1618" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1619">
+                  <persName type="main">
+                     <forename>Leopoldine</forename>
+                     <surname>Blasel-Korner</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/133016625</idno>
+               </person>
+               <person xml:id="hsl_person_id_1620">
+                  <persName type="main">
+                     <forename>Hermann</forename>
+                     <surname>Gura</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116930489</idno>
+               </person>
+               <person xml:id="hsl_person_id_1621">
+                  <persName type="main">
+                     <forename>Karl</forename>
+                     <surname>Musch</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1622">
+                  <persName type="main">
+                     <forename>Irma</forename>
+                     <surname>Löwe</surname>
                   </persName>
                </person>
             </listPerson>
