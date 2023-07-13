@@ -492,7 +492,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_6">Das Märchen von der schönen Melusine</bibl>
                      <bibl n="hsl_work_id_32">Variations sérieuses, op. 54</bibl>
-                     <bibl n="hsl_work_id_50">Ein Sommernachtstraum</bibl>
+                     <bibl n="hsl_work_id_50">Ein Sommernachtstraum, op. 21</bibl>
                      <bibl n="hsl_work_id_67">Paulus, op. 36</bibl>
                      <bibl n="hsl_work_id_78">Oedipus in Kolonos</bibl>
                      <bibl n="hsl_work_id_88">Meeresstille und glückliche Fahrt</bibl>
@@ -508,7 +508,6 @@
                      <bibl n="hsl_work_id_357">Die Hebriden oder Die Fingalshöhle</bibl>
                      <bibl n="hsl_work_id_367">Die Waldvögelein, op. 88 Nr. 4</bibl>
                      <bibl n="hsl_work_id_368">Winterlied, op. 19a Nr. 3</bibl>
-                     <bibl n="hsl_work_id_442">Notturno (Sommernachtstraum)</bibl>
                      <bibl n="hsl_work_id_525">Die Primel, op. 48 Nr. 2</bibl>
                      <bibl n="hsl_work_id_531">Violinkonzert in e-Moll, op. 64</bibl>
                      <bibl n="hsl_work_id_690">Klaviertrio Nr. 1 in d-Moll, op. 49</bibl>
@@ -1274,7 +1273,11 @@
                   <idno type="GND">https://d-nb.info/gnd/119309998</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q548181</idno>
                   <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_56">Roméo et Juliette</bibl>
+                     <bibl n="hsl_work_id_199">Faust</bibl>
                      <bibl n="hsl_work_id_893">Les Contes d'Hoffmann</bibl>
+                     <bibl n="hsl_work_id_894">Mignon</bibl>
+                     <bibl n="hsl_work_id_895">Hamlet</bibl>
                      <bibl n="hsl_work_id_897">Les Contes d'Hoffmann (1851)</bibl>
                   </listBibl>
                </person>
@@ -2335,7 +2338,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Mayerhofer / Meyerhofer</surname>
+                     <surname>Mayrhofer / Meyerhofer</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116964251</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55674938</idno>
@@ -8211,6 +8214,10 @@
                      <forename>Kaiser des Heiligen Römischen Reichs</forename>
                      <surname>Josef II.</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Joseph</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118558404</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76555</idno>
                </person>
@@ -9801,8 +9808,6 @@
                      <forename/>
                      <surname>Tristan</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/118819089</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q954012</idno>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_417">Tristan und Isolde</bibl>
                   </listBibl>
@@ -10906,7 +10911,7 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116245247</idno>
                </person>
-               <person xml:id="hsl_person_id_1162" role="fictional">
+               <person xml:id="hsl_person_id_1162">
                   <persName type="main">
                      <forename>Johann Baptist</forename>
                      <surname>Cramer</surname>
@@ -11808,7 +11813,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_780">Karneval, op. 92</bibl>
                      <bibl n="hsl_work_id_902">Zlatý kolovrat, op. 109</bibl>
-                     <bibl n="hsl_work_id_903">Vodník</bibl>
+                     <bibl n="hsl_work_id_903">Vodník, op. 107</bibl>
                      <bibl n="hsl_work_id_904">Polednice, op. 108</bibl>
                      <bibl n="hsl_work_id_905">Holoubek, op. 110</bibl>
                      <bibl n="hsl_work_id_906">Rusalka, op. 114</bibl>
@@ -12096,7 +12101,7 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/129680761</idno>
                </person>
-               <person xml:id="hsl_person_id_1298" role="fictional">
+               <person xml:id="hsl_person_id_1298">
                   <persName type="main">
                      <forename>Georges</forename>
                      <surname>Bizet</surname>
@@ -12117,7 +12122,7 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/133358534</idno>
                </person>
-               <person xml:id="hsl_person_id_1301" role="fictional">
+               <person xml:id="hsl_person_id_1301">
                   <persName type="main">
                      <forename>Max</forename>
                      <surname>Hiller</surname>
@@ -12835,6 +12840,7 @@
                   <idno type="GND">https://d-nb.info/gnd/118628429</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_860">Herzog Wildfang, op. 2</bibl>
+                     <bibl n="hsl_work_id_861">Der Bärenhäuter, op. 1</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1381">
@@ -12894,6 +12900,9 @@
                      <surname>Müller</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/11858524X</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_877">Vineta, op. 42 Nr. 2</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1388">
                   <persName type="main">
@@ -12922,6 +12931,10 @@
                      <forename/>
                      <surname>Venus</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Vénus</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/11876800X</idno>
                </person>
                <person xml:id="hsl_person_id_1391">
@@ -12946,6 +12959,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Phèdre</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Phädra</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_880">Phèdre</bibl>
@@ -12975,7 +12992,7 @@
                      <surname>Hippolyt</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_881">Phèdre</bibl>
+                     <bibl n="hsl_work_id_880">Phèdre</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1397" role="fictional">
@@ -13040,7 +13057,7 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116608943</idno>
                </person>
-               <person xml:id="hsl_person_id_1405" role="fictional">
+               <person xml:id="hsl_person_id_1405">
                   <persName type="main">
                      <forename>Anton</forename>
                      <surname>Door</surname>
@@ -13121,10 +13138,6 @@
                </person>
                <person xml:id="hsl_person_id_1414">
                   <persName type="main">
-                     <forename/>
-                     <surname>Erckmann-Chatrian</surname>
-                  </persName>
-                  <persName type="alternative">
                      <forename/>
                      <surname>Erckmann-Chatrian</surname>
                   </persName>
@@ -13232,7 +13245,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Nikolaus</surname>
+                     <surname>Nikolaus / Niklas</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_893">Les Contes d'Hoffmann</bibl>
@@ -13340,13 +13353,17 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118534645</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_911">Les Béatitudes</bibl>
+                     <bibl n="hsl_work_id_911">Les Béatitudes, op. 25</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1437">
                   <persName type="main">
                      <forename>Peter</forename>
                      <surname>Benoît</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Benoit</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118886568</idno>
                   <listBibl type="authorOf">
@@ -14933,6 +14950,35 @@
                      <surname>Laroche</surname>
                   </persName>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q4254634</idno>
+               </person>
+               <person xml:id="hsl_person_id_1639">
+                  <persName type="main">
+                     <forename>Antonina</forename>
+                     <surname>Miliukova</surname>
+                  </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q4776343</idno>
+               </person>
+               <person xml:id="hsl_person_id_1640">
+                  <persName type="main">
+                     <forename>Alexander</forename>
+                     <surname>Rosé</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1641">
+                  <persName type="main">
+                     <forename>König von Israel</forename>
+                     <surname>Saul</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118605836</idno>
+               </person>
+               <person xml:id="hsl_person_id_1642">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Glitz</surname>
+                  </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_596">Venus und Bellona</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

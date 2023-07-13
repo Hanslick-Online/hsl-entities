@@ -428,7 +428,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_50">
-               <title type="main">Ein Sommernachtstraum</title>
+               <title type="main">Ein Sommernachtstraum, op. 21</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
@@ -474,6 +474,9 @@
             <bibl xml:id="hsl_work_id_56">
                <title type="main">Roméo et Juliette</title>
                <title type="alternative">Romeo und Julia  / Julie</title>
+               <author ref="#hsl_person_id_90">
+                  <persName>Barbier, Jules</persName>
+               </author>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
                </author>
@@ -1468,6 +1471,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_199">
                <title type="main">Faust</title>
+               <author ref="#hsl_person_id_90">
+                  <persName>Barbier, Jules</persName>
+               </author>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
                </author>
@@ -2062,7 +2068,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_280">
                <title type="main">La belle Hélène</title>
-               <title type="alternative">Die schöne Helena</title>
+               <title type="alternative">Die schöne Helena / Laus der Gute</title>
                <author ref="#hsl_person_id_202">
                   <persName>Offenbach, Jacques</persName>
                </author>
@@ -2985,12 +2991,6 @@
                   <persName>Schubert, Franz</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_442">
-               <title type="main">Notturno (Sommernachtstraum)</title>
-               <author ref="#hsl_person_id_21">
-                  <persName>Mendelssohn Bartholdy, Felix</persName>
-               </author>
-            </bibl>
             <bibl xml:id="hsl_work_id_443">
                <title type="main">Widerspruch</title>
                <author ref="#hsl_person_id_279">
@@ -3873,6 +3873,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_596">
                <title type="main">Venus und Bellona</title>
+               <author ref="#hsl_person_id_1642">
+                  <persName>Glitz, ?</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_597">
                <title type="main">Symphonie Nr. 2 in e-Moll, op. 115</title>
@@ -5462,6 +5465,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_861">
                <title type="main">Der Bärenhäuter, op. 1</title>
+               <author ref="#hsl_person_id_1380">
+                  <persName>Wagner, Siegfried</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_862">
                <title type="main">Partita für Violine Nr. 3 in E-Dur, BWV1006</title>
@@ -5554,6 +5560,9 @@
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
+               <author ref="#hsl_person_id_1387">
+                  <persName>Müller, Wilhelm</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_878">
                <title type="main">Schicksalslied, op. 54</title>
@@ -5574,6 +5583,7 @@
                   <persName>Rancine, Jean</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1393">Phèdre</name>
+               <name type="character" ref="#hsl_person_id_1396">Hippolyte</name>
             </bibl>
             <bibl xml:id="hsl_work_id_881">
                <title type="main">Phèdre</title>
@@ -5581,7 +5591,6 @@
                <author ref="#hsl_person_id_1302">
                   <persName>Massenet, Jules</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_1396">Hippolyte</name>
             </bibl>
             <bibl xml:id="hsl_work_id_882">
                <title type="main">Le fanatisme ou Mahomet le Prophète</title>
@@ -5681,12 +5690,18 @@
             </bibl>
             <bibl xml:id="hsl_work_id_894">
                <title type="main">Mignon</title>
+               <author ref="#hsl_person_id_90">
+                  <persName>Barbier, Jules</persName>
+               </author>
                <author ref="#hsl_person_id_305">
                   <persName>Thomas, Ambroise</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_895">
                <title type="main">Hamlet</title>
+               <author ref="#hsl_person_id_90">
+                  <persName>Barbier, Jules</persName>
+               </author>
                <author ref="#hsl_person_id_305">
                   <persName>Thomas, Ambroise</persName>
                </author>
@@ -5742,7 +5757,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_903">
-               <title type="main">Vodník</title>
+               <title type="main">Vodník, op. 107</title>
                <title type="alternative">Der Wassermann</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
@@ -5797,7 +5812,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_911">
-               <title type="main">Les Béatitudes</title>
+               <title type="main">Les Béatitudes, op. 25</title>
                <title type="alternative">Die Seligkeiten</title>
                <author ref="#hsl_person_id_1436">
                   <persName>Franck, César</persName>
