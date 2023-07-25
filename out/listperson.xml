@@ -190,8 +190,8 @@
                </person>
                <person xml:id="hsl_person_id_373">
                   <persName type="main">
-                     <forename>Tegnér</forename>
-                     <surname>Esaias</surname>
+                     <forename>Esaias</forename>
+                     <surname>Tegnér</surname>
                   </persName>
                   <persName type="alternative">
                      <forename/>
@@ -805,7 +805,7 @@
                      <bibl n="hsl_work_id_931">7 Fantasien, op. 116</bibl>
                      <bibl n="hsl_work_id_1034">Symphonie Nr. 3 in F-Dur, op. 90</bibl>
                      <bibl n="hsl_work_id_1059">Drei Motetten, op. 110</bibl>
-                     <bibl n="hsl_work_id_1060">Ach, arme Welt, du trügest mich, op. 110, 2</bibl>
+                     <bibl n="hsl_work_id_1060">Ach, arme Welt, du trügest mich, op. 110 Nr. 2</bibl>
                      <bibl n="hsl_work_id_1088">Ein deutsches Requiem nach Worten der Heiligen Schrift, op.45</bibl>
                   </listBibl>
                </person>
@@ -1504,7 +1504,7 @@
                      <bibl n="hsl_work_id_520">Israel in Egypt</bibl>
                      <bibl n="hsl_work_id_708">Ode for St. Cecilia's Day, HWV 76</bibl>
                      <bibl n="hsl_work_id_709">Das Alexanderfest, HW 75</bibl>
-                     <bibl n="hsl_work_id_710">Acis and Galathea, HW 49</bibl>
+                     <bibl n="hsl_work_id_710">Acis and Galathea, HWV49</bibl>
                      <bibl n="hsl_work_id_901">Saul, HWV53</bibl>
                      <bibl n="hsl_work_id_907">Theodora, HWV68</bibl>
                      <bibl n="hsl_work_id_908">Joshua, HWV64</bibl>
@@ -2186,7 +2186,7 @@
                      <surname>Mara</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename>Gertrud Elisabeth</forename>
+                     <forename/>
                      <surname>Schmeling</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118730770</idno>
@@ -3439,10 +3439,6 @@
                   <persName type="main">
                      <forename>William</forename>
                      <surname>Shakespeare</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Shakspeare</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118613723</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q692</idno>
@@ -11871,7 +11867,7 @@
                      <bibl n="hsl_work_id_1017">Klänge aus Mähren, op. 29</bibl>
                      <bibl n="hsl_work_id_1018">Klänge aus Mähren, op. 32</bibl>
                      <bibl n="hsl_work_id_1019">Svatá Lumila</bibl>
-                     <bibl n="hsl_work_id_1033">9. Sinfonie e-moll, op. 95</bibl>
+                     <bibl n="hsl_work_id_1033">Symphonie Nr. 9 in e-Moll, op. 95</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1266">
@@ -15537,6 +15533,22 @@
                      <surname>Franz</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118702955</idno>
+               </person>
+               <person xml:id="hsl_person_id_1709">
+                  <persName type="main">
+                     <forename>Gustav Eduard</forename>
+                     <surname>Engel</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116487178</idno>
+               </person>
+               <person xml:id="hsl_person_id_1710" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Isolde</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_417">Tristan und Isolde</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
