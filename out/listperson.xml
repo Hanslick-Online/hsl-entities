@@ -753,8 +753,8 @@
                      <surname>Bonaparte</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
-                     <surname>Jerome</surname>
+                     <forename>Jerome</forename>
+                     <surname>Bonaparte</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118557432</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q151087</idno>
@@ -806,6 +806,7 @@
                      <bibl n="hsl_work_id_1034">Symphonie Nr. 3 in F-Dur, op. 90</bibl>
                      <bibl n="hsl_work_id_1059">Drei Motetten, op. 110</bibl>
                      <bibl n="hsl_work_id_1060">Ach, arme Welt, du trügest mich, op. 110, 2</bibl>
+                     <bibl n="hsl_work_id_1088">Ein deutsches Requiem nach Worten der Heiligen Schrift, op.45</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_42">
@@ -1625,6 +1626,10 @@
                      <forename>Joseph</forename>
                      <surname>Hellmesberger</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Joseph</forename>
+                     <surname>Hellmesberger senior</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/103787038</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q698074</idno>
                </person>
@@ -2200,10 +2205,6 @@
                <person xml:id="hsl_person_id_172">
                   <persName type="main">
                      <forename>Nicolas de</forename>
-                     <surname>L'Hospital</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename>duc de Vitry</forename>
                      <surname>L'Hospital</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/1011847108</idno>
@@ -5701,10 +5702,6 @@
                      <forename>Nichte des Landgrafen</forename>
                      <surname>Elisabeth</surname>
                   </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Elisabeth von Thüringen</surname>
-                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_40">Tannhäuser und der Sängerkrieg auf Wartburg, WWV70</bibl>
                   </listBibl>
@@ -5870,10 +5867,6 @@
                      <forename/>
                      <surname>Frithjof</surname>
                   </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Frithjof</surname>
-                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_310">Frithjof</bibl>
                   </listBibl>
@@ -5947,7 +5940,7 @@
                <person xml:id="hsl_person_id_547" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Le comte d’Oberthal</surname>
+                     <surname>Le Comte d’Oberthal</surname>
                   </persName>
                   <persName type="alternative">
                      <forename/>
@@ -8922,10 +8915,6 @@
                      <forename>Herzog von Sachsen-Coburg-Gotha</forename>
                      <surname>Ernst II.</surname>
                   </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Ernst von Coburg-Gotha</surname>
-                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118685279</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q213630</idno>
                   <listBibl type="authorOf">
@@ -11578,7 +11567,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Fürst Jelezky</surname>
+                     <surname>Jelezky</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_728">Pikowaja dama</bibl>
@@ -11601,7 +11590,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Graf Tomsky</surname>
+                     <surname>Tomsky</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_728">Pikowaja dama</bibl>
