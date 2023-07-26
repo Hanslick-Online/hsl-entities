@@ -1496,11 +1496,11 @@
                   <idno type="GND">https://d-nb.info/gnd/118544489</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7302</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_53">Samson</bibl>
-                     <bibl n="hsl_work_id_158">Judas Maccabaeus</bibl>
+                     <bibl n="hsl_work_id_53">Samson, HWV57</bibl>
+                     <bibl n="hsl_work_id_158">Judas Maccabaeus, HWV63</bibl>
                      <bibl n="hsl_work_id_253">Belshazzar</bibl>
                      <bibl n="hsl_work_id_375">Lascia ch’io pianga</bibl>
-                     <bibl n="hsl_work_id_463">Der Messias</bibl>
+                     <bibl n="hsl_work_id_463">Messiah, HWV56</bibl>
                      <bibl n="hsl_work_id_520">Israel in Egypt</bibl>
                      <bibl n="hsl_work_id_708">Ode for St. Cecilia's Day, HWV 76</bibl>
                      <bibl n="hsl_work_id_709">Das Alexanderfest, HW 75</bibl>
@@ -1509,6 +1509,13 @@
                      <bibl n="hsl_work_id_907">Theodora, HWV68</bibl>
                      <bibl n="hsl_work_id_908">Joshua, HWV64</bibl>
                      <bibl n="hsl_work_id_909">Deborah, HWV51</bibl>
+                     <bibl n="hsl_work_id_1026">Esther, HWV50</bibl>
+                     <bibl n="hsl_work_id_1039">Brockes-Passion, HWV48</bibl>
+                     <bibl n="hsl_work_id_1061">The King Shall Rejoice, HWV260</bibl>
+                     <bibl n="hsl_work_id_1087">Let Thy Hand Be Strengthened, HWV259</bibl>
+                     <bibl n="hsl_work_id_1094">Zadok the Priest, HWV258</bibl>
+                     <bibl n="hsl_work_id_1095">My Heart is Inditing, HWV261</bibl>
+                     <bibl n="hsl_work_id_1096">Joseph and his Brethren, HWV59</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_109">
@@ -1568,7 +1575,7 @@
                      <bibl n="hsl_work_id_13">Symphonie in G-Dur, Hob. I:94</bibl>
                      <bibl n="hsl_work_id_438">Mit Würdʼ und Hoheit angetan (Schöpfung)</bibl>
                      <bibl n="hsl_work_id_243">Die Schöpfung</bibl>
-                     <bibl n="hsl_work_id_244">Die Jahreszeiten</bibl>
+                     <bibl n="hsl_work_id_244">Die Jahreszeiten, Hob. XXI:3</bibl>
                      <bibl n="hsl_work_id_257">Symphonie in B-Dur, Hob. I:108</bibl>
                      <bibl n="hsl_work_id_488">Il ritorno di Tobia, Hob. XXI:1</bibl>
                      <bibl n="hsl_work_id_510">Symphonie in D-Dur, Hob. I:1</bibl>
@@ -1576,6 +1583,7 @@
                      <bibl n="hsl_work_id_670">Symphonie in D-Dur, Hob. I:104</bibl>
                      <bibl n="hsl_work_id_827">Die sieben letzten Worte unseres Erlösers am Kreuze, Hob. XX/1:A</bibl>
                      <bibl n="hsl_work_id_1005">Gott erhalte Franz den Kaiser</bibl>
+                     <bibl n="hsl_work_id_1090">Streichquartett in B-Dur</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_115">
@@ -4058,7 +4066,7 @@
                      <surname>Hanne</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_244">Die Jahreszeiten</bibl>
+                     <bibl n="hsl_work_id_244">Die Jahreszeiten, Hob. XXI:3</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_351">
@@ -4912,15 +4920,19 @@
                <person xml:id="hsl_person_id_503" role="fictional">
                   <persName type="main">
                      <forename/>
+                     <surname>Fernand</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Fernando</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_384">Marin Faliero</bibl>
+                     <bibl n="hsl_work_id_380">La Favorita</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_515">
                   <persName type="main">
-                     <forename>Th. de</forename>
+                     <forename>Tomaso de</forename>
                      <surname>Azula</surname>
                   </persName>
                </person>
@@ -4947,6 +4959,7 @@
                      <forename>Giovanni Battista</forename>
                      <surname>Cornago</surname>
                   </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q102279324</idno>
                </person>
                <person xml:id="hsl_person_id_431" role="fictional">
                   <persName type="main">
@@ -5237,9 +5250,14 @@
                </person>
                <person xml:id="hsl_person_id_514">
                   <persName type="main">
+                     <forename>Elise</forename>
+                     <surname>Cássh</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename/>
                      <surname>Cash</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117017082X</idno>
                </person>
                <person xml:id="hsl_person_id_459" role="fictional">
                   <persName type="main">
@@ -5614,10 +5632,10 @@
                <person xml:id="hsl_person_id_504" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Osiride</surname>
+                     <surname>Aménophis</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_84">Mosè in Egitto</bibl>
+                     <bibl n="hsl_work_id_86">Moïse et Pharaon, ou Le passage de la Mer Rouge</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_505" role="fictional">
@@ -5632,7 +5650,7 @@
                <person xml:id="hsl_person_id_509" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Renato / Graf Anckarström</surname>
+                     <surname>Renato</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_35">Un ballo in maschera</bibl>
@@ -6438,7 +6456,7 @@
                      <surname>Judas</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_158">Judas Maccabaeus</bibl>
+                     <bibl n="hsl_work_id_158">Judas Maccabaeus, HWV63</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_602" role="fictional">
@@ -6717,6 +6735,10 @@
                      <forename/>
                      <surname>Moses</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Mosè</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_520">Israel in Egypt</bibl>
                   </listBibl>
@@ -6940,7 +6962,7 @@
                      <surname>Samson</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_53">Samson</bibl>
+                     <bibl n="hsl_work_id_53">Samson, HWV57</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_656" role="fictional">
@@ -7591,7 +7613,7 @@
                      <surname>Lukas</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_244">Die Jahreszeiten</bibl>
+                     <bibl n="hsl_work_id_244">Die Jahreszeiten, Hob. XXI:3</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_736">
@@ -10612,6 +10634,10 @@
                      <forename/>
                      <surname>Mose</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Moses</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118641190</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9077</idno>
                </person>
@@ -10845,6 +10871,10 @@
                <person xml:id="hsl_person_id_1146">
                   <persName type="main">
                      <forename>Caroline</forename>
+                     <surname>Barbôt</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Karoline</forename>
                      <surname>Barbôt</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/138168253</idno>
@@ -11863,7 +11893,7 @@
                      <bibl n="hsl_work_id_972">Suite für Orchester in A-Dur, op. 98b</bibl>
                      <bibl n="hsl_work_id_973">Můj domov, op. 62</bibl>
                      <bibl n="hsl_work_id_974">Stabat Mater, op. 58</bibl>
-                     <bibl n="hsl_work_id_1019">Svatá Lumila</bibl>
+                     <bibl n="hsl_work_id_1019">Svatá Lumila, op. 71</bibl>
                      <bibl n="hsl_work_id_1033">Symphonie Nr. 9 in e-Moll, op. 95</bibl>
                      <bibl n="hsl_work_id_1089">Klänge aus Mähren op. 20, 29, 32</bibl>
                   </listBibl>
@@ -12212,6 +12242,7 @@
                   <idno type="GND">https://d-nb.info/gnd/118744496</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_818">Vie de Jésus</bibl>
+                     <bibl n="hsl_work_id_1091">Histoire du peuple d'Israël</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1306" role="fictional">
@@ -13088,6 +13119,10 @@
                      <surname>Rückauf</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116673001</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1092">Flammen und Asche. Ein Liedercyklus von Johanna Ambrosius für 1 Singstimme mit Pianoforte, op. 21</bibl>
+                     <bibl n="hsl_work_id_1093">Fünf Lieder für 1 Singstimme mit Pianoforte , op. 23</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1404">
                   <persName type="main">
@@ -15040,8 +15075,13 @@
                <person xml:id="hsl_person_id_1644" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Deborah</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Debora</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1108794203</idno>
                </person>
                <person xml:id="hsl_person_id_1645">
                   <persName type="main">
@@ -15066,8 +15106,13 @@
                <person xml:id="hsl_person_id_1648" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Salomo</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Salomon</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118605100</idno>
                </person>
                <person xml:id="hsl_person_id_1649" role="fictional">
                   <persName type="main">
@@ -15139,8 +15184,9 @@
                <person xml:id="hsl_person_id_1657" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Mirjam</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/129232726</idno>
                </person>
                <person xml:id="hsl_person_id_1658">
                   <persName type="main">
@@ -15203,11 +15249,13 @@
                <person xml:id="hsl_person_id_1665" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Jahwe</surname>
                   </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_1065">Kain</bibl>
-                  </listBibl>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Jehovah</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118556703</idno>
                </person>
                <person xml:id="hsl_person_id_1666" role="fictional">
                   <persName type="main">
@@ -15282,14 +15330,16 @@
                <person xml:id="hsl_person_id_1676" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Barak</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1147227519</idno>
                </person>
                <person xml:id="hsl_person_id_1677" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Sisera</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1128100452</idno>
                </person>
                <person xml:id="hsl_person_id_1678">
                   <persName type="main">
@@ -15358,8 +15408,13 @@
                <person xml:id="hsl_person_id_1685" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Jael</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Jaël</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/105871158X</idno>
                </person>
                <person xml:id="hsl_person_id_1686" role="fictional">
                   <persName type="main">
@@ -15443,11 +15498,19 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/11877137X</idno>
                </person>
-               <person xml:id="hsl_person_id_1696" role="fictional">
+               <person xml:id="hsl_person_id_1696">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Samuel</forename>
+                     <surname>Humphreys</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Humphrey</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1055219749</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_909">Deborah, HWV51</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1697">
                   <persName type="main">
@@ -15515,7 +15578,7 @@
                <person xml:id="hsl_person_id_1706" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Abinoam</surname>
                   </persName>
                </person>
                <person xml:id="hsl_person_id_1707">
@@ -15547,6 +15610,114 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_417">Tristan und Isolde</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1711" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Abinoam</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_909">Deborah, HWV51</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1712" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Deborah</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Debora</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_909">Deborah, HWV51</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1713" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Barak</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_909">Deborah, HWV51</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1714" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Jael</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_909">Deborah, HWV51</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1715">
+                  <persName type="main">
+                     <forename>Adrienne</forename>
+                     <surname>Osborne</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117150681</idno>
+               </person>
+               <person xml:id="hsl_person_id_1716">
+                  <persName type="main">
+                     <forename>Felix von</forename>
+                     <surname>Kraus</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116387718</idno>
+               </person>
+               <person xml:id="hsl_person_id_1717" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Sisera</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_909">Deborah, HWV51</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1718" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Herald</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Bote</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_909">Deborah, HWV51</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1719">
+                  <persName type="main">
+                     <forename>Alexander</forename>
+                     <surname>Rosalewicz</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1720">
+                  <persName type="main">
+                     <forename>Carl</forename>
+                     <surname>Prohaska</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116304634</idno>
+               </person>
+               <person xml:id="hsl_person_id_1721" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Moïse</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Mosè / Moses</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_86">Moïse et Pharaon, ou Le passage de la Mer Rouge</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1722" role="fictional">
+                  <persName type="main">
+                     <forename>Napoleone</forename>
+                     <surname>Rossi</surname>
+                  </persName>
                </person>
             </listPerson>
          </div>

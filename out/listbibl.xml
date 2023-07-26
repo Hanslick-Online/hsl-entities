@@ -338,7 +338,7 @@
                <author ref="#hsl_person_id_312">
                   <persName>Verdi, Giuseppe</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_509">Renato / Graf Anckarström</name>
+               <name type="character" ref="#hsl_person_id_509">Renato</name>
             </bibl>
             <bibl xml:id="hsl_work_id_36">
                <title type="main">The Merry Wives of Windsor</title>
@@ -447,7 +447,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_53">
-               <title type="main">Samson</title>
+               <title type="main">Samson, HWV57</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
@@ -679,7 +679,6 @@
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_504">Osiride</name>
             </bibl>
             <bibl xml:id="hsl_work_id_85">
                <title type="main">Montano et Stephanie</title>
@@ -692,6 +691,8 @@
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_504">Aménophis</name>
+               <name type="character" ref="#hsl_person_id_1721">Moïse</name>
             </bibl>
             <bibl xml:id="hsl_work_id_87">
                <title type="main">Missa Solemnis</title>
@@ -1161,7 +1162,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_158">
-               <title type="main">Judas Maccabaeus</title>
+               <title type="main">Judas Maccabaeus, HWV63</title>
                <title type="alternative">Judas Maccabäus</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
@@ -1641,7 +1642,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_244">
-               <title type="main">Die Jahreszeiten</title>
+               <title type="main">Die Jahreszeiten, Hob. XXI:3</title>
                <author ref="#hsl_person_id_114">
                   <persName>Haydn, Joseph</persName>
                </author>
@@ -2662,9 +2663,11 @@
             </bibl>
             <bibl xml:id="hsl_work_id_380">
                <title type="main">La Favorita</title>
+               <title type="alternative">Favorite</title>
                <author ref="#hsl_person_id_63">
                   <persName>Donizetti, Gaetano</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_503">Fernand</name>
             </bibl>
             <bibl xml:id="hsl_work_id_381">
                <title type="main">Tutti in maschera</title>
@@ -2694,7 +2697,6 @@
                <author ref="#hsl_person_id_63">
                   <persName>Donizetti, Gaetano</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_503">Fernando</name>
             </bibl>
             <bibl xml:id="hsl_work_id_386">
                <title type="main">Lucrezia Borgia</title>
@@ -3121,7 +3123,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_463">
-               <title type="main">Der Messias</title>
+               <title type="main">Messiah, HWV56</title>
+               <title type="alternative">Messias</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
@@ -5803,7 +5806,6 @@
             </bibl>
             <bibl xml:id="hsl_work_id_907">
                <title type="main">Theodora, HWV68</title>
-               <title type="alternative">Theodora</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
@@ -5817,9 +5819,19 @@
             </bibl>
             <bibl xml:id="hsl_work_id_909">
                <title type="main">Deborah, HWV51</title>
+               <title type="alternative">Debora</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
+               <author ref="#hsl_person_id_1696">
+                  <persName>Humphreys, Samuel</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_1711">Abinoam</name>
+               <name type="character" ref="#hsl_person_id_1712">Deborah</name>
+               <name type="character" ref="#hsl_person_id_1713">Barak</name>
+               <name type="character" ref="#hsl_person_id_1714">Jael</name>
+               <name type="character" ref="#hsl_person_id_1717">Sisera</name>
+               <name type="character" ref="#hsl_person_id_1718">Herald</name>
             </bibl>
             <bibl xml:id="hsl_work_id_910">
                <title type="main">La Rédemption</title>
@@ -6475,7 +6487,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1019">
-               <title type="main">Svatá Lumila</title>
+               <title type="main">Svatá Lumila, op. 71</title>
+               <title type="alternative">Ludmilla</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
@@ -6518,7 +6531,10 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1026">
-               <title type="main"/>
+               <title type="main">Esther, HWV50</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1027">
                <title type="main">Marseillaise</title>
@@ -6528,10 +6544,11 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1028">
-               <title type="main"/>
+               <title type="main">Altes Testament</title>
             </bibl>
             <bibl xml:id="hsl_work_id_1029">
-               <title type="main"/>
+               <title type="main">Jephtha, HWV70</title>
+               <title type="alternative">Jephta</title>
             </bibl>
             <bibl xml:id="hsl_work_id_1030">
                <title type="main">Così fan tutte, ossia La scuola degli amanti, KV588</title>
@@ -6586,7 +6603,11 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1039">
-               <title type="main"/>
+               <title type="main">Brockes-Passion, HWV48</title>
+               <title type="alternative">Deutsche Passion</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1040">
                <title type="main">Giob</title>
@@ -6720,7 +6741,10 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1061">
-               <title type="main"/>
+               <title type="main">The King Shall Rejoice, HWV260</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1062">
                <title type="main">Abschied für vierstimmigen gemischten Chor</title>
@@ -6748,7 +6772,6 @@
                <author ref="#hsl_person_id_1635">
                   <persName>Byron, Baron George Gordon Byron</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_1665"/>
                <name type="character" ref="#hsl_person_id_1666">Lucifer</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1066">
@@ -6872,7 +6895,10 @@
                <title type="main">Russischen Nachrichten</title>
             </bibl>
             <bibl xml:id="hsl_work_id_1087">
-               <title type="main"/>
+               <title type="main">Let Thy Hand Be Strengthened, HWV259</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1088">
                <title type="main">Ein deutsches Requiem nach Worten der Heiligen Schrift, op.45</title>
@@ -6884,6 +6910,48 @@
                <title type="main">Klänge aus Mähren op. 20, 29, 32</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1090">
+               <title type="main">Streichquartett in B-Dur</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1091">
+               <title type="main">Histoire du peuple d'Israël</title>
+               <author ref="#hsl_person_id_1305">
+                  <persName>Renan, Ernest</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1092">
+               <title type="main">Flammen und Asche. Ein Liedercyklus von Johanna Ambrosius für 1 Singstimme mit Pianoforte, op. 21</title>
+               <author ref="#hsl_person_id_1403">
+                  <persName>Rückauf, Anton</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1093">
+               <title type="main">Fünf Lieder für 1 Singstimme mit Pianoforte , op. 23</title>
+               <author ref="#hsl_person_id_1403">
+                  <persName>Rückauf, Anton</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1094">
+               <title type="main">Zadok the Priest, HWV258</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1095">
+               <title type="main">My Heart is Inditing, HWV261</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1096">
+               <title type="main">Joseph and his Brethren, HWV59</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
                </author>
             </bibl>
       </listBibl>
