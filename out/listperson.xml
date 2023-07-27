@@ -1384,6 +1384,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5879</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_197">Faust</bibl>
+                     <bibl n="hsl_work_id_205">Erlkönig, D328</bibl>
                      <bibl n="hsl_work_id_387">Briefwechsel zwischen Goethe und Zelter</bibl>
                      <bibl n="hsl_work_id_492">Götz von Berlichingen mit der eisernen Hand</bibl>
                      <bibl n="hsl_work_id_493">Die Leiden des jungen Werthers</bibl>
@@ -1393,6 +1394,8 @@
                      <bibl n="hsl_work_id_625">Wandrers Sturmlied</bibl>
                      <bibl n="hsl_work_id_743">Egmont</bibl>
                      <bibl n="hsl_work_id_844">Hans Sachsens poetische Sendung</bibl>
+                     <bibl n="hsl_work_id_1109">Die Braut von Korinth</bibl>
+                     <bibl n="hsl_work_id_1114">Erlkönig</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_101">
@@ -1407,6 +1410,10 @@
                      <bibl n="hsl_work_id_592">Penthesilea</bibl>
                      <bibl n="hsl_work_id_718">Sakuntala Ouvertüre, op. 13</bibl>
                      <bibl n="hsl_work_id_1032">Symphonie Nr. 1, op. 26</bibl>
+                     <bibl n="hsl_work_id_1106">Die Kriegsgefangene</bibl>
+                     <bibl n="hsl_work_id_1111">Die Königin von Saba</bibl>
+                     <bibl n="hsl_work_id_1112">Merlin</bibl>
+                     <bibl n="hsl_work_id_1113">Das Heimchen am Herd</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_102">
@@ -1855,6 +1862,10 @@
                   <persName type="main">
                      <forename>Niccolò</forename>
                      <surname>Jommelli</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Jomelli</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/11871290X</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q312891</idno>
@@ -2431,7 +2442,7 @@
                      <bibl n="hsl_work_id_174">Il dissoluto punito ossia Il Don Giovanni</bibl>
                      <bibl n="hsl_work_id_231">Der Schauspieldirektor</bibl>
                      <bibl n="hsl_work_id_427">Requiem in d-Moll, KV626</bibl>
-                     <bibl n="hsl_work_id_350">Die Zauberflöte</bibl>
+                     <bibl n="hsl_work_id_350">Die Zauberflöte, KV620</bibl>
                      <bibl n="hsl_work_id_358">Symphonie Nr. 40 in g-Moll, KV550</bibl>
                      <bibl n="hsl_work_id_433">Sinfonia concertante in Es-Dur KV364</bibl>
                      <bibl n="hsl_work_id_437">O Isis und Osiris (Zauberflöte)</bibl>
@@ -3848,17 +3859,21 @@
                      <forename>Carl Maria von</forename>
                      <surname>Weber</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Karl Maria von</forename>
+                     <surname>Weber</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118629662</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q154812</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_79">Oberon or The Elf King's Oath</bibl>
+                     <bibl n="hsl_work_id_79">Oberon or The Elf King's Oath, J306</bibl>
                      <bibl n="hsl_work_id_201">Euryanthe</bibl>
                      <bibl n="hsl_work_id_236">Der Freischütz, op. 77</bibl>
                      <bibl n="hsl_work_id_258">Aufforderung zum Tanz</bibl>
                      <bibl n="hsl_work_id_314">Schlummerlied, op. 68 Nr. 4</bibl>
                      <bibl n="hsl_work_id_480">Klaviersonate in As-Dur, op. 39</bibl>
                      <bibl n="hsl_work_id_495">Preciosa</bibl>
-                     <bibl n="hsl_work_id_505">Die drei Pintos</bibl>
+                     <bibl n="hsl_work_id_505">Die drei Pintos, JAnh5</bibl>
                      <bibl n="hsl_work_id_524">Konzertstück in f-Moll, op. 79.</bibl>
                      <bibl n="hsl_work_id_842">Abu Hassan, J106</bibl>
                      <bibl n="hsl_work_id_964">Ouvertüre zu "Turandot", op. 37</bibl>
@@ -4626,6 +4641,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/4021662-7</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q190</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_820">Bibel</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_417">
                   <persName type="main">
@@ -4727,6 +4745,10 @@
                      <forename/>
                      <surname>Achille</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Achilleus / Achilles / Achill</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_166">Iphigénie en Aulide</bibl>
                   </listBibl>
@@ -4815,6 +4837,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Achille</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Achilleus / Achilles / Achill</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_292">Iphigénie</bibl>
@@ -6026,6 +6052,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/119291002</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q159666</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1110">Ilias</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_555">
                   <persName type="main">
@@ -6805,7 +6834,7 @@
                      <surname>Pamina</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_350">Die Zauberflöte</bibl>
+                     <bibl n="hsl_work_id_350">Die Zauberflöte, KV620</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_640" role="fictional">
@@ -6996,6 +7025,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118605283</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q214648</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_820">Bibel</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_659" role="fictional">
                   <persName type="main">
@@ -7034,7 +7066,7 @@
                      <surname>Tamino</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_350">Die Zauberflöte</bibl>
+                     <bibl n="hsl_work_id_350">Die Zauberflöte, KV620</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_663" role="fictional">
@@ -7057,6 +7089,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/4059588-2</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q6674</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_820">Bibel</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_665" role="fictional">
                   <persName type="main">
@@ -8147,6 +8182,10 @@
                      <forename>Henri</forename>
                      <surname>Blaze</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Henri Blaze de Bury</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/116200952</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1035323</idno>
                   <listBibl type="authorOf">
@@ -8183,6 +8222,10 @@
                      <forename>Buonarroti</forename>
                      <surname>Michelangelo</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Michel-Angelo</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118582143</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5592</idno>
                </person>
@@ -8190,6 +8233,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Raffael</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Rafael</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118597787</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5597</idno>
@@ -8390,6 +8437,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/119429829</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q75683</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1115">Carl Maria von Weber. Ein Lebensbild</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_839">
                   <persName type="main">
@@ -8565,12 +8615,14 @@
                      <forename/>
                      <surname>Leander</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118811169</idno>
                </person>
                <person xml:id="hsl_person_id_861" role="fictional">
                   <persName type="main">
                      <forename/>
                      <surname>Hero</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118811169</idno>
                </person>
                <person xml:id="hsl_person_id_862">
                   <persName type="main">
@@ -8582,9 +8634,10 @@
                </person>
                <person xml:id="hsl_person_id_863">
                   <persName type="main">
-                     <forename>Giuseppe</forename>
+                     <forename>Giovanni</forename>
                      <surname>Mario</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119350971</idno>
                </person>
                <person xml:id="hsl_person_id_864">
                   <persName type="main">
@@ -8627,7 +8680,7 @@
                      <surname>Erlkönig</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_205">Erlkönig, D328</bibl>
+                     <bibl n="hsl_work_id_1114">Erlkönig</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_870">
@@ -8663,8 +8716,15 @@
                      <forename>Joseph d'</forename>
                      <surname>Ortigue</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>d'Ortigues</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/119499819</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3185813</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1116">La vérité sur Meyerbeer à propos de l’Africaine</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_877">
                   <persName type="main">
@@ -8674,7 +8734,7 @@
                   <idno type="GND">https://d-nb.info/gnd/118633716</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q215439</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_505">Die drei Pintos</bibl>
+                     <bibl n="hsl_work_id_505">Die drei Pintos, JAnh5</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_878">
@@ -9288,6 +9348,10 @@
                <person xml:id="hsl_person_id_964">
                   <persName type="main">
                      <forename>Bedřich Diviš</forename>
+                     <surname>Weber</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Dionys</forename>
                      <surname>Weber</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/117158755</idno>
@@ -10638,6 +10702,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118641190</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9077</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_820">Bibel</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1119">
                   <persName type="main">
@@ -10892,7 +10959,7 @@
                      <surname>Papageno</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_350">Die Zauberflöte</bibl>
+                     <bibl n="hsl_work_id_350">Die Zauberflöte, KV620</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1150">
@@ -11304,7 +11371,7 @@
                   <idno type="GND">https://d-nb.info/gnd/122505824</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1568899</idno>
                </person>
-               <person xml:id="hsl_person_id_1205" role="fictional">
+               <person xml:id="hsl_person_id_1205">
                   <persName type="main">
                      <forename>Franz</forename>
                      <surname>Brunswik von Korompa</surname>
@@ -11669,7 +11736,7 @@
                      <bibl n="hsl_work_id_751">Suite in Canonform, op. 10</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1244" role="fictional">
+               <person xml:id="hsl_person_id_1244">
                   <persName type="main">
                      <forename>Simon</forename>
                      <surname>Dach</surname>
@@ -11680,7 +11747,7 @@
                      <bibl n="hsl_work_id_754">Ännchen von Tharau</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1245" role="fictional">
+               <person xml:id="hsl_person_id_1245">
                   <persName type="main">
                      <forename>Joseph von</forename>
                      <surname>Eichendorff</surname>
@@ -14989,9 +15056,12 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Achill</surname>
+                     <surname>Achilles / Achill</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118500384</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1110">Ilias</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1633">
                   <persName type="main">
@@ -15073,7 +15143,7 @@
                      <bibl n="hsl_work_id_596">Venus und Bellona</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1643" role="fictional">
+               <person xml:id="hsl_person_id_1643">
                   <persName type="main">
                      <forename/>
                      <surname>Claude Joseph Rouget de Lisle</surname>
@@ -15094,6 +15164,9 @@
                      <surname>Debora</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/1108794203</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_820">Bibel</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1645">
                   <persName type="main">
@@ -15125,6 +15198,9 @@
                      <surname>Salomon</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118605100</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_820">Bibel</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1649" role="fictional">
                   <persName type="main">
@@ -15199,6 +15275,9 @@
                      <surname>Mirjam</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/129232726</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_820">Bibel</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1658">
                   <persName type="main">
@@ -15268,6 +15347,9 @@
                      <surname>Jehovah</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118556703</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_820">Bibel</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1666" role="fictional">
                   <persName type="main">
@@ -15345,6 +15427,9 @@
                      <surname>Barak</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/1147227519</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_820">Bibel</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1677" role="fictional">
                   <persName type="main">
@@ -15352,6 +15437,9 @@
                      <surname>Sisera</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/1128100452</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_820">Bibel</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1678">
                   <persName type="main">
@@ -15427,6 +15515,9 @@
                      <surname>Jaël</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/105871158X</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_820">Bibel</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1686" role="fictional">
                   <persName type="main">
@@ -15746,6 +15837,209 @@
                      <surname>Hahn senior</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/11638574X</idno>
+               </person>
+               <person xml:id="hsl_person_id_1725" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Agamemnon</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119059738</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1110">Ilias</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1726" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Sarastro</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_350">Die Zauberflöte, KV620</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1727" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Hüon von Bordeaux</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_79">Oberon or The Elf King's Oath, J306</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1728">
+                  <persName type="main">
+                     <forename>August</forename>
+                     <surname>Bungert</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118667998</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1107">Homerische Welt, op. 30</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1729">
+                  <persName type="main">
+                     <forename>Emmanuel</forename>
+                     <surname>Chabrier</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11866901X</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1108">Briséïs ou Les amants de Corinthe</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1730">
+                  <persName type="main">
+                     <forename>Alfred</forename>
+                     <surname>Formey</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Emil</forename>
+                     <surname>Schlicht</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/144033372</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1106">Die Kriegsgefangene</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1731" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Achilles</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Achill</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1106">Die Kriegsgefangene</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1732" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Briseïs</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1106">Die Kriegsgefangene</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1733" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Homerus</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Homer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11855333X</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1110">Ilias</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1734" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Patroklos</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Patroklus</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118803271</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1110">Ilias</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1735" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Thetis</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1106">Die Kriegsgefangene</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1736" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Hermes</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118639560</idno>
+               </person>
+               <person xml:id="hsl_person_id_1737" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Priamus</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1106">Die Kriegsgefangene</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1738" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Automedon</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Automedos</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1106">Die Kriegsgefangene</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1739" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Idäus</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1106">Die Kriegsgefangene</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1740" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Briseis</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/124566685</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1110">Ilias</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1741" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Brises</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1110">Ilias</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1742">
+                  <persName type="main">
+                     <forename>Edyth</forename>
+                     <surname>Walker</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117121142</idno>
+               </person>
+               <person xml:id="hsl_person_id_1743" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Amneris</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_982">Aida</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1744" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Agamemnon</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1106">Die Kriegsgefangene</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

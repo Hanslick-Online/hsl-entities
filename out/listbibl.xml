@@ -128,7 +128,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_9">
                <title type="main">Festmarsch zu Schillers 100 jähriger Geburtstagsfeier</title>
-               <title type="alternative">Schiller-Marsch</title>
+               <title type="alternative">Schiller-Marsch / Schillermarsch</title>
                <author ref="#hsl_person_id_182">
                   <persName>Meyerbeer, Giacomo</persName>
                </author>
@@ -633,10 +633,11 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_79">
-               <title type="main">Oberon or The Elf King's Oath</title>
+               <title type="main">Oberon or The Elf King's Oath, J306</title>
                <author ref="#hsl_person_id_321">
                   <persName>Weber, Carl Maria von</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1727">Hüon von Bordeaux</name>
             </bibl>
             <bibl xml:id="hsl_work_id_80">
                <title type="main">Nun der Lenz im Forste wieder</title>
@@ -1533,10 +1534,12 @@
             </bibl>
             <bibl xml:id="hsl_work_id_205">
                <title type="main">Erlkönig, D328</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_869">Erlkönig</name>
             </bibl>
             <bibl xml:id="hsl_work_id_206">
                <title type="main">Elias</title>
@@ -2476,13 +2479,14 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_350">
-               <title type="main">Die Zauberflöte</title>
+               <title type="main">Die Zauberflöte, KV620</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
                <name type="character" ref="#hsl_person_id_639">Pamina</name>
                <name type="character" ref="#hsl_person_id_662">Tamino</name>
                <name type="character" ref="#hsl_person_id_1149">Papageno</name>
+               <name type="character" ref="#hsl_person_id_1726">Sarastro</name>
             </bibl>
             <bibl xml:id="hsl_work_id_351">
                <title type="main">Das Alphorn</title>
@@ -2956,6 +2960,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_432">
                <title type="main">Romankapitel mit unpassenden Motto's</title>
+               <title type="alternative">Roman-Capitel</title>
                <author ref="#hsl_person_id_274">
                   <persName>Schön, Eduard</persName>
                </author>
@@ -3193,6 +3198,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_477">
                <title type="main">Meyerbeer et son temps</title>
+               <title type="alternative">Meyerbeer und seine Zeit</title>
                <author ref="#hsl_person_id_809">
                   <persName>Blaze, Henri</persName>
                </author>
@@ -3337,12 +3343,14 @@
             </bibl>
             <bibl xml:id="hsl_work_id_501">
                <title type="main">Le Tartuffe ou L’Imposteur</title>
+               <title type="alternative">Tartüffe</title>
                <author ref="#hsl_person_id_864">
                   <persName>Molière</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_502">
                <title type="main">La Jeunesse de Goethe</title>
+               <title type="alternative">Goethe's Jugend</title>
                <author ref="#hsl_person_id_182">
                   <persName>Meyerbeer, Giacomo</persName>
                </author>
@@ -3364,7 +3372,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_505">
-               <title type="main">Die drei Pintos</title>
+               <title type="main">Die drei Pintos, JAnh5</title>
                <author ref="#hsl_person_id_321">
                   <persName>Weber, Carl Maria von</persName>
                </author>
@@ -5199,7 +5207,18 @@
             </bibl>
             <bibl xml:id="hsl_work_id_820">
                <title type="main">Bibel</title>
+               <name type="character" ref="#hsl_person_id_416">Gott</name>
+               <name type="character" ref="#hsl_person_id_658">Simson</name>
+               <name type="character" ref="#hsl_person_id_664">Teufel</name>
+               <name type="character" ref="#hsl_person_id_1118">Mose</name>
                <name type="character" ref="#hsl_person_id_1307">Eva</name>
+               <name type="character" ref="#hsl_person_id_1644">Deborah</name>
+               <name type="character" ref="#hsl_person_id_1648">Salomo</name>
+               <name type="character" ref="#hsl_person_id_1657">Mirjam</name>
+               <name type="character" ref="#hsl_person_id_1665">Jahwe</name>
+               <name type="character" ref="#hsl_person_id_1676">Barak</name>
+               <name type="character" ref="#hsl_person_id_1677">Sisera</name>
+               <name type="character" ref="#hsl_person_id_1685">Jael</name>
             </bibl>
             <bibl xml:id="hsl_work_id_821">
                <title type="main">Ève</title>
@@ -6252,7 +6271,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_979">
                <title type="main">Festgesang zur Feier des 100jährigen Geburtsfestes von Friedrich Schiller</title>
-               <title type="alternative">Schiller-Kantate</title>
+               <title type="alternative">Schiller-Kantate / Schillerkantate</title>
                <author ref="#hsl_person_id_182">
                   <persName>Meyerbeer, Giacomo</persName>
                </author>
@@ -6276,6 +6295,7 @@
                <author ref="#hsl_person_id_312">
                   <persName>Verdi, Giuseppe</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1743">Amneris</name>
             </bibl>
             <bibl xml:id="hsl_work_id_983">
                <title type="main">Quattro pezzi sacri</title>
@@ -6986,6 +7006,92 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1105">
                <title type="main">Franz Liszt's Briefe: Briefe an die Fürstin Carolyn Sayn-Wittgenstein, 1902</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1106">
+               <title type="main">Die Kriegsgefangene</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+               <author ref="#hsl_person_id_1730">
+                  <persName>Formey, Alfred</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_1731">Achilles</name>
+               <name type="character" ref="#hsl_person_id_1732">Briseïs</name>
+               <name type="character" ref="#hsl_person_id_1735">Thetis</name>
+               <name type="character" ref="#hsl_person_id_1737">Priamus</name>
+               <name type="character" ref="#hsl_person_id_1738">Automedon</name>
+               <name type="character" ref="#hsl_person_id_1739">Idäus</name>
+               <name type="character" ref="#hsl_person_id_1744">Agamemnon</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1107">
+               <title type="main">Homerische Welt, op. 30</title>
+               <title type="alternative">Die Odyssee / Odysse</title>
+               <author ref="#hsl_person_id_1728">
+                  <persName>Bungert, August</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1108">
+               <title type="main">Briséïs ou Les amants de Corinthe</title>
+               <title type="alternative">Briseïs ou La fiancée de Corinthe</title>
+               <author ref="#hsl_person_id_1729">
+                  <persName>Chabrier, Emmanuel</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1109">
+               <title type="main">Die Braut von Korinth</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1110">
+               <title type="main">Ilias</title>
+               <title type="alternative">Iliade</title>
+               <author ref="#hsl_person_id_1733">
+                  <persName>Homerus</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_553">Hektor</name>
+               <name type="character" ref="#hsl_person_id_1632">Achilleus</name>
+               <name type="character" ref="#hsl_person_id_1725">Agamemnon</name>
+               <name type="character" ref="#hsl_person_id_1734">Patroklos</name>
+               <name type="character" ref="#hsl_person_id_1740">Briseis</name>
+               <name type="character" ref="#hsl_person_id_1741">Brises</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1111">
+               <title type="main">Die Königin von Saba</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1112">
+               <title type="main">Merlin</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1113">
+               <title type="main">Das Heimchen am Herd</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1114">
+               <title type="main">Erlkönig</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_869">Erlkönig</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1115">
+               <title type="main">Carl Maria von Weber. Ein Lebensbild</title>
+               <author ref="#hsl_person_id_838">
+                  <persName>Weber, Max Maria von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1116">
+               <title type="main">La vérité sur Meyerbeer à propos de l’Africaine</title>
+               <author ref="#hsl_person_id_876">
+                  <persName>Ortigue, Joseph d'</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
