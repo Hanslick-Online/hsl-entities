@@ -3040,7 +3040,6 @@
                      <bibl n="hsl_work_id_534">Zelmira</bibl>
                      <bibl n="hsl_work_id_544">Tancredi</bibl>
                      <bibl n="hsl_work_id_683">Petite messe solennelle</bibl>
-                     <bibl n="hsl_work_id_687">Ouvertüre Guillaume Tell</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_242">
@@ -3255,9 +3254,9 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_210">Doctor Heine. Ein Rigorosum im Sommer. Lustspiel in drei Scenen</bibl>
                      <bibl n="hsl_work_id_286">Wandernder Dichter</bibl>
+                     <bibl n="hsl_work_id_430">Ständchen</bibl>
                      <bibl n="hsl_work_id_316">Lied der Pagen aus "Wie es euch gefällt"</bibl>
-                     <bibl n="hsl_work_id_431">Ständchen</bibl>
-                     <bibl n="hsl_work_id_432">Romankapitel</bibl>
+                     <bibl n="hsl_work_id_432">Romankapitel mit unpassenden Motto's</bibl>
                      <bibl n="hsl_work_id_434">Quadrille</bibl>
                      <bibl n="hsl_work_id_435">Ballscenen</bibl>
                      <bibl n="hsl_work_id_755">Die Poeten auf der Alm</bibl>
@@ -3823,7 +3822,6 @@
                      <bibl n="hsl_work_id_344">Beethoven</bibl>
                      <bibl n="hsl_work_id_417">Tristan und Isolde</bibl>
                      <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
-                     <bibl n="hsl_work_id_426">Einzug der Gäste - Tannhäuser</bibl>
                      <bibl n="hsl_work_id_649">Die Walküre</bibl>
                      <bibl n="hsl_work_id_1020">Die Feen, WWV32</bibl>
                      <bibl n="hsl_work_id_1021">Das Liebesverbot oder Die Novize von Palermo, WWV38</bibl>
@@ -10942,6 +10940,10 @@
                <person xml:id="hsl_person_id_1153">
                   <persName type="main">
                      <forename>Charles</forename>
+                     <surname>Darwin</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Darvin</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118523813</idno>
@@ -13122,6 +13124,9 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1092">Flammen und Asche. Ein Liedercyklus von Johanna Ambrosius für 1 Singstimme mit Pianoforte, op. 21</bibl>
                      <bibl n="hsl_work_id_1093">Fünf Lieder für 1 Singstimme mit Pianoforte , op. 23</bibl>
+                     <bibl n="hsl_work_id_1097">Vier Lieder für 1 Singstimme mit Pianoforte , op. 25</bibl>
+                     <bibl n="hsl_work_id_1098">Fünf Lieder für 1 Singstimme mit Pianoforte , op. 24</bibl>
+                     <bibl n="hsl_work_id_1100">Sechs Lieder für 1 Singstimme mit Pianoforte , op. 15</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1404">
@@ -14798,7 +14803,7 @@
                <person xml:id="hsl_person_id_1604">
                   <persName type="main">
                      <forename>Karl</forename>
-                     <surname>Scheidenmantel</surname>
+                     <surname>Scheidemantel</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/117193801</idno>
                </person>
@@ -14815,6 +14820,9 @@
                      <surname>Scholz</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116902930</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1101">Musikalisches und Persönliches,1899</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1610">
                   <persName type="main">
@@ -14822,6 +14830,10 @@
                      <surname>Georg V.</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118690485</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1103">Ideen und Betrachtungen über die Eigenschaften der Musik</bibl>
+                     <bibl n="hsl_work_id_1104">Über Musik und Gesang</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1611">
                   <persName type="main">
@@ -15718,6 +15730,22 @@
                      <forename>Napoleone</forename>
                      <surname>Rossi</surname>
                   </persName>
+               </person>
+               <person xml:id="hsl_person_id_1723">
+                  <persName type="main">
+                     <forename>Georg</forename>
+                     <surname>Fischer</surname>
+                  </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1102">Opern und Concerte im Hoftheater zu Hannover bis 1866</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1724">
+                  <persName type="main">
+                     <forename>Heinrich Wilhelm</forename>
+                     <surname>Hahn senior</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11638574X</idno>
                </person>
             </listPerson>
          </div>
