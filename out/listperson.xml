@@ -438,7 +438,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1339</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_294">Matthäus-Passion, BWV244</bibl>
-                     <bibl n="hsl_work_id_347">Das wohltemperierte Klavier</bibl>
+                     <bibl n="hsl_work_id_347">Das wohltemperierte Klavier, BWV846–893</bibl>
                      <bibl n="hsl_work_id_372">Präludium und Fuge in C-Dur, BWV846</bibl>
                      <bibl n="hsl_work_id_483">Weihnachtsoratorium</bibl>
                      <bibl n="hsl_work_id_657">Suite</bibl>
@@ -2917,6 +2917,7 @@
                      <bibl n="hsl_work_id_298">Castor et Pollux</bibl>
                      <bibl n="hsl_work_id_299">Dardanus</bibl>
                      <bibl n="hsl_work_id_300">Les Indes galantes</bibl>
+                     <bibl n="hsl_work_id_1122">Traité de l’harmonie reduite à ses principes naturels</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_228">
@@ -10512,6 +10513,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_636">Clara Schumann's Mädchenjahre</bibl>
                      <bibl n="hsl_work_id_637">Johannes Brahms in Erinnerungen</bibl>
+                     <bibl n="hsl_work_id_784">Der Widerspenstigen Zähmung</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1089">
@@ -12005,10 +12007,18 @@
                      <forename>Hermann</forename>
                      <surname>Goetz</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Götz</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118696025</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_783">Francesca da Rimini</bibl>
                      <bibl n="hsl_work_id_784">Der Widerspenstigen Zähmung</bibl>
+                     <bibl n="hsl_work_id_1123">Symphonie in F-Dur, op. 9</bibl>
+                     <bibl n="hsl_work_id_1124">Frühlingsouvertüre, op. 15</bibl>
+                     <bibl n="hsl_work_id_1125">Nänie, op. 10</bibl>
+                     <bibl n="hsl_work_id_1126">Der 137. Psalm op. 14</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1269">
@@ -12515,6 +12525,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_885">Variationen über ein Thema von Franz Schubert, op. 11</bibl>
                      <bibl n="hsl_work_id_1117">Ihre Exzellenz</bibl>
+                     <bibl n="hsl_work_id_1127">Der Opernball</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1328">
@@ -16062,6 +16073,30 @@
                      <forename>?</forename>
                      <surname>Rigaud</surname>
                   </persName>
+               </person>
+               <person xml:id="hsl_person_id_1747">
+                  <persName type="main">
+                     <forename>Alfred</forename>
+                     <surname>Hennequin</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1050485718</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1128">Niniche</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1748">
+                  <persName type="main">
+                     <forename>Albert</forename>
+                     <surname>Millaud</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116271476X</idno>
+               </person>
+               <person xml:id="hsl_person_id_1749">
+                  <persName type="main">
+                     <forename>Adolf</forename>
+                     <surname>Müller junior</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117572918</idno>
                </person>
             </listPerson>
          </div>
