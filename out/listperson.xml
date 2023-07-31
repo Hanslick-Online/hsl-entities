@@ -570,7 +570,7 @@
                      <bibl n="hsl_work_id_277">Fantasie für Klavier, Chor und Orchester in c-Moll, op. 80</bibl>
                      <bibl n="hsl_work_id_278">Symphonie Nr. 5 in c-Moll, op. 67</bibl>
                      <bibl n="hsl_work_id_346">Die Geschöpfe des Prometheus</bibl>
-                     <bibl n="hsl_work_id_348">Fidelio</bibl>
+                     <bibl n="hsl_work_id_348">Fidelio, op. 72</bibl>
                      <bibl n="hsl_work_id_356">Ouvertüre zu "Coriolan", op. 62</bibl>
                      <bibl n="hsl_work_id_365">Tripelkonzert in C-Dur, op. 56</bibl>
                      <bibl n="hsl_work_id_408">Symphonie Nr. 6 in F-Dur, op. 68</bibl>
@@ -2109,6 +2109,10 @@
                   <persName type="main">
                      <forename>Franz</forename>
                      <surname>Liszt</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Abbé Liszt</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118573527</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q41309</idno>
@@ -5500,7 +5504,7 @@
                      <surname>Florestan</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_348">Fidelio</bibl>
+                     <bibl n="hsl_work_id_348">Fidelio, op. 72</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_480" role="fictional">
@@ -5513,7 +5517,7 @@
                      <surname>Fidelio</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_348">Fidelio</bibl>
+                     <bibl n="hsl_work_id_348">Fidelio, op. 72</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_481" role="fictional">
@@ -5522,7 +5526,7 @@
                      <surname>Pizarro</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_348">Fidelio</bibl>
+                     <bibl n="hsl_work_id_348">Fidelio, op. 72</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_482">
@@ -8273,6 +8277,10 @@
                   <persName type="main">
                      <forename>Georg Joseph</forename>
                      <surname>Vogler</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Abbé Vogler</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118627546</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q708557</idno>
@@ -12815,6 +12823,7 @@
                   <idno type="GND">https://d-nb.info/gnd/119378671</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_858">La risurrezione di Lazzaro</bibl>
+                     <bibl n="hsl_work_id_1160">La risurrezione di Cristo</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1359">
@@ -16406,6 +16415,135 @@
                      <bibl n="hsl_work_id_1154">Le Rêve</bibl>
                      <bibl n="hsl_work_id_1155">L'Attaque du Moulin</bibl>
                      <bibl n="hsl_work_id_1156">Messidor</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1784">
+                  <persName type="main">
+                     <forename>Edoardo</forename>
+                     <surname>Sonzogno</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117476331</idno>
+               </person>
+               <person xml:id="hsl_person_id_1785">
+                  <persName type="main">
+                     <forename>Giovanni Battista</forename>
+                     <surname>Martini</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Padre Martini</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118731386</idno>
+               </person>
+               <person xml:id="hsl_person_id_1786">
+                  <persName type="main">
+                     <forename>Stanislao</forename>
+                     <surname>Mattei</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Padre Mattei</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/134636716</idno>
+               </person>
+               <person xml:id="hsl_person_id_1787">
+                  <persName type="main">
+                     <forename>Maximilian</forename>
+                     <surname>Stadler</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Abbé Stadler</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11875243X</idno>
+               </person>
+               <person xml:id="hsl_person_id_1788">
+                  <persName type="main">
+                     <forename>Josef</forename>
+                     <surname>Gelinek</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Abbé Gelinek</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11900853X</idno>
+               </person>
+               <person xml:id="hsl_person_id_1789">
+                  <persName type="main">
+                     <forename>Giacomo</forename>
+                     <surname>Carissimi</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118668404</idno>
+               </person>
+               <person xml:id="hsl_person_id_1790">
+                  <persName type="main">
+                     <forename>Houston Stewart</forename>
+                     <surname>Chamberlain</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118675508</idno>
+               </person>
+               <person xml:id="hsl_person_id_1791" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Hans Kraft</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_861">Der Bärenhäuter, op. 1</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1792" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Luise Fröhlich</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_861">Der Bärenhäuter, op. 1</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1793">
+                  <persName type="main">
+                     <forename>Wilhelm Friedemann</forename>
+                     <surname>Bach</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118505548</idno>
+               </person>
+               <person xml:id="hsl_person_id_1794">
+                  <persName type="main">
+                     <forename>Franz Xaver Wolfgang</forename>
+                     <surname>Mozart</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119176653</idno>
+               </person>
+               <person xml:id="hsl_person_id_1795">
+                  <persName type="main">
+                     <forename>Wolfgang Maximilian von</forename>
+                     <surname>Goethe</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118717928</idno>
+               </person>
+               <person xml:id="hsl_person_id_1796">
+                  <persName type="main">
+                     <forename>Walther Wolfgang von</forename>
+                     <surname>Goethe</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118695959</idno>
+               </person>
+               <person xml:id="hsl_person_id_1797" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Nathan</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_744">Nathan der Weise</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1798" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Sultan Saladin</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_744">Nathan der Weise</bibl>
                   </listBibl>
                </person>
             </listPerson>
