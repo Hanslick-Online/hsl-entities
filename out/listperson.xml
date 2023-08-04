@@ -747,6 +747,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118513028</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q219491</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_74">Otello</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_38">
                   <persName type="main">
@@ -880,6 +883,9 @@
                      <bibl n="hsl_work_id_256">Ballade Nr. 4 in f-Moll, op. 52</bibl>
                      <bibl n="hsl_work_id_663">Mazurka</bibl>
                      <bibl n="hsl_work_id_888">Notturno</bibl>
+                     <bibl n="hsl_work_id_935">Ballade Nr. 1 in g-Moll, op. 23</bibl>
+                     <bibl n="hsl_work_id_936">Ballade Nr. 2 in F-Dur, op. 38</bibl>
+                     <bibl n="hsl_work_id_937">Ballade Nr. 3 in As-Dur, op. 47</bibl>
                      <bibl n="hsl_work_id_1011">Klavierkonzert Nr. 2 in f-Moll, op. 21</bibl>
                   </listBibl>
                </person>
@@ -15172,8 +15178,12 @@
                </person>
                <person xml:id="hsl_person_id_1638">
                   <persName type="main">
+                     <forename>German A.</forename>
+                     <surname>Laroš</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename/>
-                     <surname>German Avgustovič Laroš</surname>
+                     <surname>Laroche</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/1016520654</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q4254634</idno>
@@ -16785,6 +16795,15 @@
                      <surname>Rückert</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118603817</idno>
+               </person>
+               <person xml:id="hsl_person_id_1825" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ulrica</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_35">Un ballo in maschera</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
