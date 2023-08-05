@@ -230,7 +230,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_21">
-               <title type="main">Egmont</title>
+               <title type="main">Egmont, op. 84</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -248,7 +248,8 @@
                <title type="main">Altfranzösisches Weihnachtslied</title>
             </bibl>
             <bibl xml:id="hsl_work_id_438">
-               <title type="main">Mit Würdʼ und Hoheit angetan (Schöpfung)</title>
+               <title type="main">Mit Würdʼ und Hoheit angetan</title>
+               <title type="alternative">aus: Die Schöpfung</title>
                <author ref="#hsl_person_id_114">
                   <persName>Haydn, Joseph</persName>
                </author>
@@ -1597,7 +1598,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_243">
-               <title type="main">Die Schöpfung</title>
+               <title type="main">Die Schöpfung, Hob. XXI:2</title>
                <author ref="#hsl_person_id_114">
                   <persName>Haydn, Joseph</persName>
                </author>
@@ -2457,7 +2458,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_346">
-               <title type="main">Die Geschöpfe des Prometheus</title>
+               <title type="main">Die Geschöpfe des Prometheus, op. 43</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -2971,7 +2972,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_433">
-               <title type="main">Sinfonia concertante in Es-Dur KV364</title>
+               <title type="main">Sinfonia concertante in Es-Dur, KV364</title>
+               <title type="alternative">Doppelkonzert</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
@@ -2990,25 +2992,28 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_436">
-               <title type="main">Le calme rentre dans mon coeur (Iphigénie en Tauride)</title>
+               <title type="main">Unis des la plus tendre enfance</title>
+               <title type="alternative">aus: Iphigénie en Tauride</title>
                <author ref="#hsl_person_id_99">
                   <persName>Gluck, Christoph Willibald</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_441">
-               <title type="main">Haidenröslein</title>
+               <title type="main">Heidenröslein, D257</title>
+               <title type="alternative">Haidenröslein</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_443">
-               <title type="main">Widerspruch</title>
+               <title type="main">Widerspruch, D865</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_444">
-               <title type="main">An die Entfernte</title>
+               <title type="main">Der Entfernten, D331</title>
+               <title type="alternative">Die Entfernte</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -4604,7 +4609,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_728">
-               <title type="main">Pikowaja dama</title>
+               <title type="main">Pikowaja dama, op. 68</title>
                <title type="alternative">Pique-Dame</title>
                <author ref="#hsl_person_id_1014">
                   <persName>Čajkovskij, Pëtr Ilʹič</persName>
@@ -4619,21 +4624,27 @@
                <name type="character" ref="#hsl_person_id_1237">Graf Tomski</name>
             </bibl>
             <bibl xml:id="hsl_work_id_729">
-               <title type="main">Jewgeni Onegin</title>
+               <title type="main">Jewgeni Onegin, op. 24</title>
                <title type="alternative">Eugen Onegin</title>
                <author ref="#hsl_person_id_1014">
                   <persName>Čajkovskij, Pëtr Ilʹič</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_730">
-               <title type="main">Iolanta</title>
+               <title type="main">Iolanta, op. 69</title>
                <title type="alternative">Jolanthe</title>
                <author ref="#hsl_person_id_1014">
                   <persName>Čajkovskij, Pëtr Ilʹič</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1847">Iolanta</name>
+               <name type="character" ref="#hsl_person_id_1850">Martha</name>
+               <name type="character" ref="#hsl_person_id_1851">René, König der Provence</name>
+               <name type="character" ref="#hsl_person_id_1852">Ibn-Hakia</name>
+               <name type="character" ref="#hsl_person_id_1853">Vaudémont</name>
+               <name type="character" ref="#hsl_person_id_1854">Robert</name>
             </bibl>
             <bibl xml:id="hsl_work_id_731">
-               <title type="main">Kuznets Vakula</title>
+               <title type="main">Kuznets Vakula, op. 14</title>
                <title type="alternative">Wakula der Schmied</title>
                <author ref="#hsl_person_id_1014">
                   <persName>Čajkovskij, Pëtr Ilʹič</persName>
@@ -7591,10 +7602,57 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1192">
-               <title type="main"/>
+               <title type="main">König René's Tochter</title>
+               <author ref="#hsl_person_id_1848">
+                  <persName>Hertz, Henrik</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_1849">Jolanthe</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1193">
                <title type="main">Georg Friedrich Händel's Werke. Gesamtausgabe</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1194">
+               <title type="main">Notsch pered Roschdestwom</title>
+               <title type="alternative">Die Nacht vor Weihnachten</title>
+               <author ref="#hsl_person_id_1223">
+                  <persName>Gogolʹ, Nikolaj Vasilʹevič</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1195">
+               <title type="main">La dame de pique</title>
+               <author ref="#hsl_person_id_106">
+                  <persName>Halévy, Fromental</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1196">
+               <title type="main">Schtschelkuntschik, op. 71</title>
+               <title type="alternative">Der Nußknacker</title>
+               <author ref="#hsl_person_id_1014">
+                  <persName>Čajkovskij, Pëtr Ilʹič</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1197">
+               <title type="main">Lebedinoje osero, op. 20</title>
+               <title type="alternative">Der Schwanensee</title>
+               <author ref="#hsl_person_id_1014">
+                  <persName>Čajkovskij, Pëtr Ilʹič</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1198">
+               <title type="main">Spiaschtschaya Krassawitsa, op. 66</title>
+               <title type="alternative">Dornröschen</title>
+               <author ref="#hsl_person_id_1014">
+                  <persName>Čajkovskij, Pëtr Ilʹič</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1199">
+               <title type="main">Denkwürdigkeiten aus meinem Leben</title>
+               <author ref="#hsl_person_id_733">
+                  <persName>Gänsbacher, Johann</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1200">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>
