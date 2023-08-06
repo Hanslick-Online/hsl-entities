@@ -393,7 +393,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_43">
-               <title type="main">Suite für Violine und Klavier Nr. 1, op. 11</title>
+               <title type="main">Suite für Violine und Klavier Nr. 1 in D-Dur, op. 11</title>
                <author ref="#hsl_person_id_101">
                   <persName>Goldmark, Karl</persName>
                </author>
@@ -1108,6 +1108,7 @@
                <author ref="#hsl_person_id_182">
                   <persName>Meyerbeer, Giacomo</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1866">Sélika</name>
             </bibl>
             <bibl xml:id="hsl_work_id_143">
                <title type="main">La Reine Topaze</title>
@@ -3868,7 +3869,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_592">
-               <title type="main">Penthesilea</title>
+               <title type="main">Penthesilea, op. 31</title>
                <author ref="#hsl_person_id_101">
                   <persName>Goldmark, Karl</persName>
                </author>
@@ -4127,8 +4128,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_639">
-               <title type="main">Journal des débats</title>
-               <title type="alternative">Journal des debats</title>
+               <title type="main">Journal des Débats</title>
+               <title type="alternative">Journal des Debats</title>
             </bibl>
             <bibl xml:id="hsl_work_id_640">
                <title type="main">Franz Schubert</title>
@@ -4534,9 +4535,7 @@
                <author ref="#hsl_person_id_721">
                   <persName>Grillparzer, Franz</persName>
                </author>
-               <author ref="#hsl_person_id_1211">
-                  <persName>Sappho</persName>
-               </author>
+               <name type="character" ref="#hsl_person_id_1211">Sappho</name>
             </bibl>
             <bibl xml:id="hsl_work_id_717">
                <title type="main">Ah, quel plaisir d´être soldat</title>
@@ -4545,13 +4544,13 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_718">
-               <title type="main">Sakuntala Ouvertüre, op. 13</title>
+               <title type="main">Sakuntala, op. 13</title>
                <author ref="#hsl_person_id_101">
                   <persName>Goldmark, Karl</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_719">
-               <title type="main">Sakuntala. Ein Drama in sieben Akten.</title>
+               <title type="main">Sakuntala. Ein Drama in sieben Akten</title>
                <author ref="#hsl_person_id_1212">
                   <persName>Kalidasa</persName>
                </author>
@@ -6596,6 +6595,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1032">
                <title type="main">Symphonie Nr. 1, op. 26</title>
+               <title type="alternative">Ländliche Hochzeit</title>
                <author ref="#hsl_person_id_101">
                   <persName>Goldmark, Karl</persName>
                </author>
@@ -7092,6 +7092,10 @@
                <author ref="#hsl_person_id_101">
                   <persName>Goldmark, Karl</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1860">Assad</name>
+               <name type="character" ref="#hsl_person_id_1863">Königin von Saba</name>
+               <name type="character" ref="#hsl_person_id_1864">Sulamith</name>
+               <name type="character" ref="#hsl_person_id_1865">König Salomon</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1112">
                <title type="main">Merlin</title>
@@ -7652,7 +7656,103 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1200">
-               <title type="main"/>
+               <title type="main">Götz von Berlichingen</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1201">
+               <title type="main">Klaviertrio Nr. 1 in d-Moll, op. 4</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1202">
+               <title type="main">Klaviertrio Nr. 2 in e-Moll, op. 33</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1203">
+               <title type="main">Suite für Violine und Klavier Nr. 2 in Es-Dur, op. 43</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1204">
+               <title type="main">Streichquartett in B-Dur, op. 8</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1205">
+               <title type="main">Streichquartett in a-Moll</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1206">
+               <title type="main">Klavierquintett in B-Dur, op. 30</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1207">
+               <title type="main">Im Frühling, op. 36</title>
+               <title type="alternative">Frühlings-Ouvertüre</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1208">
+               <title type="main">Sappho, op. 44</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1209">
+               <title type="main">Der gefesselte Prometheus, op. 38</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1210">
+               <title type="main">Wer sich die Musik erkiest, op. 42</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1211">
+               <title type="main">Der 113. Psalm, op. 40</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1212">
+               <title type="main">Frühlingshymne, op. 23</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1213">
+               <title type="main">Regenlied, op. 10</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1214">
+               <title type="main">Portraits et Souvenirs</title>
+               <author ref="#hsl_person_id_1658">
+                  <persName>Saint-Saëns, Camille</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1215">
+               <title type="main">Harmonie et Mélodie</title>
+               <title type="alternative">Harmonie et Melodie</title>
+               <author ref="#hsl_person_id_1658">
+                  <persName>Saint-Saëns, Camille</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
