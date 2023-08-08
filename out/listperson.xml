@@ -1585,7 +1585,7 @@
                   <idno type="GND">https://d-nb.info/gnd/118546651</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q164732</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_490">Die Heilige Helena an der Schädelstätte</bibl>
+                     <bibl n="hsl_work_id_490">Sant’Elena al Calvario</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_111">
@@ -2651,7 +2651,7 @@
                </person>
                <person xml:id="hsl_person_id_758">
                   <persName type="main">
-                     <forename>Prinz Ludwig Pius von</forename>
+                     <forename>Ludwig Pius von</forename>
                      <surname>Savoyen</surname>
                   </persName>
                </person>
@@ -7803,17 +7803,13 @@
                </person>
                <person xml:id="hsl_person_id_755">
                   <persName type="main">
-                     <forename>Ritter von</forename>
+                     <forename>? von</forename>
                      <surname>Ebersdorf</surname>
                   </persName>
-               </person>
-               <person xml:id="hsl_person_id_756">
-                  <persName type="main">
+                  <persName type="alternative">
                      <forename/>
-                     <surname>Heiliger Nikolaus von Myra</surname>
+                     <surname>Eberstorff</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/12918814X</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q44269</idno>
                </person>
                <person xml:id="hsl_person_id_757">
                   <persName type="main">
@@ -7850,6 +7846,10 @@
                <person xml:id="hsl_person_id_762">
                   <persName type="main">
                      <forename>Guiseppe</forename>
+                     <surname>Porsile</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Joseph</forename>
                      <surname>Porsile</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/133359409</idno>
@@ -8447,7 +8447,7 @@
                   <idno type="GND">https://d-nb.info/gnd/11742692X</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q78797</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_491">Grande sinfonie caractéristique pour la paix avec la République française</bibl>
+                     <bibl n="hsl_work_id_491">Grande sinfonie caractéristique pour la paix avec la République française, op. 31</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_829">
@@ -8966,6 +8966,10 @@
                      <forename>Andrej K.</forename>
                      <surname>Razumovskij</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Rasumowski / Rasumowsky</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/130200875</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q502943</idno>
                </person>
@@ -9231,7 +9235,7 @@
                   <idno type="GND">https://d-nb.info/gnd/132120526</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1544317</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_541">Jahrbuch der Tonkunst von Wien und Prag. 1796</bibl>
+                     <bibl n="hsl_work_id_541">Jahrbuch der Tonkunst von Wien und Prag</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_934">
@@ -9247,12 +9251,16 @@
                      <forename>Antal III.</forename>
                      <surname>Grassalkovich de Gyarak</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Grassalkowitz</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/116823429</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1027975</idno>
                </person>
                <person xml:id="hsl_person_id_939">
                   <persName type="main">
-                     <forename>Josef</forename>
+                     <forename>Joseph</forename>
                      <surname>Mayseder</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/120220644</idno>
@@ -9273,12 +9281,16 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/119186322</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q347384</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1216">Biographie des Adalbert Gyrowetz</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_943">
                   <persName type="main">
                      <forename>Johann Franz von</forename>
                      <surname>Fünfkirchen</surname>
                   </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q102070189</idno>
                </person>
                <person xml:id="hsl_person_id_944">
                   <persName type="main">
@@ -9296,6 +9308,10 @@
                   <persName type="main">
                      <forename>Herzog von Württemberg</forename>
                      <surname>Karl Eugen</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Würtemberg</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118560158</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q511206</idno>
@@ -9359,6 +9375,10 @@
                      <forename>Georg von</forename>
                      <surname>Buquoy</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Bouquoi</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/117160636</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1504251</idno>
                </person>
@@ -9398,6 +9418,10 @@
                </person>
                <person xml:id="hsl_person_id_957" role="fictional">
                   <persName type="main">
+                     <forename/>
+                     <surname>Podesta Gregorio</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename/>
                      <surname>Don Gregorio</surname>
                   </persName>
@@ -10865,11 +10889,11 @@
                <person xml:id="hsl_person_id_1123">
                   <persName type="main">
                      <forename/>
-                     <surname>Nikolaus</surname>
+                     <surname>Nikolaus von Myra</surname>
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Nicolo</surname>
+                     <surname>Nicolo / Niclas</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/12918814X</idno>
                </person>
@@ -11324,7 +11348,7 @@
                </person>
                <person xml:id="hsl_person_id_1184">
                   <persName type="main">
-                     <forename>Österreich</forename>
+                     <forename>Kaiserin von Österreich</forename>
                      <surname>Marie Therese</surname>
                   </persName>
                   <persName type="alternative">
@@ -14940,12 +14964,6 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/117019496</idno>
                </person>
-               <person xml:id="hsl_person_id_1595">
-                  <persName type="main">
-                     <forename>Herzog von Württemberg</forename>
-                     <surname>Ferdinand Friedrich</surname>
-                  </persName>
-               </person>
                <person xml:id="hsl_person_id_1596">
                   <persName type="main">
                      <forename>Ferdinand</forename>
@@ -17229,12 +17247,56 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/102410992</idno>
                </person>
-               <person xml:id="hsl_person_id_1872">
+               <person xml:id="hsl_person_id_1873">
                   <persName type="main">
-                     <forename/>
-                     <surname>Nikolaus von Myra</surname>
+                     <forename>Paul Anton</forename>
+                     <surname>Esterházy de Galántha</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/12918814X</idno>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Eszterhazy</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/135914906</idno>
+               </person>
+               <person xml:id="hsl_person_id_1874">
+                  <persName type="main">
+                     <forename>Nikolaus</forename>
+                     <surname>Esterházy de Galantha</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Eszterhazy</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/130146870</idno>
+               </person>
+               <person xml:id="hsl_person_id_1875">
+                  <persName type="main">
+                     <forename>Erzbischof von Salzburg</forename>
+                     <surname>Hieronymus</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119265737</idno>
+               </person>
+               <person xml:id="hsl_person_id_1876">
+                  <persName type="main">
+                     <forename>Pál Antal</forename>
+                     <surname>Esterházy de Galántha</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Eszterhazy</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119526743</idno>
+               </person>
+               <person xml:id="hsl_person_id_1877">
+                  <persName type="main">
+                     <forename>Herzog von Württemberg</forename>
+                     <surname>Ludwig</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Würtemberg</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/132356716</idno>
                </person>
             </listPerson>
          </div>
