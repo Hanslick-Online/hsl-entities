@@ -76,6 +76,9 @@
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
+               <author ref="#hsl_person_id_1890">
+                  <persName>Ponte, Lorenzo Da</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_447">Bartolo</name>
                <name type="character" ref="#hsl_person_id_448">Basilio</name>
                <name type="character" ref="#hsl_person_id_462">Cherubino</name>
@@ -1301,6 +1304,9 @@
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
+               <author ref="#hsl_person_id_1890">
+                  <persName>Ponte, Lorenzo Da</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_475">Don Giovanni</name>
                <name type="character" ref="#hsl_person_id_517">Donna Anna</name>
                <name type="character" ref="#hsl_person_id_518">Don Ottavio</name>
@@ -2466,6 +2472,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_347">
                <title type="main">Das wohltemperierte Klavier, BWV846–893</title>
+               <title type="alternative">Das wohltemperirte Clavier</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -4254,6 +4261,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_664">
                <title type="main">Ostergesang</title>
+               <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_358">
                   <persName>Leisring, Volckmar</persName>
                </author>
@@ -4484,25 +4492,28 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_707">
-               <title type="main">Christus am Ölberge</title>
+               <title type="main">Christus am Ölberge, op. 85</title>
+               <title type="alternative">Christus am Oelberg</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_708">
-               <title type="main">Ode for St. Cecilia's Day, HWV 76</title>
+               <title type="main">Ode for St. Cecilia's Day, HWV76</title>
+               <title type="alternative">Ode auf den St. Cäcilientag</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_709">
-               <title type="main">Das Alexanderfest, HW 75</title>
+               <title type="main">Das Alexanderfest, HWV75</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_710">
-               <title type="main">Acis and Galathea, HWV49</title>
+               <title type="main">Acis and Galatea, HWV49</title>
+               <title type="alternative">Acis und Galathea</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
@@ -5427,6 +5438,7 @@
                <author ref="#hsl_person_id_978">
                   <persName>Leoncavallo, Ruggiero</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1885">Nedda</name>
             </bibl>
             <bibl xml:id="hsl_work_id_850">
                <title type="main">Der engelländische Roland</title>
@@ -6588,10 +6600,18 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1030">
                <title type="main">Così fan tutte, ossia La scuola degli amanti, KV588</title>
-               <title type="alternative">So machen es Alle</title>
+               <title type="alternative">So machen es Alle / Cosi fan tutte</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
+               <author ref="#hsl_person_id_1890">
+                  <persName>Ponte, Lorenzo Da</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_1883">Despina</name>
+               <name type="character" ref="#hsl_person_id_1886">Fiordiligi</name>
+               <name type="character" ref="#hsl_person_id_1887">Ferrando</name>
+               <name type="character" ref="#hsl_person_id_1888">Guglielmo</name>
+               <name type="character" ref="#hsl_person_id_1889">Don Alfonso</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1031">
                <title type="main">Funiculì Funiculà</title>
@@ -7761,6 +7781,126 @@
                <title type="main">Biographie des Adalbert Gyrowetz</title>
                <author ref="#hsl_person_id_942">
                   <persName>Gyrowetz, Adalbert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1217">
+               <title type="main">Traité d'instrumentation et d'orchestration</title>
+               <author ref="#hsl_person_id_28">
+                  <persName>Berlioz, Hector</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1218">
+               <title type="main">I Capuleti e i Montecchi</title>
+               <title type="alternative">Romeo und Julia / Julie</title>
+               <author ref="#hsl_person_id_26">
+                  <persName>Bellini, Vincenzo</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1219">
+               <title type="main">Der Thurm zu Babel</title>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1220">
+               <title type="main">Polyeucte</title>
+               <title type="alternative">Polyeuct</title>
+               <author ref="#hsl_person_id_102">
+                  <persName>Gounod, Charles</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1221">
+               <title type="main">Ulysse</title>
+               <title type="alternative">Ulysses</title>
+               <author ref="#hsl_person_id_102">
+                  <persName>Gounod, Charles</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1222">
+               <title type="main">Sapho</title>
+               <title type="alternative">Sappho</title>
+               <author ref="#hsl_person_id_102">
+                  <persName>Gounod, Charles</persName>
+               </author>
+               <author ref="#hsl_person_id_1879">
+                  <persName>Augier, Emile</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1223">
+               <title type="main">Philémon et Baucis</title>
+               <title type="alternative">Philemon und Baucis</title>
+               <author ref="#hsl_person_id_102">
+                  <persName>Gounod, Charles</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1224">
+               <title type="main">La Nonne sanglante</title>
+               <title type="alternative">Die blutende Nonne</title>
+               <author ref="#hsl_person_id_102">
+                  <persName>Gounod, Charles</persName>
+               </author>
+               <author ref="#hsl_person_id_1881">
+                  <persName>Delavigne, Germain</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1225">
+               <title type="main">Carmen</title>
+               <author ref="#hsl_person_id_1298">
+                  <persName>Bizet, Georges</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_1884">Carmen</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1226">
+               <title type="main">Der Bundschuh</title>
+               <author ref="#hsl_person_id_1892">
+                  <persName>Reiter, Josef</persName>
+               </author>
+               <author ref="#hsl_person_id_1893">
+                  <persName>Millenkovich-Morold, Max von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1227">
+               <title type="main">Der Messias, KV572 (Bearbeitung)</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1228">
+               <title type="main">Acis und Galatea, KV566 (Bearbeitung)</title>
+               <title type="alternative">Acis und Galathea</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1229">
+               <title type="main">Das Alexanderfest, KV591 (Bearbeitung)</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1230">
+               <title type="main">Ode auf St. Caecilia, KV592 (Bearbeitung)</title>
+               <title type="alternative">Ode auf den St. Cäcilientag</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1231">
+               <title type="main">Vertraute Briefe geschrieben auf einer Reise nach Wien und den Oesterreichischen Staaten zu Ende des Jahres 1808 und zu Anfang 1809</title>
+               <author ref="#hsl_person_id_233">
+                  <persName>Reichardt, Johann Friedrich</persName>
                </author>
             </bibl>
       </listBibl>
