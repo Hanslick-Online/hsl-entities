@@ -12476,6 +12476,7 @@
                      <bibl n="hsl_work_id_881">Phèdre</bibl>
                      <bibl n="hsl_work_id_977">Don César de Bazan</bibl>
                      <bibl n="hsl_work_id_1133">Scènes alsaciennes</bibl>
+                     <bibl n="hsl_work_id_1237">La Navarraise</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1303">
@@ -17498,11 +17499,15 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118584588</idno>
                </person>
-               <person xml:id="hsl_person_id_1896" role="fictional">
+               <person xml:id="hsl_person_id_1896">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Umberto</forename>
+                     <surname>Giordano</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119264935</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1232">Mala vita</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1897">
                   <persName type="main">
@@ -17545,11 +17550,100 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/135933420</idno>
                </person>
-               <person xml:id="hsl_person_id_1902" role="fictional">
+               <person xml:id="hsl_person_id_1902">
+                  <persName type="main">
+                     <forename>Gellio</forename>
+                     <surname>Coronaro</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117731471</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1233">Festa a Marina</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1903">
+                  <persName type="main">
+                     <forename>Francesco</forename>
+                     <surname>Cilèa</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/122783239</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1234">La Tilda</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1904">
+                  <persName type="main">
+                     <forename>Nicola</forename>
+                     <surname>Spinelli</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1021278300</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1235">A basso porto</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1905">
+                  <persName type="main">
+                     <forename>Pierantonio</forename>
+                     <surname>Tasca</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1012348253</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1236">A Santa Lucia</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1906">
+                  <persName type="main">
+                     <forename>Joseph</forename>
+                     <surname>Netzer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116944994</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1238">Mara</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1907" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Henning Hofmeyer</surname>
                   </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1226">Der Bundschuh</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1908" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Veit Weber</surname>
+                  </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1226">Der Bundschuh</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1909" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ehrengard</surname>
+                  </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1226">Der Bundschuh</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1910" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Hans Fuchs</surname>
+                  </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1226">Der Bundschuh</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1911" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ulrike Fuchs</surname>
+                  </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1226">Der Bundschuh</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
