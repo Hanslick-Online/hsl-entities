@@ -460,6 +460,7 @@
                      <bibl n="hsl_work_id_1188">Johannes-Passion, BWV 245</bibl>
                      <bibl n="hsl_work_id_1189">Konzert für zwei Violinen und Orchester in d-Moll, BWV1043</bibl>
                      <bibl n="hsl_work_id_1190">Suite für Orchester Nr. 3 in D-Dur, BWV1068</bibl>
+                     <bibl n="hsl_work_id_1243">Cembalokonzert in d-Moll, BWV1052</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_19">
@@ -607,6 +608,7 @@
                      <bibl n="hsl_work_id_962">Klaviersonate Nr. 14 in cis-Moll, op. 27 Nr. 2</bibl>
                      <bibl n="hsl_work_id_1007">Kriegslied der Österreicher, WoO 12</bibl>
                      <bibl n="hsl_work_id_1058">Klavierkonzert Nr. 4 in G-Dur, op. 58</bibl>
+                     <bibl n="hsl_work_id_1242">Leonoren-Ouvertüre Nr. 2, op. 72a</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_26">
@@ -13697,10 +13699,15 @@
                      <forename>César</forename>
                      <surname>Franck</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Frank</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118534645</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_911">Les Béatitudes, FWV53</bibl>
                      <bibl n="hsl_work_id_1150">Symphonie in d-Moll, FWV48</bibl>
+                     <bibl n="hsl_work_id_1244">Symphonische Variationen, FWV46</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1437">
@@ -15144,6 +15151,11 @@
                      <surname>Smetana</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118615017</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1239">Libuše</bibl>
+                     <bibl n="hsl_work_id_1240">Prodaná nevěsta</bibl>
+                     <bibl n="hsl_work_id_1241">Vltava, JB1:112/2</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1619">
                   <persName type="main">
@@ -17644,6 +17656,77 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1226">Der Bundschuh</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1912" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Hartmann</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1226">Der Bundschuh</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1913" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Sixtus Beckmesser</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_217">Die Meistersinger von Nürnberg, WWV96</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1914" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>David</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_217">Die Meistersinger von Nürnberg, WWV96</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1915" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Libuše</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Libussa</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1239">Libuše</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1916" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Přemysl</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Premysl</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1239">Libuše</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1917">
+                  <persName type="main">
+                     <forename>Carl</forename>
+                     <surname>Friedberg</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Karl</forename>
+                     <surname>Friedberg</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116791748</idno>
+               </person>
+               <person xml:id="hsl_person_id_1918">
+                  <persName type="main">
+                     <forename>Ludwig</forename>
+                     <surname>Bösendorfer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116225556</idno>
                </person>
             </listPerson>
          </div>
