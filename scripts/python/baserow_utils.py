@@ -153,46 +153,48 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
         obj = file[f]
         try:
             loc = obj[clmn1]
-            if loc:
-                if len(loc) != 0:
-                    coords = loc
-                    coords = coords.split(",")
-                    feature_point = {
-                        "type": "Feature",
-                        "geometry": {
-                            "type": "Point",
-                            "coordinates": [float(coords[1]), float(coords[0])]
-                        },
-                        "properties": {
-                            "title": obj["ortsname"],
-                            "id": obj["hsl_id"],
-                            "country_code": obj["country_code"]
-                        }
-                    }
-                    geojson["features"].append(feature_point)
         except KeyError as err:
             print(err)
+            loc = False
+        if loc:
+            if len(loc) != 0:
+                coords = loc
+                coords = coords.split(", ")
+                feature_point = {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [float(coords[1]), float(coords[0])]
+                    },
+                    "properties": {
+                        "title": obj["ortsname"],
+                        "id": obj["hsl_id"],
+                        "country_code": obj["country_code"]
+                    }
+                }
+                geojson["features"].append(feature_point)
         try:
             loc = obj[clmn2]
-            if loc:
-                if len(loc) != 0:
-                    coords = loc
-                    coords = coords.split(",")
-                    feature_point = {
-                        "type": "Feature",
-                        "geometry": {
-                            "type": "Point",
-                            "coordinates": [float(coords[1]), float(coords[0])]
-                        },
-                        "properties": {
-                            "title": obj["ortsname"],
-                            "id": obj["hsl_id"],
-                            "country_code": obj["country_code"]
-                        }
-                    }
-                    geojson["features"].append(feature_point)
         except KeyError as err:
             print(err)
+            loc = False
+        if loc:
+            if len(loc) != 0:
+                coords = loc
+                coords = coords.split(", ")
+                feature_point = {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [float(coords[1]), float(coords[0])]
+                    },
+                    "properties": {
+                        "title": obj["ortsname"],
+                        "id": obj["hsl_id"],
+                        "country_code": obj["country_code"]
+                    }
+                }
+                geojson["features"].append(feature_point)
         try:
             loc = obj[clm3]
         except KeyError as err:
@@ -207,7 +209,7 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
                 except KeyError:
                     coords = {}
                 if coords:
-                    coords = coords.split(",")
+                    coords = coords.split(", ")
                     feature_point = {
                         "type": "Feature",
                         "geometry": {
@@ -229,7 +231,7 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
                     except KeyError:
                         coords = {}
                     if len(coords) > 0:
-                        coords = coords.split(",")
+                        coords = coords.split(", ")
                         feature_point = {
                             "type": "Feature",
                             "geometry": {
