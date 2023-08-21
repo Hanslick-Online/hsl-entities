@@ -173,6 +173,7 @@
                <place xml:id="hsl_place_id_7">
                   <settlement type="A">
                      <placeName type="main">Bayern</placeName>
+                     <placeName type="alternative">Baiern / Bavarien</placeName>
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>DE, Germany</country>
@@ -186,6 +187,7 @@
                <place xml:id="hsl_place_id_8">
                   <settlement type="P">
                      <placeName type="main">Bayreuth</placeName>
+                     <placeName type="alternative">Baireuth</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
@@ -223,7 +225,7 @@
                <place xml:id="hsl_place_id_11">
                   <settlement type="A">
                      <placeName type="main">Hrvatska</placeName>
-                     <placeName type="alternative">Kroatien</placeName>
+                     <placeName type="alternative">Kroatien / Croatien</placeName>
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>HR, Croatia</country>
@@ -717,7 +719,7 @@
                <place xml:id="hsl_place_id_47">
                   <settlement type="P">
                      <placeName type="main">Roma</placeName>
-                     <placeName type="alternative">Rom</placeName>
+                     <placeName type="alternative">Rom / Ewige Stadt</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>IT, Italy</country>
@@ -731,7 +733,7 @@
                <place xml:id="hsl_place_id_48">
                   <settlement type="A">
                      <placeName type="main">Rossija</placeName>
-                     <placeName type="alternative">Russland</placeName>
+                     <placeName type="alternative">Russland / Rußland</placeName>
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>RU, Russia</country>
@@ -758,7 +760,7 @@
                <place xml:id="hsl_place_id_50">
                   <settlement type="P">
                      <placeName type="main">Sankt-Peterburg</placeName>
-                     <placeName type="alternative">Sankt Petersburg</placeName>
+                     <placeName type="alternative">St. / Sankt Petersburg</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>RU, Russia</country>
@@ -910,6 +912,7 @@
                <place xml:id="hsl_place_id_66">
                   <settlement type="P">
                      <placeName type="main">Nafplio</placeName>
+                     <placeName type="alternative">Nauplia</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>GR, Greece</country>
@@ -1548,6 +1551,7 @@
                <place xml:id="hsl_place_id_125">
                   <settlement type="P">
                      <placeName type="main">Rio de Janeiro</placeName>
+                     <placeName type="alternative">Rio-de-Janeiro</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>BR, Brazil</country>
@@ -1645,6 +1649,445 @@
                   <idno type="GEONAMES">https://sws.geonames.org/2830590/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q182470</idno>
                   <idno type="GND">https://d-nb.info/gnd/4056178-1</idno>
+               </place>
+               <place xml:id="hsl_place_id_136">
+                  <placeName type="main">Brasil</placeName>
+                     <placeName type="alternative">Brasilien</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3469034/</idno>
+               </place>
+               <place xml:id="hsl_place_id_137">
+                  <placeName type="main">Arques</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3036797/</idno>
+               </place>
+               <place xml:id="hsl_place_id_138">
+                  <placeName type="main">Schwaben</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2824481/</idno>
+               </place>
+               <place xml:id="hsl_place_id_140">
+                  <settlement type="P">
+                     <placeName type="main">Laxenburg</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>48.06833, 16.35607</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2772810/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q699437</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4034801-5</idno>
+               </place>
+               <place xml:id="hsl_place_id_142">
+                  <placeName type="main">Persenbeug</placeName>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>48.18733, 15.08809</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2769059/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q110938568</idno>
+               </place>
+               <place xml:id="hsl_place_id_143">
+                  <placeName type="main">Linz</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2772400/</idno>
+               </place>
+               <place xml:id="hsl_place_id_144">
+                  <placeName type="main">Niederösterreich</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2770542/</idno>
+               </place>
+               <place xml:id="hsl_place_id_146">
+                  <placeName type="main">Zwickau</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2803560/</idno>
+               </place>
+               <place xml:id="hsl_place_id_147">
+                  <placeName type="main">Schönefeld</placeName>
+                     <placeName type="alternative">Schönfeld</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2836760/</idno>
+               </place>
+               <place xml:id="hsl_place_id_148">
+                  <placeName type="main">Feldmoching</placeName>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>48.21667, 11.53333</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2927319/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4115263-3</idno>
+               </place>
+               <place xml:id="hsl_place_id_149">
+                  <placeName type="main">Bethlehem</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/7870463/</idno>
+               </place>
+               <place xml:id="hsl_place_id_150">
+                  <placeName type="main">Moosach</placeName>
+                  <location type="coords">
+                     <geo>48.17952, 11.51296</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2869510/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4325232-1</idno>
+               </place>
+               <place xml:id="hsl_place_id_151">
+                  <placeName type="main">Moskwa</placeName>
+                     <placeName type="alternative">Moskau</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/524901/</idno>
+               </place>
+               <place xml:id="hsl_place_id_152">
+                  <placeName type="main">Rimini</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3169361/</idno>
+               </place>
+               <place xml:id="hsl_place_id_153">
+                  <placeName type="main">St. Marx</placeName>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>48.18882, 16.40323</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/12216713/</idno>
+               </place>
+               <place xml:id="hsl_place_id_154">
+                  <placeName type="main">Ludwigsfeld</placeName>
+                  <country>, Germany</country>
+                  <location type="coords">
+                     <geo>48.2, 11.5</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2875381/</idno>
+               </place>
+               <place xml:id="hsl_place_id_155">
+                  <placeName type="main">Karlsfeld</placeName>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>48.22697, 11.47573</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2892874/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q268707</idno>
+                  <idno type="GND">https://www.geonames.org/2875381</idno>
+               </place>
+               <place xml:id="hsl_place_id_156">
+                  <placeName type="main">Ravenna</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3169561/</idno>
+               </place>
+               <place xml:id="hsl_place_id_158">
+                  <placeName type="main">Winterthur</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2657970/</idno>
+               </place>
+               <place xml:id="hsl_place_id_159">
+                  <placeName type="main">Cimetière du Père-Lachaise</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/6452891/</idno>
+               </place>
+               <place xml:id="hsl_place_id_160">
+                  <placeName type="main">Krásno nad Teplou</placeName>
+                     <placeName type="alternative">Schönfeld</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3072873/</idno>
+               </place>
+               <place xml:id="hsl_place_id_161">
+                  <placeName type="main">Bečov nad Teplou</placeName>
+                     <placeName type="alternative">Petschau</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3079609/</idno>
+               </place>
+               <place xml:id="hsl_place_id_162">
+                  <placeName type="main">Toronto</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/6167865/</idno>
+               </place>
+               <place xml:id="hsl_place_id_163">
+                  <placeName type="main">Canada</placeName>
+                     <placeName type="alternative">Canadien</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/6251999/</idno>
+               </place>
+               <place xml:id="hsl_place_id_164">
+                  <placeName type="main">Cheb</placeName>
+                     <placeName type="alternative">Eger</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3077835/</idno>
+               </place>
+               <place xml:id="hsl_place_id_165">
+                  <placeName type="main">Sachsen</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2842566/</idno>
+               </place>
+               <place xml:id="hsl_place_id_166">
+                  <placeName type="main">Františkovy Lázně</placeName>
+                     <placeName type="alternative">Franzensbad</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3076136/</idno>
+               </place>
+               <place xml:id="hsl_place_id_167">
+                  <placeName type="main">Teplice</placeName>
+                     <placeName type="alternative">Teplitz</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3064288/</idno>
+               </place>
+               <place xml:id="hsl_place_id_168">
+                  <placeName type="main">Oberammergau</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2861422/</idno>
+               </place>
+               <place xml:id="hsl_place_id_169">
+                  <placeName type="main">Jisra'el</placeName>
+                     <placeName type="alternative">Israel</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/294640/</idno>
+               </place>
+               <place xml:id="hsl_place_id_170">
+                  <placeName type="main">Magdalā</placeName>
+                     <placeName type="alternative">Magdala</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/9637182l</idno>
+               </place>
+               <place xml:id="hsl_place_id_171">
+                  <placeName type="main">Nederland</placeName>
+                     <placeName type="alternative">Holland / Niederlande</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2750405/</idno>
+               </place>
+               <place xml:id="hsl_place_id_172">
+                  <placeName type="main">Perugia</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3171180/</idno>
+               </place>
+               <place xml:id="hsl_place_id_173">
+                  <placeName type="main">Oudenaarde</placeName>
+                     <placeName type="alternative">Oudenarde</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2789529/</idno>
+               </place>
+               <place xml:id="hsl_place_id_174">
+                  <placeName type="main">Nürnberg</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2861650/</idno>
+               </place>
+               <place xml:id="hsl_place_id_175">
+                  <placeName type="main">Miṣr</placeName>
+                     <placeName type="alternative">Ägypten / Egypten</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/357994/</idno>
+               </place>
+               <place xml:id="hsl_place_id_176">
+                  <placeName type="main">United States of America</placeName>
+                     <placeName type="alternative">Amerika</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/6252001/</idno>
+               </place>
+               <place xml:id="hsl_place_id_177">
+                  <placeName type="main">België / Belgique</placeName>
+                     <placeName type="alternative">Belgien</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2802361/</idno>
+               </place>
+               <place xml:id="hsl_place_id_178">
+                  <placeName type="main">Harz</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2909965/</idno>
+               </place>
+               <place xml:id="hsl_place_id_179">
+                  <placeName type="main">Niendorf</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2862606/</idno>
+               </place>
+               <place xml:id="hsl_place_id_180">
+                  <placeName type="main">Türkiye</placeName>
+                     <placeName type="alternative">Türkei</placeName>
+                  <idno type="GND">https://sws.geonames.org/298795/</idno>
+               </place>
+               <place xml:id="hsl_place_id_181">
+                  <placeName type="main">Īrān</placeName>
+                     <placeName type="alternative">Persien</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/130758/</idno>
+               </place>
+               <place xml:id="hsl_place_id_182">
+                  <placeName type="main">Torino</placeName>
+                     <placeName type="alternative">Turin</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3165524/</idno>
+               </place>
+               <place xml:id="hsl_place_id_183">
+                  <placeName type="main">Cremona</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3177838/</idno>
+               </place>
+               <place xml:id="hsl_place_id_184">
+                  <placeName type="main">Liberec</placeName>
+                     <placeName type="alternative">Reichenberg</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3071961/</idno>
+               </place>
+               <place xml:id="hsl_place_id_185">
+                  <placeName type="main">Heidelberg</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2907911/</idno>
+               </place>
+               <place xml:id="hsl_place_id_186">
+                  <settlement type="P">
+                     <placeName type="main">New York City</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>US, United Statea</country>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/5128581/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q60</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4042011-5</idno>
+               </place>
+               <place xml:id="hsl_place_id_187">
+                  <placeName type="main">Boston</placeName>
+                  <country>US, United States</country>
+                  <location type="coords">
+                     <geo>42.35843, -71.05977</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/4930956/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q100</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4007840-1</idno>
+               </place>
+               <place xml:id="hsl_place_id_188">
+                  <placeName type="main">Baltimore</placeName>
+                  <country>US, United States</country>
+                  <location type="coords">
+                     <geo>39.29038, -76.61219</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/4347778/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5092</idno>
+                  <idno type="GND">https://d-nb.info/gnd/1087584116</idno>
+               </place>
+               <place xml:id="hsl_place_id_189">
+                  <placeName type="main">Philadelphia</placeName>
+                  <country>US, United States</country>
+                  <location type="coords">
+                     <geo>39.95238, -75.16362</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/4560349/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1345</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4103331-0</idno>
+               </place>
+               <place xml:id="hsl_place_id_190">
+                  <placeName type="main">Beijing</placeName>
+                     <placeName type="alternative">Peking</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/1816670/</idno>
+               </place>
+               <place xml:id="hsl_place_id_191">
+                  <placeName type="main">Dessau</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2937959/</idno>
+               </place>
+               <place xml:id="hsl_place_id_192">
+                  <placeName type="main">Meiningen</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2872225/</idno>
+               </place>
+               <place xml:id="hsl_place_id_193">
+                  <placeName type="main">Roncole Verdi</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/7280681/</idno>
+               </place>
+               <place xml:id="hsl_place_id_194">
+                  <placeName type="main">Provincia di Parma</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3171456/</idno>
+               </place>
+               <place xml:id="hsl_place_id_195">
+                  <placeName type="main">Busseto</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3181364/</idno>
+               </place>
+               <place xml:id="hsl_place_id_196">
+                  <placeName type="main">al-Qāhirah</placeName>
+                     <placeName type="alternative">Kairo / Cairo</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/360630/</idno>
+               </place>
+               <place xml:id="hsl_place_id_198">
+                  <placeName type="main">Budapest</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3054643/</idno>
+               </place>
+               <place xml:id="hsl_place_id_200">
+                  <placeName type="main">Brussel</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2800866/</idno>
+               </place>
+               <place xml:id="hsl_place_id_202">
+                  <placeName type="main">Vlaanderen</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3337388/</idno>
+               </place>
+               <place xml:id="hsl_place_id_203">
+                  <placeName type="main">Antwerpen</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2803138/</idno>
+               </place>
+               <place xml:id="hsl_place_id_204">
+                  <placeName type="main">Česko</placeName>
+                     <placeName type="alternative">Tschechien</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3077311/</idno>
+               </place>
+               <place xml:id="hsl_place_id_205">
+                  <placeName type="main">Kawkas, K'avk'asioni, Kowkas, Qafqaz, Kafkas,</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/573081/</idno>
+               </place>
+               <place xml:id="hsl_place_id_206">
+                  <placeName type="main">Riviera</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3170325/</idno>
+               </place>
+               <place xml:id="hsl_place_id_207">
+                  <placeName type="main">Oradea</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/671768/</idno>
+               </place>
+               <place xml:id="hsl_place_id_208">
+                  <placeName type="main">Campagna romana</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3181063/</idno>
+               </place>
+               <place xml:id="hsl_place_id_209">
+                  <placeName type="main">Tabor</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/293418/</idno>
+               </place>
+               <place xml:id="hsl_place_id_210">
+                  <placeName type="main">Sorrento</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3166350/</idno>
+               </place>
+               <place xml:id="hsl_place_id_211">
+                  <placeName type="main">Vidnava</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3062924/</idno>
+               </place>
+               <place xml:id="hsl_place_id_212">
+                  <placeName type="main">Innere Stadt, Wien</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2775259/</idno>
+               </place>
+               <place xml:id="hsl_place_id_213">
+                  <placeName type="main">Fürth</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2923544/</idno>
+               </place>
+               <place xml:id="hsl_place_id_214">
+                  <placeName type="main">Île du Diable</placeName>
+                     <placeName type="alternative">Teufelsinsel</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3381836/</idno>
+               </place>
+               <place xml:id="hsl_place_id_215">
+                  <placeName type="main">Starnberg</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2829457/</idno>
+               </place>
+               <place xml:id="hsl_place_id_216">
+                  <placeName type="main">Skandinavia / Skandinavien</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2614165/</idno>
+               </place>
+               <place xml:id="hsl_place_id_217">
+                  <placeName type="main">Biebrich</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2949235/</idno>
+               </place>
+               <place xml:id="hsl_place_id_218">
+                  <placeName type="main">Augarten</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3322733/</idno>
+               </place>
+               <place xml:id="hsl_place_id_219">
+                  <placeName type="main">México</placeName>
+                     <placeName type="alternative">Mexico</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3996063/</idno>
+               </place>
+               <place xml:id="hsl_place_id_220">
+                  <placeName type="main">Nice</placeName>
+                     <placeName type="alternative">Nizza</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2990440/</idno>
+               </place>
+               <place xml:id="hsl_place_id_221">
+                  <placeName type="main">Alsace</placeName>
+                     <placeName type="alternative">Elsass</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3038033/</idno>
+               </place>
+               <place xml:id="hsl_place_id_222">
+                  <placeName type="main">İstanbul</placeName>
+                     <placeName type="alternative">Konstantinopel</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/745044/</idno>
+               </place>
+               <place xml:id="hsl_place_id_223">
+                  <placeName type="main">København</placeName>
+                     <placeName type="alternative">Kopenhagen</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2618425/</idno>
+               </place>
+               <place xml:id="hsl_place_id_224">
+                  <placeName type="main">Eisenach</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2931574/</idno>
+               </place>
+               <place xml:id="hsl_place_id_225">
+                  <placeName type="main">Prater, Wien</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3322725/</idno>
+               </place>
+               <place xml:id="hsl_place_id_226">
+                  <placeName type="main">Volksgarten, Wien</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/6697258/</idno>
+               </place>
+               <place xml:id="hsl_place_id_227">
+                  <placeName type="main">Sopron</placeName>
+                     <placeName type="alternative">Oedenburg</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3045190/</idno>
+               </place>
+               <place xml:id="hsl_place_id_228">
+                  <placeName type="main">Brno</placeName>
+                     <placeName type="alternative">Brünn</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3078610/</idno>
                </place>
             </listPlace>
          </div>
