@@ -411,6 +411,7 @@
                      <bibl n="hsl_work_id_195">Fiorella</bibl>
                      <bibl n="hsl_work_id_715">L`éclat de rire</bibl>
                      <bibl n="hsl_work_id_940">Manon Lescaut</bibl>
+                     <bibl n="hsl_work_id_1282">Parisienne</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_17">
@@ -2691,7 +2692,7 @@
                </person>
                <person xml:id="hsl_person_id_871">
                   <persName type="main">
-                     <forename/>
+                     <forename>?</forename>
                      <surname>Nini</surname>
                   </persName>
                </person>
@@ -4859,7 +4860,7 @@
                </person>
                <person xml:id="hsl_person_id_872">
                   <persName type="main">
-                     <forename/>
+                     <forename>?</forename>
                      <surname>Rotter</surname>
                   </persName>
                </person>
@@ -8776,13 +8777,13 @@
                   <idno type="GND">https://d-nb.info/gnd/116223057</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q32808</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_499">Mailüfterl</bibl>
+                     <bibl n="hsl_work_id_499">Wanns Mailüfterl waht</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_858" role="fictional">
                   <persName type="main">
-                     <forename>Martha</forename>
-                     <surname>Flickʼs Großmutter</surname>
+                     <forename/>
+                     <surname>Martha</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_496">Flick und Flock</bibl>
@@ -8843,8 +8844,12 @@
                <person xml:id="hsl_person_id_865">
                   <persName type="main">
                      <forename>Peter Ludwig</forename>
-                     <surname>Hertl</surname>
+                     <surname>Hertel</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116752734</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_496">Flick und Flock</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_866">
                   <persName type="main">
@@ -8877,17 +8882,30 @@
                      <forename>Anna</forename>
                      <surname>Stadelmeyer</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Stadelmayer</surname>
+                  </persName>
                </person>
                <person xml:id="hsl_person_id_873">
                   <persName type="main">
                      <forename>Hedwig</forename>
                      <surname>Schläger</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Schräger</surname>
+                  </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q89756589</idno>
                </person>
                <person xml:id="hsl_person_id_874">
                   <persName type="main">
                      <forename>Fanny</forename>
                      <surname>Elßler</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Elsler</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118688863</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q435304</idno>
@@ -18221,11 +18239,15 @@
                   <idno type="GND">https://d-nb.info/gnd/116225556</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1874268</idno>
                </person>
-               <person xml:id="hsl_person_id_1919" role="fictional">
+               <person xml:id="hsl_person_id_1919">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Casimir</forename>
+                     <surname>Delavigne</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118878921</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1282">Parisienne</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1920" role="fictional">
                   <persName type="main">
@@ -18386,8 +18408,9 @@
                <person xml:id="hsl_person_id_1936" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Fortuna</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118534467</idno>
                </person>
                <person xml:id="hsl_person_id_1937">
                   <persName type="main">
