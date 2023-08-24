@@ -7879,21 +7879,11 @@
                <author ref="#hsl_person_id_1893">
                   <persName>Millenkovich-Morold, Max von</persName>
                </author>
-               <author ref="#hsl_person_id_1907">
-                  <persName>Henning Hofmeyer</persName>
-               </author>
-               <author ref="#hsl_person_id_1908">
-                  <persName>Veit Weber</persName>
-               </author>
-               <author ref="#hsl_person_id_1909">
-                  <persName>Ehrengard</persName>
-               </author>
-               <author ref="#hsl_person_id_1910">
-                  <persName>Hans Fuchs</persName>
-               </author>
-               <author ref="#hsl_person_id_1911">
-                  <persName>Ulrike Fuchs</persName>
-               </author>
+               <name type="character" ref="#hsl_person_id_1907">Henning Hofmeyer</name>
+               <name type="character" ref="#hsl_person_id_1908">Veit Weber</name>
+               <name type="character" ref="#hsl_person_id_1909">Ehrengard</name>
+               <name type="character" ref="#hsl_person_id_1910">Hans Fuchs</name>
+               <name type="character" ref="#hsl_person_id_1911">Ulrike Fuchs</name>
                <name type="character" ref="#hsl_person_id_1912">Hartmann</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1227">
@@ -7983,7 +7973,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1239">
-               <title type="main">Libuše</title>
+               <title type="main">Libuše, JB1:102</title>
                <title type="alternative">Libussa</title>
                <author ref="#hsl_person_id_1617">
                   <persName>Smetana, Bedřich</persName>
@@ -7992,7 +7982,7 @@
                <name type="character" ref="#hsl_person_id_1916">Přemysl</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1240">
-               <title type="main">Prodaná nevěsta</title>
+               <title type="main">Prodaná nevěsta, JB1:100</title>
                <title type="alternative">Die verkaufte Braut</title>
                <author ref="#hsl_person_id_1617">
                   <persName>Smetana, Bedřich</persName>
@@ -8245,6 +8235,9 @@
                <author ref="#hsl_person_id_1919">
                   <persName>Delavigne, Casimir</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1283">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>
