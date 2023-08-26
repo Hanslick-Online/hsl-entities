@@ -1440,7 +1440,7 @@
                      <bibl n="hsl_work_id_43">Suite für Violine und Klavier Nr. 1 in D-Dur, op. 11</bibl>
                      <bibl n="hsl_work_id_592">Penthesilea, op. 31</bibl>
                      <bibl n="hsl_work_id_718">Sakuntala, op. 13</bibl>
-                     <bibl n="hsl_work_id_1032">Symphonie Nr. 1, op. 26</bibl>
+                     <bibl n="hsl_work_id_1032">Symphonie Nr. 1 in Es-Dur, op. 26</bibl>
                      <bibl n="hsl_work_id_1106">Die Kriegsgefangene</bibl>
                      <bibl n="hsl_work_id_1111">Die Königin von Saba</bibl>
                      <bibl n="hsl_work_id_1112">Merlin</bibl>
@@ -1450,7 +1450,7 @@
                      <bibl n="hsl_work_id_1202">Klaviertrio Nr. 2 in e-Moll, op. 33</bibl>
                      <bibl n="hsl_work_id_1203">Suite für Violine und Klavier Nr. 2 in Es-Dur, op. 43</bibl>
                      <bibl n="hsl_work_id_1204">Streichquartett in B-Dur, op. 8</bibl>
-                     <bibl n="hsl_work_id_1205">Streichquartett in a-Moll</bibl>
+                     <bibl n="hsl_work_id_1205">Streichquintett in a-Moll, op. 9</bibl>
                      <bibl n="hsl_work_id_1206">Klavierquintett in B-Dur, op. 30</bibl>
                      <bibl n="hsl_work_id_1207">Im Frühling, op. 36</bibl>
                      <bibl n="hsl_work_id_1208">Sappho, op. 44</bibl>
@@ -17585,7 +17585,7 @@
                   <idno type="GND">https://d-nb.info/gnd/119361116</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q728357</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_1192">König René's Tochter</bibl>
+                     <bibl n="hsl_work_id_1192">Kong Renés Datter</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1849" role="fictional">
@@ -17594,7 +17594,7 @@
                      <surname>Jolanthe</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_1192">König René's Tochter</bibl>
+                     <bibl n="hsl_work_id_1192">Kong Renés Datter</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1850" role="fictional">
@@ -18786,17 +18786,22 @@
                      <surname/>
                   </persName>
                </person>
-               <person xml:id="hsl_person_id_1982" role="fictional">
+               <person xml:id="hsl_person_id_1982">
                   <persName type="main">
                      <forename/>
                      <surname>Emil Von Reznicek</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Reznicek
+V. Reznicek</surname>
                   </persName>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q550639</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1284">Donna Dianna</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1983" role="fictional">
+               <person xml:id="hsl_person_id_1983">
                   <persName type="main">
                      <forename/>
                      <surname>Agustín Moreto</surname>
@@ -18811,6 +18816,80 @@
                      <bibl n="hsl_work_id_1285"/>
                      <bibl n="hsl_work_id_1286">El desdén con el desdén</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_1984">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Jean Paul</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Jean Paul Richter</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118557211</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q77079</idno>
+               </person>
+               <person xml:id="hsl_person_id_1985" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Floretta</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1986" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Perin</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1987" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Don Louis</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Don Luis</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1988" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Don Gaston</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1989" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Cäsar</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Don César
+Don Caesar</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1990" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1991" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Herr Naval</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_1992">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Lola Beeth</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>österreichische Opernsängerin (Sopran) und Gesangspädagogin</surname>
+                  </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q4085934</idno>
                </person>
             </listPerson>
          </div>
