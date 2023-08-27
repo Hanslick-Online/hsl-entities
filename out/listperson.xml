@@ -449,7 +449,7 @@
                      <bibl n="hsl_work_id_723">Messe in h-Moll, BWV232</bibl>
                      <bibl n="hsl_work_id_763">Gottes Zeit ist die allerbeste Zeit</bibl>
                      <bibl n="hsl_work_id_764">Ich hatte viel Bekümmernis, BWV21</bibl>
-                     <bibl n="hsl_work_id_765">Liebster Gott, wenn werd ich sterben?</bibl>
+                     <bibl n="hsl_work_id_765">Liebster Gott, wenn werd ich sterben?, BWV8</bibl>
                      <bibl n="hsl_work_id_769">Große Fuge für Streichorchester</bibl>
                      <bibl n="hsl_work_id_862">Partita für Violine Nr. 3 in E-Dur, BWV1006</bibl>
                      <bibl n="hsl_work_id_875">Fürchte dich nicht, ich bin bei dir, BWV228</bibl>
@@ -458,7 +458,7 @@
                      <bibl n="hsl_work_id_1141">Wachet auf, ruft uns die Stimme, BWV140</bibl>
                      <bibl n="hsl_work_id_1186">Magnificat, BWV243</bibl>
                      <bibl n="hsl_work_id_1187">Ein feste Burg ist unser Gott, BWV80</bibl>
-                     <bibl n="hsl_work_id_1188">Johannes-Passion, BWV 245</bibl>
+                     <bibl n="hsl_work_id_1188">Johannes-Passion, BWV245</bibl>
                      <bibl n="hsl_work_id_1189">Konzert für zwei Violinen und Orchester in d-Moll, BWV1043</bibl>
                      <bibl n="hsl_work_id_1190">Suite für Orchester Nr. 3 in D-Dur, BWV1068</bibl>
                      <bibl n="hsl_work_id_1243">Cembalokonzert in d-Moll, BWV1052</bibl>
@@ -17528,12 +17528,6 @@
                   <idno type="GND">https://d-nb.info/gnd/116159421</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1758336</idno>
                </person>
-               <person xml:id="hsl_person_id_1842">
-                  <persName type="main">
-                     <forename>E.</forename>
-                     <surname>Neumann</surname>
-                  </persName>
-               </person>
                <person xml:id="hsl_person_id_1843">
                   <persName type="main">
                      <forename>C. H.</forename>
@@ -18758,11 +18752,15 @@
                      <surname>Strohlendorf</surname>
                   </persName>
                </person>
-               <person xml:id="hsl_person_id_1978" role="fictional">
+               <person xml:id="hsl_person_id_1978">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Felix</forename>
+                     <surname>Dahn</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118523392</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1178">Ratbold</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1979">
                   <persName type="main">
@@ -18774,11 +18772,15 @@
                      <bibl n="hsl_work_id_1280">Rule, Britannia!</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1980" role="fictional">
+               <person xml:id="hsl_person_id_1980">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Maximilian</forename>
+                     <surname>Singer</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117402516</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1181">Es war einmal</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1981" role="fictional">
                   <persName type="main">
@@ -18890,6 +18892,13 @@ Don Caesar</surname>
                      <surname>österreichische Opernsängerin (Sopran) und Gesangspädagogin</surname>
                   </persName>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q4085934</idno>
+               </person>
+               <person xml:id="hsl_person_id_1993">
+                  <persName type="main">
+                     <forename>Ernst</forename>
+                     <surname>Naumann</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116899344</idno>
                </person>
             </listPerson>
          </div>
