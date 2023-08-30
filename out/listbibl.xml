@@ -1505,6 +1505,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_199">
                <title type="main">Faust</title>
+               <author ref="#hsl_person_id_84">
+                  <persName>Carré, Michel</persName>
+               </author>
                <author ref="#hsl_person_id_90">
                   <persName>Barbier, Jules</persName>
                </author>
@@ -2232,8 +2235,12 @@
             </bibl>
             <bibl xml:id="hsl_work_id_298">
                <title type="main">Castor et Pollux</title>
+               <title type="alternative">Castor und Pollux</title>
                <author ref="#hsl_person_id_227">
                   <persName>Rameau, Jean-Philippe</persName>
+               </author>
+               <author ref="#hsl_person_id_2010">
+                  <persName>Bernard, Pierre-Joseph</persName>
                </author>
                <name type="character" ref="#hsl_person_id_461">Castor</name>
             </bibl>
@@ -2241,6 +2248,9 @@
                <title type="main">Dardanus</title>
                <author ref="#hsl_person_id_227">
                   <persName>Rameau, Jean-Philippe</persName>
+               </author>
+               <author ref="#hsl_person_id_2009">
+                  <persName>Le Clerc de La Bruère, Charles-Antoine</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_300">
@@ -7260,6 +7270,9 @@
                <author ref="#hsl_person_id_1327">
                   <persName>Heuberger, Richard</persName>
                </author>
+               <author ref="#hsl_person_id_2008">
+                  <persName>Waldberg, Heinrich von</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1118">
                <title type="main">Festklänge, S101</title>
@@ -7301,6 +7314,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1124">
                <title type="main">Frühlingsouvertüre, op. 15</title>
+               <title type="alternative">Frühlings-Ouvertüre</title>
                <author ref="#hsl_person_id_1268">
                   <persName>Goetz, Hermann</persName>
                </author>
@@ -7312,7 +7326,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1126">
-               <title type="main">Der 137. Psalm op. 14</title>
+               <title type="main">Der 137. Psalm, op. 14</title>
                <author ref="#hsl_person_id_1268">
                   <persName>Goetz, Hermann</persName>
                </author>
@@ -7322,11 +7336,20 @@
                <author ref="#hsl_person_id_1327">
                   <persName>Heuberger, Richard</persName>
                </author>
+               <author ref="#hsl_person_id_2008">
+                  <persName>Waldberg, Heinrich von</persName>
+               </author>
+               <author ref="#hsl_person_id_2011">
+                  <persName>Léon, Victor</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1128">
                <title type="main">Niniche</title>
                <author ref="#hsl_person_id_1747">
                   <persName>Hennequin, Alfred</persName>
+               </author>
+               <author ref="#hsl_person_id_1748">
+                  <persName>Millaud, Albert</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1129">
