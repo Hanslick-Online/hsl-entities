@@ -834,6 +834,12 @@
                <author ref="#hsl_person_id_182">
                   <persName>Meyerbeer, Giacomo</persName>
                </author>
+               <author ref="#hsl_person_id_284">
+                  <persName>Scribe, Eugène</persName>
+               </author>
+               <author ref="#hsl_person_id_2037">
+                  <persName>Deschamps, Emile</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_621">Marcel</name>
                <name type="character" ref="#hsl_person_id_647">Raoul de Nangis</name>
                <name type="character" ref="#hsl_person_id_666">Valentine</name>
@@ -1084,6 +1090,12 @@
                <title type="alternative">Der Blitz</title>
                <author ref="#hsl_person_id_106">
                   <persName>Halévy, Fromental</persName>
+               </author>
+               <author ref="#hsl_person_id_1809">
+                  <persName>Saint-Georges, Henri de</persName>
+               </author>
+               <author ref="#hsl_person_id_2036">
+                  <persName>Planard, Eugène de</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1812">Lionel</name>
             </bibl>
@@ -2559,11 +2571,19 @@
             </bibl>
             <bibl xml:id="hsl_work_id_352">
                <title type="main">La sonnambula</title>
-               <title type="alternative">La somnambula</title>
+               <title type="alternative">La somnambula, Die Nachtwandlerin</title>
                <author ref="#hsl_person_id_26">
                   <persName>Bellini, Vincenzo</persName>
                </author>
+               <author ref="#hsl_person_id_284">
+                  <persName>Scribe, Eugène</persName>
+               </author>
+               <author ref="#hsl_person_id_2026">
+                  <persName>Romani, Felice</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_437">Amina</name>
+               <name type="character" ref="#hsl_person_id_2028">Lisa</name>
+               <name type="character" ref="#hsl_person_id_2029">Graf Rodolfo</name>
             </bibl>
             <bibl xml:id="hsl_work_id_353">
                <title type="main">Mémoires pour servir à l'historie de la révolution opérée dans la musique par M. le chevalier Gluck</title>
@@ -7650,6 +7670,9 @@
                <author ref="#hsl_person_id_106">
                   <persName>Halévy, Fromental</persName>
                </author>
+               <author ref="#hsl_person_id_284">
+                  <persName>Scribe, Eugène</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_1808">Guido</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1164">
@@ -7658,12 +7681,21 @@
                <author ref="#hsl_person_id_106">
                   <persName>Halévy, Fromental</persName>
                </author>
+               <author ref="#hsl_person_id_1881">
+                  <persName>Delavigne, Germain</persName>
+               </author>
+               <author ref="#hsl_person_id_1919">
+                  <persName>Delavigne, Casimir</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1165">
                <title type="main">Les Mousquetaires de la reine</title>
                <title type="alternative">Die Musketiere der Königin</title>
                <author ref="#hsl_person_id_106">
                   <persName>Halévy, Fromental</persName>
+               </author>
+               <author ref="#hsl_person_id_1809">
+                  <persName>Saint-Georges, Henri de</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1813">Olivier d'Entragues</name>
             </bibl>
@@ -7699,24 +7731,36 @@
                <author ref="#hsl_person_id_106">
                   <persName>Halévy, Fromental</persName>
                </author>
+               <author ref="#hsl_person_id_284">
+                  <persName>Scribe, Eugène</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1171">
                <title type="main">La Magicienne</title>
                <author ref="#hsl_person_id_106">
                   <persName>Halévy, Fromental</persName>
                </author>
+               <author ref="#hsl_person_id_1809">
+                  <persName>Saint-Georges, Henri de</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1172">
                <title type="main">Noé</title>
-               <title type="alternative">Noah</title>
+               <title type="alternative">Noah, oder: Die Sündfluth</title>
                <author ref="#hsl_person_id_106">
                   <persName>Halévy, Fromental</persName>
+               </author>
+               <author ref="#hsl_person_id_1809">
+                  <persName>Saint-Georges, Henri de</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1173">
                <title type="main">Ludovic</title>
                <author ref="#hsl_person_id_122">
                   <persName>Hérold, Ferdinand</persName>
+               </author>
+               <author ref="#hsl_person_id_1809">
+                  <persName>Saint-Georges, Henri de</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1174">
@@ -8448,6 +8492,47 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1289">
                <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1290">
+               <title type="main">Zaide, KV 344</title>
+               <title type="alternative">Das Serail</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1291">
+               <title type="main">Thamos, König in Ägypten, KV 345</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+               <author ref="#hsl_person_id_2025">
+                  <persName>Gebler, Tobias Philip von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1292">
+               <title type="main">Die Entführung aus dem Serail, KV 384</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+               <author ref="#hsl_person_id_1592">
+                  <persName>Stephanie, Gottlieb</persName>
+               </author>
+               <author ref="#hsl_person_id_2031">
+                  <persName>Bretzner, Christoph Friedrich</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_2030">Konstanze</name>
+               <name type="character" ref="#hsl_person_id_2032">Belmonte</name>
+               <name type="character" ref="#hsl_person_id_2033">osmin</name>
+               <name type="character" ref="#hsl_person_id_2035">Pedrillo</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1293">
+               <title type="main">Lazarus, D689</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_2027">
+                  <persName>Niemeyer, August Hermann</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>

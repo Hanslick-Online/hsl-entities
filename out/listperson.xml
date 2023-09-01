@@ -2573,6 +2573,9 @@
                      <bibl n="hsl_work_id_1228">Acis und Galatea, KV566 (Bearbeitung)</bibl>
                      <bibl n="hsl_work_id_1229">Das Alexanderfest, KV591 (Bearbeitung)</bibl>
                      <bibl n="hsl_work_id_1230">Ode auf St. Caecilia, KV592 (Bearbeitung)</bibl>
+                     <bibl n="hsl_work_id_1290">Zaide, KV 344</bibl>
+                     <bibl n="hsl_work_id_1291">Thamos, König in Ägypten, KV 345</bibl>
+                     <bibl n="hsl_work_id_1292">Die Entführung aus dem Serail, KV 384</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_190">
@@ -3467,6 +3470,7 @@
                      <bibl n="hsl_work_id_816">Am Meere, D957 Nr. 12</bibl>
                      <bibl n="hsl_work_id_832">Ständchen, D957</bibl>
                      <bibl n="hsl_work_id_960">Klaviertrio in B-Dur, op. 99</bibl>
+                     <bibl n="hsl_work_id_1293">Lazarus, D689</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_280">
@@ -3565,9 +3569,13 @@
                   <idno type="GND">https://d-nb.info/gnd/118612425</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q319261</idno>
                   <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_105">Les Hugenotes</bibl>
                      <bibl n="hsl_work_id_142">L'Africaine</bibl>
+                     <bibl n="hsl_work_id_352">La sonnambula</bibl>
                      <bibl n="hsl_work_id_589">Bataille de dames</bibl>
                      <bibl n="hsl_work_id_1161">La Juive</bibl>
+                     <bibl n="hsl_work_id_1163">Guido et Ginevra, ou la Peste de Florence</bibl>
+                     <bibl n="hsl_work_id_1170">La tempesta</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_285">
@@ -12623,6 +12631,10 @@
                      <forename>Georges</forename>
                      <surname>Bizet</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>George</forename>
+                     <surname>Bizet</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118511440</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q56158</idno>
                   <listBibl type="authorOf">
@@ -15357,6 +15369,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/119545799</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q78822</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1292">Die Entführung aus dem Serail, KV 384</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1593">
                   <persName type="main">
@@ -17312,7 +17327,12 @@
                   <idno type="GND">https://d-nb.info/gnd/117390046</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q967704</idno>
                   <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_138">L'éclair</bibl>
                      <bibl n="hsl_work_id_1162">La Reine de Chypre</bibl>
+                     <bibl n="hsl_work_id_1165">Les Mousquetaires de la reine</bibl>
+                     <bibl n="hsl_work_id_1171">La Magicienne</bibl>
+                     <bibl n="hsl_work_id_1172">Noé</bibl>
+                     <bibl n="hsl_work_id_1173">Ludovic</bibl>
                      <bibl n="hsl_work_id_1174">Catharina Cornaro, op. 71</bibl>
                   </listBibl>
                </person>
@@ -17928,6 +17948,7 @@
                   <idno type="GND">https://d-nb.info/gnd/119106698</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1513808</idno>
                   <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1164">Charles VI.</bibl>
                      <bibl n="hsl_work_id_1224">La Nonne sanglante</bibl>
                   </listBibl>
                </person>
@@ -18296,6 +18317,7 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118878921</idno>
                   <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1164">Charles VI.</bibl>
                      <bibl n="hsl_work_id_1282">Parisienne</bibl>
                   </listBibl>
                </person>
@@ -19277,6 +19299,131 @@ Don Caesar</surname>
                   <idno type="GND">https://d-nb.info/gnd/116151846</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1082">Ritter Pásmán</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2025">
+                  <persName type="main">
+                     <forename>Tobias Philip von</forename>
+                     <surname>Gebler</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/130096563</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1291">Thamos, König in Ägypten, KV 345</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2026">
+                  <persName type="main">
+                     <forename>Felice</forename>
+                     <surname>Romani</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119309912</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_352">La sonnambula</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2027">
+                  <persName type="main">
+                     <forename>August Hermann</forename>
+                     <surname>Niemeyer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118786199</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1293">Lazarus, D689</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2028" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Lisa</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Wirthin</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_352">La sonnambula</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2029" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Graf Rodolfo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_352">La sonnambula</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2030" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Konstanze</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1292">Die Entführung aus dem Serail, KV 384</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2031">
+                  <persName type="main">
+                     <forename>Christoph Friedrich</forename>
+                     <surname>Bretzner</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/115849238</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1292">Die Entführung aus dem Serail, KV 384</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2032" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Belmonte</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1292">Die Entführung aus dem Serail, KV 384</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2033" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>osmin</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1292">Die Entführung aus dem Serail, KV 384</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2034">
+                  <persName type="main">
+                     <forename>Jenny</forename>
+                     <surname>Pappenheim-Arens</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1293399795</idno>
+               </person>
+               <person xml:id="hsl_person_id_2035" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Pedrillo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1292">Die Entführung aus dem Serail, KV 384</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2036">
+                  <persName type="main">
+                     <forename>Eugène de</forename>
+                     <surname>Planard</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/123381762</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_138">L'éclair</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2037">
+                  <persName type="main">
+                     <forename>Emile</forename>
+                     <surname>Deschamps</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117632767</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_105">Les Hugenotes</bibl>
                   </listBibl>
                </person>
             </listPerson>
