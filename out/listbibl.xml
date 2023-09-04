@@ -390,7 +390,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_42">
                <title type="main">Symphonie Nr. 3 in Es-Dur, op. 55</title>
-               <title type="alternative">Eroica</title>
+               <title type="alternative">Eroica / Heroische Symphonie / Heldensymphonie / Bonaparte-Symphonie</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -502,6 +502,12 @@
                <author ref="#hsl_person_id_182">
                   <persName>Meyerbeer, Giacomo</persName>
                </author>
+               <author ref="#hsl_person_id_284">
+                  <persName>Scribe, Eugène</persName>
+               </author>
+               <author ref="#hsl_person_id_1881">
+                  <persName>Delavigne, Germain</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_453">Bertram</name>
                <name type="character" ref="#hsl_person_id_596">Isabelle</name>
                <name type="character" ref="#hsl_person_id_646">Raimbaud</name>
@@ -524,7 +530,7 @@
                <name type="character" ref="#hsl_person_id_1628">Paolo Orsini</name>
                <name type="character" ref="#hsl_person_id_1629">Steffano Colonna</name>
                <name type="character" ref="#hsl_person_id_1630">Cola Rienzi</name>
-               <name type="character" ref="#hsl_person_id_1634">Ein Friedensbote</name>
+               <name type="character" ref="#hsl_person_id_1634">Friedensbote</name>
             </bibl>
             <bibl xml:id="hsl_work_id_61">
                <title type="main">Re Lear</title>
@@ -1430,6 +1436,12 @@
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
                </author>
+               <author ref="#hsl_person_id_2064">
+                  <persName>Jouy, Étienne de</persName>
+               </author>
+               <author ref="#hsl_person_id_2065">
+                  <persName>Bis, Hippolyte</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_443">Melchthal, Arnold</name>
             </bibl>
             <bibl xml:id="hsl_work_id_187">
@@ -1819,6 +1831,9 @@
                <author ref="#hsl_person_id_321">
                   <persName>Weber, Carl Maria von</persName>
                </author>
+               <author ref="#hsl_person_id_2063">
+                  <persName>Kind, Johann Friedrich</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_1263">Kaspar</name>
             </bibl>
             <bibl xml:id="hsl_work_id_237">
@@ -1827,13 +1842,18 @@
                   <persName>Wagner, Richard</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1375">Senta</name>
-               <name type="character" ref="#hsl_person_id_1376">Der Holländer</name>
+               <name type="character" ref="#hsl_person_id_1376">Holländer</name>
             </bibl>
             <bibl xml:id="hsl_work_id_238">
-               <title type="main">Das Rheingold</title>
+               <title type="main">Das Rheingold, WWV86A</title>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1680">Wotan</name>
+               <name type="character" ref="#hsl_person_id_1681">Fricka</name>
+               <name type="character" ref="#hsl_person_id_1682">Erda</name>
+               <name type="character" ref="#hsl_person_id_1686">Alberich</name>
+               <name type="character" ref="#hsl_person_id_1687">Mime</name>
             </bibl>
             <bibl xml:id="hsl_work_id_239">
                <title type="main">Das Paradies und die Peri, op. 50</title>
@@ -2144,6 +2164,12 @@
                <title type="alternative">Orpheus in der Unterwelt</title>
                <author ref="#hsl_person_id_202">
                   <persName>Offenbach, Jacques</persName>
+               </author>
+               <author ref="#hsl_person_id_2060">
+                  <persName>Crémieux, Hector Jonathan</persName>
+               </author>
+               <author ref="#hsl_person_id_2061">
+                  <persName>Halévy, Ludovic</persName>
                </author>
                <name type="character" ref="#hsl_person_id_2059">Diana</name>
             </bibl>
@@ -3404,8 +3430,8 @@
                <name type="character" ref="#hsl_person_id_849">König der Gnomen</name>
                <name type="character" ref="#hsl_person_id_850">Topase</name>
                <name type="character" ref="#hsl_person_id_851">Bett, van</name>
-               <name type="character" ref="#hsl_person_id_852">Der Genius der Wahrheit</name>
-               <name type="character" ref="#hsl_person_id_853">Ein unterseeischer Beamter</name>
+               <name type="character" ref="#hsl_person_id_852">Genius der Wahrheit</name>
+               <name type="character" ref="#hsl_person_id_853">Unterseeischer Beamter</name>
                <name type="character" ref="#hsl_person_id_855">Amphytrite</name>
                <name type="character" ref="#hsl_person_id_858">Martha</name>
                <name type="character" ref="#hsl_person_id_859">Nella</name>
@@ -4056,10 +4082,10 @@
                <author ref="#hsl_person_id_1060">
                   <persName>Wolfrum, Philipp</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_1214">Der Engel Gabriel</name>
+               <name type="character" ref="#hsl_person_id_1214">Engel Gabriel</name>
                <name type="character" ref="#hsl_person_id_1215">Maria</name>
                <name type="character" ref="#hsl_person_id_1216">Joseph</name>
-               <name type="character" ref="#hsl_person_id_1217">Der Evangelist und Erzähler</name>
+               <name type="character" ref="#hsl_person_id_1217">Evangelist und Erzähler</name>
             </bibl>
             <bibl xml:id="hsl_work_id_609">
                <title type="main">Szenen aus Goethes Faust</title>
@@ -4268,10 +4294,14 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_649">
-               <title type="main">Die Walküre</title>
+               <title type="main">Die Walküre, WWV86B</title>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1680">Wotan</name>
+               <name type="character" ref="#hsl_person_id_1683">Brünnhilde</name>
+               <name type="character" ref="#hsl_person_id_1690">Siegmund</name>
+               <name type="character" ref="#hsl_person_id_1691">Sieglinde</name>
             </bibl>
             <bibl xml:id="hsl_work_id_650">
                <title type="main">Inno delle nazioni</title>
@@ -4783,8 +4813,8 @@
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_1660">Der Dämon</name>
-               <name type="character" ref="#hsl_person_id_1661">Ein Engel</name>
+               <name type="character" ref="#hsl_person_id_1660">Dämon</name>
+               <name type="character" ref="#hsl_person_id_1661">Engel</name>
                <name type="character" ref="#hsl_person_id_1662">Tamara</name>
                <name type="character" ref="#hsl_person_id_1663">Fürst Gudal</name>
                <name type="character" ref="#hsl_person_id_1664">Prinz von Sinodal</name>
@@ -5478,10 +5508,10 @@
                <author ref="#hsl_person_id_1343">
                   <persName>Sachs, Hans</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_1339">Der Mann</name>
-               <name type="character" ref="#hsl_person_id_1344">Das Weib</name>
-               <name type="character" ref="#hsl_person_id_1345">Der Nachbar</name>
-               <name type="character" ref="#hsl_person_id_1346">Die Nachbarin</name>
+               <name type="character" ref="#hsl_person_id_1339">Mann</name>
+               <name type="character" ref="#hsl_person_id_1344">Weib</name>
+               <name type="character" ref="#hsl_person_id_1345">Nachbar</name>
+               <name type="character" ref="#hsl_person_id_1346">Nachbarin</name>
             </bibl>
             <bibl xml:id="hsl_work_id_842">
                <title type="main">Abu Hassan, J106</title>
@@ -6458,6 +6488,9 @@
                <author ref="#hsl_person_id_312">
                   <persName>Verdi, Giuseppe</persName>
                </author>
+               <author ref="#hsl_person_id_2066">
+                  <persName>Ghislanzoni, Antonio</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_1743">Amneris</name>
             </bibl>
             <bibl xml:id="hsl_work_id_983">
@@ -7008,14 +7041,28 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1069">
                <title type="main">Barbe-Bleue</title>
+               <title type="alternative">Blaubart</title>
                <author ref="#hsl_person_id_202">
                   <persName>Offenbach, Jacques</persName>
+               </author>
+               <author ref="#hsl_person_id_2061">
+                  <persName>Halévy, Ludovic</persName>
+               </author>
+               <author ref="#hsl_person_id_2062">
+                  <persName>Meilhac, Henri</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1070">
                <title type="main">La Grande-Duchesse de Gérolstein</title>
+               <title type="alternative">Die Großherzogin von Gérolstein</title>
                <author ref="#hsl_person_id_202">
                   <persName>Offenbach, Jacques</persName>
+               </author>
+               <author ref="#hsl_person_id_2061">
+                  <persName>Halévy, Ludovic</persName>
+               </author>
+               <author ref="#hsl_person_id_2062">
+                  <persName>Meilhac, Henri</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1071">
@@ -7023,30 +7070,30 @@
                <author ref="#hsl_person_id_299">
                   <persName>Strauss junior, Johann</persName>
                </author>
+               <author ref="#hsl_person_id_309">
+                  <persName>Treumann, Karl</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1072">
                <title type="main">Eine Nacht in Venedig</title>
                <author ref="#hsl_person_id_299">
                   <persName>Strauss junior, Johann</persName>
                </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_1073">
-               <title type="main">Die Aufgabe der deutschen Gesangsbühnen</title>
-               <author ref="#hsl_person_id_1624">
-                  <persName>Marsop, Paul</persName>
+               <author ref="#hsl_person_id_353">
+                  <persName>Walzel, Camillo</persName>
                </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_1074">
-               <title type="main">Faustmusik</title>
-               <author ref="#hsl_person_id_1624">
-                  <persName>Marsop, Paul</persName>
+               <author ref="#hsl_person_id_2020">
+                  <persName>Genée, Richard</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1075">
-               <title type="main">Hans von Bülow. Briefe und Schriften.</title>
+               <title type="main">Briefe und Schriften</title>
+               <author ref="#hsl_person_id_44">
+                  <persName>Bülow, Hans von</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1076">
-               <title type="main">Klaviersonate in h-Moll</title>
+               <title type="main">Klaviersonate in h-Moll, S178</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -7058,13 +7105,13 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1078">
-               <title type="main">Bismarck: Symphonische Dichtungen von Beethoven</title>
+               <title type="main">Bismarck. Symphonische Dichtung von Beethoven</title>
                <author ref="#hsl_person_id_1678">
                   <persName>Wirth, Moritz</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1079">
-               <title type="main">Graf Bismarck und seine Leute</title>
+               <title type="main">Graf Bismarck und seine Leute während des Kriegs mit Frankreich</title>
                <author ref="#hsl_person_id_1679">
                   <persName>Busch, Moritz</persName>
                </author>
@@ -8405,7 +8452,7 @@
                   <persName>Hopp, Julius</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1963">Hulda</name>
-               <name type="character" ref="#hsl_person_id_1964">die Theiß</name>
+               <name type="character" ref="#hsl_person_id_1964">Theiß</name>
                <name type="character" ref="#hsl_person_id_1965">von Kahlenberg, Ritter Heinrich</name>
                <name type="character" ref="#hsl_person_id_1967">Urban</name>
             </bibl>
@@ -8645,6 +8692,41 @@
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1313">
+               <title type="main">Briefe. III. Band, 1855–1864</title>
+               <author ref="#hsl_person_id_44">
+                  <persName>Bülow, Hans von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1314">
+               <title type="main">Ausgewählte Schriften, 1850–1892</title>
+               <author ref="#hsl_person_id_44">
+                  <persName>Bülow, Hans von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1315">
+               <title type="main">Siegfried, WWV86C</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_1680">Wotan</name>
+               <name type="character" ref="#hsl_person_id_1682">Erda</name>
+               <name type="character" ref="#hsl_person_id_1683">Brünnhilde</name>
+               <name type="character" ref="#hsl_person_id_1684">Siegfried</name>
+               <name type="character" ref="#hsl_person_id_1686">Alberich</name>
+               <name type="character" ref="#hsl_person_id_1687">Mime</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1316">
+               <title type="main">Götterdämmerung, WWV86D</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_1683">Brünnhilde</name>
+               <name type="character" ref="#hsl_person_id_1684">Siegfried</name>
+               <name type="character" ref="#hsl_person_id_1686">Alberich</name>
+               <name type="character" ref="#hsl_person_id_1688">Hagen</name>
+               <name type="character" ref="#hsl_person_id_1689">Gunther</name>
             </bibl>
       </listBibl>
       </body>
