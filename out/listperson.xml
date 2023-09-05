@@ -69,7 +69,7 @@
                      <bibl n="hsl_work_id_421">Grillparzer und die Musik</bibl>
                      <bibl n="hsl_work_id_422">Musikalische Stationen. (Der „Modernen Oper“ II. Theil.)</bibl>
                      <bibl n="hsl_work_id_484">Die moderne Oper. Kritiken und Studien</bibl>
-                     <bibl n="hsl_work_id_1083">Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Ästhetik der Tonkunst.</bibl>
+                     <bibl n="hsl_work_id_1083">Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Ästhetik der Tonkunst</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2">
@@ -3590,6 +3590,7 @@
                      <bibl n="hsl_work_id_58">Robert le diable</bibl>
                      <bibl n="hsl_work_id_105">Les Hugenotes</bibl>
                      <bibl n="hsl_work_id_142">L'Africaine</bibl>
+                     <bibl n="hsl_work_id_194">Fra Diavolo</bibl>
                      <bibl n="hsl_work_id_352">La sonnambula</bibl>
                      <bibl n="hsl_work_id_589">Bataille de dames</bibl>
                      <bibl n="hsl_work_id_1161">La Juive</bibl>
@@ -10608,7 +10609,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q71192</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_615">Johannes Brahms</bibl>
-                     <bibl n="hsl_work_id_1080">Opern-Abende</bibl>
+                     <bibl n="hsl_work_id_1080">Opern-Abende. Beiträge zur Geschichte und Kritik der Oper</bibl>
                      <bibl n="hsl_work_id_1143">Letztes Glück, op. 104 Nr. 3</bibl>
                   </listBibl>
                </person>
@@ -16331,19 +16332,25 @@
                </person>
                <person xml:id="hsl_person_id_1697">
                   <persName type="main">
-                     <forename>Nicholas</forename>
-                     <surname>Brodszky</surname>
+                     <forename>Adolʹf Davidovič</forename>
+                     <surname>Brodskij</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/134686039</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1991393</idno>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Brodski</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/129292230</idno>
                </person>
                <person xml:id="hsl_person_id_1698">
                   <persName type="main">
-                     <forename>Vasilij P.</forename>
-                     <surname>Solovʹev-Sedoj</surname>
+                     <forename>Aleksandr Ilʹič</forename>
+                     <surname>Ziloti</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/122071964</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q739362</idno>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Seloti</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117386979</idno>
                </person>
                <person xml:id="hsl_person_id_1699">
                   <persName type="main">
@@ -19733,6 +19740,46 @@ Don Caesar</surname>
                   <idno type="GND">https://d-nb.info/gnd/119310082</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_982">Aida</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2069">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Claude Godard D’Aucourt de Saint-Just</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/101099851</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1081">Jean de Paris</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2070">
+                  <persName type="main">
+                     <forename>James R.</forename>
+                     <surname>Planché</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/12115873X</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_79">Oberon or The Elf King's Oath, J306</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2071">
+                  <persName type="main">
+                     <forename>Konstantin S.</forename>
+                     <surname>Šilovskij</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/137766297</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_729">Jewgeni Onegin, op. 24</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2072">
+                  <persName type="main">
+                     <forename>Francesco Maria</forename>
+                     <surname>Piave</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119110369</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_122">La Traviata</bibl>
                   </listBibl>
                </person>
             </listPerson>
