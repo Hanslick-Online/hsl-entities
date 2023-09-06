@@ -1078,8 +1078,8 @@
                      <bibl n="hsl_work_id_95">Lucia di Lammermoor</bibl>
                      <bibl n="hsl_work_id_98">Linda di Chamounix</bibl>
                      <bibl n="hsl_work_id_207">Don Pasquale</bibl>
-                     <bibl n="hsl_work_id_249">Caterina Cornaro ossia La Regina di Cipro</bibl>
-                     <bibl n="hsl_work_id_377">Il Canto 33 della Divina Commedia di Dante (Il Conte Ugolino)</bibl>
+                     <bibl n="hsl_work_id_249">Caterina Cornaro ossia La regina di Cipro</bibl>
+                     <bibl n="hsl_work_id_377">Il Canto XXXIII dalla Divina Commedia di Dante Alighieri (Il conte Ugolino)</bibl>
                      <bibl n="hsl_work_id_380">La Favorita</bibl>
                      <bibl n="hsl_work_id_384">Marin Faliero</bibl>
                      <bibl n="hsl_work_id_386">Lucrezia Borgia</bibl>
@@ -1097,7 +1097,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q711460</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_30">Waldfräulein</bibl>
-                     <bibl n="hsl_work_id_803">Ungarische Phantasie, op. 35</bibl>
+                     <bibl n="hsl_work_id_803">Fantaisie sur des motifs hongrois, op. 35</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_65">
@@ -3906,6 +3906,9 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1062">Abschied für vierstimmigen gemischten Chor</bibl>
                   </listBibl>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_366">Des Sängers Fluch, op. 8</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_311">
                   <persName type="main">
@@ -4224,9 +4227,6 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116180110</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q67497</idno>
-                  <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_803">Ungarische Phantasie, op. 35</bibl>
-                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_345">
                   <persName type="main">
@@ -4902,6 +4902,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1067</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_369">La Divina Comedia</bibl>
+                     <bibl n="hsl_work_id_377">Il Canto XXXIII dalla Divina Commedia di Dante Alighieri (Il conte Ugolino)</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_421">
@@ -12390,12 +12391,15 @@
                      <bibl n="hsl_work_id_963">Requiem, op. 89</bibl>
                      <bibl n="hsl_work_id_970">Serenade für Bläser in d-Moll, op. 44</bibl>
                      <bibl n="hsl_work_id_971">Sextett für Streicher in A-Dur, op. 48</bibl>
-                     <bibl n="hsl_work_id_972">Suite für Orchester in A-Dur, op. 98b</bibl>
+                     <bibl n="hsl_work_id_972">Suite für Orchester in A-Dur, op. 98</bibl>
                      <bibl n="hsl_work_id_973">Můj domov, op. 62</bibl>
                      <bibl n="hsl_work_id_974">Stabat Mater, op. 58</bibl>
                      <bibl n="hsl_work_id_1019">Svatá Lumila, op. 71</bibl>
                      <bibl n="hsl_work_id_1033">Symphonie Nr. 9 in e-Moll, op. 95</bibl>
-                     <bibl n="hsl_work_id_1089">Klänge aus Mähren op. 20, 29, 32</bibl>
+                     <bibl n="hsl_work_id_1089">Moravské dvojzpěvy, op. 20</bibl>
+                     <bibl n="hsl_work_id_1320">Moravské dvojzpěvy, op. 29</bibl>
+                     <bibl n="hsl_work_id_1321">Moravské dvojzpěvy, op. 32</bibl>
+                     <bibl n="hsl_work_id_1322">Moravské dvojzpěvy, op. 38</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1266">
@@ -19462,6 +19466,8 @@ Don Caesar</surname>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_81">Norma</bibl>
                      <bibl n="hsl_work_id_352">La sonnambula</bibl>
+                     <bibl n="hsl_work_id_386">Lucrezia Borgia</bibl>
+                     <bibl n="hsl_work_id_451">L'elisir d'amore</bibl>
                      <bibl n="hsl_work_id_1218">I Capuleti e i Montecchi</bibl>
                   </listBibl>
                </person>
@@ -20258,6 +20264,7 @@ Don Caesar</surname>
                   <idno type="GND">https://d-nb.info/gnd/116281375</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_70">Paquita</bibl>
+                     <bibl n="hsl_work_id_228">Diana von Solange</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2116">
@@ -20289,6 +20296,121 @@ Don Caesar</surname>
                   <idno type="GND">https://d-nb.info/gnd/118733141</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1041">Isacco figura del redentore, Kr. 316</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2119">
+                  <persName type="main">
+                     <forename>Giacomo</forename>
+                     <surname>Sacchero</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/115453717</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_249">Caterina Cornaro ossia La regina di Cipro</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2120">
+                  <persName type="main">
+                     <forename>Giovanni</forename>
+                     <surname>Ruffini</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/122686896</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_207">Don Pasquale</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2121">
+                  <persName type="main">
+                     <forename>Domenico</forename>
+                     <surname>Gilardoni</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/128978120</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_399">Fausta</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2122">
+                  <persName type="main">
+                     <forename>Alphonse</forename>
+                     <surname>Royer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116668733</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_380">La Favorita</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2123">
+                  <persName type="main">
+                     <forename>Gustave</forename>
+                     <surname>Vae͏̈z</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/100864430</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_380">La Favorita</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2124">
+                  <persName type="main">
+                     <forename>Gaetano</forename>
+                     <surname>Rossi</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119304805</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_98">Linda di Chamounix</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2125">
+                  <persName type="main">
+                     <forename>Salvatore</forename>
+                     <surname>Cammarano</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/115458085</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_90">Maria di Rohan o Il Conte di Chalais</bibl>
+                     <bibl n="hsl_work_id_95">Lucia di Lammermoor</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2126">
+                  <persName type="main">
+                     <forename>Jaroslav</forename>
+                     <surname>Kvapil</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118778293</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_906">Rusalka, op. 114</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2127">
+                  <persName type="main">
+                     <forename>Johann Heinrich</forename>
+                     <surname>Millenet</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>M.</forename>
+                     <surname>Tenelli</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117042196</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_250">Casilda</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2128">
+                  <persName type="main">
+                     <forename>Pavel Aleksandrovič</forename>
+                     <surname>Viskovatov</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/135103177</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_737">Demon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2129">
+                  <persName type="main">
+                     <forename>Apollon Nikolaevič</forename>
+                     <surname>Majkov</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118781308</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_737">Demon</bibl>
                   </listBibl>
                </person>
             </listPerson>
