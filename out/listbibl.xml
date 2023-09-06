@@ -486,8 +486,11 @@
                <name type="character" ref="#hsl_person_id_1116">Capulet</name>
             </bibl>
             <bibl xml:id="hsl_work_id_56">
-               <title type="main">Roméo et Juliette</title>
+               <title type="main">Roméo et Juliette, CG9</title>
                <title type="alternative">Romeo und Julia  / Julie</title>
+               <author ref="#hsl_person_id_84">
+                  <persName>Carré, Michel</persName>
+               </author>
                <author ref="#hsl_person_id_90">
                   <persName>Barbier, Jules</persName>
                </author>
@@ -728,7 +731,7 @@
                <name type="character" ref="#hsl_person_id_1721">Moïse</name>
             </bibl>
             <bibl xml:id="hsl_work_id_87">
-               <title type="main">Missa Solemnis D-Dur, op. 123</title>
+               <title type="main">Missa Solemnis in D-Dur, op. 123</title>
                <title type="alternative">D-Messe</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -1086,7 +1089,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_127">
-               <title type="main">La neige ou Le nouvel Eginard</title>
+               <title type="main">La neige, ou Le nouvel Eginhard</title>
                <title type="alternative">Der Schnee</title>
                <author ref="#hsl_person_id_16">
                   <persName>Auber, Daniel-François-Esprit</persName>
@@ -1485,7 +1488,7 @@
                <name type="character" ref="#hsl_person_id_653">Rosina</name>
             </bibl>
             <bibl xml:id="hsl_work_id_177">
-               <title type="main">I puritani e i cavalieri</title>
+               <title type="main">I puritani</title>
                <title type="alternative">Die Puritaner</title>
                <author ref="#hsl_person_id_26">
                   <persName>Bellini, Vincenzo</persName>
@@ -1517,7 +1520,7 @@
                <name type="character" ref="#hsl_person_id_117">King Henry the Fourth</name>
             </bibl>
             <bibl xml:id="hsl_work_id_181">
-               <title type="main">Haydée ou le Secret</title>
+               <title type="main">Haydée, ou Le secret</title>
                <author ref="#hsl_person_id_16">
                   <persName>Auber, Daniel-François-Esprit</persName>
                </author>
@@ -1544,7 +1547,7 @@
                <name type="character" ref="#hsl_person_id_1048">Königin der Erdgeister</name>
             </bibl>
             <bibl xml:id="hsl_work_id_185">
-               <title type="main">Gustave III. ou Le bal masqué</title>
+               <title type="main">Gustave III, ou Le bal masqué</title>
                <title type="alternative">Gustav / Gustave oder Der Maskenball / Ballnacht</title>
                <author ref="#hsl_person_id_16">
                   <persName>Auber, Daniel-François-Esprit</persName>
@@ -1580,7 +1583,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_189">
-               <title type="main">Giralda ou La Nouvelle Psyché</title>
+               <title type="main">Giralda, ou La nouvelle psyché</title>
                <author ref="#hsl_person_id_12">
                   <persName>Adam, Adolphe</persName>
                </author>
@@ -1661,7 +1664,7 @@
                <name type="character" ref="#hsl_person_id_1228">Mephistofeles</name>
             </bibl>
             <bibl xml:id="hsl_work_id_199">
-               <title type="main">Faust</title>
+               <title type="main">Faust, CG4</title>
                <author ref="#hsl_person_id_84">
                   <persName>Carré, Michel</persName>
                </author>
@@ -2349,7 +2352,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_285">
-               <title type="main">Missa Sacra c-Moll, op. 147</title>
+               <title type="main">Missa Sacra in c-Moll, op. 147</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
@@ -2772,9 +2775,6 @@
                <author ref="#hsl_person_id_26">
                   <persName>Bellini, Vincenzo</persName>
                </author>
-               <author ref="#hsl_person_id_284">
-                  <persName>Scribe, Eugène</persName>
-               </author>
                <author ref="#hsl_person_id_2026">
                   <persName>Romani, Felice</persName>
                </author>
@@ -2893,7 +2893,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_371">
-               <title type="main">Méditation sur le premier Prélude de J. S. Bach</title>
+               <title type="main">Ave Maria. Méditation sur le Premier Prélude de Piano de S. Bach, CG89</title>
                <title type="alternative">Meditation</title>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
@@ -4206,6 +4206,9 @@
                <title type="main">Adelaide, op. 46</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <author ref="#hsl_person_id_1039">
+                  <persName>Matthisson, Friedrich von</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_600">
@@ -5956,6 +5959,9 @@
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
+               <author ref="#hsl_person_id_2100">
+                  <persName>Gerhardt, Paul</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_876">
                <title type="main">Beherzigung, op. 93a Nr. 6</title>
@@ -6079,7 +6085,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_893">
-               <title type="main">Les Contes d'Hoffmann</title>
+               <title type="main">Les contes d'Hoffmann</title>
                <title type="alternative">Hoffmanns Erzählungen / Erzählungen Hoffmanns</title>
                <author ref="#hsl_person_id_90">
                   <persName>Barbier, Jules</persName>
@@ -6104,6 +6110,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_894">
                <title type="main">Mignon</title>
+               <author ref="#hsl_person_id_84">
+                  <persName>Carré, Michel</persName>
+               </author>
                <author ref="#hsl_person_id_90">
                   <persName>Barbier, Jules</persName>
                </author>
@@ -6113,6 +6122,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_895">
                <title type="main">Hamlet</title>
+               <author ref="#hsl_person_id_84">
+                  <persName>Carré, Michel</persName>
+               </author>
                <author ref="#hsl_person_id_90">
                   <persName>Barbier, Jules</persName>
                </author>
@@ -6128,7 +6140,7 @@
                <name type="character" ref="#hsl_person_id_1407">Quasimodo</name>
             </bibl>
             <bibl xml:id="hsl_work_id_897">
-               <title type="main">Les Contes d'Hoffmann (1851)</title>
+               <title type="main">Les contes d'Hoffmann (1851)</title>
                <author ref="#hsl_person_id_90">
                   <persName>Barbier, Jules</persName>
                </author>
@@ -6237,7 +6249,7 @@
                <name type="character" ref="#hsl_person_id_1718">Herald</name>
             </bibl>
             <bibl xml:id="hsl_work_id_910">
-               <title type="main">La Rédemption</title>
+               <title type="main">La Rédemption, CG32</title>
                <title type="alternative">Redemption</title>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
@@ -8337,21 +8349,30 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1220">
-               <title type="main">Polyeucte</title>
+               <title type="main">Polyeucte, CG11</title>
                <title type="alternative">Polyeuct</title>
+               <author ref="#hsl_person_id_84">
+                  <persName>Carré, Michel</persName>
+               </author>
+               <author ref="#hsl_person_id_90">
+                  <persName>Barbier, Jules</persName>
+               </author>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1221">
-               <title type="main">Ulysse</title>
+               <title type="main">Ulysse, CG26</title>
                <title type="alternative">Ulysses</title>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
                </author>
+               <author ref="#hsl_person_id_2101">
+                  <persName>Ponsard, François</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1222">
-               <title type="main">Sapho</title>
+               <title type="main">Sapho, CG1</title>
                <title type="alternative">Sappho</title>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
@@ -8361,17 +8382,26 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1223">
-               <title type="main">Philémon et Baucis</title>
+               <title type="main">Philémon et Baucis, CG5</title>
                <title type="alternative">Philemon und Baucis</title>
+               <author ref="#hsl_person_id_84">
+                  <persName>Carré, Michel</persName>
+               </author>
+               <author ref="#hsl_person_id_90">
+                  <persName>Barbier, Jules</persName>
+               </author>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1224">
-               <title type="main">La Nonne sanglante</title>
+               <title type="main">La nonne sanglante, CG2</title>
                <title type="alternative">Die blutende Nonne</title>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
+               </author>
+               <author ref="#hsl_person_id_284">
+                  <persName>Scribe, Eugène</persName>
                </author>
                <author ref="#hsl_person_id_1881">
                   <persName>Delavigne, Germain</persName>
@@ -8752,7 +8782,7 @@
                <name type="character" ref="#hsl_person_id_2016">Parthenia</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1282">
-               <title type="main">Parisienne</title>
+               <title type="main">La Parisienne</title>
                <author ref="#hsl_person_id_16">
                   <persName>Auber, Daniel-François-Esprit</persName>
                </author>
