@@ -1549,7 +1549,10 @@
                <name type="character" ref="#hsl_person_id_552">Harold</name>
             </bibl>
             <bibl xml:id="hsl_work_id_184">
-               <title type="main">Hans Heiling</title>
+               <title type="main">Hans Heiling, op. 80</title>
+               <author ref="#hsl_person_id_58">
+                  <persName>Devrient, Eduard</persName>
+               </author>
                <author ref="#hsl_person_id_174">
                   <persName>Marschner, Heinrich</persName>
                </author>
@@ -1653,6 +1656,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_196">
                <title type="main">Feramors</title>
+               <author ref="#hsl_person_id_238">
+                  <persName>Rodenberg, Julius</persName>
+               </author>
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
@@ -1884,6 +1890,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_220">
                <title type="main">Die Kinder der Haide</title>
+               <author ref="#hsl_person_id_188">
+                  <persName>Mosenthal, Salomon Hermann von</persName>
+               </author>
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
@@ -1951,9 +1960,12 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_230">
-               <title type="main">Der Templer und die Jüdin</title>
+               <title type="main">Der Templer und die Jüdin, op. 60</title>
                <author ref="#hsl_person_id_174">
                   <persName>Marschner, Heinrich</persName>
+               </author>
+               <author ref="#hsl_person_id_2130">
+                  <persName>Wohlbrück, Wilhelm August</persName>
                </author>
                <name type="character" ref="#hsl_person_id_597">Wilfried von Ivanhoe</name>
                <name type="character" ref="#hsl_person_id_1050">Bruder Tuck</name>
@@ -4311,9 +4323,12 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_606">
-               <title type="main">Der Vampyr</title>
+               <title type="main">Der Vampyr, op. 42</title>
                <author ref="#hsl_person_id_174">
                   <persName>Marschner, Heinrich</persName>
+               </author>
+               <author ref="#hsl_person_id_2130">
+                  <persName>Wohlbrück, Wilhelm August</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1139">Lord Ruthwen</name>
             </bibl>
@@ -4599,9 +4614,12 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_659">
-               <title type="main">Das verlorene Paradies</title>
+               <title type="main">Das verlorene Paradies, op. 54</title>
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
+               </author>
+               <author ref="#hsl_person_id_2131">
+                  <persName>Schloenbach, Carl Arnold</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_660">
@@ -5096,9 +5114,6 @@
                </author>
                <author ref="#hsl_person_id_2128">
                   <persName>Viskovatov, Pavel Aleksandrovič</persName>
-               </author>
-               <author ref="#hsl_person_id_2129">
-                  <persName>Majkov, Apollon Nikolaevič</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1660">Dämon</name>
                <name type="character" ref="#hsl_person_id_1661">Engel</name>
@@ -7122,6 +7137,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1035">
                <title type="main">La liberatrice del popolo giudaico nella Persia, o sia l'Ester, Kr. 318</title>
+               <title type="alternative">Esther</title>
                <author ref="#hsl_person_id_897">
                   <persName>Dittersdorf, Karl Ditters von</persName>
                </author>
@@ -7165,6 +7181,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1040">
                <title type="main">Giob, Kr. 319</title>
+               <title type="alternative">Hiob</title>
                <author ref="#hsl_person_id_897">
                   <persName>Dittersdorf, Karl Ditters von</persName>
                </author>
@@ -7174,6 +7191,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1041">
                <title type="main">Isacco figura del redentore, Kr. 316</title>
+               <title type="alternative">Isaak</title>
                <author ref="#hsl_person_id_897">
                   <persName>Dittersdorf, Karl Ditters von</persName>
                </author>
@@ -7192,9 +7210,6 @@
                <author ref="#hsl_person_id_897">
                   <persName>Dittersdorf, Karl Ditters von</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_1653">Actäon</name>
-               <name type="character" ref="#hsl_person_id_1654">Diana</name>
-               <name type="character" ref="#hsl_person_id_1655">Phaëton</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1044">
                <title type="main">Symphonie in G-Dur, Kr. 75</title>
@@ -7367,12 +7382,20 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1066">
                <title type="main">Die Maccabäer</title>
+               <title type="alternative">Makkabäer</title>
+               <author ref="#hsl_person_id_188">
+                  <persName>Mosenthal, Salomon Hermann von</persName>
+               </author>
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1067">
                <title type="main">Néron</title>
+               <title type="alternative">Nero</title>
+               <author ref="#hsl_person_id_90">
+                  <persName>Barbier, Jules</persName>
+               </author>
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
