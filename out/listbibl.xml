@@ -250,13 +250,6 @@
             <bibl xml:id="hsl_work_id_315">
                <title type="main">Altfranzösisches Weihnachtslied</title>
             </bibl>
-            <bibl xml:id="hsl_work_id_438">
-               <title type="main">Mit Würdʼ und Hoheit angetan</title>
-               <title type="alternative">aus: Die Schöpfung</title>
-               <author ref="#hsl_person_id_114">
-                  <persName>Haydn, Joseph</persName>
-               </author>
-            </bibl>
             <bibl xml:id="hsl_work_id_446">
                <title type="main">Germanenzug, WAB70</title>
                <author ref="#hsl_person_id_742">
@@ -294,6 +287,9 @@
                <author ref="#hsl_person_id_122">
                   <persName>Hérold, Ferdinand</persName>
                </author>
+               <author ref="#hsl_person_id_2079">
+                  <persName>Duveyrier, Anne-Honoré Joseph</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_29">
                <title type="main">Weihnachtslied</title>
@@ -328,9 +324,13 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_33">
-               <title type="main">Die Tochter der Wellen</title>
+               <title type="main">Undina</title>
+               <title type="alternative">Die Tochter der Wellen</title>
                <author ref="#hsl_person_id_913">
                   <persName>Lʹvov, Aleksej F.</persName>
+               </author>
+               <author ref="#hsl_person_id_2140">
+                  <persName>Sollogub, Vladimir A.</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_34">
@@ -574,7 +574,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_66">
-               <title type="main">Fantasie über ungarische Volksmelodien</title>
+               <title type="main">Fantasie über ungarische Volksmelodien, S123</title>
                <title type="alternative">Fantasie über ungarische National-Melodien</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
@@ -584,6 +584,9 @@
                <title type="main">Paulus, op. 36</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+               <author ref="#hsl_person_id_2170">
+                  <persName>Schubring, Julius</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_68">
@@ -656,7 +659,8 @@
                <title type="main">Oesterreichische Revue</title>
             </bibl>
             <bibl xml:id="hsl_work_id_78">
-               <title type="main">Oedipus in Kolonos</title>
+               <title type="main">Oedipus in Kolonos, op. 93</title>
+               <title type="alternative">Oedip</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
@@ -741,7 +745,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_88">
-               <title type="main">Meeresstille und glückliche Fahrt</title>
+               <title type="main">Meeresstille und glückliche Fahrt, op. 27</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
@@ -1272,10 +1276,16 @@
                <name type="character" ref="#hsl_person_id_1934">Le grand prêtre de Brahma</name>
             </bibl>
             <bibl xml:id="hsl_work_id_143">
-               <title type="main">La Reine Topaze</title>
+               <title type="main">La reine Topaze</title>
                <title type="alternative">Königin Topas</title>
                <author ref="#hsl_person_id_907">
                   <persName>Massé, Victor</persName>
+               </author>
+               <author ref="#hsl_person_id_2146">
+                  <persName>Simon, Joseph-Philippe</persName>
+               </author>
+               <author ref="#hsl_person_id_2166">
+                  <persName>Battu, Léon</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_149">
@@ -1424,7 +1434,7 @@
                <name type="character" ref="#hsl_person_id_471">Diana</name>
             </bibl>
             <bibl xml:id="hsl_work_id_168">
-               <title type="main">Io ti lascio, o cara, addio</title>
+               <title type="main">Io ti lascio, o cara, addio, KV621a Anh.245</title>
                <author ref="#hsl_person_id_137">
                   <persName>Jacquin, Gottfried von</persName>
                </author>
@@ -1767,9 +1777,12 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_206">
-               <title type="main">Elias</title>
+               <title type="main">Elias, op. 70</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+               <author ref="#hsl_person_id_2170">
+                  <persName>Schubring, Julius</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_207">
@@ -1830,6 +1843,9 @@
                <author ref="#hsl_person_id_114">
                   <persName>Haydn, Joseph</persName>
                </author>
+               <author ref="#hsl_person_id_1178">
+                  <persName>Swieten, Gottfried van</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_213">
                <title type="main">Die verlorene Handschrift</title>
@@ -1881,7 +1897,7 @@
                <name type="character" ref="#hsl_person_id_604">Junker Spärlich</name>
             </bibl>
             <bibl xml:id="hsl_work_id_219">
-               <title type="main">Die Loreley</title>
+               <title type="main">Die Loreley, op. 98</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
@@ -1911,16 +1927,22 @@
                <name type="character" ref="#hsl_person_id_598">Wanja</name>
             </bibl>
             <bibl xml:id="hsl_work_id_221">
-               <title type="main">Die Hochzeit des Camacho</title>
+               <title type="main">Die Hochzeit des Camacho, op. 10</title>
                <title type="alternative">Die Hochzeit des Cammacho</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
+               <author ref="#hsl_person_id_2168">
+                  <persName>Voigts, Friedrich</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_222">
-               <title type="main">Die Heimkehr aus der Fremde</title>
+               <title type="main">Die Heimkehr aus der Fremde, op. 89</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+               <author ref="#hsl_person_id_2167">
+                  <persName>Klingemann, Karl</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_223">
@@ -1946,6 +1968,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_226">
                <title type="main">Die Alpenhütte</title>
+               <author ref="#hsl_person_id_925">
+                  <persName>Kotzebue, August von</persName>
+               </author>
                <author ref="#hsl_person_id_908">
                   <persName>Kreutzer, Conradin</persName>
                </author>
@@ -1966,7 +1991,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_229">
-               <title type="main">Der Wildschütz oder die Stimme der Natur</title>
+               <title type="main">Der Wildschütz oder die Stimme der Natur, LoWV58</title>
                <author ref="#hsl_person_id_165">
                   <persName>Lortzing, Albert</persName>
                </author>
@@ -2139,10 +2164,13 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_253">
-               <title type="main">Belshazzar</title>
+               <title type="main">Belshazzar, HWV61</title>
                <title type="alternative">Belsazar</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_139">
+                  <persName>Jennens, Charles</persName>
                </author>
                <name type="character" ref="#hsl_person_id_451">Belshazzar</name>
             </bibl>
@@ -2182,7 +2210,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_259">
-               <title type="main">Athalia</title>
+               <title type="main">Athalie, op. 74</title>
+               <title type="alternative">Athalia</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
@@ -2209,7 +2238,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_262">
-               <title type="main">Antigone</title>
+               <title type="main">Antigone, op. 55</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
@@ -2404,10 +2433,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_284">
-               <title type="main">Marsch in h-Moll, op. 40 Nr. 3</title>
-               <author ref="#hsl_person_id_164">
-                  <persName>Liszt, Franz</persName>
-               </author>
+               <title type="main">Marsch in h-Moll, D819 Nr. 3</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -2593,15 +2619,22 @@
                <name type="character" ref="#hsl_person_id_1257">Mutter</name>
             </bibl>
             <bibl xml:id="hsl_work_id_312">
-               <title type="main">Loreley</title>
+               <title type="main">Lorelei, op. 70</title>
+               <title type="alternative">Loreley</title>
                <author ref="#hsl_person_id_124">
                   <persName>Hiller, Ferdinand von</persName>
                </author>
+               <author ref="#hsl_person_id_2150">
+                  <persName>Müller von Königswinter, Wolfgang</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_313">
-               <title type="main">Sturmesmythe</title>
+               <title type="main">Sturmesmythe, op. 112</title>
                <author ref="#hsl_person_id_151">
                   <persName>Lachner, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_375">
+                  <persName>Lenau, Nikolaus</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_314">
@@ -2955,6 +2988,9 @@
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
+               <author ref="#hsl_person_id_2169">
+                  <persName>Schütz, Wilhelm von</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_368">
                <title type="main">Winterlied, op. 19a Nr. 3</title>
@@ -3003,12 +3039,6 @@
                <title type="main">Il sogno</title>
                <author ref="#hsl_person_id_333">
                   <persName>Mercadante, Saverio</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_375">
-               <title type="main">Lascia ch'io pianga</title>
-               <author ref="#hsl_person_id_108">
-                  <persName>Händel, Georg Friedrich</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_376">
@@ -3334,6 +3364,9 @@
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
+               <author ref="#hsl_person_id_272">
+                  <persName>Schober, Franz von</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_429">
                <title type="main">Klaviersonate Nr. 8 in c-Moll, op. 13</title>
@@ -3367,16 +3400,6 @@
                <title type="main">Ballscenen</title>
                <author ref="#hsl_person_id_274">
                   <persName>Schön, Eduard</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_436">
-               <title type="main">Unis des la plus tendre enfance</title>
-               <title type="alternative">aus: Iphigénie en Tauride, Wq. 46</title>
-               <author ref="#hsl_person_id_99">
-                  <persName>Gluck, Christoph Willibald</persName>
-               </author>
-               <author ref="#hsl_person_id_369">
-                  <persName>Guillard, Nikolas François</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_441">
@@ -3442,7 +3465,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_453">
-               <title type="main">Czar und Zimmermann</title>
+               <title type="main">Czar und Zimmermann, LoWV38</title>
                <author ref="#hsl_person_id_165">
                   <persName>Lortzing, Albert</persName>
                </author>
@@ -3659,6 +3682,9 @@
                <title type="main">Il ritorno di Tobia, Hob. XXI:1</title>
                <author ref="#hsl_person_id_114">
                   <persName>Haydn, Joseph</persName>
+               </author>
+               <author ref="#hsl_person_id_2149">
+                  <persName>Boccherini, Giovanni Gastone</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_489">
@@ -4109,6 +4135,9 @@
                <author ref="#hsl_person_id_993">
                   <persName>Mascagni, Pietro</persName>
                </author>
+               <author ref="#hsl_person_id_2137">
+                  <persName>Daspuro, Nicola</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_561">
                <title type="main">Mémoires de Hector Berlioz, membre de l'institut de France, comprenant ses voyages en Italie, en Allemagne, en Russie et en Angleterre, 1803–1865</title>
@@ -4172,14 +4201,14 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_574">
-               <title type="main">Symphonie fantastique, S470</title>
+               <title type="main">Episode de la vie d'un artiste. Grande symphonie fantastique par Hector Berlioz, S470</title>
                <title type="alternative">Phantastische Symphonie</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_575">
-               <title type="main">Ouvertüre du Roi Lear de Hector Berlioz</title>
+               <title type="main">Ouverture du Roi Lear de Hector Berlioz, S474</title>
                <title type="alternative">Ouvertüre zu König Lear von Hector Berlioz</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
@@ -4367,6 +4396,9 @@
                <title type="main">Der Rastelbinder</title>
                <author ref="#hsl_person_id_1043">
                   <persName>Lehár, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_2011">
+                  <persName>Léon, Victor</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_605">
@@ -4615,12 +4647,21 @@
                <author ref="#hsl_person_id_1104">
                   <persName>Maillart, Louis Aimé</persName>
                </author>
+               <author ref="#hsl_person_id_2146">
+                  <persName>Simon, Joseph-Philippe</persName>
+               </author>
+               <author ref="#hsl_person_id_2156">
+                  <persName>Cormon, Eugène</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_1968">Friquet, Rose</name>
             </bibl>
             <bibl xml:id="hsl_work_id_647">
                <title type="main">Marie</title>
                <author ref="#hsl_person_id_122">
                   <persName>Hérold, Ferdinand</persName>
+               </author>
+               <author ref="#hsl_person_id_2036">
+                  <persName>Planard, Eugène de</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_649">
@@ -4714,6 +4755,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_665">
                <title type="main">Abschied, op. 3 Nr. 1</title>
+               <author ref="#hsl_person_id_310">
+                  <persName>Uhland, Ludwig</persName>
+               </author>
                <author ref="#hsl_person_id_1122">
                   <persName>Loewe, Carl</persName>
                </author>
@@ -4932,12 +4976,6 @@
                </author>
                <name type="character" ref="#hsl_person_id_1208">Bonifatius</name>
             </bibl>
-            <bibl xml:id="hsl_work_id_704">
-               <title type="main">Sturmesmythe</title>
-               <author ref="#hsl_person_id_375">
-                  <persName>Lenau, Nikolaus</persName>
-               </author>
-            </bibl>
             <bibl xml:id="hsl_work_id_706">
                <title type="main">Bradamante</title>
                <author ref="#hsl_person_id_233">
@@ -5038,8 +5076,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_722">
-               <title type="main">Missa Solemnis, S9</title>
-               <title type="alternative">Festmesse</title>
+               <title type="main">Missa Solennis, S9</title>
+               <title type="alternative">(Graner) Festmesse</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -5203,8 +5241,6 @@
                <author ref="#hsl_person_id_248">
                   <persName>Schiller, Friedrich</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_2012">Max Piccolomini</name>
-               <name type="character" ref="#hsl_person_id_2013">Thekla</name>
                <name type="character" ref="#hsl_person_id_2014">Wallenstein</name>
             </bibl>
             <bibl xml:id="hsl_work_id_743">
@@ -5555,7 +5591,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_795">
-               <title type="main">Dante-Symphonie. Eine Sinfonie zu Dantes Divina Commedia, S109</title>
+               <title type="main">Dante-Symphonie. Eine Symphonie zu Dantes Divina Commedia, S109</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -5700,8 +5736,8 @@
                <author ref="#hsl_person_id_1302">
                   <persName>Massenet, Jules</persName>
                </author>
-               <author ref="#hsl_person_id_1316">
-                  <persName>Gallait, Louis</persName>
+               <author ref="#hsl_person_id_1999">
+                  <persName>Gallet, Louis</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1308">Jésus</name>
                <name type="character" ref="#hsl_person_id_1309">Marie-Magdeleine</name>
@@ -5754,11 +5790,26 @@
                <author ref="#hsl_person_id_1302">
                   <persName>Massenet, Jules</persName>
                </author>
+               <author ref="#hsl_person_id_2062">
+                  <persName>Meilhac, Henri</persName>
+               </author>
+               <author ref="#hsl_person_id_2163">
+                  <persName>Gille, Philippe</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_823">
                <title type="main">Werther</title>
                <author ref="#hsl_person_id_1302">
                   <persName>Massenet, Jules</persName>
+               </author>
+               <author ref="#hsl_person_id_2019">
+                  <persName>Blau, Edouard</persName>
+               </author>
+               <author ref="#hsl_person_id_2164">
+                  <persName>Milliet, Paul</persName>
+               </author>
+               <author ref="#hsl_person_id_2165">
+                  <persName>Hartmann, Georges</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1420">Werther</name>
             </bibl>
@@ -5772,6 +5823,9 @@
                <title type="main">La Vierge</title>
                <author ref="#hsl_person_id_1302">
                   <persName>Massenet, Jules</persName>
+               </author>
+               <author ref="#hsl_person_id_2162">
+                  <persName>Grandmougin, Charles Jean</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_826">
@@ -6082,6 +6136,9 @@
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
+               <author ref="#hsl_person_id_2167">
+                  <persName>Klingemann, Karl</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_870">
                <title type="main">Tröstung, op. 78 Nr. 1</title>
@@ -6093,6 +6150,9 @@
                <title type="main">Winterlied</title>
                <author ref="#hsl_person_id_1386">
                   <persName>Humperdinck, Engelbert</persName>
+               </author>
+               <author ref="#hsl_person_id_2151">
+                  <persName>Platen, August von</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_872">
@@ -6623,6 +6683,9 @@
                <author ref="#hsl_person_id_16">
                   <persName>Auber, Daniel-François-Esprit</persName>
                </author>
+               <author ref="#hsl_person_id_284">
+                  <persName>Scribe, Eugène</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_941">
                <title type="main">Der angenehme Betrug, oder Der Carneval von Venedig</title>
@@ -6736,7 +6799,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_957">
-               <title type="main">Zur Guitarre, op.97</title>
+               <title type="main">Zur Guitarre, op. 97</title>
                <author ref="#hsl_person_id_124">
                   <persName>Hiller, Ferdinand von</persName>
                </author>
@@ -6855,6 +6918,15 @@
                <title type="main">Don César de Bazan</title>
                <author ref="#hsl_person_id_1302">
                   <persName>Massenet, Jules</persName>
+               </author>
+               <author ref="#hsl_person_id_2157">
+                  <persName>Adolphe d' Ennery</persName>
+               </author>
+               <author ref="#hsl_person_id_2158">
+                  <persName>Dumanoir, Philippe</persName>
+               </author>
+               <author ref="#hsl_person_id_2159">
+                  <persName>Chantepie, Jules</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_978">
@@ -7031,7 +7103,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1005">
-               <title type="main">Gott erhalte Franz den Kaiser</title>
+               <title type="main">Gott erhalte Franz den Kaiser, Hob.XXVIa:43</title>
                <author ref="#hsl_person_id_114">
                   <persName>Haydn, Joseph</persName>
                </author>
@@ -7082,7 +7154,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1013">
-               <title type="main">St. François d'Assise: La Prédication aux Oiseaux, S175 Nr. 1</title>
+               <title type="main">St. François d'Assise: La prédication aux oiseaux, S175 Nr. 1</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -7148,6 +7220,12 @@
                <title type="main">Esther, HWV50</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_2152">
+                  <persName>Arbuthnot, John</persName>
+               </author>
+               <author ref="#hsl_person_id_2153">
+                  <persName>Pope, Alexander</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1027">
@@ -7918,7 +7996,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1129">
-               <title type="main">Les Piccolomini</title>
+               <title type="main">Max et Thécla / Les Piccolomini, op. 12 Nr. 2</title>
                <author ref="#hsl_person_id_1752">
                   <persName>Indy, Vincent d'</persName>
                </author>
@@ -8039,7 +8117,7 @@
                <name type="character" ref="#hsl_person_id_1771">Mengone</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1146">
-               <title type="main">Die vornehmen Dilettanten oder Die Opernprobe</title>
+               <title type="main">Die vornehmen Dilettanten oder Die Opernprobe, LoWV91</title>
                <author ref="#hsl_person_id_165">
                   <persName>Lortzing, Albert</persName>
                </author>
@@ -8058,7 +8136,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1148">
-               <title type="main">Der Waffenschmied</title>
+               <title type="main">Der Waffenschmied, LoWV66</title>
                <author ref="#hsl_person_id_165">
                   <persName>Lortzing, Albert</persName>
                </author>
@@ -8746,6 +8824,12 @@
                <author ref="#hsl_person_id_1302">
                   <persName>Massenet, Jules</persName>
                </author>
+               <author ref="#hsl_person_id_2160">
+                  <persName>Claretie, Jules</persName>
+               </author>
+               <author ref="#hsl_person_id_2161">
+                  <persName>Cain, Henri</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1238">
                <title type="main">Mara</title>
@@ -9237,7 +9321,16 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1319">
-               <title type="main"/>
+               <title type="main">Rinaldo, HWV7</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_2154">
+                  <persName>Hill, Aaron</persName>
+               </author>
+               <author ref="#hsl_person_id_2155">
+                  <persName>Rossi, Giacomo</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1320">
                <title type="main">Moravské dvojzpěvy, op. 29</title>
@@ -9270,6 +9363,25 @@
                <title type="main">Suite</title>
                <author ref="#hsl_person_id_151">
                   <persName>Lachner, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1325">
+               <title type="main">La Mort de Wallenstein, op. 12 Nr. 3</title>
+               <author ref="#hsl_person_id_1752">
+                  <persName>Indy, Vincent d'</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1326">
+               <title type="main">Le Camp de Wallenstein, op. 12 Nr. 1</title>
+               <title type="alternative">Wallenstein's Lager</title>
+               <author ref="#hsl_person_id_1752">
+                  <persName>Indy, Vincent d'</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1327">
+               <title type="main">Grande marche, S426 Nr. 2</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
                </author>
             </bibl>
       </listBibl>
