@@ -3748,11 +3748,14 @@
                   <idno type="GND">https://d-nb.info/gnd/118616366</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q57226</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_162">Jessonda</bibl>
+                     <bibl n="hsl_work_id_162">Jessonda, WoO53</bibl>
                      <bibl n="hsl_work_id_198">Faust</bibl>
                      <bibl n="hsl_work_id_407">Symphonie Nr. 4 in F-Dur, op. 86</bibl>
                      <bibl n="hsl_work_id_767">Violinkonzert Nr. 8 in a-Moll „In Form einer Gesangsszene“</bibl>
                      <bibl n="hsl_work_id_1010">Sechs deutsche Lieder, op. 103</bibl>
+                     <bibl n="hsl_work_id_1332">Zwiegesang, op. 103 Nr. 2</bibl>
+                     <bibl n="hsl_work_id_1333">Wiegenlied in drei Tönen, op. 103 Nr. 4</bibl>
+                     <bibl n="hsl_work_id_1334">Wach auf, op. 103 Nr. 6</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_294">
@@ -7027,7 +7030,7 @@
                      <surname>Nadori</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_162">Jessonda</bibl>
+                     <bibl n="hsl_work_id_162">Jessonda, WoO53</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_633" role="fictional">
@@ -15452,7 +15455,7 @@
                      <surname>Jessonda</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_162">Jessonda</bibl>
+                     <bibl n="hsl_work_id_162">Jessonda, WoO53</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1590">
@@ -15534,6 +15537,10 @@
                   <persName type="main">
                      <forename>Jan</forename>
                      <surname>Kubelík</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Kubelik</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/104013516</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q360863</idno>
@@ -20831,6 +20838,58 @@ Don Caesar</surname>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_67">Paulus, op. 36</bibl>
                      <bibl n="hsl_work_id_206">Elias, op. 70</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2171">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Hye</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_2172">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Tarnovich</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_2173">
+                  <persName type="main">
+                     <forename>Eduard Heinrich</forename>
+                     <surname>Gehe</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/102522359</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_162">Jessonda, WoO53</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2174">
+                  <persName type="main">
+                     <forename>Robert</forename>
+                     <surname>Reinick</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116427620</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1332">Zwiegesang, op. 103 Nr. 2</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2175">
+                  <persName type="main">
+                     <forename>August Heinrich</forename>
+                     <surname>Hoffmann von Fallersleben</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118552589</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1333">Wiegenlied in drei Tönen, op. 103 Nr. 4</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2176">
+                  <persName type="main">
+                     <forename>Rudolf</forename>
+                     <surname>Kulemann</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116606673</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1334">Wach auf, op. 103 Nr. 6</bibl>
                   </listBibl>
                </person>
             </listPerson>
