@@ -3829,7 +3829,7 @@
                <name type="character" ref="#hsl_person_id_884">Königin Ella</name>
                <name type="character" ref="#hsl_person_id_885">Gisella</name>
                <name type="character" ref="#hsl_person_id_886">Elfried</name>
-               <name type="character" ref="#hsl_person_id_887">alter Sänger</name>
+               <name type="character" ref="#hsl_person_id_887">Alter Sänger</name>
                <name type="character" ref="#hsl_person_id_888">König</name>
             </bibl>
             <bibl xml:id="hsl_work_id_508">
@@ -5774,6 +5774,7 @@
                <name type="character" ref="#hsl_person_id_1677">Sisera</name>
                <name type="character" ref="#hsl_person_id_1685">Jael</name>
                <name type="character" ref="#hsl_person_id_1706">Abinoam</name>
+               <name type="character" ref="#hsl_person_id_2180">Adam</name>
             </bibl>
             <bibl xml:id="hsl_work_id_821">
                <title type="main">Ève</title>
@@ -7138,7 +7139,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1010">
-               <title type="main">Sechs deutsche Lieder, op. 103</title>
+               <title type="main">6 deutsche Lieder, op. 103</title>
                <author ref="#hsl_person_id_293">
                   <persName>Spohr, Louis</persName>
                </author>
@@ -7150,7 +7151,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1012">
-               <title type="main">Toccata und Fuge in d-Moll, BWV565</title>
+               <title type="main">Toccata und Fuge</title>
+               <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -7172,8 +7174,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1019">
-               <title type="main">Svatá Lumila, op. 71</title>
-               <title type="alternative">Ludmilla</title>
+               <title type="main">Svatá Ludmila, op. 71</title>
+               <title type="alternative">Die heilige Ludmilla</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
@@ -7487,7 +7489,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1059">
-               <title type="main">Drei Motetten, op. 110</title>
+               <title type="main">3 Motetten, op. 110</title>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
@@ -7719,15 +7721,21 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1092">
-               <title type="main">Flammen und Asche. Ein Liedercyklus von Johanna Ambrosius für 1 Singstimme mit Pianoforte, op. 21</title>
+               <title type="main">So geht's, op. 21 Nr. 8</title>
                <author ref="#hsl_person_id_1403">
                   <persName>Rückauf, Anton</persName>
                </author>
+               <author ref="#hsl_person_id_1601">
+                  <persName>Voigt, Johanna</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1093">
-               <title type="main">Fünf Lieder für 1 Singstimme mit Pianoforte , op. 23</title>
+               <title type="main">Das Stelldichein, op. 23 Nr. 5</title>
                <author ref="#hsl_person_id_1403">
                   <persName>Rückauf, Anton</persName>
+               </author>
+               <author ref="#hsl_person_id_1602">
+                  <persName>Baumbach, Rudolf</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1094">
@@ -7752,28 +7760,34 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1097">
-               <title type="main">Vier Lieder für 1 Singstimme mit Pianoforte , op. 25</title>
+               <title type="main">4 Lieder, op. 25</title>
                <author ref="#hsl_person_id_1403">
                   <persName>Rückauf, Anton</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1098">
-               <title type="main">Fünf Lieder für 1 Singstimme mit Pianoforte , op. 24</title>
+               <title type="main">5 Lieder, op. 24</title>
                <author ref="#hsl_person_id_1403">
                   <persName>Rückauf, Anton</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1099">
                <title type="main">Spanisches Liederbuch</title>
+               <author ref="#hsl_person_id_714">
+                  <persName>Geibel, Emanuel</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1100">
-               <title type="main">Sechs Lieder für 1 Singstimme mit Pianoforte , op. 15</title>
+               <title type="main">Trauliches Heim, op. 15 Nr. 1</title>
                <author ref="#hsl_person_id_1403">
                   <persName>Rückauf, Anton</persName>
                </author>
+               <author ref="#hsl_person_id_1603">
+                  <persName>Groth, Klaus</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1101">
-               <title type="main">Musikalisches und Persönliches,1899</title>
+               <title type="main">Musikalisches und Persönliches</title>
                <author ref="#hsl_person_id_1608">
                   <persName>Scholz, Bernhard</persName>
                </author>
@@ -7791,13 +7805,13 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1104">
-               <title type="main">Über Musik und Gesang</title>
+               <title type="main">Ueber Musik und Gesang</title>
                <author ref="#hsl_person_id_1610">
                   <persName>Georg V., König von Hannover</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1105">
-               <title type="main">Franz Liszt's Briefe: Briefe an die Fürstin Carolyn Sayn-Wittgenstein, 1902</title>
+               <title type="main">Franz Liszt's Briefe: Briefe an die Fürstin Carolyne Sayn-Wittgenstein</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -9421,6 +9435,81 @@
                </author>
                <author ref="#hsl_person_id_2176">
                   <persName>Kulemann, Rudolf</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1335">
+               <title type="main">Violinsonate op. 7</title>
+               <author ref="#hsl_person_id_1403">
+                  <persName>Rückauf, Anton</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1336">
+               <title type="main">Klopf' nur an's Fenster, op. 23 Nr. 3</title>
+               <author ref="#hsl_person_id_1403">
+                  <persName>Rückauf, Anton</persName>
+               </author>
+               <author ref="#hsl_person_id_1603">
+                  <persName>Groth, Klaus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1337">
+               <title type="main">Du überall, op. 23 Nr. 2</title>
+               <author ref="#hsl_person_id_1403">
+                  <persName>Rückauf, Anton</persName>
+               </author>
+               <author ref="#hsl_person_id_2178">
+                  <persName>Jungius, Nikolaus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1338">
+               <title type="main">All' meine Herzgedanken, op. 25 Nr. 2</title>
+               <author ref="#hsl_person_id_1278">
+                  <persName>Heyse, Paul</persName>
+               </author>
+               <author ref="#hsl_person_id_1403">
+                  <persName>Rückauf, Anton</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1339">
+               <title type="main">Mögen alle bösen Zungen, op. 24 Nr. 3</title>
+               <author ref="#hsl_person_id_714">
+                  <persName>Geibel, Emanuel</persName>
+               </author>
+               <author ref="#hsl_person_id_1403">
+                  <persName>Rückauf, Anton</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1340">
+               <title type="main">Barkarole / Barcarole</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_293">
+                  <persName>Spohr, Louis</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1341">
+               <title type="main">Verloren, op. 25 Nr. 4</title>
+               <author ref="#hsl_person_id_1403">
+                  <persName>Rückauf, Anton</persName>
+               </author>
+               <author ref="#hsl_person_id_1603">
+                  <persName>Groth, Klaus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1342">
+               <title type="main">Allgemeine Zeitung</title>
+               <title type="alternative">unklarer Bezug</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1343">
+               <title type="main">Gavotte</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_293">
+                  <persName>Spohr, Louis</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1344">
+               <title type="main">Briefe</title>
+               <author ref="#hsl_person_id_34">
+                  <persName>Billroth, Theodor</persName>
                </author>
             </bibl>
       </listBibl>
