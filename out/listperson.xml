@@ -3301,6 +3301,7 @@
                      <bibl n="hsl_work_id_742">Wallenstein</bibl>
                      <bibl n="hsl_work_id_965">Turandot, Prinzessin von China</bibl>
                      <bibl n="hsl_work_id_1125">Nänie, op. 10</bibl>
+                     <bibl n="hsl_work_id_1349">Das Lied von der Glocke</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_249">
@@ -4541,6 +4542,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118596047</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q41554</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1347">Esther devant Assuérus</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_382">
                   <persName type="main">
@@ -8536,6 +8540,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118597787</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5597</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1346">Die Königin von Saba</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_817">
                   <persName type="main">
@@ -11623,7 +11630,7 @@
                </person>
                <person xml:id="hsl_person_id_1181">
                   <persName type="main">
-                     <forename>Heiliges Römisches Reich</forename>
+                     <forename>Kaiser des Heiligen Römischen Reiches</forename>
                      <surname>Leopold I.</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118571869</idno>
@@ -18883,7 +18890,7 @@
                </person>
                <person xml:id="hsl_person_id_1960">
                   <persName type="main">
-                     <forename>Heiliges Römisches Reich</forename>
+                     <forename>Kaiser des Heiligen Römischen Reiches</forename>
                      <surname>Joseph II.</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118558404</idno>
@@ -21150,6 +21157,92 @@ Don Caesar</surname>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_124">La serva padrona</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2198">
+                  <persName type="main">
+                     <forename>Peter von</forename>
+                     <surname>Winter</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119055716</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q561047</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1345">Tamerlan</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2199">
+                  <persName type="main">
+                     <forename>Carl Friedrich Clemens</forename>
+                     <surname>Weinmüller</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/130841196</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q15451956</idno>
+               </person>
+               <person xml:id="hsl_person_id_2200">
+                  <persName type="main">
+                     <forename>Joseph</forename>
+                     <surname>Wache</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_2201">
+                  <persName type="main">
+                     <forename>Maria Karoline zu</forename>
+                     <surname>Schwarzenberg</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Lobkowitz</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/103347875X</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q47939303</idno>
+               </person>
+               <person xml:id="hsl_person_id_2202">
+                  <persName type="main">
+                     <forename>Henriette Fürstin von</forename>
+                     <surname>Odescalchi</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_2203">
+                  <persName type="main">
+                     <forename>Kaiserin von Österreich</forename>
+                     <surname>Maria Ludovika</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119446715</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q170205</idno>
+               </person>
+               <person xml:id="hsl_person_id_2204">
+                  <persName type="main">
+                     <forename>Louis Germain</forename>
+                     <surname>Vincent-Larcher</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1150991224</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q78187840</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1348">Die Verhaftung des Haman</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2205">
+                  <persName type="main">
+                     <forename>Theodor</forename>
+                     <surname>Körner</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118713507</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q62344</idno>
+               </person>
+               <person xml:id="hsl_person_id_2206">
+                  <persName type="main">
+                     <forename>Henriette</forename>
+                     <surname>Hendel-Schütz</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116700785</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q103281</idno>
+               </person>
+               <person xml:id="hsl_person_id_2207">
+                  <persName type="main">
+                     <forename>Sophie</forename>
+                     <surname>Schröder</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118761889</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q97039</idno>
                </person>
             </listPerson>
          </div>
