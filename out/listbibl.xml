@@ -201,8 +201,11 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_16">
-               <title type="main">Alfonso und Estrella</title>
+               <title type="main">Alfonso und Estrella, D732</title>
                <title type="alternative">Alfons und Estrella</title>
+               <author ref="#hsl_person_id_272">
+                  <persName>Schober, Franz von</persName>
+               </author>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -214,15 +217,21 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_18">
-               <title type="main">Fierrabras</title>
+               <title type="main">Fierrabras, D796</title>
+               <author ref="#hsl_person_id_259">
+                  <persName>Kupelwieser, Josef</persName>
+               </author>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_19">
-               <title type="main">Die Zauberharfe</title>
+               <title type="main">Die Zauberharfe, D644</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_2225">
+                  <persName>Hoffmann, Georg Ernst von, Edler</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_20">
@@ -251,6 +260,9 @@
                <title type="alternative">Paqueretta</title>
                <author ref="#hsl_person_id_906">
                   <persName>Saint-Léon, Arthur</persName>
+               </author>
+               <author ref="#hsl_person_id_2219">
+                  <persName>Benoist, François</persName>
                </author>
                <name type="character" ref="#hsl_person_id_640">Pâquerette</name>
                <name type="character" ref="#hsl_person_id_1175">Franz</name>
@@ -460,6 +472,9 @@
                <title type="main">Semiramide</title>
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
+               </author>
+               <author ref="#hsl_person_id_2124">
+                  <persName>Rossi, Gaetano</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_53">
@@ -741,6 +756,12 @@
                <title type="main">Moïse et Pharaon, ou Le passage de la Mer Rouge</title>
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
+               </author>
+               <author ref="#hsl_person_id_2064">
+                  <persName>Jouy, Étienne de</persName>
+               </author>
+               <author ref="#hsl_person_id_2218">
+                  <persName>Balocchi, Luigi</persName>
                </author>
                <name type="character" ref="#hsl_person_id_504">Aménophis</name>
                <name type="character" ref="#hsl_person_id_1721">Moïse</name>
@@ -1213,6 +1234,9 @@
                <author ref="#hsl_person_id_215">
                   <persName>Piccinni, Niccolò</persName>
                </author>
+               <author ref="#hsl_person_id_771">
+                  <persName>Goldoni, Carlo</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_136">
                <title type="main">La bergère châtelaine</title>
@@ -1553,6 +1577,9 @@
                <title type="alternative">Der Barbier von Sevilla</title>
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
+               </author>
+               <author ref="#hsl_person_id_2214">
+                  <persName>Sterbini, Cesare</persName>
                </author>
                <name type="character" ref="#hsl_person_id_653">Rosina</name>
             </bibl>
@@ -1895,9 +1922,12 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_214">
-               <title type="main">Die schöne Müllerin</title>
+               <title type="main">Die schöne Müllerin, D795</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_1387">
+                  <persName>Müller, Wilhelm</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_215">
@@ -2017,9 +2047,12 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_227">
-               <title type="main">Die Allmacht</title>
+               <title type="main">Die Allmacht, D852</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_2223">
+                  <persName>Pyrker, János László</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_228">
@@ -2076,9 +2109,12 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_234">
-               <title type="main">Der Neugierige</title>
+               <title type="main">Der Neugierige, D795 Nr. 6</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_1387">
+                  <persName>Müller, Wilhelm</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_235">
@@ -2577,7 +2613,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_298">
-               <title type="main">Castor et Pollux</title>
+               <title type="main">Castor et Pollux, RCT32</title>
                <title type="alternative">Castor und Pollux</title>
                <author ref="#hsl_person_id_227">
                   <persName>Rameau, Jean-Philippe</persName>
@@ -2588,7 +2624,7 @@
                <name type="character" ref="#hsl_person_id_461">Castor</name>
             </bibl>
             <bibl xml:id="hsl_work_id_299">
-               <title type="main">Dardanus</title>
+               <title type="main">Dardanus, RCT35</title>
                <author ref="#hsl_person_id_227">
                   <persName>Rameau, Jean-Philippe</persName>
                </author>
@@ -2597,9 +2633,12 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_300">
-               <title type="main">Les Indes galantes</title>
+               <title type="main">Les Indes galantes, RCT44</title>
                <author ref="#hsl_person_id_227">
                   <persName>Rameau, Jean-Philippe</persName>
+               </author>
+               <author ref="#hsl_person_id_2210">
+                  <persName>Fuzelier, Louis</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_305">
@@ -2917,7 +2956,8 @@
                <name type="character" ref="#hsl_person_id_1726">Sarastro</name>
             </bibl>
             <bibl xml:id="hsl_work_id_351">
-               <title type="main">Das Alphorn</title>
+               <title type="main">Das Alpenhorn, op. 18</title>
+               <title type="alternative">Das Alphorn</title>
                <author ref="#hsl_person_id_219">
                   <persName>Proch, Heinrich</persName>
                </author>
@@ -3464,6 +3504,9 @@
             <bibl xml:id="hsl_work_id_441">
                <title type="main">Heidenröslein, D257</title>
                <title type="alternative">Haidenröslein</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -3473,12 +3516,18 @@
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
+               <author ref="#hsl_person_id_2226">
+                  <persName>Seidl, Johann Gabriel</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_444">
                <title type="main">Der Entfernten, D331</title>
                <title type="alternative">Die Entfernte</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_2221">
+                  <persName>Salis-Seewis, Johann Gaudenz von</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_447">
@@ -3493,6 +3542,9 @@
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
                </author>
+               <author ref="#hsl_person_id_2026">
+                  <persName>Romani, Felice</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_449">
                <title type="main">L'italiana in Algeri</title>
@@ -3500,12 +3552,18 @@
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
                </author>
+               <author ref="#hsl_person_id_2215">
+                  <persName>Anelli, Angelo</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_1548">Elvira</name>
             </bibl>
             <bibl xml:id="hsl_work_id_450">
                <title type="main">Il paniere d'amore</title>
                <author ref="#hsl_person_id_772">
                   <persName>Ricci, Federico</persName>
+               </author>
+               <author ref="#hsl_person_id_2124">
+                  <persName>Rossi, Gaetano</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_451">
@@ -3555,17 +3613,26 @@
                <author ref="#hsl_person_id_772">
                   <persName>Ricci, Federico</persName>
                </author>
+               <author ref="#hsl_person_id_2124">
+                  <persName>Rossi, Gaetano</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_457">
                <title type="main">Un'avventura di Scaramuccia</title>
                <author ref="#hsl_person_id_773">
                   <persName>Ricci, Luigi</persName>
                </author>
+               <author ref="#hsl_person_id_2026">
+                  <persName>Romani, Felice</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_458">
                <title type="main">Il domino nero</title>
                <author ref="#hsl_person_id_512">
                   <persName>Rossi, Lauro</persName>
+               </author>
+               <author ref="#hsl_person_id_2213">
+                  <persName>Rubino, Francesco</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_459">
@@ -3574,11 +3641,17 @@
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
                </author>
+               <author ref="#hsl_person_id_2217">
+                  <persName>Romanelli, Luigi</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_460">
                <title type="main">La gazzetta</title>
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
+               </author>
+               <author ref="#hsl_person_id_2216">
+                  <persName>Palomba, Giuseppe</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_461">
@@ -3959,7 +4032,7 @@
                <name type="character" ref="#hsl_person_id_1004">Ophelia</name>
             </bibl>
             <bibl xml:id="hsl_work_id_519">
-               <title type="main">Die Nixe</title>
+               <title type="main">Die Nixe, op. 63</title>
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
@@ -4067,7 +4140,10 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_538">
-               <title type="main">Der Graf von Gleichen, D 918</title>
+               <title type="main">Der Graf von Gleichen, D918</title>
+               <author ref="#hsl_person_id_22">
+                  <persName>Bauernfeld, Eduard von</persName>
+               </author>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -4109,6 +4185,9 @@
                <title type="alternative">Tankred</title>
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
+               </author>
+               <author ref="#hsl_person_id_2124">
+                  <persName>Rossi, Gaetano</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_546">
@@ -4153,10 +4232,16 @@
                <title type="main">Neue Zeitschrift für Musik</title>
             </bibl>
             <bibl xml:id="hsl_work_id_554">
-               <title type="main">La Bohème</title>
+               <title type="main">La Bohème, SC67</title>
                <title type="alternative">Die Bohème</title>
                <author ref="#hsl_person_id_976">
                   <persName>Puccini, Giacomo</persName>
+               </author>
+               <author ref="#hsl_person_id_2208">
+                  <persName>Illica, Luigi</persName>
+               </author>
+               <author ref="#hsl_person_id_2209">
+                  <persName>Giacosa, Giuseppe</persName>
                </author>
                <name type="character" ref="#hsl_person_id_985">Marcello</name>
                <name type="character" ref="#hsl_person_id_986">Rodolfo</name>
@@ -4313,14 +4398,14 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_583">
-               <title type="main">Ekkehard</title>
+               <title type="main">Ekkehard, op. 12</title>
                <title type="alternative">Ekkehart</title>
                <author ref="#hsl_person_id_1016">
                   <persName>Schreker, Franz</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_584">
-               <title type="main">Der 116. Psalm</title>
+               <title type="main">Der 116. Psalm, op. 6</title>
                <author ref="#hsl_person_id_1016">
                   <persName>Schreker, Franz</persName>
                </author>
@@ -4472,6 +4557,12 @@
                <title type="main">Das süße Mädel</title>
                <author ref="#hsl_person_id_1044">
                   <persName>Reinhardt, Heinrich</persName>
+               </author>
+               <author ref="#hsl_person_id_2211">
+                  <persName>Landesberg, Alexander</persName>
+               </author>
+               <author ref="#hsl_person_id_2212">
+                  <persName>Stein, Leo</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_606">
@@ -4804,9 +4895,12 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_662">
-               <title type="main">Die junge Nonne</title>
+               <title type="main">Die junge Nonne, D828</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_2224">
+                  <persName>Craigher, Jakob Nikolaus</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_663">
@@ -4993,32 +5087,44 @@
                <title type="main">Sonntagsblätter</title>
             </bibl>
             <bibl xml:id="hsl_work_id_696">
-               <title type="main">Bühnenmusik zu Rosamunde</title>
+               <title type="main">Rosamunde, D797</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_697">
-               <title type="main">Memnon</title>
+               <title type="main">Memnon, D541</title>
+               <author ref="#hsl_person_id_184">
+                  <persName>Mayrhofer, Johann</persName>
+               </author>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_698">
-               <title type="main">Gruppe aus dem Tartarus</title>
+               <title type="main">Gruppe aus dem Tartarus, D583</title>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
+               </author>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_699">
-               <title type="main">Am Grabe Anselmos</title>
+               <title type="main">Am Grabe Anselmos, D504</title>
                <title type="alternative">An Anselmo's Grab</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
+               <author ref="#hsl_person_id_2099">
+                  <persName>Claudius, Matthias</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_700">
-               <title type="main">Geheimes</title>
+               <title type="main">Geheimes, D719</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -5050,6 +5156,9 @@
                <title type="main">Bradamante</title>
                <author ref="#hsl_person_id_233">
                   <persName>Reichardt, Johann Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_1975">
+                  <persName>Collin, Heinrich Joseph von</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_707">
@@ -5792,6 +5901,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_816">
                <title type="main">Am Meere, D957 Nr. 12</title>
+               <author ref="#hsl_person_id_116">
+                  <persName>Heine, Heinrich</persName>
+               </author>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -5932,9 +6044,12 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_832">
-               <title type="main">Ständchen, D957</title>
+               <title type="main">Ständchen, D957 Nr. 4</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_2186">
+                  <persName>Rellstab, Ludwig</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_833">
@@ -6016,6 +6131,9 @@
                <title type="main">Der Pfeifertag, op. 10</title>
                <author ref="#hsl_person_id_1351">
                   <persName>Schillings, Max von</persName>
+               </author>
+               <author ref="#hsl_person_id_2220">
+                  <persName>Sporck, Ferdinand, Graf von</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_844">
@@ -8776,7 +8894,10 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1219">
-               <title type="main">Der Thurm zu Babel</title>
+               <title type="main">Der Thurm zu Babel, op. 80</title>
+               <author ref="#hsl_person_id_238">
+                  <persName>Rodenberg, Julius</persName>
+               </author>
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
@@ -9398,6 +9519,9 @@
                <title type="main">An die entfernte Geliebte, op. 98</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <author ref="#hsl_person_id_2222">
+                  <persName>Jeitteles, Alois</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1313">
