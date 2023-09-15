@@ -760,6 +760,8 @@
                      <bibl n="hsl_work_id_644">Le petit chaperon rouge</bibl>
                      <bibl n="hsl_work_id_717">Ah, quel plaisir d´être soldat</bibl>
                      <bibl n="hsl_work_id_1081">Jean de Paris</bibl>
+                     <bibl n="hsl_work_id_1361">La dame blanche</bibl>
+                     <bibl n="hsl_work_id_1363">Ma tante Aurore</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_37">
@@ -2634,6 +2636,7 @@
                      <bibl n="hsl_work_id_1290">Zaide, KV 344</bibl>
                      <bibl n="hsl_work_id_1291">Thamos, König in Ägypten, KV 345</bibl>
                      <bibl n="hsl_work_id_1292">Die Entführung aus dem Serail, KV 384</bibl>
+                     <bibl n="hsl_work_id_1372">Ave verum corpus, KV 618</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_190">
@@ -2829,6 +2832,9 @@
                      <bibl n="hsl_work_id_1308">Monsieur et Madame Dénis</bibl>
                      <bibl n="hsl_work_id_1309">Les Bergers</bibl>
                      <bibl n="hsl_work_id_1310">Coscoletto</bibl>
+                     <bibl n="hsl_work_id_1364">Le pont des soupirs</bibl>
+                     <bibl n="hsl_work_id_1365">Geneviève de Brabant</bibl>
+                     <bibl n="hsl_work_id_1368">Le violoneux</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_203">
@@ -3242,6 +3248,8 @@
                      <bibl n="hsl_work_id_534">Zelmira</bibl>
                      <bibl n="hsl_work_id_544">Tancredi</bibl>
                      <bibl n="hsl_work_id_683">Petite messe solennelle</bibl>
+                     <bibl n="hsl_work_id_1370">Le chant des titans</bibl>
+                     <bibl n="hsl_work_id_1371">La Nuit de Noël</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_242">
@@ -3699,6 +3707,7 @@
                      <bibl n="hsl_work_id_1170">La tempesta</bibl>
                      <bibl n="hsl_work_id_1195">La dame de pique</bibl>
                      <bibl n="hsl_work_id_1224">La nonne sanglante, CG2</bibl>
+                     <bibl n="hsl_work_id_1361">La dame blanche</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_285">
@@ -19846,7 +19855,7 @@ Don Caesar</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/122312147X</idno>
                </person>
-               <person xml:id="hsl_person_id_2058" role="fictional">
+               <person xml:id="hsl_person_id_2058">
                   <persName type="main">
                      <forename>Berardo</forename>
                      <surname>Winter</surname>
@@ -21948,6 +21957,125 @@ Don Caesar</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/117391883</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q94816132</idno>
+               </person>
+               <person xml:id="hsl_person_id_2273" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Johann von Paris</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Bourgeois</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1081">Jean de Paris</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2274" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Anna</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Die weiße Frau</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1361">La dame blanche</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2275" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_2276">
+                  <persName type="main">
+                     <forename>Jean Blaise</forename>
+                     <surname>Martin</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116804297</idno>
+               </person>
+               <person xml:id="hsl_person_id_2277" role="fictional">
+                  <persName type="main">
+                     <forename>George</forename>
+                     <surname>Brown</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1361">La dame blanche</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2278">
+                  <persName type="main">
+                     <forename>Charles Marie Auguste</forename>
+                     <surname>Ponchard</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1147141630</idno>
+               </person>
+               <person xml:id="hsl_person_id_2279" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Oliviero</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Page Olivier</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1081">Jean de Paris</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2280">
+                  <persName type="main">
+                     <forename>Anton</forename>
+                     <surname>Görlich</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1013721985</idno>
+               </person>
+               <person xml:id="hsl_person_id_2281">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ober-Seneschall der Prinzessin</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1081">Jean de Paris</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2282">
+                  <persName type="main">
+                     <forename>Ernst</forename>
+                     <surname>Rethwisch</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/143885634</idno>
+               </person>
+               <person xml:id="hsl_person_id_2283" role="fictional">
+                  <persName type="main">
+                     <forename>Enrico</forename>
+                     <surname>Calzolari</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/142456667</idno>
+               </person>
+               <person xml:id="hsl_person_id_2284" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Berta</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_176">Il barbiere di Siviglia</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2285">
+                  <persName type="main">
+                     <forename>Anton</forename>
+                     <surname>Burg</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_2286" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
                </person>
             </listPerson>
          </div>
