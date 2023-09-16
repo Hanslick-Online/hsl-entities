@@ -385,6 +385,9 @@
                </author>
                <name type="character" ref="#hsl_person_id_509">Renato</name>
                <name type="character" ref="#hsl_person_id_1825">Ulrica</name>
+               <name type="character" ref="#hsl_person_id_2325">Riccardo</name>
+               <name type="character" ref="#hsl_person_id_2327">Amelia</name>
+               <name type="character" ref="#hsl_person_id_2328">Oscar</name>
             </bibl>
             <bibl xml:id="hsl_work_id_36">
                <title type="main">The Merry Wives of Windsor</title>
@@ -1861,7 +1864,7 @@
                <name type="character" ref="#hsl_person_id_831">Lysiart</name>
                <name type="character" ref="#hsl_person_id_832">Eglantine von Puiset</name>
                <name type="character" ref="#hsl_person_id_837">König Ludwig VI.</name>
-               <name type="character" ref="#hsl_person_id_840">Euryanthe</name>
+               <name type="character" ref="#hsl_person_id_840">Euryanthe von Savoyen</name>
                <name type="character" ref="#hsl_person_id_842">Emma</name>
                <name type="character" ref="#hsl_person_id_843">Udo</name>
                <name type="character" ref="#hsl_person_id_1074">Berta</name>
@@ -2790,7 +2793,7 @@
                   <persName>Siesby, Gottlieb</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1254">Oluf</name>
-               <name type="character" ref="#hsl_person_id_1256">Erlkönig's Tochter</name>
+               <name type="character" ref="#hsl_person_id_1256">Erlkönigs Tochter</name>
                <name type="character" ref="#hsl_person_id_1257">Mutter</name>
             </bibl>
             <bibl xml:id="hsl_work_id_312">
@@ -5714,13 +5717,14 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_766">
-               <title type="main">Violinkonzert in a-Moll Nr. 5, op. 21</title>
+               <title type="main">Violinkonzert Nr. 5 in a-Moll, op. 21</title>
                <author ref="#hsl_person_id_1258">
                   <persName>Molique, Bernhard</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_767">
-               <title type="main">Violinkonzert Nr. 8 in a-Moll „In Form einer Gesangsszene“, op. 47</title>
+               <title type="main">Violinkonzert Nr. 8 in a-Moll, op. 47</title>
+               <title type="alternative">In Form einer Gesangsszene</title>
                <author ref="#hsl_person_id_293">
                   <persName>Spohr, Louis</persName>
                </author>
@@ -7989,6 +7993,15 @@
                <author ref="#hsl_person_id_2062">
                   <persName>Meilhac, Henri</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_2286">La reine Clémentine</name>
+               <name type="character" ref="#hsl_person_id_2312">Barbe-Bleue</name>
+               <name type="character" ref="#hsl_person_id_2314">Popolani</name>
+               <name type="character" ref="#hsl_person_id_2315">Le roi Bobêche</name>
+               <name type="character" ref="#hsl_person_id_2316">Alvarez</name>
+               <name type="character" ref="#hsl_person_id_2318">Boulotte</name>
+               <name type="character" ref="#hsl_person_id_2319">Le comte Oscar</name>
+               <name type="character" ref="#hsl_person_id_2320">Le prince Saphir</name>
+               <name type="character" ref="#hsl_person_id_2321">La princesse Hermia dite Fleurette</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1070">
                <title type="main">La Grande-Duchesse de Gérolstein</title>
@@ -10071,7 +10084,13 @@
                <name type="character" ref="#hsl_person_id_2277">Brown, George</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1362">
-               <title type="main"/>
+               <title type="main">Herr Oluf, op. 2 Nr. 2</title>
+               <author ref="#hsl_person_id_1122">
+                  <persName>Loewe, Carl</persName>
+               </author>
+               <author ref="#hsl_person_id_1253">
+                  <persName>Herder, Johann Gottfried von</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1363">
                <title type="main">Ma tante Aurore</title>
@@ -10132,6 +10151,32 @@
                <title type="main">Mademoiselle de Belle-Isle</title>
                <author ref="#hsl_person_id_2307">
                   <persName>Samaras, Spyros</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1375">
+               <title type="main">Herr Oluf</title>
+               <author ref="#hsl_person_id_1253">
+                  <persName>Herder, Johann Gottfried von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1376">
+               <title type="main">Streichquarett</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1377">
+               <title type="main">Violinkonzert</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1378">
+               <title type="main">Il borgomastro di Saardam</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
                </author>
             </bibl>
       </listBibl>

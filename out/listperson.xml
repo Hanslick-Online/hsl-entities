@@ -466,6 +466,7 @@
                      <bibl n="hsl_work_id_1189">Konzert für zwei Violinen und Orchester in d-Moll, BWV1043</bibl>
                      <bibl n="hsl_work_id_1190">Suite für Orchester Nr. 3 in D-Dur, BWV1068</bibl>
                      <bibl n="hsl_work_id_1243">Cembalokonzert in d-Moll, BWV1052</bibl>
+                     <bibl n="hsl_work_id_1377">Violinkonzert</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_19">
@@ -1104,6 +1105,7 @@
                      <bibl n="hsl_work_id_399">Fausta</bibl>
                      <bibl n="hsl_work_id_451">L'elisir d'amore</bibl>
                      <bibl n="hsl_work_id_1279">La fille du régiment</bibl>
+                     <bibl n="hsl_work_id_1378">Il borgomastro di Saardam</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_64">
@@ -1710,6 +1712,7 @@
                      <bibl n="hsl_work_id_1090">Streichquartett in B-Dur</bibl>
                      <bibl n="hsl_work_id_1145">Lo speziale, Hob. XXVIII:3</bibl>
                      <bibl n="hsl_work_id_1157">Symphonie in D-Dur</bibl>
+                     <bibl n="hsl_work_id_1376">Streichquarett</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_115">
@@ -3808,7 +3811,7 @@
                      <bibl n="hsl_work_id_162">Jessonda, WoO53</bibl>
                      <bibl n="hsl_work_id_198">Faust, WoO51</bibl>
                      <bibl n="hsl_work_id_407">Symphonie Nr. 4 in F-Dur, op. 86</bibl>
-                     <bibl n="hsl_work_id_767">Violinkonzert Nr. 8 in a-Moll „In Form einer Gesangsszene“, op. 47</bibl>
+                     <bibl n="hsl_work_id_767">Violinkonzert Nr. 8 in a-Moll, op. 47</bibl>
                      <bibl n="hsl_work_id_1010">6 deutsche Lieder, op. 103</bibl>
                      <bibl n="hsl_work_id_1332">Zwiegesang, op. 103 Nr. 2</bibl>
                      <bibl n="hsl_work_id_1333">Wiegenlied in drei Tönen, op. 103 Nr. 4</bibl>
@@ -8824,7 +8827,7 @@
                <person xml:id="hsl_person_id_840" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Euryanthe</surname>
+                     <surname>Euryanthe von Savoyen</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_201">Euryanthe, J291</bibl>
@@ -11223,6 +11226,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q158899</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_665">Abschied, op. 3 Nr. 1</bibl>
+                     <bibl n="hsl_work_id_1362">Herr Oluf, op. 2 Nr. 2</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1123">
@@ -12377,11 +12381,19 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118549553</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q155547</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1362">Herr Oluf, op. 2 Nr. 2</bibl>
+                     <bibl n="hsl_work_id_1375">Herr Oluf</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1254" role="fictional">
                   <persName type="main">
                      <forename/>
                      <surname>Oluf</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Olaf</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_311">Elverskud, op. 30</bibl>
@@ -12402,7 +12414,7 @@
                <person xml:id="hsl_person_id_1256" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Erlkönig's Tochter</surname>
+                     <surname>Erlkönigs Tochter</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_311">Elverskud, op. 30</bibl>
@@ -12425,7 +12437,7 @@
                   <idno type="GND">https://d-nb.info/gnd/117120251</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q571562</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_766">Violinkonzert in a-Moll Nr. 5, op. 21</bibl>
+                     <bibl n="hsl_work_id_766">Violinkonzert Nr. 5 in a-Moll, op. 21</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1259">
@@ -22079,8 +22091,11 @@ Don Caesar</surname>
                <person xml:id="hsl_person_id_2286" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>La reine Clémentine</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1069">Barbe-Bleue</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_2287">
                   <persName type="main">
@@ -22252,6 +22267,145 @@ Don Caesar</surname>
                   <idno type="GND">https://d-nb.info/gnd/117443018</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_495">Preciosa, J279</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2312" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Barbe-Bleue</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1069">Barbe-Bleue</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2313">
+                  <persName type="main">
+                     <forename>Franz</forename>
+                     <surname>Gaul</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116467231</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q50307954</idno>
+               </person>
+               <person xml:id="hsl_person_id_2314" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Popolani</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1069">Barbe-Bleue</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2315" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Le roi Bobêche</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1069">Barbe-Bleue</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2316" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Alvarez</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1069">Barbe-Bleue</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2317">
+                  <persName type="main">
+                     <forename>Ferdinand</forename>
+                     <surname>Jäger</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117052477</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q18020135</idno>
+               </person>
+               <person xml:id="hsl_person_id_2318" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Boulotte</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1069">Barbe-Bleue</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2319" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Le comte Oscar</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1069">Barbe-Bleue</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2320" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Le prince Saphir</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1069">Barbe-Bleue</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2321" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>La princesse Hermia dite Fleurette</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1069">Barbe-Bleue</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2322">
+                  <persName type="main">
+                     <forename>Louis Désiré</forename>
+                     <surname>Véron</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/124929559</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q3263306</idno>
+               </person>
+               <person xml:id="hsl_person_id_2323">
+                  <persName type="main">
+                     <forename>König von Schweden</forename>
+                     <surname>Gustav III.</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118543725</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q52930</idno>
+               </person>
+               <person xml:id="hsl_person_id_2324">
+                  <persName type="main">
+                     <forename>König von Frankreich</forename>
+                     <surname>Ludwig XV.</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118729438</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q7738</idno>
+               </person>
+               <person xml:id="hsl_person_id_2325" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Riccardo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_35">Un ballo in maschera</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2327" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Amelia</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_35">Un ballo in maschera</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2328" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Oscar</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_35">Un ballo in maschera</bibl>
                   </listBibl>
                </person>
             </listPerson>
