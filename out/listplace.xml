@@ -455,7 +455,7 @@
                </place>
                <place xml:id="hsl_place_id_26">
                   <settlement type="P">
-                     <placeName type="main">Hetzendorf</placeName>
+                     <placeName type="main">Hetzendorf, Wien</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
@@ -1213,7 +1213,7 @@
                </place>
                <place xml:id="hsl_place_id_94">
                   <settlement type="A">
-                     <placeName type="main">Josefstadt</placeName>
+                     <placeName type="main">Josefstadt, Wien</placeName>
                      <placeName type="alternative">Josephstadt</placeName>
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
@@ -1583,7 +1583,7 @@
                </place>
                <place xml:id="hsl_place_id_127">
                   <settlement type="P">
-                     <placeName type="main">Hietzing</placeName>
+                     <placeName type="main">Hietzing, Wien</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
@@ -2601,7 +2601,7 @@
                </place>
                <place xml:id="hsl_place_id_218">
                   <settlement type="L">
-                     <placeName type="main">Augarten</placeName>
+                     <placeName type="main">Augarten, Wien</placeName>
                   </settlement>
                   <desc type="entity_type">parks,area, ...</desc>
                   <country>AT, Austria</country>
@@ -2762,7 +2762,7 @@
                </place>
                <place xml:id="hsl_place_id_230">
                   <settlement type="A">
-                     <placeName type="main">Leopoldstadt</placeName>
+                     <placeName type="main">Leopoldstadt, Wien</placeName>
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>AT, Austria</country>
@@ -2882,7 +2882,7 @@
                   <idno type="GND">https://d-nb.info/gnd/4000003-5</idno>
                </place>
                <place xml:id="hsl_place_id_239">
-                  <placeName type="main">Schönbrunn</placeName>
+                  <placeName type="main">Schönbrunn, Wien</placeName>
                   <country>, Austria</country>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q27837208</idno>
                   <idno type="GND">https://d-nb.info/gnd/4254594-8</idno>
@@ -2949,6 +2949,27 @@
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/6545271/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q3413229</idno>
+               </place>
+               <place xml:id="hsl_place_id_249">
+                  <placeName type="main">Lichtental, Wien</placeName>
+                     <placeName type="alternative">Lichtenthal</placeName>
+               </place>
+               <place xml:id="hsl_place_id_250">
+                  <placeName type="main">Atzenbrugg</placeName>
+                     <placeName type="alternative">Atzenbruck</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/7871907/</idno>
+               </place>
+               <place xml:id="hsl_place_id_251">
+                  <placeName type="main">Ochsenburg</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2769545/</idno>
+               </place>
+               <place xml:id="hsl_place_id_252">
+                  <placeName type="main">Steyr</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2764347/</idno>
+               </place>
+               <place xml:id="hsl_place_id_253">
+                  <placeName type="main">Bad Gastein</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/7873308/</idno>
                </place>
             </listPlace>
          </div>
