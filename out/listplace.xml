@@ -2234,6 +2234,7 @@
                <place xml:id="hsl_place_id_186">
                   <settlement type="P">
                      <placeName type="main">New York City</placeName>
+                     <placeName type="alternative">Newyork</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
@@ -2970,6 +2971,16 @@
                <place xml:id="hsl_place_id_253">
                   <placeName type="main">Bad Gastein</placeName>
                   <idno type="GEONAMES">https://sws.geonames.org/7873308/</idno>
+               </place>
+               <place xml:id="hsl_place_id_254">
+                  <placeName type="main">Union Square</placeName>
+                     <placeName type="alternative">Unionplatz</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/8436470/</idno>
+               </place>
+               <place xml:id="hsl_place_id_255">
+                  <placeName type="main">United Kingdom of Great Britain and Northern Ireland</placeName>
+                     <placeName type="alternative">Großbritannien</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2635167/</idno>
                </place>
             </listPlace>
          </div>
