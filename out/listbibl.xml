@@ -211,7 +211,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_16">
                <title type="main">Alfonso und Estrella, D732</title>
-               <title type="alternative">Alfons und Estrella</title>
+               <title type="alternative">Alfons / Alphons und Estrella</title>
                <author ref="#hsl_person_id_272">
                   <persName>Schober, Franz von</persName>
                </author>
@@ -288,10 +288,6 @@
                <author ref="#hsl_person_id_2097">
                   <persName>Silberstein, August</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_743">Braga</name>
-               <name type="character" ref="#hsl_person_id_746">Odin</name>
-               <name type="character" ref="#hsl_person_id_745">Solgofnir</name>
-               <name type="character" ref="#hsl_person_id_747">Balmung</name>
                <name type="character" ref="#hsl_person_id_748">Freya</name>
             </bibl>
             <bibl xml:id="hsl_work_id_25">
@@ -3032,6 +3028,7 @@
                <name type="character" ref="#hsl_person_id_479">Florestan</name>
                <name type="character" ref="#hsl_person_id_480">Leonore</name>
                <name type="character" ref="#hsl_person_id_481">Pizarro</name>
+               <name type="character" ref="#hsl_person_id_2404">Jaquino</name>
             </bibl>
             <bibl xml:id="hsl_work_id_349">
                <title type="main">Ein feste Burg ist unser Gott</title>
@@ -4071,21 +4068,19 @@
                <author ref="#hsl_person_id_2184">
                   <persName>Meyern-Hohenberg, Gustav von</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_881">Braga</name>
-               <name type="character" ref="#hsl_person_id_882">Freia</name>
-               <name type="character" ref="#hsl_person_id_883">Iduna</name>
-               <name type="character" ref="#hsl_person_id_879">Odin</name>
-               <name type="character" ref="#hsl_person_id_880">Thor</name>
-               <name type="character" ref="#hsl_person_id_884">Königin Ella</name>
+               <name type="character" ref="#hsl_person_id_884">Ella</name>
                <name type="character" ref="#hsl_person_id_885">Gisella</name>
                <name type="character" ref="#hsl_person_id_886">Elfried</name>
                <name type="character" ref="#hsl_person_id_887">Alter Sänger</name>
-               <name type="character" ref="#hsl_person_id_888">König</name>
+               <name type="character" ref="#hsl_person_id_888">Nordischer König</name>
             </bibl>
             <bibl xml:id="hsl_work_id_508">
-               <title type="main">Des Sängers Fluch</title>
+               <title type="main">Des Sängers Fluch, op. 139</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_1027">
+                  <persName>Pohl, Richard</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_509">
@@ -4102,7 +4097,7 @@
                <author ref="#hsl_person_id_248">
                   <persName>Schiller, Friedrich</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_889">Geßler</name>
+               <name type="character" ref="#hsl_person_id_889">Hermann Geßler</name>
             </bibl>
             <bibl xml:id="hsl_work_id_513">
                <title type="main">Clavigo</title>
@@ -10289,6 +10284,44 @@
                </author>
                <author ref="#hsl_person_id_376">
                   <persName>Castelli, Ignaz Franz</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_2396">Ludmilla von Lüdenstein</name>
+               <name type="character" ref="#hsl_person_id_2397">Helene von Reisenberg</name>
+               <name type="character" ref="#hsl_person_id_2398">Astolf von Reisenberg</name>
+               <name type="character" ref="#hsl_person_id_2399">Udolin</name>
+               <name type="character" ref="#hsl_person_id_2400">Heribert von Lüdenstein</name>
+               <name type="character" ref="#hsl_person_id_2401">Isella</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1398">
+               <title type="main">Thematisches Verzeichniss der im Druck erschienenen Werke von Franz Schubert</title>
+               <author ref="#hsl_person_id_365">
+                  <persName>Nottebohm, Gustav</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1399">
+               <title type="main">Der vierjährige Posten, D190</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_2205">
+                  <persName>Körner, Theodor</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_2408">Duval</name>
+               <name type="character" ref="#hsl_person_id_2409">Käthchen</name>
+               <name type="character" ref="#hsl_person_id_2410">Walther</name>
+               <name type="character" ref="#hsl_person_id_2411">Kapitän eines französischen Regimentes</name>
+               <name type="character" ref="#hsl_person_id_2412">General</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1400">
+               <title type="main">Il carnevale di Venezia, op.10</title>
+               <author ref="#hsl_person_id_1008">
+                  <persName>Paganini, Niccolò</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1402">
+               <title type="main">Des Sängers Fluch</title>
+               <author ref="#hsl_person_id_310">
+                  <persName>Uhland, Ludwig</persName>
                </author>
             </bibl>
       </listBibl>

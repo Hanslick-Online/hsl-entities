@@ -230,38 +230,35 @@
                <person xml:id="hsl_person_id_743" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Braga</surname>
+                     <surname>Bragi</surname>
                   </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_446">Germanenzug, WAB70</bibl>
-                  </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_881" role="fictional">
-                  <persName type="main">
+                  <persName type="alternative">
                      <forename/>
                      <surname>Braga</surname>
                   </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_507">Des Sängers Fluch</bibl>
-                  </listBibl>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q199959</idno>
                </person>
                <person xml:id="hsl_person_id_882" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Freia</surname>
+                     <surname>Freyja</surname>
                   </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_507">Des Sängers Fluch</bibl>
-                  </listBibl>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Freia / Freya</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119331039</idno>
                </person>
                <person xml:id="hsl_person_id_883" role="fictional">
                   <persName type="main">
                      <forename/>
+                     <surname>Idun</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Iduna</surname>
                   </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_507">Des Sängers Fluch</bibl>
-                  </listBibl>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q204691</idno>
                </person>
                <person xml:id="hsl_person_id_891">
                   <persName type="main">
@@ -379,6 +376,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/119368692</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q459805</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1398">Thematisches Verzeichniss der im Druck erschienenen Werke von Franz Schubert</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_16">
                   <persName type="main">
@@ -2727,32 +2727,16 @@
                   <idno type="GND">https://d-nb.info/gnd/118874063</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q570580</idno>
                </person>
-               <person xml:id="hsl_person_id_746" role="fictional">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Odin</surname>
-                  </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_446">Germanenzug, WAB70</bibl>
-                  </listBibl>
-               </person>
                <person xml:id="hsl_person_id_745" role="fictional">
                   <persName type="main">
                      <forename/>
+                     <surname>Widofnir</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Solgofnir</surname>
                   </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_446">Germanenzug, WAB70</bibl>
-                  </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_747" role="fictional">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Balmung</surname>
-                  </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_446">Germanenzug, WAB70</bibl>
-                  </listBibl>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q2298555</idno>
                </person>
                <person xml:id="hsl_person_id_748" role="fictional">
                   <persName type="main">
@@ -3584,6 +3568,7 @@
                      <bibl n="hsl_work_id_1394">Divertissement à la hongroise, D818</bibl>
                      <bibl n="hsl_work_id_1396">Streichquartett Nr. 14 in d-Moll, D810</bibl>
                      <bibl n="hsl_work_id_1397">Die Verschworenen, D787</bibl>
+                     <bibl n="hsl_work_id_1399">Der vierjährige Posten, D190</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_280">
@@ -3631,7 +3616,7 @@
                      <bibl n="hsl_work_id_242">Violinesonate Nr. 2 in D-Moll, op. 121</bibl>
                      <bibl n="hsl_work_id_279">Requiem, op. 148</bibl>
                      <bibl n="hsl_work_id_479">Gesammelte Schriften über Musik und Musiker</bibl>
-                     <bibl n="hsl_work_id_508">Des Sängers Fluch</bibl>
+                     <bibl n="hsl_work_id_508">Des Sängers Fluch, op. 139</bibl>
                      <bibl n="hsl_work_id_600">Klavierquintett in Es-Dur, op. 44</bibl>
                      <bibl n="hsl_work_id_602">6 Gesänge, op. 107</bibl>
                      <bibl n="hsl_work_id_609">Szenen aus Goethes Faust, WoO3</bibl>
@@ -4012,6 +3997,7 @@
                      <bibl n="hsl_work_id_366">Des Sängers Fluch, op. 8</bibl>
                      <bibl n="hsl_work_id_665">Abschied, op. 3 Nr. 1</bibl>
                      <bibl n="hsl_work_id_1062">Abschied für vierstimmigen gemischten Chor</bibl>
+                     <bibl n="hsl_work_id_1402">Des Sängers Fluch</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_311">
@@ -5078,11 +5064,13 @@
                <person xml:id="hsl_person_id_879" role="fictional">
                   <persName type="main">
                      <forename/>
+                     <surname>Wodan</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Odin</surname>
                   </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_507">Des Sängers Fluch</bibl>
-                  </listBibl>
+                  <idno type="GND">https://d-nb.info/gnd/118769715</idno>
                </person>
                <person xml:id="hsl_person_id_425" role="fictional">
                   <persName type="main">
@@ -5154,16 +5142,18 @@
                <person xml:id="hsl_person_id_880" role="fictional">
                   <persName type="main">
                      <forename/>
+                     <surname>Donar</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Thor</surname>
                   </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_507">Des Sängers Fluch</bibl>
-                  </listBibl>
+                  <idno type="GND">https://d-nb.info/gnd/119192748</idno>
                </person>
                <person xml:id="hsl_person_id_889" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Geßler</surname>
+                     <surname>Hermann Geßler</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_512">Wilhelm Tell</bibl>
@@ -5248,6 +5238,10 @@
                   <persName type="main">
                      <forename>Claudio</forename>
                      <surname>Monteverdi</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Monteverde</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118583700</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q53068</idno>
@@ -9187,7 +9181,7 @@
                <person xml:id="hsl_person_id_884" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Königin Ella</surname>
+                     <surname>Ella</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_507">Des Sängers Fluch</bibl>
@@ -9223,7 +9217,7 @@
                <person xml:id="hsl_person_id_888" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>König</surname>
+                     <surname>Nordischer König</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_507">Des Sängers Fluch</bibl>
@@ -10231,6 +10225,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q66075</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_889">Le streghe, op. 8</bibl>
+                     <bibl n="hsl_work_id_1400">Il carnevale di Venezia, op.10</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1009">
@@ -10429,6 +10424,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116260564</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q90934</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_508">Des Sängers Fluch, op. 139</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1028">
                   <persName type="main">
@@ -14748,6 +14746,10 @@
                <person xml:id="hsl_person_id_1492">
                   <persName type="main">
                      <forename>Alfredo C.</forename>
+                     <surname>Piatti</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Alfred</forename>
                      <surname>Piatti</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116176849</idno>
@@ -21370,6 +21372,9 @@ Don Caesar</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118713507</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q62344</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1399">Der vierjährige Posten, D190</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_2206">
                   <persName type="main">
@@ -22902,6 +22907,231 @@ Don Caesar</surname>
                      <surname>Zumsteg</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118773267</idno>
+               </person>
+               <person xml:id="hsl_person_id_2386">
+                  <persName type="main">
+                     <forename>George</forename>
+                     <surname>Grove</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118719025</idno>
+               </person>
+               <person xml:id="hsl_person_id_2387">
+                  <persName type="main">
+                     <forename>August</forename>
+                     <surname>Reißmann</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116431814</idno>
+               </person>
+               <person xml:id="hsl_person_id_2388">
+                  <persName type="main">
+                     <forename>Max</forename>
+                     <surname>Friedländer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116797630</idno>
+               </person>
+               <person xml:id="hsl_person_id_2389">
+                  <persName type="main">
+                     <forename>Carl von</forename>
+                     <surname>Schönstein</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/142462276</idno>
+               </person>
+               <person xml:id="hsl_person_id_2390">
+                  <persName type="main">
+                     <forename>Helene</forename>
+                     <surname>Magnus</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/137908792</idno>
+               </person>
+               <person xml:id="hsl_person_id_2391">
+                  <persName type="main">
+                     <forename>Eusebius</forename>
+                     <surname>Mandyczewski</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116728698</idno>
+               </person>
+               <person xml:id="hsl_person_id_2392">
+                  <persName type="main">
+                     <forename>Carl</forename>
+                     <surname>Kundmann</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116610301</idno>
+               </person>
+               <person xml:id="hsl_person_id_2393">
+                  <persName type="main">
+                     <forename>Karl</forename>
+                     <surname>Glossy</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116667478</idno>
+               </person>
+               <person xml:id="hsl_person_id_2394">
+                  <persName type="main">
+                     <forename>Hieronymus</forename>
+                     <surname>Truhn</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117426784</idno>
+               </person>
+               <person xml:id="hsl_person_id_2395">
+                  <persName type="main">
+                     <forename>Jakob Eduard</forename>
+                     <surname>Schmölzer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11860936X</idno>
+               </person>
+               <person xml:id="hsl_person_id_2396" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ludmilla von Lüdenstein</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1397">Die Verschworenen, D787</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2397" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Helene von Reisenberg</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Helena</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1397">Die Verschworenen, D787</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2398" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Astolf von Reisenberg</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1397">Die Verschworenen, D787</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2399" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Udolin</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1397">Die Verschworenen, D787</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2400" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Heribert von Lüdenstein</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Herbert</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1397">Die Verschworenen, D787</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2401" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Isella</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1397">Die Verschworenen, D787</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2402">
+                  <persName type="main">
+                     <forename>Friederike</forename>
+                     <surname>Fischer-Swoboda</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1018869174</idno>
+               </person>
+               <person xml:id="hsl_person_id_2403">
+                  <persName type="main">
+                     <forename>Victor van</forename>
+                     <surname>Wilder</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117380334</idno>
+               </person>
+               <person xml:id="hsl_person_id_2404" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Jaquino</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Jacquino</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_348">Fidelio, op. 72</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2405">
+                  <persName type="main">
+                     <forename>Johann Nepomuk</forename>
+                     <surname>Fuchs</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116843985</idno>
+               </person>
+               <person xml:id="hsl_person_id_2406">
+                  <persName type="main">
+                     <forename>Andreas</forename>
+                     <surname>Dippel</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/130141062</idno>
+               </person>
+               <person xml:id="hsl_person_id_2407">
+                  <persName type="main">
+                     <forename>Ludwig</forename>
+                     <surname>Speidel</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117482684</idno>
+               </person>
+               <person xml:id="hsl_person_id_2408" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Duval</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1399">Der vierjährige Posten, D190</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2409" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Käthchen</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1399">Der vierjährige Posten, D190</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2410" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Walther</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1399">Der vierjährige Posten, D190</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2411" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Kapitän eines französischen Regimentes</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1399">Der vierjährige Posten, D190</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2412" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>General</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1399">Der vierjährige Posten, D190</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
