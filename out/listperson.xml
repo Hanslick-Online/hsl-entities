@@ -2547,6 +2547,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q86566</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_697">Memnon, D541</bibl>
+                     <bibl n="hsl_work_id_1404">Die Freunde von Salamanka, D326</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_339">
@@ -3569,6 +3570,9 @@
                      <bibl n="hsl_work_id_1396">Streichquartett Nr. 14 in d-Moll, D810</bibl>
                      <bibl n="hsl_work_id_1397">Die Verschworenen, D787</bibl>
                      <bibl n="hsl_work_id_1399">Der vierjährige Posten, D190</bibl>
+                     <bibl n="hsl_work_id_1404">Die Freunde von Salamanka, D326</bibl>
+                     <bibl n="hsl_work_id_1405">Der Spiegelritter, D11</bibl>
+                     <bibl n="hsl_work_id_1406">Fernando, D220</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_280">
@@ -5170,6 +5174,7 @@
                      <bibl n="hsl_work_id_226">Die Alpenhütte</bibl>
                      <bibl n="hsl_work_id_527">Béla's Flucht</bibl>
                      <bibl n="hsl_work_id_1004">Das Dorf im Gebirge. Schauspiel mit Gesang in 2 Akten</bibl>
+                     <bibl n="hsl_work_id_1405">Der Spiegelritter, D11</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_426" role="fictional">
@@ -10226,6 +10231,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_889">Le streghe, op. 8</bibl>
                      <bibl n="hsl_work_id_1400">Il carnevale di Venezia, op.10</bibl>
+                     <bibl n="hsl_work_id_1403">Moto perpetuo, op.11</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1009">
@@ -23120,6 +23126,10 @@ Don Caesar</surname>
                      <forename/>
                      <surname>Kapitän eines französischen Regimentes</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Capitän</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1399">Der vierjährige Posten, D190</bibl>
                   </listBibl>
@@ -23132,6 +23142,43 @@ Don Caesar</surname>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1399">Der vierjährige Posten, D190</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2413" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Gräfin Olivia</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Oliva</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1404">Die Freunde von Salamanka, D326</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2414">
+                  <persName type="main">
+                     <forename>Albert</forename>
+                     <surname>Stadler</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/132124408</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1406">Fernando, D220</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2415">
+                  <persName type="main">
+                     <forename>Nicolas</forename>
+                     <surname>Dalayrac</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11627509X</idno>
+               </person>
+               <person xml:id="hsl_person_id_2416">
+                  <persName type="main">
+                     <forename>Irene</forename>
+                     <surname>Abendroth</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116002506</idno>
                </person>
             </listPerson>
          </div>
