@@ -466,6 +466,7 @@
                      <bibl n="hsl_work_id_1190">Suite für Orchester Nr. 3 in D-Dur, BWV1068</bibl>
                      <bibl n="hsl_work_id_1243">Cembalokonzert in d-Moll, BWV1052</bibl>
                      <bibl n="hsl_work_id_1377">Violinkonzert</bibl>
+                     <bibl n="hsl_work_id_1449">Suite für Orchester Nr. 4 in D-Dur, BWV1069</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_19">
@@ -924,6 +925,10 @@
                      <bibl n="hsl_work_id_936">Ballade Nr. 2 in F-Dur, op. 38</bibl>
                      <bibl n="hsl_work_id_937">Ballade Nr. 3 in As-Dur, op. 47</bibl>
                      <bibl n="hsl_work_id_1011">Klavierkonzert Nr. 2 in f-Moll, op. 21</bibl>
+                     <bibl n="hsl_work_id_1445">Berceuse, op. 57</bibl>
+                     <bibl n="hsl_work_id_1446">Klaviersonate Nr. 3 in h-Moll, op. 58</bibl>
+                     <bibl n="hsl_work_id_1447">Etude in c-Moll, op. 10 Nr. 12</bibl>
+                     <bibl n="hsl_work_id_1448">Etude in c-Moll, op. 25 Nr. 12</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_49">
@@ -2278,6 +2283,7 @@
                      <bibl n="hsl_work_id_1356">L'hymne du pape / Inno del papa, S 530</bibl>
                      <bibl n="hsl_work_id_1357">Die Legende von der Heiligen Elisabeth, S 2</bibl>
                      <bibl n="hsl_work_id_1358">2 Légendes, S 175</bibl>
+                     <bibl n="hsl_work_id_1453">Orpheus, S98</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_165">
@@ -3853,6 +3859,7 @@
                      <bibl n="hsl_work_id_1340">Barkarole / Barcarole</bibl>
                      <bibl n="hsl_work_id_1343">Gavotte</bibl>
                      <bibl n="hsl_work_id_1381">Der Berggeist</bibl>
+                     <bibl n="hsl_work_id_1450">Violinkonzert Nr. 9 in d-Moll, op. 55</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_294">
@@ -13677,6 +13684,11 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118587943</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9358</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1452">Also sprach Zarathustra. Ein Buch für Alle und Keinen</bibl>
+                     <bibl n="hsl_work_id_1455">Götzen-Dämmerung oder Wie man mit dem Hammer philosophirt</bibl>
+                     <bibl n="hsl_work_id_1456">Menschliches, Allzumenschliches. Ein Buch für freie Geister</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1378">
                   <persName type="main">
@@ -22614,6 +22626,10 @@ Don Caesar</surname>
                      <forename/>
                      <surname>Zarathustra</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Zoroaster</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118636227</idno>
                </person>
                <person xml:id="hsl_person_id_2340">
@@ -23574,6 +23590,79 @@ Don Caesar</surname>
                      <surname>Ondriček</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/117134236</idno>
+               </person>
+               <person xml:id="hsl_person_id_2452">
+                  <persName type="main">
+                     <forename>Ignacy Jan</forename>
+                     <surname>Paderewski</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118986724</idno>
+               </person>
+               <person xml:id="hsl_person_id_2453" role="fictional">
+                  <persName type="main">
+                     <forename>Raoul</forename>
+                     <surname>Koczalski</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/121585204</idno>
+               </person>
+               <person xml:id="hsl_person_id_2454">
+                  <persName type="main">
+                     <forename>Bernhard</forename>
+                     <surname>Vogel</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1024780767</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1444">Raoul Koczalski. Eine Skizze</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2455">
+                  <persName type="main">
+                     <forename>Henri</forename>
+                     <surname>Petri</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Henry</forename>
+                     <surname>Petri</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116133872</idno>
+               </person>
+               <person xml:id="hsl_person_id_2456">
+                  <persName type="main">
+                     <forename>Arthur</forename>
+                     <surname>Schopenhauer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118610465</idno>
+               </person>
+               <person xml:id="hsl_person_id_2457" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ahura Masda</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Ormuzd</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118898426</idno>
+               </person>
+               <person xml:id="hsl_person_id_2458">
+                  <persName type="main">
+                     <forename>Maximilian</forename>
+                     <surname>Harden</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118545892</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1454">Die Zukunft</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2459">
+                  <persName type="main">
+                     <forename>Ludwig</forename>
+                     <surname>Stein</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117243426</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1457">Friedrich Nietzsche's Weltanschauung und ihre Gefahren. Ein kritischer Essay</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
