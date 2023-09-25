@@ -1124,6 +1124,17 @@
                      <bibl n="hsl_work_id_451">L'elisir d'amore</bibl>
                      <bibl n="hsl_work_id_1279">La fille du régiment</bibl>
                      <bibl n="hsl_work_id_1378">Il borgomastro di Saardam</bibl>
+                     <bibl n="hsl_work_id_1490">Sancia di Castiglia</bibl>
+                     <bibl n="hsl_work_id_1491">Les Martyrs</bibl>
+                     <bibl n="hsl_work_id_1492">L'esule di Roma</bibl>
+                     <bibl n="hsl_work_id_1493">Anna Bolena</bibl>
+                     <bibl n="hsl_work_id_1494">Il diluvio universale</bibl>
+                     <bibl n="hsl_work_id_1495">Gemma di Vergy</bibl>
+                     <bibl n="hsl_work_id_1496">Belisario</bibl>
+                     <bibl n="hsl_work_id_1499">Dom Sébastien</bibl>
+                     <bibl n="hsl_work_id_1501">Roberto Devereux</bibl>
+                     <bibl n="hsl_work_id_1502">L'assedio di Calais</bibl>
+                     <bibl n="hsl_work_id_1503">Il furioso all'isola di San Domingo</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_64">
@@ -3769,6 +3780,7 @@
                      <bibl n="hsl_work_id_1195">La dame de pique</bibl>
                      <bibl n="hsl_work_id_1224">La nonne sanglante, CG2</bibl>
                      <bibl n="hsl_work_id_1361">La dame blanche</bibl>
+                     <bibl n="hsl_work_id_1499">Dom Sébastien</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_285">
@@ -8353,6 +8365,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q659749</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_134">La Cenerentola, ossia La bontà in trionfo</bibl>
+                     <bibl n="hsl_work_id_1503">Il furioso all'isola di San Domingo</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_780">
@@ -9131,6 +9144,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_501">Le Tartuffe ou L'Imposteur</bibl>
                      <bibl n="hsl_work_id_588">L'Avare ou L'Ecole du mensonge</bibl>
+                     <bibl n="hsl_work_id_1500">Sganarelle, ou Le Cocu imaginaire</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_865">
@@ -9613,6 +9627,10 @@
                      <forename>Giovanni</forename>
                      <surname>Paisiello</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Païsiello</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/119010097</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q202303</idno>
                </person>
@@ -9620,6 +9638,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Stendhal</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Henri Beyle</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118617648</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q502</idno>
@@ -19764,6 +19786,7 @@ Don Caesar</surname>
                      <bibl n="hsl_work_id_451">L'elisir d'amore</bibl>
                      <bibl n="hsl_work_id_457">Un'avventura di Scaramuccia</bibl>
                      <bibl n="hsl_work_id_1218">I Capuleti e i Montecchi</bibl>
+                     <bibl n="hsl_work_id_1493">Anna Bolena</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2027">
@@ -20643,6 +20666,8 @@ Don Caesar</surname>
                   <idno type="GND">https://d-nb.info/gnd/128978120</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_399">Fausta</bibl>
+                     <bibl n="hsl_work_id_1492">L'esule di Roma</bibl>
+                     <bibl n="hsl_work_id_1494">Il diluvio universale</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2122">
@@ -20694,6 +20719,10 @@ Don Caesar</surname>
                      <bibl n="hsl_work_id_171">Il trovatore</bibl>
                      <bibl n="hsl_work_id_745">Luisa Miller</bibl>
                      <bibl n="hsl_work_id_808">Saffo</bibl>
+                     <bibl n="hsl_work_id_1491">Les Martyrs</bibl>
+                     <bibl n="hsl_work_id_1496">Belisario</bibl>
+                     <bibl n="hsl_work_id_1501">Roberto Devereux</bibl>
+                     <bibl n="hsl_work_id_1502">L'assedio di Calais</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2126">
@@ -22325,6 +22354,10 @@ Don Caesar</surname>
                </person>
                <person xml:id="hsl_person_id_2295" role="fictional">
                   <persName type="main">
+                     <forename/>
+                     <surname>Dottore Dulcamara</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename/>
                      <surname>Doktor Dulcamara</surname>
                   </persName>
@@ -24217,6 +24250,10 @@ Don Caesar</surname>
                      <forename>Andrea</forename>
                      <surname>Donizetti</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Vater</surname>
+                  </persName>
                </person>
                <person xml:id="hsl_person_id_2529">
                   <persName type="main">
@@ -24224,6 +24261,249 @@ Don Caesar</surname>
                      <surname>Mayr</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118732374</idno>
+               </person>
+               <person xml:id="hsl_person_id_2530">
+                  <persName type="main">
+                     <forename>Pietro</forename>
+                     <surname>Salatino</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1212066227</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1490">Sancia di Castiglia</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2531" role="fictional">
+                  <persName type="main">
+                     <forename>Jenny</forename>
+                     <surname>Dingelstedt</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Lutzer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116137452</idno>
+               </person>
+               <person xml:id="hsl_person_id_2532">
+                  <persName type="main">
+                     <forename>Giovanni Emanuele</forename>
+                     <surname>Bidera</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/115558071</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1495">Gemma di Vergy</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2533">
+                  <persName type="main">
+                     <forename>Rosine</forename>
+                     <surname>Stoltz</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119477831</idno>
+               </person>
+               <person xml:id="hsl_person_id_2534" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Camoëns</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1499">Dom Sébastien</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2535">
+                  <persName type="main">
+                     <forename>Giovanni</forename>
+                     <surname>Giraud</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/121727483</idno>
+               </person>
+               <person xml:id="hsl_person_id_2536">
+                  <persName type="main">
+                     <forename>Jacques Joseph</forename>
+                     <surname>Moreau de Tours</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117601438</idno>
+               </person>
+               <person xml:id="hsl_person_id_2537">
+                  <persName type="main">
+                     <forename>Klemens Wenzel Nepomuk Lothar von</forename>
+                     <surname>Metternich</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118581465</idno>
+               </person>
+               <person xml:id="hsl_person_id_2538">
+                  <persName type="main">
+                     <forename>Adolphe</forename>
+                     <surname>Crémieux</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118902873</idno>
+               </person>
+               <person xml:id="hsl_person_id_2539">
+                  <persName type="main">
+                     <forename>Andrea</forename>
+                     <surname>Donizetti</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Neffe</surname>
+                  </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q102288809</idno>
+               </person>
+               <person xml:id="hsl_person_id_2540">
+                  <persName type="main">
+                     <forename>Antonio</forename>
+                     <surname>?</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_2541">
+                  <persName type="main">
+                     <forename>Pierre-Antoine</forename>
+                     <surname>Berryer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/121124797</idno>
+               </person>
+               <person xml:id="hsl_person_id_2542">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Marié</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_2543">
+                  <persName type="main">
+                     <forename>Francesco</forename>
+                     <surname>Donizetti</surname>
+                  </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q103375233</idno>
+               </person>
+               <person xml:id="hsl_person_id_2544">
+                  <persName type="main">
+                     <forename>Josepha</forename>
+                     <surname>Medori</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1037850777</idno>
+               </person>
+               <person xml:id="hsl_person_id_2545">
+                  <persName type="main">
+                     <forename>Napoleone</forename>
+                     <surname>Moriani</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116882964</idno>
+               </person>
+               <person xml:id="hsl_person_id_2546">
+                  <persName type="main">
+                     <forename>Achille</forename>
+                     <surname>De Bassini</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Debassini</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1036371840</idno>
+               </person>
+               <person xml:id="hsl_person_id_2548" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Norina</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_207">Don Pasquale</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2549" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Marie</surname>
+                  </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1279">La fille du régiment</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2550">
+                  <persName type="main">
+                     <forename>Robert Devereux Earl of</forename>
+                     <surname>Essex</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118722603</idno>
+               </person>
+               <person xml:id="hsl_person_id_2551" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Elisabetta I.</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Elisabeth</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1501">Roberto Devereux</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2552" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Sara</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1501">Roberto Devereux</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2553" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Roberto Devereux</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1501">Roberto Devereux</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2554" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Eduardo III.</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Eduard</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1502">L'assedio di Calais</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2555" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Fausta</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_399">Fausta</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2556" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Costantino</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Konstantin</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_2557" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Crispo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_399">Fausta</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2558" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Cardenio</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1503">Il furioso all'isola di San Domingo</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

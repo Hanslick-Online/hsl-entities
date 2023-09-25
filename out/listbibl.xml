@@ -1920,6 +1920,7 @@
                <author ref="#hsl_person_id_2120">
                   <persName>Ruffini, Giovanni</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_2548">Norina</name>
             </bibl>
             <bibl xml:id="hsl_work_id_208">
                <title type="main">Don Carlos</title>
@@ -3263,7 +3264,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_380">
                <title type="main">La Favorita</title>
-               <title type="alternative">Favorite</title>
+               <title type="alternative">Favorite / Die Favoritin</title>
                <author ref="#hsl_person_id_63">
                   <persName>Donizetti, Gaetano</persName>
                </author>
@@ -3410,6 +3411,8 @@
                <author ref="#hsl_person_id_2121">
                   <persName>Gilardoni, Domenico</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_2555">Fausta</name>
+               <name type="character" ref="#hsl_person_id_2557">Crispo</name>
             </bibl>
             <bibl xml:id="hsl_work_id_400">
                <title type="main">Hildegard von Hohenthal</title>
@@ -3679,7 +3682,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_2293">Adina</name>
                <name type="character" ref="#hsl_person_id_2294">Nemorino</name>
-               <name type="character" ref="#hsl_person_id_2295">Doktor Dulcamara</name>
+               <name type="character" ref="#hsl_person_id_2295">Dottore Dulcamara</name>
                <name type="character" ref="#hsl_person_id_2296">Belcore</name>
                <name type="character" ref="#hsl_person_id_2298">Gianetta</name>
             </bibl>
@@ -9538,6 +9541,9 @@
                <author ref="#hsl_person_id_63">
                   <persName>Donizetti, Gaetano</persName>
                </author>
+               <author ref="#hsl_person_id_2549">
+                  <persName>Marie</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1280">
                <title type="main">Rule, Britannia!</title>
@@ -10905,6 +10911,125 @@
                <author ref="#hsl_person_id_1088">
                   <persName>Widmann, Joseph Viktor</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1490">
+               <title type="main">Sancia di Castiglia</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_2530">
+                  <persName>Salatino, Pietro</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1491">
+               <title type="main">Les Martyrs</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_2125">
+                  <persName>Cammarano, Salvatore</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1492">
+               <title type="main">L'esule di Roma</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_2121">
+                  <persName>Gilardoni, Domenico</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1493">
+               <title type="main">Anna Bolena</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_2026">
+                  <persName>Romani, Felice</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1494">
+               <title type="main">Il diluvio universale</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_2121">
+                  <persName>Gilardoni, Domenico</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1495">
+               <title type="main">Gemma di Vergy</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_2532">
+                  <persName>Bidera, Giovanni Emanuele</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1496">
+               <title type="main">Belisario</title>
+               <title type="alternative">Belisar</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_2125">
+                  <persName>Cammarano, Salvatore</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1497">
+               <title type="main">The Musical World</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1498">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1499">
+               <title type="main">Dom Sébastien</title>
+               <title type="alternative">Dom Sebastian</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_284">
+                  <persName>Scribe, Eugène</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_2534">Camoëns</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1500">
+               <title type="main">Sganarelle, ou Le Cocu imaginaire</title>
+               <author ref="#hsl_person_id_864">
+                  <persName>Molière</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1501">
+               <title type="main">Roberto Devereux</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_2125">
+                  <persName>Cammarano, Salvatore</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_2551">Elisabetta I.</name>
+               <name type="character" ref="#hsl_person_id_2552">Sara</name>
+               <name type="character" ref="#hsl_person_id_2553">Roberto Devereux</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1502">
+               <title type="main">L'assedio di Calais</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_2125">
+                  <persName>Cammarano, Salvatore</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_2554">Eduardo III.</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1503">
+               <title type="main">Il furioso all'isola di San Domingo</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_779">
+                  <persName>Ferretti, Jacopo</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_2558">Cardenio</name>
             </bibl>
       </listBibl>
       </body>
