@@ -832,6 +832,8 @@
                <author ref="#hsl_person_id_2125">
                   <persName>Cammarano, Salvatore</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_2563">Maria di Rohan</name>
+               <name type="character" ref="#hsl_person_id_2564">Enrico</name>
             </bibl>
             <bibl xml:id="hsl_work_id_91">
                <title type="main">Maometto II</title>
@@ -893,6 +895,7 @@
                   <persName>Rossi, Gaetano</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1510">Linda</name>
+               <name type="character" ref="#hsl_person_id_2565">Antonio</name>
             </bibl>
             <bibl xml:id="hsl_work_id_99">
                <title type="main">Life of Mozart</title>
@@ -3275,6 +3278,9 @@
                   <persName>Vae͏̈z, Gustave</persName>
                </author>
                <name type="character" ref="#hsl_person_id_503">Fernand</name>
+               <name type="character" ref="#hsl_person_id_2566">Balthazar</name>
+               <name type="character" ref="#hsl_person_id_2567">Alphonse XI</name>
+               <name type="character" ref="#hsl_person_id_2568">Lèonor de Guzman</name>
             </bibl>
             <bibl xml:id="hsl_work_id_381">
                <title type="main">Tutti in maschera</title>
@@ -10923,6 +10929,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1491">
                <title type="main">Les Martyrs</title>
+               <title type="alternative">Die Märtyrer</title>
                <author ref="#hsl_person_id_63">
                   <persName>Donizetti, Gaetano</persName>
                </author>
@@ -10932,12 +10939,14 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1492">
                <title type="main">L'esule di Roma</title>
+               <title type="alternative">Der Verwiesene aus Rom</title>
                <author ref="#hsl_person_id_63">
                   <persName>Donizetti, Gaetano</persName>
                </author>
                <author ref="#hsl_person_id_2121">
                   <persName>Gilardoni, Domenico</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_2561">Settimio</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1493">
                <title type="main">Anna Bolena</title>
@@ -10980,7 +10989,14 @@
                <title type="main">The Musical World</title>
             </bibl>
             <bibl xml:id="hsl_work_id_1498">
-               <title type="main"/>
+               <title type="main">Parisina</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_2026">
+                  <persName>Romani, Felice</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_2560">Parisina</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1499">
                <title type="main">Dom Sébastien</title>
@@ -11030,6 +11046,58 @@
                   <persName>Ferretti, Jacopo</persName>
                </author>
                <name type="character" ref="#hsl_person_id_2558">Cardenio</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1504">
+               <title type="main">Ugo, Conte di Parigi</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_2026">
+                  <persName>Romani, Felice</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1505">
+               <title type="main">Poliuto</title>
+               <title type="alternative">Les Martyrs / Die Römer in Melitone</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_2125">
+                  <persName>Cammarano, Salvatore</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1506">
+               <title type="main">Marino Faliero</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_2532">
+                  <persName>Bidera, Giovanni Emanuele</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1507">
+               <title type="main">Un duel sous Richelieu</title>
+               <author ref="#hsl_person_id_65">
+                  <persName>Dumas, Alexandre</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1508">
+               <title type="main">L'ange de Nisida</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_2122">
+                  <persName>Royer, Alphonse</persName>
+               </author>
+               <author ref="#hsl_person_id_2123">
+                  <persName>Vae͏̈z, Gustave</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1509">
+               <title type="main">Lettere inedite di Gaetano Donizetti a diversi</title>
+               <author ref="#hsl_person_id_1553">
+                  <persName>Eisner von Eisenhof, Angelo</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
