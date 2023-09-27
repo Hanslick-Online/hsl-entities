@@ -15972,12 +15972,17 @@
                      <forename>Bedřich</forename>
                      <surname>Smetana</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Friedrich</forename>
+                     <surname>Smetana</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118615017</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q48173</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1239">Libuše, JB1:102</bibl>
                      <bibl n="hsl_work_id_1240">Prodaná nevěsta, JB1:100</bibl>
                      <bibl n="hsl_work_id_1241">Vltava, JB1:112/2</bibl>
+                     <bibl n="hsl_work_id_1511">Dalibor</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1619">
@@ -20967,6 +20972,7 @@ Don Caesar</surname>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_873">Wem steht das Kränzchen?, op. 34 Nr. 3</bibl>
                      <bibl n="hsl_work_id_1239">Libuše, JB1:102</bibl>
+                     <bibl n="hsl_work_id_1511">Dalibor</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2148">
@@ -24619,6 +24625,74 @@ Don Caesar</surname>
                      <forename>August</forename>
                      <surname>Thomas</surname>
                   </persName>
+               </person>
+               <person xml:id="hsl_person_id_2571">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Dalibor</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119228920</idno>
+               </person>
+               <person xml:id="hsl_person_id_2572" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Milada</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1511">Dalibor</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2573" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Dalibor</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1511">Dalibor</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2574" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Zdenék</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Zdenko</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1511">Dalibor</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2575">
+                  <persName type="main">
+                     <forename>Wenzel Adam von</forename>
+                     <surname>Drahenitz</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_2576">
+                  <persName type="main">
+                     <forename>König von Böhmen</forename>
+                     <surname>Vladislav II.</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Wladislav</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118634453</idno>
+               </person>
+               <person xml:id="hsl_person_id_2577" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Vladislav</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Wladislav</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1511">Dalibor</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
