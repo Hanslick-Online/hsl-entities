@@ -884,6 +884,7 @@
                <name type="character" ref="#hsl_person_id_834">Ortrud</name>
                <name type="character" ref="#hsl_person_id_835">Heinrich der Vogler</name>
                <name type="character" ref="#hsl_person_id_1126">Lohengrin</name>
+               <name type="character" ref="#hsl_person_id_2640">Elsa von Brabant</name>
             </bibl>
             <bibl xml:id="hsl_work_id_98">
                <title type="main">Linda di Chamounix</title>
@@ -7598,6 +7599,10 @@
                <author ref="#hsl_person_id_2000">
                   <persName>Vrchlický, Jaroslav</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_2628">Ludmila</name>
+               <name type="character" ref="#hsl_person_id_2630">Ivan</name>
+               <name type="character" ref="#hsl_person_id_2631">Svatava</name>
+               <name type="character" ref="#hsl_person_id_2632">Bořivoj</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1020">
                <title type="main">Die Feen, WWV32</title>
@@ -11243,12 +11248,32 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1526">
                <title type="main">Svatební Košile, op. 69</title>
-               <title type="alternative">The Spectre's Bride</title>
+               <title type="alternative">Die Geisterbraut / The Spectre's Bride</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
                <author ref="#hsl_person_id_2626">
                   <persName>Erben, Karel Jaromír</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1527">
+               <title type="main">Dimitrij, op. 64</title>
+               <title type="alternative">Dimitri</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+               <author ref="#hsl_person_id_2627">
+                  <persName>Červinková-Riegrová, Marie</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1528">
+               <title type="main">Jakobín, op. 84</title>
+               <title type="alternative">Die Jacobiner</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+               <author ref="#hsl_person_id_2627">
+                  <persName>Červinková-Riegrová, Marie</persName>
                </author>
             </bibl>
       </listBibl>
