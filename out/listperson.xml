@@ -893,6 +893,7 @@
                      <bibl n="hsl_work_id_1603">Streichquartett Nr. 2 in a-Moll, op. 51 Nr. 2</bibl>
                      <bibl n="hsl_work_id_1604">Streichquartett Nr. 3 in B-Dur, op. 67</bibl>
                      <bibl n="hsl_work_id_1605">Rhapsodie, op. 79 Nr. 2</bibl>
+                     <bibl n="hsl_work_id_1618">Klavierkonzert Nr. 2 in B-Dur, op. 83</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_42">
@@ -957,6 +958,7 @@
                      <bibl n="hsl_work_id_749">Lodoïska</bibl>
                      <bibl n="hsl_work_id_750">Faniska</bibl>
                      <bibl n="hsl_work_id_1407">Streichquartett</bibl>
+                     <bibl n="hsl_work_id_1617">Anacréon, ou L'amour fugitif</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_48">
@@ -25999,11 +26001,16 @@ Don Caesar</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/117201952</idno>
                </person>
-               <person xml:id="hsl_person_id_2718" role="fictional">
+               <person xml:id="hsl_person_id_2718">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Frederic</forename>
+                     <surname>Lamond</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Friedrich</forename>
+                     <surname>Lamond</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116662166</idno>
                </person>
                <person xml:id="hsl_person_id_2719">
                   <persName type="main">
@@ -26361,6 +26368,11 @@ Don Caesar</surname>
                      <surname>Rimsky-Korsakow</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118601067</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1619">Schecherasada, op. 35</bibl>
+                     <bibl n="hsl_work_id_1620">Sadko, op. 5</bibl>
+                     <bibl n="hsl_work_id_1621">Symphonie Nr. 2, op. 9</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_2760">
                   <persName type="main">
@@ -26368,6 +26380,42 @@ Don Caesar</surname>
                      <surname>Weingartner</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/11863027X</idno>
+               </person>
+               <person xml:id="hsl_person_id_2761" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Sadko</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/12346854X</idno>
+               </person>
+               <person xml:id="hsl_person_id_2762" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Antar</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1621">Symphonie Nr. 2, op. 9</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2763" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Gul-Nazar</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Gül-Nazar</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1621">Symphonie Nr. 2, op. 9</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2764">
+                  <persName type="main">
+                     <forename>Amédée</forename>
+                     <surname>Boutarel</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/115779582X</idno>
                </person>
             </listPerson>
          </div>
