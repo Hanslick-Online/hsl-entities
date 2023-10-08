@@ -2673,6 +2673,9 @@
                      <surname>Monaldi</surname>
                   </persName>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q59531771</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1684">Giuseppe Verdi und seine Werke</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_187">
                   <persName type="main">
@@ -2746,6 +2749,7 @@
                      <bibl n="hsl_work_id_1292">Die Entführung aus dem Serail, KV 384</bibl>
                      <bibl n="hsl_work_id_1372">Ave verum corpus, KV 618</bibl>
                      <bibl n="hsl_work_id_1641">Symphonie Nr. 35 in D-Dur, K385</bibl>
+                     <bibl n="hsl_work_id_1683">Serenade für Violine und Orchester in D-Dur, KV203</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_190">
@@ -12792,6 +12796,7 @@
                      <bibl n="hsl_work_id_1526">Svatební Košile, op. 69</bibl>
                      <bibl n="hsl_work_id_1527">Dimitrij, op. 64</bibl>
                      <bibl n="hsl_work_id_1528">Jakobín, op. 84</bibl>
+                     <bibl n="hsl_work_id_1685">Píseň bohatýrská, op. 111</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1266">
@@ -19527,14 +19532,10 @@
                </person>
                <person xml:id="hsl_person_id_1982">
                   <persName type="main">
-                     <forename/>
-                     <surname>Emil Von Reznicek</surname>
+                     <forename>Emil Nikolaus von</forename>
+                     <surname>Reznicek</surname>
                   </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Reznicek
-V. Reznicek</surname>
-                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118744798</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q550639</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1284">Donna Dianna</bibl>
@@ -19542,12 +19543,8 @@ V. Reznicek</surname>
                </person>
                <person xml:id="hsl_person_id_1983">
                   <persName type="main">
-                     <forename/>
-                     <surname>Agustín Moreto</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Agustín Moreto y Cavana</surname>
+                     <forename>Agustín</forename>
+                     <surname>Moreto</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118784846</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q399346</idno>
@@ -19578,6 +19575,9 @@ V. Reznicek</surname>
                      <forename/>
                      <surname>Perin</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1284">Donna Dianna</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1987" role="fictional">
                   <persName type="main">
@@ -22227,6 +22227,10 @@ Don Caesar</surname>
                <person xml:id="hsl_person_id_2254">
                   <persName type="main">
                      <forename>Luise</forename>
+                     <surname>Neumann</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Louise</forename>
                      <surname>Neumann</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/11696345X</idno>
@@ -25255,6 +25259,9 @@ Don Caesar</surname>
                      <surname>Sullivan</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118799371</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1688">The Mikado, or The Town of Titipu</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_2624">
                   <persName type="main">
@@ -27227,7 +27234,7 @@ Don Caesar</surname>
                   </persName>
                   <persName type="alternative">
                      <forename>Téodor de</forename>
-                     <surname>Wyzewa</surname>
+                     <surname>Wizewa</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/129582174</idno>
                   <listBibl type="authorOf">
@@ -27301,6 +27308,8 @@ Don Caesar</surname>
                   <idno type="GND">https://d-nb.info/gnd/11730235X</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1679">Erlebnisse mit Richard Wagner, Franz Liszt und vielen anderen Zeitgenossen</bibl>
+                     <bibl n="hsl_work_id_1681">Theodor Körner</bibl>
+                     <bibl n="hsl_work_id_1682">Meister Martin der Küfer und seine Gesellen</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2864">
@@ -27369,6 +27378,337 @@ Don Caesar</surname>
                      <surname>Weißheimer</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/1124854266</idno>
+               </person>
+               <person xml:id="hsl_person_id_2872">
+                  <persName type="main">
+                     <forename>Ludwig</forename>
+                     <surname>Bamberger</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118656961</idno>
+               </person>
+               <person xml:id="hsl_person_id_2873">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Wilhelmy</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_2874">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Rosenträger</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_2875" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Kurwenal</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Kurvenal</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_417">Tristan und Isolde, WWV90</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2876" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>König Marke</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_417">Tristan und Isolde, WWV90</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2877">
+                  <persName type="main">
+                     <forename>Josef</forename>
+                     <surname>Standhartner</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117208914</idno>
+               </person>
+               <person xml:id="hsl_person_id_2878">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Rochow</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_2879">
+                  <persName type="main">
+                     <forename>Eliza</forename>
+                     <surname>Wille</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118807420</idno>
+               </person>
+               <person xml:id="hsl_person_id_2880">
+                  <persName type="main">
+                     <forename>Franz</forename>
+                     <surname>Pfistermeister</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116167149</idno>
+               </person>
+               <person xml:id="hsl_person_id_2881">
+                  <persName type="main">
+                     <forename>Joseph</forename>
+                     <surname>Kroll</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/130027952</idno>
+               </person>
+               <person xml:id="hsl_person_id_2882">
+                  <persName type="main">
+                     <forename>August</forename>
+                     <surname>Schricker</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11706100X</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1682">Meister Martin der Küfer und seine Gesellen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2883">
+                  <persName type="main">
+                     <forename>Louise</forename>
+                     <surname>Otto-Peters</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118590901</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1681">Theodor Körner</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2884" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Samiel</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_236">Der Freischütz, J277</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2885" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Max</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_236">Der Freischütz, J277</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2886" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Agathe</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_236">Der Freischütz, J277</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2887" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ännchen</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Aennchen</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_236">Der Freischütz, J277</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2888" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Eremit</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_236">Der Freischütz, J277</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2889" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Kuno</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_236">Der Freischütz, J277</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2890" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ottokar</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_236">Der Freischütz, J277</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2891">
+                  <persName type="main">
+                     <forename>Julius</forename>
+                     <surname>Spielmann</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117484431</idno>
+               </person>
+               <person xml:id="hsl_person_id_2892" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Kilian</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_236">Der Freischütz, J277</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2893">
+                  <persName type="main">
+                     <forename>Elisa</forename>
+                     <surname>Elizza</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116448016</idno>
+               </person>
+               <person xml:id="hsl_person_id_2894" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Brautjungfer</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_236">Der Freischütz, J277</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2895">
+                  <persName type="main">
+                     <forename>Jean T'Serclaes de</forename>
+                     <surname>Tilly</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117384224</idno>
+               </person>
+               <person xml:id="hsl_person_id_2896">
+                  <persName type="main">
+                     <forename>Carl Wilhelm</forename>
+                     <surname>Gropius</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11686625X</idno>
+               </person>
+               <person xml:id="hsl_person_id_2897">
+                  <persName type="main">
+                     <forename>Maurice</forename>
+                     <surname>Schlesinger</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11732633X</idno>
+               </person>
+               <person xml:id="hsl_person_id_2898">
+                  <persName type="main">
+                     <forename>A.</forename>
+                     <surname>Jullien</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_2899">
+                  <persName type="main">
+                     <forename>John</forename>
+                     <surname>Braham</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116395001</idno>
+               </person>
+               <person xml:id="hsl_person_id_2900">
+                  <persName type="main">
+                     <forename>Catherine</forename>
+                     <surname>Stephens</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1212223640</idno>
+               </person>
+               <person xml:id="hsl_person_id_2901">
+                  <persName type="main">
+                     <forename>Henry Rowley</forename>
+                     <surname>Bishop</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116195398</idno>
+               </person>
+               <person xml:id="hsl_person_id_2902">
+                  <persName type="main">
+                     <forename>Kaiserin von Österreich</forename>
+                     <surname>Karolina Augusta</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119189747</idno>
+               </person>
+               <person xml:id="hsl_person_id_2903" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Maria von Nazaret</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118640909</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_820">Bibel</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2904">
+                  <persName type="main">
+                     <forename>August</forename>
+                     <surname>Ludwig</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116649429</idno>
+               </person>
+               <person xml:id="hsl_person_id_2905" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Wer sich die Musik erkiest</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_2906">
+                  <persName type="main">
+                     <forename>Ludwig</forename>
+                     <surname>Holthof</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116969628</idno>
+               </person>
+               <person xml:id="hsl_person_id_2907">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Bernard von Clairvaux</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118509810</idno>
+               </person>
+               <person xml:id="hsl_person_id_2908">
+                  <persName type="main">
+                     <forename>Algernon</forename>
+                     <surname>Ashton</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11636128X</idno>
+               </person>
+               <person xml:id="hsl_person_id_2909">
+                  <persName type="main">
+                     <forename>Johann Baptist</forename>
+                     <surname>Krall</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/143936468</idno>
+               </person>
+               <person xml:id="hsl_person_id_2910">
+                  <persName type="main">
+                     <forename>Albert</forename>
+                     <surname>Soubies</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117484318</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1689">Histoire de la musique Bohème</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2911">
+                  <persName type="main">
+                     <forename>König von Lydien</forename>
+                     <surname>Krösus</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119505266</idno>
+               </person>
+               <person xml:id="hsl_person_id_2912">
+                  <persName type="main">
+                     <forename>Joseph</forename>
+                     <surname>Schreyvogel</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Carl August West</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119368579</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1690">Donna Diana oder Stolz und Liebe</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

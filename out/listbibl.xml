@@ -683,6 +683,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_74">
                <title type="main">Otello</title>
+               <title type="alternative">Othello</title>
                <author ref="#hsl_person_id_37">
                   <persName>Boito, Arrigo</persName>
                </author>
@@ -748,6 +749,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_145">
                <title type="main">Nabucco</title>
+               <title type="alternative">Nabuco</title>
                <author ref="#hsl_person_id_335">
                   <persName>Solera, Temistocle</persName>
                </author>
@@ -2226,6 +2228,15 @@
                   <persName>Kind, Johann Friedrich</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1263">Kaspar</name>
+               <name type="character" ref="#hsl_person_id_2884">Samiel</name>
+               <name type="character" ref="#hsl_person_id_2885">Max</name>
+               <name type="character" ref="#hsl_person_id_2886">Agathe</name>
+               <name type="character" ref="#hsl_person_id_2887">Ännchen</name>
+               <name type="character" ref="#hsl_person_id_2888">Eremit</name>
+               <name type="character" ref="#hsl_person_id_2889">Kuno</name>
+               <name type="character" ref="#hsl_person_id_2890">Ottokar</name>
+               <name type="character" ref="#hsl_person_id_2892">Kilian</name>
+               <name type="character" ref="#hsl_person_id_2894">Brautjungfer</name>
             </bibl>
             <bibl xml:id="hsl_work_id_237">
                <title type="main">Der fliegende Holländer, WWV63</title>
@@ -3534,6 +3545,8 @@
                </author>
                <name type="character" ref="#hsl_person_id_1025">Tristan</name>
                <name type="character" ref="#hsl_person_id_1710">Isolde</name>
+               <name type="character" ref="#hsl_person_id_2875">Kurwenal</name>
+               <name type="character" ref="#hsl_person_id_2876">König Marke</name>
             </bibl>
             <bibl xml:id="hsl_work_id_418">
                <title type="main">Der Ring des Nibelungen, WWV86</title>
@@ -6128,6 +6141,7 @@
                <name type="character" ref="#hsl_person_id_1706">Abinoam</name>
                <name type="character" ref="#hsl_person_id_2180">Adam</name>
                <name type="character" ref="#hsl_person_id_2818">Josef</name>
+               <name type="character" ref="#hsl_person_id_2903">Maria von Nazaret</name>
             </bibl>
             <bibl xml:id="hsl_work_id_821">
                <title type="main">Ève</title>
@@ -9622,13 +9636,15 @@
             <bibl xml:id="hsl_work_id_1284">
                <title type="main">Donna Dianna</title>
                <author ref="#hsl_person_id_1982">
-                  <persName>Emil Von Reznicek</persName>
+                  <persName>Reznicek, Emil Nikolaus von</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1986">Perin</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1286">
                <title type="main">El desdén con el desdén</title>
+               <title type="alternative">El Desden con el Desden</title>
                <author ref="#hsl_person_id_1983">
-                  <persName>Agustín Moreto</persName>
+                  <persName>Moreto, Agustín</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1287">
@@ -12364,6 +12380,69 @@
                <title type="main">Wagner, wie ich ihn kannte</title>
                <author ref="#hsl_person_id_2866">
                   <persName>Praeger, Ferdinand</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1681">
+               <title type="main">Theodor Körner</title>
+               <author ref="#hsl_person_id_2863">
+                  <persName>Weißheimer, Wendelin</persName>
+               </author>
+               <author ref="#hsl_person_id_2883">
+                  <persName>Otto-Peters, Louise</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1682">
+               <title type="main">Meister Martin der Küfer und seine Gesellen</title>
+               <title type="alternative">Meister Martin und seine Gesellen</title>
+               <author ref="#hsl_person_id_2863">
+                  <persName>Weißheimer, Wendelin</persName>
+               </author>
+               <author ref="#hsl_person_id_2882">
+                  <persName>Schricker, August</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1683">
+               <title type="main">Serenade für Violine und Orchester in D-Dur, KV203</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1684">
+               <title type="main">Giuseppe Verdi und seine Werke</title>
+               <author ref="#hsl_person_id_186">
+                  <persName>Monaldi, Gino</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1685">
+               <title type="main">Píseň bohatýrská, op. 111</title>
+               <title type="alternative">Heldenlied / Piseň bohatyrská</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1686">
+               <title type="main">The Monthly Musical Record</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1687">
+               <title type="main">Musical Opinion</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1688">
+               <title type="main">The Mikado, or The Town of Titipu</title>
+               <title type="alternative">Der Mikado</title>
+               <author ref="#hsl_person_id_2623">
+                  <persName>Sullivan, Arthur</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1689">
+               <title type="main">Histoire de la musique Bohème</title>
+               <author ref="#hsl_person_id_2910">
+                  <persName>Soubies, Albert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1690">
+               <title type="main">Donna Diana oder Stolz und Liebe</title>
+               <author ref="#hsl_person_id_2912">
+                  <persName>Schreyvogel, Joseph</persName>
                </author>
             </bibl>
       </listBibl>
