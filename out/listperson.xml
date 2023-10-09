@@ -142,6 +142,10 @@
                      <forename>Josef</forename>
                      <surname>Staudigl</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Joseph</forename>
+                     <surname>Staudigl</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/117223298</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q87496</idno>
                </person>
@@ -2629,7 +2633,7 @@
                      <surname>Mayerhofer</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
+                     <forename>Karl</forename>
                      <surname>Mayrhofer / Meyerhofer</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116964251</idno>
@@ -19588,16 +19592,18 @@
                      <forename/>
                      <surname>Don Louis</surname>
                   </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Don Luis</surname>
-                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1284">Donna Diana</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1988" role="fictional">
                   <persName type="main">
                      <forename/>
                      <surname>Don Gaston</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1284">Donna Diana</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1989" role="fictional">
                   <persName type="main">
@@ -19621,12 +19627,6 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_348">Fidelio, op. 72</bibl>
                   </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_1991" role="fictional">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Herr Naval</surname>
-                  </persName>
                </person>
                <person xml:id="hsl_person_id_1992">
                   <persName type="main">
@@ -27779,11 +27779,129 @@
                      <bibl n="hsl_work_id_1284">Donna Diana</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2920" role="fictional">
+               <person xml:id="hsl_person_id_2920">
+                  <persName type="main">
+                     <forename>Ignaz von</forename>
+                     <surname>Plener</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118595016</idno>
+               </person>
+               <person xml:id="hsl_person_id_2921">
+                  <persName type="main">
+                     <forename>Ottilie</forename>
+                     <surname>Fellwock</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/132390116</idno>
+               </person>
+               <person xml:id="hsl_person_id_2922">
+                  <persName type="main">
+                     <forename>Emil</forename>
+                     <surname>Scaria</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117088218</idno>
+               </person>
+               <person xml:id="hsl_person_id_2923">
+                  <persName type="main">
+                     <forename>Therese</forename>
+                     <surname>Boschetti</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1050421698</idno>
+               </person>
+               <person xml:id="hsl_person_id_2924">
+                  <persName type="main">
+                     <forename>Julius</forename>
+                     <surname>Stern</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1012743764</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1694">Fünfzig Jahre Hoftheater</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2925">
+                  <persName type="main">
+                     <forename>Rudolf</forename>
+                     <surname>Lothar</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119545063</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1694">Fünfzig Jahre Hoftheater</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2926">
+                  <persName type="main">
+                     <forename>Karl von</forename>
+                     <surname>Lanckoronski-Brzezie</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/130216569</idno>
+               </person>
+               <person xml:id="hsl_person_id_2927">
+                  <persName type="main">
+                     <forename>Anton Stephan von</forename>
+                     <surname>Martini</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1284215512</idno>
+               </person>
+               <person xml:id="hsl_person_id_2928">
+                  <persName type="main">
+                     <forename>Amalia</forename>
+                     <surname>Ferraris</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1240344848</idno>
+               </person>
+               <person xml:id="hsl_person_id_2929">
+                  <persName type="main">
+                     <forename>Georg Alexander von</forename>
+                     <surname>Esterhazy</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117513067</idno>
+               </person>
+               <person xml:id="hsl_person_id_2930">
+                  <persName type="main">
+                     <forename>Carl von</forename>
+                     <surname>Hügel</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11894343X</idno>
+               </person>
+               <person xml:id="hsl_person_id_2931">
+                  <persName type="main">
+                     <forename>Anna</forename>
+                     <surname>Zerr</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116983442</idno>
+               </person>
+               <person xml:id="hsl_person_id_2932">
+                  <persName type="main">
+                     <forename>Karl</forename>
+                     <surname>Formes</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116662727</idno>
+               </person>
+               <person xml:id="hsl_person_id_2934">
+                  <persName type="main">
+                     <forename>C. M.</forename>
+                     <surname>Wolf</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_2935">
+                  <persName type="main">
+                     <forename>Maximilian in</forename>
+                     <surname>Bayern</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118967592</idno>
+               </person>
+               <person xml:id="hsl_person_id_2936">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Crispinus</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1075059364</idno>
+               </person>
+               <person xml:id="hsl_person_id_2938">
+                  <persName type="main">
+                     <forename>Johann Franz</forename>
+                     <surname>Kempen von Fichtenstamm</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/126717397</idno>
                </person>
             </listPerson>
          </div>
