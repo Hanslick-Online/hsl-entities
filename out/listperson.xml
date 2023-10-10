@@ -3643,7 +3643,7 @@
                      <forename>Franz</forename>
                      <surname>Schubert</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/103805850</idno>
+                  <idno type="GND">https://d-nb.info/gnd/118610961</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q322989</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3">Oktett in F-Dur, D803</bibl>
@@ -12601,7 +12601,7 @@
                      <surname>Dumba</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename>Nikolas</forename>
+                     <forename>Nikolaus / Nikolas</forename>
                      <surname>Dumba</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/11881740X</idno>
@@ -23162,6 +23162,10 @@
                      <forename>Josef von</forename>
                      <surname>Spaun</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Joseph von</forename>
+                     <surname>Spaun</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/1019704578</idno>
                </person>
                <person xml:id="hsl_person_id_2371">
@@ -23289,6 +23293,10 @@
                      <forename>George</forename>
                      <surname>Grove</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Georges</forename>
+                     <surname>Grove</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118719025</idno>
                </person>
                <person xml:id="hsl_person_id_2387">
@@ -23359,12 +23367,16 @@
                      <forename>Jakob Eduard</forename>
                      <surname>Schmölzer</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Jacob</forename>
+                     <surname>Schmölzer</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/11860936X</idno>
                </person>
                <person xml:id="hsl_person_id_2396" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Ludmilla von Lüdenstein</surname>
+                     <surname>Ludmilla</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1397">Die Verschworenen, D787</bibl>
@@ -23373,7 +23385,7 @@
                <person xml:id="hsl_person_id_2397" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Helene von Reisenberg</surname>
+                     <surname>Helene</surname>
                   </persName>
                   <persName type="alternative">
                      <forename/>
@@ -23473,6 +23485,10 @@
                </person>
                <person xml:id="hsl_person_id_2408" role="fictional">
                   <persName type="main">
+                     <forename/>
+                     <surname>Düval</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename/>
                      <surname>Duval</surname>
                   </persName>
@@ -27902,6 +27918,12 @@
                      <surname>Kempen von Fichtenstamm</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/126717397</idno>
+               </person>
+               <person xml:id="hsl_person_id_2939" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
                </person>
             </listPerson>
          </div>
