@@ -3288,8 +3288,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_380">
-               <title type="main">La Favorita</title>
-               <title type="alternative">Favorite / Die Favoritin</title>
+               <title type="main">La Favorite</title>
+               <title type="alternative">La Favorita / Die Favoritin</title>
                <author ref="#hsl_person_id_63">
                   <persName>Donizetti, Gaetano</persName>
                </author>
@@ -3301,7 +3301,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_503">Fernand</name>
                <name type="character" ref="#hsl_person_id_2566">Balthazar</name>
-               <name type="character" ref="#hsl_person_id_2567">Alphonse XI</name>
+               <name type="character" ref="#hsl_person_id_2567">Alphonse XI.</name>
                <name type="character" ref="#hsl_person_id_2568">Lèonor de Guzman</name>
             </bibl>
             <bibl xml:id="hsl_work_id_381">
@@ -3726,7 +3726,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_453">
-               <title type="main">Czar und Zimmermann, LoWV38</title>
+               <title type="main">Zar und Zimmermann, LoWV38</title>
+               <title type="alternative">Czar und Zimmermann</title>
                <author ref="#hsl_person_id_165">
                   <persName>Lortzing, Albert</persName>
                </author>
@@ -9232,6 +9233,12 @@
                <author ref="#hsl_person_id_1298">
                   <persName>Bizet, Georges</persName>
                </author>
+               <author ref="#hsl_person_id_2061">
+                  <persName>Halévy, Ludovic</persName>
+               </author>
+               <author ref="#hsl_person_id_2062">
+                  <persName>Meilhac, Henri</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_1884">Carmen</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1226">
@@ -9606,6 +9613,7 @@
                <author ref="#hsl_person_id_2549">
                   <persName>Marie</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_2942">Tonio</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1280">
                <title type="main">Rule, Britannia!</title>
@@ -10944,7 +10952,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1483">
-               <title type="main">Das Zeitalter des Kaisers WIlhelm</title>
+               <title type="main">Das Zeitalter des Kaisers Wilhelm</title>
                <author ref="#hsl_person_id_2518">
                   <persName>Oncken, Hermann</persName>
                </author>
@@ -11020,6 +11028,7 @@
                <author ref="#hsl_person_id_2026">
                   <persName>Romani, Felice</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_2941">Anna Bolena</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1494">
                <title type="main">Il diluvio universale</title>
@@ -11103,6 +11112,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1503">
                <title type="main">Il furioso all'isola di San Domingo</title>
+               <title type="alternative">Der Wahnsinnige auf der Insel Domingo</title>
                <author ref="#hsl_person_id_63">
                   <persName>Donizetti, Gaetano</persName>
                </author>
@@ -11167,7 +11177,7 @@
                <title type="main">Alla mostra Donizettiana a Bergamo. Il centenario di Gaetano Donizetti a Bergamo</title>
             </bibl>
             <bibl xml:id="hsl_work_id_1511">
-               <title type="main">Dalibor</title>
+               <title type="main">Dalibor, JB1:101</title>
                <author ref="#hsl_person_id_1617">
                   <persName>Smetana, Bedřich</persName>
                </author>
@@ -12485,6 +12495,9 @@
                <author ref="#hsl_person_id_1283">
                   <persName>Hellmesberger, Joseph</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1696">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>
