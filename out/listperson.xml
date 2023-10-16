@@ -909,6 +909,7 @@
                      <bibl n="hsl_work_id_1660">Mondnacht, WoO21</bibl>
                      <bibl n="hsl_work_id_1661">Feldeinsamkeit, op. 86 Nr. 2</bibl>
                      <bibl n="hsl_work_id_1662">Junge Liebe I</bibl>
+                     <bibl n="hsl_work_id_1699">Streichquintett Nr. 1 in F-Dur, op. 88</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_42">
@@ -1618,6 +1619,7 @@
                      <bibl n="hsl_work_id_1222">Sapho, CG1</bibl>
                      <bibl n="hsl_work_id_1223">Philémon et Baucis, CG5</bibl>
                      <bibl n="hsl_work_id_1224">La nonne sanglante, CG2</bibl>
+                     <bibl n="hsl_work_id_1698">La Reine de Saba</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_336">
@@ -26784,7 +26786,7 @@
                </person>
                <person xml:id="hsl_person_id_2784">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>Jenny</forename>
                      <surname>Kolischer</surname>
                   </persName>
                </person>
@@ -27133,6 +27135,10 @@
                      <forename>Adolf</forename>
                      <surname>Stahr</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Adolph</forename>
+                     <surname>Stahr</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/11875257X</idno>
                </person>
                <person xml:id="hsl_person_id_2828">
@@ -27198,6 +27204,10 @@
                <person xml:id="hsl_person_id_2836">
                   <persName type="main">
                      <forename>Adolf</forename>
+                     <surname>Exner</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Adolph</forename>
                      <surname>Exner</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/11896061X</idno>
@@ -28066,6 +28076,24 @@
                      <forename>?</forename>
                      <surname>Walter</surname>
                   </persName>
+               </person>
+               <person xml:id="hsl_person_id_2944" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Joseph</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_643">Joseph</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2945" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Jacob</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_643">Joseph</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
