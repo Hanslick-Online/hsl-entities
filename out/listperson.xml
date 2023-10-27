@@ -72,6 +72,7 @@
                      <bibl n="hsl_work_id_1083">Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Ästhetik der Tonkunst</bibl>
                      <bibl n="hsl_work_id_1487">Aus Briefen von Billroth, I-VI</bibl>
                      <bibl n="hsl_work_id_1520">Suite. Aufsätze über Musik und Musiker</bibl>
+                     <bibl n="hsl_work_id_1736">Richard Wagner, und seine neueste Oper "Tannhäuser". Eine Beurtheilung</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2">
@@ -99,6 +100,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q44862</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_674">Tannhäuser. Zukunftsposse mit vergangener Musik und gegenwärtigen Gruppierungen</bibl>
+                     <bibl n="hsl_work_id_1722">Eulenspiegel, oder Schabernack über Schabernack</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_6">
@@ -2597,6 +2599,9 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_164">La chasse du jeune Henri</bibl>
                      <bibl n="hsl_work_id_643">Joseph</bibl>
+                     <bibl n="hsl_work_id_1721">Uthal</bibl>
+                     <bibl n="hsl_work_id_1727">Ariodant</bibl>
+                     <bibl n="hsl_work_id_1728">L'irato, ou L'emporté</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_180">
@@ -2781,6 +2786,7 @@
                      <bibl n="hsl_work_id_1372">Ave verum corpus, KV 618</bibl>
                      <bibl n="hsl_work_id_1641">Symphonie Nr. 35 in D-Dur, K385</bibl>
                      <bibl n="hsl_work_id_1683">Serenade für Violine und Orchester in D-Dur, KV203</bibl>
+                     <bibl n="hsl_work_id_1720">Symphonie Nr. 38 in D-Dur, KV504</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_190">
@@ -3830,6 +3836,7 @@
                      <bibl n="hsl_work_id_1297">Schlummerlied, op. 124 Nr. 6</bibl>
                      <bibl n="hsl_work_id_1305">Streichquartett in A-Dur, op. 41 Nr. 3</bibl>
                      <bibl n="hsl_work_id_1646">Hermann und Dorothea, op. 136</bibl>
+                     <bibl n="hsl_work_id_1723">Bilder aus Osten, op. 66</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_283">
@@ -5275,7 +5282,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Odin</surname>
+                     <surname>Wotan / Odin</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118769715</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q43610</idno>
@@ -5315,6 +5322,7 @@
                      <bibl n="hsl_work_id_968">Symphonie Nr. 7 in E-Dur, WAB107</bibl>
                      <bibl n="hsl_work_id_969">Symphonie Nr. 3 in d-Moll, WAB103</bibl>
                      <bibl n="hsl_work_id_984">Psalm 150, WAB38</bibl>
+                     <bibl n="hsl_work_id_1725">Symphonie Nr. 4 in Es-Dur, WAB104</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_751">
@@ -5382,6 +5390,8 @@
                      <bibl n="hsl_work_id_529">Die Ruinen von Athen, op. 113</bibl>
                      <bibl n="hsl_work_id_1004">Das Dorf im Gebirge. Schauspiel mit Gesang in 2 Akten</bibl>
                      <bibl n="hsl_work_id_1405">Der Spiegelritter, D11</bibl>
+                     <bibl n="hsl_work_id_1733">Die Stricknadeln</bibl>
+                     <bibl n="hsl_work_id_1734">Menschenhaß und Reue</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_426" role="fictional">
@@ -16956,6 +16966,11 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118777149</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q637353</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1731">Der Evangelimann, op. 45</bibl>
+                     <bibl n="hsl_work_id_1735">Urvasi</bibl>
+                     <bibl n="hsl_work_id_1737">Miszellen</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1695">
                   <persName type="main">
@@ -28959,6 +28974,292 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116718250</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q95207671</idno>
+               </person>
+               <person xml:id="hsl_person_id_2969" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Tito Vespasiano</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_934">La clemenza di Tito, KV621</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2970">
+                  <persName type="main">
+                     <forename>Eduard</forename>
+                     <surname>Schütt</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116564091</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1719">Klavierkonzert Nr. 2 in f-Moll, op. 47</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2971" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Siméon</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_643">Joseph</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2972" role="fictional">
+                  <persName type="main">
+                     <forename>Till</forename>
+                     <surname>Eulenspiegel</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118531360</idno>
+               </person>
+               <person xml:id="hsl_person_id_2973">
+                  <persName type="main">
+                     <forename>Adolf</forename>
+                     <surname>Müller senior</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/103789928</idno>
+               </person>
+               <person xml:id="hsl_person_id_2974">
+                  <persName type="main">
+                     <forename>Johann Philipp Samuel</forename>
+                     <surname>Schmidt</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/103118187</idno>
+               </person>
+               <person xml:id="hsl_person_id_2975" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Abu Seid von Serug</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_2976">
+                  <persName type="main">
+                     <forename>Friedrich von</forename>
+                     <surname>Hausegger</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118546996</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1724">Die Musik als Ausdruck</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2977">
+                  <persName type="main">
+                     <forename>Marcel</forename>
+                     <surname>Hébert</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1055124896</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1726">Le Sentiment religieux dans l'œuvre de Richard Wagner</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2978">
+                  <persName type="main">
+                     <forename>Anna</forename>
+                     <surname>Brunnemann</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Brunemann</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116777575</idno>
+               </person>
+               <person xml:id="hsl_person_id_2979">
+                  <persName type="main">
+                     <forename>August</forename>
+                     <surname>Schupp</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117310867</idno>
+               </person>
+               <person xml:id="hsl_person_id_2980">
+                  <persName type="main">
+                     <forename>Maurice</forename>
+                     <surname>Kufferath</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116599030</idno>
+               </person>
+               <person xml:id="hsl_person_id_2981">
+                  <persName type="main">
+                     <forename>Édouard</forename>
+                     <surname>Schuré</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118762699</idno>
+               </person>
+               <person xml:id="hsl_person_id_2982">
+                  <persName type="main">
+                     <forename>Hugo</forename>
+                     <surname>Dinger</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116137517</idno>
+               </person>
+               <person xml:id="hsl_person_id_2983">
+                  <persName type="main">
+                     <forename>Georges</forename>
+                     <surname>Noufflard</surname>
+                  </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q18533786</idno>
+               </person>
+               <person xml:id="hsl_person_id_2984">
+                  <persName type="main">
+                     <forename>Adolf</forename>
+                     <surname>Stoecker</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Stöcker</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118618393</idno>
+               </person>
+               <person xml:id="hsl_person_id_2985">
+                  <persName type="main">
+                     <forename>Marie</forename>
+                     <surname>Krebs</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116404078</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1906325</idno>
+               </person>
+               <person xml:id="hsl_person_id_2986">
+                  <persName type="main">
+                     <forename>Pasquale</forename>
+                     <surname>Anfossi</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118846922</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q266985</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1730">Il curioso indiscreto</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2987">
+                  <persName type="main">
+                     <forename>Valentin</forename>
+                     <surname>Adamberger</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/122709020</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q163061</idno>
+               </person>
+               <person xml:id="hsl_person_id_2988">
+                  <persName type="main">
+                     <forename>Leopold Florian</forename>
+                     <surname>Meissner</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Meißner</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118938673</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1732">Aus den Papieren eines Polizeikommissärs. Wiener Sittenbilder</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2989" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Johannes Freudhofer</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1731">Der Evangelimann, op. 45</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2990" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Mathias Freudhofer</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1731">Der Evangelimann, op. 45</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2991" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Martha</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1731">Der Evangelimann, op. 45</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2992" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Friedrich Engel</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1731">Der Evangelimann, op. 45</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2993">
+                  <persName type="main">
+                     <forename>August Wilhelm</forename>
+                     <surname>Iffland</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118555324</idno>
+               </person>
+               <person xml:id="hsl_person_id_2994">
+                  <persName type="main">
+                     <forename>Friedrich Ludwig</forename>
+                     <surname>Schröder</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118610813</idno>
+               </person>
+               <person xml:id="hsl_person_id_2995" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Magdalena</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1731">Der Evangelimann, op. 45</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2996" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Xaver Zitterbart</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1731">Der Evangelimann, op. 45</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_2997">
+                  <persName type="main">
+                     <forename>Ernest Van</forename>
+                     <surname>Dyck</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116262028</idno>
+               </person>
+               <person xml:id="hsl_person_id_2998">
+                  <persName type="main">
+                     <forename>Paula</forename>
+                     <surname>Neusser-Mark</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116985194</idno>
+               </person>
+               <person xml:id="hsl_person_id_2999">
+                  <persName type="main">
+                     <forename>Gisela von</forename>
+                     <surname>Ruttersheim</surname>
+                  </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q56245299</idno>
+               </person>
+               <person xml:id="hsl_person_id_3000">
+                  <persName type="main">
+                     <forename>Carl Friedrich</forename>
+                     <surname>Weitzmann</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119189275</idno>
+               </person>
+               <person xml:id="hsl_person_id_3001">
+                  <persName type="main">
+                     <forename>Marie</forename>
+                     <surname>Seebach</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118760394</idno>
+               </person>
+               <person xml:id="hsl_person_id_3002">
+                  <persName type="main">
+                     <forename>Gottfried August</forename>
+                     <surname>Bürger</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118517104</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1738">Lenore</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
