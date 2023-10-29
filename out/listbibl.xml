@@ -427,6 +427,7 @@
                <name type="character" ref="#hsl_person_id_663">Tannhäuser</name>
                <name type="character" ref="#hsl_person_id_667">Venus</name>
                <name type="character" ref="#hsl_person_id_671">Wolfram von Eschinbach</name>
+               <name type="character" ref="#hsl_person_id_3062">Walther von der Vogelweide</name>
             </bibl>
             <bibl xml:id="hsl_work_id_41">
                <title type="main">Tancredi</title>
@@ -4504,6 +4505,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_568">
                <title type="main">Les francs-juges, op. 3</title>
+               <title type="alternative">Die Vehmrichter</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
                </author>
@@ -4766,12 +4768,14 @@
             </bibl>
             <bibl xml:id="hsl_work_id_609">
                <title type="main">Szenen aus Goethes Faust, WoO3</title>
+               <title type="alternative">Faustmusik / Faust-Musik</title>
                <author ref="#hsl_person_id_100">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_3070">Doctor Marianus</name>
             </bibl>
             <bibl xml:id="hsl_work_id_610">
                <title type="main">Klavierquartett in Es-Dur, op. 47</title>
@@ -7279,7 +7283,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_960">
-               <title type="main">Klaviertrio in B-Dur, op. 99, D 898</title>
+               <title type="main">Klaviertrio in B-Dur, D898</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -7587,6 +7591,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1005">
                <title type="main">Gott erhalte Franz den Kaiser, Hob.XXVIa:43</title>
+               <title type="alternative">Kaiserlied</title>
                <author ref="#hsl_person_id_114">
                   <persName>Haydn, Joseph</persName>
                </author>
@@ -9755,7 +9760,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1299">
-               <title type="main">Klaviersonate Nr. 21, B-Dur, D 960</title>
+               <title type="main">Klaviersonate Nr. 21 in B-Dur, D960</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -12897,6 +12902,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1757">
                <title type="main">Nocturne in G-Dur, op. 37 Nr. 2</title>
+               <author ref="#hsl_person_id_48">
+                  <persName>Chopin, Frédéric</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1758">
                <title type="main">Adam und Eva oder Der Erschaffene, Gefallene und Aufgerichtete Mensch</title>
@@ -12942,6 +12950,222 @@
                <title type="main">Per pietà, non ricercate, KV420</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1765">
+               <title type="main">Symphonie Nr. 92 in G-Dur, Hob. I:92</title>
+               <title type="alternative">Oxford</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1766">
+               <title type="main">Messe in d-Moll, Hob. XXII:11</title>
+               <title type="alternative">Nelson-Messe</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1767">
+               <title type="main">Symphonie Nr. 45 in fis-Moll, Hob. I:45</title>
+               <title type="alternative">Abschiedssymphonie</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1768">
+               <title type="main">L’anima del filosofo ossia Orfeo ed Euridice, Hob. XXVIII:13</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <author ref="#hsl_person_id_3043">
+                  <persName>Badini, Carlo Francesco</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1769">
+               <title type="main">Armida, Hob. XXVIII:12</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <author ref="#hsl_person_id_3044">
+                  <persName>Porta, Nunziato</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1770">
+               <title type="main">Streichquartett in G-Dur, Hob. III:81</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1771">
+               <title type="main">Cellosonate Nr. 4 in C-Dur, op.102 Nr.1</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1772">
+               <title type="main">7 Variationen über "Bei Männern, welche Liebe fühlen", WoO46</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1773">
+               <title type="main">Joseph Haydn's sämmtliche Quartette. Neue vollständige Ausgabe nach den Originalen revidirt</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <author ref="#hsl_person_id_3052">
+                  <persName>Herrmann, Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1774">
+               <title type="main">Ouvertüre</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_753">
+                  <persName>Gassmann, Florian Leopold</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1775">
+               <title type="main">Streichquartett Nr. 12 in F-Dur, op. 96</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1776">
+               <title type="main">Streichquintett Nr. 3 in Es-Dur, op. 97</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1777">
+               <title type="main">Symphonie Nr. 1 in c-Moll, B9</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1778">
+               <title type="main">Symphonie Nr. 2 in B-Dur, op. 4</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1779">
+               <title type="main">Symphonie Nr. 3 in Es-Dur, op. 10</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1780">
+               <title type="main">Klavierkonzert Nr. 5 in Es-Dur, op. 94</title>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1781">
+               <title type="main">Walther von der Vogelweide</title>
+               <author ref="#hsl_person_id_3055">
+                  <persName>Kauders, Albert</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_3056">Ritter Kuenring</name>
+               <name type="character" ref="#hsl_person_id_3057">Walther von der Vogelweide</name>
+               <name type="character" ref="#hsl_person_id_3060">Reinmar</name>
+               <name type="character" ref="#hsl_person_id_3061">Hilgunde</name>
+               <name type="character" ref="#hsl_person_id_3063">Herzog von Mödling</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1782">
+               <title type="main">Die Kreuzfahrer</title>
+               <author ref="#hsl_person_id_925">
+                  <persName>Kotzebue, August von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1783">
+               <title type="main">8 Kinderlieder, op. 37</title>
+               <author ref="#hsl_person_id_234">
+                  <persName>Reinecke, Carl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1784">
+               <title type="main">Impromptu über ein Motiv aus Schumann's Manfred, op. 66</title>
+               <title type="alternative">Alpensee-Phantasie</title>
+               <author ref="#hsl_person_id_234">
+                  <persName>Reinecke, Carl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1785">
+               <title type="main">Nussknacker und Mausekönig, op. 46</title>
+               <title type="alternative">Nußknacker und Mausekönig</title>
+               <author ref="#hsl_person_id_234">
+                  <persName>Reinecke, Carl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1786">
+               <title type="main">Ouverture zu Calderon's Dame Kobold, op. 51</title>
+               <author ref="#hsl_person_id_234">
+                  <persName>Reinecke, Carl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1787">
+               <title type="main">Alladin, op. 70</title>
+               <author ref="#hsl_person_id_234">
+                  <persName>Reinecke, Carl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1788">
+               <title type="main">König Manfred, op. 93</title>
+               <author ref="#hsl_person_id_234">
+                  <persName>Reinecke, Carl</persName>
+               </author>
+               <author ref="#hsl_person_id_3067">
+                  <persName>Roeber, Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1789">
+               <title type="main">Klavierkonzert Nr. 27 in B-Dur, KV595</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1790">
+               <title type="main">Klavierkonzert Nr. 26 in D-Dur, KV537</title>
+               <title type="alternative">Krönungskoncert</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1791">
+               <title type="main">Zur Wiederbelebung der Mozart'schen Clavier-Concerte</title>
+               <author ref="#hsl_person_id_234">
+                  <persName>Reinecke, Carl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1792">
+               <title type="main">Ratschläge und Winke für die musikalische Jugend</title>
+               <author ref="#hsl_person_id_234">
+                  <persName>Reinecke, Carl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1793">
+               <title type="main">Symphonie Nr. 3 in g-Moll, op. 227</title>
+               <author ref="#hsl_person_id_234">
+                  <persName>Reinecke, Carl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1794">
+               <title type="main">Symphonie Nr.1 in A-Dur, op. 79</title>
+               <author ref="#hsl_person_id_234">
+                  <persName>Reinecke, Carl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1795">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1796">
+               <title type="main">Abendständchen, op. 42 Nr. 1</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_3069">
+                  <persName>Brentano, Clemens</persName>
                </author>
             </bibl>
       </listBibl>

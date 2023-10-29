@@ -470,6 +470,7 @@
                <place xml:id="hsl_place_id_27">
                   <settlement type="S">
                      <placeName type="main">Hohenasperg</placeName>
+                     <placeName type="alternative">Hohen-Asperg</placeName>
                   </settlement>
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>DE, Germany</country>
@@ -3969,6 +3970,25 @@
                   <idno type="GEONAMES">https://sws.geonames.org/2852458/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1711</idno>
                   <idno type="GND">https://d-nb.info/gnd/4046948-7</idno>
+               </place>
+               <place xml:id="hsl_place_id_337">
+                  <placeName type="main">Ireland</placeName>
+                     <placeName type="alternative">Irland</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2963597/</idno>
+               </place>
+               <place xml:id="hsl_place_id_338">
+                  <placeName type="main">Bologna</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3181928/</idno>
+               </place>
+               <place xml:id="hsl_place_id_339">
+                  <placeName type="main">Most</placeName>
+                     <placeName type="alternative">Brüx</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3070291/</idno>
+               </place>
+               <place xml:id="hsl_place_id_340">
+                  <placeName type="main">Bolzano</placeName>
+                     <placeName type="alternative">Bozen</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3181913/</idno>
                </place>
             </listPlace>
          </div>
