@@ -2268,6 +2268,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_239">
                <title type="main">Das Paradies und die Peri, op. 50</title>
+               <title type="alternative">Paradies und Peri</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
@@ -5417,12 +5418,6 @@
                   <persName>Goldmark, Karl</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_719">
-               <title type="main">Sakuntala. Ein Drama in sieben Akten</title>
-               <author ref="#hsl_person_id_1212">
-                  <persName>Kalidasa</persName>
-               </author>
-            </bibl>
             <bibl xml:id="hsl_work_id_721">
                <title type="main">Messa da Requiem</title>
                <author ref="#hsl_person_id_312">
@@ -6164,6 +6159,7 @@
                <name type="character" ref="#hsl_person_id_2818">Josef</name>
                <name type="character" ref="#hsl_person_id_2903">Maria von Nazaret</name>
                <name type="character" ref="#hsl_person_id_3031">Schlange</name>
+               <name type="character" ref="#hsl_person_id_3098">Kain</name>
             </bibl>
             <bibl xml:id="hsl_work_id_821">
                <title type="main">Ève</title>
@@ -8113,6 +8109,9 @@
                <author ref="#hsl_person_id_44">
                   <persName>Bülow, Hans von</persName>
                </author>
+               <author ref="#hsl_person_id_1670">
+                  <persName>Bülow, Marie von</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1076">
                <title type="main">Klaviersonate in h-Moll, S178</title>
@@ -8335,7 +8334,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1107">
                <title type="main">Die Odyssee, op. 30</title>
-               <title type="alternative">Odysse</title>
+               <title type="alternative">Odysse / Homerische Welt</title>
                <author ref="#hsl_person_id_1728">
                   <persName>Bungert, August</persName>
                </author>
@@ -8393,6 +8392,7 @@
                <author ref="#hsl_person_id_2003">
                   <persName>Lipiner, Siegfried</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_3088">Merlin</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1113">
                <title type="main">Das Heimchen am Herd</title>
@@ -8403,6 +8403,12 @@
                <author ref="#hsl_person_id_2004">
                   <persName>Willner, Alfred Maria</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_3084">Das Heimchen, eine Grillenelfe</name>
+               <name type="character" ref="#hsl_person_id_3085">Edward Plummer</name>
+               <name type="character" ref="#hsl_person_id_3086">John</name>
+               <name type="character" ref="#hsl_person_id_3087">Dot</name>
+               <name type="character" ref="#hsl_person_id_3089">May</name>
+               <name type="character" ref="#hsl_person_id_3090">Tackleton</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1114">
                <title type="main">Erlkönig</title>
@@ -9847,6 +9853,9 @@
                <title type="main">Briefe. III. Band, 1855–1864</title>
                <author ref="#hsl_person_id_44">
                   <persName>Bülow, Hans von</persName>
+               </author>
+               <author ref="#hsl_person_id_1670">
+                  <persName>Bülow, Marie von</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1314">
@@ -11339,7 +11348,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1526">
                <title type="main">Svatební Košile, op. 69</title>
-               <title type="alternative">Die Geisterbraut / The Spectre's Bride</title>
+               <title type="alternative">Die Geisterbraut / The Spectre's Bride / Hochzeitshemd</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
@@ -12275,7 +12284,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1657">
-               <title type="main">Nicht mehr zu dir zu gehe, op. 32 Nr. 2</title>
+               <title type="main">Nicht mehr zu dir zu gehen, op. 32 Nr. 2</title>
                <title type="alternative">Nicht mehr zu dir zu kommen</title>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
@@ -13158,7 +13167,11 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1795">
-               <title type="main"/>
+               <title type="main">Barnaby Rudge</title>
+               <author ref="#hsl_person_id_3071">
+                  <persName>Dickens, Charles</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_3080">Barnaby Rudge</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1796">
                <title type="main">Abendständchen, op. 42 Nr. 1</title>
@@ -13181,12 +13194,244 @@
                <name type="character" ref="#hsl_person_id_3077">Edward Plummer</name>
                <name type="character" ref="#hsl_person_id_3078">May Fielding</name>
                <name type="character" ref="#hsl_person_id_3079">Tackleton</name>
+               <name type="character" ref="#hsl_person_id_3082">Caleb Plummer</name>
+               <name type="character" ref="#hsl_person_id_3083">Bertha Plummer</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1798">
                <title type="main">The Chimes: A Goblin Story of Some Bells that Rang an Old Year Out and a New Year In</title>
                <title type="alternative">Weihnachtsglocken</title>
                <author ref="#hsl_person_id_3071">
                   <persName>Dickens, Charles</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1799">
+               <title type="main">David Copperfield</title>
+               <author ref="#hsl_person_id_3071">
+                  <persName>Dickens, Charles</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_3081">Jip</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1800">
+               <title type="main">Ouvertüre</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_3091">
+                  <persName>Horn, Kamillo</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1801">
+               <title type="main">Phöbos Apollon, op. 60</title>
+               <author ref="#hsl_person_id_3092">
+                  <persName>Gernsheim, Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1802">
+               <title type="main">Antigone</title>
+               <author ref="#hsl_person_id_368">
+                  <persName>Sophocles</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1803">
+               <title type="main">Oedipus Tyrannus</title>
+               <author ref="#hsl_person_id_368">
+                  <persName>Sophocles</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1804">
+               <title type="main">Gretchen am Spinnrade, D118</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1805">
+               <title type="main">Der Liebste schläft, op. 34</title>
+               <author ref="#hsl_person_id_1327">
+                  <persName>Heuberger, Richard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1806">
+               <title type="main">Erste Liebe</title>
+               <author ref="#hsl_person_id_1324">
+                  <persName>Grünfeld, Alfred</persName>
+               </author>
+               <author ref="#hsl_person_id_3093">
+                  <persName>Grosse, Julius</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1807">
+               <title type="main">Balkanbilder, op. 144</title>
+               <author ref="#hsl_person_id_150">
+                  <persName>Kremser, Eduard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1808">
+               <title type="main">Nun grüße dich Gott, Frau Minne, op. 30</title>
+               <author ref="#hsl_person_id_1327">
+                  <persName>Heuberger, Richard</persName>
+               </author>
+               <author ref="#hsl_person_id_3094">
+                  <persName>Strachwitz, Moritz von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1809">
+               <title type="main">Dichterliebe, op. 48</title>
+               <author ref="#hsl_person_id_116">
+                  <persName>Heine, Heinrich</persName>
+               </author>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1810">
+               <title type="main">Ich grolle nicht, op. 48 Nr. 7</title>
+               <author ref="#hsl_person_id_116">
+                  <persName>Heine, Heinrich</persName>
+               </author>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1811">
+               <title type="main">Die Mainacht, op. 43 Nr. 2</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_2382">
+                  <persName>Hölty, Ludwig Christoph Heinrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1812">
+               <title type="main">Malavikagnimitram</title>
+               <title type="alternative">Malawika</title>
+               <author ref="#hsl_person_id_1212">
+                  <persName>Kalidasa</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_3096">Agnimitra</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1813">
+               <title type="main">Über das Dirigieren</title>
+               <title type="alternative">Vom Dirigiren</title>
+               <author ref="#hsl_person_id_2760">
+                  <persName>Weingartner, Felix</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1814">
+               <title type="main">Genesius, op. 14</title>
+               <author ref="#hsl_person_id_2760">
+                  <persName>Weingartner, Felix</persName>
+               </author>
+               <author ref="#hsl_person_id_3100">
+                  <persName>Herrig, Hans</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1815">
+               <title type="main">Helianthus</title>
+               <title type="alternative">Helianth</title>
+               <author ref="#hsl_person_id_2777">
+                  <persName>Goldschmidt, Adalbert von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1816">
+               <title type="main">Nausikaa, op. 30 Nr. 2</title>
+               <author ref="#hsl_person_id_1728">
+                  <persName>Bungert, August</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1817">
+               <title type="main">Klavierquartett Nr. 1 in g-Moll, op. 25</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1818">
+               <title type="main">Briefe von Theodor Billroth</title>
+               <author ref="#hsl_person_id_34">
+                  <persName>Billroth, Theodor</persName>
+               </author>
+               <author ref="#hsl_person_id_1723">
+                  <persName>Fischer, Georg</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1819">
+               <title type="main">Briefe. I. Band, 1841–1853</title>
+               <author ref="#hsl_person_id_44">
+                  <persName>Bülow, Hans von</persName>
+               </author>
+               <author ref="#hsl_person_id_1670">
+                  <persName>Bülow, Marie von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1820">
+               <title type="main">Briefe. II. Band, 1853–1855</title>
+               <author ref="#hsl_person_id_44">
+                  <persName>Bülow, Hans von</persName>
+               </author>
+               <author ref="#hsl_person_id_1670">
+                  <persName>Bülow, Marie von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1821">
+               <title type="main">Ausgewählte Briefe von David Friedrich Strauß</title>
+               <author ref="#hsl_person_id_711">
+                  <persName>Strauß, David Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_3128">
+                  <persName>Zeller, Eduard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1822">
+               <title type="main">Deutsche Zeitung</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1823">
+               <title type="main">Cappella Sistina</title>
+               <title type="alternative">Sixtinische Kapelle / Capelle</title>
+               <author ref="#hsl_person_id_815">
+                  <persName>Michelangelo, Buonarroti</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1824">
+               <title type="main">I Rantzau</title>
+               <author ref="#hsl_person_id_993">
+                  <persName>Mascagni, Pietro</persName>
+               </author>
+               <author ref="#hsl_person_id_2006">
+                  <persName>Targioni-Tozzetti, Giovanni</persName>
+               </author>
+               <author ref="#hsl_person_id_2007">
+                  <persName>Menasci, Guido</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1825">
+               <title type="main">Todessehnsucht</title>
+               <title type="alternative">Ich möchte hingeh’n wie das Abendroth</title>
+               <author ref="#hsl_person_id_34">
+                  <persName>Billroth, Theodor</persName>
+               </author>
+               <author ref="#hsl_person_id_3134">
+                  <persName>Herwegh, Georg</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1826">
+               <title type="main">Nord und Süd. Eine deutsche Monatsschrift</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1827">
+               <title type="main">Über das Lehren und Lernen der medicinischen Wissenschaften an den Universitäten der deutschen Nation nebst allgemeinen Bemerkungen über Universitäten. Eine culturhistorische Studie</title>
+               <author ref="#hsl_person_id_34">
+                  <persName>Billroth, Theodor</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1828">
+               <title type="main">Esther</title>
+               <author ref="#hsl_person_id_721">
+                  <persName>Grillparzer, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1829">
+               <title type="main">Der Salamander. Ein Tagebuch in Terzinen</title>
+               <author ref="#hsl_person_id_1278">
+                  <persName>Heyse, Paul</persName>
                </author>
             </bibl>
       </listBibl>
