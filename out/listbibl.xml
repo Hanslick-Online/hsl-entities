@@ -279,6 +279,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_315">
                <title type="main">Altfranzösisches Weihnachtslied</title>
+               <title type="alternative">unklarer Bezug</title>
             </bibl>
             <bibl xml:id="hsl_work_id_446">
                <title type="main">Germanenzug, WAB70</title>
@@ -291,7 +292,7 @@
                <name type="character" ref="#hsl_person_id_748">Freya</name>
             </bibl>
             <bibl xml:id="hsl_work_id_25">
-               <title type="main">12 Ländler, D790</title>
+               <title type="main">12 Ländler für Klavier, D790</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -1252,7 +1253,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_132">
-               <title type="main">La damnation de Faust, op. 24, H111</title>
+               <title type="main">La damnation de Faust, H111</title>
                <title type="alternative">Fausts Verdammung / Verdammnis / Verdammniß</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
@@ -1626,8 +1627,8 @@
                <author ref="#hsl_person_id_2074">
                   <persName>Leuven, Adolphe de</persName>
                </author>
-               <author ref="#hsl_person_id_2075">
-                  <persName>Lhérie, Léon Lévy</persName>
+               <author ref="#hsl_person_id_3202">
+                  <persName>Brunswick, Léon-Lévy</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_176">
@@ -1895,7 +1896,7 @@
                <name type="character" ref="#hsl_person_id_1082">Rudolph</name>
             </bibl>
             <bibl xml:id="hsl_work_id_202">
-               <title type="main">Klaviertrio in Es-Dur, D929</title>
+               <title type="main">Trio für Violine, Cello und Klavier in Es-Dur, D929</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -2147,7 +2148,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_227">
-               <title type="main">Die Allmacht, D852/D875a</title>
+               <title type="main">Die Allmacht, D852</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -2560,7 +2561,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_271">
-               <title type="main">Klaviersonate in a-Moll, D537</title>
+               <title type="main">Sonate für Klavier in a-Moll, D537</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -3160,7 +3161,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_361">
-               <title type="main">Augsburger Allgemeine Zeitung</title>
+               <title type="main">Allgemeine Zeitung (Augsburg)</title>
             </bibl>
             <bibl xml:id="hsl_work_id_362">
                <title type="main">King Lear</title>
@@ -3255,7 +3256,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_372">
-               <title type="main">Präludium und Fuge in C-Dur, BWV846</title>
+               <title type="main">Präludium und Fuge für Klavier in C-Dur, BWV846</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -3389,6 +3390,9 @@
                </author>
                <author ref="#hsl_person_id_903">
                   <persName>Alembert, Jean Le Rond d'</persName>
+               </author>
+               <author ref="#hsl_person_id_3203">
+                  <persName>Jaucourt, Louis de</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_390">
@@ -3669,7 +3673,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_444">
-               <title type="main">Der Entfernten, D331/D350</title>
+               <title type="main">Der Entfernten, D331 (Chorfassung)</title>
                <title type="alternative">Die Entfernte</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
@@ -4092,13 +4096,6 @@
                   <persName>Meyerbeer, Giacomo</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_503">
-               <title type="main">Mignon</title>
-               <author ref="#hsl_person_id_100">
-                  <persName>Goethe, Johann Wolfgang von</persName>
-               </author>
-               <name type="character" ref="#hsl_person_id_868">Mignon</name>
-            </bibl>
             <bibl xml:id="hsl_work_id_504">
                <title type="main">Orestie</title>
                <author ref="#hsl_person_id_902">
@@ -4484,12 +4481,6 @@
             <bibl xml:id="hsl_work_id_563">
                <title type="main">Lettres intimes de Berlioz</title>
             </bibl>
-            <bibl xml:id="hsl_work_id_564">
-               <title type="main">Romance d'Estelle</title>
-               <author ref="#hsl_person_id_28">
-                  <persName>Berlioz, Hector</persName>
-               </author>
-            </bibl>
             <bibl xml:id="hsl_work_id_565">
                <title type="main">Les Danaïdes</title>
                <author ref="#hsl_person_id_754">
@@ -4503,26 +4494,14 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_567">
-               <title type="main">Messe solennelle</title>
+               <title type="main">Messe solennelle, H20</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_568">
-               <title type="main">Les francs-juges, op. 3</title>
+               <title type="main">Les francs-juges, H23</title>
                <title type="alternative">Die Vehmrichter</title>
-               <author ref="#hsl_person_id_28">
-                  <persName>Berlioz, Hector</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_569">
-               <title type="main">Scène héroïque</title>
-               <author ref="#hsl_person_id_28">
-                  <persName>Berlioz, Hector</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_570">
-               <title type="main">La Mort d'Orphée</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
                </author>
@@ -4555,7 +4534,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_578">
-               <title type="main">Violinkonzert in D-Dur op. 77</title>
+               <title type="main">Violinkonzert in D-Dur, op. 77</title>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
@@ -4614,8 +4593,8 @@
                <author ref="#hsl_person_id_2074">
                   <persName>Leuven, Adolphe de</persName>
                </author>
-               <author ref="#hsl_person_id_2075">
-                  <persName>Lhérie, Léon Lévy</persName>
+               <author ref="#hsl_person_id_3202">
+                  <persName>Brunswick, Léon-Lévy</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_588">
@@ -5146,7 +5125,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_671">
-               <title type="main">Violinkonzert in  a-Moll, BWV1041</title>
+               <title type="main">Konzert für Violine und Orchester in  a-Moll, BWV1041</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -5170,19 +5149,19 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_675">
-               <title type="main">Violinkonzert in E-Dur, BWV1042</title>
+               <title type="main">Konzert für Violine und Orchester in E-Dur, BWV1042</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_676">
-               <title type="main">Klaviersonate in a-Moll, D784</title>
+               <title type="main">Sonate für Klavier in a-Moll, D784</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_677">
-               <title type="main">Klaviersonate in a-Moll, D845</title>
+               <title type="main">Sonate für Klavier in a-Moll, D845</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -5253,7 +5232,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_689">
-               <title type="main">Präludium und Fuge in cis-Moll, BWV849</title>
+               <title type="main">Präludium und Fuge für Klavier in cis-Moll, BWV849</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -5271,7 +5250,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_693">
-               <title type="main">Novelletten, op. 28</title>
+               <title type="main">8 Novelletten, op. 21</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
@@ -5759,6 +5738,12 @@
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
+               <author ref="#hsl_person_id_169">
+                  <persName>Luther, Martin</persName>
+               </author>
+               <author ref="#hsl_person_id_3204">
+                  <persName>Reißner, Adam</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_764">
                <title type="main">Ich hatte viel Bekümmernis, BWV21</title>
@@ -6076,13 +6061,13 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_812">
-               <title type="main">Podraga-Polka, op. 194</title>
+               <title type="main">Podraga-Polka, op. 194 Nr. 1</title>
                <author ref="#hsl_person_id_1285">
                   <persName>Labitzky, Joseph</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_813">
-               <title type="main">Carlsbader Cur-Polka, op. 194</title>
+               <title type="main">Carlsbader Cur-Polka, op. 194 Nr. 2</title>
                <title type="alternative">Curpolka</title>
                <author ref="#hsl_person_id_1285">
                   <persName>Labitzky, Joseph</persName>
@@ -6103,7 +6088,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_816">
-               <title type="main">Am Meere, D957 Nr. 12</title>
+               <title type="main">Am Meer, D957 Nr. 12</title>
                <author ref="#hsl_person_id_116">
                   <persName>Heine, Heinrich</persName>
                </author>
@@ -6261,7 +6246,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_833">
-               <title type="main">Morceaux, op. 2</title>
+               <title type="main">Morceaux für Klavier, op. 2</title>
                <author ref="#hsl_person_id_1323">
                   <persName>Szalit, Paula</persName>
                </author>
@@ -7049,7 +7034,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_931">
-               <title type="main">7 Fantasien, op. 116</title>
+               <title type="main">7 Fantasien für Klavier, op. 116</title>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
@@ -7277,12 +7262,6 @@
                   <persName>Pixis, Francilla</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_960">
-               <title type="main">Klaviertrio in B-Dur, D898</title>
-               <author ref="#hsl_person_id_279">
-                  <persName>Schubert, Franz</persName>
-               </author>
-            </bibl>
             <bibl xml:id="hsl_work_id_961">
                <title type="main">Klaviersonate Nr. 3 in C-Dur, op. 2 Nr. 3</title>
                <author ref="#hsl_person_id_25">
@@ -7484,7 +7463,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_989">
-               <title type="main">Le Carnaval romain, H95</title>
+               <title type="main">Le carnaval romain, H95</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
                </author>
@@ -7752,6 +7731,12 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1031">
                <title type="main">Funiculì Funiculà</title>
+               <author ref="#hsl_person_id_3200">
+                  <persName>Denza, Luigi</persName>
+               </author>
+               <author ref="#hsl_person_id_3201">
+                  <persName>Turco, Giuseppe</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1032">
                <title type="main">Symphonie Nr. 1 in Es-Dur, op. 26</title>
@@ -8593,7 +8578,7 @@
                <title type="main">Le Ménestrel</title>
             </bibl>
             <bibl xml:id="hsl_work_id_1140">
-               <title type="main">Revue des deux Mondes</title>
+               <title type="main">Revue des Deux Mondes</title>
             </bibl>
             <bibl xml:id="hsl_work_id_1141">
                <title type="main">Wachet auf, ruft uns die Stimme, BWV140</title>
@@ -8907,7 +8892,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1177">
-               <title type="main">Die Zeit</title>
+               <title type="main">Die Zeit (Wien)</title>
             </bibl>
             <bibl xml:id="hsl_work_id_1178">
                <title type="main">Ratbold</title>
@@ -8958,7 +8943,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1186">
-               <title type="main">Magnificat, BWV243</title>
+               <title type="main">Magnificat in D-Dur, BWV243</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -8970,6 +8955,9 @@
                </author>
                <author ref="#hsl_person_id_169">
                   <persName>Luther, Martin</persName>
+               </author>
+               <author ref="#hsl_person_id_2018">
+                  <persName>Franck, Salomo</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1188">
@@ -9173,7 +9161,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1217">
-               <title type="main">Traité d'instrumentation et d'orchestration</title>
+               <title type="main">Grande traité d'instrumentation et d'orchestration modernes</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
                </author>
@@ -9441,7 +9429,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1243">
-               <title type="main">Cembalokonzert in d-Moll, BWV1052</title>
+               <title type="main">Konzert für Cembalo und Orchester in d-Moll, BWV1052</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -9540,7 +9528,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1260">
-               <title type="main">Vöglein-Etüde op. 2 Nr. 6</title>
+               <title type="main">Si oiseau j'étais, à toi je volerais!, op. 2 Nr. 6</title>
+               <title type="alternative">Vögelein</title>
                <author ref="#hsl_person_id_1545">
                   <persName>Henselt, Adolf von</persName>
                </author>
@@ -9703,9 +9692,6 @@
                   <persName>Moreto, Agustín</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_1287">
-               <title type="main">Béatrice und Bénédict</title>
-            </bibl>
             <bibl xml:id="hsl_work_id_1290">
                <title type="main">Zaide, KV 344</title>
                <title type="alternative">Das Serail</title>
@@ -9778,7 +9764,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1299">
-               <title type="main">Klaviersonate Nr. 21 in B-Dur, D960</title>
+               <title type="main">Sonate für Klavier in B-Dur, D960</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -9790,7 +9776,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1301">
-               <title type="main">Klavierquintett in F-moll, op. 34</title>
+               <title type="main">Klavierquintett in f-Moll, op. 34</title>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
@@ -10005,7 +9991,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1335">
-               <title type="main">Violinsonate op. 7</title>
+               <title type="main">Violinsonate, op. 7</title>
                <author ref="#hsl_person_id_1403">
                   <persName>Rückauf, Anton</persName>
                </author>
@@ -10378,7 +10364,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1394">
-               <title type="main">Divertissement à la hongroise, D818</title>
+               <title type="main">Divertissement à la hongroise für Klavier zu 4 Händen in g-Moll, D818</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -10521,13 +10507,13 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1418">
-               <title type="main">Klaviertrio Nr. 1 in B-Dur, D898</title>
+               <title type="main">Trio für Violine, Cello und Klavier Nr. 1 in B-Dur, D898</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1419">
-               <title type="main">Klaviersonate in G-Dur, D894</title>
+               <title type="main">Sonate für Klavier in G-Dur, D894</title>
                <title type="alternative">Phantasie-Sonate</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
@@ -10553,18 +10539,9 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1422">
-               <title type="main">Der Gondelfahrer, D808/D809</title>
+               <title type="main">Der Gondelfahrer, D809 (Chorfassung)</title>
                <author ref="#hsl_person_id_184">
                   <persName>Mayrhofer, Johann</persName>
-               </author>
-               <author ref="#hsl_person_id_279">
-                  <persName>Schubert, Franz</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_1423">
-               <title type="main">Gesang der Geister über den Wassern, D484/D538/D705/D714</title>
-               <author ref="#hsl_person_id_100">
-                  <persName>Goethe, Johann Wolfgang von</persName>
                </author>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
@@ -10593,8 +10570,8 @@
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
-               <author ref="#hsl_person_id_2427">
-                  <persName>Kleist, Ewald Christian von</persName>
+               <author ref="#hsl_person_id_3205">
+                  <persName>Gleim, Johann Wilhelm Ludwig</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1427">
@@ -11820,7 +11797,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1590">
-               <title type="main">Wie Melodien zeiht es mir, op. 105 Nr. 1</title>
+               <title type="main">Wie Melodien zieht es mir, op. 105 Nr. 1</title>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
@@ -12563,7 +12540,13 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1698">
-               <title type="main">La Reine de Saba</title>
+               <title type="main">La Reine de Saba, CG7</title>
+               <author ref="#hsl_person_id_84">
+                  <persName>Carré, Michel</persName>
+               </author>
+               <author ref="#hsl_person_id_90">
+                  <persName>Barbier, Jules</persName>
+               </author>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
                </author>
@@ -12609,9 +12592,12 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1705">
-               <title type="main">Vineta, Op. 163, No. 3</title>
+               <title type="main">Vineta, op. 163 Nr. 3</title>
                <author ref="#hsl_person_id_201">
                   <persName>Abt, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_3199">
+                  <persName>Seiler, Josef</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1706">
@@ -12670,7 +12656,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1716">
-               <title type="main">Concert-Overture Nr. 2 in A-Dur, op. 101</title>
+               <title type="main">Konzert-Ouvertüre Nr. 2 in A-Dur, op. 101</title>
+               <title type="alternative">Concert-Overture</title>
                <author ref="#hsl_person_id_124">
                   <persName>Hiller, Ferdinand von</persName>
                </author>
@@ -12849,7 +12836,7 @@
                <name type="character" ref="#hsl_person_id_3023">Felsenberg</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1745">
-               <title type="main">Zweite Symphonie in C-Dur</title>
+               <title type="main">Symphonie Nr. 2 in C-Dur</title>
                <author ref="#hsl_person_id_121">
                   <persName>Herbeck, Johann von</persName>
                </author>
@@ -12885,7 +12872,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1751">
-               <title type="main">Réminiscences de Lucia di Lammermoor, op. 13</title>
+               <title type="main">Réminiscences de Lucia di Lammermoor, S397</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -13510,9 +13497,6 @@
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_1840">
-               <title type="main">op. 63</title>
-            </bibl>
             <bibl xml:id="hsl_work_id_1841">
                <title type="main">Divertimento Nr. 17 D-Dur, KV 334</title>
                <author ref="#hsl_person_id_189">
@@ -13662,9 +13646,6 @@
                   <persName>Joachim, Joseph</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_1865">
-               <title type="main"/>
-            </bibl>
             <bibl xml:id="hsl_work_id_1866">
                <title type="main">Rheinweinlied-Ouverture, op. 123</title>
                <title type="alternative">Rhein-Ouvertüre</title>
@@ -13674,9 +13655,6 @@
                <author ref="#hsl_person_id_2150">
                   <persName>Müller von Königswinter, Wolfgang</persName>
                </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_1867">
-               <title type="main"/>
             </bibl>
             <bibl xml:id="hsl_work_id_1868">
                <title type="main">Ballade für Violine und Klavier, op. 3 Nr. 3</title>
@@ -13716,6 +13694,69 @@
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1874">
+               <title type="main">6 Gesänge, op. 3</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1875">
+               <title type="main">Impromptus für Klavier, op. 5</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1876">
+               <title type="main">Variationen über ein eigenes Thema in E-Dur, op. 10</title>
+               <author ref="#hsl_person_id_140">
+                  <persName>Joachim, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1877">
+               <title type="main">6 Studien nach Capricen von Paganini für Klavier, op. 3</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1878">
+               <title type="main">6 Konzert-Studien nach Capricen von Paganini für Klavier, op. 10</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1879">
+               <title type="main">24 Capriccios für Violine, op. 1</title>
+               <author ref="#hsl_person_id_1008">
+                  <persName>Paganini, Niccolò</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1881">
+               <title type="main">Sämmtliche Gedichte</title>
+               <author ref="#hsl_person_id_3197">
+                  <persName>Kulmann, Elisabeth</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1882">
+               <title type="main">Novelette für Klavier in D-Dur, op. 21 Nr. 2</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1885">
+               <title type="main">Gesang der Geister über den Wassern, D538 (Chorfassung)</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1886">
+               <title type="main">Gruppe aus dem Tartarus, D396</title>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1887">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>
