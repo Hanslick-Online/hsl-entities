@@ -1558,12 +1558,6 @@
                <name type="character" ref="#hsl_person_id_669">Jozé, Wirth</name>
                <name type="character" ref="#hsl_person_id_670">Zigaretta, Wirthin</name>
             </bibl>
-            <bibl xml:id="hsl_work_id_170">
-               <title type="main">Impromptu in A-Dur, op. 66</title>
-               <author ref="#hsl_person_id_234">
-                  <persName>Reinecke, Carl</persName>
-               </author>
-            </bibl>
             <bibl xml:id="hsl_work_id_171">
                <title type="main">Il trovatore, H54</title>
                <title type="alternative">Der Troubadour</title>
@@ -2690,6 +2684,9 @@
                <author ref="#hsl_person_id_274">
                   <persName>Schön, Eduard</persName>
                </author>
+               <author ref="#hsl_person_id_287">
+                  <persName>Shakespeare, William</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_291">
                <title type="main">Symphonie Nr. 1 in d-Moll, op. 44</title>
@@ -2700,7 +2697,7 @@
             <bibl xml:id="hsl_work_id_292">
                <title type="main">Iphigénie</title>
                <author ref="#hsl_person_id_223">
-                  <persName>Rancine, Jean</persName>
+                  <persName>Racine, Jean</persName>
                </author>
                <name type="character" ref="#hsl_person_id_426">Achille</name>
                <name type="character" ref="#hsl_person_id_485">Ériphile</name>
@@ -3115,7 +3112,7 @@
                <title type="alternative">Journal de politique et de litérature</title>
             </bibl>
             <bibl xml:id="hsl_work_id_355">
-               <title type="main">Geschichte der deutschen Nationalliteratur im neunzehnten Jahrhundert</title>
+               <title type="main">Geschichte der deutschen Literatur seit Lessing's Tod</title>
                <author ref="#hsl_person_id_408">
                   <persName>Schmidt, Julian</persName>
                </author>
@@ -4552,7 +4549,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_585">
-               <title type="main">Intermezzo, op. 8</title>
+               <title type="main">Intermezzo für Streichorchester, op. 8</title>
                <author ref="#hsl_person_id_1016">
                   <persName>Schreker, Franz</persName>
                </author>
@@ -4867,7 +4864,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_632">
-               <title type="main">Richard III.</title>
+               <title type="main">King Richard III.</title>
                <author ref="#hsl_person_id_287">
                   <persName>Shakespeare, William</persName>
                </author>
@@ -5135,6 +5132,9 @@
                <title type="main">Tannhäuser. Zukunftsposse mit vergangener Musik und gegenwärtigen Gruppierungen</title>
                <author ref="#hsl_person_id_5">
                   <persName>Nestroy, Johann</persName>
+               </author>
+               <author ref="#hsl_person_id_3271">
+                  <persName>Binder, Carl</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_675">
@@ -5510,7 +5510,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_733">
-               <title type="main">Ruslan i Lyudmila</title>
+               <title type="main">Ruslan i Ljudmila</title>
                <title type="alternative">Ruslan / Rußlan und Ludmilla</title>
                <author ref="#hsl_person_id_1220">
                   <persName>Puškin, Aleksandr Sergeevič</persName>
@@ -5609,7 +5609,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_746">
-               <title type="main">Pikowaja dama</title>
+               <title type="main">Pikovaja dama</title>
                <title type="alternative">Pique-Dame</title>
                <author ref="#hsl_person_id_1220">
                   <persName>Puškin, Aleksandr Sergeevič</persName>
@@ -5707,7 +5707,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_759">
-               <title type="main">Konzertstück in c-Moll, op. 42</title>
+               <title type="main">Konzertstück für Klavier und Orchester in c-Moll, op. 42</title>
+               <title type="alternative">Clavierconcert / Klavierkonzert</title>
                <author ref="#hsl_person_id_317">
                   <persName>Volkmann, Robert</persName>
                </author>
@@ -5815,7 +5816,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_774">
-               <title type="main">Violinkonzert in C-Dur, op. 30</title>
+               <title type="main">Konzert für Violine und Orchester in C-Dur, op. 30</title>
                <author ref="#hsl_person_id_1262">
                   <persName>Moszkowski, Moritz</persName>
                </author>
@@ -5985,6 +5986,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_801">
                <title type="main">Der Landtag von Wolkenkuckucksheim</title>
+               <title type="alternative">Der Landtag von Wolkenkukuksheim</title>
                <author ref="#hsl_person_id_274">
                   <persName>Schön, Eduard</persName>
                </author>
@@ -6605,7 +6607,7 @@
                <title type="main">Phèdre</title>
                <title type="alternative">Phädra</title>
                <author ref="#hsl_person_id_223">
-                  <persName>Rancine, Jean</persName>
+                  <persName>Racine, Jean</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1393">Phèdre</name>
                <name type="character" ref="#hsl_person_id_1396">Hippolyte</name>
@@ -6678,7 +6680,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_891">
-               <title type="main">Klavierkonzert Nr. 1 in e-Moll</title>
+               <title type="main">Konzert für Klavier und Orchester Nr. 1 in e-Moll</title>
                <author ref="#hsl_person_id_1388">
                   <persName>Sauer, Emil von</persName>
                </author>
@@ -8550,7 +8552,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1135">
-               <title type="main">Danse macabre, op. 40</title>
+               <title type="main">Danse macabre für Violine und Orchester, op. 40</title>
                <title type="alternative">Der Todtentanz</title>
                <author ref="#hsl_person_id_1658">
                   <persName>Saint-Saëns, Camille</persName>
@@ -8660,7 +8662,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1149">
-               <title type="main">Klavierkonzert Nr. 4 in c-Moll, op. 44</title>
+               <title type="main">Konzert für Klavier und Orchester Nr. 4 in c-Moll, op. 44</title>
                <author ref="#hsl_person_id_1658">
                   <persName>Saint-Saëns, Camille</persName>
                </author>
@@ -9833,7 +9835,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1304">
-               <title type="main">Streichquartett Nr. 2 in g-Moll, op. 14</title>
+               <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 2 in g-Moll, op. 14</title>
                <author ref="#hsl_person_id_317">
                   <persName>Volkmann, Robert</persName>
                </author>
@@ -10412,6 +10414,9 @@
                <title type="main">Die Liebe als Nachtigall</title>
                <author ref="#hsl_person_id_274">
                   <persName>Schön, Eduard</persName>
+               </author>
+               <author ref="#hsl_person_id_714">
+                  <persName>Geibel, Emanuel</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1383">
@@ -11681,7 +11686,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1557">
-               <title type="main">Kamenny gost</title>
+               <title type="main">Kamennyj gost</title>
                <title type="alternative">Der steinerne Gast</title>
                <author ref="#hsl_person_id_1220">
                   <persName>Puškin, Aleksandr Sergeevič</persName>
@@ -12209,13 +12214,13 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1631">
-               <title type="main">Au Bonheur des Dames</title>
+               <title type="main">Au bonheur des dames</title>
                <author ref="#hsl_person_id_1783">
                   <persName>Zola, Émile</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1632">
-               <title type="main">La Terre</title>
+               <title type="main">La terre</title>
                <author ref="#hsl_person_id_1783">
                   <persName>Zola, Émile</persName>
                </author>
@@ -12272,7 +12277,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1642">
-               <title type="main">Violinkonzert Nr. 3 in h-Moll, op. 61</title>
+               <title type="main">Konzert für Violine und Orchester Nr. 3 in h-Moll, op. 61</title>
                <author ref="#hsl_person_id_1658">
                   <persName>Saint-Saëns, Camille</persName>
                </author>
@@ -12576,6 +12581,9 @@
                <author ref="#hsl_person_id_2623">
                   <persName>Sullivan, Arthur</persName>
                </author>
+               <author ref="#hsl_person_id_3273">
+                  <persName>Gilbert, William S.</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1689">
                <title type="main">Histoire de la musique Bohème</title>
@@ -12684,7 +12692,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1702">
-               <title type="main">Dom Juan, Le Festine de Pierre</title>
+               <title type="main">Dom Juan ou le Festin de Pierre</title>
                <author ref="#hsl_person_id_864">
                   <persName>Molière</persName>
                </author>
@@ -13237,7 +13245,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1784">
-               <title type="main">Impromptu über ein Motiv aus Schumann's Manfred, op. 66</title>
+               <title type="main">Impromptu über ein Motiv aus Schumann's Manfred für 2 Klaviere in A-Dur, op. 66</title>
                <title type="alternative">Alpensee-Phantasie</title>
                <author ref="#hsl_person_id_234">
                   <persName>Reinecke, Carl</persName>
@@ -13626,12 +13634,6 @@
                </author>
                <author ref="#hsl_person_id_3155">
                   <persName>Smareglia, Antonio</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_1837">
-               <title type="main">Der Landtag von Wolkenkukuksheim</title>
-               <author ref="#hsl_person_id_274">
-                  <persName>Schön, Eduard</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1838">
@@ -14030,6 +14032,12 @@
                <title type="main"/>
             </bibl>
             <bibl xml:id="hsl_work_id_1908">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1909">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1910">
                <title type="main"/>
             </bibl>
       </listBibl>
