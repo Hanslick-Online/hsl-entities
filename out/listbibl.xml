@@ -3357,6 +3357,9 @@
                <author ref="#hsl_person_id_556">
                   <persName>Zelter, Carl Friedrich</persName>
                </author>
+               <author ref="#hsl_person_id_3278">
+                  <persName>Riemer, Friedrich Wilhelm</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_388">
                <title type="main">Der musikalische Arzt, oder: Abhandlung von dem Einflusse der Musik auf den Körper, und von ihrer Anwendung in gewissen Krankheiten. Nebst einigen Winken, zur Anhörung einer guten Musik</title>
@@ -3952,6 +3955,9 @@
                <title type="main">Briefe von Moritz Hauptmann, Kantor und Musikdirektor an der Thomasschule zu Leipzig, an Ludwig Spohr und Andere</title>
                <author ref="#hsl_person_id_124">
                   <persName>Hiller, Ferdinand von</persName>
+               </author>
+               <author ref="#hsl_person_id_687">
+                  <persName>Hauptmann, Moritz</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_487">
@@ -6124,6 +6130,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_820">
                <title type="main">Bibel</title>
+               <title type="alternative">Heilige Schrift</title>
                <name type="character" ref="#hsl_person_id_416">Gott</name>
                <name type="character" ref="#hsl_person_id_469">Delila</name>
                <name type="character" ref="#hsl_person_id_658">Simson</name>
@@ -10121,9 +10128,12 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1344">
-               <title type="main">Briefe</title>
+               <title type="main">Briefe von Theodor Billroth</title>
                <author ref="#hsl_person_id_34">
                   <persName>Billroth, Theodor</persName>
+               </author>
+               <author ref="#hsl_person_id_1723">
+                  <persName>Fischer, Georg</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1345">
@@ -10358,7 +10368,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1377">
-               <title type="main">Violinkonzert</title>
+               <title type="main">Konzert für Violine und Orchester</title>
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
@@ -11007,7 +11017,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1469">
-               <title type="main">Klavierstücke</title>
+               <title type="main">Stücke für Klavier</title>
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_2490">
                   <persName>Novák, Vítězslav</persName>
@@ -12765,7 +12775,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1713">
-               <title type="main"/>
+               <title type="main">???</title>
                <author ref="#hsl_person_id_124">
                   <persName>Hiller, Ferdinand von</persName>
                </author>
@@ -12799,7 +12809,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1719">
-               <title type="main">Klavierkonzert Nr. 2 in f-Moll, op. 47</title>
+               <title type="main">Konzert für Klavier und Orchester Nr. 2 in f-Moll, op. 47</title>
                <author ref="#hsl_person_id_2970">
                   <persName>Schütt, Eduard</persName>
                </author>
@@ -13495,15 +13505,6 @@
                   <persName>Brahms, Johannes</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_1818">
-               <title type="main">Briefe von Theodor Billroth</title>
-               <author ref="#hsl_person_id_34">
-                  <persName>Billroth, Theodor</persName>
-               </author>
-               <author ref="#hsl_person_id_1723">
-                  <persName>Fischer, Georg</persName>
-               </author>
-            </bibl>
             <bibl xml:id="hsl_work_id_1819">
                <title type="main">Briefe. I. Band, 1841–1853</title>
                <author ref="#hsl_person_id_44">
@@ -13799,7 +13800,13 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1865">
-               <title type="main"/>
+               <title type="main">Mädchenlieder, op. 103</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_3197">
+                  <persName>Kulmann, Elisabeth</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1866">
                <title type="main">Rheinweinlied-Ouverture, op. 123</title>
@@ -13812,7 +13819,13 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1867">
-               <title type="main"/>
+               <title type="main">7 Lieder, op. 104</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_3197">
+                  <persName>Kulmann, Elisabeth</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1868">
                <title type="main">Ballade für Violine und Klavier, op. 3 Nr. 3</title>
@@ -13902,13 +13915,22 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1883">
-               <title type="main"/>
+               <title type="main">Gedichte aus Liebesfrühling, op. 37</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_1824">
+                  <persName>Rückert, Friedrich</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1885">
                <title type="main">Gesang der Geister über den Wassern, D538 (Chorfassung)</title>
             </bibl>
             <bibl xml:id="hsl_work_id_1884">
-               <title type="main"/>
+               <title type="main">Liebesfrühling</title>
+               <author ref="#hsl_person_id_1824">
+                  <persName>Rückert, Friedrich</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1886">
                <title type="main">Gruppe aus dem Tartarus, D396</title>
@@ -13920,7 +13942,10 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1887">
-               <title type="main"/>
+               <title type="main">Flegeljahre</title>
+               <author ref="#hsl_person_id_1984">
+                  <persName>Jean Paul</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1889">
                <title type="main">Egmont, op. 84 (Schauspielmusik)</title>
@@ -13932,10 +13957,14 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1888">
-               <title type="main"/>
+               <title type="main">Signale für die musikalische Welt</title>
             </bibl>
             <bibl xml:id="hsl_work_id_1890">
-               <title type="main"/>
+               <title type="main">Phantasiestücke für Cello und Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1891">
                <title type="main">Maria Theresa 1717-80 Presenting Her Son to the Hungarians</title>
@@ -13954,7 +13983,10 @@
                <name type="character" ref="#hsl_person_id_3217">Marie-Thérèse</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1893">
-               <title type="main"/>
+               <title type="main">Rheinweinlied</title>
+               <author ref="#hsl_person_id_2099">
+                  <persName>Claudius, Matthias</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1894">
                <title type="main">Childe Harold's Pilgrimage</title>
@@ -13964,7 +13996,11 @@
                <name type="character" ref="#hsl_person_id_552">Harold</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1895">
-               <title type="main"/>
+               <title type="main">Lieder</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1896">
                <title type="main">El ingenioso hidalgo don Quijote de la Mancha</title>
@@ -13990,7 +14026,10 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1898">
-               <title type="main"/>
+               <title type="main">Ouvertüre zu Heinrich IV.</title>
+               <author ref="#hsl_person_id_140">
+                  <persName>Joachim, Joseph</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1900">
                <title type="main">Leben und Tod des kleinen Rothkäppchens. Eine Tragödie.</title>
@@ -14017,16 +14056,28 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1903">
-               <title type="main"/>
+               <title type="main">Lindenrauschen für Violine und Klavier, op. 5 Nr. 1</title>
+               <author ref="#hsl_person_id_140">
+                  <persName>Joachim, Joseph</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1904">
-               <title type="main"/>
+               <title type="main">Abendrauschen für Violine und Klavier, op. 5 Nr. 2</title>
+               <author ref="#hsl_person_id_140">
+                  <persName>Joachim, Joseph</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1905">
-               <title type="main"/>
+               <title type="main">Ballade für Violine und Klavier, op. 5 Nr. 3</title>
+               <author ref="#hsl_person_id_140">
+                  <persName>Joachim, Joseph</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1906">
-               <title type="main"/>
+               <title type="main">Etüden in Form freier Variationen über ein Thema von Beethoven für Klavier in a-Moll, WoO31</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1907">
                <title type="main"/>
@@ -14039,6 +14090,47 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1910">
                <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1911">
+               <title type="main">3 Lieder, op. 12</title>
+               <author ref="#hsl_person_id_281">
+                  <persName>Schumann, Clara</persName>
+               </author>
+               <author ref="#hsl_person_id_1824">
+                  <persName>Rückert, Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1912">
+               <title type="main">3 Stücke für Violine und Klavier, op. 2</title>
+               <author ref="#hsl_person_id_140">
+                  <persName>Joachim, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1913">
+               <title type="main">Heft für Viola und Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_140">
+                  <persName>Joachim, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1914">
+               <title type="main">Fugen</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1915">
+               <title type="main">1. Korintherbrief</title>
+               <author ref="#hsl_person_id_3280">
+                  <persName>Paulus von Tarsus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_1916">
+               <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 14 in As-Dur, B193</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
