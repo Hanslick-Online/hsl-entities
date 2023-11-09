@@ -544,6 +544,7 @@
                      <bibl n="hsl_work_id_1253">Der 43. Psalm, MWV B 46</bibl>
                      <bibl n="hsl_work_id_1707">Liebe und Wein, MWV G 26</bibl>
                      <bibl n="hsl_work_id_1860">Lieder ohne Worte</bibl>
+                     <bibl n="hsl_work_id_1988">Ouvertüre in C-Dur, op. 24</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_22">
@@ -1029,6 +1030,7 @@
                      <bibl n="hsl_work_id_1448">Etude für Klavier in c-Moll, op. 25 Nr. 12</bibl>
                      <bibl n="hsl_work_id_1757">Nocturne für Klavier  in G-Dur, op. 37 Nr. 2</bibl>
                      <bibl n="hsl_work_id_1859">Etüden</bibl>
+                     <bibl n="hsl_work_id_1989">Klavierkonzert Nr. 1 in e-Moll, op.11</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_49">
@@ -1798,6 +1800,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q164732</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_490">Sant'Elena al Calvario, KamH10</bibl>
+                     <bibl n="hsl_work_id_1990">Arie</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_111">
@@ -1857,6 +1860,8 @@
                      <bibl n="hsl_work_id_1769">Armida, Hob. XXVIII:12</bibl>
                      <bibl n="hsl_work_id_1770">Quartett für 2 Violinen, Viola und Cello in G-Dur, Hob. III:81</bibl>
                      <bibl n="hsl_work_id_1773">Joseph Haydn's sämmtliche Quartette. Neue vollständige Ausgabe nach den Originalen revidirt</bibl>
+                     <bibl n="hsl_work_id_1991">Symphonie in B-Dur</bibl>
+                     <bibl n="hsl_work_id_1992">Symphonie in G-Dur</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_115">
@@ -3833,6 +3838,8 @@
                      <bibl n="hsl_work_id_1804">Gretchen am Spinnrade, D118</bibl>
                      <bibl n="hsl_work_id_1838">Quartett für 2 Violinen, Viola und Cello Nr. 15 in G-Dur, D887</bibl>
                      <bibl n="hsl_work_id_1886">Gruppe aus dem Tartarus, D396</bibl>
+                     <bibl n="hsl_work_id_1993">Streichquartett in c-Moll, D703</bibl>
+                     <bibl n="hsl_work_id_1994">Variationen über ein Original-Thema, D813</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_280">
@@ -3946,6 +3953,10 @@
                      <bibl n="hsl_work_id_1926">Grand Sonata No.2, G-moll, op. 22</bibl>
                      <bibl n="hsl_work_id_1927">Konzert ohne Orchester f-moll op.14 für Klavier (1. Fassung 1836);  Klaviersonate Nr. 3 f-moll op. 14 (2. Fassung, 1853)</bibl>
                      <bibl n="hsl_work_id_1966">Liebesgram, op. 74 Nr. 3</bibl>
+                     <bibl n="hsl_work_id_1995">Die Stille, op. 39 Nr. 4</bibl>
+                     <bibl n="hsl_work_id_1996">Schöne Fremde, op. 39 Nr. 6</bibl>
+                     <bibl n="hsl_work_id_1997">In der Fremde, op. 39 Nr. 1</bibl>
+                     <bibl n="hsl_work_id_1998">Frühlingsnacht, op. 39 Nr. 12</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_283">
@@ -12833,6 +12844,10 @@
                      <bibl n="hsl_work_id_1660">Mondnacht, WoO21</bibl>
                      <bibl n="hsl_work_id_1746">Morgenlied</bibl>
                      <bibl n="hsl_work_id_1747">Das Ständchen</bibl>
+                     <bibl n="hsl_work_id_1995">Die Stille, op. 39 Nr. 4</bibl>
+                     <bibl n="hsl_work_id_1996">Schöne Fremde, op. 39 Nr. 6</bibl>
+                     <bibl n="hsl_work_id_1997">In der Fremde, op. 39 Nr. 1</bibl>
+                     <bibl n="hsl_work_id_1998">Frühlingsnacht, op. 39 Nr. 12</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1246">
@@ -32574,11 +32589,13 @@
                      <bibl n="hsl_work_id_1963">Henrik Wergeland, op. 58 Nr. 3</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3349" role="fictional">
+               <person xml:id="hsl_person_id_3349">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Camillo</forename>
+                     <surname>Sivori</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119181002</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1029423</idno>
                </person>
                <person xml:id="hsl_person_id_3350">
                   <persName type="main">
@@ -32626,6 +32643,56 @@
                      <surname>Gabrilowitsch</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116327642</idno>
+               </person>
+               <person xml:id="hsl_person_id_3357">
+                  <persName type="main">
+                     <forename>Josef</forename>
+                     <surname>Kaulich</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116077875</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q55674135</idno>
+               </person>
+               <person xml:id="hsl_person_id_3358">
+                  <persName type="main">
+                     <forename>Apolinary</forename>
+                     <surname>Kątski</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116341971</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q618892</idno>
+               </person>
+               <person xml:id="hsl_person_id_3359">
+                  <persName type="main">
+                     <forename>François Hubert</forename>
+                     <surname>Prume</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11630586X</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q712101</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1987">La mélancolie, op.1</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3360">
+                  <persName type="main">
+                     <forename>Ole</forename>
+                     <surname>Bull</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118664883</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q318385</idno>
+               </person>
+               <person xml:id="hsl_person_id_3361">
+                  <persName type="main">
+                     <forename>Anna</forename>
+                     <surname>Bochkoltz-Falconi</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116212918</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q21143228</idno>
+               </person>
+               <person xml:id="hsl_person_id_3362">
+                  <persName type="main">
+                     <forename>Marie</forename>
+                     <surname>Trousil</surname>
+                  </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q107262334</idno>
                </person>
             </listPerson>
          </div>
