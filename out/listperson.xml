@@ -480,6 +480,7 @@
                      <bibl n="hsl_work_id_1449">Suite für Orchester Nr. 4 in D-Dur, BWV1069</bibl>
                      <bibl n="hsl_work_id_1761">Concert für Streich-Instrumente</bibl>
                      <bibl n="hsl_work_id_1914">Fugen</bibl>
+                     <bibl n="hsl_work_id_1999">Sonate</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_19">
@@ -3209,10 +3210,6 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116203188</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q18020256</idno>
-                  <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_958">Pirata-Variationen</bibl>
-                     <bibl n="hsl_work_id_959">Rondo in C-Dur</bibl>
-                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_217">
                   <persName type="main">
@@ -3840,6 +3837,9 @@
                      <bibl n="hsl_work_id_1886">Gruppe aus dem Tartarus, D396</bibl>
                      <bibl n="hsl_work_id_1993">Streichquartett in c-Moll, D703</bibl>
                      <bibl n="hsl_work_id_1994">Variationen über ein Original-Thema, D813</bibl>
+                     <bibl n="hsl_work_id_2001">Allegretto für Klavier in C-Dur, D346</bibl>
+                     <bibl n="hsl_work_id_2002">Allegretto für Klavier in c-Moll, D900</bibl>
+                     <bibl n="hsl_work_id_2003">Allegretto für Klavier in c-Moll, D915</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_280">
@@ -3862,6 +3862,7 @@
                   <idno type="GND">https://d-nb.info/gnd/11861164X</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q132232</idno>
                   <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_958">Variations de concert sur la cavatine du Pirate de Bellini für Klavier, op. 8</bibl>
                      <bibl n="hsl_work_id_1851">Variationen über ein Thema von Robert Schumann in fis-Moll, op. 20</bibl>
                      <bibl n="hsl_work_id_1911">3 Lieder, op. 12</bibl>
                   </listBibl>
@@ -4505,7 +4506,7 @@
                      <bibl n="hsl_work_id_524">Konzertstück für Klavier und Orchester in f-Moll, J282</bibl>
                      <bibl n="hsl_work_id_842">Abu Hassan, J106</bibl>
                      <bibl n="hsl_work_id_964">Turandot, J75</bibl>
-                     <bibl n="hsl_work_id_1323">Scherzo in As-Dur</bibl>
+                     <bibl n="hsl_work_id_1323">Scherzo für Klavier in As-Dur</bibl>
                      <bibl n="hsl_work_id_1538">Der erste Ton, J58</bibl>
                      <bibl n="hsl_work_id_1547">Kampf und Sieg, J190</bibl>
                      <bibl n="hsl_work_id_1644">Jubel-Ouvertüre in E-Dur, J245</bibl>
@@ -8324,6 +8325,7 @@
                      <bibl n="hsl_work_id_1427">Mirjams Siegesgesang, D942</bibl>
                      <bibl n="hsl_work_id_1562">Des Meeres und der Liebe Wellen</bibl>
                      <bibl n="hsl_work_id_1828">Esther</bibl>
+                     <bibl n="hsl_work_id_2004">Clara Wieck und Beethoven. (F-Moll-Sonate)</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_722">
@@ -15713,7 +15715,7 @@
                </person>
                <person xml:id="hsl_person_id_1538">
                   <persName type="main">
-                     <forename>Pierre</forename>
+                     <forename>M.</forename>
                      <surname>Langlois</surname>
                   </persName>
                </person>
@@ -15738,11 +15740,9 @@
                </person>
                <person xml:id="hsl_person_id_1541">
                   <persName type="main">
-                     <forename>Pauline</forename>
-                     <surname>Ulrich</surname>
+                     <forename>Marie</forename>
+                     <surname>Ullrichs</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/117290084</idno>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q2063827</idno>
                </person>
                <person xml:id="hsl_person_id_1542">
                   <persName type="main">
@@ -15767,6 +15767,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/133359794</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q113506</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2000">Quartett für 2 Violinen, Viola und Cello in a-Moll</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1545">
                   <persName type="main">
@@ -24897,9 +24900,14 @@
                </person>
                <person xml:id="hsl_person_id_2491">
                   <persName type="main">
-                     <forename>E.</forename>
+                     <forename>Emanuel</forename>
+                     <surname>Tjuka</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Tjuken</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1299951910</idno>
                </person>
                <person xml:id="hsl_person_id_2492">
                   <persName type="main">
@@ -32693,6 +32701,26 @@
                      <surname>Trousil</surname>
                   </persName>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q107262334</idno>
+               </person>
+               <person xml:id="hsl_person_id_3363">
+                  <persName type="main">
+                     <forename>Hippolyt-Joseph</forename>
+                     <surname>Kneissler</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/130210382</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_956">Ein Abenteuer auf Vorposten</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3364">
+                  <persName type="main">
+                     <forename>Johann Peter</forename>
+                     <surname>Pixis</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11917099X</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_959">Rondo in C-Dur</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
