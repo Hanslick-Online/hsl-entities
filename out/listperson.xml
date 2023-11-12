@@ -108,6 +108,10 @@
                      <forename>Luise</forename>
                      <surname>Liebhardt</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Liebhart</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/116996803</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55899882</idno>
                </person>
@@ -1970,6 +1974,7 @@
                      <bibl n="hsl_work_id_647">Marie</bibl>
                      <bibl n="hsl_work_id_1173">Ludovic</bibl>
                      <bibl n="hsl_work_id_1701">Le pré aux clercs</bibl>
+                     <bibl n="hsl_work_id_2006">La somnambule, ou L'arrivée d'un nouveau seigneur</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_123">
@@ -4017,6 +4022,8 @@
                      <bibl n="hsl_work_id_1224">La nonne sanglante, CG2</bibl>
                      <bibl n="hsl_work_id_1361">La dame blanche</bibl>
                      <bibl n="hsl_work_id_1499">Dom Sébastien, roi de Portugal</bibl>
+                     <bibl n="hsl_work_id_2005">La Somnambule</bibl>
+                     <bibl n="hsl_work_id_2006">La somnambule, ou L'arrivée d'un nouveau seigneur</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_285">
@@ -18934,6 +18941,7 @@
                      <bibl n="hsl_work_id_128">La muette de Portici</bibl>
                      <bibl n="hsl_work_id_1164">Charles VI.</bibl>
                      <bibl n="hsl_work_id_1224">La nonne sanglante, CG2</bibl>
+                     <bibl n="hsl_work_id_2005">La Somnambule</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1882">
@@ -20365,10 +20373,6 @@
                      <forename/>
                      <surname>Lisa</surname>
                   </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Wirthin</surname>
-                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_352">La sonnambula</bibl>
                   </listBibl>
@@ -20376,7 +20380,11 @@
                <person xml:id="hsl_person_id_2029" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Graf Rodolfo</surname>
+                     <surname>Rodolfo</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Rudolf / Rudolph</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_352">La sonnambula</bibl>
@@ -20386,6 +20394,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Konstanze</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Constanze</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1292">Die Entführung aus dem Serail, KV384</bibl>
@@ -20414,7 +20426,7 @@
                <person xml:id="hsl_person_id_2033" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>osmin</surname>
+                     <surname>Osmin</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1292">Die Entführung aus dem Serail, KV384</bibl>
@@ -27540,7 +27552,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Rudolph</surname>
+                     <surname>Rudolf / Rudolph</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_555">La Bohème</bibl>
@@ -32720,6 +32732,35 @@
                   <idno type="GND">https://d-nb.info/gnd/11917099X</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_959">Rondo in C-Dur</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3365">
+                  <persName type="main">
+                     <forename>Jean Pierre</forename>
+                     <surname>Aumer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/132640112</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2006">La somnambule, ou L'arrivée d'un nouveau seigneur</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3366" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_3367" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Blonde</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Blondchen</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1292">Die Entführung aus dem Serail, KV384</bibl>
                   </listBibl>
                </person>
             </listPerson>
