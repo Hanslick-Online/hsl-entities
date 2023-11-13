@@ -1867,6 +1867,7 @@
                      <bibl n="hsl_work_id_1773">Joseph Haydn's sämmtliche Quartette. Neue vollständige Ausgabe nach den Originalen revidirt</bibl>
                      <bibl n="hsl_work_id_1991">Symphonie in B-Dur</bibl>
                      <bibl n="hsl_work_id_1992">Symphonie in G-Dur</bibl>
+                     <bibl n="hsl_work_id_2009">Quartett in D-Dur</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_115">
@@ -4258,6 +4259,10 @@
                      <forename>Caroline</forename>
                      <surname>Tellheim</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Bettelheim</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/117254789</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q59653304</idno>
                </person>
@@ -4285,7 +4290,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_703">Leben und Tod der heiligen Genoveva</bibl>
                      <bibl n="hsl_work_id_1654">15 Romanzen aus Ludwig Tiecks Magelone, op. 33</bibl>
-                     <bibl n="hsl_work_id_1900">Leben und Tod des kleinen Rothkäppchens. Eine Tragödie.</bibl>
+                     <bibl n="hsl_work_id_1900">Leben und Tod des kleinen Rothkäppchens</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_307">
@@ -5422,6 +5427,7 @@
                      <forename>Irma</forename>
                      <surname>Rotter</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/115856838X</idno>
                </person>
                <person xml:id="hsl_person_id_879" role="fictional">
                   <persName type="main">
@@ -8024,7 +8030,6 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q6701</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_404">Über den Ursprung der Sprache</bibl>
-                     <bibl n="hsl_work_id_1901">Rotkäppchen</bibl>
                      <bibl n="hsl_work_id_1932">Dornröschen</bibl>
                   </listBibl>
                </person>
@@ -10650,6 +10655,7 @@
                      <bibl n="hsl_work_id_1400">Il carnevale di Venezia, op. 10</bibl>
                      <bibl n="hsl_work_id_1403">Moto perpetuo, op. 11</bibl>
                      <bibl n="hsl_work_id_1879">24 Capriccios für Violine, op. 1</bibl>
+                     <bibl n="hsl_work_id_2008">Mosè-fantasia, MS23</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1009">
@@ -29116,6 +29122,7 @@
                      <forename>Ida</forename>
                      <surname>Benza</surname>
                   </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q31090467</idno>
                </person>
                <person xml:id="hsl_person_id_2955">
                   <persName type="main">
@@ -29609,7 +29616,6 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118542265</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_1901">Rotkäppchen</bibl>
                      <bibl n="hsl_work_id_1932">Dornröschen</bibl>
                   </listBibl>
                </person>
@@ -29728,13 +29734,12 @@
                <person xml:id="hsl_person_id_3024" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Rotkäppchen</surname>
+                     <surname>Rose d'amour</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename>Rose d´amour</forename>
+                     <forename>Röschen</forename>
                      <surname>Rothkäppchen</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/124113788</idno>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_644">Le petit chaperon rouge</bibl>
                   </listBibl>
@@ -31755,26 +31760,17 @@
                      <surname>Wolf</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_1900">Leben und Tod des kleinen Rothkäppchens. Eine Tragödie.</bibl>
+                     <bibl n="hsl_work_id_1900">Leben und Tod des kleinen Rothkäppchens</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3252" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Baron Rudolphe</surname>
-                  </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_644">Le petit chaperon rouge</bibl>
-                  </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_3253" role="fictional">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Eremit</surname>
+                     <surname>Baron Rodolphe</surname>
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Klausner</surname>
+                     <surname>Rudolph</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_644">Le petit chaperon rouge</bibl>
@@ -31783,7 +31779,7 @@
                <person xml:id="hsl_person_id_3254" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Graf Roger</surname>
+                     <surname>Comte Roger</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_644">Le petit chaperon rouge</bibl>
@@ -31802,7 +31798,7 @@
                      <surname>Großmutter</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_1901">Rotkäppchen</bibl>
+                     <bibl n="hsl_work_id_1901">Le petit chaperon rouge</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3257" role="fictional">
@@ -31811,14 +31807,8 @@
                      <surname>Wolf</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_1901">Rotkäppchen</bibl>
+                     <bibl n="hsl_work_id_1901">Le petit chaperon rouge</bibl>
                   </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_3258" role="fictional">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Samiel</surname>
-                  </persName>
                </person>
                <person xml:id="hsl_person_id_3259" role="fictional">
                   <persName type="main">
@@ -31831,8 +31821,12 @@
                </person>
                <person xml:id="hsl_person_id_3260" role="fictional">
                   <persName type="main">
-                     <forename>Schulmeister</forename>
-                     <surname>M. Job</surname>
+                     <forename/>
+                     <surname>Job</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Schulmeister</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_644">Le petit chaperon rouge</bibl>
@@ -32747,8 +32741,11 @@
                <person xml:id="hsl_person_id_3366" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Geneviève</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2010">Nos Bons Villageois</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3367" role="fictional">
                   <persName type="main">
@@ -32762,6 +32759,120 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1292">Die Entführung aus dem Serail, KV384</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3368">
+                  <persName type="main">
+                     <forename>Charles</forename>
+                     <surname>Perrault</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118740008</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1901">Le petit chaperon rouge</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3369" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>L'ermite de la forét</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Klausner</forename>
+                     <surname>Einsiedler</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_644">Le petit chaperon rouge</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3370">
+                  <persName type="main">
+                     <forename>Immanuel Johann Gerhard</forename>
+                     <surname>Scheller</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117216151</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q89238</idno>
+               </person>
+               <person xml:id="hsl_person_id_3371">
+                  <persName type="main">
+                     <forename>Josefine</forename>
+                     <surname>Rudolff</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116671041</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q95663785</idno>
+               </person>
+               <person xml:id="hsl_person_id_3372">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Leclair</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_3373">
+                  <persName type="main">
+                     <forename>Gabriele</forename>
+                     <surname>Frankl-Joel</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116718250</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q95207671</idno>
+               </person>
+               <person xml:id="hsl_person_id_3374">
+                  <persName type="main">
+                     <forename>Eugenie</forename>
+                     <surname>Bernstein</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_3375">
+                  <persName type="main">
+                     <forename>Victorien</forename>
+                     <surname>Sardou</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118794566</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2010">Nos Bons Villageois</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3376">
+                  <persName type="main">
+                     <forename>Stephanie</forename>
+                     <surname>Wurmbrand-Stuppach</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1227397569</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q7608436</idno>
+               </person>
+               <person xml:id="hsl_person_id_3377">
+                  <persName type="main">
+                     <forename>Marie</forename>
+                     <surname>Charles</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_3378" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Leonora</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_171">Il trovatore, H54</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3379">
+                  <persName type="main">
+                     <forename>Ernst</forename>
+                     <surname>Dohm</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116170867</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q87457</idno>
+               </person>
+               <person xml:id="hsl_person_id_3380">
+                  <persName type="main">
+                     <forename>Ignaz</forename>
+                     <surname>Stowasser</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1033472670</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q94919628</idno>
+               </person>
+               <person xml:id="hsl_person_id_3381">
+                  <persName type="main">
+                     <forename>Franz</forename>
+                     <surname>Bock</surname>
+                  </persName>
                </person>
             </listPerson>
          </div>

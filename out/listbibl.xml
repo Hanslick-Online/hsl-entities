@@ -1569,6 +1569,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_506">Azucena</name>
                <name type="character" ref="#hsl_person_id_2956">Ferrando</name>
+               <name type="character" ref="#hsl_person_id_3378">Leonora</name>
             </bibl>
             <bibl xml:id="hsl_work_id_172">
                <title type="main">Il signor Fagotto</title>
@@ -4934,6 +4935,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_643">
                <title type="main">Joseph</title>
+               <title type="alternative">Joseph und seine Brüder</title>
                <author ref="#hsl_person_id_179">
                   <persName>Méhul, Étienne Nicolas</persName>
                </author>
@@ -4954,12 +4956,12 @@
                <author ref="#hsl_person_id_2093">
                   <persName>Théaulon de Lambert, Marie-Emmanuel Guillaume Marguerite</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_3024">Rotkäppchen</name>
-               <name type="character" ref="#hsl_person_id_3252">Baron Rudolphe</name>
-               <name type="character" ref="#hsl_person_id_3253">Eremit</name>
-               <name type="character" ref="#hsl_person_id_3254">Graf Roger</name>
+               <name type="character" ref="#hsl_person_id_3024">Rose d'amour</name>
+               <name type="character" ref="#hsl_person_id_3252">Baron Rodolphe</name>
+               <name type="character" ref="#hsl_person_id_3254">Comte Roger</name>
                <name type="character" ref="#hsl_person_id_3259">Nannette</name>
-               <name type="character" ref="#hsl_person_id_3260">M. Job, Schulmeister</name>
+               <name type="character" ref="#hsl_person_id_3260">Job</name>
+               <name type="character" ref="#hsl_person_id_3369">L'ermite de la forét</name>
             </bibl>
             <bibl xml:id="hsl_work_id_645">
                <title type="main">Lalla-Roukh</title>
@@ -14044,19 +14046,16 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1900">
-               <title type="main">Leben und Tod des kleinen Rothkäppchens. Eine Tragödie.</title>
+               <title type="main">Leben und Tod des kleinen Rothkäppchens</title>
                <author ref="#hsl_person_id_306">
                   <persName>Tieck, Ludwig</persName>
                </author>
                <name type="character" ref="#hsl_person_id_3251">Wolf</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1901">
-               <title type="main">Rotkäppchen</title>
-               <author ref="#hsl_person_id_688">
-                  <persName>Grimm, Jacob</persName>
-               </author>
-               <author ref="#hsl_person_id_3011">
-                  <persName>Grimm, Wilhelm</persName>
+               <title type="main">Le petit chaperon rouge</title>
+               <author ref="#hsl_person_id_3368">
+                  <persName>Perrault, Charles</persName>
                </author>
                <name type="character" ref="#hsl_person_id_3256">Großmutter</name>
                <name type="character" ref="#hsl_person_id_3257">Wolf</name>
@@ -14805,6 +14804,29 @@
                <author ref="#hsl_person_id_3365">
                   <persName>Aumer, Jean Pierre</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2008">
+               <title type="main">Mosè-fantasia, MS23</title>
+               <author ref="#hsl_person_id_1008">
+                  <persName>Paganini, Niccolò</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2009">
+               <title type="main">Quartett in D-Dur</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2010">
+               <title type="main">Nos Bons Villageois</title>
+               <title type="alternative">Unsere braven Landleute</title>
+               <author ref="#hsl_person_id_3375">
+                  <persName>Sardou, Victorien</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_3366">Geneviève</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2011">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>
