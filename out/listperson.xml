@@ -1252,6 +1252,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_30">Waldfräulein</bibl>
                      <bibl n="hsl_work_id_803">Fantaisie sur des motifs hongrois für 2 Flöten und Klavier, op. 35</bibl>
+                     <bibl n="hsl_work_id_2024">Fiammella oder: die Macht der Hölle</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_65">
@@ -2874,8 +2875,7 @@
                      <bibl n="hsl_work_id_1841">Divertimento für 2 Hörner, 2 Violinen, Viola und Bass Nr. 17 D-Dur, KV334</bibl>
                      <bibl n="hsl_work_id_1842">Sextett in B-dur</bibl>
                      <bibl n="hsl_work_id_1897">Timotheus oder die Gewalt der Musik, KV591 (Bearbeitung)</bibl>
-                     <bibl n="hsl_work_id_2016">21. Klavierkonzert in C-Dur KV 467</bibl>
-                     <bibl n="hsl_work_id_2017">Fantasie c-Moll, KV 475</bibl>
+                     <bibl n="hsl_work_id_2016">Konzert für Klavier und Orchester Nr. 21 in C-Dur, KV467</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_190">
@@ -3972,6 +3972,7 @@
                      <bibl n="hsl_work_id_1997">In der Fremde, op. 39 Nr. 1</bibl>
                      <bibl n="hsl_work_id_1998">Frühlingsnacht, op. 39 Nr. 12</bibl>
                      <bibl n="hsl_work_id_2014">Ouvertüre, Scherzo und Finale E-dur op. 52</bibl>
+                     <bibl n="hsl_work_id_2025">Spanisches Liederspiel, op. 74</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_283">
@@ -8287,6 +8288,7 @@
                      <bibl n="hsl_work_id_1382">Die Liebe als Nachtigall</bibl>
                      <bibl n="hsl_work_id_1964">Dereinst, Gedanke mein, op. 48 Nr. 2</bibl>
                      <bibl n="hsl_work_id_1966">Liebesgram, op. 74 Nr. 3</bibl>
+                     <bibl n="hsl_work_id_2025">Spanisches Liederspiel, op. 74</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_715">
@@ -19797,6 +19799,7 @@
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Special:EntityPage/Q30077083</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1278">La Giocoliera e Un'avventura di Carnevale</bibl>
+                     <bibl n="hsl_work_id_2024">Fiammella oder: die Macht der Hölle</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1973">
@@ -26945,6 +26948,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/11562077X</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q3894123</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2024">Fiammella oder: die Macht der Hölle</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_2715">
                   <persName type="main">
@@ -31765,15 +31771,6 @@
                      <bibl n="hsl_work_id_306">Gesang der heiligen drei Könige, op. 21</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3251" role="fictional">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Wolf</surname>
-                  </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_1900">Leben und Tod des kleinen Rothkäppchens</bibl>
-                  </listBibl>
-               </person>
                <person xml:id="hsl_person_id_3252" role="fictional">
                   <persName type="main">
                      <forename/>
@@ -31807,15 +31804,6 @@
                   <persName type="main">
                      <forename/>
                      <surname>Großmutter</surname>
-                  </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_1901">Le petit chaperon rouge</bibl>
-                  </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_3257" role="fictional">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Wolf</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1901">Le petit chaperon rouge</bibl>
@@ -32624,7 +32612,7 @@
                </person>
                <person xml:id="hsl_person_id_3350">
                   <persName type="main">
-                     <forename/>
+                     <forename>Ellen</forename>
                      <surname>Gulbranson</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/11692442X</idno>
@@ -32986,6 +32974,21 @@
                      <surname>Windischgraetz</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118633651</idno>
+               </person>
+               <person xml:id="hsl_person_id_3396" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Fiammella</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2024">Fiammella oder: die Macht der Hölle</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3397" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
                </person>
             </listPerson>
          </div>
