@@ -10584,12 +10584,6 @@
                   <idno type="GND">https://d-nb.info/gnd/118520237</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q49767</idno>
                </person>
-               <person xml:id="hsl_person_id_1000">
-                  <persName type="main">
-                     <forename>Augustin</forename>
-                     <surname>de Pons</surname>
-                  </persName>
-               </person>
                <person xml:id="hsl_person_id_1001">
                   <persName type="main">
                      <forename>König von Frankreich</forename>
@@ -10669,14 +10663,6 @@
                      <bibl n="hsl_work_id_1879">24 Capriccios für Violine, op. 1</bibl>
                      <bibl n="hsl_work_id_2008">Mosè-fantasia, MS23</bibl>
                   </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_1009">
-                  <persName type="main">
-                     <forename>Louis Marie Armand</forename>
-                     <surname>Bertin</surname>
-                  </persName>
-                  <idno type="GND">https://d-nb.info/gnd/117735566</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2861769</idno>
                </person>
                <person xml:id="hsl_person_id_1010">
                   <persName type="main">
@@ -20638,6 +20624,10 @@
                   <persName type="main">
                      <forename>Káláman</forename>
                      <surname>Jósika</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Josika</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/122312147X</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1102798</idno>
@@ -32985,6 +32975,12 @@
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3397" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_3399" role="fictional">
                   <persName type="main">
                      <forename/>
                      <surname/>
