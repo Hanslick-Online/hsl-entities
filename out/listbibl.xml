@@ -13707,6 +13707,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1848">
                <title type="main">Gesänge der Frühe, op. 133</title>
+               <title type="alternative">Gesänge in der Frühe</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
@@ -13920,6 +13921,9 @@
                <author ref="#hsl_person_id_3197">
                   <persName>Kulmann, Elisabeth</persName>
                </author>
+               <author ref="#hsl_person_id_3198">
+                  <persName>Grossheinrich, Karl Friedrich von</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1882">
                <title type="main">Novelette für Klavier in D-Dur, op. 21 Nr. 2</title>
@@ -14009,13 +14013,6 @@
                </author>
                <name type="character" ref="#hsl_person_id_552">Harold</name>
             </bibl>
-            <bibl xml:id="hsl_work_id_1895">
-               <title type="main">Lieder</title>
-               <title type="alternative">unklarer Bezug</title>
-               <author ref="#hsl_person_id_41">
-                  <persName>Brahms, Johannes</persName>
-               </author>
-            </bibl>
             <bibl xml:id="hsl_work_id_1896">
                <title type="main">El ingenioso hidalgo don Quijote de la Mancha</title>
                <author ref="#hsl_person_id_1950">
@@ -14071,7 +14068,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1904">
-               <title type="main">Abendrauschen für Violine und Klavier, op. 5 Nr. 2</title>
+               <title type="main">Abendglocken für Violine und Klavier, op. 5 Nr. 2</title>
                <author ref="#hsl_person_id_140">
                   <persName>Joachim, Joseph</persName>
                </author>
@@ -14274,7 +14271,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1934">
                <title type="main">Jan Hus, op. 82</title>
-               <title type="alternative">Jan Huß</title>
+               <title type="alternative">Johannes / Jan Huß</title>
                <author ref="#hsl_person_id_1122">
                   <persName>Loewe, Carl</persName>
                </author>
@@ -14384,12 +14381,6 @@
                <author ref="#hsl_person_id_100">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
-               <author ref="#hsl_person_id_1122">
-                  <persName>Loewe, Carl</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_1946">
-               <title type="main">3 Balladen, op. 1</title>
                <author ref="#hsl_person_id_1122">
                   <persName>Loewe, Carl</persName>
                </author>
@@ -14824,7 +14815,10 @@
                <name type="character" ref="#hsl_person_id_3366">Geneviève</name>
             </bibl>
             <bibl xml:id="hsl_work_id_2011">
-               <title type="main"/>
+               <title type="main">Johann Huß, Oratorium von Prof. Dr. A. Zeune, componiert von Dr. C. Löwe</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2012">
                <title type="main">Orfeo ed Euridice</title>
@@ -14913,6 +14907,21 @@
                </author>
                <author ref="#hsl_person_id_714">
                   <persName>Geibel, Emanuel</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2026">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2027">
+               <title type="main">Sonata a preghiera</title>
+               <author ref="#hsl_person_id_1008">
+                  <persName>Paganini, Niccolò</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2028">
+               <title type="main">La regata veneziana, S.424 Nr. 2</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
                </author>
             </bibl>
       </listBibl>
