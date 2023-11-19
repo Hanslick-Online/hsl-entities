@@ -971,6 +971,10 @@
                      <forename>Hans von</forename>
                      <surname>Bülow</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Hanns von</forename>
+                     <surname>Bülow</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118664638</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q155540</idno>
                   <listBibl type="authorOf">
@@ -4965,8 +4969,15 @@
                      <forename/>
                      <surname>Raffael</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Raphael</forename>
+                     <surname>Rafael</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118597787</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5597</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1346">Die Königin von Saba</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_381">
                   <persName type="main">
@@ -9013,21 +9024,6 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5592</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1823">Cappella Sistina</bibl>
-                  </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_816">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Raffael</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Rafael</surname>
-                  </persName>
-                  <idno type="GND">https://d-nb.info/gnd/118597787</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5597</idno>
-                  <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_1346">Die Königin von Saba</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_817">
@@ -30833,8 +30829,8 @@
                      <surname>Bülow</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename>Isa von / Bojanowski</forename>
-                     <surname>Bülow</surname>
+                     <forename>Isa von</forename>
+                     <surname>Bojanowski</surname>
                   </persName>
                </person>
                <person xml:id="hsl_person_id_3150">
@@ -33054,6 +33050,20 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/117447412</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q3629569</idno>
+               </person>
+               <person xml:id="hsl_person_id_3409">
+                  <persName type="main">
+                     <forename>Peter</forename>
+                     <surname>Cornelius</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118522213</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q57257</idno>
+               </person>
+               <person xml:id="hsl_person_id_3410" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
                </person>
             </listPerson>
          </div>
