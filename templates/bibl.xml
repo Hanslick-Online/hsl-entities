@@ -75,6 +75,9 @@
                <name type="character" ref="#{{ f.data.hsl_id }}">{{ f.data.name }}</name>
                {% endfor %}
                {% endif %}
+               {% if x.gnd|length != 0 %}
+               <idno type="GND">{{ x.gnd }}</idno>
+               {% endif %}
             </bibl>
          {% endfor %}
       </listBibl>
