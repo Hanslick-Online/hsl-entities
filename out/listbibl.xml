@@ -1224,7 +1224,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_119">
                <title type="main">Le dieu et la bayadère, ou La courtisane amoureuse</title>
-               <title type="alternative">Der Gott, Brahma und die Bajadere, Bayadere</title>
+               <title type="alternative">Der Gott / Brahma und die Bajadere / Bayadere/ Bayadère</title>
                <author ref="#hsl_person_id_16">
                   <persName>Auber, Daniel-François-Esprit</persName>
                </author>
@@ -1232,7 +1232,7 @@
                   <persName>Scribe, Eugène</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1113">Zoloé</name>
-               <name type="character" ref="#hsl_person_id_2046">Unbekannter</name>
+               <name type="character" ref="#hsl_person_id_2046">Inconnu</name>
                <idno type="GND">https://d-nb.info/gnd/1072482479</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_120">
@@ -10429,6 +10429,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1259">
                <title type="main">Kreisleriana, op. 16</title>
+               <title type="alternative">Keisleriana</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
@@ -10784,8 +10785,10 @@
                <author ref="#hsl_person_id_2163">
                   <persName>Gille, Philippe</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_2051">Liebesgott</name>
-               <name type="character" ref="#hsl_person_id_2052">Daphne</name>
+               <name type="character" ref="#hsl_person_id_2051">Éros</name>
+               <name type="character" ref="#hsl_person_id_2052">Daphné</name>
+               <name type="character" ref="#hsl_person_id_3397">Myriame</name>
+               <name type="character" ref="#hsl_person_id_3444">Sincère</name>
                <idno type="GND">https://d-nb.info/gnd/111257980X</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1307">
@@ -16257,7 +16260,11 @@
                <idno type="GND">https://d-nb.info/gnd/300146620</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2026">
-               <title type="main"/>
+               <title type="main">Davidsbündlertänze für Klavier, op. 6</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="GND">https://d-nb.info/gnd/300144563</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2027">
                <title type="main">Sonata a preghiera</title>
@@ -16305,6 +16312,53 @@
                <title type="main">Movimento perpetuo</title>
                <author ref="#hsl_person_id_3349">
                   <persName>Sivori, Camillo</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2035">
+               <title type="main">In der Nacht, op. 12 Nr. 5</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="GND">https://d-nb.info/gnd/300363087</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2036">
+               <title type="main">Variationen und Fuge für Klavier in Es-Dur, op. 35</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <idno type="GND">https://d-nb.info/gnd/300017537</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2037">
+               <title type="main">6 Variationen für Klavier in F-Dur, op. 34</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <idno type="GND">https://d-nb.info/gnd/300201281</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2038">
+               <title type="main">Sonate für Violine und Klavier in A-Dur</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2039">
+               <title type="main">Requiem in d-Moll</title>
+               <author ref="#hsl_person_id_47">
+                  <persName>Cherubini, Luigi</persName>
+               </author>
+               <idno type="GND">https://d-nb.info/gnd/4517957-8</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2041">
+               <title type="main">Les Voix de Paris</title>
+               <author ref="#hsl_person_id_3405">
+                  <persName>Kastner, Georges</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2042">
+               <title type="main">Biographie universelle des musiciens</title>
+               <author ref="#hsl_person_id_78">
+                  <persName>Fétis, François-Joseph</persName>
                </author>
             </bibl>
       </listBibl>

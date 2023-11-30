@@ -668,6 +668,8 @@
                      <bibl n="hsl_work_id_1889">Egmont, op. 84 (Schauspielmusik)</bibl>
                      <bibl n="hsl_work_id_1928">Trio für Violine, Violoncello und Klavier in D-Dur, op. 70 Nr. 1</bibl>
                      <bibl n="hsl_work_id_2021">Quintett Es-Dur für Klavier, Oboe, Klarinette, Horn und Fagott, op. 16</bibl>
+                     <bibl n="hsl_work_id_2036">Variationen und Fuge für Klavier in Es-Dur, op. 35</bibl>
+                     <bibl n="hsl_work_id_2037">6 Variationen für Klavier in F-Dur, op. 34</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_26">
@@ -1028,6 +1030,7 @@
                      <bibl n="hsl_work_id_1407">Quartett für 2 Violinen, Viola und Cello</bibl>
                      <bibl n="hsl_work_id_1617">Anacréon, ou L'amour fugitif</bibl>
                      <bibl n="hsl_work_id_2032">Blanche de Provence</bibl>
+                     <bibl n="hsl_work_id_2039">Requiem in d-Moll</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_48">
@@ -1400,6 +1403,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/11949924X</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q523581</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2042">Biographie universelle des musiciens</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_79">
                   <persName type="main">
@@ -2895,6 +2901,7 @@
                      <bibl n="hsl_work_id_1842">Sextett in B-dur</bibl>
                      <bibl n="hsl_work_id_1897">Timotheus oder die Gewalt der Musik, KV591 (Bearbeitung)</bibl>
                      <bibl n="hsl_work_id_2016">Konzert für Klavier und Orchester Nr. 21 in C-Dur, KV467</bibl>
+                     <bibl n="hsl_work_id_2038">Sonate für Violine und Klavier in A-Dur</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_190">
@@ -3997,6 +4004,8 @@
                      <bibl n="hsl_work_id_2011">Johann Huß, Oratorium von Prof. Dr. A. Zeune, componiert von Dr. C. Löwe</bibl>
                      <bibl n="hsl_work_id_2014">Ouvertüre, Scherzo und Finale E-dur op. 52</bibl>
                      <bibl n="hsl_work_id_2025">Spanisches Liederspiel, op. 74</bibl>
+                     <bibl n="hsl_work_id_2026">Davidsbündlertänze für Klavier, op. 6</bibl>
+                     <bibl n="hsl_work_id_2035">In der Nacht, op. 12 Nr. 5</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_283">
@@ -6171,12 +6180,6 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_820">Bibel</bibl>
                   </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_471" role="fictional">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Diana</surname>
-                  </persName>
                </person>
                <person xml:id="hsl_person_id_472" role="fictional">
                   <persName type="main">
@@ -11722,8 +11725,8 @@
                      <surname>Zoloé</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
-                     <surname>Bayadère</surname>
+                     <forename>Bayadère</forename>
+                     <surname>Zoloë</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_119">Le dieu et la bayadère, ou La courtisane amoureuse</bibl>
@@ -20630,6 +20633,10 @@
                      <forename>Carl von</forename>
                      <surname>Lützow</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Karl von</forename>
+                     <surname>Lützow</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/100804691</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q124190</idno>
                </person>
@@ -20654,11 +20661,19 @@
                      <forename/>
                      <surname>Shiva</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Siva</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/118755218</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q11378</idno>
                </person>
                <person xml:id="hsl_person_id_2046" role="fictional">
                   <persName type="main">
+                     <forename/>
+                     <surname>Inconnu</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename/>
                      <surname>Unbekannter</surname>
                   </persName>
@@ -20699,7 +20714,11 @@
                <person xml:id="hsl_person_id_2051" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Liebesgott</surname>
+                     <surname>Éros</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Eros</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1306">Les bergers</bibl>
@@ -20707,6 +20726,10 @@
                </person>
                <person xml:id="hsl_person_id_2052" role="fictional">
                   <persName type="main">
+                     <forename/>
+                     <surname>Daphné</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename/>
                      <surname>Daphne</surname>
                   </persName>
@@ -20735,7 +20758,7 @@
                      <surname>Jósika</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
+                     <forename>Koloman</forename>
                      <surname>Josika</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/122312147X</idno>
@@ -33113,8 +33136,15 @@
                <person xml:id="hsl_person_id_3397" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Myriame</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Myriamne</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1306">Les bergers</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3399" role="fictional">
                   <persName type="main">
@@ -33162,6 +33192,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116066164</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1226102</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2041">Les Voix de Paris</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3406">
                   <persName type="main">
@@ -33430,6 +33463,15 @@
                      <forename/>
                      <surname>Martin</surname>
                   </persName>
+               </person>
+               <person xml:id="hsl_person_id_3444" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Sincère</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1306">Les bergers</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
