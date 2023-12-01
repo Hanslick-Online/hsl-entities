@@ -2810,8 +2810,7 @@
                </place>
                <place xml:id="hsl_place_id_232">
                   <settlement type="A">
-                     <placeName type="main">Portugalská republika</placeName>
-                     <placeName type="alternative">Portugal</placeName>
+                     <placeName type="main">Portugal</placeName>
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>PT, Portugal</country>
@@ -2837,6 +2836,7 @@
                <place xml:id="hsl_place_id_234">
                   <settlement type="P">
                      <placeName type="main">Malindi</placeName>
+                     <placeName type="alternative">Melinda</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>KE, Kenya</country>
@@ -2850,7 +2850,7 @@
                <place xml:id="hsl_place_id_235">
                   <settlement type="P">
                      <placeName type="main">Kozhikode</placeName>
-                     <placeName type="alternative">Calicut</placeName>
+                     <placeName type="alternative">Calicut, Calecut</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>IN, India</country>
@@ -2864,7 +2864,7 @@
                <place xml:id="hsl_place_id_236">
                   <settlement type="L">
                      <placeName type="main">Malabār</placeName>
-                     <placeName type="alternative">Malabarküste</placeName>
+                     <placeName type="alternative">Malabar</placeName>
                   </settlement>
                   <desc type="entity_type">parks,area, ...</desc>
                   <country>IN, India</country>
@@ -2878,7 +2878,7 @@
                <place xml:id="hsl_place_id_237">
                   <settlement type="A">
                      <placeName type="main">Madagasikara</placeName>
-                     <placeName type="alternative">Madagaskar</placeName>
+                     <placeName type="alternative">Madagaskar, Madagascar</placeName>
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>MG, Madagascar</country>
@@ -4188,6 +4188,41 @@
                   <idno type="GEONAMES">https://sws.geonames.org/2971549/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5489</idno>
                   <idno type="GND">https://d-nb.info/gnd/4061034-2</idno>
+               </place>
+               <place xml:id="hsl_place_id_384">
+                  <placeName type="main">Cape of Good Hope</placeName>
+                     <placeName type="alternative">Kap der Guten Hoffnung</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3367577/</idno>
+               </place>
+               <place xml:id="hsl_place_id_385">
+                  <placeName type="main">Pesaro</placeName>
+                  <country>IT, Italy</country>
+                  <location type="coords">
+                     <geo>43.90921, 12.9164</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3171173/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q13134</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4115912-3</idno>
+               </place>
+               <place xml:id="hsl_place_id_386">
+                  <placeName type="main">Lille</placeName>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>50.63297, 3.05858</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2998324/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q648</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4114418-1</idno>
+               </place>
+               <place xml:id="hsl_place_id_387">
+                  <placeName type="main">Tourcoing</placeName>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>50.72391, 3.16117</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2972284/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q182481</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4119672-7</idno>
                </place>
             </listPlace>
          </div>
