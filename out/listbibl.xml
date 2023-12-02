@@ -10371,10 +10371,12 @@
                <idno type="GND">https://d-nb.info/gnd/300065280</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1251">
-               <title type="main">O Del Mio Dolce Ardor</title>
-               <author ref="#hsl_person_id_424">
-                  <persName>Stradella, Alessandro</persName>
+               <title type="main">O del mio dolce ardor</title>
+               <title type="alternative">langzeitig Stradella zugeordnet</title>
+               <author ref="#hsl_person_id_99">
+                  <persName>Gluck, Christoph Willibald</persName>
                </author>
+               <idno type="GND">https://d-nb.info/gnd/300060386</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1252">
                <title type="main">Sémiramis</title>
@@ -10527,12 +10529,16 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1272">
                <title type="main">Schir Zion</title>
+               <title type="alternative">Schir-Zion</title>
                <author ref="#hsl_person_id_1937">
                   <persName>Sulzer, Salomon</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1273">
                <title type="main">Klagelied Nr. 345</title>
+               <author ref="#hsl_person_id_1937">
+                  <persName>Sulzer, Salomon</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1274">
                <title type="main">Das Donauweibchen und der Ritter vom Kahlenberg</title>
@@ -16359,6 +16365,12 @@
                <title type="main">Biographie universelle des musiciens</title>
                <author ref="#hsl_person_id_78">
                   <persName>Fétis, François-Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2043">
+               <title type="main">Quartett für 2 Violinen, Viola und Cello in F-Dur, op. 41 Nr. 2</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
                </author>
             </bibl>
       </listBibl>
