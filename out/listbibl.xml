@@ -1760,7 +1760,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_653">Rosina</name>
                <name type="character" ref="#hsl_person_id_2284">Berta</name>
-               <name type="character" ref="#hsl_person_id_2297">Doktor Bartolo</name>
+               <name type="character" ref="#hsl_person_id_2297">Don Bartolo</name>
                <name type="character" ref="#hsl_person_id_2806">Don Basilio</name>
                <name type="character" ref="#hsl_person_id_2807">Figaro</name>
                <name type="character" ref="#hsl_person_id_2812">Il Conte d'Almaviva</name>
@@ -8915,9 +8915,9 @@
                <author ref="#hsl_person_id_2069">
                   <persName>Godard d'Aucourt de Saint-Just, Claude</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_2273">Johann von Paris</name>
-               <name type="character" ref="#hsl_person_id_2279">Oliviero</name>
-               <name type="character" ref="#hsl_person_id_2281">Ober-Seneschall der Prinzessin</name>
+               <name type="character" ref="#hsl_person_id_2273">Jean de Paris</name>
+               <name type="character" ref="#hsl_person_id_2279">Olivier</name>
+               <name type="character" ref="#hsl_person_id_2281">Grand Sénéchal</name>
                <idno type="GND">https://d-nb.info/gnd/300781407</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1082">
@@ -11209,8 +11209,7 @@
                <author ref="#hsl_person_id_284">
                   <persName>Scribe, Eugène</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_2274">Anna</name>
-               <name type="character" ref="#hsl_person_id_2277">George Brown</name>
+               <name type="character" ref="#hsl_person_id_2277">Georges Brown</name>
                <idno type="GND">https://d-nb.info/gnd/300022794</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1362">
@@ -11225,13 +11224,14 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1363">
                <title type="main">Ma tante Aurore</title>
-               <title type="alternative">Le Roman Impromtu</title>
+               <title type="alternative">Le Roman impromtu</title>
                <author ref="#hsl_person_id_36">
                   <persName>Boieldieu, François Adrien</persName>
                </author>
                <author ref="#hsl_person_id_3241">
                   <persName>Longchamps, Charles de</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_3445">Frontin</name>
                <idno type="GND">https://d-nb.info/gnd/300781393</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1364">
@@ -11284,6 +11284,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1370">
                <title type="main">Le chant des titans</title>
+               <title type="alternative">Gesang der Titanen, Titanengesang</title>
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
                </author>
@@ -11291,6 +11292,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1371">
                <title type="main">La nuit de Noël</title>
+               <title type="alternative">Weihnacht</title>
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
                </author>
@@ -16372,6 +16374,9 @@
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2045">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>

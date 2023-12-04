@@ -23118,27 +23118,14 @@
                <person xml:id="hsl_person_id_2273" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Johann von Paris</surname>
+                     <surname>Jean de Paris</surname>
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Bourgeois</surname>
+                     <surname>Johann von Paris</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1081">Jean de Paris</bibl>
-                  </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_2274" role="fictional">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Anna</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Die weiße Frau</surname>
-                  </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_1361">La dame blanche</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2275" role="fictional">
@@ -23161,6 +23148,10 @@
                <person xml:id="hsl_person_id_2277" role="fictional">
                   <persName type="main">
                      <forename/>
+                     <surname>Georges Brown</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>George Brown</surname>
                   </persName>
                   <listBibl type="characterOf">
@@ -23178,11 +23169,7 @@
                <person xml:id="hsl_person_id_2279" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Oliviero</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Page Olivier</surname>
+                     <surname>Olivier</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1081">Jean de Paris</bibl>
@@ -23198,7 +23185,11 @@
                <person xml:id="hsl_person_id_2281" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Ober-Seneschall der Prinzessin</surname>
+                     <surname>Grand Sénéchal</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Seneschall</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1081">Jean de Paris</bibl>
@@ -23234,6 +23225,7 @@
                      <forename>Anton</forename>
                      <surname>Burg</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/143594168</idno>
                </person>
                <person xml:id="hsl_person_id_2286" role="fictional">
                   <persName type="main">
@@ -23279,14 +23271,6 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/115639290X</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q95242580</idno>
-               </person>
-               <person xml:id="hsl_person_id_2291">
-                  <persName type="main">
-                     <forename>Paul</forename>
-                     <surname>Duport</surname>
-                  </persName>
-                  <idno type="GND">https://d-nb.info/gnd/11625369X</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q19629451</idno>
                </person>
                <person xml:id="hsl_person_id_2292">
                   <persName type="main">
@@ -23339,7 +23323,7 @@
                <person xml:id="hsl_person_id_2297" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Doktor Bartolo</surname>
+                     <surname>Don Bartolo</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_176">Il barbiere di Siviglia</bibl>
@@ -23382,9 +23366,14 @@
                </person>
                <person xml:id="hsl_person_id_2304">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>Isabella</forename>
+                     <surname>Colbrán</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Colbrand</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116636602</idno>
                </person>
                <person xml:id="hsl_person_id_2305">
                   <persName type="main">
@@ -33486,6 +33475,22 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1306">Les bergers</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3445" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Frontin</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1363">Ma tante Aurore</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3446">
+                  <persName type="main">
+                     <forename>Louis Antoine</forename>
+                     <surname>Duport</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116253657</idno>
                </person>
             </listPerson>
          </div>
