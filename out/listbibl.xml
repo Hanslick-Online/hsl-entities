@@ -520,7 +520,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_50">
-               <title type="main">Ein Sommernachtstraum, MWV P 3</title>
+               <title type="main">Ein Sommernachtstraum, MWV P 3 (Ouvertüre)</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
@@ -8301,6 +8301,12 @@
                <author ref="#hsl_person_id_1596">
                   <persName>Kauer, Ferdinand</persName>
                </author>
+               <author ref="#hsl_person_id_3399">
+                  <persName>Hensler, Karl Friedrich</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_1967">Kasper Larifari</name>
+               <name type="character" ref="#hsl_person_id_3400">Hulda</name>
+               <idno type="GND">https://d-nb.info/gnd/4507892-0</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1007">
                <title type="main">Kriegslied der Österreicher, WoO122</title>
@@ -10545,22 +10551,29 @@
                <author ref="#hsl_person_id_352">
                   <persName>Hopp, Julius</persName>
                </author>
+               <author ref="#hsl_person_id_3447">
+                  <persName>Krone, Paul</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_1963">Hulda</name>
                <name type="character" ref="#hsl_person_id_1964">Theiß</name>
-               <name type="character" ref="#hsl_person_id_1965">Heinrich von Kahlenberg</name>
-               <name type="character" ref="#hsl_person_id_1967">Urban</name>
+               <name type="character" ref="#hsl_person_id_1965">Heinrich vom Kahlenberg</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1275">
-               <title type="main">Die Hexe von Boissy</title>
+               <title type="main">Die Hexe von Boisy</title>
                <author ref="#hsl_person_id_1948">
                   <persName>Zajc, Ivan</persName>
+               </author>
+               <author ref="#hsl_person_id_3448">
+                  <persName>Costa, Carl</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1276">
                <title type="main">La gitanilla</title>
+               <title type="alternative">Gitana</title>
                <author ref="#hsl_person_id_1950">
                   <persName>Cervantes Saavedra, Miguel de</persName>
                </author>
+               <idno type="GND">https://d-nb.info/gnd/4602982-5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1277">
                <title type="main">Große Messe in e-Moll für Chor, Orgel und Orchester</title>
@@ -10571,11 +10584,14 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1278">
                <title type="main">La Giocoliera e Un'avventura di Carnevale</title>
-               <title type="alternative">Die Gauklerin</title>
+               <title type="alternative">Die Gauklerin, Gazella</title>
                <author ref="#hsl_person_id_1972">
                   <persName>Borri, Pasquale</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_1974">Gazella</name>
+               <author ref="#hsl_person_id_2714">
+                  <persName>Giorza, Paolo</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_1974">Adelina</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1279">
                <title type="main">La fille du régiment</title>
@@ -16381,6 +16397,16 @@
                <author ref="#hsl_person_id_153">
                   <persName>Laube, Heinrich</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2046">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2047">
+               <title type="main">Ein Sommernachtstraum, MWV M 13 (Schauspielmusik)</title>
+               <author ref="#hsl_person_id_21">
+                  <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+               <idno type="GND">https://d-nb.info/gnd/300102682</idno>
             </bibl>
       </listBibl>
       </body>

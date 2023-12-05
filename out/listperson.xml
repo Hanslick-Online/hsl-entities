@@ -529,7 +529,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_6">Das Märchen von der schönen Melusine, MWV P 12</bibl>
                      <bibl n="hsl_work_id_32">Variations sérieuses für Klavier, MWV U 156</bibl>
-                     <bibl n="hsl_work_id_50">Ein Sommernachtstraum, MWV P 3</bibl>
+                     <bibl n="hsl_work_id_50">Ein Sommernachtstraum, MWV P 3 (Ouvertüre)</bibl>
                      <bibl n="hsl_work_id_67">Paulus, MWV A 14</bibl>
                      <bibl n="hsl_work_id_78">Oedipus in Kolonos, MWV M 14</bibl>
                      <bibl n="hsl_work_id_88">Meeresstille und glückliche Fahrt, MWV P 5</bibl>
@@ -559,6 +559,7 @@
                      <bibl n="hsl_work_id_1707">Liebe und Wein, MWV G 26</bibl>
                      <bibl n="hsl_work_id_1860">Lieder ohne Worte</bibl>
                      <bibl n="hsl_work_id_1988">Ouvertüre in C-Dur, op. 24</bibl>
+                     <bibl n="hsl_work_id_2047">Ein Sommernachtstraum, MWV M 13 (Schauspielmusik)</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_22">
@@ -19709,7 +19710,7 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/119351455</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_1275">Die Hexe von Boissy</bibl>
+                     <bibl n="hsl_work_id_1275">Die Hexe von Boisy</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1949">
@@ -19799,7 +19800,7 @@
                <person xml:id="hsl_person_id_1959">
                   <persName type="main">
                      <forename>Georg</forename>
-                     <surname>Reutter</surname>
+                     <surname>Reutter der Jüngere</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/102338469</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q691733</idno>
@@ -19820,7 +19821,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Donauweibchen</surname>
+                     <surname>Donau</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1274">Das Donauweibchen und der Ritter vom Kahlenberg</bibl>
@@ -19838,7 +19839,7 @@
                <person xml:id="hsl_person_id_1965" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Heinrich von Kahlenberg</surname>
+                     <surname>Heinrich vom Kahlenberg</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1274">Das Donauweibchen und der Ritter vom Kahlenberg</bibl>
@@ -19855,14 +19856,14 @@
                <person xml:id="hsl_person_id_1967" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Urban</surname>
+                     <surname>Kasper Larifari</surname>
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Knappe</surname>
+                     <surname>Kasperle</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_1274">Das Donauweibchen und der Ritter vom Kahlenberg</bibl>
+                     <bibl n="hsl_work_id_1006">Das Donauweibchen</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1968" role="fictional">
@@ -19928,6 +19929,10 @@
                <person xml:id="hsl_person_id_1974" role="fictional">
                   <persName type="main">
                      <forename/>
+                     <surname>Adelina</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Gazella</surname>
                   </persName>
                   <listBibl type="characterOf">
@@ -19948,7 +19953,7 @@
                </person>
                <person xml:id="hsl_person_id_1976">
                   <persName type="main">
-                     <forename/>
+                     <forename>Filippo</forename>
                      <surname>Baratti</surname>
                   </persName>
                </person>
@@ -27083,6 +27088,7 @@
                   <idno type="GND">https://d-nb.info/gnd/11562077X</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q3894123</idno>
                   <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1278">La Giocoliera e Un'avventura di Carnevale</bibl>
                      <bibl n="hsl_work_id_2024">Fiammella oder: die Macht der Hölle</bibl>
                   </listBibl>
                </person>
@@ -33150,17 +33156,28 @@
                      <bibl n="hsl_work_id_1306">Les bergers</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3399" role="fictional">
+               <person xml:id="hsl_person_id_3399">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Karl Friedrich</forename>
+                     <surname>Hensler</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119267659</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1006">Das Donauweibchen</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3400" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Hulda</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Donau</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1006">Das Donauweibchen</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3401">
                   <persName type="main">
@@ -33169,11 +33186,12 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/117363855</idno>
                </person>
-               <person xml:id="hsl_person_id_3402" role="fictional">
+               <person xml:id="hsl_person_id_3402">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Johann Wenzel von</forename>
+                     <surname>Sporck</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/121623157</idno>
                </person>
                <person xml:id="hsl_person_id_3403" role="fictional">
                   <persName type="main">
@@ -33492,6 +33510,33 @@
                      <surname>Duport</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116253657</idno>
+               </person>
+               <person xml:id="hsl_person_id_3447">
+                  <persName type="main">
+                     <forename>Paul</forename>
+                     <surname>Krone</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/142258970</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1274">Das Donauweibchen und der Ritter vom Kahlenberg</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3448">
+                  <persName type="main">
+                     <forename>Carl</forename>
+                     <surname>Costa</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116689110</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1275">Die Hexe von Boisy</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3449">
+                  <persName type="main">
+                     <forename>Karl</forename>
+                     <surname>Swoboda</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/133674126</idno>
                </person>
             </listPerson>
          </div>
