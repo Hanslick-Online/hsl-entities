@@ -4021,6 +4021,7 @@
                      <bibl n="hsl_work_id_2026">Davidsbündlertänze für Klavier, op. 6</bibl>
                      <bibl n="hsl_work_id_2035">In der Nacht, op. 12 Nr. 5</bibl>
                      <bibl n="hsl_work_id_2043">Quartett für 2 Violinen, Viola und Cello in F-Dur, op. 41 Nr. 2</bibl>
+                     <bibl n="hsl_work_id_2056">Faschingsschwank aus Wien für Klavier, op. 26</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_283">
@@ -33274,11 +33275,12 @@
                   <idno type="GND">https://d-nb.info/gnd/118522213</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q57257</idno>
                </person>
-               <person xml:id="hsl_person_id_3410" role="fictional">
+               <person xml:id="hsl_person_id_3410">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Miska</forename>
+                     <surname>Farkas</surname>
                   </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q110177535</idno>
                </person>
                <person xml:id="hsl_person_id_3411" role="fictional">
                   <persName type="main">
@@ -33602,6 +33604,15 @@
                   <idno type="GND">https://d-nb.info/gnd/117083682</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1553">Cantate zur Feier des allgemeinen Friedens</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3454" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Rudolf von Harras</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_512">Wilhelm Tell</bibl>
                   </listBibl>
                </person>
             </listPerson>
