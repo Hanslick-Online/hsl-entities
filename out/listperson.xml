@@ -1715,6 +1715,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q210962</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1706">Les deux avares</bibl>
+                     <bibl n="hsl_work_id_2061">Raoul Barbe-Bleue</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_104">
@@ -2518,6 +2519,7 @@
                      <bibl n="hsl_work_id_1742">Franz Liszt's Briefe</bibl>
                      <bibl n="hsl_work_id_1751">Réminiscences de Lucia di Lammermoor für Klavier, S397</bibl>
                      <bibl n="hsl_work_id_2028">La regata veneziana, S.424 Nr. 2</bibl>
+                     <bibl n="hsl_work_id_2059">St François de Paule: Marchant sur les flots für Klavier, S175 Nr. 2</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_165">
@@ -3097,6 +3099,7 @@
                      <bibl n="hsl_work_id_1310">Coscoletto</bibl>
                      <bibl n="hsl_work_id_1364">Le pont des soupirs</bibl>
                      <bibl n="hsl_work_id_1365">Geneviève de Brabant</bibl>
+                     <bibl n="hsl_work_id_1366">Pépito</bibl>
                      <bibl n="hsl_work_id_1368">Le violoneux</bibl>
                   </listBibl>
                </person>
@@ -4535,8 +4538,8 @@
                      <bibl n="hsl_work_id_1021">Das Liebesverbot oder Die Novize von Palermo, WWV38</bibl>
                      <bibl n="hsl_work_id_1315">Siegfried, WWV86C</bibl>
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
-                     <bibl n="hsl_work_id_1578">Huldigungsmarsch, WWV 97</bibl>
-                     <bibl n="hsl_work_id_1717">Eine Faust-Ouvertüre, WWV 59</bibl>
+                     <bibl n="hsl_work_id_1578">Huldigungsmarsch, WWV97</bibl>
+                     <bibl n="hsl_work_id_1717">Eine Faust-Ouvertüre, WWV59</bibl>
                      <bibl n="hsl_work_id_1985">Feuerzauber (Die Walküre, WWV86B)</bibl>
                      <bibl n="hsl_work_id_1986">Walkürenritt (Die Walküre, WWV86B)</bibl>
                   </listBibl>
@@ -5082,6 +5085,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_323">Ueber die Theorie der Musik, insofern sie Liebhabern und Kennern nothwendig und nützlich ist. Eine Einladungsschrift zu musikalischen Vorlesungen</bibl>
                      <bibl n="hsl_work_id_1185">Ueber Johann Sebastian Bachs Leben, Kunst und Kunstwerke</bibl>
+                     <bibl n="hsl_work_id_2060">Musikalischer Almanach für Deutschland</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_386">
@@ -6133,7 +6137,7 @@
                      <surname>Jesus Christus</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
+                     <forename>Christ</forename>
                      <surname>Heiland</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118557513</idno>
@@ -9133,7 +9137,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q708557</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1359">Die Belagerung von Jericho</bibl>
-                     <bibl n="hsl_work_id_1360">Tod Herzog Leopold’s in den Fluthen</bibl>
+                     <bibl n="hsl_work_id_1360">Der Tod Herzog Leopold's in den Fluthen</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_819">
@@ -22036,6 +22040,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_143">La reine Topaze</bibl>
                      <bibl n="hsl_work_id_920">Le mariage aux lanternes</bibl>
+                     <bibl n="hsl_work_id_1366">Pépito</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2167">
@@ -22342,6 +22347,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1711737</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_106">Les géorgiennes</bibl>
+                     <bibl n="hsl_work_id_1366">Pépito</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2195">
@@ -23092,6 +23098,10 @@
                      <forename>Franz von</forename>
                      <surname>Paula</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Franz de</forename>
+                     <surname>Paula</surname>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/119481758</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q315640</idno>
                </person>
@@ -23443,6 +23453,10 @@
                      <forename/>
                      <surname>Barbe-Bleue</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Blaubart</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1069">Barbe-Bleue</bibl>
                   </listBibl>
@@ -23503,6 +23517,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Comte Oscar</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Oskar</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1069">Barbe-Bleue</bibl>
@@ -29280,7 +29298,7 @@
                <person xml:id="hsl_person_id_2951">
                   <persName type="main">
                      <forename>Max</forename>
-                     <surname>Zottmary</surname>
+                     <surname>Zottmayr</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/11774672X</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55675537</idno>
@@ -29288,10 +29306,10 @@
                <person xml:id="hsl_person_id_2952" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Maurizio</surname>
+                     <surname>Manrico</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_269">Adrienne Lecouvreur</bibl>
+                     <bibl n="hsl_work_id_171">Il trovatore, H54</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2953">
@@ -29370,9 +29388,10 @@
                      <surname>Duveyrier</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
+                     <forename>Melesville</forename>
                      <surname>Mélesville</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/100855296</idno>
                </person>
                <person xml:id="hsl_person_id_2962" role="fictional">
                   <persName type="main">
@@ -29395,6 +29414,10 @@
                <person xml:id="hsl_person_id_2964" role="fictional">
                   <persName type="main">
                      <forename/>
+                     <surname>Daniel</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Daniel Capuzzi</surname>
                   </persName>
                   <listBibl type="characterOf">
@@ -29416,7 +29439,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Alfonso</surname>
+                     <surname>Alfonso di Monza</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_28">Zampa ou La fiancée de marbre</bibl>
@@ -29426,6 +29449,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Camille</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Camilla</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_28">Zampa ou La fiancée de marbre</bibl>
@@ -33614,6 +33641,40 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_512">Wilhelm Tell</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3455">
+                  <persName type="main">
+                     <forename>Michel-Jean</forename>
+                     <surname>Sedaine</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118795961</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2061">Raoul Barbe-Bleue</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3456">
+                  <persName type="main">
+                     <forename>Charles Georges</forename>
+                     <surname>Fenouillot de Falbaire de Quingey</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/100346014</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1706">Les deux avares</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3457" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Blaubart</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118812432</idno>
+               </person>
+               <person xml:id="hsl_person_id_3458">
+                  <persName type="main">
+                     <forename>Wenzel</forename>
+                     <surname>Scholz</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/128642866</idno>
                </person>
             </listPerson>
          </div>
