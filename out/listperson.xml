@@ -558,7 +558,7 @@
                      <bibl n="hsl_work_id_1253">Der 43. Psalm, MWV B 46</bibl>
                      <bibl n="hsl_work_id_1707">Liebe und Wein, MWV G 26</bibl>
                      <bibl n="hsl_work_id_1860">Lieder ohne Worte</bibl>
-                     <bibl n="hsl_work_id_1988">Ouvertüre in C-Dur, op. 24</bibl>
+                     <bibl n="hsl_work_id_1988">Ouvertüre in C-Dur, MWV P 1</bibl>
                      <bibl n="hsl_work_id_2047">Ein Sommernachtstraum, MWV M 13 (Schauspielmusik)</bibl>
                   </listBibl>
                </person>
@@ -1991,6 +1991,8 @@
                      <bibl n="hsl_work_id_1748">Wohin mit der Freud'?</bibl>
                      <bibl n="hsl_work_id_1749">Landsknecht, op. 12</bibl>
                      <bibl n="hsl_work_id_1750">Waldvöglein</bibl>
+                     <bibl n="hsl_work_id_2058">Rosestock, Holderblüh</bibl>
+                     <bibl n="hsl_work_id_2062">O, Diandle tiaf drunt im Tal</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_122">
@@ -4541,7 +4543,6 @@
                      <bibl n="hsl_work_id_1578">Huldigungsmarsch, WWV97</bibl>
                      <bibl n="hsl_work_id_1717">Eine Faust-Ouvertüre, WWV59</bibl>
                      <bibl n="hsl_work_id_1985">Feuerzauber (Die Walküre, WWV86B)</bibl>
-                     <bibl n="hsl_work_id_1986">Walkürenritt (Die Walküre, WWV86B)</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_361">
@@ -8479,6 +8480,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_430">Ständchen</bibl>
                      <bibl n="hsl_work_id_1268">Der Nussbaum, op. 25 Nr. 3</bibl>
+                     <bibl n="hsl_work_id_1707">Liebe und Wein, MWV G 26</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_733">
@@ -9743,14 +9745,6 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/10107333X</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q213998</idno>
-               </person>
-               <person xml:id="hsl_person_id_895">
-                  <persName type="main">
-                     <forename>Erzherzogin von Österreich</forename>
-                     <surname>Maria Theresia</surname>
-                  </persName>
-                  <idno type="GND">https://d-nb.info/gnd/1035838400</idno>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q254629</idno>
                </person>
                <person xml:id="hsl_person_id_896">
                   <persName type="main">
@@ -12355,7 +12349,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Maria Theresia</surname>
+                     <surname>Maria Theresia von Neapel</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/128881534</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q164504</idno>
@@ -18223,7 +18217,7 @@
                   <idno type="GND">https://d-nb.info/gnd/11875243X</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q327926</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_1703">Die Befreiung von Jerusalem. Oratorium in 2 Akten</bibl>
+                     <bibl n="hsl_work_id_1703">Die Befreyung von Jerusalem</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1788">
@@ -19966,6 +19960,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_706">Bradamante</bibl>
                      <bibl n="hsl_work_id_1534">Landwehrlieder</bibl>
+                     <bibl n="hsl_work_id_1703">Die Befreyung von Jerusalem</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1976">
@@ -23770,6 +23765,10 @@
                      <forename>Raphaël</forename>
                      <surname>Duplantys</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Dupantys</surname>
+                  </persName>
                </person>
                <person xml:id="hsl_person_id_2349">
                   <persName type="main">
@@ -23782,6 +23781,10 @@
                <person xml:id="hsl_person_id_2350">
                   <persName type="main">
                      <forename>Achilles</forename>
+                     <surname>Fould</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Achille</forename>
                      <surname>Fould</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/116677228</idno>
@@ -33675,6 +33678,50 @@
                      <surname>Scholz</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/128642866</idno>
+               </person>
+               <person xml:id="hsl_person_id_3459">
+                  <persName type="main">
+                     <forename>Matthäus von</forename>
+                     <surname>Collin</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119298406</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1703">Die Befreyung von Jerusalem</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3460">
+                  <persName type="main">
+                     <forename>Heinrich Carl</forename>
+                     <surname>Breidenstein</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119059231</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1704">Die Kapelle</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3461">
+                  <persName type="main">
+                     <forename>Georges Eugène</forename>
+                     <surname>Haussmann</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118773453</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q191798</idno>
+               </person>
+               <person xml:id="hsl_person_id_3462">
+                  <persName type="main">
+                     <forename>Guillaume Louis Bocquillon</forename>
+                     <surname>Wilhem</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117382817</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q3568257</idno>
+               </person>
+               <person xml:id="hsl_person_id_3463">
+                  <persName type="main">
+                     <forename>Emile</forename>
+                     <surname>Chevé</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117659576</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q275002</idno>
                </person>
             </listPerson>
          </div>

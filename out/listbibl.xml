@@ -13937,6 +13937,7 @@
                <author ref="#hsl_person_id_2948">
                   <persName>Braun von Braunthal, Karl Johann</persName>
                </author>
+               <idno type="GND">https://d-nb.info/gnd/300384181</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1701">
                <title type="main">Le pré aux clercs</title>
@@ -13957,16 +13958,28 @@
                <idno type="GND">https://d-nb.info/gnd/4099316-4</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1703">
-               <title type="main">Die Befreiung von Jerusalem. Oratorium in 2 Akten</title>
+               <title type="main">Die Befreyung von Jerusalem</title>
+               <title type="alternative">Die Befreiung Jerusalems</title>
                <author ref="#hsl_person_id_1787">
                   <persName>Stadler, Maximilian</persName>
                </author>
+               <author ref="#hsl_person_id_1975">
+                  <persName>Collin, Heinrich Joseph von</persName>
+               </author>
+               <author ref="#hsl_person_id_3459">
+                  <persName>Collin, Matthäus von</persName>
+               </author>
+               <idno type="GND">https://d-nb.info/gnd/1137405155</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1704">
                <title type="main">Die Kapelle</title>
                <author ref="#hsl_person_id_908">
                   <persName>Kreutzer, Conradin</persName>
                </author>
+               <author ref="#hsl_person_id_3460">
+                  <persName>Breidenstein, Heinrich Carl</persName>
+               </author>
+               <idno type="GND">https://d-nb.info/gnd/1219944076</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1705">
                <title type="main">Vineta, op. 163 Nr. 3</title>
@@ -13992,6 +14005,9 @@
                <title type="main">Liebe und Wein, MWV G 26</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+               <author ref="#hsl_person_id_726">
+                  <persName>Mosen, Julius</persName>
                </author>
                <idno type="GND">https://d-nb.info/gnd/30087099X</idno>
             </bibl>
@@ -16061,13 +16077,6 @@
                </author>
                <idno type="GND">https://d-nb.info/gnd/300326343</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1986">
-               <title type="main">Walkürenritt (Die Walküre, WWV86B)</title>
-               <author ref="#hsl_person_id_319">
-                  <persName>Wagner, Richard</persName>
-               </author>
-               <idno type="GND">https://d-nb.info/gnd/300170580</idno>
-            </bibl>
             <bibl xml:id="hsl_work_id_1987">
                <title type="main">La mélancolie, op.1</title>
                <author ref="#hsl_person_id_3359">
@@ -16075,10 +16084,11 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1988">
-               <title type="main">Ouvertüre in C-Dur, op. 24</title>
+               <title type="main">Ouvertüre in C-Dur, MWV P 1</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
+               <idno type="GND">https://d-nb.info/gnd/30044771X</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1989">
                <title type="main">Klavierkonzert Nr. 1 in e-Moll, op.11</title>
@@ -16524,7 +16534,11 @@
                <idno type="GND">https://d-nb.info/gnd/300144814</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2058">
-               <title type="main"/>
+               <title type="main">Rosestock, Holderblüh</title>
+               <title type="alternative">Schwäbisches Tanzlied</title>
+               <author ref="#hsl_person_id_121">
+                  <persName>Herbeck, Johann von</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2059">
                <title type="main">St François de Paule: Marchant sur les flots für Klavier, S175 Nr. 2</title>
@@ -16546,6 +16560,13 @@
                </author>
                <author ref="#hsl_person_id_3455">
                   <persName>Sedaine, Michel-Jean</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2062">
+               <title type="main">O, Diandle tiaf drunt im Tal</title>
+               <title type="alternative">O Dirndel, tief drunten im Thal</title>
+               <author ref="#hsl_person_id_121">
+                  <persName>Herbeck, Johann von</persName>
                </author>
             </bibl>
       </listBibl>
