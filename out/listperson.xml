@@ -2915,7 +2915,6 @@
                      <bibl n="hsl_work_id_1790">Konzert für Klavier und Orchester Nr. 26 in D-Dur, KV537</bibl>
                      <bibl n="hsl_work_id_1839">Divertimento für 2 Hörner, 2 Violinen, Viola und Bass Nr. 15 B-Dur, KV287</bibl>
                      <bibl n="hsl_work_id_1841">Divertimento für 2 Hörner, 2 Violinen, Viola und Bass Nr. 17 D-Dur, KV334</bibl>
-                     <bibl n="hsl_work_id_1842">Sextett in B-dur</bibl>
                      <bibl n="hsl_work_id_1897">Timotheus oder die Gewalt der Musik, KV591 (Bearbeitung)</bibl>
                      <bibl n="hsl_work_id_2016">Konzert für Klavier und Orchester Nr. 21 in C-Dur, KV467</bibl>
                      <bibl n="hsl_work_id_2038">Sonate für Violine und Klavier in A-Dur</bibl>
@@ -3902,6 +3901,8 @@
                      <bibl n="hsl_work_id_2002">Allegretto für Klavier in c-Moll, D900</bibl>
                      <bibl n="hsl_work_id_2003">Allegretto für Klavier in c-Moll, D915</bibl>
                      <bibl n="hsl_work_id_2022">Lieder der Mignon aus Goethes Wilhelm Meister</bibl>
+                     <bibl n="hsl_work_id_2063">Die Nachtigall, D724</bibl>
+                     <bibl n="hsl_work_id_2064">Das Dörfchen, D598</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_280">
@@ -6485,6 +6486,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Renato</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>René</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_35">Un ballo in maschera, H59</bibl>
@@ -10056,6 +10061,9 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/119010097</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q202303</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2065">Il barbiere di Siviglia, R 1 64</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_931">
                   <persName type="main">
@@ -13020,7 +13028,11 @@
                <person xml:id="hsl_person_id_1252">
                   <persName type="main">
                      <forename>Auguste</forename>
-                     <surname>Kolar-Auspitz</surname>
+                     <surname>Kolař-Auspitz</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Kolár</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/11631060X</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q766082</idno>
@@ -18586,6 +18598,10 @@
                      <forename/>
                      <surname>Ulrica</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Ulrike</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_35">Un ballo in maschera, H59</bibl>
                   </listBibl>
@@ -23572,6 +23588,10 @@
                      <forename/>
                      <surname>Riccardo</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Richard</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_35">Un ballo in maschera, H59</bibl>
                   </listBibl>
@@ -23580,6 +23600,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Amelia</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Amalia</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_35">Un ballo in maschera, H59</bibl>
@@ -23926,6 +23950,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Troll</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Droll</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1381">Der Berggeist, WoO54</bibl>
@@ -29754,6 +29782,7 @@
                   <idno type="GND">https://d-nb.info/gnd/118517104</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1738">Lenore</bibl>
+                     <bibl n="hsl_work_id_2064">Das Dörfchen, D598</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3003">
@@ -31255,6 +31284,9 @@
                      <surname>Beer</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118657887</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2066">Struensee</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3173">
                   <persName type="main">
@@ -33312,17 +33344,23 @@
                   </persName>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q110177535</idno>
                </person>
-               <person xml:id="hsl_person_id_3411" role="fictional">
+               <person xml:id="hsl_person_id_3411">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Mademoiselle</forename>
+                     <surname>Mars</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119062887</idno>
                </person>
                <person xml:id="hsl_person_id_3412" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Bacchus</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Dionysos</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118651439</idno>
                </person>
                <person xml:id="hsl_person_id_3413" role="fictional">
                   <persName type="main">
@@ -33722,6 +33760,44 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/117659576</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q275002</idno>
+               </person>
+               <person xml:id="hsl_person_id_3464">
+                  <persName type="main">
+                     <forename>Johann Karl</forename>
+                     <surname>Unger</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/104136448</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2063">Die Nachtigall, D724</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3465">
+                  <persName type="main">
+                     <forename>Giuseppe</forename>
+                     <surname>Petrosellini</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/129387711</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2065">Il barbiere di Siviglia, R 1 64</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3466" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Samuel</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_35">Un ballo in maschera, H59</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3467" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Tom</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_35">Un ballo in maschera, H59</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

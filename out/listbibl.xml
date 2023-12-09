@@ -425,6 +425,8 @@
                <name type="character" ref="#hsl_person_id_2325">Riccardo</name>
                <name type="character" ref="#hsl_person_id_2327">Amelia</name>
                <name type="character" ref="#hsl_person_id_2328">Oscar</name>
+               <name type="character" ref="#hsl_person_id_3466">Samuel</name>
+               <name type="character" ref="#hsl_person_id_3467">Tom</name>
                <idno type="GND">https://d-nb.info/gnd/300165145</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_36">
@@ -1826,6 +1828,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_184">
                <title type="main">Hans Heiling, op. 80</title>
+               <title type="alternative">Hanns Heiling</title>
                <author ref="#hsl_person_id_58">
                   <persName>Devrient, Eduard</persName>
                </author>
@@ -5475,7 +5478,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_658">
                <title type="main">Chronologisch-thematisches Verzeichniss sämmtlicher Tonwerke Wolfgang Amade Mozart's</title>
-               <title type="alternative">Köchel-Verzeichnis, Köchel-Katalog</title>
+               <title type="alternative">Köchel, Köchel-Verzeichnis, Köchel-Katalog</title>
                <author ref="#hsl_person_id_145">
                   <persName>Köchel, Ludwig von</persName>
                </author>
@@ -6544,7 +6547,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_801">
                <title type="main">Der Landtag von Wolkenkuckucksheim</title>
-               <title type="alternative">Der Landtag von Wolkenkukuksheim</title>
+               <title type="alternative">Der Rath von Wolkenkukuksheim</title>
                <author ref="#hsl_person_id_274">
                   <persName>Schön, Eduard</persName>
                </author>
@@ -11459,6 +11462,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1388">
                <title type="main">Symphonie Nr.1 "An das Vaterland" in D-Dur, op. 96</title>
+               <title type="alternative">Preis-Symphonie</title>
                <author ref="#hsl_person_id_1674">
                   <persName>Raff, Joseph Joachim</persName>
                </author>
@@ -14992,13 +14996,6 @@
                </author>
                <idno type="GND">https://d-nb.info/gnd/300107730</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1842">
-               <title type="main">Sextett in B-dur</title>
-               <title type="alternative">unklarer Bezug</title>
-               <author ref="#hsl_person_id_189">
-                  <persName>Mozart, Wolfgang Amadeus</persName>
-               </author>
-            </bibl>
             <bibl xml:id="hsl_work_id_1843">
                <title type="main">Die beiden Kalifen</title>
                <title type="alternative">Khalifen</title>
@@ -16568,6 +16565,44 @@
                <author ref="#hsl_person_id_121">
                   <persName>Herbeck, Johann von</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2063">
+               <title type="main">Die Nachtigall, D724</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_3464">
+                  <persName>Unger, Johann Karl</persName>
+               </author>
+               <idno type="GND">https://d-nb.info/gnd/30030255X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2064">
+               <title type="main">Das Dörfchen, D598</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_3002">
+                  <persName>Bürger, Gottfried August</persName>
+               </author>
+               <idno type="GND">https://d-nb.info/gnd/300140282</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2065">
+               <title type="main">Il barbiere di Siviglia, R 1 64</title>
+               <title type="alternative">Der Barbier von Sevilla</title>
+               <author ref="#hsl_person_id_929">
+                  <persName>Paisiello, Giovanni</persName>
+               </author>
+               <author ref="#hsl_person_id_3465">
+                  <persName>Petrosellini, Giuseppe</persName>
+               </author>
+               <idno type="GND">https://d-nb.info/gnd/30054961X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2066">
+               <title type="main">Struensee</title>
+               <author ref="#hsl_person_id_3172">
+                  <persName>Beer, Michael</persName>
+               </author>
+               <idno type="GND">https://d-nb.info/gnd/4529598-0</idno>
             </bibl>
       </listBibl>
       </body>
