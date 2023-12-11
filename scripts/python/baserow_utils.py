@@ -2,7 +2,7 @@ import requests
 import geocoder
 import json
 
-from acdh_id_reconciler import gnd_to_wikidata, geonames_to_gnd, geonames_to_wikidata
+from acdh_id_reconciler import geonames_to_gnd, geonames_to_wikidata, gnd_to_wikidata_custom
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
 from acdh_obj2xml_pyutils import ObjectToXml
 
@@ -17,16 +17,24 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
     for x in table:
         update = {}
         if uri == "gnd":
-            print(x)
-            if (len(x[field_name_input["gnd"]]) > 0 and len(x[field_name_input["wikidata"]]) == 0):
+            if (len(x[field_name_input["gnd"]]) > 0):
                 norm_id = get_normalized_uri(x[field_name_input["gnd"]])
                 print(norm_id)
                 try:
-                    wd = gnd_to_wikidata(norm_id)
-                    wd = wd["wikidata"]
+                    # custom = oeml
+                    wd = gnd_to_wikidata_custom(norm_id, "P8432")
+                    wd_id = wd["wikidata"]
+                    update[field_name_update["wikidata"]] = wd_id
+                    if len(wd["custom"]) > 0:
+                        oeml = f'https://www.musiklexikon.ac.at/ml/musik_{wd["custom"]}.xml'
+                        update["oeml"] = oeml
+                    # custom = oebl
+                    wd = gnd_to_wikidata_custom(norm_id, "P6194")
+                    if len(wd["custom"]) > 0:
+                        oebl = f'https://www.biographien.ac.at/oebl/oebl_{wd["custom"]}.xml'
+                        update["oebl"] = oebl
                     v_wd += 1
-                    update[field_name_update["wikidata"]] = wd
-                    print(f"gnd id matched with wikidata: {wd}")
+                    print(f"gnd id matched with wikidata: {wd_id}")
                 except Exception as err:
                     print(err)
                     print(f"no match for {norm_id} found.")
