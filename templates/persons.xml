@@ -71,10 +71,16 @@
                   </persName>
                   {% endif %}
                   {% if x.gnd|length > 0 %}
-                  <idno type="GND">{{ x.gnd }}</idno>
+                  <idno type="URI" subtype="GND">{{ x.gnd }}</idno>
                   {% endif %}
                   {% if x.wikidata|length > 0 %}
-                  <idno type="WIKIDATA">{{ x.wikidata }}</idno>
+                  <idno type="URI" subtype="WIKIDATA">{{ x.wikidata }}</idno>
+                  {% endif %}
+                  {% if x.oeml|length > 0 %}
+                  <idno type="URI" subtype="OEML">{{ x.oeml }}</idno>
+                  {% endif %}
+                  {% if x.oebl|length > 0 %}
+                  <idno type="URI" subtype="OEBL">{{ x.oebl }}</idno>
                   {% endif %}
                   {% if x.werke_schoepfer %}
                   <listBibl type="authorOf">
