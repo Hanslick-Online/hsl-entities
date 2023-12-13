@@ -7326,6 +7326,10 @@
                      <forename>Jan Evangelista</forename>
                      <surname>Purkyně</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Purkinje</surname>
+                  </persName>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118597159</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q159542</idno>
                </person>
@@ -7389,6 +7393,10 @@
                      <forename/>
                      <surname>Palma</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>unklarer Bezug</surname>
+                  </persName>
                </person>
                <person xml:id="hsl_person_id_581">
                   <persName type="main">
@@ -7423,11 +7431,19 @@
                      <forename/>
                      <surname>Erik I. Ejegod</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Ericus bonus</surname>
+                  </persName>
                </person>
                <person xml:id="hsl_person_id_585">
                   <persName type="main">
                      <forename>Albert</forename>
                      <surname>Krantz</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Krantzius</surname>
                   </persName>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118777939</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q70026</idno>
@@ -8359,6 +8375,10 @@
                      <forename/>
                      <surname>Portia</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Porzia</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_401">The Merchant of Venice</bibl>
                   </listBibl>
@@ -8657,6 +8677,10 @@
                   <persName type="main">
                      <forename>Hermann von</forename>
                      <surname>Helmholtz</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Helmholz</surname>
                   </persName>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11854893X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q60024</idno>
@@ -34943,6 +34967,46 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2075">Marsch</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3476">
+                  <persName type="main">
+                     <forename>Giuseppe</forename>
+                     <surname>Carpani</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118841009</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3108009</idno>
+               </person>
+               <person xml:id="hsl_person_id_3477" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Isabella</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_449">L'italiana in Algeri</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3478" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Selim</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_448">Il turco in Italia</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3479">
+                  <persName type="main">
+                     <forename>Olympe</forename>
+                     <surname>Pélissier</surname>
+                  </persName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1986469</idno>
+               </person>
+               <person xml:id="hsl_person_id_3480">
+                  <persName type="main">
+                     <forename>Marie</forename>
+                     <surname>Battu</surname>
+                  </persName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q26763837</idno>
                </person>
             </listPerson>
          </div>
