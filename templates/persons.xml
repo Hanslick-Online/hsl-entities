@@ -70,6 +70,15 @@
                      <surname>{{ x.Alternativname.split(', ')[0] }}</surname>
                   </persName>
                   {% endif %}
+                  {% if x.lebensdaten and x.lebensdaten|length > 0 %}
+                  <birth>{{ x.lebensdaten }}</birth>
+                  <death>{{ x.lebensdaten }}</death>
+                  {% endif %}
+                  {% if x.beschreibung and x.beschreibung|length > 0 %}
+                  {% for occupation in x.beschreibung %}
+                  <occupation style="background-color: {{ occupation.color }};">{{ occupation.value }}</occupation>
+                  {% endfor %}
+                  {% endif %}
                   {% if x.gnd|length > 0 %}
                   <idno type="URI" subtype="GND">{{ x.gnd }}</idno>
                   {% endif %}
