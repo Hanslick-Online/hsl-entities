@@ -17012,6 +17012,10 @@
                      <bibl n="hsl_work_id_1805">Der Liebste schläft, op. 34 Nr. 3</bibl>
                      <bibl n="hsl_work_id_1808">Nun grüße dich Gott, Frau Minne, op. 30</bibl>
                      <bibl n="hsl_work_id_2084">Morgenständchen, op. 31 Nr. 4</bibl>
+                     <bibl n="hsl_work_id_2096">Mirjam</bibl>
+                     <bibl n="hsl_work_id_2097">Die Abenteuer einer Neujahrsnacht</bibl>
+                     <bibl n="hsl_work_id_2099">Ueber Operntexte</bibl>
+                     <bibl n="hsl_work_id_2100">Liederspiel</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1328">
@@ -42317,6 +42321,140 @@
                   <occupation style="background-color: red;">Dirigent</occupation>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116805455</idno>
+               </person>
+               <person xml:id="hsl_person_id_3506">
+                  <persName type="main">
+                     <forename>Ludwig</forename>
+                     <surname>Ganghofer</surname>
+                  </persName>
+                  <birth>1855-1920</birth>
+                  <death>1855-1920</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118537490</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2096">Mirjam</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3507">
+                  <persName type="main">
+                     <forename>Franz</forename>
+                     <surname>Schaumann</surname>
+                  </persName>
+                  <birth>19./20. Jhdt.</birth>
+                  <death>19./20. Jhdt.</death>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2097">Die Abenteuer einer Neujahrsnacht</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3508">
+                  <persName type="main">
+                     <forename>Heinrich</forename>
+                     <surname>Zschokke</surname>
+                  </persName>
+                  <birth>1771-1848</birth>
+                  <death>1771-1848</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: red;">Historiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118637266</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2098">Das Abenteuer der Neujahrsnacht</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3509" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Oswald von Brannenburg</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2096">Mirjam</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3510" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Severin</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2096">Mirjam</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3511" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Mirjam</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2096">Mirjam</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3512" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Asser Benaja</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2096">Mirjam</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3513" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Josepha</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2096">Mirjam</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3514" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Micha Merari</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2096">Mirjam</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3515" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Shylock</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_401">The Merchant of Venice</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3516" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Masaniello</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_128">La muette de Portici</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3517">
+                  <persName type="main">
+                     <forename>Wilhelm</forename>
+                     <surname>Gericke</surname>
+                  </persName>
+                  <birth>1845-1925</birth>
+                  <death>1845-1925</death>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/122445643</idno>
+               </person>
+               <person xml:id="hsl_person_id_3518">
+                  <persName type="main">
+                     <forename>Emil</forename>
+                     <surname>Blauwaert</surname>
+                  </persName>
+                  <birth>1845-1891</birth>
+                  <death>1845-1891</death>
+                  <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117735523</idno>
                </person>
             </listPerson>
          </div>
