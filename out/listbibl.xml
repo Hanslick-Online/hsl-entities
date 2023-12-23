@@ -602,6 +602,7 @@
                <author ref="#hsl_person_id_287">
                   <persName>Shakespeare, William</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_3519">Juliet</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099369-3</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_58">
@@ -1729,7 +1730,6 @@
                   <persName>Ponte, Lorenzo Da</persName>
                </author>
                <name type="character" ref="#hsl_person_id_475">Don Giovanni</name>
-               <name type="character" ref="#hsl_person_id_517">Donna Anna</name>
                <name type="character" ref="#hsl_person_id_518">Don Ottavio</name>
                <name type="character" ref="#hsl_person_id_672">Zerlina</name>
                <name type="character" ref="#hsl_person_id_1473">Leporello</name>
@@ -3323,6 +3323,7 @@
                <name type="character" ref="#hsl_person_id_480">Leonore</name>
                <name type="character" ref="#hsl_person_id_481">Pizarro</name>
                <name type="character" ref="#hsl_person_id_2404">Jaquino</name>
+               <name type="character" ref="#hsl_person_id_3549">Rocco</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015194</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_349">
@@ -14493,6 +14494,7 @@
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300017014</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1772">
                <title type="main">7 Variationen über "Bei Männern, welche Liebe fühlen" für Cello und Klavier, WoO46</title>
@@ -15890,7 +15892,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300199880</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1959">
-               <title type="main">Peer Gynt Suite für Orchester Nr.1, op. 46</title>
+               <title type="main">Peer Gynt Suite für Orchester Nr. 1, op. 46</title>
                <author ref="#hsl_person_id_1042">
                   <persName>Grieg, Edvard</persName>
                </author>
@@ -16264,10 +16266,15 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2012">
-               <title type="main">Orfeo ed Euridice</title>
+               <title type="main">Orfeo ed Euridice, Wq. 30</title>
+               <title type="alternative">Orpheus</title>
                <author ref="#hsl_person_id_99">
                   <persName>Gluck, Christoph Willibald</persName>
                </author>
+               <author ref="#hsl_person_id_2142">
+                  <persName>Calzabigi, Ranieri de</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1151670537</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2013">
                <title type="main">Die Horazier und Curiazier</title>
@@ -16311,12 +16318,6 @@
                <title type="main">Notturno für Klavier, No. 3 in As-dur</title>
                <author ref="#hsl_person_id_3382">
                   <persName>Field, John</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_2021">
-               <title type="main">Quintett Es-Dur für Klavier, Oboe, Klarinette, Horn und Fagott, op. 16</title>
-               <author ref="#hsl_person_id_25">
-                  <persName>Beethoven, Ludwig van</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2022">
@@ -16859,6 +16860,167 @@
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_1327">
                   <persName>Heuberger, Richard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2101">
+               <title type="main">Le comte Ory</title>
+               <title type="alternative">Graf Ory</title>
+               <author ref="#hsl_person_id_241">
+                  <persName>Rossini, Gioachino</persName>
+               </author>
+               <author ref="#hsl_person_id_284">
+                  <persName>Scribe, Eugène</persName>
+               </author>
+               <author ref="#hsl_person_id_3533">
+                  <persName>Delestre-Poirson, Charles Gaspard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300208669</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2102">
+               <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 8 in e-Moll, op. 59 Nr. 2</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015976</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2103">
+               <title type="main">La folia. Variations sérieuses für Violine</title>
+               <author ref="#hsl_person_id_3534">
+                  <persName>Corelli, Arcangelo</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2104">
+               <title type="main">Rhapsodie für Klavier in Es-Dur, op. 119 Nr. 4</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300025602</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2105">
+               <title type="main">Ballade für Klavier in g-Moll, op. 118 Nr. 3</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300893019</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2106">
+               <title type="main">Romanze für Klavier in F-Dur, op. 118 Nr. 5</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300184174</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2107">
+               <title type="main">Fantaisie et variations sur 'Le carnaval de Venise'</title>
+               <author ref="#hsl_person_id_3535">
+                  <persName>Arban, Jean-Baptiste</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2108">
+               <title type="main">Ungarische Rhapsodie Nr. 7 in d-Moll, S244/7</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1080092781</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2109">
+               <title type="main">Ungarische Rhapsodie Nr. 17 in d-Moll, S244/17</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300411103</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2110">
+               <title type="main">Ungarische Rhapsodie Nr. 19 in d-Moll, S244/19</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300095023</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2111">
+               <title type="main">Konzert für Klavier und Orchester Nr. 2 in E-Dur, op. 12</title>
+               <author ref="#hsl_person_id_2417">
+                  <persName>Albert, Eugen d'</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300001681</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2112">
+               <title type="main">Sonate für Klavier in fis-Moll, op. 10</title>
+               <author ref="#hsl_person_id_2417">
+                  <persName>Albert, Eugen d'</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1269057952</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2113">
+               <title type="main">Sonate für Klavier Nr. 29 in B-Dur, op. 106</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300016867</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2114">
+               <title type="main">Suiten für Klavier, op. 1</title>
+               <author ref="#hsl_person_id_2417">
+                  <persName>Albert, Eugen d'</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300685165</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2115">
+               <title type="main">Orgelfuge in D-Dur</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2116">
+               <title type="main">Trio für Violine, Cello und Klavier in f-Moll, B130</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300048386</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2117">
+               <title type="main">Am Tage Aller Seelen, D343</title>
+               <title type="alternative">Litaney auf das Fest Aller Seelen</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_3537">
+                  <persName>Jacobi, Johann Georg</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300553269</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2118">
+               <title type="main">An mein Tambourin, op. 17 Nr. 5</title>
+               <author ref="#hsl_person_id_1403">
+                  <persName>Rückauf, Anton</persName>
+               </author>
+               <author ref="#hsl_person_id_2692">
+                  <persName>Daumer, Georg Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2119">
+               <title type="main">Grüsse, op. 27 Nr. 5</title>
+               <title type="alternative">Grüße</title>
+               <author ref="#hsl_person_id_1403">
+                  <persName>Rückauf, Anton</persName>
+               </author>
+               <author ref="#hsl_person_id_3538">
+                  <persName>Stieler, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2121">
+               <title type="main">Novellette für Klavier in E-Dur, op. 21 Nr. 7</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1051285658</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2122">
+               <title type="main">Polonaise</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
                </author>
             </bibl>
       </listBibl>
