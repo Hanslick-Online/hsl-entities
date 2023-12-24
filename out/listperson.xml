@@ -10568,6 +10568,10 @@
                      <forename>Antonio</forename>
                      <surname>Caldara</surname>
                   </persName>
+                  <birth>ca. 1670-1736</birth>
+                  <death>ca. 1670-1736</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-purple;">Cellist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118666584</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q311571</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_C/Caldara_Antonio.xml</idno>
@@ -10611,9 +10615,20 @@
                      <forename>Gottlieb</forename>
                      <surname>Muffat</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Theophil</forename>
+                     <surname>Muffat</surname>
+                  </persName>
+                  <birth>1690-1770</birth>
+                  <death>1690-1770</death>
+                  <occupation style="background-color: dark-blue;">Organist</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119149397</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q695396</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_M/Muffat_Familie.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2153">Componimenti musicali</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_765" role="fictional">
                   <persName type="main">
@@ -15308,15 +15323,21 @@
                </person>
                <person xml:id="hsl_person_id_1181">
                   <persName type="main">
-                     <forename>Kaiser des Heiligen Römischen Reiches</forename>
+                     <forename>Kaiser des Heiligen Römischen Reichs</forename>
                      <surname>Leopold I.</surname>
                   </persName>
                   <birth>1640-1705</birth>
                   <death>1640-1705</death>
                   <occupation style="background-color: orange;">Monarch</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118571869</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q150494</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_L/Leopold_I.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2155">Die vermeinte Brueder und Schwester Liebe</bibl>
+                     <bibl n="hsl_work_id_2156">Der thörichte Schäffer</bibl>
+                     <bibl n="hsl_work_id_2161">Musica per la Festa delle Serenissime Arciduchesse e Signore Dame di Corte</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1182">
                   <persName type="main">
@@ -15332,7 +15353,7 @@
                </person>
                <person xml:id="hsl_person_id_1183">
                   <persName type="main">
-                     <forename>Kaiser des Heiligen Römischen Reiches</forename>
+                     <forename>Kaiser des Heiligen Römischen Reichs</forename>
                      <surname>Franz II.</surname>
                   </persName>
                   <birth>1768-1835</birth>
@@ -17262,6 +17283,11 @@
                      <forename>Oswald</forename>
                      <surname>Koller</surname>
                   </persName>
+                  <birth>1852-1910</birth>
+                  <death>1852-1910</death>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <occupation style="background-color: red;">Historiker</occupation>
+                  <occupation style="background-color: dark-orange;">Germanist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1013812239</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55838153</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_K/Koller_Oswald.xml</idno>
@@ -29797,6 +29823,11 @@
                      <forename/>
                      <surname>Mandyczewsky</surname>
                   </persName>
+                  <birth>1857-1929</birth>
+                  <death>1857-1929</death>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: darker-purple;">Bibliothekar</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116728698</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q701340</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_M/Mandyczewski_Eusebius.xml</idno>
@@ -30729,7 +30760,7 @@
                </person>
                <person xml:id="hsl_person_id_2470">
                   <persName type="main">
-                     <forename>Kaiser des Heiligen Römischen Reiches</forename>
+                     <forename>Kaiser des Heiligen Römischen Reichs</forename>
                      <surname>Karl I.</surname>
                   </persName>
                   <birth>747-814</birth>
@@ -41699,8 +41730,8 @@
                      <forename>Friedrich</forename>
                      <surname>Schütze</surname>
                   </persName>
-                  <birth>1808-?</birth>
-                  <death>1808-?</death>
+                  <birth>19. Jhdt.</birth>
+                  <death>19. Jhdt.</death>
                   <occupation style="background-color: dark-gray;">Orgelbauer</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q60674526</idno>
                </person>
@@ -43324,6 +43355,267 @@
                   <occupation style="background-color: light-blue;">Schauspieler</occupation>
                   <occupation style="background-color: gray;">Regisseur</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11641488X</idno>
+               </person>
+               <person xml:id="hsl_person_id_3581">
+                  <persName type="main">
+                     <forename>Georg</forename>
+                     <surname>Muffat</surname>
+                  </persName>
+                  <birth>1653-1704</birth>
+                  <death>1653-1704</death>
+                  <occupation style="background-color: dark-blue;">Organist</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118735144</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2152">Florilegium primum</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3582">
+                  <persName type="main">
+                     <forename>Kaiser des Heiligen Römischen Reichs</forename>
+                     <surname>Ferdinand III.</surname>
+                  </persName>
+                  <birth>1608-1657</birth>
+                  <death>1608-1657</death>
+                  <occupation style="background-color: orange;">Monarch</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118532529</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2157">Chi volge ne la mente</bibl>
+                     <bibl n="hsl_work_id_2158">Drama musicum</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3583">
+                  <persName type="main">
+                     <forename>Kaiser des Heiligen Römischen Reichs</forename>
+                     <surname>Joseph I.</surname>
+                  </persName>
+                  <birth>1678-1711</birth>
+                  <death>1678-1711</death>
+                  <occupation style="background-color: orange;">Monarch</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118558390</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2159">Arie für Laute</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3584">
+                  <persName type="main">
+                     <forename>Erzherzog von Österreich</forename>
+                     <surname>Leopold Wilhelm</surname>
+                  </persName>
+                  <birth>1614-1662</birth>
+                  <death>1614-1662</death>
+                  <occupation style="background-color: light-brown;">Bischof</occupation>
+                  <occupation style="background-color: light-gray;">Offizier</occupation>
+                  <occupation style="background-color: darker-pink;">Mäzen</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118727664</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2158">Drama musicum</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3585">
+                  <persName type="main">
+                     <forename>Wolfgang</forename>
+                     <surname>Ebner</surname>
+                  </persName>
+                  <birth>1612-1665</birth>
+                  <death>1612-1665</death>
+                  <occupation style="background-color: dark-blue;">Organist</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/131368311</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2160">Thema von Kaiser Ferdinand III. Mit 36 Variationen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3586" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_3587">
+                  <persName type="main">
+                     <forename>August</forename>
+                     <surname>Artaria</surname>
+                  </persName>
+                  <birth>1807-1893</birth>
+                  <death>1807-1893</death>
+                  <occupation style="background-color: darker-red;">Musikverleger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/129514799</idno>
+               </person>
+               <person xml:id="hsl_person_id_3588">
+                  <persName type="main">
+                     <forename>Wilhelm von</forename>
+                     <surname>Hartel</surname>
+                  </persName>
+                  <birth>1839-1907</birth>
+                  <death>1839-1907</death>
+                  <occupation style="background-color: brown;">Philologe</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119035030</idno>
+               </person>
+               <person xml:id="hsl_person_id_3589">
+                  <persName type="main">
+                     <forename>Albert von</forename>
+                     <surname>Hermann</surname>
+                  </persName>
+                  <birth>1864-1895</birth>
+                  <death>1864-1895</death>
+                  <occupation style="background-color: light-gray;">Beamter</occupation>
+                  <occupation style="background-color: green;">Musikwissenschaftler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/132875047</idno>
+               </person>
+               <person xml:id="hsl_person_id_3590">
+                  <persName type="main">
+                     <forename>Wilhelm von</forename>
+                     <surname>Weckbecker</surname>
+                  </persName>
+                  <birth>1859-1936</birth>
+                  <death>1859-1936</death>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: dark-green;">Journalist</occupation>
+                  <occupation style="background-color: darker-orange;">Kämmerer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117177989</idno>
+               </person>
+               <person xml:id="hsl_person_id_3591">
+                  <persName type="main">
+                     <forename>Engelbert</forename>
+                     <surname>Mühlbacher</surname>
+                  </persName>
+                  <birth>1843-1903</birth>
+                  <death>1843-1903</death>
+                  <occupation style="background-color: red;">Historiker</occupation>
+                  <occupation style="background-color: purple;">Priester</occupation>
+                  <occupation style="background-color: green;">Hochschullehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11716173X</idno>
+               </person>
+               <person xml:id="hsl_person_id_3592">
+                  <persName type="main">
+                     <forename>Johannes Evangelista</forename>
+                     <surname>Habert</surname>
+                  </persName>
+                  <birth>1833-1896</birth>
+                  <death>1833-1896</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: dark-blue;">Organist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11894049X</idno>
+               </person>
+               <person xml:id="hsl_person_id_3593" role="fictional">
+                  <persName type="main">
+                     <forename>Josef</forename>
+                     <surname>Labor</surname>
+                  </persName>
+                  <birth>1842-1924</birth>
+                  <death>1842-1924</death>
+                  <occupation style="background-color: dark-blue;">Organist</occupation>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/128716088</idno>
+               </person>
+               <person xml:id="hsl_person_id_3594">
+                  <persName type="main">
+                     <forename>Heinrich</forename>
+                     <surname>Rietsch</surname>
+                  </persName>
+                  <birth>1860-1927</birth>
+                  <death>1860-1927</death>
+                  <occupation style="background-color: green;">Musikwissenschaftler</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116545526</idno>
+               </person>
+               <person xml:id="hsl_person_id_3595">
+                  <persName type="main">
+                     <forename>Josef</forename>
+                     <surname>Eberle</surname>
+                  </persName>
+                  <birth>1845-1921</birth>
+                  <death>1845-1921</death>
+                  <occupation style="background-color: yellow;">Unternehmer</occupation>
+                  <occupation style="background-color: light-cyan;">Lithograf</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/143658441</idno>
+               </person>
+               <person xml:id="hsl_person_id_3596" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_3597">
+                  <persName type="main">
+                     <forename>Kaiser des Heiligen Römischen Reichs</forename>
+                     <surname>Maximilian I.</surname>
+                  </persName>
+                  <birth>1459-1519</birth>
+                  <death>1459-1519</death>
+                  <occupation style="background-color: orange;">Monarch</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118579371</idno>
+               </person>
+               <person xml:id="hsl_person_id_3598">
+                  <persName type="main">
+                     <forename>Jacobus</forename>
+                     <surname>Gallus</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Jacob</forename>
+                     <surname>Hendel</surname>
+                  </persName>
+                  <birth>1550-1591</birth>
+                  <death>1550-1591</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118689363</idno>
+               </person>
+               <person xml:id="hsl_person_id_3599">
+                  <persName type="main">
+                     <forename>Johann Jacob</forename>
+                     <surname>Froberger</surname>
+                  </persName>
+                  <birth>1616-1667</birth>
+                  <death>1616-1667</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: dark-blue;">Organist</occupation>
+                  <occupation style="background-color: dark-cyan;">Cembalist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118536249</idno>
+               </person>
+               <person xml:id="hsl_person_id_3600" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Daphne</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Dafne</surname>
+                  </persName>
+                  <occupation style="background-color: dark-gray;">Gottheit</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118823310</idno>
+               </person>
+               <person xml:id="hsl_person_id_3601">
+                  <persName type="main">
+                     <forename>Karel</forename>
+                     <surname>Škréta</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Skreta</surname>
+                  </persName>
+                  <birth>1610-1674</birth>
+                  <death>1610-1674</death>
+                  <occupation style="background-color: darker-cyan;">Maler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118765728</idno>
+               </person>
+               <person xml:id="hsl_person_id_3602" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Pirophrastes</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Pyrophrastes</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2161">Musica per la Festa delle Serenissime Arciduchesse e Signore Dame di Corte</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
