@@ -4354,6 +4354,7 @@
                <author ref="#hsl_person_id_100">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_3609">Werther</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099202-0</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_495">
@@ -4504,6 +4505,7 @@
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
                <name type="character" ref="#hsl_person_id_450">Marie Beaumarchais</name>
+               <name type="character" ref="#hsl_person_id_3608">Clavigo</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4280631-8</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_514">
@@ -17314,6 +17316,48 @@
                   <persName>Leopold I., Kaiser des Heiligen Römischen Reichs</persName>
                </author>
                <name type="character" ref="#hsl_person_id_3602">Pirophrastes</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2162">
+               <title type="main">Venezia e Napoli für Klavier, S159</title>
+               <title type="alternative">Tarantella</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2163">
+               <title type="main">Das Tagebuch</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4234094-9</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2164">
+               <title type="main">Froufrou</title>
+               <title type="alternative">Frou-Frou</title>
+               <author ref="#hsl_person_id_2061">
+                  <persName>Halévy, Ludovic</persName>
+               </author>
+               <author ref="#hsl_person_id_2062">
+                  <persName>Meilhac, Henri</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2165">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2166">
+               <title type="main">Nocturne für Klavier in Des-Dur</title>
+               <title type="alternative">Notturno; unklarer Bezug</title>
+               <author ref="#hsl_person_id_1658">
+                  <persName>Saint-Saëns, Camille</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2167">
+               <title type="main">Symfonické variace für Orchester, B70</title>
+               <title type="alternative">Symphonische Variationen</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300048130</idno>
             </bibl>
       </listBibl>
       </body>

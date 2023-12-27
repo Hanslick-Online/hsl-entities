@@ -2850,7 +2850,7 @@
                <place xml:id="hsl_place_id_235">
                   <settlement type="P">
                      <placeName type="main">Kozhikode</placeName>
-                     <placeName type="alternative">Calicut, Calecut</placeName>
+                     <placeName type="alternative">Calicut / Calecut</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>IN, India</country>
@@ -2878,7 +2878,7 @@
                <place xml:id="hsl_place_id_237">
                   <settlement type="A">
                      <placeName type="main">Madagasikara</placeName>
-                     <placeName type="alternative">Madagaskar, Madagascar</placeName>
+                     <placeName type="alternative">Madagaskar / Madagascar</placeName>
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>MG, Madagascar</country>
@@ -3644,7 +3644,7 @@
                <place xml:id="hsl_place_id_306">
                   <settlement type="T">
                      <placeName type="main">Sicilia</placeName>
-                     <placeName type="alternative">Sicilien</placeName>
+                     <placeName type="alternative">Sicilien / Sizilien</placeName>
                   </settlement>
                   <desc type="entity_type">mountain,hill,rock,...</desc>
                   <country>IT, Italy</country>
@@ -3986,7 +3986,7 @@
                <place xml:id="hsl_place_id_334">
                   <settlement type="A">
                      <placeName type="main">Città del Vaticano</placeName>
-                     <placeName type="alternative">Vatican, Vatikan</placeName>
+                     <placeName type="alternative">Vatican / Vatikan</placeName>
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>VA, Vatican City</country>
@@ -4771,6 +4771,61 @@
                <place xml:id="hsl_place_id_401">
                   <placeName type="main">Passau</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2855328/</idno>
+               </place>
+               <place xml:id="hsl_place_id_402">
+                  <placeName type="main">Taurmina</placeName>
+                     <placeName type="alternative">Taormina</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6537773/</idno>
+               </place>
+               <place xml:id="hsl_place_id_403">
+                  <placeName type="main">Etna</placeName>
+                     <placeName type="alternative">Aetna / Äthna</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2524810/</idno>
+               </place>
+               <place xml:id="hsl_place_id_404">
+                  <placeName type="main">Siracusa / Saraùsa</placeName>
+                     <placeName type="alternative">Syrakus</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2523083/</idno>
+               </place>
+               <place xml:id="hsl_place_id_405">
+                  <placeName type="main">Monte Venere</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3164606/</idno>
+               </place>
+               <place xml:id="hsl_place_id_406">
+                  <placeName type="main">Nil</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/351036/</idno>
+               </place>
+               <place xml:id="hsl_place_id_407">
+                  <placeName type="main">Hohenschwangau</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2901486/</idno>
+               </place>
+               <place xml:id="hsl_place_id_408">
+                  <placeName type="main">al-Iskandariyya</placeName>
+                     <placeName type="alternative">Alexandrien / Alexandria</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/361058/</idno>
+               </place>
+               <place xml:id="hsl_place_id_409">
+                  <placeName type="main">Оdеса</placeName>
+                     <placeName type="alternative">Odessa</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/698738/</idno>
+               </place>
+               <place xml:id="hsl_place_id_410">
+                  <placeName type="main">Schwarzes Meer</placeName>
+                     <placeName type="alternative">Pontus Euxinus</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/630673/</idno>
+               </place>
+               <place xml:id="hsl_place_id_411">
+                  <placeName type="main">Orvieto</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6539748/</idno>
+               </place>
+               <place xml:id="hsl_place_id_412">
+                  <placeName type="main">Siena</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6541466/</idno>
+               </place>
+               <place xml:id="hsl_place_id_413">
+                  <placeName type="main">Qanāt es-Suwais</placeName>
+                     <placeName type="alternative">Suez-Canal, Suezkanal</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/347712/</idno>
                </place>
             </listPlace>
          </div>

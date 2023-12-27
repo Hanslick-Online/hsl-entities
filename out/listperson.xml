@@ -2103,6 +2103,7 @@
                      <bibl n="hsl_work_id_1889">Egmont, op. 84 (Schauspielmusik)</bibl>
                      <bibl n="hsl_work_id_1939">Hochzeitlied, op. 20 Nr. 1</bibl>
                      <bibl n="hsl_work_id_1945">Erlkönig, op. 1 Nr. 3</bibl>
+                     <bibl n="hsl_work_id_2163">Das Tagebuch</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_101">
@@ -3259,6 +3260,7 @@
                      <bibl n="hsl_work_id_2109">Ungarische Rhapsodie Nr. 17 in d-Moll, S244/17</bibl>
                      <bibl n="hsl_work_id_2110">Ungarische Rhapsodie Nr. 19 in d-Moll, S244/19</bibl>
                      <bibl n="hsl_work_id_2122">Polonaise</bibl>
+                     <bibl n="hsl_work_id_2162">Venezia e Napoli für Klavier, S159</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_165">
@@ -15167,6 +15169,11 @@
                      <forename>Friedrich</forename>
                      <surname>Kalkbrenner</surname>
                   </persName>
+                  <birth>1785-1849</birth>
+                  <death>1785-1849</death>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118559559</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q170270</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_K/Kalkbrenner_Friedrich.xml</idno>
@@ -16379,6 +16386,7 @@
                      <bibl n="hsl_work_id_2116">Trio für Violine, Cello und Klavier in f-Moll, B130</bibl>
                      <bibl n="hsl_work_id_2123">Slovanské tance, B78</bibl>
                      <bibl n="hsl_work_id_2124">Slovanské tance, B145</bibl>
+                     <bibl n="hsl_work_id_2167">Symfonické variace für Orchester, B70</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1266">
@@ -20936,6 +20944,7 @@
                      <bibl n="hsl_work_id_1214">Portraits et Souvenirs</bibl>
                      <bibl n="hsl_work_id_1215">Harmonie et Mélodie</bibl>
                      <bibl n="hsl_work_id_1642">Konzert für Violine und Orchester Nr. 3 in h-Moll, op. 61</bibl>
+                     <bibl n="hsl_work_id_2166">Nocturne für Klavier in Des-Dur</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1659">
@@ -24394,7 +24403,7 @@
                   </persName>
                   <birth>1843-1937</birth>
                   <death>1843-1937</death>
-                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: dark-red;">Schauspielerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117378186</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q767195</idno>
                </person>
@@ -25698,6 +25707,7 @@
                      <bibl n="hsl_work_id_1225">Carmen, WD31</bibl>
                      <bibl n="hsl_work_id_1364">Le pont des soupirs</bibl>
                      <bibl n="hsl_work_id_1516">Le réveillon</bibl>
+                     <bibl n="hsl_work_id_2164">Froufrou</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2062">
@@ -25719,6 +25729,7 @@
                      <bibl n="hsl_work_id_1070">La Grande-Duchesse de Gérolstein</bibl>
                      <bibl n="hsl_work_id_1225">Carmen, WD31</bibl>
                      <bibl n="hsl_work_id_1516">Le réveillon</bibl>
+                     <bibl n="hsl_work_id_2164">Froufrou</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2063">
@@ -31028,6 +31039,10 @@
                <person xml:id="hsl_person_id_2496">
                   <persName type="main">
                      <forename>Sofie</forename>
+                     <surname>Hanslick</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Sophie</forename>
                      <surname>Hanslick</surname>
                   </persName>
                   <birth>1852-1940</birth>
@@ -43615,6 +43630,79 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_2161">Musica per la Festa delle Serenissime Arciduchesse e Signore Dame di Corte</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3603" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Skýlla</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Skylla</forename>
+                     <surname>Scylla</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_3604" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Chárybdis</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Charybdis</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_3605">
+                  <persName type="main">
+                     <forename>Bernhard von</forename>
+                     <surname>Gudden</surname>
+                  </persName>
+                  <birth>1824-1886</birth>
+                  <death>1824-1886</death>
+                  <occupation style="background-color: dark-orange;">Mediziner</occupation>
+                  <occupation style="background-color: light-blue;">Psychologe</occupation>
+                  <occupation style="background-color: green;">Hochschullehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118825224</idno>
+               </person>
+               <person xml:id="hsl_person_id_3606">
+                  <persName type="main">
+                     <forename>Johann von</forename>
+                     <surname>Lutz</surname>
+                  </persName>
+                  <birth>1826-1890</birth>
+                  <death>1826-1890</death>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: dark-green;">Minister</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118940139</idno>
+               </person>
+               <person xml:id="hsl_person_id_3607">
+                  <persName type="main">
+                     <forename>Ignaz von</forename>
+                     <surname>Döllinger</surname>
+                  </persName>
+                  <birth>1799-1890</birth>
+                  <death>1799-1890</death>
+                  <occupation style="background-color: light-green;">Theologe</occupation>
+                  <occupation style="background-color: red;">Historiker</occupation>
+                  <occupation style="background-color: purple;">Priester</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118526243</idno>
+               </person>
+               <person xml:id="hsl_person_id_3608" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Clavigo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_513">Clavigo</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3609" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Werther</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_493">Die Leiden des jungen Werthers</bibl>
                   </listBibl>
                </person>
             </listPerson>
