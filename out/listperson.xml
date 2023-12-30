@@ -4604,6 +4604,9 @@
                      <bibl n="hsl_work_id_1371">La nuit de Noël</bibl>
                      <bibl n="hsl_work_id_1373">L´inganno felice</bibl>
                      <bibl n="hsl_work_id_2101">Le comte Ory</bibl>
+                     <bibl n="hsl_work_id_2220">Petite caprice (style Offenbach)</bibl>
+                     <bibl n="hsl_work_id_2222">Boléro tartare</bibl>
+                     <bibl n="hsl_work_id_2223">Un profond sommeil; Un reveil en sursaut</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_242">
@@ -4844,6 +4847,9 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55674725</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_F/Frappart_Vettern.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_R/Ruault-Frappart_Louis_1832_1921.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1180">Wiener Walzer</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_266">
                   <persName type="main">
@@ -5563,6 +5569,8 @@
                      <bibl n="hsl_work_id_1459">Die Göttin der Vernunft</bibl>
                      <bibl n="hsl_work_id_1482">Walzer</bibl>
                      <bibl n="hsl_work_id_1577">Aus den Bergen, op. 292</bibl>
+                     <bibl n="hsl_work_id_2217">Jabuka</bibl>
+                     <bibl n="hsl_work_id_2218">Kaiserwalzer, op. 437</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_300">
@@ -6543,6 +6551,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5597</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1346">Die Königin von Saba</bibl>
+                     <bibl n="hsl_work_id_2221">Madonna della Seggiola</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_381">
@@ -6886,6 +6895,10 @@
                      <forename>Arrey von</forename>
                      <surname>Dommer</surname>
                   </persName>
+                  <birth>1828-1905</birth>
+                  <death>1828-1905</death>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <occupation style="background-color: darker-purple;">Bibliothekar</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116177020</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q91592</idno>
                   <listBibl type="authorOf">
@@ -10576,13 +10589,16 @@
                </person>
                <person xml:id="hsl_person_id_755">
                   <persName type="main">
-                     <forename>? von</forename>
+                     <forename>Peter von</forename>
                      <surname>Ebersdorf</surname>
                   </persName>
                   <persName type="alternative">
                      <forename/>
                      <surname>Eberstorff</surname>
                   </persName>
+                  <birth>14. Jhdt.</birth>
+                  <death>14. Jhdt.</death>
+                  <occupation style="background-color: darker-orange;">Kämmerer</occupation>
                </person>
                <person xml:id="hsl_person_id_757">
                   <persName type="main">
@@ -14122,6 +14138,7 @@
                      <bibl n="hsl_work_id_615">Johannes Brahms</bibl>
                      <bibl n="hsl_work_id_1080">Opern-Abende. Beiträge zur Geschichte und Kritik der Oper</bibl>
                      <bibl n="hsl_work_id_1143">Letztes Glück, op. 104 Nr. 3</bibl>
+                     <bibl n="hsl_work_id_2217">Jabuka</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1066">
@@ -14809,11 +14826,11 @@
                </person>
                <person xml:id="hsl_person_id_1125">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>R.</forename>
                      <surname>Schiele</surname>
                   </persName>
-                  <birth>19. Jhdt.</birth>
-                  <death>19. Jhdt.</death>
+                  <birth>ca. 1816-1849</birth>
+                  <death>ca. 1816-1849</death>
                   <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
                </person>
                <person xml:id="hsl_person_id_1126" role="fictional">
@@ -17228,6 +17245,15 @@
                      <forename>Marie</forename>
                      <surname>Jaëll</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Jaell</surname>
+                  </persName>
+                  <birth>1846-1925</birth>
+                  <death>1846-1925</death>
+                  <occupation style="background-color: dark-blue;">Pianistin</occupation>
+                  <occupation style="background-color: orange;">Komponistin</occupation>
+                  <occupation style="background-color: light-blue;">Musiklehrerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119358905</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2706282</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_J/Jaell_Familie.xml</idno>
@@ -17816,6 +17842,8 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_859">Rouge et noir</bibl>
                      <bibl n="hsl_work_id_1180">Wiener Walzer</bibl>
+                     <bibl n="hsl_work_id_2214">Die Puppenfee</bibl>
+                     <bibl n="hsl_work_id_2215">Burschenliebe</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1380">
@@ -18872,11 +18900,14 @@
                </person>
                <person xml:id="hsl_person_id_1465">
                   <persName type="main">
-                     <forename>Anton</forename>
+                     <forename>Alexander</forename>
                      <surname>Wunderer</surname>
                   </persName>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/12873812X</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q595783</idno>
+                  <birth>1877-1955</birth>
+                  <death>1877-1955</death>
+                  <occupation style="background-color: light-yellow;">Oboist</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/130237396</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_W/Wunderer_Alexander.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_W/Wunderer_Anton_1850_1906.xml</idno>
                </person>
@@ -19066,6 +19097,9 @@
                      <forename>Christian</forename>
                      <surname>Nowak</surname>
                   </persName>
+                  <birth>19./20. Jhdt.</birth>
+                  <death>19./20. Jhdt.</death>
+                  <occupation style="background-color: dark-green;">Hornist</occupation>
                </person>
                <person xml:id="hsl_person_id_1483">
                   <persName type="main">
@@ -19078,9 +19112,13 @@
                </person>
                <person xml:id="hsl_person_id_1484">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>Alois</forename>
                      <surname>Schmidl</surname>
                   </persName>
+                  <birth>1862-1946</birth>
+                  <death>1862-1946</death>
+                  <occupation style="background-color: dark-purple;">Klarinettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1043128247</idno>
                </person>
                <person xml:id="hsl_person_id_1485">
                   <persName type="main">
@@ -25300,6 +25338,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1555731</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1050">Waldmeister</bibl>
+                     <bibl n="hsl_work_id_2217">Jabuka</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2024">
@@ -28990,6 +29029,9 @@
                   <occupation style="background-color: darker-orange;">Illustrator</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116467231</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q50307954</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2214">Die Puppenfee</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_2314" role="fictional">
                   <persName type="main">
@@ -30893,9 +30935,14 @@
                </person>
                <person xml:id="hsl_person_id_2474">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>Bertha</forename>
                      <surname>Stein</surname>
                   </persName>
+                  <birth>1864-1943</birth>
+                  <death>1864-1943</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <occupation style="background-color: dark-red;">Schauspielerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117237892</idno>
                </person>
                <person xml:id="hsl_person_id_2475">
                   <persName type="main">
@@ -30919,7 +30966,7 @@
                </person>
                <person xml:id="hsl_person_id_2477">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>Theodor</forename>
                      <surname>Rix</surname>
                   </persName>
                </person>
@@ -32439,9 +32486,19 @@
                </person>
                <person xml:id="hsl_person_id_2621">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>Robert Prescott</forename>
+                     <surname>Stewart</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Stuart</surname>
                   </persName>
+                  <birth>1825-1894</birth>
+                  <death>1825-1894</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: dark-blue;">Organist</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11774378X</idno>
                </person>
                <person xml:id="hsl_person_id_2622">
                   <persName type="main">
@@ -41538,14 +41595,14 @@
                </person>
                <person xml:id="hsl_person_id_3408">
                   <persName type="main">
-                     <forename>August</forename>
+                     <forename>Auguste</forename>
                      <surname>Wolff</surname>
                   </persName>
                   <birth>1821-1887</birth>
                   <death>1821-1887</death>
                   <occupation style="background-color: dark-orange;">Pianist</occupation>
                   <occupation style="background-color: dark-green;">Klavierbauer</occupation>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117447412</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1031120866</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3629569</idno>
                </person>
                <person xml:id="hsl_person_id_3409">
@@ -42440,6 +42497,9 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q30611317</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_M/Mader_Raoul.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_M/Mader_Raoul_1856_1940.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2213">Die Hochzeit im Frisiersalon</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3490">
                   <persName type="main">
@@ -44203,6 +44263,354 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2211">Oktett für Oboe, Klarinette, Fagott, Horn, Violine, Viola, Cello und Kontrabass in B-Dur, op. 7</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3644">
+                  <persName type="main">
+                     <forename>Gottfried</forename>
+                     <surname>Semper</surname>
+                  </persName>
+                  <birth>1803-1879</birth>
+                  <death>1803-1879</death>
+                  <occupation style="background-color: light-purple;">Architekt</occupation>
+                  <occupation style="background-color: dark-orange;">Kunsthistoriker</occupation>
+                  <occupation style="background-color: green;">Hochschullehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118613154</idno>
+               </person>
+               <person xml:id="hsl_person_id_3645">
+                  <persName type="main">
+                     <forename>Jacob</forename>
+                     <surname>Moleschott</surname>
+                  </persName>
+                  <birth>1822-1893</birth>
+                  <death>1822-1893</death>
+                  <occupation style="background-color: dark-orange;">Mediziner</occupation>
+                  <occupation style="background-color: brown;">Physiologe</occupation>
+                  <occupation style="background-color: light-orange;">Philosoph</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118734547</idno>
+               </person>
+               <person xml:id="hsl_person_id_3646">
+                  <persName type="main">
+                     <forename>Johann Friedrich</forename>
+                     <surname>Horner</surname>
+                  </persName>
+                  <birth>1831-1886</birth>
+                  <death>1831-1886</death>
+                  <occupation style="background-color: dark-orange;">Mediziner</occupation>
+                  <occupation style="background-color: green;">Hochschullehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118817264</idno>
+               </person>
+               <person xml:id="hsl_person_id_3647">
+                  <persName type="main">
+                     <forename>Oswald</forename>
+                     <surname>Heer</surname>
+                  </persName>
+                  <birth>1809-1883</birth>
+                  <death>1809-1883</death>
+                  <occupation style="background-color: darker-cyan;">Paläontologe</occupation>
+                  <occupation style="background-color: light-red;">Botaniker</occupation>
+                  <occupation style="background-color: darker-cyan;">Geologe</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11656508X</idno>
+               </person>
+               <person xml:id="hsl_person_id_3648">
+                  <persName type="main">
+                     <forename>Johannes</forename>
+                     <surname>Wislicenus</surname>
+                  </persName>
+                  <occupation style="background-color: dark-gray;">Chemiker</occupation>
+                  <occupation style="background-color: green;">Hochschullehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117413054</idno>
+               </person>
+               <person xml:id="hsl_person_id_3649">
+                  <persName type="main">
+                     <forename>Jodocus Donatus Hubertus</forename>
+                     <surname>Temme</surname>
+                  </persName>
+                  <birth>1798-1881</birth>
+                  <death>1798-1881</death>
+                  <occupation style="background-color: green;">Jurist</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: dark-green;">Journalist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118801597</idno>
+               </person>
+               <person xml:id="hsl_person_id_3650">
+                  <persName type="main">
+                     <forename>Max</forename>
+                     <surname>Büdinger</surname>
+                  </persName>
+                  <birth>1828-1902</birth>
+                  <death>1828-1902</death>
+                  <occupation style="background-color: red;">Historiker</occupation>
+                  <occupation style="background-color: green;">Hochschullehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11705495X</idno>
+               </person>
+               <person xml:id="hsl_person_id_3651">
+                  <persName type="main">
+                     <forename>Gottfried</forename>
+                     <surname>Kinkel</surname>
+                  </persName>
+                  <birth>1815-1882</birth>
+                  <death>1815-1882</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: red;">Historiker</occupation>
+                  <occupation style="background-color: green;">Hochschullehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11856224X</idno>
+               </person>
+               <person xml:id="hsl_person_id_3652">
+                  <persName type="main">
+                     <forename>Otto</forename>
+                     <surname>Haab</surname>
+                  </persName>
+                  <birth>1850-1931</birth>
+                  <death>1850-1931</death>
+                  <occupation style="background-color: dark-orange;">Mediziner</occupation>
+                  <occupation style="background-color: green;">Hochschullehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118800256</idno>
+               </person>
+               <person xml:id="hsl_person_id_3653">
+                  <persName type="main">
+                     <forename>Ludwig von</forename>
+                     <surname>Przibram</surname>
+                  </persName>
+                  <birth>1840-1916</birth>
+                  <death>1840-1916</death>
+                  <occupation style="background-color: dark-green;">Journalist</occupation>
+                  <occupation style="background-color: light-gray;">Beamter</occupation>
+                  <occupation style="background-color: dark-red;">Diplomat</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11630619X</idno>
+               </person>
+               <person xml:id="hsl_person_id_3654">
+                  <persName type="main">
+                     <forename>Ferdinand</forename>
+                     <surname>Zeller</surname>
+                  </persName>
+                  <birth>1814-1865</birth>
+                  <death>1814-1865</death>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+               </person>
+               <person xml:id="hsl_person_id_3655">
+                  <persName type="main">
+                     <forename>Ferdinand</forename>
+                     <surname>Hummel</surname>
+                  </persName>
+                  <birth>1855-1928</birth>
+                  <death>1855-1928</death>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: darker-yellow;">Harfenist</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117062251</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2212">Mara, op. 61</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3656">
+                  <persName type="main">
+                     <forename>Axel</forename>
+                     <surname>Delmar</surname>
+                  </persName>
+                  <birth>1867-1929</birth>
+                  <death>1867-1929</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: gray;">Regisseur</occupation>
+                  <occupation style="background-color: dark-blue;">Theaterdirektor</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116064471</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2212">Mara, op. 61</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3657">
+                  <persName type="main">
+                     <forename>Heinrich</forename>
+                     <surname>Regel</surname>
+                  </persName>
+                  <birth>1858-?</birth>
+                  <death>1858-?</death>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <occupation style="background-color: light-green;">Choreograph</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/120659522</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_859">Rouge et noir</bibl>
+                     <bibl n="hsl_work_id_2213">Die Hochzeit im Frisiersalon</bibl>
+                     <bibl n="hsl_work_id_2215">Burschenliebe</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3658">
+                  <persName type="main">
+                     <forename>Josef</forename>
+                     <surname>Hassreiter</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Haßreiter</surname>
+                  </persName>
+                  <birth>1845-1940</birth>
+                  <death>1845-1940</death>
+                  <occupation style="background-color: orange;">Tänzer</occupation>
+                  <occupation style="background-color: light-green;">Choreograph</occupation>
+                  <occupation style="background-color: gray;">Regisseur</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116516003</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2213">Die Hochzeit im Frisiersalon</bibl>
+                     <bibl n="hsl_work_id_2214">Die Puppenfee</bibl>
+                     <bibl n="hsl_work_id_2215">Burschenliebe</bibl>
+                     <bibl n="hsl_work_id_2216">Die goldene Märchenwelt</bibl>
+                  </listBibl>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2201">Der Teufel im Pensionat</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3659">
+                  <persName type="main">
+                     <forename>Viktor</forename>
+                     <surname>Langer</surname>
+                  </persName>
+                  <birth>1842-1902</birth>
+                  <death>1842-1902</death>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1243753447</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2201">Der Teufel im Pensionat</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3660">
+                  <persName type="main">
+                     <forename>Heinrich</forename>
+                     <surname>Berté</surname>
+                  </persName>
+                  <birth>1857-1924</birth>
+                  <death>1857-1924</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/121064344</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2216">Die goldene Märchenwelt</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3661" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Mara</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2212">Mara, op. 61</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3662" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Eddin</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2212">Mara, op. 61</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3663" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Djul</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2212">Mara, op. 61</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3664" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Dimitri</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Dmitri</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2212">Mara, op. 61</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3665" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Santuzza</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_848">Cavalleria rusticana</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3666">
+                  <persName type="main">
+                     <forename>Georgine</forename>
+                     <surname>Januschowsky</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Januschofsky</surname>
+                  </persName>
+                  <birth>1849-1914</birth>
+                  <death>1849-1914</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <occupation style="background-color: dark-red;">Schauspielerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117084093</idno>
+               </person>
+               <person xml:id="hsl_person_id_3667">
+                  <persName type="main">
+                     <forename>Irene</forename>
+                     <surname>Sironi</surname>
+                  </persName>
+                  <birth>1874-1961</birth>
+                  <death>1874-1961</death>
+                  <occupation style="background-color: darker-gray;">Tänzerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1019648732</idno>
+               </person>
+               <person xml:id="hsl_person_id_3668">
+                  <persName type="main">
+                     <forename>Ferdinand</forename>
+                     <surname>Dommayer</surname>
+                  </persName>
+                  <birth>1799-1858</birth>
+                  <death>1799-1858</death>
+                  <occupation style="background-color: light-orange;">Gastronom</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1273489985</idno>
+               </person>
+               <person xml:id="hsl_person_id_3669">
+                  <persName type="main">
+                     <forename>Ludwig</forename>
+                     <surname>Eisenberg</surname>
+                  </persName>
+                  <birth>1858-1910</birth>
+                  <death>1858-1910</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: dark-orange;">Lexikograph</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116426543</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2219">Johann Strauss. Ein Lebensbild</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3670">
+                  <persName type="main">
+                     <forename/>
+                     <surname>König von Portugal</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_3671">
+                  <persName type="main">
+                     <forename>Marie-Joseph</forename>
+                     <surname>Masson</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_3672">
+                  <persName type="main">
+                     <forename>Constance-Caroline</forename>
+                     <surname>Lefèbvre</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1278299467</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2940020</idno>
+               </person>
+               <person xml:id="hsl_person_id_3673">
+                  <persName type="main">
+                     <forename>Louis</forename>
+                     <surname>Diemer</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116102977</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1349196</idno>
                </person>
             </listPerson>
          </div>
