@@ -604,6 +604,7 @@
                   <persName>Shakespeare, William</persName>
                </author>
                <name type="character" ref="#hsl_person_id_3519">Juliet</name>
+               <name type="character" ref="#hsl_person_id_3712">Romeo</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099369-3</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_58">
@@ -2488,7 +2489,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146590</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_246">
-               <title type="main">Der Corregidor, HWW 158</title>
+               <title type="main">Der Corregidor, HWW158</title>
                <author ref="#hsl_person_id_329">
                   <persName>Wolf, Hugo</persName>
                </author>
@@ -5102,7 +5103,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300263392</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_603">
-               <title type="main">Der Gärtner, HWW 119 17</title>
+               <title type="main">Der Gärtner, HWW119 Nr. 17</title>
                <author ref="#hsl_person_id_329">
                   <persName>Wolf, Hugo</persName>
                </author>
@@ -8168,7 +8169,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30002987X</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_985">
-               <title type="main">Elfenlied, HWW 148</title>
+               <title type="main">Elfenlied, HWW148</title>
                <author ref="#hsl_person_id_329">
                   <persName>Wolf, Hugo</persName>
                </author>
@@ -8178,7 +8179,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/105265083X</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_986">
-               <title type="main">Der Feuerreiter, HWW 151</title>
+               <title type="main">Der Feuerreiter, HWW151</title>
                <author ref="#hsl_person_id_329">
                   <persName>Wolf, Hugo</persName>
                </author>
@@ -10296,6 +10297,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1237">
                <title type="main">La Navarraise</title>
+               <title type="alternative">Die Navarreserin</title>
                <author ref="#hsl_person_id_1302">
                   <persName>Massenet, Jules</persName>
                </author>
@@ -15020,6 +15022,14 @@
                <author ref="#hsl_person_id_3155">
                   <persName>Smareglia, Antonio</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_3708">Cornill Schut</name>
+               <name type="character" ref="#hsl_person_id_3710">Elisabetta van Thourenhoudt</name>
+               <name type="character" ref="#hsl_person_id_3713">Franz Hals</name>
+               <name type="character" ref="#hsl_person_id_3714">Craesbecke</name>
+               <name type="character" ref="#hsl_person_id_3715">Teniers</name>
+               <name type="character" ref="#hsl_person_id_3716">Breughel</name>
+               <name type="character" ref="#hsl_person_id_3717">Brouwer</name>
+               <name type="character" ref="#hsl_person_id_3720">Gertrud</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1838">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 15 in G-Dur, D887</title>
@@ -18144,6 +18154,139 @@
                <author ref="#hsl_person_id_2063">
                   <persName>Kind, Johann Friedrich</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2262">
+               <title type="main">Symphonie Nr. 2 in c-Moll, WAB102</title>
+               <author ref="#hsl_person_id_742">
+                  <persName>Bruckner, Anton</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300029950</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2263">
+               <title type="main">Der Rubin</title>
+               <author ref="#hsl_person_id_2417">
+                  <persName>Albert, Eugen d'</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_3723">Bedura</name>
+               <name type="character" ref="#hsl_person_id_3724">Asaf</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1058880527</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2264">
+               <title type="main">Der Mensch und das Leben, op. 14</title>
+               <author ref="#hsl_person_id_2417">
+                  <persName>Albert, Eugen d'</persName>
+               </author>
+               <author ref="#hsl_person_id_3721">
+                  <persName>Ludwig, Otto</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2265">
+               <title type="main">Gesang der Parzen, op. 89</title>
+               <title type="alternative">Parzenlied</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300025440</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2266">
+               <title type="main">Hyperions Schicksalslied</title>
+               <author ref="#hsl_person_id_2094">
+                  <persName>Hölderlin, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4519915-2</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2267">
+               <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 2 in Es-Dur, op. 11</title>
+               <author ref="#hsl_person_id_2417">
+                  <persName>Albert, Eugen d'</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30092853X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2268">
+               <title type="main">I Medici</title>
+               <author ref="#hsl_person_id_978">
+                  <persName>Leoncavallo, Ruggiero</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7675896-5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2269">
+               <title type="main">Goethe-Lieder, HWW120</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <author ref="#hsl_person_id_329">
+                  <persName>Wolf, Hugo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300174640</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2270">
+               <title type="main">Mörike-Lieder, HWW119</title>
+               <author ref="#hsl_person_id_329">
+                  <persName>Wolf, Hugo</persName>
+               </author>
+               <author ref="#hsl_person_id_2230">
+                  <persName>Mörike, Eduard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300174594</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2271">
+               <title type="main">Eine Lebensskizze ("Die Zukunft" 9, 1894, 460–462)</title>
+               <title type="alternative">Selbstbriographie</title>
+               <author ref="#hsl_person_id_2417">
+                  <persName>Albert, Eugen d'</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2272">
+               <title type="main">Enoch Arden</title>
+               <author ref="#hsl_person_id_3726">
+                  <persName>Raimann, Rudolf</persName>
+               </author>
+               <author ref="#hsl_person_id_3729">
+                  <persName>Gross, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2273">
+               <title type="main">Le Luthier de Crémone</title>
+               <title type="alternative">Der Geiger / Geigenmacher von Cremona</title>
+               <author ref="#hsl_person_id_3542">
+                  <persName>Hubay, Jenő</persName>
+               </author>
+               <author ref="#hsl_person_id_3730">
+                  <persName>Beauclair, Henri</persName>
+               </author>
+               <author ref="#hsl_person_id_3731">
+                  <persName>Coppée, François</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1174691255</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2274">
+               <title type="main">Dárius kincse</title>
+               <title type="alternative">Der Schatz des Darius</title>
+               <author ref="#hsl_person_id_3732">
+                  <persName>Szabó, Xavér Ferenc</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2275">
+               <title type="main">Das Nordlicht</title>
+               <author ref="#hsl_person_id_2011">
+                  <persName>Léon, Victor</persName>
+               </author>
+               <author ref="#hsl_person_id_3733">
+                  <persName>Poldini, Ede</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2276">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2277">
+               <title type="main">Enoch Arden</title>
+               <author ref="#hsl_person_id_3735">
+                  <persName>Tennyson, Alfred</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4426867-1</idno>
             </bibl>
       </listBibl>
       </body>
