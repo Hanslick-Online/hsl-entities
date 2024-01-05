@@ -4718,7 +4718,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_542">
                <title type="main">Britannicus</title>
-               <author ref="#hsl_person_id_955">
+               <author ref="#hsl_person_id_223">
                   <persName>Racine, Jean</persName>
                </author>
             </bibl>
@@ -18301,7 +18301,12 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2276">
-               <title type="main"/>
+               <title type="main">The Tragedy of Othello, the Moor of Venice</title>
+               <author ref="#hsl_person_id_287">
+                  <persName>Shakespeare, William</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_3797">Desdemona</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099368-1</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2277">
                <title type="main">Enoch Arden</title>
@@ -18551,10 +18556,95 @@
                <title type="alternative">Ménéstrel</title>
             </bibl>
             <bibl xml:id="hsl_work_id_2311">
-               <title type="main"/>
+               <title type="main">Alessandro, HWV21</title>
+               <title type="alternative">Alessandra</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_3793">
+                  <persName>Rolli, Paolo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300064101</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2312">
-               <title type="main"/>
+               <title type="main">Hippolyte et Aricie</title>
+               <author ref="#hsl_person_id_227">
+                  <persName>Rameau, Jean-Philippe</persName>
+               </author>
+               <author ref="#hsl_person_id_3796">
+                  <persName>Pellegrin, Simon-Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30036248X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2313">
+               <title type="main">Weihgesang bei Eröffnung des Saales der Gesellschaft der Musikfreunde</title>
+               <author ref="#hsl_person_id_151">
+                  <persName>Lachner, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_721">
+                  <persName>Grillparzer, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2314">
+               <title type="main">Prolog zur Feier des fünfundzwanzigjährigen Bestehens des Hauses der Gesellschaft der Musikfreunde in Wien</title>
+               <author ref="#hsl_person_id_3676">
+                  <persName>Berger, Alfred Freiherr von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2315">
+               <title type="main">Prolog zum Fest-Konzert zum 50-jährigen Jubiläum von Johann Strauß</title>
+               <author ref="#hsl_person_id_3676">
+                  <persName>Berger, Alfred Freiherr von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2316">
+               <title type="main">Arie</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2317">
+               <title type="main">Suite für Klavier und Streicher in Es-Dur, op. 7</title>
+               <author ref="#hsl_person_id_2487">
+                  <persName>Reinhold, Hugo</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2318">
+               <title type="main">V přírodě, B168</title>
+               <title type="alternative">In der Natur, Frühlings-Ouvertüre</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300048432</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2319">
+               <title type="main">Othello, B174</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300239890</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2320">
+               <title type="main">Stykker fra "Sigurd Jorsalfar", op. 56</title>
+               <author ref="#hsl_person_id_1042">
+                  <persName>Grieg, Edvard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300062702</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2321">
+               <title type="main">Sigurd Jorsalfar</title>
+               <author ref="#hsl_person_id_2782">
+                  <persName>Bjørnson, Bjørnstjerne</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_3798">Borghild</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2322">
+               <title type="main">Peer Gynt</title>
+               <author ref="#hsl_person_id_2145">
+                  <persName>Ibsen, Henrik</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4256031-7</idno>
             </bibl>
       </listBibl>
       </body>
