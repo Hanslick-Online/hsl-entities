@@ -603,8 +603,11 @@
                <author ref="#hsl_person_id_287">
                   <persName>Shakespeare, William</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_3519">Juliet</name>
-               <name type="character" ref="#hsl_person_id_3712">Romeo</name>
+               <name type="character" ref="#hsl_person_id_3519">Juliet Capulet</name>
+               <name type="character" ref="#hsl_person_id_3712">Romeo Montague</name>
+               <name type="character" ref="#hsl_person_id_3781">Mercutio</name>
+               <name type="character" ref="#hsl_person_id_3782">Capulet</name>
+               <name type="character" ref="#hsl_person_id_3783">Friar Laurence</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099369-3</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_58">
@@ -4854,9 +4857,21 @@
             </bibl>
             <bibl xml:id="hsl_work_id_562">
                <title type="main">Correspondance inédite de Hector Berlioz, 1819–1868</title>
+               <author ref="#hsl_person_id_28">
+                  <persName>Berlioz, Hector</persName>
+               </author>
+               <author ref="#hsl_person_id_996">
+                  <persName>Bernard, Daniel</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_563">
                <title type="main">Lettres intimes de Berlioz</title>
+               <author ref="#hsl_person_id_28">
+                  <persName>Berlioz, Hector</persName>
+               </author>
+               <author ref="#hsl_person_id_3784">
+                  <persName>Lévy, Calmann</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_565">
                <title type="main">Les Danaïdes</title>
@@ -18530,6 +18545,16 @@
                   <persName>Brahms, Johannes</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300451687</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2310">
+               <title type="main">Le Ménestrel</title>
+               <title type="alternative">Ménéstrel</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2311">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2312">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>

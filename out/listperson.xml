@@ -939,6 +939,8 @@
                      <bibl n="hsl_work_id_258">L’invitation à la valse, H90</bibl>
                      <bibl n="hsl_work_id_318">Grande ouverture du Roi Lear, H53</bibl>
                      <bibl n="hsl_work_id_561">Mémoires de Hector Berlioz, membre de l'institut de France, comprenant ses voyages en Italie, en Allemagne, en Russie et en Angleterre, 1803–1865</bibl>
+                     <bibl n="hsl_work_id_562">Correspondance inédite de Hector Berlioz, 1819–1868</bibl>
+                     <bibl n="hsl_work_id_563">Lettres intimes de Berlioz</bibl>
                      <bibl n="hsl_work_id_567">Messe solennelle, H20</bibl>
                      <bibl n="hsl_work_id_568">Les francs-juges, H23</bibl>
                      <bibl n="hsl_work_id_572">Grande Messe des morts, H75</bibl>
@@ -13408,6 +13410,9 @@
                      <forename>Daniel</forename>
                      <surname>Bernard</surname>
                   </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_562">Correspondance inédite de Hector Berlioz, 1819–1868</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_997">
                   <persName type="main">
@@ -43204,7 +43209,7 @@
                <person xml:id="hsl_person_id_3519" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Juliet</surname>
+                     <surname>Juliet Capulet</surname>
                   </persName>
                   <persName type="alternative">
                      <forename/>
@@ -45401,7 +45406,7 @@
                <person xml:id="hsl_person_id_3712" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname>Romeo</surname>
+                     <surname>Romeo Montague</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_57">Romeo and Juliet</bibl>
@@ -46195,6 +46200,46 @@
                      <surname>Szendröi</surname>
                   </persName>
                   <occupation style="background-color: dark-gray;">Sänger (Bassist)</occupation>
+               </person>
+               <person xml:id="hsl_person_id_3781" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Mercutio</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_57">Romeo and Juliet</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3782" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Capulet</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_57">Romeo and Juliet</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3783" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Friar Laurence</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_57">Romeo and Juliet</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3784">
+                  <persName type="main">
+                     <forename>Calmann</forename>
+                     <surname>Lévy</surname>
+                  </persName>
+                  <birth>1819-1891</birth>
+                  <death>1819-1891</death>
+                  <occupation style="background-color: darker-blue;">Verleger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119014424</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_563">Lettres intimes de Berlioz</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
