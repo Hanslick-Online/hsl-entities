@@ -1945,6 +1945,7 @@
                <name type="character" ref="#hsl_person_id_612">Lady Pamela</name>
                <name type="character" ref="#hsl_person_id_616">Lord Cockburn</name>
                <name type="character" ref="#hsl_person_id_674">Zerline</name>
+               <name type="character" ref="#hsl_person_id_3856">Lorenzo</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300003218</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_195">
@@ -5455,6 +5456,7 @@
                   <persName>Cormon, Eugène</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1968">Rose Friquet</name>
+               <name type="character" ref="#hsl_person_id_3860">Sylvain</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300098197</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_647">
@@ -10314,7 +10316,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1237">
                <title type="main">La Navarraise</title>
-               <title type="alternative">Die Navarreserin</title>
+               <title type="alternative">Die Navarreserin, Das Mädchen von Navarra</title>
                <author ref="#hsl_person_id_1302">
                   <persName>Massenet, Jules</persName>
                </author>
@@ -10327,6 +10329,9 @@
                <name type="character" ref="#hsl_person_id_3767">Anita</name>
                <name type="character" ref="#hsl_person_id_3768">Araquil</name>
                <name type="character" ref="#hsl_person_id_3773">Garrido</name>
+               <name type="character" ref="#hsl_person_id_3857">Remigio</name>
+               <name type="character" ref="#hsl_person_id_3861">Bustamente</name>
+               <name type="character" ref="#hsl_person_id_3862">Zuccaraga</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300553641</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1238">
@@ -11255,6 +11260,7 @@
                <author ref="#hsl_person_id_3270">
                   <persName>Roquette, Otto</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_3882">Elisabeth</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300426453</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1358">
@@ -19019,6 +19025,264 @@
                <title type="main">Psalter und Harfe. Eine Sammlung christlicher Lieder zur häuslichen Erbauung</title>
                <author ref="#hsl_person_id_3845">
                   <persName>Spitta, Karl Johann Philipp</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2378">
+               <title type="main">Ein Herz, das seinen Jesum lebend weiß, BWV134</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300008279</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2379">
+               <title type="main">Die Zeit, die Tag und Jahre macht, BWV134a</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300560044</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2380">
+               <title type="main">La zingara</title>
+               <title type="alternative">Die Zigeunerin</title>
+               <author ref="#hsl_person_id_3849">
+                  <persName>Rinaldo, da Capua</persName>
+               </author>
+               <author ref="#hsl_person_id_3850">
+                  <persName>Favart, Charles Simon</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2381">
+               <title type="main">Singende Muse an der Pleisse in zwei mahl 50 Oden. Der neuesten und besten musicalischen Stücke mit den darzu gehörigen Melodien zu beliebter Clavier-Übung und Gemüths-Ergötzung</title>
+               <author ref="#hsl_person_id_3851">
+                  <persName>Scholze, Johann Sigismund</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1098446755</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2382">
+               <title type="main">Die moderne Oper</title>
+               <author ref="#hsl_person_id_3844">
+                  <persName>Pfohl, Ferdinand</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2383">
+               <title type="main">Anton Notenquetschers lustige Fahrten</title>
+               <author ref="#hsl_person_id_1262">
+                  <persName>Moszkowski, Moritz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2384">
+               <title type="main">Anton Notenquetschers heitere Dichtungen</title>
+               <author ref="#hsl_person_id_1262">
+                  <persName>Moszkowski, Moritz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2385">
+               <title type="main">Der volksthümliche deutsche Männergesang</title>
+               <author ref="#hsl_person_id_3853">
+                  <persName>Elben, Otto</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2386">
+               <title type="main">Amor auf Reisen</title>
+               <author ref="#hsl_person_id_2004">
+                  <persName>Willner, Alfred Maria</persName>
+               </author>
+               <author ref="#hsl_person_id_3660">
+                  <persName>Berté, Heinrich</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_3854">Amor</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2387">
+               <title type="main">La Cigarette</title>
+               <author ref="#hsl_person_id_2160">
+                  <persName>Claretie, Jules</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2388">
+               <title type="main">Amen</title>
+               <author ref="#hsl_person_id_3858">
+                  <persName>Behrend, Max</persName>
+               </author>
+               <author ref="#hsl_person_id_3859">
+                  <persName>Heydrich, Bruno</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2389">
+               <title type="main">Joseph Haydn</title>
+               <author ref="#hsl_person_id_3866">
+                  <persName>Pohl, Carl Ferdinand</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2390">
+               <title type="main">Orlando paladino, Hob. XXVIII:11</title>
+               <title type="alternative">Ritter Roland</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <author ref="#hsl_person_id_3044">
+                  <persName>Porta, Nunziato</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_3870">Angelica</name>
+               <name type="character" ref="#hsl_person_id_3871">Pasquale</name>
+               <name type="character" ref="#hsl_person_id_3872">Medoro</name>
+               <name type="character" ref="#hsl_person_id_3873">Orlando</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300349270</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2391">
+               <title type="main">Wesen und Geschichte der Oper. Ein Handbuch für alle Freunde der Tonkunst</title>
+               <author ref="#hsl_person_id_3867">
+                  <persName>Fink, Gottfried Wilhelm</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2392">
+               <title type="main">La fedeltà premiata, Hob. XXVIII:10</title>
+               <title type="alternative">Alessandro il Grande</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300220316</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2393">
+               <title type="main">L'isola disabitata, Hob. XXVIII:9</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <author ref="#hsl_person_id_2118">
+                  <persName>Metastasio, Pietro</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300069170</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2394">
+               <title type="main">Il mondo della luna, Hob. XXVIII:7</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <author ref="#hsl_person_id_771">
+                  <persName>Goldoni, Carlo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30006974X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2395">
+               <title type="main">La vera costanza, Hob. XXVIII:8</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <author ref="#hsl_person_id_3868">
+                  <persName>Puttini, Francesco</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300235712</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2396">
+               <title type="main">L'incontro improvviso, Hob. XXVIII:6</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <author ref="#hsl_person_id_3863">
+                  <persName>Friberth, Karl</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300349289</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2397">
+               <title type="main">Das Neusonntagskind</title>
+               <title type="alternative">Sonntagskind</title>
+               <author ref="#hsl_person_id_1966">
+                  <persName>Müller, Wenzel</persName>
+               </author>
+               <author ref="#hsl_person_id_3451">
+                  <persName>Perinet, Joachim</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300984693</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2398">
+               <title type="main">Franz von Assisi und die Anfänge der Kunst der Renaissance in Italien</title>
+               <author ref="#hsl_person_id_3877">
+                  <persName>Thode, Henry</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2399">
+               <title type="main">Die letzten Dinge, WoO61</title>
+               <author ref="#hsl_person_id_293">
+                  <persName>Spohr, Louis</persName>
+               </author>
+               <author ref="#hsl_person_id_822">
+                  <persName>Rochlitz, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300151837</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2400">
+               <title type="main">Des Heilands letzte Stunden, WoO62</title>
+               <author ref="#hsl_person_id_293">
+                  <persName>Spohr, Louis</persName>
+               </author>
+               <author ref="#hsl_person_id_822">
+                  <persName>Rochlitz, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30015173X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2401">
+               <title type="main">Kain</title>
+               <author ref="#hsl_person_id_3878">
+                  <persName>Zenger, Max</persName>
+               </author>
+               <author ref="#hsl_person_id_3879">
+                  <persName>Heigel, Karl Theodor von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2402">
+               <title type="main">Israel's Return from Babylon</title>
+               <title type="alternative">Rückkehr Israels</title>
+               <author ref="#hsl_person_id_3880">
+                  <persName>Schachner, Joseph Rudolph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2403">
+               <title type="main">Mose</title>
+               <title type="alternative">Moses</title>
+               <author ref="#hsl_person_id_175">
+                  <persName>Marx, Adolf Bernhard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2404">
+               <title type="main">Jephtha und seine Tochter</title>
+               <author ref="#hsl_person_id_3881">
+                  <persName>Reinthaler, Karl Martin</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300128770</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2405">
+               <title type="main">Belsazar, op. 73</title>
+               <author ref="#hsl_person_id_234">
+                  <persName>Reinecke, Carl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2406">
+               <title type="main">Luther in Worms, op. 36</title>
+               <author ref="#hsl_person_id_2618">
+                  <persName>Meinardus, Ludwig</persName>
+               </author>
+               <author ref="#hsl_person_id_3885">
+                  <persName>Rossmann, Wilhelm</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1052428886</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2407">
+               <title type="main">Savonarola</title>
+               <author ref="#hsl_person_id_375">
+                  <persName>Lenau, Nikolaus</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7664913-1</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2408">
+               <title type="main">Die Rolandsglocke</title>
+               <author ref="#hsl_person_id_1359">
+                  <persName>Tinel, Edgar</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2409">
+               <title type="main">Kollebloemen, op. 20</title>
+               <title type="alternative">Die Mohnblumen</title>
+               <author ref="#hsl_person_id_1359">
+                  <persName>Tinel, Edgar</persName>
                </author>
             </bibl>
       </listBibl>
