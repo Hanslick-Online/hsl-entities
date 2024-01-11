@@ -3422,6 +3422,7 @@
                      <bibl n="hsl_work_id_2238">Der Tanz in der Dorfschenke (Mephisto-Walzer), S110 Nr. 2</bibl>
                      <bibl n="hsl_work_id_2239">Franz Liszt's Briefe an eine Freundin [Agnes Street-Klindworth]</bibl>
                      <bibl n="hsl_work_id_2350">Briefwechsel zwischen Wagner und Liszt</bibl>
+                     <bibl n="hsl_work_id_2414">Die Allmacht, S376</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_165">
@@ -5334,6 +5335,7 @@
                      <bibl n="hsl_work_id_2063">Die Nachtigall, D724</bibl>
                      <bibl n="hsl_work_id_2064">Das Dörfchen, D598</bibl>
                      <bibl n="hsl_work_id_2117">Am Tage Aller Seelen, D343</bibl>
+                     <bibl n="hsl_work_id_2414">Die Allmacht, S376</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_280">
@@ -8621,6 +8623,7 @@
                      <forename>Eurydice</forename>
                      <surname>Euridice</surname>
                   </persName>
+                  <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119507706</idno>
                </person>
                <person xml:id="hsl_person_id_527" role="fictional">
@@ -11232,6 +11235,7 @@
                      <forename/>
                      <surname>Orpheus</surname>
                   </persName>
+                  <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118590278</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q174353</idno>
                </person>
@@ -14577,6 +14581,8 @@
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_P/Perger_Richard_1854_1911.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1468">Quartett</bibl>
+                     <bibl n="hsl_work_id_2410">Der Richter von Granada</bibl>
+                     <bibl n="hsl_work_id_2412">Die vierzehn Nothelfer</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1072">
@@ -18022,7 +18028,8 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q377071</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_857">Franciscus, op. 36</bibl>
-                     <bibl n="hsl_work_id_2408">Die Rolandsglocke</bibl>
+                     <bibl n="hsl_work_id_2408">Klokke Roeland, op. 17</bibl>
+                     <bibl n="hsl_work_id_2409">Kollebloemen, op. 20</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1360" role="fictional">
@@ -33990,6 +33997,10 @@
                      <forename>Bartholf</forename>
                      <surname>Senff</surname>
                   </persName>
+                  <birth>1815-1900</birth>
+                  <death>1815-1900</death>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <occupation style="background-color: darker-red;">Musikverleger</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/104258810</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4865206</idno>
                </person>
@@ -43305,6 +43316,10 @@
                      <forename>Marie von</forename>
                      <surname>Zandt</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Marie van</forename>
+                     <surname>Zandt</surname>
+                  </persName>
                   <birth>1858-1919</birth>
                   <death>1858-1919</death>
                   <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
@@ -43382,7 +43397,7 @@
                   </persName>
                   <birth>19./20. Jhdt.</birth>
                   <death>19./20. Jhdt.</death>
-                  <occupation style="background-color: gray;">Sängerin</occupation>
+                  <occupation style="background-color: dark-gray;">Sängerin (Mezzo-Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1143870824</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q88531141</idno>
                </person>
@@ -43423,7 +43438,7 @@
                      <surname>Slavjanskaja</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename>Nadia</forename>
+                     <forename/>
                      <surname>Slaviansky</surname>
                   </persName>
                   <birth>19./20. Jhdt.</birth>
@@ -43505,10 +43520,13 @@
                </person>
                <person xml:id="hsl_person_id_3502">
                   <persName type="main">
-                     <forename>?</forename>
-                     <surname>Joll</surname>
+                     <forename>Ferdinand</forename>
+                     <surname>Foll</surname>
                   </persName>
+                  <birth>1867-1929</birth>
+                  <death>1867-1929</death>
                   <occupation style="background-color: dark-orange;">Pianist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/137694970</idno>
                </person>
                <person xml:id="hsl_person_id_3503">
                   <persName type="main">
@@ -47956,6 +47974,92 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116632828</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2406">Luther in Worms, op. 36</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3886">
+                  <persName type="main">
+                     <forename>Pol de</forename>
+                     <surname>Mont</surname>
+                  </persName>
+                  <birth>1857-1931</birth>
+                  <death>1857-1931</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117127787</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2409">Kollebloemen, op. 20</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3887">
+                  <persName type="main">
+                     <forename>Julius</forename>
+                     <surname>Sabbe</surname>
+                  </persName>
+                  <birth>1846-1910</birth>
+                  <death>1846-1910</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-orange;">Linguist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1055143173</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2408">Klokke Roeland, op. 17</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3888">
+                  <persName type="main">
+                     <forename>Pedro Antonio de</forename>
+                     <surname>Alarcón</surname>
+                  </persName>
+                  <birth>1833-1891</birth>
+                  <death>1833-1891</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: dark-green;">Journalist</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118869302</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2411">El sombrero de tres picos</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3889">
+                  <persName type="main">
+                     <forename>Nikolaus</forename>
+                     <surname>Rothmühl</surname>
+                  </persName>
+                  <birth>1857-1926</birth>
+                  <death>1857-1926</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116641444</idno>
+               </person>
+               <person xml:id="hsl_person_id_3890">
+                  <persName type="main">
+                     <forename>Wally</forename>
+                     <surname>Schauseil</surname>
+                  </persName>
+                  <birth>1860-1951</birth>
+                  <death>1860-1951</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117113034</idno>
+               </person>
+               <person xml:id="hsl_person_id_3891">
+                  <persName type="main">
+                     <forename>Alois</forename>
+                     <surname>Grienauer</surname>
+                  </persName>
+                  <birth>1850-1937</birth>
+                  <death>1850-1937</death>
+                  <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/131611801</idno>
+               </person>
+               <person xml:id="hsl_person_id_3892">
+                  <persName type="main">
+                     <forename>Philippe</forename>
+                     <surname>Desriaux</surname>
+                  </persName>
+                  <birth>1758-1805</birth>
+                  <death>1758-1805</death>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/10420284X</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1252">Sémiramis</bibl>
                   </listBibl>
                </person>
             </listPerson>
