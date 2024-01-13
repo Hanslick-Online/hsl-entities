@@ -710,8 +710,6 @@
                   <birth>1809-1847</birth>
                   <death>1809-1847</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: red;">Dirigent</occupation>
-                  <occupation style="background-color: dark-blue;">Organist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118580779</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q46096</idno>
                   <listBibl type="authorOf">
@@ -1153,8 +1151,6 @@
                   <birth>1833-1897</birth>
                   <death>1833-1897</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: dark-orange;">Pianist</occupation>
-                  <occupation style="background-color: red;">Dirigent</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118514253</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7294</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_B/Brahms_Johannes.xml</idno>
@@ -2391,7 +2387,6 @@
                   <birth>1685-1759</birth>
                   <death>1685-1759</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: dark-blue;">Organist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118544489</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7302</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_H/Haendel_Georg_Friedrich.xml</idno>
@@ -5387,7 +5382,7 @@
                   <death>1810-1856</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <occupation style="background-color: blue;">Kritiker</occupation>
-                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: darker-blue;">Redakteur</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118611666</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7351</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Schumann_Ehepaar.xml</idno>
@@ -6208,7 +6203,7 @@
                      <bibl n="hsl_work_id_1547">Kampf und Sieg, J190</bibl>
                      <bibl n="hsl_work_id_1644">Jubel-Ouvertüre in E-Dur, J245</bibl>
                      <bibl n="hsl_work_id_1754">Sonate für Klavier Nr.1 in C-Dur, J138</bibl>
-                     <bibl n="hsl_work_id_2015">Aufforderung zum Tanz, op.65</bibl>
+                     <bibl n="hsl_work_id_2015">Aufforderung zum Tanze, op. 65</bibl>
                      <bibl n="hsl_work_id_2051">Leyer und Schwerdt, J168-173</bibl>
                   </listBibl>
                </person>
@@ -14226,7 +14221,6 @@
                   <birth>1843-1907</birth>
                   <death>1843-1907</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: dark-orange;">Pianist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118697641</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q80621</idno>
                   <listBibl type="authorOf">
@@ -22129,7 +22123,7 @@
                   </persName>
                   <birth>1845-1902</birth>
                   <death>1845-1902</death>
-                  <occupation style="background-color: pink;">Komzertagent</occupation>
+                  <occupation style="background-color: light-yellow;">Konzertagent</occupation>
                   <occupation style="background-color: dark-green;">Journalist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117441090</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q20164935</idno>
@@ -41826,7 +41820,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename>Therese</forename>
-                     <surname>Careño</surname>
+                     <surname>d'Albert / Careño</surname>
                   </persName>
                   <birth>1853-1917</birth>
                   <death>1853-1917</death>
@@ -44088,6 +44082,10 @@
                <person xml:id="hsl_person_id_3542">
                   <persName type="main">
                      <forename>Jenő</forename>
+                     <surname>Hubay</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Eugen</forename>
                      <surname>Hubay</surname>
                   </persName>
                   <birth>1858-1937</birth>
