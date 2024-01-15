@@ -17708,8 +17708,12 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2201">
                <title type="main">Der Teufel im Pensionat</title>
-               <name type="character" ref="#hsl_person_id_3658">Hassreiter, Josef</name>
-               <name type="character" ref="#hsl_person_id_3659">Langer, Viktor</name>
+               <author ref="#hsl_person_id_3658">
+                  <persName>Hassreiter, Josef</persName>
+               </author>
+               <author ref="#hsl_person_id_3659">
+                  <persName>Langer, Viktor</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2202">
                <title type="main">Koning, Victor</title>
@@ -17782,7 +17786,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2213">
                <title type="main">Die Hochzeit im Frisiersalon</title>
-               <title type="alternative">Die Hochzeit im Frisirsalon</title>
+               <title type="alternative">Die Hochzeit im Frisirsalon, Der neue Frisirsalon</title>
                <author ref="#hsl_person_id_3489">
                   <persName>Mader, Raoul</persName>
                </author>

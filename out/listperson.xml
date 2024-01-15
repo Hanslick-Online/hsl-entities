@@ -44343,6 +44343,10 @@
                      <forename>Catharina van</forename>
                      <surname>Rennes</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Katharina van</forename>
+                     <surname>Rennes</surname>
+                  </persName>
                   <birth>1858-1940</birth>
                   <death>1858-1940</death>
                   <occupation style="background-color: orange;">Komponistin</occupation>
@@ -45459,13 +45463,11 @@
                   <occupation style="background-color: gray;">Regisseur</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116516003</idno>
                   <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2201">Der Teufel im Pensionat</bibl>
                      <bibl n="hsl_work_id_2213">Die Hochzeit im Frisiersalon</bibl>
                      <bibl n="hsl_work_id_2214">Die Puppenfee</bibl>
                      <bibl n="hsl_work_id_2215">Burschenliebe</bibl>
                      <bibl n="hsl_work_id_2216">Die goldene Märchenwelt</bibl>
-                  </listBibl>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_2201">Der Teufel im Pensionat</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3659">
@@ -45478,7 +45480,7 @@
                   <occupation style="background-color: red;">Dirigent</occupation>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1243753447</idno>
-                  <listBibl type="characterOf">
+                  <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2201">Der Teufel im Pensionat</bibl>
                   </listBibl>
                </person>
