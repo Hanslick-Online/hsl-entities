@@ -88,6 +88,7 @@
                      <bibl n="hsl_work_id_2182">Aus meinem Leben</bibl>
                      <bibl n="hsl_work_id_2333">Richard Wagners "Judenthum in der Musik"</bibl>
                      <bibl n="hsl_work_id_2335">Bayreuther Festspiele I-IV</bibl>
+                     <bibl n="hsl_work_id_2416">Ein Gespräch über Musikkritik</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2">
@@ -12358,6 +12359,9 @@
                      <forename>Alessandro</forename>
                      <surname>Scarlatti</surname>
                   </persName>
+                  <birth>1660-1725</birth>
+                  <death>1660-1725</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118605976</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q183087</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Scarlatti_Familie.xml</idno>
@@ -44541,6 +44545,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118735144</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2152">Florilegium primum</bibl>
+                     <bibl n="hsl_work_id_2415">Florilegium secundum</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3582">
@@ -44616,13 +44621,13 @@
                </person>
                <person xml:id="hsl_person_id_3587">
                   <persName type="main">
-                     <forename>August</forename>
+                     <forename>Karl August</forename>
                      <surname>Artaria</surname>
                   </persName>
-                  <birth>1807-1893</birth>
-                  <death>1807-1893</death>
+                  <birth>1853-1919</birth>
+                  <death>1853-1919</death>
                   <occupation style="background-color: darker-red;">Musikverleger</occupation>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/129514799</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1021274488</idno>
                </person>
                <person xml:id="hsl_person_id_3588">
                   <persName type="main">
@@ -44643,7 +44648,7 @@
                   <birth>1864-1895</birth>
                   <death>1864-1895</death>
                   <occupation style="background-color: light-gray;">Beamter</occupation>
-                  <occupation style="background-color: green;">Musikwissenschaftler</occupation>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/132875047</idno>
                </person>
                <person xml:id="hsl_person_id_3590">
@@ -44684,6 +44689,10 @@
                <person xml:id="hsl_person_id_3593">
                   <persName type="main">
                      <forename>Josef</forename>
+                     <surname>Labor</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Joseph</forename>
                      <surname>Labor</surname>
                   </persName>
                   <birth>1842-1924</birth>
@@ -44783,7 +44792,7 @@
                      <surname>Škréta</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
+                     <forename>Karl</forename>
                      <surname>Skreta</surname>
                   </persName>
                   <birth>1610-1674</birth>
