@@ -1386,8 +1386,6 @@
                   <birth>1810-1849</birth>
                   <death>1810-1849</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: dark-orange;">Pianist</occupation>
-                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118520539</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1268</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_C/Chopin_Frederic.xml</idno>
@@ -2217,8 +2215,6 @@
                   <birth>1830-1915</birth>
                   <death>1830-1915</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
-                  <occupation style="background-color: light-gray;">Violinist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119527995</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q239214</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_G/Goldmark_Carl.xml</idno>
@@ -48213,6 +48209,14 @@
                      <forename/>
                      <surname/>
                   </persName>
+               </person>
+               <person xml:id="hsl_person_id_3897" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Hades</surname>
+                  </persName>
+                  <occupation style="background-color: dark-gray;">Gottheit</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/124025080</idno>
                </person>
             </listPerson>
          </div>
