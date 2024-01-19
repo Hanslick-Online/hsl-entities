@@ -1277,6 +1277,7 @@
                      <bibl n="hsl_work_id_2307">8 Deutsche Volkslieder, WoO36</bibl>
                      <bibl n="hsl_work_id_2308">16 Deutsche Volkslieder, WoO37</bibl>
                      <bibl n="hsl_work_id_2309">20 Deutsche Volkslieder, WoO38</bibl>
+                     <bibl n="hsl_work_id_2419">Sextett für 2 Violinen, 2 Violen und 2 Celli in G-Dur, op. 36</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_42">
@@ -5479,6 +5480,7 @@
                      <bibl n="hsl_work_id_2082">An Anna, WoO21 Nr. 7</bibl>
                      <bibl n="hsl_work_id_2083">Widmung, op. 25 Nr. 1</bibl>
                      <bibl n="hsl_work_id_2121">Novellette für Klavier in E-Dur, op. 21 Nr. 7</bibl>
+                     <bibl n="hsl_work_id_2420">Scherzo und Presto Passionato für Pianoforte, WoO 5 Nr. 1</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_283">
@@ -6831,7 +6833,6 @@
                   <death>1778-1837</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <occupation style="background-color: dark-orange;">Pianist</occupation>
-                  <occupation style="background-color: red;">Dirigent</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118554751</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q151953</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_H/Hummel_Johann.xml</idno>
@@ -18114,7 +18115,7 @@
                   </persName>
                   <birth>1161-1216</birth>
                   <death>1161-1216</death>
-                  <occupation style="background-color: yellow;">Pabst</occupation>
+                  <occupation style="background-color: dark-blue;">Papst</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118555642</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q128076</idno>
                </person>
@@ -18125,7 +18126,7 @@
                   </persName>
                   <birth>ca. 1150-1227</birth>
                   <death>ca. 1150-1227</death>
-                  <occupation style="background-color: yellow;">Pabst</occupation>
+                  <occupation style="background-color: dark-blue;">Papst</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118553437</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q160182</idno>
                </person>
@@ -20281,6 +20282,10 @@
                <person xml:id="hsl_person_id_1545">
                   <persName type="main">
                      <forename>Adolf von</forename>
+                     <surname>Henselt</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Adolph von</forename>
                      <surname>Henselt</surname>
                   </persName>
                   <birth>1814-1889</birth>
@@ -37771,7 +37776,7 @@
                   </persName>
                   <birth>1792-1878</birth>
                   <death>1792-1878</death>
-                  <occupation style="background-color: yellow;">Pabst</occupation>
+                  <occupation style="background-color: dark-blue;">Papst</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118594729</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q43720</idno>
                </person>
@@ -47197,7 +47202,7 @@
                   </persName>
                   <birth>1502-1585</birth>
                   <death>1502-1585</death>
-                  <occupation style="background-color: yellow;">Pabst</occupation>
+                  <occupation style="background-color: dark-blue;">Papst</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118697390</idno>
                </person>
                <person xml:id="hsl_person_id_3814">
@@ -48228,6 +48233,15 @@
                   </persName>
                   <occupation style="background-color: dark-gray;">Gottheit</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/124025080</idno>
+               </person>
+               <person xml:id="hsl_person_id_3898">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Odescalchi</surname>
+                  </persName>
+                  <birth>19. Jhdt.</birth>
+                  <death>19. Jhdt.</death>
+                  <occupation style="background-color: light-blue;">Adelige</occupation>
                </person>
             </listPerson>
          </div>
