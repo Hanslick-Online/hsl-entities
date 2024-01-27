@@ -5882,7 +5882,6 @@
                   <birth>1811-1896</birth>
                   <death>1811-1896</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119221187</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q297717</idno>
                   <listBibl type="authorOf">
@@ -24446,8 +24445,6 @@
                   <birth>1865-1909</birth>
                   <death>1865-1909</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: dark-orange;">Pianist</occupation>
-                  <occupation style="background-color: red;">Dirigent</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1021278300</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q14508451</idno>
                   <listBibl type="authorOf">
@@ -46014,6 +46011,10 @@
                      <forename/>
                      <surname>Cornill Schut</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Cornelius Schut</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1836">Cornill Schut / Pittori Fiamminghi</bibl>
                   </listBibl>
@@ -46048,7 +46049,6 @@
                   <birth>1867-1897</birth>
                   <death>1867-1897</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: dark-orange;">Pianist</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q988646</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2279">Tamora</bibl>
@@ -46359,7 +46359,6 @@
                   <birth>1877-1957</birth>
                   <death>1877-1957</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: light-gray;">Violinist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/139092218</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2280">Ninon</bibl>
@@ -48436,6 +48435,18 @@
                   <death>?-1906</death>
                   <occupation style="background-color: light-blue;">Schauspieler</occupation>
                   <occupation style="background-color: darker-orange;">Sänger</occupation>
+               </person>
+               <person xml:id="hsl_person_id_3920">
+                  <persName type="main">
+                     <forename>Amélie</forename>
+                     <surname>Nikisch</surname>
+                  </persName>
+                  <birth>1863-1938</birth>
+                  <death>1863-1938</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <occupation style="background-color: dark-red;">Schauspielerin</occupation>
+                  <occupation style="background-color: orange;">Komponistin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117019690</idno>
                </person>
             </listPerson>
          </div>
