@@ -1849,7 +1849,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_185">
                <title type="main">Gustave III, ou Le bal masqué</title>
-               <title type="alternative">Gustav / Gustave oder Der Maskenball / Ballnacht</title>
+               <title type="alternative">Gustav / Gustave oder Der Maskenball / Die Ballnacht</title>
                <author ref="#hsl_person_id_16">
                   <persName>Auber, Daniel-François-Esprit</persName>
                </author>
@@ -2116,6 +2116,12 @@
                <author ref="#hsl_person_id_2242">
                   <persName>Méry, Joseph</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_3936">Rodrigo</name>
+               <name type="character" ref="#hsl_person_id_3938">Filippo II. di Spagna</name>
+               <name type="character" ref="#hsl_person_id_3939">Elisabetta di Valois</name>
+               <name type="character" ref="#hsl_person_id_3940">La Principessa Eboli</name>
+               <name type="character" ref="#hsl_person_id_3941">Don Carlo</name>
+               <name type="character" ref="#hsl_person_id_3942">Il Grande Inquisitore</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300165293</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_209">
@@ -2869,6 +2875,7 @@
                <name type="character" ref="#hsl_person_id_627">Ménélas</name>
                <name type="character" ref="#hsl_person_id_641">Pâris</name>
                <name type="character" ref="#hsl_person_id_676">Zoloé</name>
+               <name type="character" ref="#hsl_person_id_3930">Ajax deuxième</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/122537412X</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_281">
@@ -8589,6 +8596,8 @@
                <author ref="#hsl_person_id_1592">
                   <persName>Stephanie, Gottlieb</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_3924">Doktor Krautmann</name>
+               <name type="character" ref="#hsl_person_id_3925">Apotheker Stößel</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300516630</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1037">
@@ -8599,6 +8608,7 @@
                <author ref="#hsl_person_id_1592">
                   <persName>Stephanie, Gottlieb</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_3923">Hieronymus Knicker</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7541480-6</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1038">
@@ -8915,6 +8925,11 @@
                <author ref="#hsl_person_id_2062">
                   <persName>Meilhac, Henri</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_3926">Fritz</name>
+               <name type="character" ref="#hsl_person_id_3927">Fürstbischof</name>
+               <name type="character" ref="#hsl_person_id_3928">La Grande-duchesse</name>
+               <name type="character" ref="#hsl_person_id_3929">Wanda</name>
+               <name type="character" ref="#hsl_person_id_3934">Le baron Grog</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300115474</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1071">
@@ -14360,6 +14375,7 @@
                <name type="character" ref="#hsl_person_id_3021">Mariane</name>
                <name type="character" ref="#hsl_person_id_3022">Emmerich von Landau</name>
                <name type="character" ref="#hsl_person_id_3023">Lieutenant von Felsenberg</name>
+               <name type="character" ref="#hsl_person_id_3935">Handelsjude</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1044564806</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1745">
@@ -14416,9 +14432,6 @@
                   <persName>Liszt, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300258933</idno>
-            </bibl>
-            <bibl xml:id="hsl_work_id_1752">
-               <title type="main">perpe</title>
             </bibl>
             <bibl xml:id="hsl_work_id_1753">
                <title type="main">Symphonie Nr. 7, op. 48</title>
@@ -18841,7 +18854,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2347">
-               <title type="main">La musique aux Pays-Bas avant le 19e. siècle. Documents inédits et annotés. Compositeurs, virtuoses, théoriciens, luthiers; opéras, motets, airs nationaux, académies, maîtrises, livres, portraits, etc.</title>
+               <title type="main">La musique aux Fays-Bas avant le 19e. siècle. Documents inédits et annotés. Compositeurs, virtuoses, théoriciens, luthiers; opéras, motets, airs nationaux, académies, maîtrises, livres, portraits, etc.</title>
                <author ref="#hsl_person_id_3814">
                   <persName>Straeten, Edmund van der</persName>
                </author>
@@ -19413,6 +19426,66 @@
                   <persName>Léon, Victor</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300712162</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2424">
+               <title type="main">L'éclat de rire</title>
+               <author ref="#hsl_person_id_16">
+                  <persName>Auber, Daniel-François-Esprit</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2425">
+               <title type="main">Flieg', Vogel, fliege, op. 29/1</title>
+               <author ref="#hsl_person_id_2038">
+                  <persName>Willmers, Rudolf</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2426">
+               <title type="main">Ungarische Episode, op. 126</title>
+               <author ref="#hsl_person_id_2038">
+                  <persName>Willmers, Rudolf</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2427">
+               <title type="main">Oberösterreichische Fantasie, op. 122/1</title>
+               <author ref="#hsl_person_id_2038">
+                  <persName>Willmers, Rudolf</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2428">
+               <title type="main">Le vallon, CG 467</title>
+               <author ref="#hsl_person_id_102">
+                  <persName>Gounod, Charles</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2429">
+               <title type="main">Adagio</title>
+               <author ref="#hsl_person_id_1258">
+                  <persName>Molique, Bernhard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2430">
+               <title type="main">Le Papillon, op.3 Nr.4</title>
+               <author ref="#hsl_person_id_3555">
+                  <persName>Popper, David</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2431">
+               <title type="main">Ballade et polonaise, Op.38</title>
+               <author ref="#hsl_person_id_1494">
+                  <persName>Vieuxtemps, Henri</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2432">
+               <title type="main">Andante</title>
+               <author ref="#hsl_person_id_293">
+                  <persName>Spohr, Louis</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2433">
+               <title type="main">Capriccio</title>
+               <author ref="#hsl_person_id_1008">
+                  <persName>Paganini, Niccolò</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>

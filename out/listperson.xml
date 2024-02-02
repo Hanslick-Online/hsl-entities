@@ -560,8 +560,6 @@
                   <birth>1782-1871</birth>
                   <death>1782-1871</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: red;">Dirigent</occupation>
-                  <occupation style="background-color: light-gray;">Violinist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118646192</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q157672</idno>
                   <listBibl type="authorOf">
@@ -593,6 +591,7 @@
                      <bibl n="hsl_work_id_940">Manon Lescaut</bibl>
                      <bibl n="hsl_work_id_1282">La Parisienne</bibl>
                      <bibl n="hsl_work_id_1610">Le premier jour de bonheur</bibl>
+                     <bibl n="hsl_work_id_2424">L'éclat de rire</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_17">
@@ -2274,6 +2273,7 @@
                      <bibl n="hsl_work_id_1224">La nonne sanglante, CG2</bibl>
                      <bibl n="hsl_work_id_1698">La Reine de Saba, CG7</bibl>
                      <bibl n="hsl_work_id_2091">Mireille, CG8</bibl>
+                     <bibl n="hsl_work_id_2428">Le vallon, CG 467</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_336">
@@ -5707,6 +5707,7 @@
                      <bibl n="hsl_work_id_2138">Vater unser, WoO67</bibl>
                      <bibl n="hsl_work_id_2399">Die letzten Dinge, WoO61</bibl>
                      <bibl n="hsl_work_id_2400">Des Heilands letzte Stunden, WoO62</bibl>
+                     <bibl n="hsl_work_id_2432">Andante</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_294">
@@ -6381,7 +6382,6 @@
                   <birth>1766-1846</birth>
                   <death>1766-1846</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: red;">Dirigent</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/100470106</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q78798</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_W/Weigl_Familie.xml</idno>
@@ -13831,6 +13831,7 @@
                      <bibl n="hsl_work_id_2008">Mosè-fantasia, MS23</bibl>
                      <bibl n="hsl_work_id_2027">Sonata a preghiera</bibl>
                      <bibl n="hsl_work_id_2324">Konzert für Violine und Orchester</bibl>
+                     <bibl n="hsl_work_id_2433">Capriccio</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1010">
@@ -16897,6 +16898,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_M/Molique_Bernhard.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_766">Konzert für Violine und Orchester Nr. 5 in a-Moll, op. 21</bibl>
+                     <bibl n="hsl_work_id_2429">Adagio</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1259">
@@ -19940,6 +19942,9 @@
                   <occupation style="background-color: light-gray;">Violinist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117416460</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q312790</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2431">Ballade et polonaise, Op.38</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1495">
                   <persName type="main">
@@ -26451,6 +26456,11 @@
                   <occupation style="background-color: red;">Dirigent</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/104318724</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q16599066</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2425">Flieg', Vogel, fliege, op. 29/1</bibl>
+                     <bibl n="hsl_work_id_2426">Ungarische Episode, op. 126</bibl>
+                     <bibl n="hsl_work_id_2427">Oberösterreichische Fantasie, op. 122/1</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_2039">
                   <persName type="main">
@@ -44834,6 +44844,9 @@
                   <occupation style="background-color: light-purple;">Cellist</occupation>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116268409</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2430">Le Papillon, op.3 Nr.4</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3556">
                   <persName type="main">
@@ -47864,7 +47877,7 @@
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117305863</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_2347">La musique aux Pays-Bas avant le 19e. siècle. Documents inédits et annotés. Compositeurs, virtuoses, théoriciens, luthiers; opéras, motets, airs nationaux, académies, maîtrises, livres, portraits, etc.</bibl>
+                     <bibl n="hsl_work_id_2347">La musique aux Fays-Bas avant le 19e. siècle. Documents inédits et annotés. Compositeurs, virtuoses, théoriciens, luthiers; opéras, motets, airs nationaux, académies, maîtrises, livres, portraits, etc.</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3815">
@@ -48077,6 +48090,10 @@
                   <persName type="main">
                      <forename>Efendi</forename>
                      <surname>Murad</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Effendi</surname>
                   </persName>
                   <birth>1836-1881</birth>
                   <death>1836-1881</death>
@@ -48300,6 +48317,10 @@
                   <persName type="main">
                      <forename>da Capua</forename>
                      <surname>Rinaldo</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Rinaldo von</forename>
+                     <surname>Capua</surname>
                   </persName>
                   <birth>ca. 1710-1780</birth>
                   <death>ca. 1710-1780</death>
@@ -48863,11 +48884,15 @@
                      <bibl n="hsl_work_id_2413">Evanthia</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3896" role="fictional">
+               <person xml:id="hsl_person_id_3896">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>François</forename>
+                     <surname>Wille</surname>
                   </persName>
+                  <birth>1811-1896</birth>
+                  <death>1811-1896</death>
+                  <occupation style="background-color: dark-green;">Journalist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117387576</idno>
                </person>
                <person xml:id="hsl_person_id_3897" role="fictional">
                   <persName type="main">
@@ -49106,6 +49131,179 @@
                      <forename>?</forename>
                      <surname>Hofmann</surname>
                   </persName>
+               </person>
+               <person xml:id="hsl_person_id_3923" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Hieronymus Knicker</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1037">Hieronymus Knicker, Kr. 297</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3924" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Doktor Krautmann</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1036">Doctor und Apotheker, Kr. 292</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3925" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Apotheker Stößel</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1036">Doctor und Apotheker, Kr. 292</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3926" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Fritz</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1070">La Grande-Duchesse de Gérolstein</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3927" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Fürstbischof</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1070">La Grande-Duchesse de Gérolstein</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3928" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>La Grande-duchesse</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1070">La Grande-Duchesse de Gérolstein</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3929" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Wanda</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1070">La Grande-Duchesse de Gérolstein</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3930" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ajax deuxième</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_280">La belle Hélène</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3931">
+                  <persName type="main">
+                     <forename>Lise</forename>
+                     <surname>Tautin</surname>
+                  </persName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3242524</idno>
+               </person>
+               <person xml:id="hsl_person_id_3932">
+                  <persName type="main">
+                     <forename>Hortense</forename>
+                     <surname>Schneider</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119191830</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q450838</idno>
+               </person>
+               <person xml:id="hsl_person_id_3933">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Dupuy</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_3934" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Le baron Grog</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1070">La Grande-Duchesse de Gérolstein</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3935" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Handelsjude</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1744">Das rothe Käppchen, Kr. 298</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3936" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Rodrigo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_208">Don Carlos, H61</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3937">
+                  <persName type="main">
+                     <forename>König von Spanien</forename>
+                     <surname>Philipp II.</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118593862</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q34417</idno>
+               </person>
+               <person xml:id="hsl_person_id_3938" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Filippo II. di Spagna</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_208">Don Carlos, H61</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3939" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Elisabetta di Valois</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_208">Don Carlos, H61</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3940" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>La Principessa Eboli</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_208">Don Carlos, H61</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3941" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Don Carlo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_208">Don Carlos, H61</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3942" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Il Grande Inquisitore</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_208">Don Carlos, H61</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
