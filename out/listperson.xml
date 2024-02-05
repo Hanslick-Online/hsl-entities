@@ -42410,7 +42410,7 @@
                   <death>1855-1920</death>
                   <occupation style="background-color: light-purple;">Cellist</occupation>
                   <occupation style="background-color: light-red;">Musiklehrer</occupation>
-                  <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/117371041</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117371041</idno>
                </person>
                <person xml:id="hsl_person_id_3344">
                   <persName type="main">
@@ -42934,6 +42934,11 @@
                   <occupation style="background-color: darker-pink;">Bildhauer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118526839</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q6682</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2435">Illustrationen zu Cervantes "Don Quichote"</bibl>
+                     <bibl n="hsl_work_id_2437">Illustrationen zu Dantes "Göttlichen Komödie"</bibl>
+                     <bibl n="hsl_work_id_2438">Illustrationen für "Dornröschen"</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3386">
                   <persName type="main">
@@ -42954,6 +42959,8 @@
                      <forename>Eugène</forename>
                      <surname>Rouher</surname>
                   </persName>
+                  <birth>1814-1884</birth>
+                  <death>1814-1884</death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116664029</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3060162</idno>
                </person>
@@ -42962,6 +42969,8 @@
                      <forename>Jean Baptiste Philibert</forename>
                      <surname>Vaillant</surname>
                   </persName>
+                  <birth>1790-1872</birth>
+                  <death>1790-1872</death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/104241640</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q115694</idno>
                </person>
@@ -48980,12 +48989,6 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1046152858</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q95238551</idno>
                </person>
-               <person xml:id="hsl_person_id_3908" role="fictional">
-                  <persName type="main">
-                     <forename/>
-                     <surname/>
-                  </persName>
-               </person>
                <person xml:id="hsl_person_id_3909" role="fictional">
                   <persName type="main">
                      <forename/>
@@ -49099,12 +49102,6 @@
                   <occupation style="background-color: dark-red;">Schauspielerin</occupation>
                   <occupation style="background-color: orange;">Komponistin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117019690</idno>
-               </person>
-               <person xml:id="hsl_person_id_3921" role="fictional">
-                  <persName type="main">
-                     <forename/>
-                     <surname/>
-                  </persName>
                </person>
                <person xml:id="hsl_person_id_3922">
                   <persName type="main">
@@ -49284,6 +49281,20 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_208">Don Carlos, H61</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3945">
+                  <persName type="main">
+                     <forename>August Wilhelm von</forename>
+                     <surname>Schlegel</surname>
+                  </persName>
+                  <birth>1767-1845</birth>
+                  <death>1767-1845</death>
+                  <occupation style="background-color: blue;">Kritiker</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: dark-red;">Übersetzer</occupation>
+                  <occupation style="background-color: green;">Hochschullehrer</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118607960</idno>
                </person>
             </listPerson>
          </div>
