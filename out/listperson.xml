@@ -1035,6 +1035,7 @@
                   <death>1829-1894</death>
                   <occupation style="background-color: dark-orange;">Mediziner</occupation>
                   <occupation style="background-color: green;">Hochschullehrer</occupation>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118510916</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q77242</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_B/Billroth_Theodor.xml</idno>
@@ -2715,8 +2716,8 @@
                   </persName>
                   <birth>1811-1885</birth>
                   <death>1811-1885</death>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: red;">Dirigent</occupation>
                   <occupation style="background-color: light-gray;">Musikautor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118704931</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q213530</idno>
@@ -3630,6 +3631,7 @@
                   <death>1795-1866</death>
                   <occupation style="background-color: light-gray;">Musikautor</occupation>
                   <occupation style="background-color: green;">Hochschullehrer</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119065290</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q360945</idno>
                   <listBibl type="authorOf">
@@ -10560,6 +10562,10 @@
                      <forename>Jan</forename>
                      <surname>Hus</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Huß</surname>
+                  </persName>
                   <birth>um 1370-1415</birth>
                   <death>um 1370-1415</death>
                   <occupation style="background-color: light-green;">Theologe</occupation>
@@ -14708,9 +14714,9 @@
                   </persName>
                   <birth>1854-1911</birth>
                   <death>1854-1911</death>
-                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <occupation style="background-color: red;">Dirigent</occupation>
-                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116079150</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15842418</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_P/Perger_Richard.xml</idno>
@@ -21120,8 +21126,8 @@
                   <birth>1751-1831</birth>
                   <death>1751-1831</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
                   <occupation style="background-color: red;">Dirigent</occupation>
-                  <occupation style="background-color: dark-orange;">Pianist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118560697</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q347096</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_K/Kauer_Ferdinand.xml</idno>
@@ -48581,6 +48587,10 @@
                      <forename/>
                      <surname>Pasquale</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Pasquino</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_2390">Orlando paladino, Hob. XXVIII:11</bibl>
                   </listBibl>
@@ -48630,16 +48640,6 @@
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119031337</idno>
-               </person>
-               <person xml:id="hsl_person_id_3876" role="fictional">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Pasquino</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>unklarer Bezug</surname>
-                  </persName>
                </person>
                <person xml:id="hsl_person_id_3877">
                   <persName type="main">
