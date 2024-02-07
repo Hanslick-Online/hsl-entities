@@ -2204,6 +2204,7 @@
                      <bibl n="hsl_work_id_2197">Warum?, op. 92 Nr. 4</bibl>
                      <bibl n="hsl_work_id_2265">Gesang der Parzen, op. 89</bibl>
                      <bibl n="hsl_work_id_2269">Goethe-Lieder, HWW120</bibl>
+                     <bibl n="hsl_work_id_2443">Wilhelm Meisters Lehrjahre</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_101">
@@ -5913,6 +5914,8 @@
                      <bibl n="hsl_work_id_895">Hamlet</bibl>
                      <bibl n="hsl_work_id_1611">Le Caïd</bibl>
                      <bibl n="hsl_work_id_2073">Le Tyrol</bibl>
+                     <bibl n="hsl_work_id_2444">La Double Échelle</bibl>
+                     <bibl n="hsl_work_id_2445">Le Perruquier de la Régence</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_306">
@@ -12469,6 +12472,9 @@
                      <forename/>
                      <surname>Mignon</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_894">Mignon</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_869" role="fictional">
                   <persName type="main">
@@ -27066,6 +27072,7 @@
                      <bibl n="hsl_work_id_138">L'éclair</bibl>
                      <bibl n="hsl_work_id_647">Marie</bibl>
                      <bibl n="hsl_work_id_1701">Le pré aux clercs</bibl>
+                     <bibl n="hsl_work_id_2444">La Double Échelle</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2037">
@@ -50951,6 +50958,135 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_57">Romeo and Juliet</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3957" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Wilhelm Meister</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2443">Wilhelm Meisters Lehrjahre</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3958" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Wilhelm Meister</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_894">Mignon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3959" role="fictional">
+                  <persName type="main">
+                     <forename>Augustin</forename>
+                     <surname>Der Harfner</surname>
+                  </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2443">Wilhelm Meisters Lehrjahre</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3960" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Friedrich</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2443">Wilhelm Meisters Lehrjahre</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3961" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Frédéric</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_894">Mignon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3962" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Philine</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2443">Wilhelm Meisters Lehrjahre</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3963" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Laertes</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2443">Wilhelm Meisters Lehrjahre</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3964" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Laerte</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_894">Mignon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3965" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Lothario</surname>
+                  </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_894">Mignon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3966" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Mignon</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2443">Wilhelm Meisters Lehrjahre</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3967" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Baronesse Natalie</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2443">Wilhelm Meisters Lehrjahre</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3968" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Mariane</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2443">Wilhelm Meisters Lehrjahre</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3969" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Fräulein Therese</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2443">Wilhelm Meisters Lehrjahre</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_3970">
+                  <persName type="main">
+                     <forename>Paul</forename>
+                     <surname>Duport</surname>
+                  </persName>
+                  <birth>1798-1866</birth>
+                  <death>1798-1866</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11625369X</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2445">Le Perruquier de la Régence</bibl>
                   </listBibl>
                </person>
             </listPerson>

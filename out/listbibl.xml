@@ -7409,7 +7409,14 @@
                <author ref="#hsl_person_id_305">
                   <persName>Thomas, Ambroise</persName>
                </author>
+               <author ref="#hsl_person_id_3965">
+                  <persName>Lothario</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_868">Mignon</name>
                <name type="character" ref="#hsl_person_id_3314">Philine</name>
+               <name type="character" ref="#hsl_person_id_3958">Wilhelm Meister</name>
+               <name type="character" ref="#hsl_person_id_3961">Frédéric</name>
+               <name type="character" ref="#hsl_person_id_3964">Laerte</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300162677</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_895">
@@ -19523,6 +19530,41 @@
                   <persName>Hebbel, Friedrich</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4331538-0</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2443">
+               <title type="main">Wilhelm Meisters Lehrjahre</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <author ref="#hsl_person_id_3959">
+                  <persName>Der Harfner, Augustin</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_3957">Wilhelm Meister</name>
+               <name type="character" ref="#hsl_person_id_3960">Friedrich</name>
+               <name type="character" ref="#hsl_person_id_3962">Philine</name>
+               <name type="character" ref="#hsl_person_id_3963">Laertes</name>
+               <name type="character" ref="#hsl_person_id_3966">Mignon</name>
+               <name type="character" ref="#hsl_person_id_3967">Baronesse Natalie</name>
+               <name type="character" ref="#hsl_person_id_3968">Mariane</name>
+               <name type="character" ref="#hsl_person_id_3969">Fräulein Therese</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2444">
+               <title type="main">La Double Échelle</title>
+               <author ref="#hsl_person_id_305">
+                  <persName>Thomas, Ambroise</persName>
+               </author>
+               <author ref="#hsl_person_id_2036">
+                  <persName>Planard, Eugène de</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2445">
+               <title type="main">Le Perruquier de la Régence</title>
+               <author ref="#hsl_person_id_305">
+                  <persName>Thomas, Ambroise</persName>
+               </author>
+               <author ref="#hsl_person_id_3970">
+                  <persName>Duport, Paul</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
