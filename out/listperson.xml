@@ -24294,6 +24294,9 @@
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/135497965</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q633817</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2465">Le voyage en chine</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1816">
                   <persName type="main">
@@ -36111,6 +36114,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2835059</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1607">Les Dominos roses</bibl>
+                     <bibl n="hsl_work_id_2465">Le voyage en chine</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2724">
@@ -36123,6 +36127,9 @@
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11877834X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q379929</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2465">Le voyage en chine</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_2725" role="fictional">
                   <persName type="main">
@@ -51620,6 +51627,48 @@
                   <birth>1800-1884</birth>
                   <death>1800-1884</death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1300681888</idno>
+               </person>
+               <person xml:id="hsl_person_id_4029">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Johann Daniel Skoczdopole</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Skoczdopolle</surname>
+                  </persName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q20003626</idno>
+               </person>
+               <person xml:id="hsl_person_id_4030">
+                  <persName type="main">
+                     <forename>Emilie</forename>
+                     <surname>La Grua</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116646896</idno>
+               </person>
+               <person xml:id="hsl_person_id_4031">
+                  <persName type="main">
+                     <forename>Fanny</forename>
+                     <surname>Persiani</surname>
+                  </persName>
+                  <birth>1807-1867</birth>
+                  <death>1807-1867</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118926292</idno>
+               </person>
+               <person xml:id="hsl_person_id_4032">
+                  <persName type="main">
+                     <forename>Carlo</forename>
+                     <surname>Severini</surname>
+                  </persName>
+                  <birth>1793/1800-1838</birth>
+                  <death>1793/1800-1838</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1030347492</idno>
+               </person>
+               <person xml:id="hsl_person_id_4034" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
                </person>
             </listPerson>
          </div>
