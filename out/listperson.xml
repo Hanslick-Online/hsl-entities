@@ -4345,6 +4345,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_P/Pergolesi_Giovanni.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_124">La serva padrona</bibl>
+                     <bibl n="hsl_work_id_2440">Stabat Mater, P77</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_212">
@@ -39052,6 +39053,10 @@
                      <forename/>
                      <surname>Tito Vespasiano</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Titus</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_934">La clemenza di Tito, KV621</bibl>
                   </listBibl>
@@ -42457,14 +42462,15 @@
                   </persName>
                   <birth>1731-1795</birth>
                   <death>1731-1795</death>
+                  <occupation style="background-color: dark-yellow;">Trompeter</occupation>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <occupation style="background-color: light-orange;">Librettist</occupation>
-                  <occupation style="background-color: dark-yellow;">Trompeter</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/100398782</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55913027</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Schachtner_Andreas.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1290">Zaide, KV344</bibl>
+                     <bibl n="hsl_work_id_2448">Bastien und Bastienne, KV50</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3247">
@@ -45077,6 +45083,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3771211</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2065">Il barbiere di Siviglia, R 1 64</bibl>
+                     <bibl n="hsl_work_id_2450">La finta giardiniera, KV196</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3466" role="fictional">
@@ -51263,12 +51270,6 @@
                      <bibl n="hsl_work_id_868">Idomeneo, KV366</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3990" role="fictional">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Titus</surname>
-                  </persName>
-               </person>
                <person xml:id="hsl_person_id_3991" role="fictional">
                   <persName type="main">
                      <forename/>
@@ -51285,24 +51286,15 @@
                   <occupation style="background-color: dark-red;">Schauspielerin</occupation>
                   <occupation style="background-color: gray;">Schriftstellerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/121995569</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2441">Les amours de Bastien et Bastienne</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3993" role="fictional">
                   <persName type="main">
                      <forename/>
                      <surname/>
                   </persName>
-               </person>
-               <person xml:id="hsl_person_id_3994">
-                  <persName type="main">
-                     <forename>Bartholt</forename>
-                     <surname>Senff</surname>
-                  </persName>
-                  <birth>1815-1900</birth>
-                  <death>1815-1900</death>
-                  <occupation style="background-color: gray;">Musikschriftsteller</occupation>
-                  <occupation style="background-color: darker-red;">Musikverleger</occupation>
-                  <occupation style="background-color: darker-blue;">Verleger</occupation>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/104258810</idno>
                </person>
                <person xml:id="hsl_person_id_3995" role="fictional">
                   <persName type="main">
@@ -51354,6 +51346,10 @@
                      <forename/>
                      <surname>Marchioness Violante Onesti</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Sandrina</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_2450">La finta giardiniera, KV196</bibl>
                   </listBibl>
@@ -51362,6 +51358,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Roberto</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Nardo</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_2450">La finta giardiniera, KV196</bibl>
@@ -51396,12 +51396,12 @@
                </person>
                <person xml:id="hsl_person_id_4006">
                   <persName type="main">
-                     <forename>Bayern</forename>
+                     <forename>Kurfürst von Bayern</forename>
                      <surname>Maximilian III.</surname>
                   </persName>
                   <birth>1727-1777</birth>
                   <death>1727-1777</death>
-                  <occupation style="background-color: light-pink;">Kurfürst</occupation>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118579436</idno>
                </person>
@@ -51669,6 +51669,58 @@
                      <forename/>
                      <surname/>
                   </persName>
+               </person>
+               <person xml:id="hsl_person_id_4035" role="fictional">
+                  <persName type="main">
+                     <forename>Friedrich Wilhelm</forename>
+                     <surname>Weiskern</surname>
+                  </persName>
+                  <birth>1711-1768</birth>
+                  <death>1711-1768</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-green;">Topograph</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/121336794</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2448">Bastien und Bastienne, KV50</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4036" role="fictional">
+                  <persName type="main">
+                     <forename>Johann Heinrich Friedrich</forename>
+                     <surname>Müller</surname>
+                  </persName>
+                  <birth>1738-1815</birth>
+                  <death>1738-1815</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: dark-blue;">Theaterdirektor</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118737503</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2448">Bastien und Bastienne, KV50</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4037" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Cavalier Ramiro</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2450">La finta giardiniera, KV196</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4038" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Don Anchise</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Podestà</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2450">La finta giardiniera, KV196</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

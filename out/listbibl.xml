@@ -19521,10 +19521,18 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2440">
-               <title type="main"/>
+               <title type="main">Stabat Mater, P77</title>
+               <author ref="#hsl_person_id_211">
+                  <persName>Pergolesi, Giovanni Battista</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://lobid.org/gnd/300118481</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2441">
-               <title type="main"/>
+               <title type="main">Les amours de Bastien et Bastienne</title>
+               <author ref="#hsl_person_id_3992">
+                  <persName>Favart, Marie-Justine-Benoîte</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4597572-3</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2442">
                <title type="main">Die Nibelungen</title>
@@ -19600,6 +19608,15 @@
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
+               <author ref="#hsl_person_id_3246">
+                  <persName>Schachtner, Johann Andreas</persName>
+               </author>
+               <author ref="#hsl_person_id_4035">
+                  <persName>Weiskern, Friedrich Wilhelm</persName>
+               </author>
+               <author ref="#hsl_person_id_4036">
+                  <persName>Müller, Johann Heinrich Friedrich</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_4003">Colas</name>
                <name type="character" ref="#hsl_person_id_4004">Bastien</name>
                <name type="character" ref="#hsl_person_id_4005">Bastienne</name>
@@ -19610,14 +19627,20 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2450">
                <title type="main">La finta giardiniera, KV196</title>
+               <title type="alternative">Die Gärtnerin, Die Gärtnerin aus Liebe</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+               <author ref="#hsl_person_id_3465">
+                  <persName>Petrosellini, Giuseppe</persName>
                </author>
                <name type="character" ref="#hsl_person_id_3995">Contino Belfiore</name>
                <name type="character" ref="#hsl_person_id_3997">Arminda</name>
                <name type="character" ref="#hsl_person_id_4000">Serpetta</name>
                <name type="character" ref="#hsl_person_id_4001">Marchioness Violante Onesti</name>
                <name type="character" ref="#hsl_person_id_4002">Roberto</name>
+               <name type="character" ref="#hsl_person_id_4037">Cavalier Ramiro</name>
+               <name type="character" ref="#hsl_person_id_4038">Don Anchise</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300108192</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2451">
