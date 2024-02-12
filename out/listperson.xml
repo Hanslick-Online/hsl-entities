@@ -1401,7 +1401,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_256">Ballade für Klavier Nr. 4 in f-Moll, op. 52</bibl>
                      <bibl n="hsl_work_id_663">Mazurka</bibl>
-                     <bibl n="hsl_work_id_888">Notturno</bibl>
+                     <bibl n="hsl_work_id_888">Notturno / Nocturne</bibl>
                      <bibl n="hsl_work_id_935">Ballade für Klavier Nr. 1 in g-Moll, op. 23</bibl>
                      <bibl n="hsl_work_id_936">Ballade für Klavier Nr. 2 in F-Dur, op. 38</bibl>
                      <bibl n="hsl_work_id_937">Ballade für Klavier Nr. 3 in As-Dur, op. 47</bibl>
@@ -3954,6 +3954,7 @@
                      <bibl n="hsl_work_id_2448">Bastien und Bastienne, KV50</bibl>
                      <bibl n="hsl_work_id_2450">La finta giardiniera, KV196</bibl>
                      <bibl n="hsl_work_id_2472">Quintette, Klarinette, Violine (2), Viola, Violoncello, KV 581 in A-Dur</bibl>
+                     <bibl n="hsl_work_id_2476">Wiegenlied, KV350</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_190">
@@ -51734,12 +51735,13 @@
                <person xml:id="hsl_person_id_4040">
                   <persName type="main">
                      <forename>Erzherzog von Österreich</forename>
-                     <surname>Franz Karl</surname>
+                     <surname>Karl</surname>
                   </persName>
-                  <birth>1802-1878</birth>
-                  <death>1802-1878</death>
-                  <occupation style="background-color: dark-gray;">Politiker</occupation>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/131412000</idno>
+                  <birth>1771-1847</birth>
+                  <death>1771-1847</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <occupation style="background-color: light-gray;">Offizier</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118723049</idno>
                </person>
                <person xml:id="hsl_person_id_4041">
                   <persName type="main">
@@ -51766,6 +51768,19 @@
                      <forename/>
                      <surname/>
                   </persName>
+               </person>
+               <person xml:id="hsl_person_id_4044">
+                  <persName type="main">
+                     <forename>Friedrich Wilhelm</forename>
+                     <surname>Gotter</surname>
+                  </persName>
+                  <birth>1746-1797</birth>
+                  <death>1746-1797</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118540939</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2476">Wiegenlied, KV350</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
