@@ -748,6 +748,8 @@
                      <bibl n="hsl_work_id_1988">Ouvertüre in C-Dur, MWV P 1</bibl>
                      <bibl n="hsl_work_id_2047">Ein Sommernachtstraum, MWV M 13 (Schauspielmusik)</bibl>
                      <bibl n="hsl_work_id_2077">Abschied vom Walde, op. 59, Nr. 3</bibl>
+                     <bibl n="hsl_work_id_2484">Konzerte, Klavier, Streichorch in a-Moll, MWV O 2</bibl>
+                     <bibl n="hsl_work_id_2485">Konzerte, Violine, Orchester in e-Moll, op.64</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_22">
@@ -3160,6 +3162,7 @@
                      <bibl n="hsl_work_id_2141">Sechs Altniederländische Volkslieder aus der Sammlung des Adrianus Valerius vom Jahre 1626</bibl>
                      <bibl n="hsl_work_id_2142">Kriegslied</bibl>
                      <bibl n="hsl_work_id_2143">Berg op Zoom</bibl>
+                     <bibl n="hsl_work_id_2478">Hymne an die Madonna</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_151">
@@ -4914,6 +4917,7 @@
                      <bibl n="hsl_work_id_2256">Der Asra, op. 32 Nr. 6</bibl>
                      <bibl n="hsl_work_id_2257">Gelb rollt mir zu Füssen, op. 34 Nr. 9</bibl>
                      <bibl n="hsl_work_id_2459">Die Musik und ihr Meister. Eine Unterredung.</bibl>
+                     <bibl n="hsl_work_id_2483">Avtobiografičeskie vospominanija</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_245">
@@ -6259,6 +6263,10 @@
                      <bibl n="hsl_work_id_1754">Sonate für Klavier Nr.1 in C-Dur, J138</bibl>
                      <bibl n="hsl_work_id_2015">Aufforderung zum Tanze, op. 65</bibl>
                      <bibl n="hsl_work_id_2051">Leyer und Schwerdt, J168-173</bibl>
+                     <bibl n="hsl_work_id_2479">Quintette, Klarinette, Violine (2), Viola, Violoncello in B-Dur, op.34</bibl>
+                     <bibl n="hsl_work_id_2480">Duos, Klarinette, Klavier in Es-Dur, op.48</bibl>
+                     <bibl n="hsl_work_id_2481">Konzerte, Klarinette, Orchester in f-Moll, op.73</bibl>
+                     <bibl n="hsl_work_id_2482">Konzerte, Klarinette, Orchester in Es-Dur</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_322">
@@ -51506,6 +51514,9 @@
                   <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117739405</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2477">Spanisches Lied</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_4015">
                   <persName type="main">
@@ -51781,6 +51792,25 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2476">Wiegenlied, KV350</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4045">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Jakob Grün</surname>
+                  </persName>
+                  <birth>1837-1916</birth>
+                  <death>1837-1916</death>
+                  <occupation style="background-color: darker-orange;">Musiker</occupation>
+                  <occupation style="background-color: darker-blue;">Violinlehrer</occupation>
+                  <occupation style="background-color: dark-orange;">Konzertmeister</occupation>
+                  <occupation style="background-color: brown;">Geiger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116887788</idno>
+               </person>
+               <person xml:id="hsl_person_id_4046" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
                </person>
             </listPerson>
          </div>
