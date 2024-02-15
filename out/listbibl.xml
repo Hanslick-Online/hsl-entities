@@ -1993,6 +1993,7 @@
                <name type="character" ref="#hsl_person_id_594">Graf Hugo</name>
                <name type="character" ref="#hsl_person_id_1227">Faust</name>
                <name type="character" ref="#hsl_person_id_1228">Mephistofeles</name>
+               <name type="character" ref="#hsl_person_id_4061">Kunigunde</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300456824</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_199">
@@ -2073,6 +2074,8 @@
                </author>
                <name type="character" ref="#hsl_person_id_516">Ernani</name>
                <name type="character" ref="#hsl_person_id_523">Elvira</name>
+               <name type="character" ref="#hsl_person_id_4053">Don Carlos</name>
+               <name type="character" ref="#hsl_person_id_4054">Don Ruy Gómez de Silva</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300165447</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_205">
@@ -3661,6 +3664,8 @@
                </author>
                <name type="character" ref="#hsl_person_id_507">Maffio Orsini</name>
                <name type="character" ref="#hsl_person_id_540">Gennaro</name>
+               <name type="character" ref="#hsl_person_id_4058">Lucrezia</name>
+               <name type="character" ref="#hsl_person_id_4059">Don Alfonso d’Este</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300045816</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_387">
@@ -19869,6 +19874,15 @@
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300101902</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2486">
+               <title type="main">I figli di Borgia</title>
+               <author ref="#hsl_person_id_4048">
+                  <persName>Strigelli, Guiseppe</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_4055">Francesco Borgia</name>
+               <name type="character" ref="#hsl_person_id_4056">Cesaro Borgia</name>
+               <name type="character" ref="#hsl_person_id_4057">Lucrezia</name>
             </bibl>
       </listBibl>
       </body>
