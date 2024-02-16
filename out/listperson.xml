@@ -2756,6 +2756,9 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118551124</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q432299</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_H/Hiller_Johann.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2488">Der lustige Schuster, oder Der Teufel ist los, Teil II.</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_126">
                   <persName type="main">
@@ -51940,6 +51943,39 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_198">Faust, op. 60</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4062" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Pylades</surname>
+                  </persName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q494886</idno>
+               </person>
+               <person xml:id="hsl_person_id_4063">
+                  <persName type="main">
+                     <forename>Anna Maria</forename>
+                     <surname>Erdődy</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/137543662</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q6465739</idno>
+               </person>
+               <person xml:id="hsl_person_id_4064" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Jobsen Zeckel</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2488">Der lustige Schuster, oder Der Teufel ist los, Teil II.</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4065" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Rigoletto</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_59">Rigoletto, H53</bibl>
                   </listBibl>
                </person>
             </listPerson>
