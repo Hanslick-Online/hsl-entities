@@ -2016,6 +2016,7 @@
                <name type="character" ref="#hsl_person_id_665">Valentin</name>
                <name type="character" ref="#hsl_person_id_1111">Faust</name>
                <name type="character" ref="#hsl_person_id_3170">Méphistophélès</name>
+               <name type="character" ref="#hsl_person_id_4111">Marthe</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300061099</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_200">
@@ -3062,7 +3063,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300214324</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_308">
-               <title type="main">10 Lieder, op. 17</title>
+               <title type="main">aus dem romantischen Schauspiel "Rosamunde"op. 26</title>
                <author ref="#hsl_person_id_371">
                   <persName>Bruch, Max</persName>
                </author>
@@ -3404,6 +3405,7 @@
                <name type="character" ref="#hsl_person_id_437">Amina</name>
                <name type="character" ref="#hsl_person_id_2028">Lisa</name>
                <name type="character" ref="#hsl_person_id_2029">Rodolfo</name>
+               <name type="character" ref="#hsl_person_id_4110">Elvino</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300017987</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_353">
@@ -6468,7 +6470,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_782">
                <title type="main">Françoise de Rimini</title>
-               <title type="alternative">Francesca</title>
+               <title type="alternative">Francesca di Rimini</title>
                <author ref="#hsl_person_id_84">
                   <persName>Carré, Michel</persName>
                </author>
@@ -7447,6 +7449,8 @@
                <author ref="#hsl_person_id_305">
                   <persName>Thomas, Ambroise</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_4095">Hamlet</name>
+               <name type="character" ref="#hsl_person_id_4096">Ophélie</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300162634</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_896">
@@ -13393,6 +13397,8 @@
                <author ref="#hsl_person_id_2749">
                   <persName>Sauvage, Thomas</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_4093">Aboul-y-far</name>
+               <name type="character" ref="#hsl_person_id_4094">Birotteau</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1185533125</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1612">
@@ -15676,7 +15682,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1915">
-               <title type="main">1. Korintherbrief</title>
+               <title type="main"/>
                <author ref="#hsl_person_id_3280">
                   <persName>Paulus von Tarsus</persName>
                </author>
@@ -19575,13 +19581,14 @@
                <name type="character" ref="#hsl_person_id_4023">Marchese, Cipriani</name>
             </bibl>
             <bibl xml:id="hsl_work_id_2444">
-               <title type="main">La Double Échelle</title>
+               <title type="main">La double échelle</title>
                <author ref="#hsl_person_id_305">
                   <persName>Thomas, Ambroise</persName>
                </author>
                <author ref="#hsl_person_id_2036">
                   <persName>Planard, Eugène de</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/103173256X</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2445">
                <title type="main">Le Perruquier de la Régence</title>
@@ -19604,6 +19611,9 @@
                <author ref="#hsl_person_id_3971">
                   <persName>Rosier, Joseph-Bernard</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_4091">Shakespeare</name>
+               <name type="character" ref="#hsl_person_id_4092">Reine Élisabeth</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300981236</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2447">
                <title type="main">Raymond ou le Secret de la Reine</title>
@@ -19617,6 +19627,7 @@
                <author ref="#hsl_person_id_3971">
                   <persName>Rosier, Joseph-Bernard</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/128270673X</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2448">
                <title type="main">Bastien und Bastienne, KV50</title>
@@ -19638,7 +19649,11 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300107188</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2449">
-               <title type="main"/>
+               <title type="main">Choralis Constantinus 1</title>
+               <author ref="#hsl_person_id_4087">
+                  <persName>Isaac, Heinrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30089984X</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2450">
                <title type="main">La finta giardiniera, KV196</title>
@@ -19701,7 +19716,21 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1063921635</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2457">
-               <title type="main"/>
+               <title type="main">La tempête</title>
+               <title type="alternative">Der Sturm</title>
+               <author ref="#hsl_person_id_90">
+                  <persName>Barbier, Jules</persName>
+               </author>
+               <author ref="#hsl_person_id_305">
+                  <persName>Thomas, Ambroise</persName>
+               </author>
+               <author ref="#hsl_person_id_4097">
+                  <persName>Hansen, Joseph</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_4098">Ariel</name>
+               <name type="character" ref="#hsl_person_id_4099">Caliban</name>
+               <name type="character" ref="#hsl_person_id_4100">Miranda</name>
+               <name type="character" ref="#hsl_person_id_4101">Ferdinand</name>
             </bibl>
             <bibl xml:id="hsl_work_id_2458">
                <title type="main">Wie schön leuchtet der Morgenstern</title>
@@ -20120,6 +20149,66 @@
                <author ref="#hsl_person_id_64">
                   <persName>Doppler, Franz</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2526">
+               <title type="main">Caliban</title>
+               <author ref="#hsl_person_id_1305">
+                  <persName>Renan, Ernest</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_4102">Prospero</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4259427-3</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2527">
+               <title type="main">Psyché</title>
+               <title type="alternative">Psyche</title>
+               <author ref="#hsl_person_id_84">
+                  <persName>Carré, Michel</persName>
+               </author>
+               <author ref="#hsl_person_id_90">
+                  <persName>Barbier, Jules</persName>
+               </author>
+               <author ref="#hsl_person_id_305">
+                  <persName>Thomas, Ambroise</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_4105">Amor</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1128656809</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2528">
+               <title type="main">Streichquartett Nr. 7 F-Dur op. 59,1</title>
+               <title type="alternative">Rasumowsky-Quartett</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2529">
+               <title type="main">Sonate Nr. 3 E-Dur für Violine und obligates Cembalo, BWV 1016</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2530">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2531">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2532">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2533">
+               <title type="main">Romanze aus Rosmamunde, op.26</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2534">
+               <title type="main">Ballettmusik Nr. 2 in G-Dur, aus Rosamunde op.26</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2535">
+               <title type="main">Ballettmusik Nr. 2 G-Dur op. 26</title>
             </bibl>
       </listBibl>
       </body>

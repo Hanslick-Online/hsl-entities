@@ -270,7 +270,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_306">Gesang der heiligen drei Könige, op. 21</bibl>
                      <bibl n="hsl_work_id_307">Die Flucht der heiligen Familie, op. 20</bibl>
-                     <bibl n="hsl_work_id_308">10 Lieder, op. 17</bibl>
+                     <bibl n="hsl_work_id_308">aus dem romantischen Schauspiel "Rosamunde"op. 26</bibl>
                      <bibl n="hsl_work_id_309">12 schottische Volkslieder</bibl>
                      <bibl n="hsl_work_id_310">Frithjof, op. 23</bibl>
                      <bibl n="hsl_work_id_582">Konzert für Violine und Orchester Nr. 1 in g-Moll, op. 26</bibl>
@@ -673,6 +673,7 @@
                      <bibl n="hsl_work_id_2504">Pastorale in F-Dur,  BWV590</bibl>
                      <bibl n="hsl_work_id_2505">Gigue</bibl>
                      <bibl n="hsl_work_id_2506">Phantasie für Orgel</bibl>
+                     <bibl n="hsl_work_id_2529">Sonate Nr. 3 E-Dur für Violine und obligates Cembalo, BWV 1016</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_19">
@@ -899,6 +900,7 @@
                      <bibl n="hsl_work_id_2473">Trios, Klarinette, Violoncello, Klavier in B-Dur, op.11</bibl>
                      <bibl n="hsl_work_id_2474">Quintette, Oboe, Klarinette, Fagott, Horn, Klavier in Es-Dur, op.16</bibl>
                      <bibl n="hsl_work_id_2509">Violinsonate Nr. 10 in G-Dur, op. 96</bibl>
+                     <bibl n="hsl_work_id_2528">Streichquartett Nr. 7 F-Dur op. 59,1</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_26">
@@ -2009,6 +2011,7 @@
                      <bibl n="hsl_work_id_1615">Les pêcheurs de perles, WD13</bibl>
                      <bibl n="hsl_work_id_1698">La Reine de Saba, CG7</bibl>
                      <bibl n="hsl_work_id_2091">Mireille, CG8</bibl>
+                     <bibl n="hsl_work_id_2527">Psyché</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_85">
@@ -2058,6 +2061,8 @@
                      <bibl n="hsl_work_id_1220">Polyeucte, CG11</bibl>
                      <bibl n="hsl_work_id_1223">Philémon et Baucis, CG5</bibl>
                      <bibl n="hsl_work_id_1698">La Reine de Saba, CG7</bibl>
+                     <bibl n="hsl_work_id_2457">La tempête</bibl>
+                     <bibl n="hsl_work_id_2527">Psyché</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_91">
@@ -5380,6 +5385,8 @@
                      <bibl n="hsl_work_id_2496">Die Post, D911 Nr. 13</bibl>
                      <bibl n="hsl_work_id_2507">Rondo brillant, D895</bibl>
                      <bibl n="hsl_work_id_2514">Fantasie in C-Dur für Violine und Klavier, D934</bibl>
+                     <bibl n="hsl_work_id_2533">Romanze aus Rosmamunde, op.26</bibl>
+                     <bibl n="hsl_work_id_2534">Ballettmusik Nr. 2 in G-Dur, aus Rosamunde op.26</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_280">
@@ -5963,10 +5970,12 @@
                      <bibl n="hsl_work_id_895">Hamlet</bibl>
                      <bibl n="hsl_work_id_1611">Le Caïd</bibl>
                      <bibl n="hsl_work_id_2073">Le Tyrol</bibl>
-                     <bibl n="hsl_work_id_2444">La Double Échelle</bibl>
+                     <bibl n="hsl_work_id_2444">La double échelle</bibl>
                      <bibl n="hsl_work_id_2445">Le Perruquier de la Régence</bibl>
                      <bibl n="hsl_work_id_2446">Le songe d'une nuit d'été</bibl>
                      <bibl n="hsl_work_id_2447">Raymond ou le Secret de la Reine</bibl>
+                     <bibl n="hsl_work_id_2457">La tempête</bibl>
+                     <bibl n="hsl_work_id_2527">Psyché</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_306">
@@ -17972,6 +17981,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_818">Vie de Jésus</bibl>
                      <bibl n="hsl_work_id_1091">Histoire du peuple d'Israël</bibl>
+                     <bibl n="hsl_work_id_2526">Caliban</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1306" role="fictional">
@@ -27148,7 +27158,7 @@
                      <bibl n="hsl_work_id_138">L'éclair</bibl>
                      <bibl n="hsl_work_id_647">Marie</bibl>
                      <bibl n="hsl_work_id_1701">Le pré aux clercs</bibl>
-                     <bibl n="hsl_work_id_2444">La Double Échelle</bibl>
+                     <bibl n="hsl_work_id_2444">La double échelle</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2037">
@@ -38735,9 +38745,13 @@
                      <forename>Carl Maria</forename>
                      <surname>Wolf</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Karl Maria</forename>
+                     <surname>Wolf</surname>
+                  </persName>
                   <birth>1820-1907</birth>
                   <death>1820-1907</death>
-                  <occupation style="background-color: darker-orange;">Sänger</occupation>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
                   <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1047478048</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q112305429</idno>
@@ -42942,7 +42956,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118641549</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9200</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_1915">1. Korintherbrief</bibl>
+                     <bibl n="hsl_work_id_1915"/>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3281" role="fictional">
@@ -44492,6 +44506,10 @@
                   <persName type="main">
                      <forename>Auguste</forename>
                      <surname>Wolff</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>August</forename>
+                     <surname>Wolf</surname>
                   </persName>
                   <birth>1821-1887</birth>
                   <death>1821-1887</death>
@@ -52172,6 +52190,273 @@
                      <surname>Renom</surname>
                   </persName>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116444061</idno>
+               </person>
+               <person xml:id="hsl_person_id_4087">
+                  <persName type="main">
+                     <forename>Heinrich</forename>
+                     <surname>Isaac</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Isaak</surname>
+                  </persName>
+                  <birth>ca. 1450-1517</birth>
+                  <death>ca. 1450-1517</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11855588X</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2449">Choralis Constantinus 1</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4088">
+                  <persName type="main">
+                     <forename>Emil</forename>
+                     <surname>Bezecný</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Bezecny</surname>
+                  </persName>
+                  <birth>1868-1930</birth>
+                  <death>1868-1930</death>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: green;">Hochschullehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1089816537</idno>
+               </person>
+               <person xml:id="hsl_person_id_4089">
+                  <persName type="main">
+                     <forename>Heinrich Ignaz Franz</forename>
+                     <surname>Biber</surname>
+                  </persName>
+                  <birth>1644-1704</birth>
+                  <death>1644-1704</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118510622</idno>
+               </person>
+               <person xml:id="hsl_person_id_4090">
+                  <persName type="main">
+                     <forename>Elvire</forename>
+                     <surname>Rémaury</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Elvire</forename>
+                     <surname>Thomas</surname>
+                  </persName>
+                  <birth>1827-1910</birth>
+                  <death>1827-1910</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1316278751</idno>
+               </person>
+               <person xml:id="hsl_person_id_4091" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Shakespeare</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2446">Le songe d'une nuit d'été</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4092" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Reine Élisabeth</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Königin Elisabeth</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2446">Le songe d'une nuit d'été</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4093" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Aboul-y-far</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Kadi</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1611">Le Caïd</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4094" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Birotteau</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1611">Le Caïd</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4095" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Hamlet</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_895">Hamlet</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4096" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ophélie</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Ophelia</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_895">Hamlet</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4097">
+                  <persName type="main">
+                     <forename>Joseph</forename>
+                     <surname>Hansen</surname>
+                  </persName>
+                  <birth>1842-1907</birth>
+                  <death>1842-1907</death>
+                  <occupation style="background-color: light-green;">Choreograph</occupation>
+                  <occupation style="background-color: orange;">Tänzer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1240725345</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2457">La tempête</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4098" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ariel</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2457">La tempête</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4099" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Caliban</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2457">La tempête</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4100" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Miranda</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2457">La tempête</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4101" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ferdinand</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2457">La tempête</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4102" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Prospero</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2526">Caliban</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4103">
+                  <persName type="main">
+                     <forename>Sadi</forename>
+                     <surname>Carnot</surname>
+                  </persName>
+                  <birth>1837-1894</birth>
+                  <death>1837-1894</death>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: blue;">Ingenieur</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119221225</idno>
+               </person>
+               <person xml:id="hsl_person_id_4104">
+                  <persName type="main">
+                     <forename>Marguerite</forename>
+                     <surname>Wolff</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Marguerite</forename>
+                     <surname>Thomas</surname>
+                  </persName>
+                  <birth>1838-1925</birth>
+                  <death>1838-1925</death>
+               </person>
+               <person xml:id="hsl_person_id_4105" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Amor</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2527">Psyché</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4106">
+                  <persName type="main">
+                     <forename>Caroline</forename>
+                     <surname>Montigny-Remaury</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Caroline de</forename>
+                     <surname>Serres</surname>
+                  </persName>
+                  <birth>1843-1913</birth>
+                  <death>1843-1913</death>
+                  <occupation style="background-color: dark-blue;">Pianistin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117134260</idno>
+               </person>
+               <person xml:id="hsl_person_id_4107">
+                  <persName type="main">
+                     <forename>Vilma von</forename>
+                     <surname>Voggenhuber</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116565918</idno>
+               </person>
+               <person xml:id="hsl_person_id_4108">
+                  <persName type="main">
+                     <forename>Carl</forename>
+                     <surname>Stoerk</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117265977</idno>
+               </person>
+               <person xml:id="hsl_person_id_4109">
+                  <persName type="main">
+                     <forename>Charles</forename>
+                     <surname>Adams</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1050400917</idno>
+               </person>
+               <person xml:id="hsl_person_id_4110" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Elvino</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_352">La sonnambula</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4111" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Marthe</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_199">Faust, CG4</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
