@@ -1293,7 +1293,7 @@
                      <bibl n="hsl_work_id_2419">Sextett für 2 Violinen, 2 Violen und 2 Celli in G-Dur, op. 36</bibl>
                      <bibl n="hsl_work_id_2454">13 Canons für Frauenstimmen, Op. 113</bibl>
                      <bibl n="hsl_work_id_2455">Quartette, Sopran, Alt, Tenor, Bass, Klavier, op.112</bibl>
-                     <bibl n="hsl_work_id_2468">Trios, Violine, Violoncello, Klavier in H-Dur, op.8 Nr.1</bibl>
+                     <bibl n="hsl_work_id_2468">Trio für Violine, Cello und Klavier Nr. 1 in H-Dur, op. 8</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_42">
@@ -6861,6 +6861,7 @@
                      <bibl n="hsl_work_id_525">Die Primel, MWV F 16</bibl>
                      <bibl n="hsl_work_id_1263">Kommen und Scheiden, op. 90 Nr. 3</bibl>
                      <bibl n="hsl_work_id_2407">Savonarola</bibl>
+                     <bibl n="hsl_work_id_2538">Don Juan</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_376">
@@ -26983,6 +26984,10 @@
                      <forename>Ludwig von</forename>
                      <surname>Dóczi</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Doczi</surname>
+                  </persName>
                   <birth>1845-1919</birth>
                   <death>1845-1919</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
@@ -26994,6 +26999,8 @@
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_D/Doczy_Ludwig_1845_1919.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1082">Ritter Pásmán, op. 441</bibl>
+                     <bibl n="hsl_work_id_2536">Der Kuß</bibl>
+                     <bibl n="hsl_work_id_2537">Letzte Liebe</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2025">
@@ -51821,7 +51828,7 @@
                   </persName>
                   <birth>1869-1932</birth>
                   <death>1869-1932</death>
-                  <occupation style="background-color: yellow;">Opernsängerin</occupation>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116353589</idno>
                </person>
                <person xml:id="hsl_person_id_4042">
@@ -52457,6 +52464,110 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_199">Faust, CG4</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4112" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ritter Pásmán</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1082">Ritter Pásmán, op. 441</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4113" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Gundy</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1082">Ritter Pásmán, op. 441</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4114" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Rodomonte</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1082">Ritter Pásmán, op. 441</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4115" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Eva</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1082">Ritter Pásmán, op. 441</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4116" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Karl Robert von Anjou</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1082">Ritter Pásmán, op. 441</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4117" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Königin</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1082">Ritter Pásmán, op. 441</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4118" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Mischu</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Mischnu</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1082">Ritter Pásmán, op. 441</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4119" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Othello</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2276">The Tragedy of Othello, the Moor of Venice</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4120">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Angely</surname>
+                  </persName>
+                  <birth>17. Jhdt.</birth>
+                  <death>17. Jhdt.</death>
+                  <occupation style="background-color: purple;">Hofnarr</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4121" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Omodé</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1082">Ritter Pásmán, op. 441</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4122">
+                  <persName type="main">
+                     <forename>Franz</forename>
+                     <surname>Steiner</surname>
+                  </persName>
+                  <birth>1839-1902</birth>
+                  <death>1839-1902</death>
+                  <occupation style="background-color: dark-purple;">Klarinettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1044451319</idno>
                </person>
             </listPerson>
          </div>
