@@ -551,6 +551,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1398">Thematisches Verzeichniss der im Druck erschienenen Werke von Franz Schubert</bibl>
                      <bibl n="hsl_work_id_1579">Variationen über ein Thema von Johann Sebastian Bach in d-Moll für Klavier zu vier Händen, op. 17</bibl>
+                     <bibl n="hsl_work_id_2560">Thematisches Verzeichniss der im Druck erschienenen Werke von Ludwig van Beethoven</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_16">
@@ -2181,6 +2182,7 @@
                      <bibl n="hsl_work_id_489">De profundis, Wq. 50</bibl>
                      <bibl n="hsl_work_id_1251">O del mio dolce ardor</bibl>
                      <bibl n="hsl_work_id_2012">Orfeo ed Euridice, Wq. 30</bibl>
+                     <bibl n="hsl_work_id_2569">Paride ed Elena</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_100">
@@ -2908,6 +2910,8 @@
                      <bibl n="hsl_work_id_99">Life of Mozart</bibl>
                      <bibl n="hsl_work_id_466">Gesammelte Aufsätze über Musik</bibl>
                      <bibl n="hsl_work_id_485">W. A. Mozart</bibl>
+                     <bibl n="hsl_work_id_2559">Wolfgang Amadeus Mozart. 2. Aufl.</bibl>
+                     <bibl n="hsl_work_id_2566">Beethoven und die Ausgaben seiner Werke</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_136">
@@ -4072,6 +4076,9 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q97494</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_254">Beethovens Leben</bibl>
+                     <bibl n="hsl_work_id_2561">Neue Briefe Beethovens. Nebst einigen ungedruckten Gelegenheitscompositionen und Auszügen aus seinem Tagebuch und seiner Lectüre.</bibl>
+                     <bibl n="hsl_work_id_2565">Beethovens Leben</bibl>
+                     <bibl n="hsl_work_id_2570">Musikalisches Skizzenbuch</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_196">
@@ -5157,6 +5164,7 @@
                   <birth>1825-1873</birth>
                   <death>1825-1873</death>
                   <occupation style="background-color: dark-gray;">Sänger (Bassist)</occupation>
+                  <occupation style="background-color: light-red;">Arzt</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117499315</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q94890711</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Schmid_Carl.xml</idno>
@@ -7322,6 +7330,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q91592</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_341">Elemente der Musik</bibl>
+                     <bibl n="hsl_work_id_2562">Handbuch der Musikgeschichte</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_404">
@@ -14557,6 +14566,7 @@
                      <bibl n="hsl_work_id_998">Traum durch die Dämmerung, op. 29 Nr. 1</bibl>
                      <bibl n="hsl_work_id_999">Ein Obdach gegen Sturm und Regen, op. 46 Nr. 1</bibl>
                      <bibl n="hsl_work_id_1955">Wenn..., op. 31 Nr. 2</bibl>
+                     <bibl n="hsl_work_id_2555">Macbeth, op. 23</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1036">
@@ -16626,6 +16636,9 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118600966</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q213558</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_R/Ries_Ferdinand.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2552">Suite für Violine und Klavier Nr. 3, op. 34</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1207">
                   <persName type="main">
@@ -41098,11 +41111,18 @@
                      <forename>Hans</forename>
                      <surname>Makart</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Hanns</forename>
+                     <surname>Makart</surname>
+                  </persName>
                   <birth>1840-1884</birth>
                   <death>1840-1884</death>
                   <occupation style="background-color: darker-cyan;">Maler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118730347</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q511444</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2530">Abundantia</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3131">
                   <persName type="main">
@@ -42974,7 +42994,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118641549</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9200</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_1915"/>
+                     <bibl n="hsl_work_id_1915">1. Korintherbrief</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3281" role="fictional">
@@ -50224,6 +50244,8 @@
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_P/Pohl_Karl-Ferdinand_1819_1887.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2389">Joseph Haydn</bibl>
+                     <bibl n="hsl_work_id_2558">Mozart und Haydn in London</bibl>
+                     <bibl n="hsl_work_id_2563">Mozart in London</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3867">
@@ -51621,10 +51643,13 @@
                      <forename>Hans</forename>
                      <surname>Wessely</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Hanns</forename>
+                     <surname>Wessely</surname>
+                  </persName>
                   <birth>1862-1926</birth>
                   <death>1862-1926</death>
-                  <occupation style="background-color: darker-orange;">Musiker</occupation>
-                  <occupation style="background-color: brown;">Geiger</occupation>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/130178837</idno>
                </person>
                <person xml:id="hsl_person_id_4018">
@@ -51873,15 +51898,17 @@
                </person>
                <person xml:id="hsl_person_id_4045">
                   <persName type="main">
-                     <forename/>
-                     <surname>Jakob Grün</surname>
+                     <forename>Jakob</forename>
+                     <surname>Grün</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Jakob M.</forename>
+                     <surname>Grün</surname>
                   </persName>
                   <birth>1837-1916</birth>
                   <death>1837-1916</death>
-                  <occupation style="background-color: darker-orange;">Musiker</occupation>
-                  <occupation style="background-color: darker-blue;">Violinlehrer</occupation>
-                  <occupation style="background-color: dark-orange;">Konzertmeister</occupation>
-                  <occupation style="background-color: brown;">Geiger</occupation>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116887788</idno>
                </person>
                <person xml:id="hsl_person_id_4046" role="fictional">
@@ -51925,6 +51952,9 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q108555</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2500">Violin Sonate in g-Moll, GT 2.g05</bibl>
+                     <bibl n="hsl_work_id_2550">Violin Sonate in g-Moll, GT 2.g04</bibl>
+                     <bibl n="hsl_work_id_2551">Violin Sonate in g-Moll, GT 2.g10</bibl>
+                     <bibl n="hsl_work_id_2553">Violin Sonate in g-Moll, GT 2.g07</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4051">
@@ -52799,6 +52829,177 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_2524">Les Mystères d’Isis</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4147">
+                  <persName type="main">
+                     <forename>Bianca</forename>
+                     <surname>Panteo</surname>
+                  </persName>
+                  <birth>1876-nach 1928</birth>
+                  <death>1876-nach 1928</death>
+                  <occupation style="background-color: gray;">Violinistin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1171860234</idno>
+               </person>
+               <person xml:id="hsl_person_id_4148" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4149">
+                  <persName type="main">
+                     <forename>Max</forename>
+                     <surname>Lewinger</surname>
+                  </persName>
+                  <birth>1870–1908</birth>
+                  <death>1870–1908</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/134878620</idno>
+               </person>
+               <person xml:id="hsl_person_id_4150">
+                  <persName type="main">
+                     <forename>Ella</forename>
+                     <surname>Pancera</surname>
+                  </persName>
+                  <birth>1876-1932</birth>
+                  <death>1876-1932</death>
+                  <occupation style="background-color: dark-blue;">Pianistin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116021918</idno>
+               </person>
+               <person xml:id="hsl_person_id_4151">
+                  <persName type="main">
+                     <forename>Horace Wadham</forename>
+                     <surname>Nicholl</surname>
+                  </persName>
+                  <birth>1848-1922</birth>
+                  <death>1848-1922</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: dark-blue;">Organist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1070669636</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2556">Hamlet, op. 14</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4152">
+                  <persName type="main">
+                     <forename>Jean Louis</forename>
+                     <surname>Nicodé</surname>
+                  </persName>
+                  <birth>1853-1919</birth>
+                  <death>1853-1919</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116995254</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2557">Das Meer, op. 31</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4153">
+                  <persName type="main">
+                     <forename>Theodor Georg von</forename>
+                     <surname>Karajan</surname>
+                  </persName>
+                  <birth>1810-1873</birth>
+                  <death>1810-1873</death>
+                  <occupation style="background-color: dark-orange;">Germanist</occupation>
+                  <occupation style="background-color: red;">Historiker</occupation>
+                  <occupation style="background-color: darker-purple;">Bibliothekar</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/121409406</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2564">J. Haydn in London 1791 und 1792</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4154">
+                  <persName type="main">
+                     <forename>Maria Anna Sabina von</forename>
+                     <surname>Genzinger</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Gentzinger</surname>
+                  </persName>
+                  <birth>1750-1793</birth>
+                  <death>1750-1793</death>
+                  <occupation style="background-color: dark-blue;">Pianistin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1042173575</idno>
+               </person>
+               <person xml:id="hsl_person_id_4155">
+                  <persName type="main">
+                     <forename>Ignaz</forename>
+                     <surname>Pleyel</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118792555</idno>
+               </person>
+               <person xml:id="hsl_person_id_4156">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Schröter</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4157">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Gardiner</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4158">
+                  <persName type="main">
+                     <forename>Christoph Gottlob</forename>
+                     <surname>Breitkopf</surname>
+                  </persName>
+                  <birth>1750-1800</birth>
+                  <death>1750-1800</death>
+                  <occupation style="background-color: darker-red;">Musikverleger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/120691124</idno>
+               </person>
+               <person xml:id="hsl_person_id_4159">
+                  <persName type="main">
+                     <forename>Ferdinand</forename>
+                     <surname>Stolle</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117286877</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2567">Die Gartenlaube – Illustrirtes Familienblatt</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4160">
+                  <persName type="main">
+                     <forename>Oskar</forename>
+                     <surname>Paul</surname>
+                  </persName>
+                  <birth>1836-1898</birth>
+                  <death>1836-1898</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116061189</idno>
+               </person>
+               <person xml:id="hsl_person_id_4161">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Anonym [Ernst Keil?]</surname>
+                  </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2568">Das "Donauweibchen" in Prag</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4162">
+                  <persName type="main">
+                     <forename>Franz Ernst Christoph</forename>
+                     <surname>Leuckart</surname>
+                  </persName>
+                  <birth>1748-1817</birth>
+                  <death>1748-1817</death>
+                  <occupation style="background-color: darker-red;">Musikverleger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/130626074</idno>
+               </person>
+               <person xml:id="hsl_person_id_4163" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Paride</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2569">Paride ed Elena</bibl>
                   </listBibl>
                </person>
             </listPerson>
