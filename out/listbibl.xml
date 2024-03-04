@@ -3064,7 +3064,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300214324</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_308">
-               <title type="main">aus dem romantischen Schauspiel "Rosamunde"op. 26</title>
+               <title type="main">10 Lieder, op. 17</title>
                <author ref="#hsl_person_id_371">
                   <persName>Bruch, Max</persName>
                </author>
@@ -4397,6 +4397,10 @@
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
                <name type="character" ref="#hsl_person_id_3609">Werther</name>
+               <name type="character" ref="#hsl_person_id_4188">Charlotte</name>
+               <name type="character" ref="#hsl_person_id_4192">Fräulein von B.</name>
+               <name type="character" ref="#hsl_person_id_4193">Heinrich</name>
+               <name type="character" ref="#hsl_person_id_4194">Knecht</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099202-0</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_495">
@@ -6835,6 +6839,11 @@
                </author>
                <name type="character" ref="#hsl_person_id_1420">Werther</name>
                <name type="character" ref="#hsl_person_id_3565">Charlotte</name>
+               <name type="character" ref="#hsl_person_id_4189">Bailli</name>
+               <name type="character" ref="#hsl_person_id_4190">Schmidt</name>
+               <name type="character" ref="#hsl_person_id_4191">Johann</name>
+               <name type="character" ref="#hsl_person_id_4195">Albert</name>
+               <name type="character" ref="#hsl_person_id_4196">Sophie</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300100140</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_824">
@@ -16511,6 +16520,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2029">
                <title type="main">Les nuits d'été, H81</title>
+               <title type="alternative">Sommernächte</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
                </author>
@@ -19525,10 +19535,12 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2431">
-               <title type="main">Ballade et polonaise, Op.38</title>
+               <title type="main">Ballade et polonaise, op. 38</title>
+               <title type="alternative">Ballade und Polonaise</title>
                <author ref="#hsl_person_id_1494">
                   <persName>Vieuxtemps, Henri</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300298803</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2432">
                <title type="main">Andante</title>
@@ -19856,11 +19868,11 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300016069</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2475">
-               <title type="main">Konzerte, Violine, Orchester in E-Dur</title>
+               <title type="main">Konzert für Violine und Orchester Nr. 1 in E-Dur, op. 10</title>
                <author ref="#hsl_person_id_1494">
                   <persName>Vieuxtemps, Henri</persName>
                </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1212046749</idno>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1065702647</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2476">
                <title type="main">Wiegenlied, KV350</title>
@@ -20695,6 +20707,143 @@
                   <persName>Kreutzer, Rudolphe</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1216886520</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2598">
+               <title type="main">Le Cid</title>
+               <author ref="#hsl_person_id_1302">
+                  <persName>Massenet, Jules</persName>
+               </author>
+               <author ref="#hsl_person_id_1999">
+                  <persName>Gallet, Louis</persName>
+               </author>
+               <author ref="#hsl_person_id_2019">
+                  <persName>Blau, Edouard</persName>
+               </author>
+               <author ref="#hsl_person_id_2157">
+                  <persName>Ennery, Adolphe d'</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300216084</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2599">
+               <title type="main">Faniska</title>
+               <title type="alternative">Fanisca</title>
+               <author ref="#hsl_person_id_47">
+                  <persName>Cherubini, Luigi</persName>
+               </author>
+               <author ref="#hsl_person_id_2104">
+                  <persName>Sonnleithner, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7617183-8</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2600">
+               <title type="main">Husitská, B132</title>
+               <title type="alternative">Husitska</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300047320</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2601">
+               <title type="main">Das Lied von der Glocke, op. 45</title>
+               <author ref="#hsl_person_id_371">
+                  <persName>Bruch, Max</persName>
+               </author>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300029241</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2602">
+               <title type="main">Le carillon</title>
+               <title type="alternative">Das Glockenspiel</title>
+               <author ref="#hsl_person_id_1302">
+                  <persName>Massenet, Jules</persName>
+               </author>
+               <author ref="#hsl_person_id_2997">
+                  <persName>Dyck, Ernest Van</persName>
+               </author>
+               <author ref="#hsl_person_id_4199">
+                  <persName>Roddaz, Camille de</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2603">
+               <title type="main">Slovanské tance, B147</title>
+               <title type="alternative">Slavische / Slawische Tänze</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300048173</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2604">
+               <title type="main">Villanelle, H82</title>
+               <author ref="#hsl_person_id_28">
+                  <persName>Berlioz, Hector</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1072709643</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2605">
+               <title type="main">Au cimetière: Clair de lune, H86</title>
+               <title type="alternative">Auf dem Friedhof</title>
+               <author ref="#hsl_person_id_28">
+                  <persName>Berlioz, Hector</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1167965779</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2606">
+               <title type="main">Sur les lagunes: Lamento, H84</title>
+               <title type="alternative">Auf den Lagunen</title>
+               <author ref="#hsl_person_id_28">
+                  <persName>Berlioz, Hector</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300762666</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2607">
+               <title type="main">Le spectre de la rose, H83</title>
+               <title type="alternative">Der Geist der Rose</title>
+               <author ref="#hsl_person_id_28">
+                  <persName>Berlioz, Hector</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1264255144</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2608">
+               <title type="main">L’île inconnue: Barcarolle, H87</title>
+               <title type="alternative">Das unbekannte Land</title>
+               <author ref="#hsl_person_id_28">
+                  <persName>Berlioz, Hector</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1167966317</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2609">
+               <title type="main">Absence, H85</title>
+               <title type="alternative">Trennung</title>
+               <author ref="#hsl_person_id_28">
+                  <persName>Berlioz, Hector</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300488459</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2610">
+               <title type="main">Sonate für Violine und Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <author ref="#hsl_person_id_1283">
+                  <persName>Hellmesberger, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2611">
+               <title type="main">Konzert für Violine und Orchester Nr. 4 in d-Moll, op. 31</title>
+               <author ref="#hsl_person_id_1494">
+                  <persName>Vieuxtemps, Henri</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300271697</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2612">
+               <title type="main">Ungarische Rhapsodie Nr. 2 in cis-Moll, S244/2</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300094930</idno>
             </bibl>
       </listBibl>
       </body>
