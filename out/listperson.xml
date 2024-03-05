@@ -4896,6 +4896,11 @@
                      <bibl n="hsl_work_id_2222">Boléro tartare</bibl>
                      <bibl n="hsl_work_id_2223">Un profond sommeil; Un reveil en sursaut</bibl>
                      <bibl n="hsl_work_id_2224">Hymne à Napoléon III et à son vaillant peuple</bibl>
+                     <bibl n="hsl_work_id_2616">Otello</bibl>
+                     <bibl n="hsl_work_id_2617">La gazza ladra</bibl>
+                     <bibl n="hsl_work_id_2618">La donna del lago</bibl>
+                     <bibl n="hsl_work_id_2619">Elisabetta, regina d'Inghilterra</bibl>
+                     <bibl n="hsl_work_id_2620">Matilde di Shabran, ossia Bellezza, e cuor di ferro</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_242">
@@ -11548,6 +11553,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_134">La Cenerentola, ossia La bontà in trionfo</bibl>
                      <bibl n="hsl_work_id_1503">Il furioso all'isola di San Domingo</bibl>
+                     <bibl n="hsl_work_id_2620">Matilde di Shabran, ossia Bellezza, e cuor di ferro</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_780">
@@ -13202,7 +13208,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q191775</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_546">Il matrimonio segreto</bibl>
-                     <bibl n="hsl_work_id_2013">Die Horazier und Curiazier</bibl>
+                     <bibl n="hsl_work_id_2013">Gli Orazi e i Curiazi</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_929">
@@ -16159,6 +16165,10 @@
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/100001718</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q533022</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2613">Camilla, ossia Il sotteraneo</bibl>
+                     <bibl n="hsl_work_id_2614">Achille</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1167">
                   <persName type="main">
@@ -33882,6 +33892,9 @@
                   <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118732374</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q373770</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2615">Lodoiska</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_2530">
                   <persName type="main">
@@ -42495,6 +42508,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3768112</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_261">Armida</bibl>
+                     <bibl n="hsl_work_id_2619">Elisabetta, regina d'Inghilterra</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3237">
@@ -42525,6 +42539,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_84">Mosè in Egitto</bibl>
                      <bibl n="hsl_work_id_534">Zelmira</bibl>
+                     <bibl n="hsl_work_id_2618">La donna del lago</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3239">
@@ -45392,6 +45407,9 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118841009</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3108009</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_C/Carpani_Giuseppe.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2613">Camilla, ossia Il sotteraneo</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3477" role="fictional">
                   <persName type="main">
@@ -51513,8 +51531,11 @@
                <person xml:id="hsl_person_id_3996" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Bertha</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2602">Le carillon</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3997" role="fictional">
                   <persName type="main">
@@ -51528,14 +51549,20 @@
                <person xml:id="hsl_person_id_3998" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Herzog Philipp der Gute von Burgund</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2602">Le carillon</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3999" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Herold des Herzogs</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2602">Le carillon</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_4000" role="fictional">
                   <persName type="main">
@@ -51878,8 +51905,11 @@
                <person xml:id="hsl_person_id_4034" role="fictional">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Pit</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2602">Le carillon</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_4035" role="fictional">
                   <persName type="main">
@@ -51964,11 +51994,15 @@
                   <occupation style="background-color: light-red;">Arzt</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118581309</idno>
                </person>
-               <person xml:id="hsl_person_id_4043" role="fictional">
+               <person xml:id="hsl_person_id_4043">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Eduard Voitus van</forename>
+                     <surname>Hamme</surname>
                   </persName>
+                  <birth>1856-1921</birth>
+                  <death>1856-1921</death>
+                  <occupation style="background-color: orange;">Tänzer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1011573547</idno>
                </person>
                <person xml:id="hsl_person_id_4044">
                   <persName type="main">
@@ -51998,11 +52032,18 @@
                   <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116887788</idno>
                </person>
-               <person xml:id="hsl_person_id_4046" role="fictional">
+               <person xml:id="hsl_person_id_4046">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Anna</forename>
+                     <surname>Rossini</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Guidarini</surname>
+                  </persName>
+                  <birth>1771–1827</birth>
+                  <death>1771–1827</death>
+                  <occupation style="background-color: gray;">Sängerin</occupation>
                </person>
                <person xml:id="hsl_person_id_4047">
                   <persName type="main">
@@ -52175,9 +52216,17 @@
                </person>
                <person xml:id="hsl_person_id_4066" role="fictional">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Betty</forename>
+                     <surname>Spitzeder</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Henriette</forename>
+                     <surname>Vio</surname>
+                  </persName>
+                  <birth>1808-1872</birth>
+                  <death>1808-1872</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/132425831</idno>
                </person>
                <person xml:id="hsl_person_id_4067" role="fictional">
                   <persName type="main">
@@ -52260,11 +52309,15 @@
                      <bibl n="hsl_work_id_350">Die Zauberflöte, KV620</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4079" role="fictional">
+               <person xml:id="hsl_person_id_4079">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Alessandro</forename>
+                     <surname>Bottero</surname>
                   </persName>
+                  <birth>1831-1892</birth>
+                  <death>1831-1892</death>
+                  <occupation style="background-color: dark-gray;">Sänger (Bassist)</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q16525076</idno>
                </person>
                <person xml:id="hsl_person_id_4080" role="fictional">
                   <persName type="main">
@@ -52764,11 +52817,15 @@
                   </persName>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/130494070</idno>
                </person>
-               <person xml:id="hsl_person_id_4131" role="fictional">
+               <person xml:id="hsl_person_id_4131">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Lillian</forename>
+                     <surname>Sanderson</surname>
                   </persName>
+                  <birth>1867-1947</birth>
+                  <death>1867-1947</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116800313</idno>
                </person>
                <person xml:id="hsl_person_id_4132">
                   <persName type="main">
@@ -53464,6 +53521,164 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2602">Le carillon</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4200">
+                  <persName type="main">
+                     <forename>Luigia</forename>
+                     <surname>Cerale</surname>
+                  </persName>
+                  <birth>1859–1937</birth>
+                  <death>1859–1937</death>
+                  <occupation style="background-color: darker-gray;">Tänzerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/101816815X</idno>
+               </person>
+               <person xml:id="hsl_person_id_4201" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Rombalt</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2602">Le carillon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4202" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Meister Carl</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Karl</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2602">Le carillon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4203">
+                  <persName type="main">
+                     <forename>Tours von</forename>
+                     <surname>Martin</surname>
+                  </persName>
+                  <birth>316-397</birth>
+                  <death>316-397</death>
+                  <occupation style="background-color: light-brown;">Bischof</occupation>
+                  <occupation style="background-color: red;">Heiliger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118578308</idno>
+               </person>
+               <person xml:id="hsl_person_id_4204" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Jef</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2602">Le carillon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4205">
+                  <persName type="main">
+                     <forename>Giuseppe</forename>
+                     <surname>Rossini</surname>
+                  </persName>
+                  <birth>1758-1839</birth>
+                  <death>1758-1839</death>
+                  <occupation style="background-color: dark-green;">Hornist</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4206">
+                  <persName type="main">
+                     <forename>Antonio Simeone</forename>
+                     <surname>Sografi</surname>
+                  </persName>
+                  <birth>1759-1818</birth>
+                  <death>1759-1818</death>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/100561233</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2013">Gli Orazi e i Curiazi</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4207">
+                  <persName type="main">
+                     <forename>Giovanni</forename>
+                     <surname>De Gamerra</surname>
+                  </persName>
+                  <birth>1743-1803</birth>
+                  <death>1743-1803</death>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/100481612</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2614">Achille</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4208">
+                  <persName type="main">
+                     <forename>Francesco</forename>
+                     <surname>Gonella</surname>
+                  </persName>
+                  <birth>1757-1835</birth>
+                  <death>1757-1835</death>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1026355931</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2615">Lodoiska</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4209">
+                  <persName type="main">
+                     <forename>Francesco Maria Berio di</forename>
+                     <surname>Salsa</surname>
+                  </persName>
+                  <birth>1765-1820</birth>
+                  <death>1765-1820</death>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/101478976</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2616">Otello</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4210">
+                  <persName type="main">
+                     <forename>Giovanni</forename>
+                     <surname>Gherardini</surname>
+                  </persName>
+                  <birth>1778-1861</birth>
+                  <death>1778-1861</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <occupation style="background-color: dark-orange;">Mediziner</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/100767281</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2617">La gazza ladra</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4211">
+                  <persName type="main">
+                     <forename>Franz</forename>
+                     <surname>Jäger</surname>
+                  </persName>
+                  <birth>1792-1852</birth>
+                  <death>1792-1852</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1012275701</idno>
+               </person>
+               <person xml:id="hsl_person_id_4212">
+                  <persName type="main">
+                     <forename>Francesco</forename>
+                     <surname>Graziani</surname>
+                  </persName>
+                  <birth>1829-1901</birth>
+                  <death>1829-1901</death>
+                  <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116827882</idno>
+               </person>
+               <person xml:id="hsl_person_id_4213" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Pan</surname>
+                  </persName>
+                  <occupation style="background-color: dark-gray;">Gottheit</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118789406</idno>
                </person>
             </listPerson>
          </div>

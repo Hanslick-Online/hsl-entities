@@ -852,6 +852,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_84">
                <title type="main">Mosè in Egitto</title>
+               <title type="alternative">Moïse</title>
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
                </author>
@@ -4768,7 +4769,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_544">
                <title type="main">Tancredi</title>
-               <title type="alternative">Tankred</title>
+               <title type="alternative">Tankred / Tancred</title>
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
                </author>
@@ -11481,6 +11482,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1373">
                <title type="main">L´inganno felice</title>
+               <title type="alternative">Die Getäuschten</title>
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
                </author>
@@ -16421,9 +16423,13 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1151670537</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2013">
-               <title type="main">Die Horazier und Curiazier</title>
+               <title type="main">Gli Orazi e i Curiazi</title>
+               <title type="alternative">Die Horazier und Curiazier</title>
                <author ref="#hsl_person_id_928">
                   <persName>Cimarosa, Domenico</persName>
+               </author>
+               <author ref="#hsl_person_id_4206">
+                  <persName>Sografi, Antonio Simeone</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2014">
@@ -20765,6 +20771,13 @@
                <author ref="#hsl_person_id_4199">
                   <persName>Roddaz, Camille de</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_3996">Bertha</name>
+               <name type="character" ref="#hsl_person_id_3998">Herzog Philipp der Gute von Burgund</name>
+               <name type="character" ref="#hsl_person_id_3999">Herold des Herzogs</name>
+               <name type="character" ref="#hsl_person_id_4034">Pit</name>
+               <name type="character" ref="#hsl_person_id_4201">Rombalt</name>
+               <name type="character" ref="#hsl_person_id_4202">Meister Carl</name>
+               <name type="character" ref="#hsl_person_id_4204">Jef</name>
             </bibl>
             <bibl xml:id="hsl_work_id_2603">
                <title type="main">Slovanské tance, B147</title>
@@ -20844,6 +20857,90 @@
                   <persName>Liszt, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300094930</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2613">
+               <title type="main">Camilla, ossia Il sotteraneo</title>
+               <author ref="#hsl_person_id_1166">
+                  <persName>Paër, Ferdinando</persName>
+               </author>
+               <author ref="#hsl_person_id_3476">
+                  <persName>Carpani, Giuseppe</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1031723277</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2614">
+               <title type="main">Achille</title>
+               <title type="alternative">Achilles</title>
+               <author ref="#hsl_person_id_1166">
+                  <persName>Paër, Ferdinando</persName>
+               </author>
+               <author ref="#hsl_person_id_4207">
+                  <persName>De Gamerra, Giovanni</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7527103-5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2615">
+               <title type="main">Lodoiska</title>
+               <title type="alternative">Lodoïska</title>
+               <author ref="#hsl_person_id_2529">
+                  <persName>Mayr, Johann Simon</persName>
+               </author>
+               <author ref="#hsl_person_id_4208">
+                  <persName>Gonella, Francesco</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/301019991</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2616">
+               <title type="main">Otello</title>
+               <author ref="#hsl_person_id_241">
+                  <persName>Rossini, Gioachino</persName>
+               </author>
+               <author ref="#hsl_person_id_4209">
+                  <persName>Salsa, Francesco Maria Berio di</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300220332</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2617">
+               <title type="main">La gazza ladra</title>
+               <title type="alternative">Die diebische Elster</title>
+               <author ref="#hsl_person_id_241">
+                  <persName>Rossini, Gioachino</persName>
+               </author>
+               <author ref="#hsl_person_id_4210">
+                  <persName>Gherardini, Giovanni</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300132484</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2618">
+               <title type="main">La donna del lago</title>
+               <author ref="#hsl_person_id_241">
+                  <persName>Rossini, Gioachino</persName>
+               </author>
+               <author ref="#hsl_person_id_3238">
+                  <persName>Tottola, Andrea Leone</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300132433</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2619">
+               <title type="main">Elisabetta, regina d'Inghilterra</title>
+               <author ref="#hsl_person_id_241">
+                  <persName>Rossini, Gioachino</persName>
+               </author>
+               <author ref="#hsl_person_id_3236">
+                  <persName>Schmidt, Giovanni</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300295367</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2620">
+               <title type="main">Matilde di Shabran, ossia Bellezza, e cuor di ferro</title>
+               <title type="alternative">Corradino</title>
+               <author ref="#hsl_person_id_241">
+                  <persName>Rossini, Gioachino</persName>
+               </author>
+               <author ref="#hsl_person_id_779">
+                  <persName>Ferretti, Jacopo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300309511</idno>
             </bibl>
       </listBibl>
       </body>
