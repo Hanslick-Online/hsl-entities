@@ -10087,10 +10087,6 @@
                      <forename/>
                      <surname>Nannetta</surname>
                   </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Elfenkönigin</surname>
-                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_200">Falstaff, H64</bibl>
                   </listBibl>
@@ -51765,10 +51761,7 @@
                   </persName>
                   <birth>1842-1921</birth>
                   <death>1842-1921</death>
-                  <occupation style="background-color: gray;">Sängerin</occupation>
-                  <occupation style="background-color: yellow;">Opernsängerin</occupation>
-                  <occupation style="background-color: dark-blue;">Gesangslehrerin</occupation>
-                  <occupation style="background-color: red;">Altistin</occupation>
+                  <occupation style="background-color: dark-gray;">Sängerin (Alt)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116406364</idno>
                </person>
                <person xml:id="hsl_person_id_4010">
@@ -54368,6 +54361,65 @@
                   <occupation style="background-color: red;">Dirigent</occupation>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/135098262</idno>
+               </person>
+               <person xml:id="hsl_person_id_4263" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Falstaff</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_200">Falstaff, H64</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4264">
+                  <persName type="main">
+                     <forename>Giuseppina</forename>
+                     <surname>Pasqua</surname>
+                  </persName>
+                  <birth>1855-1930</birth>
+                  <death>1855-1930</death>
+                  <occupation style="background-color: dark-gray;">Sängerin (Alt)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/133596664</idno>
+               </person>
+               <person xml:id="hsl_person_id_4265" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Mrs. Quickly</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Hurtig</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_200">Falstaff, H64</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4266" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Frau Reich</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_218">Die lustigen Weiber von Windsor</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4267" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Fenton</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_218">Die lustigen Weiber von Windsor</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4268" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Herr Reich</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_218">Die lustigen Weiber von Windsor</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

@@ -3223,17 +3223,8 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4088119-2</idno>
                </place>
                <place xml:id="hsl_place_id_266">
-                  <settlement type="T">
-                     <placeName type="main">Monte Testaccio</placeName>
-                  </settlement>
-                  <desc type="entity_type">mountain,hill,rock,...</desc>
-                  <country>IT, Italy</country>
-                  <location type="coords">
-                     <geo>43.83546, 12.01106</geo>
-                  </location>
+                  <placeName type="main">Monte Testaccio</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/8224820/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q781595</idno>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4224633-7</idno>
                </place>
                <place xml:id="hsl_place_id_267">
                   <settlement type="P">
@@ -5685,7 +5676,6 @@
                </place>
                <place xml:id="hsl_place_id_480">
                   <placeName type="main">Leitha</placeName>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q659817</idno>
                </place>
                <place xml:id="hsl_place_id_481">
                   <placeName type="main">al-Ǧazāʾir</placeName>
@@ -5710,11 +5700,9 @@
                </place>
                <place xml:id="hsl_place_id_486">
                   <placeName type="main">Kanpur</placeName>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q66568</idno>
                </place>
                <place xml:id="hsl_place_id_487">
                   <placeName type="main">Delhi</placeName>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1353</idno>
                </place>
                <place xml:id="hsl_place_id_488">
                   <placeName type="main">Hessen</placeName>
@@ -5779,6 +5767,9 @@
                   <placeName type="main">Biesheim</placeName>
                      <placeName type="alternative">Bisheim</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3032712/</idno>
+               </place>
+               <place xml:id="hsl_place_id_502">
+                  <placeName type="main"/>
                </place>
             </listPlace>
          </div>
