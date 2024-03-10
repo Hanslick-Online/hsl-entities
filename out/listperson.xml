@@ -1894,7 +1894,8 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q48305</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_293">Iphigéneia hē en Aulídi</bibl>
-                     <bibl n="hsl_work_id_2421">Medea</bibl>
+                     <bibl n="hsl_work_id_2421">Mēdeia</bibl>
+                     <bibl n="hsl_work_id_2687">Orestēs</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_77">
@@ -16407,6 +16408,10 @@
                   <persName type="main">
                      <forename>Kaiser des Heiligen Römischen Reichs</forename>
                      <surname>Franz II.</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Kaiser von Österreich</forename>
+                     <surname>Franz I.</surname>
                   </persName>
                   <birth>1768-1835</birth>
                   <death>1768-1835</death>
@@ -38044,6 +38049,10 @@
                      <forename>Franz von</forename>
                      <surname>Lenbach</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Lembach</surname>
+                  </persName>
                   <birth>1836-1904</birth>
                   <death>1836-1904</death>
                   <occupation style="background-color: darker-cyan;">Maler</occupation>
@@ -54420,6 +54429,107 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_218">Die lustigen Weiber von Windsor</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4269">
+                  <persName type="main">
+                     <forename>Anastasia</forename>
+                     <surname>Kielmansegg</surname>
+                  </persName>
+                  <birth>1860-1912</birth>
+                  <death>1860-1912</death>
+                  <occupation style="background-color: light-blue;">Adelige</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1267812680</idno>
+               </person>
+               <person xml:id="hsl_person_id_4270">
+                  <persName type="main">
+                     <forename>Alexander Oswald von</forename>
+                     <surname>Pallavicini</surname>
+                  </persName>
+                  <birth>1853-1933</birth>
+                  <death>1853-1933</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1173197710</idno>
+               </person>
+               <person xml:id="hsl_person_id_4271">
+                  <persName type="main">
+                     <forename>Erzherzog von Österreich</forename>
+                     <surname>Rainer Ferdinand</surname>
+                  </persName>
+                  <birth>1827-1913</birth>
+                  <death>1827-1913</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <occupation style="background-color: darker-pink;">Mäzen</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117700886</idno>
+               </person>
+               <person xml:id="hsl_person_id_4272">
+                  <persName type="main">
+                     <forename>König von Ungarn</forename>
+                     <surname>Matthias I.</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Mathias Corvinus</surname>
+                  </persName>
+                  <birth>1443-1490</birth>
+                  <death>1443-1490</death>
+                  <occupation style="background-color: orange;">Monarch</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118579029</idno>
+               </person>
+               <person xml:id="hsl_person_id_4273">
+                  <persName type="main">
+                     <forename>Johannes</forename>
+                     <surname>Wiser</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Johann</forename>
+                     <surname>Wiser</surname>
+                  </persName>
+                  <birth>ca. 1430-1503</birth>
+                  <death>ca. 1430-1503</death>
+                  <occupation style="background-color: light-pink;">Lehrer</occupation>
+                  <occupation style="background-color: darker-orange;">Musiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/104747378X</idno>
+               </person>
+               <person xml:id="hsl_person_id_4274">
+                  <persName type="main">
+                     <forename>Kaiser des Heiligen Römischen Reichs</forename>
+                     <surname>Maximilian II.</surname>
+                  </persName>
+                  <birth>1527-1576</birth>
+                  <death>1527-1576</death>
+                  <occupation style="background-color: orange;">Monarch</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11857938X</idno>
+               </person>
+               <person xml:id="hsl_person_id_4275">
+                  <persName type="main">
+                     <forename>Ludwig</forename>
+                     <surname>Michalek</surname>
+                  </persName>
+                  <birth>1859-1942</birth>
+                  <death>1859-1942</death>
+                  <occupation style="background-color: darker-cyan;">Maler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117017590</idno>
+               </person>
+               <person xml:id="hsl_person_id_4276">
+                  <persName type="main">
+                     <forename>Kaspar von</forename>
+                     <surname>Zumbusch</surname>
+                  </persName>
+                  <birth>1830-1915</birth>
+                  <death>1830-1915</death>
+                  <occupation style="background-color: darker-pink;">Bildhauer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119047071</idno>
+               </person>
+               <person xml:id="hsl_person_id_4277">
+                  <persName type="main">
+                     <forename>Josef</forename>
+                     <surname>Hoffmann</surname>
+                  </persName>
+                  <birth>1831-1904</birth>
+                  <death>1831-1904</death>
+                  <occupation style="background-color: darker-cyan;">Maler</occupation>
+                  <occupation style="background-color: orange;">Bühnenbildner</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/130183091</idno>
                </person>
             </listPerson>
          </div>
