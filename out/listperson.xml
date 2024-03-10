@@ -2202,6 +2202,7 @@
                      <bibl n="hsl_work_id_1251">O del mio dolce ardor</bibl>
                      <bibl n="hsl_work_id_2012">Orfeo ed Euridice, Wq. 30</bibl>
                      <bibl n="hsl_work_id_2569">Paride ed Elena</bibl>
+                     <bibl n="hsl_work_id_2692">Telemaco, Wq. 34</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_100">
@@ -2498,8 +2499,6 @@
                   <birth>1699-1783</birth>
                   <death>1699-1783</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: darker-orange;">Sänger</occupation>
-                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118546651</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q164732</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_H/Hasse_Johann.xml</idno>
@@ -5634,6 +5633,10 @@
                   <occupation style="background-color: orange;">Zeichner</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118612271</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q551901</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2693">Zauberflöte</bibl>
+                     <bibl n="hsl_work_id_2695">Schubertiade</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_284">
                   <persName type="main">
@@ -7072,6 +7075,10 @@
                      <forename>Johann</forename>
                      <surname>Mattheson</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Matheson</surname>
+                  </persName>
                   <birth>1681-1764</birth>
                   <death>1681-1764</death>
                   <occupation style="background-color: light-gray;">Musikautor</occupation>
@@ -7953,10 +7960,11 @@
                   <birth>1551-1618</birth>
                   <death>1551-1618</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
-                  <occupation style="background-color: darker-orange;">Sänger</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119283263</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q215308</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2691">L'Euridice</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_893">
                   <persName type="main">
@@ -7974,6 +7982,9 @@
                   <occupation style="background-color: purple;">Priester</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118583700</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q53068</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2689">L'Orfeo, SV318</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_427" role="fictional">
                   <persName type="main">
@@ -11319,6 +11330,7 @@
                      <bibl n="hsl_work_id_2148">Missa Quadragesimalis, K29</bibl>
                      <bibl n="hsl_work_id_2149">Missa Purificationis, K28</bibl>
                      <bibl n="hsl_work_id_2150">Gradus ad Parnassum, sive manuductio ad compositionem musicae regularem: Methodo nova, ac certa, nondum ante tam exacto ordine in lucem edita</bibl>
+                     <bibl n="hsl_work_id_2696">Elisa, K312</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_760">
@@ -13715,6 +13727,10 @@
                      <forename>Félicien</forename>
                      <surname>David</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Felicien</forename>
+                     <surname>David</surname>
+                  </persName>
                   <birth>1810-1876</birth>
                   <death>1810-1876</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
@@ -15654,6 +15670,7 @@
                   <birth>1775-1834</birth>
                   <death>1775-1834</death>
                   <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q96289220</idno>
                </person>
                <person xml:id="hsl_person_id_1120">
                   <persName type="main">
@@ -20804,6 +20821,10 @@
                   <persName type="main">
                      <forename>Reinhard</forename>
                      <surname>Keiser</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Kaiser</surname>
                   </persName>
                   <birth>1674-1739</birth>
                   <death>1674-1739</death>
@@ -38540,6 +38561,10 @@
                      <forename>Kaiserin von Österreich</forename>
                      <surname>Karolina Augusta</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Carolina Augusta</surname>
+                  </persName>
                   <birth>1792-1873</birth>
                   <death>1792-1873</death>
                   <occupation style="background-color: darker-purple;">Monarchin</occupation>
@@ -38864,7 +38889,11 @@
                <person xml:id="hsl_person_id_2929">
                   <persName type="main">
                      <forename>Georg Alexander von</forename>
-                     <surname>Esterhazy</surname>
+                     <surname>Esterházy</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Eszterhazy</surname>
                   </persName>
                   <birth>1811-1856</birth>
                   <death>1811-1856</death>
@@ -50532,7 +50561,11 @@
                <person xml:id="hsl_person_id_3875">
                   <persName type="main">
                      <forename>Paul</forename>
-                     <surname>Esterhazy von Galántha</surname>
+                     <surname>Esterházy von Galántha</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Eszterhazy</surname>
                   </persName>
                   <birth>1635-1713</birth>
                   <death>1635-1713</death>
@@ -54530,6 +54563,352 @@
                   <occupation style="background-color: darker-cyan;">Maler</occupation>
                   <occupation style="background-color: orange;">Bühnenbildner</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/130183091</idno>
+               </person>
+               <person xml:id="hsl_person_id_4279">
+                  <persName type="main">
+                     <forename>Ottaviano</forename>
+                     <surname>Petrucci</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Ottavio</forename>
+                     <surname>Petrucci</surname>
+                  </persName>
+                  <birth>1466-1539</birth>
+                  <death>1466-1539</death>
+                  <occupation style="background-color: darker-red;">Musikverleger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118593315</idno>
+               </person>
+               <person xml:id="hsl_person_id_4280">
+                  <persName type="main">
+                     <forename>Johann</forename>
+                     <surname>Walter</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Johann</forename>
+                     <surname>Walther</surname>
+                  </persName>
+                  <birth>1496-1570</birth>
+                  <death>1496-1570</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118764187</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2688">Eyn geystlich Gesangk Buchleyn</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4281">
+                  <persName type="main">
+                     <forename>Alessandro</forename>
+                     <surname>Striggio</surname>
+                  </persName>
+                  <birth>1573-1630</birth>
+                  <death>1573-1630</death>
+                  <occupation style="background-color: dark-red;">Diplomat</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/130616591</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2689">L'Orfeo, SV318</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4282">
+                  <persName type="main">
+                     <forename>Jacopo</forename>
+                     <surname>Peri</surname>
+                  </persName>
+                  <birth>1561-1633</birth>
+                  <death>1561-1633</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118790358</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2690">L'Euridice</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4283">
+                  <persName type="main">
+                     <forename>Ottavio</forename>
+                     <surname>Rinuccini</surname>
+                  </persName>
+                  <birth>1562-1621</birth>
+                  <death>1562-1621</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118788906</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2690">L'Euridice</bibl>
+                     <bibl n="hsl_work_id_2691">L'Euridice</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4284">
+                  <persName type="main">
+                     <forename>Herzog von Bayern</forename>
+                     <surname>Albrecht V.</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Albert</surname>
+                  </persName>
+                  <birth>1528-1579</birth>
+                  <death>1528-1579</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <occupation style="background-color: dark-green;">Kunstsammler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118647571</idno>
+               </person>
+               <person xml:id="hsl_person_id_4285">
+                  <persName type="main">
+                     <forename>Nathaniel von</forename>
+                     <surname>Rothschild</surname>
+                  </persName>
+                  <birth>1836-1905</birth>
+                  <death>1836-1905</death>
+                  <occupation style="background-color: red;">Bankier</occupation>
+                  <occupation style="background-color: dark-green;">Kunstsammler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/12244826X</idno>
+               </person>
+               <person xml:id="hsl_person_id_4286">
+                  <persName type="main">
+                     <forename>Erzherzog von Österreich</forename>
+                     <surname>Franz Ferdinand</surname>
+                  </persName>
+                  <birth>1863-1914</birth>
+                  <death>1863-1914</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <occupation style="background-color: light-gray;">Offizier</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118535005</idno>
+               </person>
+               <person xml:id="hsl_person_id_4287">
+                  <persName type="main">
+                     <forename>Carl</forename>
+                     <surname>Zach</surname>
+                  </persName>
+                  <birth>ca. 1850-1918</birth>
+                  <death>ca. 1850-1918</death>
+                  <occupation style="background-color: light-blue;">Instrumentenbauer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1047509253</idno>
+               </person>
+               <person xml:id="hsl_person_id_4288">
+                  <persName type="main">
+                     <forename>Nikolaus IV.</forename>
+                     <surname>Esterházy de Galantha</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Eszterhazy</surname>
+                  </persName>
+                  <birth>1869-1920</birth>
+                  <death>1869-1920</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1991523</idno>
+               </person>
+               <person xml:id="hsl_person_id_4289">
+                  <persName type="main">
+                     <forename>Marco</forename>
+                     <surname>Coltellini</surname>
+                  </persName>
+                  <birth>1719-1777</birth>
+                  <death>1719-1777</death>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <occupation style="background-color: darker-blue;">Verleger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/130374202</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2692">Telemaco, Wq. 34</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4290">
+                  <persName type="main">
+                     <forename>Jakob</forename>
+                     <surname>Stainer</surname>
+                  </persName>
+                  <birth>1618-1683</birth>
+                  <death>1618-1683</death>
+                  <occupation style="background-color: light-orange;">Geigenbauer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118752596</idno>
+               </person>
+               <person xml:id="hsl_person_id_4291">
+                  <persName type="main">
+                     <forename>Mihály</forename>
+                     <surname>Munkácsy</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Munkacsy</surname>
+                  </persName>
+                  <birth>1844-1900</birth>
+                  <death>1844-1900</death>
+                  <occupation style="background-color: darker-cyan;">Maler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118735268</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2694">Mozarts letzte Stunden</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4292">
+                  <persName type="main">
+                     <forename>Ludwig</forename>
+                     <surname>Lobmeyr</surname>
+                  </persName>
+                  <birth>1829-1917</birth>
+                  <death>1829-1917</death>
+                  <occupation style="background-color: yellow;">Unternehmer</occupation>
+                  <occupation style="background-color: dark-green;">Kunstsammler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117074314</idno>
+               </person>
+               <person xml:id="hsl_person_id_4293">
+                  <persName type="main">
+                     <forename>Julia von</forename>
+                     <surname>Gallenberg</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Guicciardi</surname>
+                  </persName>
+                  <birth>1784-1856</birth>
+                  <death>1784-1856</death>
+                  <occupation style="background-color: light-blue;">Adelige</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/136357261</idno>
+               </person>
+               <person xml:id="hsl_person_id_4294">
+                  <persName type="main">
+                     <forename>Carl Heinrich</forename>
+                     <surname>Graun</surname>
+                  </persName>
+                  <birth>1704-1759</birth>
+                  <death>1704-1759</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118541706</idno>
+               </person>
+               <person xml:id="hsl_person_id_4295">
+                  <persName type="main">
+                     <forename>Luigi</forename>
+                     <surname>Boccherini</surname>
+                  </persName>
+                  <birth>1743-1805</birth>
+                  <death>1743-1805</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-purple;">Cellist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118659170</idno>
+               </person>
+               <person xml:id="hsl_person_id_4296" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4297">
+                  <persName type="main">
+                     <forename>Nicola</forename>
+                     <surname>Porpora</surname>
+                  </persName>
+                  <birth>1686-1768</birth>
+                  <death>1686-1768</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/123494591</idno>
+               </person>
+               <person xml:id="hsl_person_id_4298">
+                  <persName type="main">
+                     <forename>Königin von Frankreich</forename>
+                     <surname>Marie Antoinette</surname>
+                  </persName>
+                  <birth>1755-1793</birth>
+                  <death>1755-1793</death>
+                  <occupation style="background-color: darker-purple;">Monarchin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118577905</idno>
+               </person>
+               <person xml:id="hsl_person_id_4299">
+                  <persName type="main">
+                     <forename>Kaiserin von Österreich</forename>
+                     <surname>Elisabeth</surname>
+                  </persName>
+                  <birth>1837-1898</birth>
+                  <death>1837-1898</death>
+                  <occupation style="background-color: darker-purple;">Monarchin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118529897</idno>
+               </person>
+               <person xml:id="hsl_person_id_4300">
+                  <persName type="main">
+                     <forename>Pietro</forename>
+                     <surname>Pariati</surname>
+                  </persName>
+                  <birth>1665-1733</birth>
+                  <death>1665-1733</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119027194</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2696">Elisa, K312</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4301">
+                  <persName type="main">
+                     <forename>Rosine</forename>
+                     <surname>Swoboda</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Rosine / Rosina von</forename>
+                     <surname>Flotow</surname>
+                  </persName>
+                  <birth>1792-1862</birth>
+                  <death>1792-1862</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/141602449</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2697">Friedrich v. Flotow’s Leben</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4302">
+                  <persName type="main">
+                     <forename>Wilhelm von</forename>
+                     <surname>Flotow</surname>
+                  </persName>
+                  <birth>1785-1847</birth>
+                  <death>1785-1847</death>
+                  <occupation style="background-color: light-gray;">Offizier</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4303">
+                  <persName type="main">
+                     <forename>Caroline Sophie Rahel von</forename>
+                     <surname>Flotow</surname>
+                  </persName>
+                  <birth>1792-1862</birth>
+                  <death>1792-1862</death>
+               </person>
+               <person xml:id="hsl_person_id_4304">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Thiem</surname>
+                  </persName>
+                  <occupation style="background-color: dark-blue;">Organist</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4305">
+                  <persName type="main">
+                     <forename>Johanne Christine</forename>
+                     <surname>Gabillon</surname>
+                  </persName>
+                  <birth>1780-1853</birth>
+                  <death>1780-1853</death>
+               </person>
+               <person xml:id="hsl_person_id_4306">
+                  <persName type="main">
+                     <forename>Johann Otto Ludwig</forename>
+                     <surname>Gabillon</surname>
+                  </persName>
+                  <birth>1784-1847</birth>
+                  <death>1784-1847</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116326557</idno>
+               </person>
+               <person xml:id="hsl_person_id_4307">
+                  <persName type="main">
+                     <forename>Iwan</forename>
+                     <surname>Müller</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Ivan</forename>
+                     <surname>Müller</surname>
+                  </persName>
+                  <birth>1786-1854</birth>
+                  <death>1786-1854</death>
+                  <occupation style="background-color: dark-purple;">Klarinettist</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-blue;">Instrumentenbauer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/120299526</idno>
                </person>
             </listPerson>
          </div>
