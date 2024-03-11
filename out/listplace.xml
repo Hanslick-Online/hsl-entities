@@ -5627,32 +5627,15 @@
                </place>
                <place xml:id="hsl_place_id_472">
                   <placeName type="main">Piemonte</placeName>
-                  <country>IT, Italy</country>
-                  <location type="coords">
-                     <geo>45, 8</geo>
-                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3170831/</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1216</idno>
-                  <idno type="URI" subtype="GND">https://www.wikidata.org/wiki/Q1216</idno>
                </place>
                <place xml:id="hsl_place_id_473">
                   <placeName type="main">Marylebone</placeName>
-                  <country>GB, United Kingdom</country>
-                  <location type="coords">
-                     <geo>51.52541, -0.16806</geo>
-                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6545170/</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q123634</idno>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1143853962</idno>
                </place>
                <place xml:id="hsl_place_id_474">
                   <placeName type="main">Vauxhall</placeName>
-                  <country>GB, United Kingdom</country>
-                  <location type="coords">
-                     <geo>51.48582, -0.12205</geo>
-                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6545171/</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q146747</idno>
                </place>
                <place xml:id="hsl_place_id_475">
                   <placeName type="main">Chimborazo</placeName>
@@ -5664,7 +5647,6 @@
                </place>
                <place xml:id="hsl_place_id_477">
                   <placeName type="main">Badenweiler</placeName>
-                  <country>DE, Deutschland</country>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2953482/</idno>
                </place>
                <place xml:id="hsl_place_id_478">
@@ -5684,6 +5666,7 @@
                </place>
                <place xml:id="hsl_place_id_482">
                   <placeName type="main">Ragaz</placeName>
+                     <placeName type="alternative">Ragatz</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/7285136/</idno>
                </place>
                <place xml:id="hsl_place_id_483">
@@ -5811,6 +5794,9 @@
                   <placeName type="main">Behren-Lübchin</placeName>
                      <placeName type="alternative">Lübchin</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6547870/</idno>
+               </place>
+               <place xml:id="hsl_place_id_513">
+                  <placeName type="main"/>
                </place>
             </listPlace>
          </div>
