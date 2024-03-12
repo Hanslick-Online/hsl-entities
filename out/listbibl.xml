@@ -5378,6 +5378,7 @@
                <author ref="#hsl_person_id_287">
                   <persName>Shakespeare, William</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_4362">Richard, Duke of Gloucester</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099359-0</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_633">
@@ -21564,7 +21565,9 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2699">
-               <title type="main"/>
+               <title type="main">Jagdpartie Heinrich's IV.</title>
+               <title type="alternative">unklarer Bezug</title>
+               <name type="character" ref="#hsl_person_id_4366">Heinrich IV.</name>
             </bibl>
             <bibl xml:id="hsl_work_id_2700">
                <title type="main">L'eau merveilleuse</title>
@@ -21829,6 +21832,64 @@
                </author>
                <name type="character" ref="#hsl_person_id_4343">Minverve</name>
                <name type="character" ref="#hsl_person_id_4344">Le roi de Rome</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2725">
+               <title type="main">Karl IX ou Saint-Berthélemy</title>
+               <author ref="#hsl_person_id_4330">
+                  <persName>Chénier, Marie Joseph Blaise de</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_4349">Charles IX.</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1238571816</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2726">
+               <title type="main">The Alchemist</title>
+               <author ref="#hsl_person_id_4363">
+                  <persName>Jonson, Ben</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_4364">Abel Drugger</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4316169-8</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2727">
+               <title type="main">Polyeucte</title>
+               <author ref="#hsl_person_id_51">
+                  <persName>Corneille, Pierre</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4266207-2</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2728">
+               <title type="main">Électre</title>
+               <author ref="#hsl_person_id_4371">
+                  <persName>Crébillon, Prosper Jolyot de</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2729">
+               <title type="main">George Dandin ou le mari confondu</title>
+               <author ref="#hsl_person_id_864">
+                  <persName>Molière</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4462324-0</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2730">
+               <title type="main">Oedipe</title>
+               <author ref="#hsl_person_id_1391">
+                  <persName>Voltaire</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4575210-2</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2731">
+               <title type="main">Zaïre</title>
+               <author ref="#hsl_person_id_1391">
+                  <persName>Voltaire</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_4382">Orosmane</name>
+               <name type="character" ref="#hsl_person_id_4383">Zaïre</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4496506-0</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2732">
+               <title type="main">L'actrice nouvelle</title>
+               <author ref="#hsl_person_id_4384">
+                  <persName>Poisson, Philippe</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>

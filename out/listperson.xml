@@ -1497,6 +1497,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q747</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_179">Horace</bibl>
+                     <bibl n="hsl_work_id_2727">Polyeucte</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_52">
@@ -12635,6 +12636,7 @@
                      <bibl n="hsl_work_id_588">L'Avare ou L'Ecole du mensonge</bibl>
                      <bibl n="hsl_work_id_1500">Sganarelle, ou Le Cocu imaginaire</bibl>
                      <bibl n="hsl_work_id_1702">Dom Juan ou le Festin de Pierre</bibl>
+                     <bibl n="hsl_work_id_2729">George Dandin ou le mari confondu</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_865">
@@ -19300,6 +19302,8 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_882">Le fanatisme ou Mahomet le Prophète</bibl>
                      <bibl n="hsl_work_id_883">Tancrède</bibl>
+                     <bibl n="hsl_work_id_2730">Oedipe</bibl>
+                     <bibl n="hsl_work_id_2731">Zaïre</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1392">
@@ -19309,7 +19313,7 @@
                   </persName>
                   <birth>1821-1858</birth>
                   <death>1821-1858</death>
-                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: dark-red;">Schauspielerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118950886</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q267985</idno>
                </person>
@@ -40369,6 +40373,10 @@
                      <forename>Zar von Russland</forename>
                      <surname>Peter I.</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Peter der Große</surname>
+                  </persName>
                   <birth>1672-1725</birth>
                   <death>1672-1725</death>
                   <occupation style="background-color: orange;">Monarch</occupation>
@@ -55261,11 +55269,18 @@
                   <occupation style="background-color: darker-cyan;">Abenteurer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118585487</idno>
                </person>
-               <person xml:id="hsl_person_id_4330" role="fictional">
+               <person xml:id="hsl_person_id_4330">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Marie Joseph Blaise de</forename>
+                     <surname>Chénier</surname>
                   </persName>
+                  <birth>1764-1811</birth>
+                  <death>1764-1811</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118669184</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2725">Karl IX ou Saint-Berthélemy</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_4331">
                   <persName type="main">
@@ -55470,6 +55485,419 @@
                   <death>1760-1830</death>
                   <occupation style="background-color: dark-orange;">Mediziner</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117371548</idno>
+               </person>
+               <person xml:id="hsl_person_id_4349" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Charles IX.</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Karl IX.</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2725">Karl IX ou Saint-Berthélemy</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4350">
+                  <persName type="main">
+                     <forename>Julie</forename>
+                     <surname>Talma</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Carreau</surname>
+                  </persName>
+                  <birth>1756-1805</birth>
+                  <death>1756-1805</death>
+                  <occupation style="background-color: darker-gray;">Tänzerin</occupation>
+                  <occupation style="background-color: darker-cyan;">Salonnière</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118970143</idno>
+               </person>
+               <person xml:id="hsl_person_id_4351">
+                  <persName type="main">
+                     <forename>Jean Antoine Nicolas de Caritat de</forename>
+                     <surname>Condorcet</surname>
+                  </persName>
+                  <birth>1743-1794</birth>
+                  <death>1743-1794</death>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: light-orange;">Philosoph</occupation>
+                  <occupation style="background-color: dark-brown;">Mathematiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118521772</idno>
+               </person>
+               <person xml:id="hsl_person_id_4352">
+                  <persName type="main">
+                     <forename>Pierre Victurien</forename>
+                     <surname>Vergniaud</surname>
+                  </persName>
+                  <birth>1753-1793</birth>
+                  <death>1753-1793</death>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: green;">Jurist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/120342545</idno>
+               </person>
+               <person xml:id="hsl_person_id_4353">
+                  <persName type="main">
+                     <forename>Jean-Paul</forename>
+                     <surname>Marat</surname>
+                  </persName>
+                  <birth>1743-1793</birth>
+                  <death>1743-1793</death>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: dark-orange;">Mediziner</occupation>
+                  <occupation style="background-color: dark-green;">Journalist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118577441</idno>
+               </person>
+               <person xml:id="hsl_person_id_4354">
+                  <persName type="main">
+                     <forename>Jacques Louis</forename>
+                     <surname>David</surname>
+                  </persName>
+                  <birth>1748-1825</birth>
+                  <death>1748-1825</death>
+                  <occupation style="background-color: darker-cyan;">Maler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118523945</idno>
+               </person>
+               <person xml:id="hsl_person_id_4355">
+                  <persName type="main">
+                     <forename>Géraud Christophe Michel</forename>
+                     <surname>Duroc</surname>
+                  </persName>
+                  <birth>1772-1813</birth>
+                  <death>1772-1813</death>
+                  <occupation style="background-color: light-gray;">Offizier</occupation>
+                  <occupation style="background-color: dark-red;">Diplomat</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116256729</idno>
+               </person>
+               <person xml:id="hsl_person_id_4356">
+                  <persName type="main">
+                     <forename>Antoine</forename>
+                     <surname>Michaut</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Michot</surname>
+                  </persName>
+                  <birth>1765-1826</birth>
+                  <death>1765-1826</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q109294081</idno>
+               </person>
+               <person xml:id="hsl_person_id_4357">
+                  <persName type="main">
+                     <forename>König von Frankreich</forename>
+                     <surname>Ludwig XVIII.</surname>
+                  </persName>
+                  <birth>1755-1824</birth>
+                  <death>1755-1824</death>
+                  <occupation style="background-color: orange;">Monarch</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118780743</idno>
+               </person>
+               <person xml:id="hsl_person_id_4358">
+                  <persName type="main">
+                     <forename>König von Epirus</forename>
+                     <surname>Pyrrhus</surname>
+                  </persName>
+                  <birth>319-272 v.u.Z.</birth>
+                  <death>319-272 v.u.Z.</death>
+                  <occupation style="background-color: orange;">Monarch</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118743058</idno>
+               </person>
+               <person xml:id="hsl_person_id_4359">
+                  <persName type="main">
+                     <forename>Lucius Cornelius</forename>
+                     <surname>Cinna</surname>
+                  </persName>
+                  <birth>ca. 130-84 v.u.Z.</birth>
+                  <death>ca. 130-84 v.u.Z.</death>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119285045</idno>
+               </person>
+               <person xml:id="hsl_person_id_4360">
+                  <persName type="main">
+                     <forename>Karl</forename>
+                     <surname>Seydelmann</surname>
+                  </persName>
+                  <birth>1793-1843</birth>
+                  <death>1793-1843</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117475599</idno>
+               </person>
+               <person xml:id="hsl_person_id_4361">
+                  <persName type="main">
+                     <forename>William</forename>
+                     <surname>Hogarth</surname>
+                  </persName>
+                  <birth>1697-1764</birth>
+                  <death>1697-1764</death>
+                  <occupation style="background-color: darker-cyan;">Maler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118552805</idno>
+               </person>
+               <person xml:id="hsl_person_id_4362" role="fictional">
+                  <persName type="main">
+                     <forename>Duke of Gloucester</forename>
+                     <surname>Richard</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_632">King Richard III.</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4363">
+                  <persName type="main">
+                     <forename>Ben</forename>
+                     <surname>Jonson</surname>
+                  </persName>
+                  <birth>1572-1637</birth>
+                  <death>1572-1637</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118558323</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2726">The Alchemist</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4364" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Abel Drugger</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2726">The Alchemist</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4365">
+                  <persName type="main">
+                     <forename>Henri Louis</forename>
+                     <surname>Le Kain</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Lekain</surname>
+                  </persName>
+                  <birth>1729-1778</birth>
+                  <death>1729-1778</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116890703</idno>
+               </person>
+               <person xml:id="hsl_person_id_4366" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Heinrich IV.</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2699">Jagdpartie Heinrich's IV.</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4367">
+                  <persName type="main">
+                     <forename>Adrienne</forename>
+                     <surname>Lecouvreur</surname>
+                  </persName>
+                  <birth>1692-1730</birth>
+                  <death>1692-1730</death>
+                  <occupation style="background-color: dark-red;">Schauspielerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118726986</idno>
+               </person>
+               <person xml:id="hsl_person_id_4368">
+                  <persName type="main">
+                     <forename>Louise Henriette Françoise de</forename>
+                     <surname>Lorraine</surname>
+                  </persName>
+                  <birth>1707-1737</birth>
+                  <death>1707-1737</death>
+                  <occupation style="background-color: light-blue;">Adelige</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3840447</idno>
+               </person>
+               <person xml:id="hsl_person_id_4369" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Legrand</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4370">
+                  <persName type="main">
+                     <forename>Marc-Antoine</forename>
+                     <surname>Le Grand</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Legrand</surname>
+                  </persName>
+                  <birth>1673-1728</birth>
+                  <death>1673-1728</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11890714X</idno>
+               </person>
+               <person xml:id="hsl_person_id_4371">
+                  <persName type="main">
+                     <forename>Prosper Jolyot de</forename>
+                     <surname>Crébillon</surname>
+                  </persName>
+                  <birth>1674-1762</birth>
+                  <death>1674-1762</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118677284</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2728">Électre</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4372" role="fictional">
+                  <persName type="main">
+                     <forename>César Chesneau</forename>
+                     <surname>Du Marsais</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Dumarsois</surname>
+                  </persName>
+                  <birth>1676-1756</birth>
+                  <death>1676-1756</death>
+                  <occupation style="background-color: light-orange;">Philosoph</occupation>
+                  <occupation style="background-color: light-blue;">Grammatiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118520385</idno>
+               </person>
+               <person xml:id="hsl_person_id_4373">
+                  <persName type="main">
+                     <forename>Edmond</forename>
+                     <surname>Got</surname>
+                  </persName>
+                  <birth>1822-1901</birth>
+                  <death>1822-1901</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116788267</idno>
+               </person>
+               <person xml:id="hsl_person_id_4374">
+                  <persName type="main">
+                     <forename>Suzanne</forename>
+                     <surname>Reichenberg</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Reichemberg</surname>
+                  </persName>
+                  <birth>1853-1924</birth>
+                  <death>1853-1924</death>
+                  <occupation style="background-color: dark-red;">Schauspielerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116398795</idno>
+               </person>
+               <person xml:id="hsl_person_id_4375">
+                  <persName type="main">
+                     <forename>Catherine</forename>
+                     <surname>De Brie</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Debrie</surname>
+                  </persName>
+                  <birth>1630-1706</birth>
+                  <death>1630-1706</death>
+                  <occupation style="background-color: dark-red;">Schauspielerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1224770293</idno>
+               </person>
+               <person xml:id="hsl_person_id_4377">
+                  <persName type="main">
+                     <forename>Armande-Grésinde-Claire-Elisabeth</forename>
+                     <surname>Béjart</surname>
+                  </persName>
+                  <birth>ca. 1645-1700</birth>
+                  <death>ca. 1645-1700</death>
+                  <occupation style="background-color: dark-red;">Schauspielerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/124131115</idno>
+               </person>
+               <person xml:id="hsl_person_id_4378">
+                  <persName type="main">
+                     <forename>Raymond</forename>
+                     <surname>Poisson</surname>
+                  </persName>
+                  <birth>1633-1690</birth>
+                  <death>1633-1690</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/128924349</idno>
+               </person>
+               <person xml:id="hsl_person_id_4379">
+                  <persName type="main">
+                     <forename>François de Blanchefort</forename>
+                     <surname>Créquy</surname>
+                  </persName>
+                  <birth>1629-1687</birth>
+                  <death>1629-1687</death>
+                  <occupation style="background-color: light-gray;">Offizier</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119120631</idno>
+               </person>
+               <person xml:id="hsl_person_id_4380">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Belle-Roze</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Bellerose</surname>
+                  </persName>
+                  <birth>1592-1670</birth>
+                  <death>1592-1670</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1253190674</idno>
+               </person>
+               <person xml:id="hsl_person_id_4381">
+                  <persName type="main">
+                     <forename>Armand Jean du Plessis de</forename>
+                     <surname>Richelieu</surname>
+                  </persName>
+                  <birth>1585-1642</birth>
+                  <death>1585-1642</death>
+                  <occupation style="background-color: gray;">Kardinal</occupation>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118600354</idno>
+               </person>
+               <person xml:id="hsl_person_id_4382" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Orosmane</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Orosman</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2731">Zaïre</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4383" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Zaïre</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2731">Zaïre</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4384">
+                  <persName type="main">
+                     <forename>Philippe</forename>
+                     <surname>Poisson</surname>
+                  </persName>
+                  <birth>1682-1743</birth>
+                  <death>1682-1743</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/100549705</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2732">L'actrice nouvelle</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4385">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Quinault-Dufresne</surname>
+                  </persName>
+                  <birth>1693-1767</birth>
+                  <death>1693-1767</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3414519</idno>
                </person>
             </listPerson>
          </div>
