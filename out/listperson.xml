@@ -6362,6 +6362,7 @@
                      <bibl n="hsl_work_id_2373">Ueber deutsche Musik</bibl>
                      <bibl n="hsl_work_id_2522">Iphigenia in Aulis, Bearbeitung von Christoph Willibald Glucks Tragédie-opéra, WWV 77</bibl>
                      <bibl n="hsl_work_id_2668">An Webers Grabe, WWV72</bibl>
+                     <bibl n="hsl_work_id_2738">Eine Mittheilung an meine Freunde</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_361">
@@ -7915,6 +7916,7 @@
                      <bibl n="hsl_work_id_1733">Die Stricknadeln</bibl>
                      <bibl n="hsl_work_id_1734">Menschenhass und Reue</bibl>
                      <bibl n="hsl_work_id_1782">Die Kreuzfahrer</bibl>
+                     <bibl n="hsl_work_id_2739">Die gefährliche Nachbarschaft</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_426" role="fictional">
@@ -22748,7 +22750,7 @@
                      <surname>Wagner</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename>Cosima</forename>
+                     <forename>Cosima / Bülow</forename>
                      <surname>Liszt</surname>
                   </persName>
                   <birth>1837-1930</birth>
@@ -39084,6 +39086,7 @@
                      <bibl n="hsl_work_id_1507">Un duel sous Richelieu</bibl>
                      <bibl n="hsl_work_id_1917">Le chevalier d'Harmental (Roman)</bibl>
                      <bibl n="hsl_work_id_1920">Le chevalier d'Harmental (Drama)</bibl>
+                     <bibl n="hsl_work_id_2741">Le Comte de Monte-Cristo</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2941" role="fictional">
@@ -49000,6 +49003,9 @@
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118518399</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q170800</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2740">El secreto a voces</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3750">
                   <persName type="main">
@@ -55914,6 +55920,96 @@
                   <death>1868-nach 1895</death>
                   <occupation style="background-color: dark-blue;">Pianistin</occupation>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_B/Bibl_Familie.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_4387">
+                  <persName type="main">
+                     <forename>König von Sachsen</forename>
+                     <surname>Friedrich August II.</surname>
+                  </persName>
+                  <birth>1797-1854</birth>
+                  <death>1797-1854</death>
+                  <occupation style="background-color: orange;">Monarch</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118917218</idno>
+               </person>
+               <person xml:id="hsl_person_id_4388">
+                  <persName type="main">
+                     <forename>Michael Aleksandrovič</forename>
+                     <surname>Bakunin</surname>
+                  </persName>
+                  <birth>1814-1876</birth>
+                  <death>1814-1876</death>
+                  <occupation style="background-color: brown;">Revolutionär</occupation>
+                  <occupation style="background-color: dark-gray;">Anarchist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118506102</idno>
+               </person>
+               <person xml:id="hsl_person_id_4389">
+                  <persName type="main">
+                     <forename>Otto Leonhard</forename>
+                     <surname>Heubner</surname>
+                  </persName>
+                  <birth>1812-1893</birth>
+                  <death>1812-1893</death>
+                  <occupation style="background-color: green;">Jurist</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116779969</idno>
+               </person>
+               <person xml:id="hsl_person_id_4390" role="fictional">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Haimberger</surname>
+                  </persName>
+                  <birth>19. Jhdt.</birth>
+                  <death>19. Jhdt.</death>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4391">
+                  <persName type="main">
+                     <forename>Mathilde</forename>
+                     <surname>Wesendonck</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Wesendonk</surname>
+                  </persName>
+                  <birth>1828-1902</birth>
+                  <death>1828-1902</death>
+                  <occupation style="background-color: gray;">Schriftstellerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118767267</idno>
+               </person>
+               <person xml:id="hsl_person_id_4392" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Sardanapal</surname>
+                  </persName>
+                  <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4393" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Edmond Dantès</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Monte Christo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2741">Le Comte de Monte-Cristo</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4394">
+                  <persName type="main">
+                     <forename>Kuno</forename>
+                     <surname>Fischer</surname>
+                  </persName>
+                  <birth>1824-1907</birth>
+                  <death>1824-1907</death>
+                  <occupation style="background-color: light-orange;">Philosoph</occupation>
+                  <occupation style="background-color: red;">Historiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118533401</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2742">Der Philosoph des Pessimismus. Ein Charakterproblem</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
