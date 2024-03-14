@@ -3949,6 +3949,9 @@
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/100552641</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q705124</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2752">Le déserteur</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_188">
                   <persName type="main">
@@ -30462,6 +30465,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q765946</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1236">A Santa Lucia</bibl>
+                     <bibl n="hsl_work_id_2751">Il birichino</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2241">
@@ -45324,6 +45328,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q367243</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2061">Raoul Barbe-Bleue</bibl>
+                     <bibl n="hsl_work_id_2752">Le déserteur</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3456">
@@ -50380,7 +50385,6 @@
                   <birth>1857-1928</birth>
                   <death>1857-1928</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: dark-green;">Journalist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118619853</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q65448</idno>
                </person>
@@ -56010,6 +56014,206 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2742">Der Philosoph des Pessimismus. Ein Charakterproblem</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4395">
+                  <persName type="main">
+                     <forename>Fernando De</forename>
+                     <surname>Lucia</surname>
+                  </persName>
+                  <birth>1860-1925</birth>
+                  <death>1860-1925</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119008645</idno>
+               </person>
+               <person xml:id="hsl_person_id_4396">
+                  <persName type="main">
+                     <forename>Galliano</forename>
+                     <surname>Masini</surname>
+                  </persName>
+                  <birth>1896-1986</birth>
+                  <death>1896-1986</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/124969801</idno>
+               </person>
+               <person xml:id="hsl_person_id_4397">
+                  <persName type="main">
+                     <forename>Fanny</forename>
+                     <surname>Torresella</surname>
+                  </persName>
+                  <birth>1856-1914</birth>
+                  <death>1856-1914</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q104384426</idno>
+               </person>
+               <person xml:id="hsl_person_id_4398">
+                  <persName type="main">
+                     <forename>Marie</forename>
+                     <surname>Zanon</surname>
+                  </persName>
+                  <birth>19./20. Jhdt.</birth>
+                  <death>19./20. Jhdt.</death>
+                  <occupation style="background-color: dark-gray;">Sängerin (Alt)</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4399">
+                  <persName type="main">
+                     <forename>Edoardo</forename>
+                     <surname>Sottolano</surname>
+                  </persName>
+                  <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4400">
+                  <persName type="main">
+                     <forename>Roberto</forename>
+                     <surname>Stagno</surname>
+                  </persName>
+                  <birth>1840-1897</birth>
+                  <death>1840-1897</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117203114</idno>
+               </person>
+               <person xml:id="hsl_person_id_4401" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Alfio</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_848">Cavalleria rusticana</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4402" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Lola</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_848">Cavalleria rusticana</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4403">
+                  <persName type="main">
+                     <forename>Leopoldo</forename>
+                     <surname>Mugnone</surname>
+                  </persName>
+                  <birth>1858-1941</birth>
+                  <death>1858-1941</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q6527174?wprov=srpw1_1</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2751">Il birichino</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4404">
+                  <persName type="main">
+                     <forename>Gerhart</forename>
+                     <surname>Hauptmann</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Gerhard</forename>
+                     <surname>Hauptmann</surname>
+                  </persName>
+                  <birth>1862-1946</birth>
+                  <death>1862-1946</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118546937</idno>
+               </person>
+               <person xml:id="hsl_person_id_4405">
+                  <persName type="main">
+                     <forename>Richard</forename>
+                     <surname>Voss</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Richard</forename>
+                     <surname>Voß</surname>
+                  </persName>
+                  <birth>1851-1918</birth>
+                  <death>1851-1918</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117450944</idno>
+               </person>
+               <person xml:id="hsl_person_id_4406" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Tonio</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_849">Pagliacci</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4407" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Canio</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_849">Pagliacci</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4408" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Silvio</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_849">Pagliacci</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4409">
+                  <persName type="main">
+                     <forename>Ottorino</forename>
+                     <surname>Beltrami</surname>
+                  </persName>
+                  <birth>19./20. Jhdt.</birth>
+                  <death>19./20. Jhdt.</death>
+                  <occupation style="background-color: dark-gray;">Sänger (Bassist)</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4410">
+                  <persName type="main">
+                     <forename>Alfonso</forename>
+                     <surname>Garulli</surname>
+                  </persName>
+                  <birth>1866-1915</birth>
+                  <death>1866-1915</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1146293666</idno>
+               </person>
+               <person xml:id="hsl_person_id_4411">
+                  <persName type="main">
+                     <forename>Salud</forename>
+                     <surname>Othon</surname>
+                  </persName>
+                  <birth>19-/20. Jhdt.</birth>
+                  <death>19-/20. Jhdt.</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4412">
+                  <persName type="main">
+                     <forename>Francesco</forename>
+                     <surname>Daddi</surname>
+                  </persName>
+                  <birth>1864-1945</birth>
+                  <death>1864-1945</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/134741404</idno>
+               </person>
+               <person xml:id="hsl_person_id_4413" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Lolo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2751">Il birichino</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4414">
+                  <persName type="main">
+                     <forename>Elvira</forename>
+                     <surname>Brambilla</surname>
+                  </persName>
+                  <birth>19./20. Jhdt.</birth>
+                  <death>19./20. Jhdt.</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                </person>
             </listPerson>
          </div>

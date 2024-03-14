@@ -7058,6 +7058,8 @@
                </author>
                <name type="character" ref="#hsl_person_id_3665">Santuzza</name>
                <name type="character" ref="#hsl_person_id_4231">Turiddu</name>
+               <name type="character" ref="#hsl_person_id_4401">Alfio</name>
+               <name type="character" ref="#hsl_person_id_4402">Lola</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300099819</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_849">
@@ -7067,6 +7069,9 @@
                   <persName>Leoncavallo, Ruggiero</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1885">Nedda</name>
+               <name type="character" ref="#hsl_person_id_4406">Tonio</name>
+               <name type="character" ref="#hsl_person_id_4407">Canio</name>
+               <name type="character" ref="#hsl_person_id_4408">Silvio</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300091370</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_850">
@@ -21956,6 +21961,30 @@
                <author ref="#hsl_person_id_4394">
                   <persName>Fischer, Kuno</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2751">
+               <title type="main">Il birichino</title>
+               <author ref="#hsl_person_id_2240">
+                  <persName>Golisciani, Enrico</persName>
+               </author>
+               <author ref="#hsl_person_id_4403">
+                  <persName>Mugnone, Leopoldo</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_4413">Lolo</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2752">
+               <title type="main">Le déserteur</title>
+               <title type="alternative">Der Deserteur</title>
+               <author ref="#hsl_person_id_187">
+                  <persName>Monsigny, Pierre-Alexandre</persName>
+               </author>
+               <author ref="#hsl_person_id_3455">
+                  <persName>Sedaine, Michel-Jean</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1068304138</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2753">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>
