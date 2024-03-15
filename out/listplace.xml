@@ -5796,7 +5796,9 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6547870/</idno>
                </place>
                <place xml:id="hsl_place_id_513">
-                  <placeName type="main"/>
+                  <placeName type="main">Lorraine</placeName>
+                     <placeName type="alternative">Lothringen</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2997551/</idno>
                </place>
                <place xml:id="hsl_place_id_514">
                   <placeName type="main">Herzogtum Bouillon</placeName>
@@ -5818,6 +5820,9 @@
                <place xml:id="hsl_place_id_518">
                   <placeName type="main">Königstein</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2885764/</idno>
+               </place>
+               <place xml:id="hsl_place_id_519">
+                  <placeName type="main"/>
                </place>
             </listPlace>
          </div>
