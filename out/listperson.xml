@@ -16903,7 +16903,7 @@
                      <surname>Rückbeil-Hiller</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
+                     <forename>Emma</forename>
                      <surname>Ruckbeil-Hiller</surname>
                   </persName>
                   <birth>9. / 20. Jhdt.</birth>
@@ -23241,12 +23241,19 @@
                      <forename>Robert</forename>
                      <surname>Franz</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Robert Franz</forename>
+                     <surname>Knauth</surname>
+                  </persName>
                   <birth>1815-1892</birth>
                   <death>1815-1892</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <occupation style="background-color: red;">Dirigent</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118702955</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q561967</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2760">Offener Brief an Eduard Hanslick über Bearbeitungen älterer Tonwerke namentlich Bach'scher und Händel'scher Vocalmusik</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1709">
                   <persName type="main">
@@ -36011,7 +36018,7 @@
                      <surname>Bennett</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
+                     <forename>William</forename>
                      <surname>Sterndale-Benett</surname>
                   </persName>
                   <birth>1816-1875</birth>
@@ -56510,11 +56517,17 @@
                      <bibl n="hsl_work_id_2755">Gringoire, op. 66</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4444" role="fictional">
+               <person xml:id="hsl_person_id_4444">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>George L.</forename>
+                     <surname>Osgood</surname>
                   </persName>
+                  <birth>1844-1922</birth>
+                  <death>1844-1922</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117151378</idno>
                </person>
                <person xml:id="hsl_person_id_4445" role="fictional">
                   <persName type="main">
@@ -56546,6 +56559,18 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_2756">Die Sirenen-Insel</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4448">
+                  <persName type="main">
+                     <forename>Alfred</forename>
+                     <surname>Reisenauer</surname>
+                  </persName>
+                  <birth>1863-1907</birth>
+                  <death>1863-1907</death>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116429623</idno>
                </person>
             </listPerson>
          </div>
