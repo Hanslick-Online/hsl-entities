@@ -1788,6 +1788,8 @@
                <name type="character" ref="#hsl_person_id_2807">Figaro</name>
                <name type="character" ref="#hsl_person_id_2812">Conte d'Almaviva</name>
                <name type="character" ref="#hsl_person_id_2814">Dottor Malatesta</name>
+               <name type="character" ref="#hsl_person_id_4480">Bartolo</name>
+               <name type="character" ref="#hsl_person_id_4481">Basilio</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30013228X</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_177">
@@ -6428,7 +6430,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_773">
                <title type="main">Noc na Karlštejně, op. 26</title>
-               <title type="alternative">Eine Nacht auf Karlstein</title>
+               <title type="alternative">Eine Nacht auf Karlstein, Une nuit à Carlstein</title>
                <author ref="#hsl_person_id_1259">
                   <persName>Fibich, Zdeněk</persName>
                </author>
@@ -15163,6 +15165,7 @@
                <name type="character" ref="#hsl_person_id_4475">Doctor Splendiano</name>
                <name type="character" ref="#hsl_person_id_4476">Musso</name>
                <name type="character" ref="#hsl_person_id_4477">Officier</name>
+               <name type="character" ref="#hsl_person_id_4479">Salvator Rosa</name>
             </bibl>
             <bibl xml:id="hsl_work_id_1836">
                <title type="main">Cornill Schut / Pittori Fiamminghi</title>
@@ -22281,6 +22284,28 @@
                   <persName>Tieck, Ludwig</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4319463-1</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2787">
+               <title type="main">Souvenirs de jeunesse</title>
+               <title type="alternative">Jugend-Erinnerungen</title>
+               <author ref="#hsl_person_id_4482">
+                  <persName>Sarcey, Francisque</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2788">
+               <title type="main">Le temple du goût</title>
+               <title type="alternative">Der Tempel des Geschmacks</title>
+               <author ref="#hsl_person_id_1391">
+                  <persName>Voltaire</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1204031967</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2789">
+               <title type="main">Quartett für Violine, Viola, Cello und Klavier in e-Moll, op. 11</title>
+               <author ref="#hsl_person_id_1259">
+                  <persName>Fibich, Zdeněk</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300583672</idno>
             </bibl>
       </listBibl>
       </body>

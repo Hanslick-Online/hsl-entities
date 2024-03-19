@@ -17506,6 +17506,7 @@
                      <bibl n="hsl_work_id_771">Smrt Hippodamie, op. 33</bibl>
                      <bibl n="hsl_work_id_772">Symphonie Nr. 2 in Es-Dur, op. 38</bibl>
                      <bibl n="hsl_work_id_773">Noc na Karlštejně, op. 26</bibl>
+                     <bibl n="hsl_work_id_2789">Quartett für Violine, Viola, Cello und Klavier in e-Moll, op. 11</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1260">
@@ -19334,6 +19335,7 @@
                      <bibl n="hsl_work_id_883">Tancrède</bibl>
                      <bibl n="hsl_work_id_2730">Oedipe</bibl>
                      <bibl n="hsl_work_id_2731">Zaïre</bibl>
+                     <bibl n="hsl_work_id_2788">Le temple du goût</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1392">
@@ -37031,6 +37033,10 @@
                      <forename>Viktor Christian</forename>
                      <surname>Schmitt</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Victor Christian</forename>
+                     <surname>Schmidt</surname>
+                  </persName>
                   <birth>1844-1900</birth>
                   <death>1844-1900</death>
                   <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
@@ -48138,6 +48144,10 @@
                      <forename>Louis</forename>
                      <surname>Diemer</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Diémer</surname>
+                  </persName>
                   <birth>1843-1919</birth>
                   <death>1843-1919</death>
                   <occupation style="background-color: dark-orange;">Pianist</occupation>
@@ -56921,6 +56931,106 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_217">Die Meistersinger von Nürnberg, WWV96</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4479" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Salvator Rosa</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Battista Capuzzi</forename>
+                     <surname>Signor Formica</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1835">Signor Formica</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4480" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Bartolo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_176">Il barbiere di Siviglia</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4481" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Basilio</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_176">Il barbiere di Siviglia</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4482">
+                  <persName type="main">
+                     <forename>Francisque</forename>
+                     <surname>Sarcey</surname>
+                  </persName>
+                  <birth>1827-1899</birth>
+                  <death>1827-1899</death>
+                  <occupation style="background-color: dark-green;">Journalist</occupation>
+                  <occupation style="background-color: blue;">Kritiker</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116806095</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2787">Souvenirs de jeunesse</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4483">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Schuster-Seydel</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Therese</forename>
+                     <surname>Schuster-Seydel</surname>
+                  </persName>
+                  <birth>1853-1934</birth>
+                  <death>1853-1934</death>
+                  <occupation style="background-color: gray;">Violinistin</occupation>
+                  <occupation style="background-color: light-blue;">Musiklehrerin</occupation>
+                  <occupation style="background-color: orange;">Komponistin</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4484">
+                  <persName type="main">
+                     <forename>Dory</forename>
+                     <surname>Burmeister-Petersen</surname>
+                  </persName>
+                  <birth>1856-1902</birth>
+                  <death>1856-1902</death>
+                  <occupation style="background-color: dark-blue;">Pianistin</occupation>
+                  <occupation style="background-color: light-blue;">Musiklehrerin</occupation>
+                  <occupation style="background-color: orange;">Komponistin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117174718</idno>
+               </person>
+               <person xml:id="hsl_person_id_4485">
+                  <persName type="main">
+                     <forename>Richard</forename>
+                     <surname>Burmeister</surname>
+                  </persName>
+                  <birth>1860-1944</birth>
+                  <death>1860-1944</death>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117174688</idno>
+               </person>
+               <person xml:id="hsl_person_id_4486">
+                  <persName type="main">
+                     <forename>František Augustin</forename>
+                     <surname>Urbánek</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Urban</surname>
+                  </persName>
+                  <birth>1842-1919</birth>
+                  <death>1842-1919</death>
+                  <occupation style="background-color: darker-red;">Musikverleger</occupation>
+                  <occupation style="background-color: dark-brown;">Buchhändler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1073380254</idno>
                </person>
             </listPerson>
          </div>
