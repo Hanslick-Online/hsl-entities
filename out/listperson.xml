@@ -767,6 +767,7 @@
                      <bibl n="hsl_work_id_2484">Konzerte, Klavier, Streichorch in a-Moll, MWV O 2</bibl>
                      <bibl n="hsl_work_id_2485">Konzerte, Violine, Orchester in e-Moll, op.64</bibl>
                      <bibl n="hsl_work_id_2502">Ouvertüre in C-Dur, MWV P 2</bibl>
+                     <bibl n="hsl_work_id_2848">Scherzo für Klavier in e-Moll, MWV U 71</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_22">
@@ -1333,6 +1334,8 @@
                      <bibl n="hsl_work_id_2833">Intermezzo für Klavier in E-Dur, op. 116 Nr. 4</bibl>
                      <bibl n="hsl_work_id_2834">Intermezzo für Klavier in E-Dur, op. 116 Nr. 6</bibl>
                      <bibl n="hsl_work_id_2835">Intermezzo für Klavier in e-Moll, op. 116 Nr. 5</bibl>
+                     <bibl n="hsl_work_id_2850">Capriccio für Klavier in d-Moll, op. 116 Nr. 1</bibl>
+                     <bibl n="hsl_work_id_2851">Intermezzo für Klavier in As-Dur, op. 76 Nr. 3</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_42">
@@ -2640,6 +2643,7 @@
                      <bibl n="hsl_work_id_2395">La vera costanza, Hob. XXVIII:8</bibl>
                      <bibl n="hsl_work_id_2396">L'incontro improvviso, Hob. XXVIII:6</bibl>
                      <bibl n="hsl_work_id_2588">Symphonie in B-Dur, Hob. I:85</bibl>
+                     <bibl n="hsl_work_id_2852">Symphonie in D-Dur, Hob. I:101</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_115">
@@ -12886,6 +12890,9 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118605976</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q183087</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Scarlatti_Familie.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2849">Pastorale</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_894">
                   <persName type="main">
@@ -23904,6 +23911,7 @@
                      <bibl n="hsl_work_id_1152">Le roi d'Ys</bibl>
                      <bibl n="hsl_work_id_2791">Konzert für Klavier und Orchester in f-Moll</bibl>
                      <bibl n="hsl_work_id_2792">Konzert für Violine und Orchester in F-Dur</bibl>
+                     <bibl n="hsl_work_id_2855">Rhapsodie für Orchester in A-Dur</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1756">
@@ -45981,6 +45989,8 @@
                      <bibl n="hsl_work_id_2093">Romanzen für Violine und Orchester in G-Dur, op. 26</bibl>
                      <bibl n="hsl_work_id_2843">Quintett für 2 Violinen, 2 Violen und Cello in C-Dur, op. 5</bibl>
                      <bibl n="hsl_work_id_2844">Oktett für 4 Violinen, 2 Violen und 2 Celli in A-Dur, op. 3</bibl>
+                     <bibl n="hsl_work_id_2856">Karneval i Paris, op. 9</bibl>
+                     <bibl n="hsl_work_id_2857">Quartett für 2 Violinen, Viola und Cello in a-Moll, op. 1</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3499">
@@ -57452,11 +57462,19 @@
                      <bibl n="hsl_work_id_2842">Der 46. Psalm</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4515" role="fictional">
+               <person xml:id="hsl_person_id_4515">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Giorgio</forename>
+                     <surname>Franchetti</surname>
                   </persName>
+                  <birth>1865-1922</birth>
+                  <death>1865-1922</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: dark-green;">Kunstsammler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118977032</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2854">Konzert für Klavier und Orchester in d-Moll</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_4516">
                   <persName type="main">
@@ -57490,6 +57508,48 @@
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2846">Sonate für Cello und Klavier, op. 4</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4519">
+                  <persName type="main">
+                     <forename>Alberto</forename>
+                     <surname>Franchetti</surname>
+                  </persName>
+                  <birth>1860-1942</birth>
+                  <death>1860-1942</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116693347</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2853">Asrael</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4520">
+                  <persName type="main">
+                     <forename>Ferdinando</forename>
+                     <surname>Fontana</surname>
+                  </persName>
+                  <birth>1850-1919</birth>
+                  <death>1850-1919</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <occupation style="background-color: dark-red;">Übersetzer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116647302</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2853">Asrael</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4521" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ijob</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Hiob</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118551353</idno>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_820">Bibel</bibl>
                   </listBibl>
                </person>
             </listPerson>
