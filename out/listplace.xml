@@ -5548,6 +5548,7 @@
                <place xml:id="hsl_place_id_461">
                   <settlement type="P">
                      <placeName type="main">Kraków</placeName>
+                     <placeName type="alternative">Krakau</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>PL, Poland</country>
@@ -5851,6 +5852,9 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3042058/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q347</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4035665-6</idno>
+               </place>
+               <place xml:id="hsl_place_id_524">
+                  <placeName type="main"/>
                </place>
             </listPlace>
          </div>
