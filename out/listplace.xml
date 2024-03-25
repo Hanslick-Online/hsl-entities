@@ -5522,6 +5522,7 @@
                <place xml:id="hsl_place_id_459">
                   <settlement type="P">
                      <placeName type="main">Olomouc</placeName>
+                     <placeName type="alternative">Olmütz</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>CZ, Czechia</country>
@@ -5854,7 +5855,19 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4035665-6</idno>
                </place>
                <place xml:id="hsl_place_id_524">
-                  <placeName type="main"/>
+                  <placeName type="main">Klagenfurt</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2774326/</idno>
+               </place>
+               <place xml:id="hsl_place_id_525">
+                  <placeName type="main">Manchester</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2643123/</idno>
+               </place>
+               <place xml:id="hsl_place_id_526">
+                  <placeName type="main">Orient</placeName>
+               </place>
+               <place xml:id="hsl_place_id_527">
+                  <placeName type="main">Okzident</placeName>
+                     <placeName type="alternative">Occident</placeName>
                </place>
             </listPlace>
          </div>

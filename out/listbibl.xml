@@ -17984,12 +17984,22 @@
             <bibl xml:id="hsl_work_id_2216">
                <title type="main">Die goldene Märchenwelt</title>
                <title type="alternative">Märchenzauber</title>
+               <author ref="#hsl_person_id_2313">
+                  <persName>Gaul, Franz</persName>
+               </author>
                <author ref="#hsl_person_id_3658">
                   <persName>Hassreiter, Josef</persName>
                </author>
                <author ref="#hsl_person_id_3660">
                   <persName>Berté, Heinrich</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_4523">Großmutter</name>
+               <name type="character" ref="#hsl_person_id_4524">Traum</name>
+               <name type="character" ref="#hsl_person_id_4525">Märchenkönigin</name>
+               <name type="character" ref="#hsl_person_id_4526">Rothkäppchen</name>
+               <name type="character" ref="#hsl_person_id_4527">Gestiefelter Kater</name>
+               <name type="character" ref="#hsl_person_id_4528">Dornröschen</name>
+               <name type="character" ref="#hsl_person_id_4529">Aschenbrödel</name>
             </bibl>
             <bibl xml:id="hsl_work_id_2217">
                <title type="main">Jabuka</title>
@@ -22809,6 +22819,42 @@
                   <persName>Svendsen, Johan Severin</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300757743</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2858">
+               <title type="main">České tance I, JB1:107</title>
+               <author ref="#hsl_person_id_1617">
+                  <persName>Smetana, Bedřich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30050182X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2859">
+               <title type="main">Rothkäppchen</title>
+               <author ref="#hsl_person_id_688">
+                  <persName>Grimm, Jacob</persName>
+               </author>
+               <author ref="#hsl_person_id_3011">
+                  <persName>Grimm, Wilhelm</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2860">
+               <title type="main">Aschenputtel</title>
+               <title type="alternative">Aschenbrödel</title>
+               <author ref="#hsl_person_id_688">
+                  <persName>Grimm, Jacob</persName>
+               </author>
+               <author ref="#hsl_person_id_3011">
+                  <persName>Grimm, Wilhelm</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2861">
+               <title type="main">Sneewittchen (Schneeweißchen)</title>
+               <title type="alternative">Schneewittchen</title>
+               <author ref="#hsl_person_id_688">
+                  <persName>Grimm, Jacob</persName>
+               </author>
+               <author ref="#hsl_person_id_3011">
+                  <persName>Grimm, Wilhelm</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>

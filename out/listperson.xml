@@ -10750,6 +10750,9 @@
                      <bibl n="hsl_work_id_1932">Dornröschen</bibl>
                      <bibl n="hsl_work_id_2283">Hänsel und Gretel</bibl>
                      <bibl n="hsl_work_id_2284">Kinder- und Hausmärchen</bibl>
+                     <bibl n="hsl_work_id_2859">Rothkäppchen</bibl>
+                     <bibl n="hsl_work_id_2860">Aschenputtel</bibl>
+                     <bibl n="hsl_work_id_2861">Sneewittchen (Schneeweißchen)</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_689">
@@ -22236,6 +22239,7 @@
                      <bibl n="hsl_work_id_2815">Slepička</bibl>
                      <bibl n="hsl_work_id_2816">Dupák</bibl>
                      <bibl n="hsl_work_id_2817">Obkročák</bibl>
+                     <bibl n="hsl_work_id_2858">České tance I, JB1:107</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1619">
@@ -31407,6 +31411,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q50307954</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2214">Die Puppenfee</bibl>
+                     <bibl n="hsl_work_id_2216">Die goldene Märchenwelt</bibl>
                      <bibl n="hsl_work_id_2227">Rund um Wien</bibl>
                   </listBibl>
                </person>
@@ -34964,6 +34969,10 @@
                      <forename>Johanna</forename>
                      <surname>Fischer-Frey</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Johanna</forename>
+                     <surname>Frey</surname>
+                  </persName>
                   <birth>1867-1907</birth>
                   <death>1867-1907</death>
                   <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
@@ -36607,7 +36616,7 @@
                      <surname>Singer</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
+                     <forename>Therese</forename>
                      <surname>Biedermann</surname>
                   </persName>
                   <birth>1864-1942</birth>
@@ -40080,6 +40089,9 @@
                      <bibl n="hsl_work_id_1932">Dornröschen</bibl>
                      <bibl n="hsl_work_id_2283">Hänsel und Gretel</bibl>
                      <bibl n="hsl_work_id_2284">Kinder- und Hausmärchen</bibl>
+                     <bibl n="hsl_work_id_2859">Rothkäppchen</bibl>
+                     <bibl n="hsl_work_id_2860">Aschenputtel</bibl>
+                     <bibl n="hsl_work_id_2861">Sneewittchen (Schneeweißchen)</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3012" role="fictional">
@@ -57569,6 +57581,149 @@
                   <death>1837-1921</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/132168413</idno>
+               </person>
+               <person xml:id="hsl_person_id_4523" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Großmutter</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2216">Die goldene Märchenwelt</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4524" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Traum</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2216">Die goldene Märchenwelt</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4525" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Märchenkönigin</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2216">Die goldene Märchenwelt</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4526" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Rothkäppchen</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2216">Die goldene Märchenwelt</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4527" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Gestiefelter Kater</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2216">Die goldene Märchenwelt</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4528" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Dornröschen</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2216">Die goldene Märchenwelt</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4529" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Aschenbrödel</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2216">Die goldene Märchenwelt</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4530">
+                  <persName type="main">
+                     <forename>Marie</forename>
+                     <surname>Kohler</surname>
+                  </persName>
+                  <birth>19./20. Jhdt.</birth>
+                  <death>19./20. Jhdt.</death>
+                  <occupation style="background-color: darker-gray;">Tänzerin</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4531">
+                  <persName type="main">
+                     <forename>Franziska</forename>
+                     <surname>Well</surname>
+                  </persName>
+                  <birth>19./20. Jhdt.</birth>
+                  <death>19./20. Jhdt.</death>
+                  <occupation style="background-color: darker-gray;">Tänzerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1026089654</idno>
+               </person>
+               <person xml:id="hsl_person_id_4532">
+                  <persName type="main">
+                     <forename>Hedwig von</forename>
+                     <surname>Haentjens</surname>
+                  </persName>
+                  <birth>1870-1928</birth>
+                  <death>1870-1928</death>
+                  <occupation style="background-color: darker-gray;">Tänzerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1245422367</idno>
+               </person>
+               <person xml:id="hsl_person_id_4533">
+                  <persName type="main">
+                     <forename>Lili</forename>
+                     <surname>Lejo</surname>
+                  </persName>
+                  <birth>1865-1931</birth>
+                  <death>1865-1931</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <occupation style="background-color: dark-red;">Schauspielerin</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q63485518</idno>
+               </person>
+               <person xml:id="hsl_person_id_4534">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Diglas</surname>
+                  </persName>
+                  <birth>19./20. Jhdt.</birth>
+                  <death>19./20. Jhdt.</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4535">
+                  <persName type="main">
+                     <forename>Ferdinand</forename>
+                     <surname>Pagin</surname>
+                  </persName>
+                  <birth>1863-1945</birth>
+                  <death>1863-1945</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/130011886</idno>
+               </person>
+               <person xml:id="hsl_person_id_4536">
+                  <persName type="main">
+                     <forename>Hans</forename>
+                     <surname>Pokorny</surname>
+                  </persName>
+                  <birth>1860-?</birth>
+                  <death>1860-?</death>
+                  <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1041701063</idno>
+               </person>
+               <person xml:id="hsl_person_id_4537">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Stein</surname>
+                  </persName>
+                  <birth>19./20. Jhdt.</birth>
+                  <death>19./20. Jhdt.</death>
+                  <occupation style="background-color: gray;">Sängerin</occupation>
                </person>
             </listPerson>
          </div>
