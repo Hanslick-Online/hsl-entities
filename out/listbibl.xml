@@ -2552,7 +2552,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_248">
                <title type="main">Phantasie für Klavier in C-Dur, D760</title>
-               <title type="alternative">Fantasie</title>
+               <title type="alternative">Fantasie, Wanderer-Phantasie</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -5581,6 +5581,10 @@
                <author ref="#hsl_person_id_2131">
                   <persName>Schloenbach, Carl Arnold</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_4576">Satan</name>
+               <name type="character" ref="#hsl_person_id_4578">Stimme</name>
+               <name type="character" ref="#hsl_person_id_4579">Adam</name>
+               <name type="character" ref="#hsl_person_id_4580">Eva</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1139276069</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_660">
@@ -7397,7 +7401,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_888">
-               <title type="main">Notturno / Nocturne / Noctürne</title>
+               <title type="main">Notturno / Nocturne / Noctürne für Klavier</title>
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_48">
                   <persName>Chopin, Frédéric</persName>
@@ -10238,6 +10242,7 @@
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_4577">Abram</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1038800013</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1220">
@@ -19688,9 +19693,6 @@
                <author ref="#hsl_person_id_100">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
-               <author ref="#hsl_person_id_3959">
-                  <persName>Der Harfner, Augustin</persName>
-               </author>
                <name type="character" ref="#hsl_person_id_3957">Wilhelm Meister</name>
                <name type="character" ref="#hsl_person_id_3960">Friedrich</name>
                <name type="character" ref="#hsl_person_id_3962">Philine</name>
@@ -20095,12 +20097,17 @@
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
+               <author ref="#hsl_person_id_1387">
+                  <persName>Müller, Wilhelm</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300300131</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2497">
-               <title type="main">Polonaise in As-Dur, op. 53</title>
+               <title type="main">Polonaise für Klavier in As-Dur, op. 53</title>
                <author ref="#hsl_person_id_48">
                   <persName>Chopin, Frédéric</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300037643</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2498">
                <title type="main">Symphonische Etüden für Klavier, op. 13</title>
@@ -23085,7 +23092,14 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2895">
-               <title type="main"/>
+               <title type="main">Das Grab im Busento, op. 52</title>
+               <author ref="#hsl_person_id_2151">
+                  <persName>Platen, August von</persName>
+               </author>
+               <author ref="#hsl_person_id_3092">
+                  <persName>Gernsheim, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1250761034</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2896">
                <title type="main">Quartett für 2 Violinen, Viola und Cello in A-Dur</title>
@@ -23202,6 +23216,143 @@
                   <persName>Brahms, Johannes</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1044141654</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2913">
+               <title type="main">Toccata für Klavier in C-Dur, op. 7</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146809</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2914">
+               <title type="main">Andante favori für Klavier in C-Dur, WoO57</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300014910</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2915">
+               <title type="main">Jung Sigurd, op. 64</title>
+               <author ref="#hsl_person_id_1978">
+                  <persName>Dahn, Felix</persName>
+               </author>
+               <author ref="#hsl_person_id_4572">
+                  <persName>Schwalm, Robert</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_4573">Sigurd</name>
+               <name type="character" ref="#hsl_person_id_4574">Liebesgöttin</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2916">
+               <title type="main">Die Holsten in der Hamme</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+               <author ref="#hsl_person_id_1603">
+                  <persName>Groth, Klaus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2917">
+               <title type="main">Die Lotosblume, op. 33 Nr. 3 (Chorfassung)</title>
+               <author ref="#hsl_person_id_116">
+                  <persName>Heine, Heinrich</persName>
+               </author>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300368941</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2918">
+               <title type="main">Konzert für Klavier und Orchester Nr. 2 in A-Dur, S125</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300093934</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2919">
+               <title type="main">Sieben Worte unseres lieben Erlösers und Seeligmachers Jesu Christi so Er am Stamm des Heil: Creutzes gesprochen, SWV478</title>
+               <author ref="#hsl_person_id_1827">
+                  <persName>Schütz, Heinrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300143958</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2920">
+               <title type="main">Der Messias. Ein Heldengedicht</title>
+               <author ref="#hsl_person_id_2381">
+                  <persName>Klopstock, Friedrich Gottlieb</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4126777-1</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2921">
+               <title type="main">Quintett für Violine, Viola, Cello, Kontrabass und Klavier in c-Moll, op. 16</title>
+               <author ref="#hsl_person_id_1268">
+                  <persName>Goetz, Hermann</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300301405</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2922">
+               <title type="main">Lachen und Weinen, D777</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_1824">
+                  <persName>Rückert, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300140835</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2923">
+               <title type="main">Net, tol'ko tot, kto znal, op. 6 Nr. 6</title>
+               <title type="alternative">Nur wer die Sehnsucht kennt</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <author ref="#hsl_person_id_1014">
+                  <persName>Čajkovskij, Pëtr Ilʹič</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30003363X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2924">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2925">
+               <title type="main">2 Venetianiasche Lieder Nr. 1, op. 25 Nr. 17</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_4584">
+                  <persName>Moore, Thomas</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1208801325</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2926">
+               <title type="main">2 Venetianiasche Lieder Nr. 2, op. 25 Nr. 18</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_4584">
+                  <persName>Moore, Thomas</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1053737408</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2927">
+               <title type="main">Fuge für Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2928">
+               <title type="main">Allegro für Klavier in A-Dur</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_890">
+                  <persName>Scarlatti, Alessandro</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2929">
+               <title type="main">Walzer für Klavier in Cis-moll, op. 64 Nr. 2</title>
+               <author ref="#hsl_person_id_48">
+                  <persName>Chopin, Frédéric</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300038089</idno>
             </bibl>
       </listBibl>
       </body>
