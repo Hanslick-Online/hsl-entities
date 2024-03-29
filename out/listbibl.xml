@@ -767,6 +767,7 @@
                <author ref="#hsl_person_id_312">
                   <persName>Verdi, Giuseppe</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_4593">Iago</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300166028</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_75">
@@ -1958,10 +1959,12 @@
                   <persName>Scribe, Eugène</persName>
                </author>
                <name type="character" ref="#hsl_person_id_536">Fra Diavolo</name>
-               <name type="character" ref="#hsl_person_id_612">Lady Pamela</name>
-               <name type="character" ref="#hsl_person_id_616">Lord Cockburn</name>
+               <name type="character" ref="#hsl_person_id_612">Pamela</name>
+               <name type="character" ref="#hsl_person_id_616">Lord Kokbourg</name>
                <name type="character" ref="#hsl_person_id_674">Zerline</name>
                <name type="character" ref="#hsl_person_id_3856">Lorenzo</name>
+               <name type="character" ref="#hsl_person_id_4589">Giacomo</name>
+               <name type="character" ref="#hsl_person_id_4590">Beppo</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300003218</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_195">
@@ -23311,7 +23314,14 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30003363X</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2924">
-               <title type="main"/>
+               <title type="main">Il Templario</title>
+               <author ref="#hsl_person_id_193">
+                  <persName>Nicolai, Otto</persName>
+               </author>
+               <author ref="#hsl_person_id_4603">
+                  <persName>Marini, Girolamo Maria</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7671400-7</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2925">
                <title type="main">2 Venetianiasche Lieder Nr. 1, op. 25 Nr. 17</title>
@@ -23353,6 +23363,74 @@
                   <persName>Chopin, Frédéric</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300038089</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2930">
+               <title type="main">Die Lehre vom Tastsinne und Gemeingefühle auf Versuche gegründet</title>
+               <author ref="#hsl_person_id_4592">
+                  <persName>Weber, Ernst Heinrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2931">
+               <title type="main">Un problème d'art</title>
+               <title type="alternative">Un problême d'art</title>
+               <author ref="#hsl_person_id_177">
+                  <persName>Maurel, Victor</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2932">
+               <title type="main">Otto Nicolais Tagebücher nebst biographischen Ergänzungen</title>
+               <title type="alternative">Otto Nicolai's Tagebuchblätter</title>
+               <author ref="#hsl_person_id_193">
+                  <persName>Nicolai, Otto</persName>
+               </author>
+               <author ref="#hsl_person_id_4596">
+                  <persName>Schröder, Bernhard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2933">
+               <title type="main">Reisende Musikerinnen. Tagebuchblätter</title>
+               <author ref="#hsl_person_id_4605">
+                  <persName>Delia, Max</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2934">
+               <title type="main">Auf der Höhe</title>
+               <author ref="#hsl_person_id_4607">
+                  <persName>Auerbach, Berthold</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2935">
+               <title type="main">Kunstwissenschaft und Kunst (Zur Musik)</title>
+               <author ref="#hsl_person_id_825">
+                  <persName>Spitta, Philipp</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2936">
+               <title type="main">Vom Mittleramt eder Poesie (Zur Musik)</title>
+               <title type="alternative">Vom Mittleramt der Poesie</title>
+               <author ref="#hsl_person_id_825">
+                  <persName>Spitta, Philipp</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2937">
+               <title type="main">Die Wiederbelebung protestantischer Kirchenmusik auf geschichtlicher Grundlage (Zur Musik)</title>
+               <title type="alternative">Die Wiederbelebung der protestantischen Kirchenmusik</title>
+               <author ref="#hsl_person_id_825">
+                  <persName>Spitta, Philipp</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2938">
+               <title type="main">Bach, Händel und Schütz (Zur Musik)</title>
+               <author ref="#hsl_person_id_825">
+                  <persName>Spitta, Philipp</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2939">
+               <title type="main">Marianne v. Ziegler und Joh. Sebastian Bach (Zur Musik)</title>
+               <title type="alternative">Marianne v. Ziegler und J. Seb. Bach</title>
+               <author ref="#hsl_person_id_825">
+                  <persName>Spitta, Philipp</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
