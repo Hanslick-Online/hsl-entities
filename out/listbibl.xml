@@ -20575,10 +20575,15 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2569">
                <title type="main">Paride ed Elena</title>
+               <title type="alternative">Paris und Helena</title>
                <author ref="#hsl_person_id_99">
                   <persName>Gluck, Christoph Willibald</persName>
                </author>
+               <author ref="#hsl_person_id_2142">
+                  <persName>Calzabigi, Ranieri de</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_4163">Paride</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300060378</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2570">
                <title type="main">Musikalisches Skizzenbuch</title>
@@ -23431,6 +23436,55 @@
                <author ref="#hsl_person_id_825">
                   <persName>Spitta, Philipp</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2940">
+               <title type="main">Die älteste Faust-Oper und Goethe's Stellung zur Musik (Zur Musik)</title>
+               <author ref="#hsl_person_id_825">
+                  <persName>Spitta, Philipp</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2941">
+               <title type="main">Faust. Ein Fragment</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4682136-3</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2942">
+               <title type="main">Doktor Faustus</title>
+               <author ref="#hsl_person_id_4609">
+                  <persName>Walter, Ignaz</persName>
+               </author>
+               <author ref="#hsl_person_id_4610">
+                  <persName>Schmieder, Heinrich Gottlieb</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2943">
+               <title type="main">Paris und Helena (Zur Musik)</title>
+               <author ref="#hsl_person_id_825">
+                  <persName>Spitta, Philipp</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2944">
+               <title type="main">Epistulae ex Ponto</title>
+               <title type="alternative">Epistolae</title>
+               <author ref="#hsl_person_id_4612">
+                  <persName>Ovidius Naso, Publius</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4131297-1</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2945">
+               <title type="main">Joseph Haydn in der Darstellung C. F. Pohl's (Zur Musik)</title>
+               <author ref="#hsl_person_id_825">
+                  <persName>Spitta, Philipp</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2946">
+               <title type="main">Georg Friedrich Händel</title>
+               <author ref="#hsl_person_id_1444">
+                  <persName>Chrysander, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4690968-0</idno>
             </bibl>
       </listBibl>
       </body>

@@ -2316,6 +2316,7 @@
                      <bibl n="hsl_work_id_2443">Wilhelm Meisters Lehrjahre</bibl>
                      <bibl n="hsl_work_id_2634">Mignon, op. 79 Nr. 29</bibl>
                      <bibl n="hsl_work_id_2923">Net, tol'ko tot, kto znal, op. 6 Nr. 6</bibl>
+                     <bibl n="hsl_work_id_2941">Faust. Ein Fragment</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_101">
@@ -12311,6 +12312,9 @@
                      <bibl n="hsl_work_id_2937">Die Wiederbelebung protestantischer Kirchenmusik auf geschichtlicher Grundlage (Zur Musik)</bibl>
                      <bibl n="hsl_work_id_2938">Bach, Händel und Schütz (Zur Musik)</bibl>
                      <bibl n="hsl_work_id_2939">Marianne v. Ziegler und Joh. Sebastian Bach (Zur Musik)</bibl>
+                     <bibl n="hsl_work_id_2940">Die älteste Faust-Oper und Goethe's Stellung zur Musik (Zur Musik)</bibl>
+                     <bibl n="hsl_work_id_2943">Paris und Helena (Zur Musik)</bibl>
+                     <bibl n="hsl_work_id_2945">Joseph Haydn in der Darstellung C. F. Pohl's (Zur Musik)</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_826">
@@ -20150,6 +20154,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q65274</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2682">Vierteljahresschrift für Musikwissenschaft</bibl>
+                     <bibl n="hsl_work_id_2946">Georg Friedrich Händel</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1445" role="fictional">
@@ -29132,6 +29137,10 @@
                      <forename>Ranieri de</forename>
                      <surname>Calzabigi</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Ranieri de</forename>
+                     <surname>Calsabigi</surname>
+                  </persName>
                   <birth>1714-1795</birth>
                   <death>1714-1795</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
@@ -29142,6 +29151,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_267">Alceste, Wq. 37</bibl>
                      <bibl n="hsl_work_id_2012">Orfeo ed Euridice, Wq. 30</bibl>
+                     <bibl n="hsl_work_id_2569">Paride ed Elena</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2143">
@@ -58606,6 +58616,72 @@
                   <birth>19./20. Jhdt.</birth>
                   <death>19./20. Jhdt.</death>
                   <occupation style="background-color: light-red;">Musikerin</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4609">
+                  <persName type="main">
+                     <forename>Ignaz</forename>
+                     <surname>Walter</surname>
+                  </persName>
+                  <birth>1755-1822</birth>
+                  <death>1755-1822</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/128988444</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2942">Doktor Faustus</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4610">
+                  <persName type="main">
+                     <forename>Heinrich Gottlieb</forename>
+                     <surname>Schmieder</surname>
+                  </persName>
+                  <birth>1763-1815</birth>
+                  <death>1763-1815</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/115594361</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2942">Doktor Faustus</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4611" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4612">
+                  <persName type="main">
+                     <forename>Publius</forename>
+                     <surname>Ovidius Naso</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Ovid</surname>
+                  </persName>
+                  <birth>43-17 v.u.Z.</birth>
+                  <death>43-17 v.u.Z.</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118590995</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2944">Epistulae ex Ponto</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4613">
+                  <persName type="main">
+                     <forename>Quintus</forename>
+                     <surname>Fabius Maximus Verrucosus</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Fabius</forename>
+                     <surname>Cunctator</surname>
+                  </persName>
+                  <birth>?-203 v.u.Z.</birth>
+                  <death>?-203 v.u.Z.</death>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: light-gray;">Offizier</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118531697</idno>
                </person>
             </listPerson>
          </div>
