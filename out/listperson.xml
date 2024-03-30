@@ -2383,6 +2383,7 @@
                      <bibl n="hsl_work_id_2091">Mireille, CG8</bibl>
                      <bibl n="hsl_work_id_2428">Le vallon, CG 467</bibl>
                      <bibl n="hsl_work_id_2874">Mors et vita, CG33</bibl>
+                     <bibl n="hsl_work_id_2957">Judith (geplantes Oratorium)</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_336">
@@ -5974,6 +5975,7 @@
                      <bibl n="hsl_work_id_2432">Andante</bibl>
                      <bibl n="hsl_work_id_2510">Barcarole, op. 135 Nr. 1</bibl>
                      <bibl n="hsl_work_id_2511">Scherzo, op. 135 Nr. 2</bibl>
+                     <bibl n="hsl_work_id_2949">Selbstbiographie</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_294">
@@ -5989,6 +5991,8 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q168485</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_121">La vestale</bibl>
+                     <bibl n="hsl_work_id_2954">Olimpie</bibl>
+                     <bibl n="hsl_work_id_2955">Agnes von Hohenstaufen</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_295">
@@ -12077,6 +12081,7 @@
                   <birth>1806-1864</birth>
                   <death>1806-1864</death>
                   <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <occupation style="background-color: blue;">Kritiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117454338</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4422796</idno>
                   <listBibl type="authorOf">
@@ -12315,6 +12320,12 @@
                      <bibl n="hsl_work_id_2940">Die älteste Faust-Oper und Goethe's Stellung zur Musik (Zur Musik)</bibl>
                      <bibl n="hsl_work_id_2943">Paris und Helena (Zur Musik)</bibl>
                      <bibl n="hsl_work_id_2945">Joseph Haydn in der Darstellung C. F. Pohl's (Zur Musik)</bibl>
+                     <bibl n="hsl_work_id_2947">Beethoveniana (Zur Musik)</bibl>
+                     <bibl n="hsl_work_id_2948">Jessonda (Zur Musik)</bibl>
+                     <bibl n="hsl_work_id_2951">Carl Maria von Weber (Zur Musik)</bibl>
+                     <bibl n="hsl_work_id_2952">Niels W. Gade (Zur Musik)</bibl>
+                     <bibl n="hsl_work_id_2953">Spontini in Berlin (Zur Musik)</bibl>
+                     <bibl n="hsl_work_id_2956">Johannes Brahms (Zur Musik)</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_826">
@@ -43263,6 +43274,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_259">Athalie, MWV M 16</bibl>
                      <bibl n="hsl_work_id_1942">Die drei Wünsche, op. 42</bibl>
+                     <bibl n="hsl_work_id_2955">Agnes von Hohenstaufen</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3266">
@@ -58682,6 +58694,97 @@
                   <occupation style="background-color: dark-gray;">Politiker</occupation>
                   <occupation style="background-color: light-gray;">Offizier</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118531697</idno>
+               </person>
+               <person xml:id="hsl_person_id_4614">
+                  <persName type="main">
+                     <forename>Antoine-Marin</forename>
+                     <surname>Le Mierre</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Antoine-Marin</forename>
+                     <surname>Lemierre</surname>
+                  </persName>
+                  <birth>1733-1793</birth>
+                  <death>1733-1793</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/123749069</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2950">La veuve du Malabar ou L’Empire des coutumes</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4615">
+                  <persName type="main">
+                     <forename>Charles</forename>
+                     <surname>Brifaut</surname>
+                  </persName>
+                  <birth>1781-1857</birth>
+                  <death>1781-1857</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119454459</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2954">Olimpie</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4616">
+                  <persName type="main">
+                     <forename>Michel</forename>
+                     <surname>Dieulafoy</surname>
+                  </persName>
+                  <birth>1762-1823</birth>
+                  <death>1762-1823</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/100599877</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2954">Olimpie</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4617" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Eva Pogner</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_217">Die Meistersinger von Nürnberg, WWV96</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4618" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Brangäne</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_417">Tristan und Isolde, WWV90</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4619" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Loreley</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Lorelei</surname>
+                  </persName>
+                  <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118892819</idno>
+               </person>
+               <person xml:id="hsl_person_id_4620">
+                  <persName type="main">
+                     <forename>Antoine de</forename>
+                     <surname>Choudens</surname>
+                  </persName>
+                  <birth>1825-1888</birth>
+                  <death>1825-1888</death>
+                  <occupation style="background-color: darker-red;">Musikverleger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1211970817</idno>
+               </person>
+               <person xml:id="hsl_person_id_4621" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
                </person>
             </listPerson>
          </div>
