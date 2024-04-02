@@ -5104,6 +5104,7 @@
                      <bibl n="hsl_work_id_2554">Caprice russe, op. 102</bibl>
                      <bibl n="hsl_work_id_2577">Melodie</bibl>
                      <bibl n="hsl_work_id_2583">Symphonie Nr. 5 in g-Moll, op. 107</bibl>
+                     <bibl n="hsl_work_id_2988">Lied</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_245">
@@ -6278,6 +6279,7 @@
                      <bibl n="hsl_work_id_1402">Des Sängers Fluch</bibl>
                      <bibl n="hsl_work_id_1931">Märchen</bibl>
                      <bibl n="hsl_work_id_1936">Der Wirtin Töchterlein, op. 1 Nr. 2</bibl>
+                     <bibl n="hsl_work_id_2985">Bertran de Born</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_311">
@@ -18279,6 +18281,7 @@
                      <bibl n="hsl_work_id_2586">Esclarmonde</bibl>
                      <bibl n="hsl_work_id_2598">Le Cid</bibl>
                      <bibl n="hsl_work_id_2602">Le carillon</bibl>
+                     <bibl n="hsl_work_id_2986">Serenata</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1303">
@@ -21352,6 +21355,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_B/Barbieri_Carlo.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_956">Ein Abenteuer auf Vorposten</bibl>
+                     <bibl n="hsl_work_id_2987">Lied</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1540">
@@ -51937,6 +51941,10 @@
                      <forename>Gilbrecht-Louis</forename>
                      <surname>Duprez</surname>
                   </persName>
+                  <birth>1806-1896</birth>
+                  <death>1806-1896</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118957260</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q583649</idno>
                </person>
@@ -59037,6 +59045,142 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_2976">Le tribut de Zamora, CG12</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4640" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Wilhelm Tell</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_512">Wilhelm Tell</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4641">
+                  <persName type="main">
+                     <forename>de Born</forename>
+                     <surname>Bertran</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>de Born</forename>
+                     <surname>Bertrand</surname>
+                  </persName>
+                  <birth>1140-1215</birth>
+                  <death>1140-1215</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <occupation style="background-color: light-green;">Troubadour</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118510150</idno>
+               </person>
+               <person xml:id="hsl_person_id_4642" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Chimène</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Chimene</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2598">Le Cid</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4643">
+                  <persName type="main">
+                     <forename>Eduard</forename>
+                     <surname>Lassen</surname>
+                  </persName>
+                  <birth>1830-1904</birth>
+                  <death>1830-1904</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118975773</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2989">Lied</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4644">
+                  <persName type="main">
+                     <forename>Francesco Paolo</forename>
+                     <surname>Tosti</surname>
+                  </persName>
+                  <birth>1846-1916</birth>
+                  <death>1846-1916</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119246635</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2990">Romanze</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4645">
+                  <persName type="main">
+                     <forename>Enrico</forename>
+                     <surname>DeLeva</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Enrico de</forename>
+                     <surname>Leva</surname>
+                  </persName>
+                  <birth>1867-1955</birth>
+                  <death>1867-1955</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1047876299</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2991">Romanze</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4646" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Don José</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1225">Carmen, WD31</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4647" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Elvino</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Elwin</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_352">La sonnambula</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4648" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Beppe</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Beppo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_849">Pagliacci</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4649" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Amonasro</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_982">Aida, H62</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4650" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Guillaume Tell</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_186">Guillaume Tell</bibl>
                   </listBibl>
                </person>
             </listPerson>
