@@ -74,6 +74,12 @@
                <name type="character" ref="#hsl_person_id_4687">Rosine</name>
                <name type="character" ref="#hsl_person_id_4691">Figaro</name>
                <name type="character" ref="#hsl_person_id_4692">Suzanne</name>
+               <name type="character" ref="#hsl_person_id_4695">Bartholo</name>
+               <name type="character" ref="#hsl_person_id_4696">Marceline</name>
+               <name type="character" ref="#hsl_person_id_4697">Chérubin</name>
+               <name type="character" ref="#hsl_person_id_4698">Le comte Almaviva</name>
+               <name type="character" ref="#hsl_person_id_4699">La comtesse</name>
+               <name type="character" ref="#hsl_person_id_4704">Fanchette</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4323525-6</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4">
@@ -94,6 +100,7 @@
                <name type="character" ref="#hsl_person_id_546">Contessa di Almaviva</name>
                <name type="character" ref="#hsl_person_id_622">Marcellina</name>
                <name type="character" ref="#hsl_person_id_661">Susanna</name>
+               <name type="character" ref="#hsl_person_id_4703">Antonio</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300109849</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_148">
@@ -24346,6 +24353,19 @@
                <name type="character" ref="#hsl_person_id_4684">Le comte Almaviva</name>
                <name type="character" ref="#hsl_person_id_4688">Bartholo</name>
                <name type="character" ref="#hsl_person_id_4689">Figaro</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3055">
+               <title type="main">Mater Dolorosa</title>
+               <author ref="#hsl_person_id_4705">
+                  <persName>Vecellio, Tiziano</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3056">
+               <title type="main">Il re pastore</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_4712">Aminta</name>
             </bibl>
       </listBibl>
       </body>
