@@ -7502,14 +7502,12 @@
                <author ref="#hsl_person_id_305">
                   <persName>Thomas, Ambroise</persName>
                </author>
-               <author ref="#hsl_person_id_3965">
-                  <persName>Lothario</persName>
-               </author>
                <name type="character" ref="#hsl_person_id_868">Mignon</name>
                <name type="character" ref="#hsl_person_id_3314">Philine</name>
                <name type="character" ref="#hsl_person_id_3958">Wilhelm Meister</name>
                <name type="character" ref="#hsl_person_id_3961">Frédéric</name>
                <name type="character" ref="#hsl_person_id_3964">Laerte</name>
+               <name type="character" ref="#hsl_person_id_3965">Lothario</name>
                <name type="character" ref="#hsl_person_id_4022">Baron</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300162677</idno>
             </bibl>
@@ -16728,6 +16726,7 @@
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146019</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2045">
                <title type="main">Heinrich Anschütz</title>
@@ -19744,6 +19743,7 @@
                <name type="character" ref="#hsl_person_id_3968">Mariane</name>
                <name type="character" ref="#hsl_person_id_3969">Fräulein Therese</name>
                <name type="character" ref="#hsl_person_id_4023">Marchese, Cipriani</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099206-8</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2444">
                <title type="main">La double échelle</title>
@@ -19782,7 +19782,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2447">
                <title type="main">Raymond ou le Secret de la Reine</title>
-               <title type="alternative">Raymond oder Das Geheimnis</title>
+               <title type="alternative">Raymond, oder: Das Geheimniß</title>
                <author ref="#hsl_person_id_305">
                   <persName>Thomas, Ambroise</persName>
                </author>
@@ -20365,7 +20365,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2531">
-               <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 1 in D-Dur, KV80</title>
+               <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 1 in G-Dur, KV80</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
@@ -20655,14 +20655,14 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4282375-4</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2574">
-               <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 3 in D-Dur, KV387</title>
+               <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 14 in G-Dur, KV387</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300110162</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2575">
-               <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 14 in D-Dur, KV156</title>
+               <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 3 in G-Dur, KV156</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
@@ -24366,6 +24366,12 @@
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
                <name type="character" ref="#hsl_person_id_4712">Aminta</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3057">
+               <title type="main">Fragmente aus Leipzig. 4. (Neue Zeitschrift für Musik, 05.09.1837)</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
