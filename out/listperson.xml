@@ -1003,12 +1003,12 @@
                      <bibl n="hsl_work_id_1217">Grande traité d'instrumentation et d'orchestration modernes</bibl>
                      <bibl n="hsl_work_id_2029">Les nuits d'été, H81</bibl>
                      <bibl n="hsl_work_id_2030">Absence, H81 Nr. 4</bibl>
-                     <bibl n="hsl_work_id_2604">Villanelle, H82</bibl>
-                     <bibl n="hsl_work_id_2605">Au cimetière: Clair de lune, H86</bibl>
-                     <bibl n="hsl_work_id_2606">Sur les lagunes: Lamento, H84</bibl>
-                     <bibl n="hsl_work_id_2607">Le spectre de la rose, H83</bibl>
-                     <bibl n="hsl_work_id_2608">L’île inconnue: Barcarolle, H87</bibl>
-                     <bibl n="hsl_work_id_2609">Absence, H85</bibl>
+                     <bibl n="hsl_work_id_2604">Villanelle, H82 (Les nuits d'été)</bibl>
+                     <bibl n="hsl_work_id_2605">Au cimetière, H86  (Les nuits d'été)</bibl>
+                     <bibl n="hsl_work_id_2606">Sur les lagunes, H84 (Les nuits d'été)</bibl>
+                     <bibl n="hsl_work_id_2607">Le spectre de la rose, H83 (Les nuits d'été)</bibl>
+                     <bibl n="hsl_work_id_2608">L’île inconnue, H87 (Les nuits d'été)</bibl>
+                     <bibl n="hsl_work_id_2609">Absence, H85 (Les nuits d'été)</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_29">
@@ -1370,6 +1370,7 @@
                   </persName>
                   <birth>1826-1895</birth>
                   <death>1826-1895</death>
+                  <occupation style="background-color: orange;">Bühnenbildner</occupation>
                   <occupation style="background-color: darker-cyan;">Maler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/139882537</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1041911</idno>
@@ -1556,7 +1557,7 @@
                      <surname>Cucchi</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
+                     <forename>Claudine</forename>
                      <surname>Couqui</surname>
                   </persName>
                   <birth>1834-1913</birth>
@@ -2309,7 +2310,7 @@
                      <bibl n="hsl_work_id_414">Eine Faust-Symphonie in drei Charakterbildern, S108</bibl>
                      <bibl n="hsl_work_id_441">Heidenröslein, D257</bibl>
                      <bibl n="hsl_work_id_492">Götz von Berlichingen mit der eisernen Hand</bibl>
-                     <bibl n="hsl_work_id_493">Die Leiden des jungen Werthers</bibl>
+                     <bibl n="hsl_work_id_493">Die Leiden des jungen Werther</bibl>
                      <bibl n="hsl_work_id_500">Der Zauberlehrling</bibl>
                      <bibl n="hsl_work_id_513">Clavigo</bibl>
                      <bibl n="hsl_work_id_609">Szenen aus Goethes Faust, WoO3</bibl>
@@ -2408,10 +2409,10 @@
                      <bibl n="hsl_work_id_2428">Le vallon, CG 467</bibl>
                      <bibl n="hsl_work_id_2874">Mors et vita, CG33</bibl>
                      <bibl n="hsl_work_id_2957">Judith (geplantes Oratorium)</bibl>
-                     <bibl n="hsl_work_id_2973">Francesca di Rimini (Entwurf)</bibl>
+                     <bibl n="hsl_work_id_2973">Francesca di Rimini</bibl>
                      <bibl n="hsl_work_id_2974">Cinq-Mars, CG10</bibl>
                      <bibl n="hsl_work_id_2976">Le tribut de Zamora, CG12</bibl>
-                     <bibl n="hsl_work_id_2977">Abälard und Heloise (Entwurf)</bibl>
+                     <bibl n="hsl_work_id_2977">Abälard und Heloise</bibl>
                      <bibl n="hsl_work_id_2978">Requiem, CG80</bibl>
                      <bibl n="hsl_work_id_2979">Le Don Juan de Mozart</bibl>
                      <bibl n="hsl_work_id_2980">Lettres intimes de Berlioz. Préface</bibl>
@@ -3590,9 +3591,8 @@
                      <bibl n="hsl_work_id_1756">Tarantelle di bravura d'après la tarantelle de La muette de Portici für Klavier, S386</bibl>
                      <bibl n="hsl_work_id_2028">La regata veneziana, S.424 Nr. 2</bibl>
                      <bibl n="hsl_work_id_2059">St François de Paule: Marchant sur les flots für Klavier, S175 Nr. 2</bibl>
-                     <bibl n="hsl_work_id_2108">Ungarische Rhapsodie Nr. 7 in d-Moll, S244/7</bibl>
-                     <bibl n="hsl_work_id_2109">Ungarische Rhapsodie Nr. 17 in d-Moll, S244/17</bibl>
-                     <bibl n="hsl_work_id_2110">Ungarische Rhapsodie Nr. 19 in d-Moll, S244/19</bibl>
+                     <bibl n="hsl_work_id_2108">Ungarische Rhapsodie für Orchester Nr. 2 in d-Moll, S359/2</bibl>
+                     <bibl n="hsl_work_id_2109">Ungarische Rhapsodie für Orchester Nr. 4 in d-Moll, S359/4</bibl>
                      <bibl n="hsl_work_id_2122">Polonaise</bibl>
                      <bibl n="hsl_work_id_2162">Venezia e Napoli für Klavier, S159</bibl>
                      <bibl n="hsl_work_id_2238">Der Tanz in der Dorfschenke (Mephisto-Walzer), S110 Nr. 2</bibl>
@@ -3600,7 +3600,6 @@
                      <bibl n="hsl_work_id_2350">Briefwechsel zwischen Wagner und Liszt</bibl>
                      <bibl n="hsl_work_id_2414">Die Allmacht, S376</bibl>
                      <bibl n="hsl_work_id_2493">Réminiscences de Don Juan für Klaver, S418</bibl>
-                     <bibl n="hsl_work_id_2612">Ungarische Rhapsodie Nr. 2 in cis-Moll, S244/2</bibl>
                      <bibl n="hsl_work_id_2795">Rhapsodie</bibl>
                      <bibl n="hsl_work_id_2918">Konzert für Klavier und Orchester Nr. 2 in A-Dur, S125</bibl>
                      <bibl n="hsl_work_id_3021">Réminiscences de Lucrezia Borgia für Klavier, S400</bibl>
@@ -5208,6 +5207,9 @@
                      <bibl n="hsl_work_id_2628">Der Taucher</bibl>
                      <bibl n="hsl_work_id_2629">Der Taucher, D77</bibl>
                      <bibl n="hsl_work_id_2667">Der Pilgrim, D794</bibl>
+                     <bibl n="hsl_work_id_3063">Das Lied von der Glocke, op. 25</bibl>
+                     <bibl n="hsl_work_id_3064">Die Glocke, op. 42</bibl>
+                     <bibl n="hsl_work_id_3065">Das Lied von der Glocke, op. 61</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_249">
@@ -12850,7 +12852,6 @@
                   <birth>1833-1893</birth>
                   <death>1833-1893</death>
                   <occupation style="background-color: orange;">Tänzer</occupation>
-                  <occupation style="background-color: light-green;">Choreograph</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1026723124</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1712898</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_P/Price_Familie.xml</idno>
@@ -14094,8 +14095,8 @@
                   </persName>
                   <birth>1835-1900</birth>
                   <death>1835-1900</death>
-                  <occupation style="background-color: dark-blue;">Theaterdirektor</occupation>
                   <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: dark-blue;">Theaterdirektor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117065641</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q337528</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_J/Jahn_Wilhelm.xml</idno>
@@ -15297,8 +15298,8 @@
                   <birth>1850-1921</birth>
                   <death>1850-1921</death>
                   <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <occupation style="background-color: dark-red;">Übersetzer</occupation>
-                  <occupation style="background-color: blue;">Kritiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11603498X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q71192</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_K/Kalbeck_Max.xml</idno>
@@ -22277,6 +22278,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q553166</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1101">Musikalisches und Persönliches</bibl>
+                     <bibl n="hsl_work_id_3065">Das Lied von der Glocke, op. 61</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1610">
@@ -22963,7 +22965,6 @@
                   <birth>1791-1856</birth>
                   <death>1791-1856</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: red;">Dirigent</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119133911</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q214614</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_L/Lindpaintner_Peter.xml</idno>
@@ -40087,8 +40088,6 @@
                   <birth>1861-1923</birth>
                   <death>1861-1923</death>
                   <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
-                  <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: dark-green;">Journalist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116262028</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3057199</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_D/Dyck_Ernest_van.xml</idno>
@@ -42784,7 +42783,6 @@
                   <birth>1766-1831</birth>
                   <death>1766-1831</death>
                   <occupation style="background-color: light-gray;">Violinist</occupation>
-                  <occupation style="background-color: red;">Dirigent</occupation>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116533676</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q336692</idno>
@@ -47627,7 +47625,7 @@
                      <surname>Werther</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_493">Die Leiden des jungen Werthers</bibl>
+                     <bibl n="hsl_work_id_493">Die Leiden des jungen Werther</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3610">
@@ -52071,6 +52069,9 @@
                   <occupation style="background-color: light-gray;">Violinist</occupation>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/100763871</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3063">Das Lied von der Glocke, op. 25</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3989" role="fictional">
                   <persName type="main">
@@ -52093,9 +52094,12 @@
                   </persName>
                   <birth>1816-1868</birth>
                   <death>1816-1868</death>
-                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <occupation style="background-color: darker-brown;">Musikhändler</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116513772</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3064">Die Glocke, op. 42</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3992">
                   <persName type="main">
@@ -52120,6 +52124,7 @@
                   <death>1861-1897</death>
                   <occupation style="background-color: light-gray;">Violinist</occupation>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116631317</idno>
                </person>
                <person xml:id="hsl_person_id_3995" role="fictional">
@@ -54030,17 +54035,13 @@
                      <surname>Lotte</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_493">Die Leiden des jungen Werthers</bibl>
+                     <bibl n="hsl_work_id_493">Die Leiden des jungen Werther</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4189" role="fictional">
                   <persName type="main">
                      <forename/>
                      <surname>Bailli</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Amtmann</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_823">Werther</bibl>
@@ -54070,7 +54071,7 @@
                      <surname>Fräulein von B.</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_493">Die Leiden des jungen Werthers</bibl>
+                     <bibl n="hsl_work_id_493">Die Leiden des jungen Werther</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4193" role="fictional">
@@ -54079,7 +54080,7 @@
                      <surname>Heinrich</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_493">Die Leiden des jungen Werthers</bibl>
+                     <bibl n="hsl_work_id_493">Die Leiden des jungen Werther</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4194" role="fictional">
@@ -54088,7 +54089,7 @@
                      <surname>Knecht</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_493">Die Leiden des jungen Werthers</bibl>
+                     <bibl n="hsl_work_id_493">Die Leiden des jungen Werther</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4195" role="fictional">
@@ -59892,6 +59893,64 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_3056">Il re pastore</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4713">
+                  <persName type="main">
+                     <forename>Pier Francesco</forename>
+                     <surname>Tosi</surname>
+                  </persName>
+                  <birth>1654-1732</birth>
+                  <death>1654-1732</death>
+                  <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
+                  <occupation style="background-color: dark-orange;">Sänger (Kastrat)</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/100568009</idno>
+               </person>
+               <person xml:id="hsl_person_id_4714" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Aechter von Möspelbrunn</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_682">Waldfräulein. Ein Mährchen in achtzehn Abentheuern</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4715" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Waldfräulein</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_682">Waldfräulein. Ein Mährchen in achtzehn Abentheuern</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4716" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Einsiedel</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_682">Waldfräulein. Ein Mährchen in achtzehn Abentheuern</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4717" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>König</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_30">Waldfräulein</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4718">
+                  <persName type="main">
+                     <forename>Herzog von Burgund</forename>
+                     <surname>Philipp III.</surname>
+                  </persName>
+                  <birth>1396-1467</birth>
+                  <death>1396-1467</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118742167</idno>
                </person>
             </listPerson>
          </div>

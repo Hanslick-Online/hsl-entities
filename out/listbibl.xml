@@ -384,6 +384,7 @@
                <name type="character" ref="#hsl_person_id_548">Grauweiblein</name>
                <name type="character" ref="#hsl_person_id_668">Waldfräulein</name>
                <name type="character" ref="#hsl_person_id_901">Spessart-Fee</name>
+               <name type="character" ref="#hsl_person_id_4717">König</name>
             </bibl>
             <bibl xml:id="hsl_work_id_31">
                <title type="main">Vom Pagen und der Königstochter, op. 140</title>
@@ -4431,8 +4432,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099199-4</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_493">
-               <title type="main">Die Leiden des jungen Werthers</title>
-               <title type="alternative">Werther</title>
+               <title type="main">Die Leiden des jungen Werther</title>
                <author ref="#hsl_person_id_100">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
@@ -5776,6 +5776,9 @@
                <author ref="#hsl_person_id_332">
                   <persName>Zedlitz, Joseph Christian von</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_4714">Aechter von Möspelbrunn</name>
+               <name type="character" ref="#hsl_person_id_4715">Waldfräulein</name>
+               <name type="character" ref="#hsl_person_id_4716">Einsiedel</name>
             </bibl>
             <bibl xml:id="hsl_work_id_683">
                <title type="main">Petite messe solennelle</title>
@@ -17186,25 +17189,18 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2108">
-               <title type="main">Ungarische Rhapsodie Nr. 7 in d-Moll, S244/7</title>
+               <title type="main">Ungarische Rhapsodie für Orchester Nr. 2 in d-Moll, S359/2</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1080092781</idno>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1178730344</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2109">
-               <title type="main">Ungarische Rhapsodie Nr. 17 in d-Moll, S244/17</title>
+               <title type="main">Ungarische Rhapsodie für Orchester Nr. 4 in d-Moll, S359/4</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300411103</idno>
-            </bibl>
-            <bibl xml:id="hsl_work_id_2110">
-               <title type="main">Ungarische Rhapsodie Nr. 19 in d-Moll, S244/19</title>
-               <author ref="#hsl_person_id_164">
-                  <persName>Liszt, Franz</persName>
-               </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300095023</idno>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1178730581</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2111">
                <title type="main">Konzert für Klavier und Orchester Nr. 2 in E-Dur, op. 12</title>
@@ -20882,7 +20878,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2600">
                <title type="main">Husitská, B132</title>
-               <title type="alternative">Husitska</title>
+               <title type="alternative">Husitska, Hussitische</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
@@ -20927,14 +20923,14 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300048173</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2604">
-               <title type="main">Villanelle, H82</title>
+               <title type="main">Villanelle, H82 (Les nuits d'été)</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1072709643</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2605">
-               <title type="main">Au cimetière: Clair de lune, H86</title>
+               <title type="main">Au cimetière, H86  (Les nuits d'été)</title>
                <title type="alternative">Auf dem Friedhof</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
@@ -20942,7 +20938,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1167965779</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2606">
-               <title type="main">Sur les lagunes: Lamento, H84</title>
+               <title type="main">Sur les lagunes, H84 (Les nuits d'été)</title>
                <title type="alternative">Auf den Lagunen</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
@@ -20950,7 +20946,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300762666</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2607">
-               <title type="main">Le spectre de la rose, H83</title>
+               <title type="main">Le spectre de la rose, H83 (Les nuits d'été)</title>
                <title type="alternative">Der Geist der Rose</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
@@ -20958,7 +20954,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1264255144</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2608">
-               <title type="main">L’île inconnue: Barcarolle, H87</title>
+               <title type="main">L’île inconnue, H87 (Les nuits d'été)</title>
                <title type="alternative">Das unbekannte Land</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
@@ -20966,7 +20962,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1167966317</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2609">
-               <title type="main">Absence, H85</title>
+               <title type="main">Absence, H85 (Les nuits d'été)</title>
                <title type="alternative">Trennung</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
@@ -20989,13 +20985,6 @@
                   <persName>Vieuxtemps, Henri</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300271697</idno>
-            </bibl>
-            <bibl xml:id="hsl_work_id_2612">
-               <title type="main">Ungarische Rhapsodie Nr. 2 in cis-Moll, S244/2</title>
-               <author ref="#hsl_person_id_164">
-                  <persName>Liszt, Franz</persName>
-               </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300094930</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2613">
                <title type="main">Camilla, ossia Il sotteraneo</title>
@@ -23729,7 +23718,8 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099198-2</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2973">
-               <title type="main">Francesca di Rimini (Entwurf)</title>
+               <title type="main">Francesca di Rimini</title>
+               <title type="alternative">Opernentwurf</title>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
                </author>
@@ -23769,7 +23759,8 @@
                <name type="character" ref="#hsl_person_id_4639">Hermosa</name>
             </bibl>
             <bibl xml:id="hsl_work_id_2977">
-               <title type="main">Abälard und Heloise (Entwurf)</title>
+               <title type="main">Abälard und Heloise</title>
+               <title type="alternative">Opernentwurf</title>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
                </author>
@@ -24404,6 +24395,39 @@
                   <persName>Massenet, Jules</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300910320</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3062">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3063">
+               <title type="main">Das Lied von der Glocke, op. 25</title>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_3988">
+                  <persName>Romberg, Andreas</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300131968</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3064">
+               <title type="main">Die Glocke, op. 42</title>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_3991">
+                  <persName>Haslinger, Carl</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/114879896X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3065">
+               <title type="main">Das Lied von der Glocke, op. 61</title>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_1608">
+                  <persName>Scholz, Bernhard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1253495289</idno>
             </bibl>
       </listBibl>
       </body>
