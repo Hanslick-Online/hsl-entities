@@ -936,6 +936,7 @@
                      <bibl n="hsl_work_id_2868">Quartett für 2 Violinen, Viola und Cello Nr. 5 in A-Dur, op. 18 Nr. 5</bibl>
                      <bibl n="hsl_work_id_2914">Andante favori für Klavier in C-Dur, WoO57</bibl>
                      <bibl n="hsl_work_id_2998">Quartett für 2 Violinen, Viola und Cello Nr. 7 in F-Dur, op. 59 Nr. 1</bibl>
+                     <bibl n="hsl_work_id_3069">Meeresstille und glückliche Fahrt, op. 112</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_26">
@@ -1500,6 +1501,8 @@
                      <bibl n="hsl_work_id_3010">Etüde für Klavier in a-Moll, op. 25 Nr. 11</bibl>
                      <bibl n="hsl_work_id_3011">Etüde für Klavier in a-Moll, op. 10 Nr. 2</bibl>
                      <bibl n="hsl_work_id_3012">Fantasie für Klavier in f-Moll, op. 49</bibl>
+                     <bibl n="hsl_work_id_3067">Konzert für Klavier und Orchester Nr. 1 in E-Dur, op. 11</bibl>
+                     <bibl n="hsl_work_id_3068">Sonate für Klavier Nr. 2 in b-Moll, op. 35</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_49">
@@ -4397,6 +4400,7 @@
                      <bibl n="hsl_work_id_1365">Geneviève de Brabant</bibl>
                      <bibl n="hsl_work_id_1366">Pépito</bibl>
                      <bibl n="hsl_work_id_1368">Le violoneux</bibl>
+                     <bibl n="hsl_work_id_3070">La permission de dix heures</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_203">
@@ -36767,6 +36771,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q379929</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2465">Le voyage en chine</bibl>
+                     <bibl n="hsl_work_id_3071">La main leste</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2725" role="fictional">
@@ -59953,6 +59958,43 @@
                   <death>1396-1467</death>
                   <occupation style="background-color: dark-cyan;">Adeliger</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118742167</idno>
+               </person>
+               <person xml:id="hsl_person_id_4719">
+                  <persName type="main">
+                     <forename>Édouard</forename>
+                     <surname>Martin</surname>
+                  </persName>
+                  <birth>1828-1866</birth>
+                  <death>1828-1866</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1019644214</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q543640</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3071">La main leste</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4720">
+                  <persName type="main">
+                     <forename>Josef</forename>
+                     <surname>Matras</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116838434</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1705232</idno>
+               </person>
+               <person xml:id="hsl_person_id_4721" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Larose Pompon</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3070">La permission de dix heures</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4722">
+                  <persName type="main">
+                     <forename>Pauline</forename>
+                     <surname>Canissa</surname>
+                  </persName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q95032362</idno>
                </person>
             </listPerson>
          </div>
