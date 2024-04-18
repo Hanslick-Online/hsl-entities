@@ -5629,9 +5629,8 @@
                   </persName>
                   <birth>1819-1896</birth>
                   <death>1819-1896</death>
-                  <occupation style="background-color: orange;">Komponistin</occupation>
                   <occupation style="background-color: dark-blue;">Pianistin</occupation>
-                  <occupation style="background-color: light-blue;">Musiklehrerin</occupation>
+                  <occupation style="background-color: orange;">Komponistin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11861164X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q132232</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Schumann_Ehepaar.xml</idno>
@@ -5650,7 +5649,7 @@
                   <birth>1810-1856</birth>
                   <death>1810-1856</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: blue;">Kritiker</occupation>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
                   <occupation style="background-color: darker-blue;">Redakteur</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118611666</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7351</idno>
@@ -50810,7 +50809,7 @@
                      <bibl n="hsl_work_id_2388">Amen</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3860">
+               <person xml:id="hsl_person_id_3860" role="fictional">
                   <persName type="main">
                      <forename/>
                      <surname>Sylvain</surname>
@@ -50821,9 +50820,6 @@
                   </persName>
                   <birth>1843-1916</birth>
                   <death>1843-1916</death>
-                  <occupation style="background-color: gray;">Schriftstellerin</occupation>
-                  <occupation style="background-color: darker-yellow;">Librettistin</occupation>
-                  <occupation style="background-color: darker-purple;">Monarchin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118638904</idno>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_646">Les dragons de Villars</bibl>
@@ -53449,7 +53445,7 @@
                   </persName>
                   <birth>1867-1947</birth>
                   <death>1867-1947</death>
-                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <occupation style="background-color: dark-gray;">Sängerin (Alt)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116800313</idno>
                </person>
                <person xml:id="hsl_person_id_4132">
@@ -54383,6 +54379,11 @@
                      <forename>Carmen</forename>
                      <surname>Sylva</surname>
                   </persName>
+                  <birth>1843-1916</birth>
+                  <death>1843-1916</death>
+                  <occupation style="background-color: darker-purple;">Monarchin</occupation>
+                  <occupation style="background-color: gray;">Schriftstellerin</occupation>
+                  <occupation style="background-color: darker-yellow;">Librettistin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118638904</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2635">Der junge Haiduck, op. 50 Nr. 4</bibl>
@@ -54416,7 +54417,7 @@
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116610530</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_2639">Romanze</bibl>
+                     <bibl n="hsl_work_id_2639">Romanze für Violine</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4223">
@@ -54430,7 +54431,7 @@
                   <occupation style="background-color: light-gray;">Violinist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119443880</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_2640">Adagio</bibl>
+                     <bibl n="hsl_work_id_2640">Adagio für Violine</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4224">
