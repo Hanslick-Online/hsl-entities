@@ -2411,6 +2411,7 @@
                      <bibl n="hsl_work_id_2982">La Rédemption, CG32. Préface</bibl>
                      <bibl n="hsl_work_id_2983">La critique</bibl>
                      <bibl n="hsl_work_id_2984">Aufsatz über das Dirigiren</bibl>
+                     <bibl n="hsl_work_id_3079">Adagio für Violine</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_336">
@@ -5110,6 +5111,7 @@
                      <bibl n="hsl_work_id_2583">Symphonie Nr. 5 in g-Moll, op. 107</bibl>
                      <bibl n="hsl_work_id_2988">Lied</bibl>
                      <bibl n="hsl_work_id_3020">Morgen, op. 74</bibl>
+                     <bibl n="hsl_work_id_3082">Andante</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_245">
@@ -5766,6 +5768,7 @@
                      <bibl n="hsl_work_id_3033">Talismane, op. 25 Nr. 8</bibl>
                      <bibl n="hsl_work_id_3038">Der arme Peter, op. 53 Nr. 3</bibl>
                      <bibl n="hsl_work_id_3057">Fragmente aus Leipzig. 4. (Neue Zeitschrift für Musik, 05.09.1837)</bibl>
+                     <bibl n="hsl_work_id_3077">Unterm Fenster, op. 34 Nr. 3</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_283">
@@ -6005,6 +6008,7 @@
                      <bibl n="hsl_work_id_2510">Barcarole, op. 135 Nr. 1</bibl>
                      <bibl n="hsl_work_id_2511">Scherzo, op. 135 Nr. 2</bibl>
                      <bibl n="hsl_work_id_2949">Selbstbiographie</bibl>
+                     <bibl n="hsl_work_id_3080">Großes Nonett in F-Dur, op. 31</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_294">
@@ -6548,6 +6552,7 @@
                      <bibl n="hsl_work_id_2518">Konzert für Klarinette und Orchester Nr. 2 in Es-Dur, op. 74</bibl>
                      <bibl n="hsl_work_id_2546">Momento capriccioso op. 12</bibl>
                      <bibl n="hsl_work_id_3053">Silvana</bibl>
+                     <bibl n="hsl_work_id_3081">Trio für Flöte, Cello und Klavier in g-Moll, J259</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_322">
@@ -18856,6 +18861,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Sachs_Hans.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_841">Der dot Mon</bibl>
+                     <bibl n="hsl_work_id_3086">Fastnachtspiele</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1344" role="fictional">
@@ -25106,6 +25112,9 @@
                   <occupation style="background-color: dark-blue;">Organist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118012215</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q553537</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3083">Die Hausmusik in Deutschland in dem 16., 17. und 18. Jahrhunderte</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1839">
                   <persName type="main">
@@ -47404,6 +47413,9 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118536249</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q60724</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_F/Froberger_Johann.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3078">Passacaglia</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3600" role="fictional">
                   <persName type="main">
@@ -59950,6 +59962,9 @@
                   <death>1838-1889</death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116038063</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q708593</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3076">Konzert für Violoncello</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_4730" role="fictional">
                   <persName type="main">
@@ -59981,6 +59996,112 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_2651">L'ami Fritz</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4733" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Léonor de Guzmán</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_380">La Favorite</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4734" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Stentor</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4735" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Jason</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_370">Médée</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4736" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Briareus</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4737">
+                  <persName type="main">
+                     <forename>Friedrich Heinrich von der</forename>
+                     <surname>Hagen</surname>
+                  </persName>
+                  <birth>1780-1856</birth>
+                  <death>1780-1856</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118829130</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q73553</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3084">Minnesänger. Deutsche Liederdichter des zwölften, dreizehnten und vierzehnten Jahrhunderts</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4738">
+                  <persName type="main">
+                     <forename>Friedrich Wilhelm</forename>
+                     <surname>Stade</surname>
+                  </persName>
+                  <birth>1817-1902</birth>
+                  <death>1817-1902</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117194875</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2575206</idno>
+               </person>
+               <person xml:id="hsl_person_id_4739">
+                  <persName type="main">
+                     <forename>Rochus von</forename>
+                     <surname>Liliencron</surname>
+                  </persName>
+                  <birth>1820-1912</birth>
+                  <death>1820-1912</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118728245</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q215701</idno>
+               </person>
+               <person xml:id="hsl_person_id_4740">
+                  <persName type="main">
+                     <forename>Elias Nikolaus</forename>
+                     <surname>Ammerbach</surname>
+                  </persName>
+                  <birth>1530-1597</birth>
+                  <death>1530-1597</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11911139X</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q68171</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3085">Orgel oder Instrument Tabulatur</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4741">
+                  <persName type="main">
+                     <forename>von Reuental</forename>
+                     <surname>Neidhart</surname>
+                  </persName>
+                  <birth>1180-1247</birth>
+                  <death>1180-1247</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118586874</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q62708</idno>
+               </person>
+               <person xml:id="hsl_person_id_4742">
+                  <persName type="main">
+                     <forename>Hermann</forename>
+                     <surname>Schöne</surname>
+                  </persName>
+                  <birth>1836-1902</birth>
+                  <death>1836-1902</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116867272</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1121128</idno>
+               </person>
+               <person xml:id="hsl_person_id_4743">
+                  <persName type="main">
+                     <forename>Karl Phillipp zu</forename>
+                     <surname>Schwarzenberg</surname>
+                  </persName>
+                  <birth>1771-1820</birth>
+                  <death>1771-1820</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118763032</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q163755</idno>
                </person>
             </listPerson>
          </div>
