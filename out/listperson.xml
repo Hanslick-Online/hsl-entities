@@ -4571,7 +4571,6 @@
                   <birth>1726-1795</birth>
                   <death>1726-1795</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: cyan;">Schachspieler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118791818</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q203229</idno>
                </person>
@@ -8031,8 +8030,8 @@
                   <birth>1761-1819</birth>
                   <death>1761-1819</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: dark-gray;">Politiker</occupation>
-                  <occupation style="background-color: dark-red;">Diplomat</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <occupation style="background-color: darker-blue;">Redakteur</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118565796</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q57242</idno>
                   <listBibl type="authorOf">
@@ -25863,7 +25862,6 @@
                   <birth>1866-1950</birth>
                   <death>1866-1950</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
-                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/122783239</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q250952</idno>
                   <listBibl type="authorOf">
@@ -39573,6 +39571,9 @@
                   <occupation style="background-color: green;">Jurist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/100855296</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2660806</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3089">Cathérine ou La croix d'or</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_2962" role="fictional">
                   <persName type="main">
@@ -48167,7 +48168,7 @@
                      <surname>Hassreiter</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
+                     <forename>Joseph</forename>
                      <surname>Haßreiter</surname>
                   </persName>
                   <birth>1845-1940</birth>
@@ -48184,6 +48185,7 @@
                      <bibl n="hsl_work_id_2214">Die Puppenfee</bibl>
                      <bibl n="hsl_work_id_2215">Burschenliebe</bibl>
                      <bibl n="hsl_work_id_2216">Die goldene Märchenwelt</bibl>
+                     <bibl n="hsl_work_id_2756">Die Sirenen-Insel</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3659">
@@ -56336,10 +56338,13 @@
                      <forename>Fernando De</forename>
                      <surname>Lucia</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Fernando da</forename>
+                     <surname>Lucia</surname>
+                  </persName>
                   <birth>1860-1925</birth>
                   <death>1860-1925</death>
                   <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
-                  <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119008645</idno>
                </person>
                <person xml:id="hsl_person_id_4396">
@@ -56376,6 +56381,8 @@
                      <forename>Edoardo</forename>
                      <surname>Sottolano</surname>
                   </persName>
+                  <birth>19./20. Jhdt.</birth>
+                  <death>19./20. Jhdt.</death>
                   <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
                </person>
                <person xml:id="hsl_person_id_4400">
@@ -56413,8 +56420,8 @@
                   </persName>
                   <birth>1858-1941</birth>
                   <death>1858-1941</death>
-                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q6527174?wprov=srpw1_1</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2751">Il birichino</bibl>
@@ -56556,24 +56563,6 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1232">Mala vita</bibl>
-                  </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_4418" role="fictional">
-                  <persName type="main">
-                     <forename>Gianni</forename>
-                     <surname>Rantzau</surname>
-                  </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_1824">I Rantzau</bibl>
-                  </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_4419" role="fictional">
-                  <persName type="main">
-                     <forename>Giacomo</forename>
-                     <surname>Rantzau</surname>
-                  </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_1824">I Rantzau</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4420" role="fictional">
@@ -56742,7 +56731,7 @@
                   </persName>
                   <birth>1443-1513</birth>
                   <death>1443-1513</death>
-                  <occupation style="background-color: yellow;">Pabst</occupation>
+                  <occupation style="background-color: dark-blue;">Papst</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118714090</idno>
                </person>
                <person xml:id="hsl_person_id_4436">
@@ -60102,6 +60091,12 @@
                   <death>1771-1820</death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118763032</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q163755</idno>
+               </person>
+               <person xml:id="hsl_person_id_4744">
+                  <persName type="main">
+                     <forename>Franz Joseph von</forename>
+                     <surname>Wrtby</surname>
+                  </persName>
                </person>
             </listPerson>
          </div>
