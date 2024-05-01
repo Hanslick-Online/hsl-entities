@@ -804,7 +804,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116097701</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q461296</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_2872">Konzertstück</bibl>
+                     <bibl n="hsl_work_id_2872">Konzertstück / Concertstück</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_24">
@@ -933,6 +933,8 @@
                      <bibl n="hsl_work_id_2914">Andante favori für Klavier in C-Dur, WoO57</bibl>
                      <bibl n="hsl_work_id_2998">Quartett für 2 Violinen, Viola und Cello Nr. 7 in F-Dur, op. 59 Nr. 1</bibl>
                      <bibl n="hsl_work_id_3069">Meeresstille und glückliche Fahrt, op. 112</bibl>
+                     <bibl n="hsl_work_id_3095">Sonate für Cello und Klavier Nr. 5 in D-Dur, op. 102 Nr. 2</bibl>
+                     <bibl n="hsl_work_id_3096">Rondo für Klavier</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_26">
@@ -4894,7 +4896,7 @@
                      <bibl n="hsl_work_id_1794">Symphonie Nr.1 in A-Dur, op. 79</bibl>
                      <bibl n="hsl_work_id_2134">Festouvertüre für Orchester und Chor in A-Dur, op. 218</bibl>
                      <bibl n="hsl_work_id_2405">Belsazar, op. 73</bibl>
-                     <bibl n="hsl_work_id_2876">Impromptus</bibl>
+                     <bibl n="hsl_work_id_2876">Impromptus für 2 Klaviere</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_235">
@@ -11967,7 +11969,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117338370</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55901861</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_2875">Impromptus</bibl>
+                     <bibl n="hsl_work_id_2875">Impromptus für 2 Klaviere</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_795">
@@ -15404,8 +15406,8 @@
                      <forename>Amalie</forename>
                      <surname>Weiß</surname>
                   </persName>
-                  <birth>1839 -1899</birth>
-                  <death>1839 -1899</death>
+                  <birth>1839-1899</birth>
+                  <death>1839-1899</death>
                   <occupation style="background-color: dark-gray;">Sängerin (Mezzo-Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117139947</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q86910</idno>
@@ -17788,6 +17790,7 @@
                      <bibl n="hsl_work_id_2624">Česká suita in D-Dur, B93</bibl>
                      <bibl n="hsl_work_id_2783">6 Stücke für Klavier, B110</bibl>
                      <bibl n="hsl_work_id_3003">Quartett für 2 Violinen, Viola und Cello Nr. 10 in Es-Dur, B92</bibl>
+                     <bibl n="hsl_work_id_3093">Quintett für 2 Violinen, Viola, Cell und Klavier Nr. 1 in A-Dur, B28</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1266">
@@ -36556,6 +36559,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1278">La Giocoliera e Un'avventura di Carnevale</bibl>
                      <bibl n="hsl_work_id_2024">Fiammella oder: die Macht der Hölle</bibl>
+                     <bibl n="hsl_work_id_3097">Gräfin Egmont</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2715">
@@ -44547,7 +44551,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q571716</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_P/Pixis_Familie.xml</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_959">Rondo in C-Dur</bibl>
+                     <bibl n="hsl_work_id_959">Rondo für Klavier in C-Dur</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3365">
@@ -53431,6 +53435,9 @@
                   <occupation style="background-color: light-green;">Choreograph</occupation>
                   <occupation style="background-color: orange;">Tänzer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1028556535</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3097">Gräfin Egmont</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_4141">
                   <persName type="main">
@@ -58020,7 +58027,7 @@
                   <occupation style="background-color: red;">Dirigent</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/13767354X</idno>
                </person>
-               <person xml:id="hsl_person_id_4553" role="fictional">
+               <person xml:id="hsl_person_id_4553">
                   <persName type="main">
                      <forename>Emilie</forename>
                      <surname>Tagliana</surname>
@@ -58143,9 +58150,9 @@
                      <forename>Julie</forename>
                      <surname>Salter</surname>
                   </persName>
-                  <birth>1862-?</birth>
-                  <death>1862-?</death>
-                  <occupation style="background-color: gray;">Sängerin</occupation>
+                  <birth>1862-1925</birth>
+                  <death>1862-1925</death>
+                  <occupation style="background-color: dark-gray;">Sängerin (Alt)</occupation>
                </person>
                <person xml:id="hsl_person_id_4564">
                   <persName type="main">
@@ -60111,6 +60118,15 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116713143</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3092">Die Rantzau</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4746" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Gräfin Egmont</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3097">Gräfin Egmont</bibl>
                   </listBibl>
                </person>
             </listPerson>
