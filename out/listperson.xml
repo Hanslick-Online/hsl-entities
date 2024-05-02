@@ -930,7 +930,7 @@
                      <bibl n="hsl_work_id_2866">Quartett für 2 Violinen, Viola und Cello Nr. 3 in D-Dur, op. 18 Nr. 3</bibl>
                      <bibl n="hsl_work_id_2867">Quartett für 2 Violinen, Viola und Cello Nr. 4 in c-Moll, op. 18 Nr. 4</bibl>
                      <bibl n="hsl_work_id_2868">Quartett für 2 Violinen, Viola und Cello Nr. 5 in A-Dur, op. 18 Nr. 5</bibl>
-                     <bibl n="hsl_work_id_2914">Andante favori für Klavier in C-Dur, WoO57</bibl>
+                     <bibl n="hsl_work_id_2914">Andante favori für Klavier in F-Dur, WoO57</bibl>
                      <bibl n="hsl_work_id_2998">Quartett für 2 Violinen, Viola und Cello Nr. 7 in F-Dur, op. 59 Nr. 1</bibl>
                      <bibl n="hsl_work_id_3069">Meeresstille und glückliche Fahrt, op. 112</bibl>
                      <bibl n="hsl_work_id_3095">Sonate für Cello und Klavier Nr. 5 in D-Dur, op. 102 Nr. 2</bibl>
@@ -4134,6 +4134,7 @@
                      <bibl n="hsl_work_id_2763">Sonate für Klavier Nr. 11 in A-Dur, KV331</bibl>
                      <bibl n="hsl_work_id_2845">Divertimento für Violine, Viola und Cello in Es-Dur, KV563</bibl>
                      <bibl n="hsl_work_id_3056">Il re pastore</bibl>
+                     <bibl n="hsl_work_id_3098">Symphonie Nr. 25 in g-Moll, KV183</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_190">
@@ -17775,8 +17776,8 @@
                      <bibl n="hsl_work_id_1916">Quartett für 2 Violinen, Viola und Cello Nr. 14 in As-Dur, B193</bibl>
                      <bibl n="hsl_work_id_1953">Quartett für 2 Violinen, Viola und Cello Nr. 13 in G-Dur, B192</bibl>
                      <bibl n="hsl_work_id_2116">Trio für Violine, Cello und Klavier Nr. 3 in f-Moll, B130</bibl>
-                     <bibl n="hsl_work_id_2123">Slovanské tance, B78</bibl>
-                     <bibl n="hsl_work_id_2124">Slovanské tance, B145</bibl>
+                     <bibl n="hsl_work_id_2123">Slovanské tance, B78 (Klavierfassung)</bibl>
+                     <bibl n="hsl_work_id_2124">Slovanské tance, B145 (Klavierfassung)</bibl>
                      <bibl n="hsl_work_id_2167">Symfonické variace für Orchester, B70</bibl>
                      <bibl n="hsl_work_id_2204">Quartett für Violine, Viola, Cello und Klavier in Es-Dur, B162</bibl>
                      <bibl n="hsl_work_id_2318">V přírodě, B168</bibl>
@@ -17786,11 +17787,12 @@
                      <bibl n="hsl_work_id_2339">Sextett für 2 Violinen, 2 Violen und 2 Celli in A-Dur, B80</bibl>
                      <bibl n="hsl_work_id_2340">Quintett für 2 Violinen, Viola, Cell und Klavier Nr. 2 in A-Dur, B155</bibl>
                      <bibl n="hsl_work_id_2600">Husitská, B132</bibl>
-                     <bibl n="hsl_work_id_2603">Slovanské tance, B147</bibl>
+                     <bibl n="hsl_work_id_2603">Slovanské tance, B147 (Orchesterfassung)</bibl>
                      <bibl n="hsl_work_id_2624">Česká suita in D-Dur, B93</bibl>
                      <bibl n="hsl_work_id_2783">6 Stücke für Klavier, B110</bibl>
                      <bibl n="hsl_work_id_3003">Quartett für 2 Violinen, Viola und Cello Nr. 10 in Es-Dur, B92</bibl>
                      <bibl n="hsl_work_id_3093">Quintett für 2 Violinen, Viola, Cell und Klavier Nr. 1 in A-Dur, B28</bibl>
+                     <bibl n="hsl_work_id_3100">Slovanské tance, B83 (Orchesterfassung)</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1266">
@@ -46954,7 +46956,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename>Vincente</forename>
-                     <surname>Martin / Martini</surname>
+                     <surname>Martin / Martini / Martin y Solar</surname>
                   </persName>
                   <birth>1754-1806</birth>
                   <death>1754-1806</death>
@@ -53859,6 +53861,10 @@
                      <forename>Amalie</forename>
                      <surname>Mollner</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Mollnar</surname>
+                  </persName>
                   <birth>19./20. Jhdt.</birth>
                   <death>19./20. Jhdt.</death>
                   <occupation style="background-color: gray;">Violinistin</occupation>
@@ -58264,7 +58270,7 @@
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116997249</idno>
                </person>
-               <person xml:id="hsl_person_id_4572" role="fictional">
+               <person xml:id="hsl_person_id_4572">
                   <persName type="main">
                      <forename>Robert</forename>
                      <surname>Schwalm</surname>
@@ -58337,7 +58343,7 @@
                      <bibl n="hsl_work_id_659">Das verlorene Paradies, op. 54</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4579">
+               <person xml:id="hsl_person_id_4579" role="fictional">
                   <persName type="main">
                      <forename/>
                      <surname>Adam</surname>
@@ -58346,7 +58352,7 @@
                      <bibl n="hsl_work_id_659">Das verlorene Paradies, op. 54</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4580">
+               <person xml:id="hsl_person_id_4580" role="fictional">
                   <persName type="main">
                      <forename/>
                      <surname>Eva</surname>
@@ -58360,8 +58366,8 @@
                      <forename>Bertha</forename>
                      <surname>Gutmann</surname>
                   </persName>
-                  <birth>19./20. Jhdt.</birth>
-                  <death>19./20. Jhdt.</death>
+                  <birth>1861-1942</birth>
+                  <death>1861-1942</death>
                   <occupation style="background-color: gray;">Sängerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116934018</idno>
                </person>
@@ -58403,15 +58409,6 @@
                      <bibl n="hsl_work_id_2925">2 Venetianiasche Lieder Nr. 1, op. 25 Nr. 17</bibl>
                      <bibl n="hsl_work_id_2926">2 Venetianiasche Lieder Nr. 2, op. 25 Nr. 18</bibl>
                   </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_4585">
-                  <persName type="main">
-                     <forename>?</forename>
-                     <surname>Mollnar</surname>
-                  </persName>
-                  <birth>19./20. Jhdt.</birth>
-                  <death>19./20. Jhdt.</death>
-                  <occupation style="background-color: gray;">Violinistin</occupation>
                </person>
                <person xml:id="hsl_person_id_4586">
                   <persName type="main">
