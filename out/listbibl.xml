@@ -612,6 +612,8 @@
                <name type="character" ref="#hsl_person_id_3952">Tybalt</name>
                <name type="character" ref="#hsl_person_id_3953">Frère Laurent</name>
                <name type="character" ref="#hsl_person_id_3954">Stéphano</name>
+               <name type="character" ref="#hsl_person_id_4752">Le duc de Vérone</name>
+               <name type="character" ref="#hsl_person_id_4753">Gertrude</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300061307</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_57">
@@ -7543,6 +7545,7 @@
                   <persName>Hugo, Victor</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1407">Quasimodo</name>
+               <name type="character" ref="#hsl_person_id_4758">Esmeralda</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4342614-1</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_897">
@@ -17068,6 +17071,7 @@
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_4757">Mireille</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300400357</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2092">
@@ -24668,6 +24672,37 @@
                   <persName>Dvořák, Antonín</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300048203</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3102">
+               <title type="main">Der Hut im Meer</title>
+               <author ref="#hsl_person_id_274">
+                  <persName>Schön, Eduard</persName>
+               </author>
+               <author ref="#hsl_person_id_1018">
+                  <persName>Scheffel, Joseph Victor von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3103">
+               <title type="main">La Esmeralda</title>
+               <author ref="#hsl_person_id_2239">
+                  <persName>Pugni, Cesare</persName>
+               </author>
+               <author ref="#hsl_person_id_4760">
+                  <persName>Perrot, Jules</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_4761">Esmeralda</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3104">
+               <title type="main">Astorga</title>
+               <author ref="#hsl_person_id_1019">
+                  <persName>Abert, Johann Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3105">
+               <title type="main">Johanna von Neapel</title>
+               <author ref="#hsl_person_id_4517">
+                  <persName>Sulzer, Joseph</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>

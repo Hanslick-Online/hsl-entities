@@ -5413,6 +5413,7 @@
                      <bibl n="hsl_work_id_2539">Italienisches Liederspiel</bibl>
                      <bibl n="hsl_work_id_2664">Am oberen Langbathsee</bibl>
                      <bibl n="hsl_work_id_2775">Im Maien!</bibl>
+                     <bibl n="hsl_work_id_3102">Der Hut im Meer</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_275">
@@ -14623,6 +14624,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_586">Ekkehard</bibl>
                      <bibl n="hsl_work_id_756">Heini der Steier</bibl>
+                     <bibl n="hsl_work_id_3102">Der Hut im Meer</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1019">
@@ -14640,6 +14642,7 @@
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_A/Abert_Josef_1832_1915.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3049">Präludium, Fuge und Choral für Orchester</bibl>
+                     <bibl n="hsl_work_id_3104">Astorga</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1020">
@@ -30719,6 +30722,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q934369</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_497">Satanella</bibl>
+                     <bibl n="hsl_work_id_3103">La Esmeralda</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2240">
@@ -57675,6 +57679,9 @@
                   <occupation style="background-color: darker-brown;">Kantor</occupation>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117374237</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3105">Johanna von Neapel</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_4518">
                   <persName type="main">
@@ -60170,6 +60177,88 @@
                   </persName>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116266295</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q95682316</idno>
+               </person>
+               <person xml:id="hsl_person_id_4752" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Le duc de Vérone</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_56">Roméo et Juliette, CG9</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4753" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Gertrude</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_56">Roméo et Juliette, CG9</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4754">
+                  <persName type="main">
+                     <forename>Albert</forename>
+                     <surname>Telek</surname>
+                  </persName>
+                  <birth>1835-1903</birth>
+                  <death>1835-1903</death>
+               </person>
+               <person xml:id="hsl_person_id_4755">
+                  <persName type="main">
+                     <forename>Theodor</forename>
+                     <surname>Wachtel</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4756">
+                  <persName type="main">
+                     <forename>Josefine</forename>
+                     <surname>Pastet</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4757" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Mireille</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2091">Mireille, CG8</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4758" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Esmeralda</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_896">Notre-Dame de Paris</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4759">
+                  <persName type="main">
+                     <forename>Guglielma</forename>
+                     <surname>Salvioni</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4760">
+                  <persName type="main">
+                     <forename>Jules</forename>
+                     <surname>Perrot</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/104344849</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q554284</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3103">La Esmeralda</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4761" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Esmeralda</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3103">La Esmeralda</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
