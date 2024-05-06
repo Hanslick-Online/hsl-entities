@@ -6329,7 +6329,7 @@
                      <bibl n="hsl_work_id_34">Un giorno di regno, H38</bibl>
                      <bibl n="hsl_work_id_35">Un ballo in maschera, H59</bibl>
                      <bibl n="hsl_work_id_59">Rigoletto, H53</bibl>
-                     <bibl n="hsl_work_id_61">Re Lear</bibl>
+                     <bibl n="hsl_work_id_61">Re Lear (Fragment)</bibl>
                      <bibl n="hsl_work_id_74">Otello, H63</bibl>
                      <bibl n="hsl_work_id_145">Nabucco, H39</bibl>
                      <bibl n="hsl_work_id_94">Macbeth, H46</bibl>
@@ -7739,6 +7739,7 @@
                      <bibl n="hsl_work_id_2897">Quartett für 2 Violinen, Viola und Cello in C-Dur, op. 13</bibl>
                      <bibl n="hsl_work_id_2898">Quartett für 2 Violinen, Viola und Cello in G-Dur, op. 12</bibl>
                      <bibl n="hsl_work_id_2899">Lyrische Stücke für Klavier, op. 18</bibl>
+                     <bibl n="hsl_work_id_2900">Ueber den Gräbern der am 13. März Gefallenen</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_415">
@@ -30802,7 +30803,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2857468</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_35">Un ballo in maschera, H59</bibl>
-                     <bibl n="hsl_work_id_61">Re Lear</bibl>
+                     <bibl n="hsl_work_id_61">Re Lear (Fragment)</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2245">
@@ -39000,7 +39001,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119505266</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q184462</idno>
                </person>
-               <person xml:id="hsl_person_id_2912" role="fictional">
+               <person xml:id="hsl_person_id_2912">
                   <persName type="main">
                      <forename>Joseph</forename>
                      <surname>Schreyvogel</surname>
@@ -49015,7 +49016,7 @@
                      <bibl n="hsl_work_id_2677">Abschiedsserenade</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3729" role="fictional">
+               <person xml:id="hsl_person_id_3729">
                   <persName type="main">
                      <forename>Karl</forename>
                      <surname>Gross</surname>
@@ -50718,7 +50719,7 @@
                      <bibl n="hsl_work_id_2388">Amen</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3860" role="fictional">
+               <person xml:id="hsl_person_id_3860">
                   <persName type="main">
                      <forename/>
                      <surname>Sylvain</surname>
@@ -52372,7 +52373,7 @@
                   <death>1816-1887</death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/141691719</idno>
                </person>
-               <person xml:id="hsl_person_id_4028" role="fictional">
+               <person xml:id="hsl_person_id_4028">
                   <persName type="main">
                      <forename>Raffaele</forename>
                      <surname>Scalese</surname>
@@ -52426,7 +52427,7 @@
                      <bibl n="hsl_work_id_2602">Le carillon</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4035" role="fictional">
+               <person xml:id="hsl_person_id_4035">
                   <persName type="main">
                      <forename>Friedrich Wilhelm</forename>
                      <surname>Weiskern</surname>
@@ -52441,7 +52442,7 @@
                      <bibl n="hsl_work_id_2448">Bastien und Bastienne, KV50</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4036" role="fictional">
+               <person xml:id="hsl_person_id_4036">
                   <persName type="main">
                      <forename>Johann Heinrich Friedrich</forename>
                      <surname>Müller</surname>
@@ -54289,7 +54290,7 @@
                   <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11683384X</idno>
                </person>
-               <person xml:id="hsl_person_id_4220" role="fictional">
+               <person xml:id="hsl_person_id_4220">
                   <persName type="main">
                      <forename>Carmen</forename>
                      <surname>Sylva</surname>
@@ -54855,15 +54856,6 @@
                   <persName type="main">
                      <forename/>
                      <surname>Fenton</surname>
-                  </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_218">Die lustigen Weiber von Windsor</bibl>
-                  </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_4268" role="fictional">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Herr Reich</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_218">Die lustigen Weiber von Windsor</bibl>
@@ -57866,12 +57858,13 @@
                </person>
                <person xml:id="hsl_person_id_4534">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>Toni</forename>
                      <surname>Diglas</surname>
                   </persName>
-                  <birth>19./20. Jhdt.</birth>
-                  <death>19./20. Jhdt.</death>
+                  <birth>1871-1962</birth>
+                  <death>1871-1962</death>
                   <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1327359618</idno>
                </person>
                <person xml:id="hsl_person_id_4535">
                   <persName type="main">
@@ -57894,15 +57887,6 @@
                   <death>1860-?</death>
                   <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1041701063</idno>
-               </person>
-               <person xml:id="hsl_person_id_4537">
-                  <persName type="main">
-                     <forename>?</forename>
-                     <surname>Stein</surname>
-                  </persName>
-                  <birth>19./20. Jhdt.</birth>
-                  <death>19./20. Jhdt.</death>
-                  <occupation style="background-color: gray;">Sängerin</occupation>
                </person>
                <person xml:id="hsl_person_id_4538" role="fictional">
                   <persName type="main">
@@ -58222,7 +58206,7 @@
                   <occupation style="background-color: dark-gray;">Politiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118717898</idno>
                </person>
-               <person xml:id="hsl_person_id_4568" role="fictional">
+               <person xml:id="hsl_person_id_4568">
                   <persName type="main">
                      <forename>Josef</forename>
                      <surname>Jelačić von Bužim</surname>
