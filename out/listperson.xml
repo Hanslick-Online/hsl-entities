@@ -5025,6 +5025,11 @@
                      <bibl n="hsl_work_id_2618">La donna del lago</bibl>
                      <bibl n="hsl_work_id_2619">Elisabetta, regina d'Inghilterra</bibl>
                      <bibl n="hsl_work_id_2620">Matilde di Shabran, ossia Bellezza, e cuor di ferro</bibl>
+                     <bibl n="hsl_work_id_3106">La cambiale di matrimonio</bibl>
+                     <bibl n="hsl_work_id_3107">Aureliano in Palmira</bibl>
+                     <bibl n="hsl_work_id_3108">Ricciardo e Zoraide</bibl>
+                     <bibl n="hsl_work_id_3109">Eduardo e Cristina</bibl>
+                     <bibl n="hsl_work_id_3110">Échantillon du Chant de Noël à L'Italienne</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_242">
@@ -27523,6 +27528,7 @@
                      <bibl n="hsl_work_id_1493">Anna Bolena</bibl>
                      <bibl n="hsl_work_id_1498">Parisina</bibl>
                      <bibl n="hsl_work_id_1504">Ugo, Conte di Parigi</bibl>
+                     <bibl n="hsl_work_id_3107">Aureliano in Palmira</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2027">
@@ -28919,6 +28925,7 @@
                      <bibl n="hsl_work_id_450">Il paniere d'amore</bibl>
                      <bibl n="hsl_work_id_456">Il marito e l'amante</bibl>
                      <bibl n="hsl_work_id_544">Tancredi</bibl>
+                     <bibl n="hsl_work_id_3106">La cambiale di matrimonio</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2125">
@@ -42949,6 +42956,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_261">Armida</bibl>
                      <bibl n="hsl_work_id_2619">Elisabetta, regina d'Inghilterra</bibl>
+                     <bibl n="hsl_work_id_3109">Eduardo e Cristina</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3237">
@@ -42980,6 +42988,7 @@
                      <bibl n="hsl_work_id_84">Mosè in Egitto</bibl>
                      <bibl n="hsl_work_id_534">Zelmira</bibl>
                      <bibl n="hsl_work_id_2618">La donna del lago</bibl>
+                     <bibl n="hsl_work_id_3109">Eduardo e Cristina</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3239">
@@ -54178,6 +54187,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/101478976</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2616">Otello</bibl>
+                     <bibl n="hsl_work_id_3108">Ricciardo e Zoraide</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4210">
@@ -60250,6 +60260,76 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_3103">La Esmeralda</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4762" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Urbain</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_105">Les Huguenots</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4763" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Mathilde</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_186">Guillaume Tell</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4764" role="fictional">
+                  <persName type="main">
+                     <forename>Bianca</forename>
+                     <surname>Lucas</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4765">
+                  <persName type="main">
+                     <forename>Leonore</forename>
+                     <surname>Pauli</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116064951</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q95661228</idno>
+               </person>
+               <person xml:id="hsl_person_id_4766">
+                  <persName type="main">
+                     <forename>Anna</forename>
+                     <surname>Reiss</surname>
+                  </persName>
+                  <birth>1836-1915</birth>
+                  <death>1836-1915</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117752916</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q47079479</idno>
+               </person>
+               <person xml:id="hsl_person_id_4767">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Pauli</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4768">
+                  <persName type="main">
+                     <forename>Andrea</forename>
+                     <surname>Nozzari</surname>
+                  </persName>
+                  <birth>1776-1832</birth>
+                  <death>1776-1832</death>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3615906</idno>
+               </person>
+               <person xml:id="hsl_person_id_4769">
+                  <persName type="main">
+                     <forename>Gherardo</forename>
+                     <surname>Bevilacqua-Aldobrandini</surname>
+                  </persName>
+                  <birth>1791-1845</birth>
+                  <death>1791-1845</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/135135702</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q19925861</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3109">Eduardo e Cristina</bibl>
                   </listBibl>
                </person>
             </listPerson>
