@@ -6008,11 +6008,9 @@
                <author ref="#hsl_person_id_721">
                   <persName>Grillparzer, Franz</persName>
                </author>
-               <author ref="#hsl_person_id_4656">
-                  <persName>Melitta</persName>
-               </author>
                <name type="character" ref="#hsl_person_id_1211">Sappho</name>
                <name type="character" ref="#hsl_person_id_4655">Phaon</name>
+               <name type="character" ref="#hsl_person_id_4656">Melitta</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4752753-5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_718">
@@ -7675,7 +7673,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_910">
                <title type="main">La Rédemption, CG32</title>
-               <title type="alternative">Redemption / Die Erlösung</title>
+               <title type="alternative">La Redemption / Die Erlösung</title>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
                </author>
@@ -20849,7 +20847,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2596">
                <title type="main">Abälard und Heloise</title>
-               <title type="alternative">Opernentwurf</title>
+               <title type="alternative">Entwurf</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
@@ -23605,7 +23603,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2957">
-               <title type="main">Judith (geplantes Oratorium)</title>
+               <title type="main">Judith</title>
+               <title type="alternative">Oratorienplan</title>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
                </author>
@@ -23733,7 +23732,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2973">
                <title type="main">Francesca di Rimini</title>
-               <title type="alternative">Opernentwurf</title>
+               <title type="alternative">Entwurf</title>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
                </author>
@@ -23774,7 +23773,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2977">
                <title type="main">Abälard und Heloise</title>
-               <title type="alternative">Opernentwurf</title>
+               <title type="alternative">Entwurf</title>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
                </author>
@@ -23806,7 +23805,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2982">
                <title type="main">La Rédemption, CG32. Préface</title>
-               <title type="alternative">Redemption / Die Erlösung</title>
+               <title type="alternative">La Redemption / Die Erlösung</title>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
                </author>
@@ -23963,7 +23962,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300047789</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3004">
-               <title type="main">Zur Feier der allerhöchsten Vermälung seiner kaiserlichen königlichen apostolischen Majestät des Kaisers Franz Joseph I. mit ihrer königlichen Hoheir der durchlauchtigsten Prinzessin Elisabeth, Herzogin in Baiern, zu Wien am 24. April 1854</title>
+               <title type="main">Zur Feier der allerhöchsten Vermälung seiner kaiserlichen königlichen apostolischen Majestät des Kaisers Franz Joseph I. mit ihrer königlichen Hoheit der durchlauchtigsten Prinzessin Elisabeth, Herzogin in Baiern, zu Wien am 24. April 1854</title>
             </bibl>
             <bibl xml:id="hsl_work_id_3005">
                <title type="main">Symphonie Nr. 1 in c-Moll, op. 5</title>
@@ -24106,8 +24105,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3025">
-               <title type="main">Lustspiel-Ouvertüre</title>
-               <title type="alternative">unklarer Bezug</title>
+               <title type="main">Mariotta</title>
                <author ref="#hsl_person_id_94">
                   <persName>Gade, Niels Wilhelm</persName>
                </author>
@@ -24755,6 +24753,19 @@
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3111">
+               <title type="main">Nordische Sennfahrt, WoO101</title>
+               <author ref="#hsl_person_id_94">
+                  <persName>Gade, Niels Wilhelm</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3112">
+               <title type="main">Talismane</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/121766808X</idno>
             </bibl>
       </listBibl>
       </body>
