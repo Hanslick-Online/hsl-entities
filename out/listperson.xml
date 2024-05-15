@@ -6695,7 +6695,6 @@
                   <birth>1834-1897</birth>
                   <death>1834-1897</death>
                   <occupation style="background-color: dark-red;">Schauspielerin</occupation>
-                  <occupation style="background-color: dark-gray;">Sängerin (Mezzo-Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11880782X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q72173</idno>
                </person>
@@ -8542,7 +8541,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Camoën</surname>
+                     <surname>Camoëns</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_169">Indra, das Schlangenmädchen</bibl>
@@ -15016,6 +15015,7 @@
                      <bibl n="hsl_work_id_3046">Arabisk dans, op. 55 Nr. 2</bibl>
                      <bibl n="hsl_work_id_3047">Solveigs sang, op. 55 Nr. 4</bibl>
                      <bibl n="hsl_work_id_3048">I Dovregubbens hall, op. 46 Nr. 4</bibl>
+                     <bibl n="hsl_work_id_3114">Peer Gynt, op. 23</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1043">
@@ -29280,6 +29280,7 @@
                      <bibl n="hsl_work_id_1965">En Svane, op. 25 Nr. 2</bibl>
                      <bibl n="hsl_work_id_2176">Samfundets Støtter</bibl>
                      <bibl n="hsl_work_id_2322">Peer Gynt</bibl>
+                     <bibl n="hsl_work_id_3114">Peer Gynt, op. 23</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2146">
@@ -60345,6 +60346,33 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_169">Indra, das Schlangenmädchen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4771" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Peer Gynt</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2322">Peer Gynt</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4772" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Aase Gynt</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2322">Peer Gynt</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4773" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ingrid</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2322">Peer Gynt</bibl>
                   </listBibl>
                </person>
             </listPerson>

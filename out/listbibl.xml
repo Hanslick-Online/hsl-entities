@@ -4455,7 +4455,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_495">
                <title type="main">Preciosa, J279</title>
-               <title type="alternative">Präciosa</title>
+               <title type="alternative">Präciosa / Präziosa</title>
                <author ref="#hsl_person_id_321">
                   <persName>Weber, Carl Maria von</persName>
                </author>
@@ -18889,6 +18889,9 @@
                <author ref="#hsl_person_id_2145">
                   <persName>Ibsen, Henrik</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_4771">Peer Gynt</name>
+               <name type="character" ref="#hsl_person_id_4772">Aase Gynt</name>
+               <name type="character" ref="#hsl_person_id_4773">Ingrid</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4256031-7</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2323">
@@ -24767,6 +24770,16 @@
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/121766808X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3114">
+               <title type="main">Peer Gynt, op. 23</title>
+               <author ref="#hsl_person_id_1042">
+                  <persName>Grieg, Edvard</persName>
+               </author>
+               <author ref="#hsl_person_id_2145">
+                  <persName>Ibsen, Henrik</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300062451</idno>
             </bibl>
       </listBibl>
       </body>
