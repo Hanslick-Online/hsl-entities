@@ -15021,7 +15021,10 @@
                      <bibl n="hsl_work_id_3046">Arabisk dans, op. 55 Nr. 2</bibl>
                      <bibl n="hsl_work_id_3047">Solveigs sang, op. 55 Nr. 4</bibl>
                      <bibl n="hsl_work_id_3048">I Dovregubbens hall, op. 46 Nr. 4</bibl>
+                     <bibl n="hsl_work_id_3099">Morgenstemning, op. 46 Nr. 1</bibl>
                      <bibl n="hsl_work_id_3114">Peer Gynt, op. 23</bibl>
+                     <bibl n="hsl_work_id_3116">Anitras dans, op. 46 Nr. 3</bibl>
+                     <bibl n="hsl_work_id_3117">Åses død, op. 46 Nr. 1</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1043">
@@ -17815,6 +17818,9 @@
                      <bibl n="hsl_work_id_3003">Quartett für 2 Violinen, Viola und Cello Nr. 10 in Es-Dur, B92</bibl>
                      <bibl n="hsl_work_id_3093">Quintett für 2 Violinen, Viola, Cell und Klavier Nr. 1 in A-Dur, B28</bibl>
                      <bibl n="hsl_work_id_3100">Slovanské tance, B83 (Orchesterfassung)</bibl>
+                     <bibl n="hsl_work_id_3115">Symphonie Nr. 8 in G-Dur, B163</bibl>
+                     <bibl n="hsl_work_id_3118">Symphonie Nr. 6 in D-Dur, B112</bibl>
+                     <bibl n="hsl_work_id_3119">Symphonie Nr. 7 in d-Moll, B141</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1266">
@@ -24358,6 +24364,10 @@
                   <persName type="main">
                      <forename>Ida</forename>
                      <surname>Baier-Liebhardt</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Ida</forename>
+                     <surname>Bayer</surname>
                   </persName>
                   <birth>1856-1933</birth>
                   <death>1856-1933</death>
@@ -33563,6 +33573,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q824822</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1459">Die Göttin der Vernunft</bibl>
+                     <bibl n="hsl_work_id_3120">Die Flüchtlinge</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2466">
@@ -46075,6 +46086,11 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2213">Die Hochzeit im Frisiersalon</bibl>
                      <bibl n="hsl_work_id_2756">Die Sirenen-Insel</bibl>
+                     <bibl n="hsl_work_id_3120">Die Flüchtlinge</bibl>
+                     <bibl n="hsl_work_id_3121">Bei dir allein!</bibl>
+                     <bibl n="hsl_work_id_3122">Wärst du mein eigen!</bibl>
+                     <bibl n="hsl_work_id_3123">Dich will ich ewig lieben!</bibl>
+                     <bibl n="hsl_work_id_3124">Schläfst du, Liebchen, schläfst du schon?</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3490">
@@ -61003,6 +61019,103 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_2322">Peer Gynt</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4784">
+                  <persName type="main">
+                     <forename>Ludwig</forename>
+                     <surname>Passarge</surname>
+                  </persName>
+                  <birth>1825-1912</birth>
+                  <death>1825-1912</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: dark-red;">Übersetzer</occupation>
+                  <occupation style="background-color: gray;">Herausgeber</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116051965</idno>
+               </person>
+               <person xml:id="hsl_person_id_4785" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Gusti</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3120">Die Flüchtlinge</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4786" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Bertha</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3120">Die Flüchtlinge</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4787" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Emma von Gleichen</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3120">Die Flüchtlinge</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4788" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Baron Lippnick</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3120">Die Flüchtlinge</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4789" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Johann Eisenrost</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3120">Die Flüchtlinge</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4790" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Prinz Lambignac</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Larassi</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3120">Die Flüchtlinge</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4791" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Graf Dumont</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3120">Die Flüchtlinge</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4792" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Theobald von Bander</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3120">Die Flüchtlinge</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4793" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Soldat</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3120">Die Flüchtlinge</bibl>
                   </listBibl>
                </person>
             </listPerson>
