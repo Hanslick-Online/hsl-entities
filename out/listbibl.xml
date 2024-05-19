@@ -5552,12 +5552,14 @@
             </bibl>
             <bibl xml:id="hsl_work_id_647">
                <title type="main">Marie</title>
+               <title type="alternative">Verborgene Liebe</title>
                <author ref="#hsl_person_id_122">
                   <persName>Hérold, Ferdinand</persName>
                </author>
                <author ref="#hsl_person_id_2036">
                   <persName>Planard, Eugène de</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_4808">Marie</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4476528-9</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_649">
@@ -13633,6 +13635,7 @@
             <bibl xml:id="hsl_work_id_1622">
                <title type="main">Tausendundeine Nacht</title>
                <title type="alternative">Märchen aus 1001 Nacht</title>
+               <name type="character" ref="#hsl_person_id_4806">Alāʾ ad-Dīn</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4270241-0</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1623">
@@ -14201,7 +14204,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1701">
                <title type="main">Le pré aux clercs</title>
-               <title type="alternative">Le pré aux cleres / Der Zweikampf</title>
+               <title type="alternative">Le pré aux cleres / Le Pré-aux-Clercs / Der Zweikampf</title>
                <author ref="#hsl_person_id_122">
                   <persName>Hérold, Ferdinand</persName>
                </author>
@@ -20055,7 +20058,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300171846</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2480">
-               <title type="main">Duos, Klarinette, Klavier in Es-Dur, op.48</title>
+               <title type="main">Grand duo concertant für Klarinette und Klavier in Es-Dur, J204</title>
                <author ref="#hsl_person_id_321">
                   <persName>Weber, Carl Maria von</persName>
                </author>
@@ -24877,13 +24880,14 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3125">
                <title type="main">La clochette</title>
-               <title type="alternative">Das Zauberglöckchen</title>
+               <title type="alternative">Les clochettes / Das Zauberglöckchen</title>
                <author ref="#hsl_person_id_122">
                   <persName>Hérold, Ferdinand</persName>
                </author>
                <author ref="#hsl_person_id_2093">
                   <persName>Théaulon de Lambert, Marie-Emmanuel Guillaume Marguerite</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_4807">Azolin</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7582394-9</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3126">
@@ -24906,6 +24910,72 @@
                <author ref="#hsl_person_id_4802">
                   <persName>Duval, Georges</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3128">
+               <title type="main">Konzert für Klavier und Orchester Nr. 1 in C-Dur, J98</title>
+               <author ref="#hsl_person_id_321">
+                  <persName>Weber, Carl Maria von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300171625</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3129">
+               <title type="main">Charles de France</title>
+               <author ref="#hsl_person_id_36">
+                  <persName>Boieldieu, François Adrien</persName>
+               </author>
+               <author ref="#hsl_person_id_122">
+                  <persName>Hérold, Ferdinand</persName>
+               </author>
+               <author ref="#hsl_person_id_2093">
+                  <persName>Théaulon de Lambert, Marie-Emmanuel Guillaume Marguerite</persName>
+               </author>
+               <author ref="#hsl_person_id_4805">
+                  <persName>Artois, Achille d'</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3130">
+               <title type="main">Les rosières</title>
+               <author ref="#hsl_person_id_122">
+                  <persName>Hérold, Ferdinand</persName>
+               </author>
+               <author ref="#hsl_person_id_2093">
+                  <persName>Théaulon de Lambert, Marie-Emmanuel Guillaume Marguerite</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1152083864</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3132">
+               <title type="main">Aladin ou la lampe merveilleuse</title>
+               <author ref="#hsl_person_id_133">
+                  <persName>Isouard, Niccolò</persName>
+               </author>
+               <author ref="#hsl_person_id_780">
+                  <persName>Etienne, Charles Guillaume</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1238841945</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3133">
+               <title type="main">La fille mal gardée</title>
+               <author ref="#hsl_person_id_122">
+                  <persName>Hérold, Ferdinand</persName>
+               </author>
+               <author ref="#hsl_person_id_3365">
+                  <persName>Aumer, Jean Pierre</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300272049</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3134">
+               <title type="main">La somnambule</title>
+               <title type="alternative">Somnambule villageoise</title>
+               <author ref="#hsl_person_id_122">
+                  <persName>Hérold, Ferdinand</persName>
+               </author>
+               <author ref="#hsl_person_id_284">
+                  <persName>Scribe, Eugène</persName>
+               </author>
+               <author ref="#hsl_person_id_3365">
+                  <persName>Aumer, Jean Pierre</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7585907-5</idno>
             </bibl>
       </listBibl>
       </body>
