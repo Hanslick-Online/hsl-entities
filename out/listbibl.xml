@@ -782,6 +782,7 @@
                   <persName>Verdi, Giuseppe</persName>
                </author>
                <name type="character" ref="#hsl_person_id_4593">Iago</name>
+               <name type="character" ref="#hsl_person_id_4814">Desdemona</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300166028</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_75">
@@ -7109,6 +7110,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_848">
                <title type="main">Cavalleria rusticana</title>
+               <title type="alternative">Sicilianische Bauernehre / Ländliche Ritterlichkeit</title>
                <author ref="#hsl_person_id_993">
                   <persName>Mascagni, Pietro</persName>
                </author>
@@ -7122,6 +7124,7 @@
                <name type="character" ref="#hsl_person_id_4231">Turiddu</name>
                <name type="character" ref="#hsl_person_id_4401">Alfio</name>
                <name type="character" ref="#hsl_person_id_4402">Lola</name>
+               <name type="character" ref="#hsl_person_id_4812">Lucia</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300099819</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_849">
@@ -24976,6 +24979,64 @@
                   <persName>Aumer, Jean Pierre</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7585907-5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3135">
+               <title type="main">Il pirata</title>
+               <title type="alternative">Piraten</title>
+               <author ref="#hsl_person_id_26">
+                  <persName>Bellini, Vincenzo</persName>
+               </author>
+               <author ref="#hsl_person_id_2026">
+                  <persName>Romani, Felice</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300017901</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3136">
+               <title type="main">Cavalleria rusticana</title>
+               <author ref="#hsl_person_id_2005">
+                  <persName>Verga, Giovanni</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4400983-5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3137">
+               <title type="main">Flora mirabilis</title>
+               <author ref="#hsl_person_id_2307">
+                  <persName>Samaras, Spyros</persName>
+               </author>
+               <author ref="#hsl_person_id_4520">
+                  <persName>Fontana, Ferdinando</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1305193946</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3138">
+               <title type="main">Mefistofele</title>
+               <author ref="#hsl_person_id_37">
+                  <persName>Boito, Arrigo</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_4815">Faust</name>
+               <name type="character" ref="#hsl_person_id_4816">Margherita</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1106565770</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3139">
+               <title type="main">Zur Erklärung der Cavalleria rusticana (Sizilianische Bauernehre)</title>
+               <author ref="#hsl_person_id_4234">
+                  <persName>Pudor, Heinrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3140">
+               <title type="main">La Périchole</title>
+               <author ref="#hsl_person_id_202">
+                  <persName>Offenbach, Jacques</persName>
+               </author>
+               <author ref="#hsl_person_id_2061">
+                  <persName>Halévy, Ludovic</persName>
+               </author>
+               <author ref="#hsl_person_id_2062">
+                  <persName>Meilhac, Henri</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_4817">Piquillo</name>
+               <name type="character" ref="#hsl_person_id_4818">La Périchole</name>
+               <name type="character" ref="#hsl_person_id_4819">Don Andrès de Ribeira</name>
             </bibl>
       </listBibl>
       </body>

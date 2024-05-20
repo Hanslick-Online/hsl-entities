@@ -952,6 +952,7 @@
                      <bibl n="hsl_work_id_177">I puritani</bibl>
                      <bibl n="hsl_work_id_352">La sonnambula</bibl>
                      <bibl n="hsl_work_id_1218">I Capuleti e i Montecchi</bibl>
+                     <bibl n="hsl_work_id_3135">Il pirata</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_27">
@@ -1153,6 +1154,7 @@
                      <bibl n="hsl_work_id_74">Otello, H63</bibl>
                      <bibl n="hsl_work_id_200">Falstaff, H64</bibl>
                      <bibl n="hsl_work_id_650">Inno delle nazioni, H2</bibl>
+                     <bibl n="hsl_work_id_3138">Mefistofele</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_38">
@@ -4399,6 +4401,7 @@
                      <bibl n="hsl_work_id_1368">Le violoneux</bibl>
                      <bibl n="hsl_work_id_3070">La permission de dix heures</bibl>
                      <bibl n="hsl_work_id_3073">Robinson Crusoé</bibl>
+                     <bibl n="hsl_work_id_3140">La Périchole</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_203">
@@ -27249,6 +27252,9 @@
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118626558</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q271814</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3136">Cavalleria rusticana</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_2006">
                   <persName type="main">
@@ -27575,6 +27581,7 @@
                      <bibl n="hsl_work_id_1498">Parisina</bibl>
                      <bibl n="hsl_work_id_1504">Ugo, Conte di Parigi</bibl>
                      <bibl n="hsl_work_id_3107">Aureliano in Palmira</bibl>
+                     <bibl n="hsl_work_id_3135">Il pirata</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2027">
@@ -28024,6 +28031,7 @@
                      <bibl n="hsl_work_id_1516">Le réveillon</bibl>
                      <bibl n="hsl_work_id_2164">Froufrou</bibl>
                      <bibl n="hsl_work_id_2713">Naida</bibl>
+                     <bibl n="hsl_work_id_3140">La Périchole</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2062">
@@ -28046,6 +28054,7 @@
                      <bibl n="hsl_work_id_1225">Carmen, WD31</bibl>
                      <bibl n="hsl_work_id_1516">Le réveillon</bibl>
                      <bibl n="hsl_work_id_2164">Froufrou</bibl>
+                     <bibl n="hsl_work_id_3140">La Périchole</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2063">
@@ -31567,11 +31576,18 @@
                      <forename>Spyros</forename>
                      <surname>Samaras</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Samara</surname>
+                  </persName>
                   <birth>1861-1917</birth>
                   <death>1861-1917</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/124252990</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q381436</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3137">Flora mirabilis</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_2308">
                   <persName type="main">
@@ -54704,6 +54720,10 @@
                      <forename/>
                      <surname>Turiddu</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Turriddu</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_848">Cavalleria rusticana</bibl>
                   </listBibl>
@@ -54754,6 +54774,9 @@
                   <occupation style="background-color: dark-green;">Journalist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11630734X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q96349</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3139">Zur Erklärung der Cavalleria rusticana (Sizilianische Bauernehre)</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_4235">
                   <persName type="main">
@@ -58185,6 +58208,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q653839</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2853">Asrael</bibl>
+                     <bibl n="hsl_work_id_3137">Flora mirabilis</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4521" role="fictional">
@@ -61334,6 +61358,101 @@
                   <death>1812-1868</death>
                   <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116248041</idno>
+               </person>
+               <person xml:id="hsl_person_id_4812" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Lucia</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_848">Cavalleria rusticana</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4813">
+                  <persName type="main">
+                     <forename>Oskar</forename>
+                     <surname>Berggruen</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Berggrün</surname>
+                  </persName>
+                  <birth>1842-1903</birth>
+                  <death>1842-1903</death>
+                  <occupation style="background-color: dark-orange;">Kunsthistoriker</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: dark-red;">Übersetzer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/127520643</idno>
+               </person>
+               <person xml:id="hsl_person_id_4814" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Desdemona</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_74">Otello, H63</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4815" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Faust</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3138">Mefistofele</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4816" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Margherita</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Margarete / Margarethe / Gretchen</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3138">Mefistofele</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4817" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Piquillo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3140">La Périchole</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4818" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>La Périchole</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3140">La Périchole</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4819" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Don Andrès de Ribeira</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3140">La Périchole</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4820">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Schwabe</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4821">
+                  <persName type="main">
+                     <forename>Emma</forename>
+                     <surname>Hirsch</surname>
+                  </persName>
                </person>
             </listPerson>
          </div>
