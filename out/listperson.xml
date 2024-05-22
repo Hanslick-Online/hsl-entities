@@ -937,6 +937,8 @@
                      <bibl n="hsl_work_id_3096">Rondo für Klavier</bibl>
                      <bibl n="hsl_work_id_3141">Trio für Violine, Cello und Klavier, op. 1</bibl>
                      <bibl n="hsl_work_id_3144">Der Kuß, op. 128</bibl>
+                     <bibl n="hsl_work_id_3159">Das Glück der Freundschaft, op. 88</bibl>
+                     <bibl n="hsl_work_id_3160">Seufzer eines Ungeliebten und Gegenliebe, WoO118</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_26">
@@ -2344,6 +2346,7 @@
                      <bibl n="hsl_work_id_3033">Talismane, op. 25 Nr. 8</bibl>
                      <bibl n="hsl_work_id_3112">Talismane</bibl>
                      <bibl n="hsl_work_id_3147">Hochzeitslied, op. 20 Nr. 1</bibl>
+                     <bibl n="hsl_work_id_3162">Grenzen der Menschheit, D716</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_101">
@@ -4156,6 +4159,9 @@
                      <bibl n="hsl_work_id_2845">Divertimento für Violine, Viola und Cello in Es-Dur, KV563</bibl>
                      <bibl n="hsl_work_id_3056">Il re pastore</bibl>
                      <bibl n="hsl_work_id_3098">Symphonie Nr. 25 in g-Moll, KV183</bibl>
+                     <bibl n="hsl_work_id_3155">Splendente te, Deus, KV121a</bibl>
+                     <bibl n="hsl_work_id_3156">Jesu, Rex tremendae majestatis, KV123a</bibl>
+                     <bibl n="hsl_work_id_3157">Ne pulvis et cinis, KV122a</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_190">
@@ -5613,6 +5619,7 @@
                      <bibl n="hsl_work_id_3008">Divertissement sur des motifs originaux français in e-Moll für Klavier zu 4 Händen, D823</bibl>
                      <bibl n="hsl_work_id_3016">Rüdigers Heimkehr, D 791</bibl>
                      <bibl n="hsl_work_id_3017">Sehnsucht, D656</bibl>
+                     <bibl n="hsl_work_id_3162">Grenzen der Menschheit, D716</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_280">
@@ -6465,6 +6472,7 @@
                      <bibl n="hsl_work_id_1304">Quartett für 2 Violinen, Viola und Cello Nr. 2 in g-Moll, op. 14</bibl>
                      <bibl n="hsl_work_id_2353">Trio für Violine, Cello und Klavier Nr. 1 in F-Dur, op. 3</bibl>
                      <bibl n="hsl_work_id_2354">Trio für Violine, Cello und Klavier Nr. 2 in b-Moll, op. 5</bibl>
+                     <bibl n="hsl_work_id_3158">Serenade für Cello und Orchester Nr. 3, op. 69</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_318">
@@ -27569,6 +27577,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2437939</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1291">Thamos, König in Ägypten, KV345</bibl>
+                     <bibl n="hsl_work_id_3154">Thamos, König in Ägypten</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2026">
@@ -53805,6 +53814,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q878610</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2557">Das Meer, op. 31</bibl>
+                     <bibl n="hsl_work_id_3163">Symphonische Variationen für Orchester in c-Moll, op. 27</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4153">
@@ -54891,8 +54901,8 @@
                   </persName>
                   <birth>1821-1893</birth>
                   <death>1821-1893</death>
-                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <occupation style="background-color: dark-pink;">Schuldirektor</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/130250252</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1448151</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_M/Mair_Franz.xml</idno>
@@ -61550,11 +61560,16 @@
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11661868X</idno>
                </person>
-               <person xml:id="hsl_person_id_4829" role="fictional">
+               <person xml:id="hsl_person_id_4829">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Olga von</forename>
+                     <surname>Hueber</surname>
                   </persName>
+                  <birth>1869-1956</birth>
+                  <death>1869-1956</death>
+                  <occupation style="background-color: dark-blue;">Pianistin</occupation>
+                  <occupation style="background-color: light-blue;">Musiklehrerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/130186929</idno>
                </person>
                <person xml:id="hsl_person_id_4830">
                   <persName type="main">
@@ -61568,6 +61583,160 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3153">Le désert</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4831">
+                  <persName type="main">
+                     <forename>Salomon</forename>
+                     <surname>Geßner</surname>
+                  </persName>
+                  <birth>1730-1787</birth>
+                  <death>1730-1787</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: darker-cyan;">Maler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118538969</idno>
+               </person>
+               <person xml:id="hsl_person_id_4832">
+                  <persName type="main">
+                     <forename>Waldemar</forename>
+                     <surname>Meyer</surname>
+                  </persName>
+                  <birth>1853-1940</birth>
+                  <death>1853-1940</death>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117569534</idno>
+               </person>
+               <person xml:id="hsl_person_id_4833">
+                  <persName type="main">
+                     <forename>Willem de</forename>
+                     <surname>Fesch</surname>
+                  </persName>
+                  <birth>1687-1761</birth>
+                  <death>1687-1761</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11883634X</idno>
+               </person>
+               <person xml:id="hsl_person_id_4834">
+                  <persName type="main">
+                     <forename>Franz</forename>
+                     <surname>Krinninger</surname>
+                  </persName>
+                  <birth>1844-1899</birth>
+                  <death>1844-1899</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/142071544</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3161">Gothenzug, op. 26</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4835">
+                  <persName type="main">
+                     <forename>Joseph</forename>
+                     <surname>Mayer</surname>
+                  </persName>
+                  <birth>19./20. Jhdt.</birth>
+                  <death>19./20. Jhdt.</death>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4836">
+                  <persName type="main">
+                     <forename>Louise</forename>
+                     <surname>Heymann</surname>
+                  </persName>
+                  <birth>1868-?</birth>
+                  <death>1868-?</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1327888122</idno>
+               </person>
+               <person xml:id="hsl_person_id_4837">
+                  <persName type="main">
+                     <forename>Carl</forename>
+                     <surname>Heymann</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Karl</forename>
+                     <surname>Heymann</surname>
+                  </persName>
+                  <birth>1852-1924</birth>
+                  <death>1852-1924</death>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116792477</idno>
+               </person>
+               <person xml:id="hsl_person_id_4838">
+                  <persName type="main">
+                     <forename>Pia</forename>
+                     <surname>Obenberger-Sicherer</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Pia von</forename>
+                     <surname>Sicherer</surname>
+                  </persName>
+                  <birth>1854-1922</birth>
+                  <death>1854-1922</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117073075</idno>
+               </person>
+               <person xml:id="hsl_person_id_4839" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Petrus</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1188">Johannes-Passion, BWV245</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4840" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Evangelist</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1188">Johannes-Passion, BWV245</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4841">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Forster</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4842">
+                  <persName type="main">
+                     <forename>Carl Heinrich</forename>
+                     <surname>Döring</surname>
+                  </persName>
+                  <birth>1835-1916</birth>
+                  <death>1835-1916</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116160063</idno>
+               </person>
+               <person xml:id="hsl_person_id_4843">
+                  <persName type="main">
+                     <forename>Josef</forename>
+                     <surname>Schwartz</surname>
+                  </persName>
+                  <birth>1848-1933</birth>
+                  <death>1848-1933</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117351814</idno>
+               </person>
+               <person xml:id="hsl_person_id_4844">
+                  <persName type="main">
+                     <forename>Anton</forename>
+                     <surname>Patzelt-Norini</surname>
+                  </persName>
+                  <birth>19. Jhdt.</birth>
+                  <death>19. Jhdt.</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4845" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
                </person>
             </listPerson>
          </div>
