@@ -1751,6 +1751,9 @@
                <author ref="#hsl_person_id_2125">
                   <persName>Cammarano, Salvatore</persName>
                </author>
+               <author ref="#hsl_person_id_4861">
+                  <persName>Bardare, Leone Emanuele</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_506">Azucena</name>
                <name type="character" ref="#hsl_person_id_2952">Manrico</name>
                <name type="character" ref="#hsl_person_id_2956">Ferrando</name>
@@ -2813,6 +2816,7 @@
                   <persName>Henrici, Christian Friedrich</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1284">Evangelist</name>
+               <name type="character" ref="#hsl_person_id_4865">Jesus Christus</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300009798</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_385">
@@ -5273,6 +5277,7 @@
                   <persName>Schumann, Robert</persName>
                </author>
                <name type="character" ref="#hsl_person_id_3070">Doctor Marianus</name>
+               <name type="character" ref="#hsl_person_id_4864">Faust</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146787</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_610">
@@ -6848,6 +6853,7 @@
                <name type="character" ref="#hsl_person_id_664">Teufel</name>
                <name type="character" ref="#hsl_person_id_1118">Mose</name>
                <name type="character" ref="#hsl_person_id_1307">Eva</name>
+               <name type="character" ref="#hsl_person_id_1317">Maria Magdalena</name>
                <name type="character" ref="#hsl_person_id_1644">Deborah</name>
                <name type="character" ref="#hsl_person_id_1648">Salomo</name>
                <name type="character" ref="#hsl_person_id_1657">Mirjam</name>
@@ -7222,6 +7228,14 @@
                <author ref="#hsl_person_id_3657">
                   <persName>Regel, Heinrich</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_4867">Witwe Hansen</name>
+               <name type="character" ref="#hsl_person_id_4868">Otto</name>
+               <name type="character" ref="#hsl_person_id_4869">Olga</name>
+               <name type="character" ref="#hsl_person_id_4870">Pelargie</name>
+               <name type="character" ref="#hsl_person_id_4871">Dämon</name>
+               <name type="character" ref="#hsl_person_id_4872">Fortuna</name>
+               <name type="character" ref="#hsl_person_id_4873">Elfenbeinkugel</name>
+               <name type="character" ref="#hsl_person_id_4874">Amadeo</name>
             </bibl>
             <bibl xml:id="hsl_work_id_860">
                <title type="main">Herzog Wildfang, op. 2</title>
@@ -25109,7 +25123,6 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3149">
                <title type="main">Toccata für Klavier in G-Dur, op. 12</title>
-               <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_1757">
                   <persName>Rheinberger, Joseph</persName>
                </author>
@@ -25284,6 +25297,65 @@
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146841</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3174">
+               <title type="main">Vossische Zeitung</title>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4188753-0</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3175">
+               <title type="main">Pastorelle</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3176">
+               <title type="main">Heimatgedenken, op. 16 Nr. 1</title>
+               <author ref="#hsl_person_id_3409">
+                  <persName>Cornelius, Peter</persName>
+               </author>
+               <author ref="#hsl_person_id_4866">
+                  <persName>Becker, August</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300039409</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3177">
+               <title type="main">Keine Sorg' um den Weg, op. 143 Nr. 2</title>
+               <title type="alternative">Kein' Sorg' um den Weg</title>
+               <author ref="#hsl_person_id_234">
+                  <persName>Reinecke, Carl</persName>
+               </author>
+               <author ref="#hsl_person_id_1603">
+                  <persName>Groth, Klaus</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1194029051</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3178">
+               <title type="main">Tragische Ouvertüre, op. 81</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300027125</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3180">
+               <title type="main">Faust</title>
+               <author ref="#hsl_person_id_375">
+                  <persName>Lenau, Nikolaus</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4434846-0</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3181">
+               <title type="main">Stille in der Nacht</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_4857">
+                  <persName>Götze, Heinrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3182">
+               <title type="main">Das Judenthum in der Musik</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
