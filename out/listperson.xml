@@ -2115,6 +2115,7 @@
                      <bibl n="hsl_work_id_1698">La Reine de Saba, CG7</bibl>
                      <bibl n="hsl_work_id_2091">Mireille, CG8</bibl>
                      <bibl n="hsl_work_id_2527">Psyché</bibl>
+                     <bibl n="hsl_work_id_3198">La statue</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_85">
@@ -2167,6 +2168,7 @@
                      <bibl n="hsl_work_id_1698">La Reine de Saba, CG7</bibl>
                      <bibl n="hsl_work_id_2457">La tempête</bibl>
                      <bibl n="hsl_work_id_2527">Psyché</bibl>
+                     <bibl n="hsl_work_id_3198">La statue</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_91">
@@ -2427,6 +2429,10 @@
                      <bibl n="hsl_work_id_2983">La critique</bibl>
                      <bibl n="hsl_work_id_2984">Aufsatz über das Dirigiren</bibl>
                      <bibl n="hsl_work_id_3079">Adagio für Violine</bibl>
+                     <bibl n="hsl_work_id_3186">Kunst und Natur</bibl>
+                     <bibl n="hsl_work_id_3188">Le Don Juan de Mozart. Rede vor der Academie des Beaux-Arts de Paris</bibl>
+                     <bibl n="hsl_work_id_3189">Mozarts Don Juan</bibl>
+                     <bibl n="hsl_work_id_3190">Henry VIII. Kritik</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_336">
@@ -5009,6 +5015,9 @@
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117593427</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15439787</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3194">Über Sänger und Singen</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_241">
                   <persName type="main">
@@ -8178,6 +8187,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2691">L'Euridice</bibl>
                      <bibl n="hsl_work_id_3035">Madrigal</bibl>
+                     <bibl n="hsl_work_id_3193">Le nuove musiche</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_893">
@@ -12167,8 +12177,9 @@
                   </persName>
                   <birth>1806-1864</birth>
                   <death>1806-1864</death>
-                  <occupation style="background-color: light-gray;">Musikautor</occupation>
-                  <occupation style="background-color: blue;">Kritiker</occupation>
+                  <occupation style="background-color: light-yellow;">Musikkritiker</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117454338</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4422796</idno>
                   <listBibl type="authorOf">
@@ -12202,8 +12213,7 @@
                   </persName>
                   <birth>1813-1888</birth>
                   <death>1813-1888</death>
-                  <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: blue;">Kritiker</occupation>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116200952</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1035323</idno>
                   <listBibl type="authorOf">
@@ -18399,10 +18409,12 @@
                   </persName>
                   <birth>1858-1930</birth>
                   <death>1858-1930</death>
-                  <occupation style="background-color: blue;">Kritiker</occupation>
-                  <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <occupation style="background-color: light-yellow;">Musikkritiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1020675659</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3651418</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3197">Un siècle de musique franc̜aise</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1304" role="fictional">
                   <persName type="main">
@@ -18501,6 +18513,9 @@
                   <occupation style="background-color: light-yellow;">Musikkritiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118788523</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q516937</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3198">La statue</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1313" role="fictional">
                   <persName type="main">
@@ -22372,6 +22387,7 @@
                   <death>1826-1906</death>
                   <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
                   <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118798952</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q526806</idno>
                </person>
@@ -22924,6 +22940,7 @@
                      <bibl n="hsl_work_id_2804">Messe, op. 4</bibl>
                      <bibl n="hsl_work_id_2810">Konzert für Cello und Orchester Nr. 1 in a-Moll, op. 33</bibl>
                      <bibl n="hsl_work_id_3170">Caprice sur les airs de ballet d'Alceste de Gluck</bibl>
+                     <bibl n="hsl_work_id_3187">Henry VIII</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1659">
@@ -59969,8 +59986,7 @@
                   </persName>
                   <birth>1845-1924</birth>
                   <death>1845-1924</death>
-                  <occupation style="background-color: light-gray;">Musikautor</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
+                  <occupation style="background-color: green;">Musikwissenschaftler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116999640</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4321186</idno>
                </person>
@@ -60480,6 +60496,9 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/100568009</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q671057</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_T/Tosi_Pier.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3192">Anleitung zur Singkunst</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_4714" role="fictional">
                   <persName type="main">
@@ -62186,6 +62205,180 @@
                   </persName>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118511343</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1874232</idno>
+               </person>
+               <person xml:id="hsl_person_id_4881">
+                  <persName type="main">
+                     <forename>Franz Magnus</forename>
+                     <surname>Böhme</surname>
+                  </persName>
+                  <birth>1827-1898</birth>
+                  <death>1827-1898</death>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <occupation style="background-color: dark-green;">Kunstsammler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116220945</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3184">Geschichte des Tanzes in Deutschland</bibl>
+                     <bibl n="hsl_work_id_3185">Altdeutsches Liederbuch</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4882">
+                  <persName type="main">
+                     <forename>Paul</forename>
+                     <surname>Ollendorff</surname>
+                  </persName>
+                  <birth>1851-1920</birth>
+                  <death>1851-1920</death>
+                  <occupation style="background-color: darker-blue;">Verleger</occupation>
+                  <occupation style="background-color: dark-brown;">Buchhändler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117122726</idno>
+               </person>
+               <person xml:id="hsl_person_id_4883">
+                  <persName type="main">
+                     <forename>Armand</forename>
+                     <surname>Silvestre</surname>
+                  </persName>
+                  <birth>1839-1901</birth>
+                  <death>1839-1901</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117387290</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3187">Henry VIII</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4884">
+                  <persName type="main">
+                     <forename>Léonce</forename>
+                     <surname>Détroyat</surname>
+                  </persName>
+                  <birth>1829-1898</birth>
+                  <death>1829-1898</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118010182</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3187">Henry VIII</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4885">
+                  <persName type="main">
+                     <forename>Victoire</forename>
+                     <surname>Gounod</surname>
+                  </persName>
+                  <birth>1780-1858</birth>
+                  <death>1780-1858</death>
+               </person>
+               <person xml:id="hsl_person_id_4886">
+                  <persName type="main">
+                     <forename>Adolf Victor</forename>
+                     <surname>Klages</surname>
+                  </persName>
+                  <birth>1862-1922</birth>
+                  <death>1862-1922</death>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1075741343</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3189">Mozarts Don Juan</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4887">
+                  <persName type="main">
+                     <forename>Carl</forename>
+                     <surname>Reissner</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Reißner</surname>
+                  </persName>
+                  <birth>1849-1907</birth>
+                  <death>1849-1907</death>
+                  <occupation style="background-color: darker-blue;">Verleger</occupation>
+                  <occupation style="background-color: dark-brown;">Buchhändler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11643189X</idno>
+               </person>
+               <person xml:id="hsl_person_id_4888">
+                  <persName type="main">
+                     <forename>Hugo</forename>
+                     <surname>Goldschmidt</surname>
+                  </persName>
+                  <birth>1859-1920</birth>
+                  <death>1859-1920</death>
+                  <occupation style="background-color: green;">Musikwissenschaftler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/137529945</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3191">Die italienische Gesangsmethode des XVII. Jahrhunderts und ihre Bedeutung für die Gegenwart</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4889">
+                  <persName type="main">
+                     <forename>Salo</forename>
+                     <surname>Schottlaender</surname>
+                  </persName>
+                  <birth>1844-1920</birth>
+                  <death>1844-1920</death>
+                  <occupation style="background-color: darker-blue;">Verleger</occupation>
+                  <occupation style="background-color: dark-brown;">Buchhändler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11701527X</idno>
+               </person>
+               <person xml:id="hsl_person_id_4890">
+                  <persName type="main">
+                     <forename>Giambattista</forename>
+                     <surname>Mancini</surname>
+                  </persName>
+                  <birth>1714-1800</birth>
+                  <death>1714-1800</death>
+                  <occupation style="background-color: dark-orange;">Sänger (Kastrat)</occupation>
+                  <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1037761898</idno>
+               </person>
+               <person xml:id="hsl_person_id_4891">
+                  <persName type="main">
+                     <forename>Johann Friedrich</forename>
+                     <surname>Agricola</surname>
+                  </persName>
+                  <birth>1720-1774</birth>
+                  <death>1720-1774</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: light-green;">Publizist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118917382</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3192">Anleitung zur Singkunst</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4892">
+                  <persName type="main">
+                     <forename>Edmond</forename>
+                     <surname>Evenepoel</surname>
+                  </persName>
+                  <birth>1846-1931</birth>
+                  <death>1846-1931</death>
+                  <occupation style="background-color: darker-cyan;">Maler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/130158992</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3195">Le Wagnérisme hors d'Allemagne (Bruxelles et la Belgique)</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4893">
+                  <persName type="main">
+                     <forename>Ernest</forename>
+                     <surname>Closson</surname>
+                  </persName>
+                  <birth>1870-1950</birth>
+                  <death>1870-1950</death>
+                  <occupation style="background-color: green;">Musikwissenschaftler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118888404</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3196">Siegfried de Richard Wagner: Étude esthétique, musicale et thématique</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4894">
+                  <persName type="main">
+                     <forename>J.</forename>
+                     <surname>Otto</surname>
+                  </persName>
                </person>
             </listPerson>
          </div>
