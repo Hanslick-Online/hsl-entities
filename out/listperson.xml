@@ -2465,6 +2465,7 @@
                      <bibl n="hsl_work_id_1706">Les deux avares</bibl>
                      <bibl n="hsl_work_id_2061">Raoul Barbe-Bleue</bibl>
                      <bibl n="hsl_work_id_3126">Richard Cœur-de-Lion</bibl>
+                     <bibl n="hsl_work_id_3201">Mémoires ou Essais sur la musique</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_104">
@@ -9129,6 +9130,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Emmeline</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Emeline</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_516">Die Schweizerfamilie</bibl>
@@ -22661,6 +22666,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118518208</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5679</idno>
                   <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_92">Manfred, op. 115</bibl>
                      <bibl n="hsl_work_id_1024">Manfred</bibl>
                      <bibl n="hsl_work_id_1065">Kain</bibl>
                      <bibl n="hsl_work_id_1894">Childe Harold's Pilgrimage</bibl>
@@ -38856,7 +38862,7 @@
                      <bibl n="hsl_work_id_236">Der Freischütz, J277</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2886" role="fictional">
+               <person xml:id="hsl_person_id_2886">
                   <persName type="main">
                      <forename/>
                      <surname>Agathe</surname>
@@ -49613,7 +49619,8 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/132122979</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1420400</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_2301">Jenny Lind the Artist, 1820–1851: A Memoir of Madame Jenny Lind-Goldschmidt, Her Art-Life and Dramatic Career</bibl>
+                     <bibl n="hsl_work_id_2301">Memoir of Jenny Lind-Goldschmidt. Her Early Art-life and Dramatic Career, 1820-1851: From Original Documents, Letters, Ms. Diaries, Etc.</bibl>
+                     <bibl n="hsl_work_id_3204">Jenny Lind. Ihre Laufbahn als Künstlerin, 1820 bis 1851, nach Briefen, Tagebüchern und Andern</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3760">
@@ -49629,7 +49636,8 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/13483643X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q16203699</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_2301">Jenny Lind the Artist, 1820–1851: A Memoir of Madame Jenny Lind-Goldschmidt, Her Art-Life and Dramatic Career</bibl>
+                     <bibl n="hsl_work_id_2301">Memoir of Jenny Lind-Goldschmidt. Her Early Art-life and Dramatic Career, 1820-1851: From Original Documents, Letters, Ms. Diaries, Etc.</bibl>
+                     <bibl n="hsl_work_id_3204">Jenny Lind. Ihre Laufbahn als Künstlerin, 1820 bis 1851, nach Briefen, Tagebüchern und Andern</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3761">
@@ -59984,11 +59992,18 @@
                      <forename>Friedrich</forename>
                      <surname>Niecks</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Nicks</surname>
+                  </persName>
                   <birth>1845-1924</birth>
                   <death>1845-1924</death>
                   <occupation style="background-color: green;">Musikwissenschaftler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116999640</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4321186</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3202">Friedrich Chopin als Mensch und als Musiker</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_4663">
                   <persName type="main">
@@ -62015,6 +62030,9 @@
                   <occupation style="background-color: red;">Dirigent</occupation>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116757086</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3204">Jenny Lind. Ihre Laufbahn als Künstlerin, 1820 bis 1851, nach Briefen, Tagebüchern und Andern</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_4861">
                   <persName type="main">
@@ -62379,6 +62397,181 @@
                      <forename>J.</forename>
                      <surname>Otto</surname>
                   </persName>
+               </person>
+               <person xml:id="hsl_person_id_4895">
+                  <persName type="main">
+                     <forename>Emil</forename>
+                     <surname>Breslaur</surname>
+                  </persName>
+                  <birth>1836-1899</birth>
+                  <death>1836-1899</death>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: gray;">Herausgeber</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116486988</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3200">Julius Schuberth's Musikalisches Conversations-Lexikon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4896">
+                  <persName type="main">
+                     <forename>Paul von</forename>
+                     <surname>Jankó</surname>
+                  </persName>
+                  <birth>1856-1919</birth>
+                  <death>1856-1919</death>
+                  <occupation style="background-color: light-gray;">Beamter</occupation>
+                  <occupation style="background-color: dark-brown;">Mathematiker</occupation>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117611174</idno>
+               </person>
+               <person xml:id="hsl_person_id_4897">
+                  <persName type="main">
+                     <forename>Moritz</forename>
+                     <surname>Karasowski</surname>
+                  </persName>
+                  <birth>1823-1892</birth>
+                  <death>1823-1892</death>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <occupation style="background-color: light-yellow;">Musikkritiker</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116054123</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3203">Friedrich Chopin. Sein Leben und seine Briefe</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4898">
+                  <persName type="main">
+                     <forename>Friedrich Wilhelm</forename>
+                     <surname>Langhans</surname>
+                  </persName>
+                  <birth>1832-1892</birth>
+                  <death>1832-1892</death>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116723262</idno>
+               </person>
+               <person xml:id="hsl_person_id_4899" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Norma</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_81">Norma</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4900">
+                  <persName type="main">
+                     <forename>Hedwig J.</forename>
+                     <surname>Schoell</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Schöll</surname>
+                  </persName>
+                  <birth>19./20. Jhdt.</birth>
+                  <death>19./20. Jhdt.</death>
+                  <occupation style="background-color: light-orange;">Übersetzerin</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4901">
+                  <persName type="main">
+                     <forename>Phineas Taylor</forename>
+                     <surname>Barnum</surname>
+                  </persName>
+                  <birth>1810-1891</birth>
+                  <death>1810-1891</death>
+                  <occupation style="background-color: yellow;">Unternehmer</occupation>
+                  <occupation style="background-color: darker-orange;">Zirkus-Direktor</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118652621</idno>
+               </person>
+               <person xml:id="hsl_person_id_4902">
+                  <persName type="main">
+                     <forename>Niclas Jonas</forename>
+                     <surname>Lind</surname>
+                  </persName>
+                  <birth>1798-1858</birth>
+                  <death>1798-1858</death>
+                  <occupation style="background-color: light-cyan;">Buchhalter</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4903">
+                  <persName type="main">
+                     <forename>Anna Maria</forename>
+                     <surname>Fellborg</surname>
+                  </persName>
+                  <birth>1790-1851</birth>
+                  <death>1790-1851</death>
+                  <occupation style="background-color: light-orange;">Lehrerin</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4904">
+                  <persName type="main">
+                     <forename>Eric Johan</forename>
+                     <surname>Rådberg</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Rodberg</surname>
+                  </persName>
+                  <birth>18./19. Jhdt.</birth>
+                  <death>18./19. Jhdt.</death>
+                  <occupation style="background-color: blue;">Kapitän</occupation>
+               </person>
+               <person xml:id="hsl_person_id_4905">
+                  <persName type="main">
+                     <forename>Manuel</forename>
+                     <surname>Garcia</surname>
+                  </persName>
+                  <birth>1805-1906</birth>
+                  <death>1805-1906</death>
+                  <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
+                  <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116421029</idno>
+               </person>
+               <person xml:id="hsl_person_id_4906" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Julia</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4908" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Julia</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_121">La vestale</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4909">
+                  <persName type="main">
+                     <forename>Isak</forename>
+                     <surname>Berg</surname>
+                  </persName>
+                  <birth>1803-1886</birth>
+                  <death>1803-1886</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/129965170</idno>
+               </person>
+               <person xml:id="hsl_person_id_4910">
+                  <persName type="main">
+                     <forename>Adolf Fredrik</forename>
+                     <surname>Lindblad</surname>
+                  </persName>
+                  <birth>1801-1878</birth>
+                  <death>1801-1878</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11701513X</idno>
+               </person>
+               <person xml:id="hsl_person_id_4911">
+                  <persName type="main">
+                     <forename>Charlotta Helena Sophia</forename>
+                     <surname>Lindblad</surname>
+                  </persName>
+                  <birth>1829-1912</birth>
+                  <death>1829-1912</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1211116506</idno>
                </person>
             </listPerson>
          </div>

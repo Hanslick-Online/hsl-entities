@@ -148,7 +148,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_8">
                <title type="main">Ein Feldlager in Schlesien</title>
-               <title type="alternative">Das Feldlager von Schlesien</title>
+               <title type="alternative">Das Feldlager in Schlesien / Das Feldlager von Schlesien</title>
                <author ref="#hsl_person_id_182">
                   <persName>Meyerbeer, Giacomo</persName>
                </author>
@@ -844,6 +844,7 @@
                <author ref="#hsl_person_id_2026">
                   <persName>Romani, Felice</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_4899">Norma</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300017855</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_145">
@@ -967,6 +968,9 @@
                <title type="main">Manfred, op. 115</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_1635">
+                  <persName>Byron, Baron George Gordon Byron</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145829</idno>
             </bibl>
@@ -1300,6 +1304,7 @@
                <author ref="#hsl_person_id_2064">
                   <persName>Jouy, Étienne de</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_4908">Julia</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300331339</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_122">
@@ -18759,7 +18764,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2301">
-               <title type="main">Jenny Lind the Artist, 1820–1851: A Memoir of Madame Jenny Lind-Goldschmidt, Her Art-Life and Dramatic Career</title>
+               <title type="main">Memoir of Jenny Lind-Goldschmidt. Her Early Art-life and Dramatic Career, 1820-1851: From Original Documents, Letters, Ms. Diaries, Etc.</title>
                <author ref="#hsl_person_id_3759">
                   <persName>Holland, Henry Scott</persName>
                </author>
@@ -25476,7 +25481,42 @@
                <title type="main">Piratenchor</title>
             </bibl>
             <bibl xml:id="hsl_work_id_3200">
-               <title type="main"/>
+               <title type="main">Julius Schuberth's Musikalisches Conversations-Lexikon</title>
+               <author ref="#hsl_person_id_4895">
+                  <persName>Breslaur, Emil</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3201">
+               <title type="main">Mémoires ou Essais sur la musique</title>
+               <author ref="#hsl_person_id_103">
+                  <persName>Grétry, André-Ernest-Modeste</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7582418-8</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3202">
+               <title type="main">Friedrich Chopin als Mensch und als Musiker</title>
+               <author ref="#hsl_person_id_4662">
+                  <persName>Niecks, Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3203">
+               <title type="main">Friedrich Chopin. Sein Leben und seine Briefe</title>
+               <author ref="#hsl_person_id_4897">
+                  <persName>Karasowski, Moritz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://archive.org/details/friedrichchopins00kara/page/n7/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3204">
+               <title type="main">Jenny Lind. Ihre Laufbahn als Künstlerin, 1820 bis 1851, nach Briefen, Tagebüchern und Andern</title>
+               <author ref="#hsl_person_id_3759">
+                  <persName>Holland, Henry Scott</persName>
+               </author>
+               <author ref="#hsl_person_id_3760">
+                  <persName>Rockstro, William Smyth</persName>
+               </author>
+               <author ref="#hsl_person_id_4859">
+                  <persName>Goldschmidt, Otto</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
