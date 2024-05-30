@@ -5890,6 +5890,7 @@
                      <bibl n="hsl_work_id_189">Giralda, ou La nouvelle psyché</bibl>
                      <bibl n="hsl_work_id_194">Fra Diavolo</bibl>
                      <bibl n="hsl_work_id_195">Fiorella</bibl>
+                     <bibl n="hsl_work_id_380">La Favorite</bibl>
                      <bibl n="hsl_work_id_589">Bataille de dames</bibl>
                      <bibl n="hsl_work_id_940">Manon Lescaut</bibl>
                      <bibl n="hsl_work_id_1161">La Juive</bibl>
@@ -5905,6 +5906,7 @@
                      <bibl n="hsl_work_id_2101">Le comte Ory</bibl>
                      <bibl n="hsl_work_id_3134">La somnambule</bibl>
                      <bibl n="hsl_work_id_3209">The Tempest</bibl>
+                     <bibl n="hsl_work_id_3212">Les vêpres siciliennes</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_285">
@@ -6407,6 +6409,7 @@
                      <bibl n="hsl_work_id_980">I due Foscari, H42</bibl>
                      <bibl n="hsl_work_id_982">Aida, H62</bibl>
                      <bibl n="hsl_work_id_983">Quattro pezzi sacri, H6-9</bibl>
+                     <bibl n="hsl_work_id_3212">Les vêpres siciliennes</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_313">
@@ -8178,7 +8181,6 @@
                   <death>1818-1891</death>
                   <occupation style="background-color: green;">Jurist</occupation>
                   <occupation style="background-color: dark-gray;">Politiker</occupation>
-                  <occupation style="background-color: gray;">Ökonom</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119059495</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q78824</idno>
                </person>
@@ -28371,6 +28373,10 @@
                      <forename>Anne-Honoré Joseph</forename>
                      <surname>Duveyrier</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Mélesville / Melesville</surname>
+                  </persName>
                   <birth>1787-1865</birth>
                   <death>1787-1865</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
@@ -28381,6 +28387,7 @@
                      <bibl n="hsl_work_id_28">Zampa ou La fiancée de marbre</bibl>
                      <bibl n="hsl_work_id_110">Léocadie</bibl>
                      <bibl n="hsl_work_id_116">Le lac des fées</bibl>
+                     <bibl n="hsl_work_id_3089">Cathérine ou La croix d'or</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2080">
@@ -37600,6 +37607,7 @@
                   <death>1858-1948</death>
                   <occupation style="background-color: dark-gray;">Sängerin (Mezzo-Sopran)</occupation>
                   <occupation style="background-color: gray;">Violinistin</occupation>
+                  <occupation style="background-color: orange;">Komponistin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/130241075</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3611669</idno>
                </person>
@@ -39731,25 +39739,6 @@
                   <occupation style="background-color: gray;">Schriftstellerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118605348</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3816</idno>
-               </person>
-               <person xml:id="hsl_person_id_2961">
-                  <persName type="main">
-                     <forename>Anne-Honoré Joseph</forename>
-                     <surname>Duveyrier</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Mélesville / Melesville</surname>
-                  </persName>
-                  <birth>1788-1865</birth>
-                  <death>1788-1865</death>
-                  <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: green;">Jurist</occupation>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/100855296</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2660806</idno>
-                  <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_3089">Cathérine ou La croix d'or</bibl>
-                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_2962" role="fictional">
                   <persName type="main">
@@ -50665,7 +50654,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Lippmannsohn</surname>
+                     <surname>Lippmannsohn / Liepmanssohn</surname>
                   </persName>
                   <birth>1840-1915</birth>
                   <death>1840-1915</death>
@@ -62775,6 +62764,112 @@
                   <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
                   <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117737909</idno>
+               </person>
+               <person xml:id="hsl_person_id_4931">
+                  <persName type="main">
+                     <forename>Adolphe</forename>
+                     <surname>Thiers</surname>
+                  </persName>
+                  <birth>1797-1877</birth>
+                  <death>1797-1877</death>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: red;">Historiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118801937</idno>
+               </person>
+               <person xml:id="hsl_person_id_4932">
+                  <persName type="main">
+                     <forename>Jules</forename>
+                     <surname>Ferry</surname>
+                  </persName>
+                  <birth>1832-1893</birth>
+                  <death>1832-1893</death>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118683446</idno>
+               </person>
+               <person xml:id="hsl_person_id_4933">
+                  <persName type="main">
+                     <forename>Sarah</forename>
+                     <surname>Bernhardt</surname>
+                  </persName>
+                  <birth>1844-1923</birth>
+                  <death>1844-1923</death>
+                  <occupation style="background-color: dark-red;">Schauspielerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118509896</idno>
+               </person>
+               <person xml:id="hsl_person_id_4934">
+                  <persName type="main">
+                     <forename>Anton Wilhelm Florentin von</forename>
+                     <surname>Zuccalmaglio</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Wilhelm von</forename>
+                     <surname>Waldbrühl</surname>
+                  </persName>
+                  <birth>1803-1869</birth>
+                  <death>1803-1869</death>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118773240</idno>
+               </person>
+               <person xml:id="hsl_person_id_4935" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4936">
+                  <persName type="main">
+                     <forename>Johann Christoph</forename>
+                     <surname>Adelung</surname>
+                  </persName>
+                  <birth>1732-1806</birth>
+                  <death>1732-1806</death>
+                  <occupation style="background-color: brown;">Philologe</occupation>
+                  <occupation style="background-color: dark-orange;">Germanist</occupation>
+                  <occupation style="background-color: darker-purple;">Bibliothekar</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118500651</idno>
+               </person>
+               <person xml:id="hsl_person_id_4937">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Rossi</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>unklarer Bezug</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4938">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Salvini</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>unklarer Bezug</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4939" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4940">
+                  <persName type="main">
+                     <forename>Charles</forename>
+                     <surname>Duveyrier</surname>
+                  </persName>
+                  <birth>1803-1866</birth>
+                  <death>1803-1866</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117664049</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3212">Les vêpres siciliennes</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

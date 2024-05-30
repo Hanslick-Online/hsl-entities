@@ -3681,6 +3681,9 @@
                <author ref="#hsl_person_id_63">
                   <persName>Donizetti, Gaetano</persName>
                </author>
+               <author ref="#hsl_person_id_284">
+                  <persName>Scribe, Eugène</persName>
+               </author>
                <author ref="#hsl_person_id_2122">
                   <persName>Royer, Alphonse</persName>
                </author>
@@ -9849,6 +9852,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1163">
                <title type="main">Guido et Ginevra, ou la Peste a Florence</title>
+               <title type="alternative">Guido und Ginevra</title>
                <author ref="#hsl_person_id_106">
                   <persName>Halévy, Fromental</persName>
                </author>
@@ -15202,6 +15206,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1826">
                <title type="main">Nord und Süd. Eine deutsche Monatsschrift</title>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4500090-6</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1827">
                <title type="main">Über das Lehren und Lernen der medicinischen Wissenschaften an den Universitäten der deutschen Nation nebst allgemeinen Bemerkungen über Universitäten. Eine culturhistorische Studie</title>
@@ -24648,7 +24653,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3089">
                <title type="main">Cathérine ou La croix d'or</title>
-               <author ref="#hsl_person_id_2961">
+               <author ref="#hsl_person_id_2079">
                   <persName>Duveyrier, Anne-Honoré Joseph</persName>
                </author>
             </bibl>
@@ -25361,6 +25366,7 @@
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4606506-4</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3183">
                <title type="main">Kölnische Zeitung</title>
@@ -25574,6 +25580,26 @@
                   <persName>Roger, Gustave-Hippolyte</persName>
                </author>
                <idno type="URI" subtype="GND">https://archive.org/details/lecarnetduntno00roge/page/n7/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3211">
+               <title type="main">Verdeutschungen</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3212">
+               <title type="main">Les vêpres siciliennes</title>
+               <title type="alternative">Die Sicilianische Vesper</title>
+               <author ref="#hsl_person_id_284">
+                  <persName>Scribe, Eugène</persName>
+               </author>
+               <author ref="#hsl_person_id_312">
+                  <persName>Verdi, Giuseppe</persName>
+               </author>
+               <author ref="#hsl_person_id_4940">
+                  <persName>Duveyrier, Charles</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30016663X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3213">
+               <title type="main">Prager Zeitung</title>
             </bibl>
       </listBibl>
       </body>
