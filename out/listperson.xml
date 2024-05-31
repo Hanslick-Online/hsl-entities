@@ -9787,6 +9787,10 @@
                      <forename>König von Makedonien</forename>
                      <surname>Alexander III.</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Alexander der Große</surname>
+                  </persName>
                   <birth>356-323 v.u.Z.</birth>
                   <death>356-323 v.u.Z.</death>
                   <occupation style="background-color: orange;">Monarch</occupation>
@@ -37973,7 +37977,6 @@
                   <birth>1807-1894</birth>
                   <death>1807-1894</death>
                   <occupation style="background-color: green;">Jurist</occupation>
-                  <occupation style="background-color: dark-gray;">Politiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117546941</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q590412</idno>
                </person>
@@ -38000,7 +38003,6 @@
                   <birth>1831-1885</birth>
                   <death>1831-1885</death>
                   <occupation style="background-color: green;">Jurist</occupation>
-                  <occupation style="background-color: dark-gray;">Politiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119360667</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q94672</idno>
                </person>
@@ -38037,8 +38039,6 @@
                   <birth>1816-1870</birth>
                   <death>1816-1870</death>
                   <occupation style="background-color: dark-gray;">Politiker</occupation>
-                  <occupation style="background-color: green;">Jurist</occupation>
-                  <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116131640</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q86983</idno>
                </person>
@@ -41591,8 +41591,8 @@
                   </persName>
                   <birth>1822-1904</birth>
                   <death>1822-1904</death>
-                  <occupation style="background-color: dark-orange;">Mediziner</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
+                  <occupation style="background-color: light-cyan;">Balneologe</occupation>
+                  <occupation style="background-color: brown;">Physiologe</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117443379</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1705739</idno>
                </person>
@@ -43239,8 +43239,7 @@
                   <birth>1631-1700</birth>
                   <death>1631-1700</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: blue;">Kritiker</occupation>
-                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <occupation style="background-color: dark-red;">Übersetzer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118680897</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q213355</idno>
                   <listBibl type="authorOf">
@@ -49476,6 +49475,7 @@
                   <birth>1600-1681</birth>
                   <death>1600-1681</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118518399</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q170800</idno>
                   <listBibl type="authorOf">
@@ -62812,11 +62812,16 @@
                   <occupation style="background-color: light-gray;">Musikautor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118773240</idno>
                </person>
-               <person xml:id="hsl_person_id_4935" role="fictional">
+               <person xml:id="hsl_person_id_4935">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Moritz von</forename>
+                     <surname>Stubenrauch</surname>
                   </persName>
+                  <birth>1811-1865</birth>
+                  <death>1811-1865</death>
+                  <occupation style="background-color: green;">Jurist</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117353264</idno>
                </person>
                <person xml:id="hsl_person_id_4936">
                   <persName type="main">
@@ -62850,11 +62855,24 @@
                      <surname>unklarer Bezug</surname>
                   </persName>
                </person>
-               <person xml:id="hsl_person_id_4939" role="fictional">
+               <person xml:id="hsl_person_id_4939">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Tomás</forename>
+                     <surname>Bretón</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Tomas</forename>
+                     <surname>Breton</surname>
+                  </persName>
+                  <birth>1850-1923</birth>
+                  <death>1850-1923</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116492619</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3214">Los amantes de Teruel</bibl>
+                     <bibl n="hsl_work_id_3216">Garin, o, L'eremita di Montserrat</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_4940">
                   <persName type="main">
@@ -62870,6 +62888,224 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3212">Les vêpres siciliennes</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4942">
+                  <persName type="main">
+                     <forename>Eduard von</forename>
+                     <surname>Tomaschek</surname>
+                  </persName>
+                  <birth>1810-1890</birth>
+                  <death>1810-1890</death>
+                  <occupation style="background-color: green;">Jurist</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117404306</idno>
+               </person>
+               <person xml:id="hsl_person_id_4943">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Heißler</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_4944">
+                  <persName type="main">
+                     <forename>Anton</forename>
+                     <surname>Füster</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Pater Füster</surname>
+                  </persName>
+                  <birth>1808-1881</birth>
+                  <death>1808-1881</death>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118946234</idno>
+               </person>
+               <person xml:id="hsl_person_id_4945">
+                  <persName type="main">
+                     <forename>Cristóbal de</forename>
+                     <surname>Morales</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Cristofano</forename>
+                     <surname>Morales</surname>
+                  </persName>
+                  <birth>1500-1553</birth>
+                  <death>1500-1553</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/100833187</idno>
+               </person>
+               <person xml:id="hsl_person_id_4946">
+                  <persName type="main">
+                     <forename>Tomás Luis de</forename>
+                     <surname>Victoria</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Ludovico da</forename>
+                     <surname>Vittoria</surname>
+                  </persName>
+                  <birth>1548-1611</birth>
+                  <death>1548-1611</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: dark-blue;">Organist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118975579</idno>
+               </person>
+               <person xml:id="hsl_person_id_4947">
+                  <persName type="main">
+                     <forename>Lope de</forename>
+                     <surname>Vega</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Lope da</forename>
+                     <surname>Vega</surname>
+                  </persName>
+                  <birth>1562-1635</birth>
+                  <death>1562-1635</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118626353</idno>
+               </person>
+               <person xml:id="hsl_person_id_4948">
+                  <persName type="main">
+                     <forename>José de</forename>
+                     <surname>Ribera</surname>
+                  </persName>
+                  <birth>1591-1652</birth>
+                  <death>1591-1652</death>
+                  <occupation style="background-color: darker-cyan;">Maler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118788604</idno>
+               </person>
+               <person xml:id="hsl_person_id_4949">
+                  <persName type="main">
+                     <forename>Bartolomé Esteban</forename>
+                     <surname>Murillo</surname>
+                  </persName>
+                  <birth>1618-1682</birth>
+                  <death>1618-1682</death>
+                  <occupation style="background-color: darker-cyan;">Maler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11858586X</idno>
+               </person>
+               <person xml:id="hsl_person_id_4950">
+                  <persName type="main">
+                     <forename>José Melchor</forename>
+                     <surname>Gomis</surname>
+                  </persName>
+                  <birth>1791-1836</birth>
+                  <death>1791-1836</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/141498641</idno>
+               </person>
+               <person xml:id="hsl_person_id_4951">
+                  <persName type="main">
+                     <forename>Königin von Spanien</forename>
+                     <surname>Maria Christine</surname>
+                  </persName>
+                  <birth>1858-1929</birth>
+                  <death>1858-1929</death>
+                  <occupation style="background-color: darker-purple;">Monarchin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119341735</idno>
+               </person>
+               <person xml:id="hsl_person_id_4952">
+                  <persName type="main">
+                     <forename>Juan Eugenio</forename>
+                     <surname>Hartzenbusch</surname>
+                  </persName>
+                  <birth>1806-1880</birth>
+                  <death>1806-1880</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: darker-purple;">Bibliothekar</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118773356</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3215">Los amantes de Teruel</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4953" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Isabel</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3214">Los amantes de Teruel</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4954" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Don Rodrigo d'Azagra</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3214">Los amantes de Teruel</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4955" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Don Diego Marsilla</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3214">Los amantes de Teruel</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4956" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Don Pedro di Segura</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3214">Los amantes de Teruel</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4957" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Abu Said</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3214">Los amantes de Teruel</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4958" role="fictional">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Zulima</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3214">Los amantes de Teruel</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4959">
+                  <persName type="main">
+                     <forename>Friedrich</forename>
+                     <surname>Adler</surname>
+                  </persName>
+                  <birth>1857-1938</birth>
+                  <death>1857-1938</death>
+                  <occupation style="background-color: dark-green;">Journalist</occupation>
+                  <occupation style="background-color: green;">Jurist</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116008040</idno>
+               </person>
+               <person xml:id="hsl_person_id_4960">
+                  <persName type="main">
+                     <forename>César</forename>
+                     <surname>Féréal</surname>
+                  </persName>
+                  <birth>19. Jhdt.</birth>
+                  <death>19. Jhdt.</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/115620559</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3216">Garin, o, L'eremita di Montserrat</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_4961">
+                  <persName type="main">
+                     <forename>Moriz</forename>
+                     <surname>Rosenthal</surname>
+                  </persName>
+                  <birth>1862-1946</birth>
+                  <death>1862-1946</death>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116626364</idno>
                </person>
             </listPerson>
          </div>
