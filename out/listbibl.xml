@@ -1094,6 +1094,7 @@
                <name type="character" ref="#hsl_person_id_647">Raoul de Nangis</name>
                <name type="character" ref="#hsl_person_id_666">Valentine</name>
                <name type="character" ref="#hsl_person_id_4762">Urbain</name>
+               <name type="character" ref="#hsl_person_id_4962">Marguerite de Valois</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300245637</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_106">
@@ -5979,7 +5980,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_708">
                <title type="main">Ode for St. Cecilia's Day, HWV76</title>
-               <title type="alternative">Ode auf den St. Cäcilientag</title>
+               <title type="alternative">Ode auf den St. Cäcilientag / Cäcilien-Ode</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
@@ -10442,7 +10443,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1230">
                <title type="main">Ode auf St. Caecilia, KV592 (Bearbeitung)</title>
-               <title type="alternative">Ode auf den St. Cäcilientag</title>
+               <title type="alternative">Ode auf den St. Cäcilientag / Cäcilien-Ode</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
@@ -14923,7 +14924,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300109032</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1791">
-               <title type="main">Zur Wiederbelebung der Mozart'schen Clavier-Concerte</title>
+               <title type="main">Zur Wiederbelebung der Mozart'schen Clavier-Concerte. Ein Wort der Anregung an die clavierspielende Welt</title>
                <author ref="#hsl_person_id_234">
                   <persName>Reinecke, Carl</persName>
                </author>
@@ -20213,6 +20214,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2498">
                <title type="main">Symphonische Etüden für Klavier, op. 13</title>
+               <title type="alternative">Symphonische Variationen</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
@@ -25632,6 +25634,83 @@
                <author ref="#hsl_person_id_4960">
                   <persName>Féréal, César</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3217">
+               <title type="main">Capriccio für Klavier in h-Moll, op. 76 Nr. 2</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300025521</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3218">
+               <title type="main">La campanella für Klavier, S141 Nr. 3</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300093373</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3219">
+               <title type="main">Grandes études de Paganini für Klavier, S141</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300093357</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3220">
+               <title type="main">Orgelfuge</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3221">
+               <title type="main">Symphonie Nr. 1 in Es-Dur</title>
+               <author ref="#hsl_person_id_3339">
+                  <persName>Borodin, Aleksandr Porfirʹevič</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300023529</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3222">
+               <title type="main">Symphonie Nr. 2 in h-Moll</title>
+               <author ref="#hsl_person_id_3339">
+                  <persName>Borodin, Aleksandr Porfirʹevič</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300252714</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3223">
+               <title type="main">Symphonie Nr. 3 in a-Moll</title>
+               <author ref="#hsl_person_id_3339">
+                  <persName>Borodin, Aleksandr Porfirʹevič</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30021250X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3224">
+               <title type="main">V Srednej Azii</title>
+               <title type="alternative">Eine Steppenskizze aus Mittelasien</title>
+               <author ref="#hsl_person_id_3339">
+                  <persName>Borodin, Aleksandr Porfirʹevič</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30002357X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3225">
+               <title type="main">Festschrift zur Mozart-Centenarfeier in Salzburg am 15., 16. und 17. Juli 1891. Ein, für die Drucklegung erweiterter, Vortrag, gehalten am 12. Mai d. J. in der "Gesellschaft für Salzburger Landeskunde"</title>
+               <author ref="#hsl_person_id_1464">
+                  <persName>Engl, Johann Evangelist</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3226">
+               <title type="main">Sonate für Klavier Nr. 3 in f-Moll, op. 5</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300026943</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3227">
+               <title type="main">Maurerische Trauermusik, KV477</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300109466</idno>
             </bibl>
       </listBibl>
       </body>
