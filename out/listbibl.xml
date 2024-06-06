@@ -2531,6 +2531,12 @@
                <name type="character" ref="#hsl_person_id_3167">Fafner</name>
                <name type="character" ref="#hsl_person_id_3168">Loge</name>
                <name type="character" ref="#hsl_person_id_4985">Fasolt</name>
+               <name type="character" ref="#hsl_person_id_5000">Woglinde</name>
+               <name type="character" ref="#hsl_person_id_5001">Wellgunde</name>
+               <name type="character" ref="#hsl_person_id_5002">Floßhilde</name>
+               <name type="character" ref="#hsl_person_id_5003">Freia</name>
+               <name type="character" ref="#hsl_person_id_5004">Donner</name>
+               <name type="character" ref="#hsl_person_id_5005">Froh</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300170238</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_239">
@@ -3446,6 +3452,7 @@
                <name type="character" ref="#hsl_person_id_4076">Zweite Dame</name>
                <name type="character" ref="#hsl_person_id_4077">Dritte Dame</name>
                <name type="character" ref="#hsl_person_id_4080">Monostatos</name>
+               <name type="character" ref="#hsl_person_id_5008">Erster Priester</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300112068</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_351">
@@ -25841,6 +25848,18 @@
                   <persName>Liszt, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30009454X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3250">
+               <title type="main">Edda</title>
+               <author ref="#hsl_person_id_4999">
+                  <persName>Sturluson, Snorri</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3251">
+               <title type="main">Beethoven-Biographie</title>
+               <author ref="#hsl_person_id_135">
+                  <persName>Jahn, Otto</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
