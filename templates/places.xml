@@ -5,13 +5,13 @@
             <title type="main">Ortsregister der Hanslick Edition</title>
             <respStmt>
                <resp>Lektorat</resp>
-               <name>Wilfing, Alexander</name>
+               <name xml:id="awilfinger">Wilfing, Alexander</name>
                <name>Bamer, Katharina</name>
                <name>Pfiel, Anna</name>
             </respStmt>
             <respStmt>
                <resp>XML/TEI Serialisierung der Daten</resp>
-               <name>Stoxreiter, Daniel</name>
+               <name>Elsner, Daniel</name>
             </respStmt>
             <funder xmlns="http://www.tei-c.org/ns/1.0">
                <name>FWF Der Wissenschaftsfond.</name>
@@ -59,7 +59,7 @@
          <div type="index_places">
             <listPlace xml:id="listplace">
             {% for x in objects %}
-               <place xml:id="{{ x.hsl_id }}">
+               <place xml:id="{{ x.hsl_id }}" resp="#awilfinger" cert="{% if x.Ueberprueft %}high{% else %}low{% endif %}">
                   {% if x.place_type_class %}
                   <settlement type="{{ x.place_type_class }}">
                      <placeName type="main">{{ x.ortsname }}</placeName>

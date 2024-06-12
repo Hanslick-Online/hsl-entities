@@ -5,7 +5,7 @@
             <title type="main">Personenregister der Hanslick Edition</title>
             <respStmt>
                <resp>Lektorat</resp>
-               <name>Wilfing, Alexander</name>
+               <name xml:id="awilfinger">Wilfing, Alexander</name>
                <name>Bamer, Katharina</name>
                <name>Pfiel, Anna</name>
             </respStmt>
@@ -59,7 +59,7 @@
          <div type="index_persons">
             <listPerson xml:id="listperson">
             {% for x in objects %}
-               <person xml:id="{{ x.hsl_id }}" {% if x.role_real == False %}role="fictional"{% endif %}>
+               <person xml:id="{{ x.hsl_id }}" {% if x.role_real == False %}role="fictional"{% endif %} resp="#awilfinger" cert="{% if x.Ueberprueft %}high{% else %}low{% endif %}">
                   <persName type="main">
                      <forename>{{ x.name.split(', ')[1] }}</forename>
                      <surname>{{ x.name.split(', ')[0] }}</surname>
