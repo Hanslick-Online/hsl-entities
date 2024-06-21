@@ -58,7 +58,7 @@
       <body>
          <listBibl>
          {% for x in objects %}
-            <bibl xml:id="{{ x.hsl_id }}" resp="#awilfinger" cert="{% if x.Ueberprueft %}high{% else %}medium{% endif %}">
+            <bibl xml:id="{{ x.hsl_id }}" resp="#awilfing" cert="{% if x.Ueberprueft %}high{% else %}medium{% endif %}">
                <title type="main">{{ x.name }}</title>
                {% if x.Alternativtitel %}
                <title type="alternative">{{ x.Alternativtitel }}</title>

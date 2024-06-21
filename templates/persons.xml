@@ -59,7 +59,7 @@
          <div type="index_persons">
             <listPerson xml:id="listperson">
             {% for x in objects %}
-               <person xml:id="{{ x.hsl_id }}" {% if x.role_real == False %}role="fictional"{% endif %} resp="#awilfinger" cert="{% if x.Ueberprueft %}high{% else %}medium{% endif %}">
+               <person xml:id="{{ x.hsl_id }}" {% if x.role_real == False %}role="fictional"{% endif %} resp="#awilfing" cert="{% if x.Ueberprueft %}high{% else %}medium{% endif %}">
                   <persName type="main">
                      <forename>{{ x.name.split(', ')[1] }}</forename>
                      <surname>{{ x.name.split(', ')[0] }}</surname>
