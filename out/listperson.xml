@@ -529,11 +529,13 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_A/Assmayr_Ignaz.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_A/Assmayer_Ignaz_1790_1862.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_364" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_364" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Hermine</forename>
                      <surname>Stadler</surname>
                   </persName>
+                  <birth>19. Jhdt.</birth>
+                  <death>19. Jhdt.</death>
                   <occupation style="background-color: dark-blue;">Pianistin</occupation>
                </person>
                <person xml:id="hsl_person_id_365" resp="#awilfing" cert="high">
@@ -3554,7 +3556,7 @@
                      <bibl n="hsl_work_id_247">Concino Concini</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_162" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_162" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Josef</forename>
                      <surname>Lewinsky</surname>
@@ -3562,8 +3564,11 @@
                   <birth>1835-1907</birth>
                   <death>1835-1907</death>
                   <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: gray;">Regisseur</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116972130</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1707508</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_L/Lewinsky_Josef_1835_1907.xml</idno>
                </person>
                <person xml:id="hsl_person_id_163" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -4869,18 +4874,18 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_R/Randhartinger_Benedict.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_R/Randhartinger_Benedikt_1802_1893.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_229" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_229" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Emmerich</forename>
                      <surname>Ranzoni</surname>
                   </persName>
                   <birth>1823-1898</birth>
                   <death>1823-1898</death>
-                  <occupation style="background-color: dark-orange;">Kunsthistoriker</occupation>
+                  <occupation style="background-color: dark-green;">Journalist</occupation>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116330384</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55896512</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_R/Ranzoni_Emerich_1823_1898.xml</idno>
                </person>
                <person xml:id="hsl_person_id_230" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -5433,7 +5438,7 @@
                   </persName>
                   <occupation style="background-color: gray;">Sängerin</occupation>
                </person>
-               <person xml:id="hsl_person_id_272" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_272" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Franz von</forename>
                      <surname>Schober</surname>
@@ -5441,8 +5446,6 @@
                   <birth>1796-1882</birth>
                   <death>1796-1882</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: light-orange;">Librettist</occupation>
-                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116849436</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q113827</idno>
                   <listBibl type="authorOf">
@@ -5872,7 +5875,7 @@
                      <bibl n="hsl_work_id_3240">Weit, weit!, op. 25 Nr. 20</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_283" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_283" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Moritz Ludwig von</forename>
                      <surname>Schwind</surname>
@@ -5881,8 +5884,10 @@
                   <death>1804-1871</death>
                   <occupation style="background-color: darker-cyan;">Maler</occupation>
                   <occupation style="background-color: orange;">Zeichner</occupation>
+                  <occupation style="background-color: dark-cyan;">Graphiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118612271</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q551901</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Schwind_Moritz_1804_1871.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2693">Zauberflöte</bibl>
                      <bibl n="hsl_work_id_2695">Schubertiade</bibl>
@@ -5950,7 +5955,7 @@
                      <bibl n="hsl_work_id_3212">Les vêpres siciliennes</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_285" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_285" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Josef von</forename>
                      <surname>Sedlnitzky-Choltic</surname>
@@ -5958,9 +5963,9 @@
                   <birth>1778-1855</birth>
                   <death>1778-1855</death>
                   <occupation style="background-color: light-gray;">Beamter</occupation>
-                  <occupation style="background-color: dark-gray;">Politiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/130150630</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1706162</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Sedlnitzky-Choltitz_Josef_1778_1855.xml</idno>
                </person>
                <person xml:id="hsl_person_id_287" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -6143,7 +6148,7 @@
                   <death>19. Jhdt.</death>
                   <occupation style="background-color: dark-red;">Übersetzer</occupation>
                </person>
-               <person xml:id="hsl_person_id_296" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_296" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Joseph</forename>
                      <surname>Staudigl</surname>
@@ -6153,6 +6158,7 @@
                   <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117223301</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q17418268</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Staudigl_Joseph_1850_1916.xml</idno>
                </person>
                <person xml:id="hsl_person_id_297" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -6916,17 +6922,19 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_G/Geistinger_Marie.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_G/Geistinger_Marie_1836_1903.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_347" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_347" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Albin</forename>
                      <surname>Swoboda</surname>
                   </persName>
                   <birth>1836-1901</birth>
                   <death>1836-1901</death>
-                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
                   <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <occupation style="background-color: dark-blue;">Theaterdirektor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117386065</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q88159</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S_43/Swoboda_Albin_1836_1901.xml</idno>
                </person>
                <person xml:id="hsl_person_id_348" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -7671,7 +7679,7 @@
                      <bibl n="hsl_work_id_2562">Handbuch der Musikgeschichte</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_404" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_404" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Karl</forename>
                      <surname>Rosenkranz</surname>
@@ -7679,8 +7687,6 @@
                   <birth>1805-1879</birth>
                   <death>1805-1879</death>
                   <occupation style="background-color: light-orange;">Philosoph</occupation>
-                  <occupation style="background-color: red;">Historiker</occupation>
-                  <occupation style="background-color: light-green;">Theologe</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118602721</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q62315</idno>
                   <listBibl type="authorOf">
@@ -7958,7 +7964,7 @@
                   <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4529643</idno>
                </person>
-               <person xml:id="hsl_person_id_423" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_423" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Pietro</forename>
                      <surname>Mongini</surname>
@@ -8284,7 +8290,7 @@
                   </persName>
                   <occupation style="background-color: darker-orange;">Sänger</occupation>
                </person>
-               <person xml:id="hsl_person_id_730" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_730" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Joseph</forename>
                      <surname>Hyrtl</surname>
@@ -8292,9 +8298,9 @@
                   <birth>1810-1894</birth>
                   <death>1810-1894</death>
                   <occupation style="background-color: cyan;">Anatom</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118708481</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q78684</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_H/Hyrtl_Josef_1810_1894.xml</idno>
                </person>
                <person xml:id="hsl_person_id_428" role="fictional" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -11010,13 +11016,13 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118621211</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q30908</idno>
                </person>
-               <person xml:id="hsl_person_id_693" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_693" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>d'Arc</forename>
                      <surname>Jeanne</surname>
                   </persName>
-                  <birth>1412-1431</birth>
-                  <death>1412-1431</death>
+                  <birth>ca. 1412-1431</birth>
+                  <death>ca. 1412-1431</death>
                   <occupation style="background-color: darker-blue;">Heilige</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118557238</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7226</idno>
@@ -11407,7 +11413,7 @@
                      <bibl n="hsl_work_id_2313">Weihgesang bei Eröffnung des Saales der Gesellschaft der Musikfreunde</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_722" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_722" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Ruggieri degli Ubaldini</surname>
@@ -12824,7 +12830,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1041355491</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q125458935</idno>
                </person>
-               <person xml:id="hsl_person_id_857" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_857" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Anton von</forename>
                      <surname>Klesheim</surname>
@@ -12835,6 +12841,7 @@
                   <occupation style="background-color: light-blue;">Schauspieler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116223057</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q32808</idno>
+                  <idno type="URI" subtype="OEBL">https://biographien.ac.at/oebl/oebl_K/Klesheim_Anton_1812_1884.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_499">Wanns Mailüfterl waht</bibl>
                   </listBibl>
@@ -12973,7 +12980,7 @@
                   </persName>
                   <occupation style="background-color: darker-gray;">Tänzerin</occupation>
                </person>
-               <person xml:id="hsl_person_id_873" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_873" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Hedwig</forename>
                      <surname>Schläger</surname>
@@ -12986,6 +12993,7 @@
                   <death>1853-1907</death>
                   <occupation style="background-color: darker-gray;">Tänzerin</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q89756589</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Schlaeger_Antonie.xml</idno>
                </person>
                <person xml:id="hsl_person_id_874" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -13612,15 +13620,16 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_P/Pasta_Giuditta.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_P/Pasta_Giuditta-Maria-Costanza_1797_1865.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_933" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_933" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann Ferdinand von</forename>
                      <surname>Schönfeld</surname>
                   </persName>
                   <birth>1750-1821</birth>
                   <death>1750-1821</death>
-                  <occupation style="background-color: darker-blue;">Verleger</occupation>
-                  <occupation style="background-color: dark-brown;">Buchhändler</occupation>
+                  <occupation style="background-color: yellow;">Unternehmer</occupation>
+                  <occupation style="background-color: dark-green;">Kunstsammler</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/132120526</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1544317</idno>
                   <listBibl type="authorOf">
@@ -15274,7 +15283,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_F/Forster_Ellen.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_F/Forster-Brandt_Ellen_1866_1921.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_1056" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1056" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Sophie</forename>
                      <surname>Sedlmaier</surname>
@@ -15732,7 +15741,7 @@
                      <bibl n="hsl_work_id_1601">Spaziergänge in den Alpen. Wanderstudien und Plaudereien</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1089" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1089" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Marie</forename>
                      <surname>Schumann</surname>
@@ -15744,7 +15753,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117303259</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q90312364</idno>
                </person>
-               <person xml:id="hsl_person_id_1090" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1090" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Eugenie</forename>
                      <surname>Schumann</surname>
@@ -16080,7 +16089,7 @@
                      <bibl n="hsl_work_id_3287">3 Balladen, op. 1</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1123" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1123" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Nikolaus von Myra</surname>
@@ -16615,7 +16624,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_D/Dreyschock_Brueder.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_D/Dreyschock_Alexander_1818_1869.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_1170" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1170" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Franz Anton von</forename>
                      <surname>Kolowrat-Liebsteinsky</surname>
@@ -16626,6 +16635,7 @@
                   <occupation style="background-color: dark-gray;">Politiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116330422</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q78871</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_K/Kolowrat-Liebsteinsky_Franz-Anton_1778_1861.xml</idno>
                </person>
                <person xml:id="hsl_person_id_1171" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -17138,7 +17148,7 @@
                      <bibl n="hsl_work_id_716">Sappho</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1212" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1212" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Kalidasa</surname>
@@ -18086,7 +18096,7 @@
                   <occupation style="background-color: dark-cyan;">Adeliger</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2707233</idno>
                </person>
-               <person xml:id="hsl_person_id_1277" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1277" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Silvio</forename>
                      <surname>Pellico</surname>
@@ -18096,6 +18106,7 @@
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119238500</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q435151</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_P/Pellico_Silvio_1789_1854.xml</idno>
                </person>
                <person xml:id="hsl_person_id_1278" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -18239,16 +18250,17 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_A/Anschuetz_Heinrich.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_A/Anschuetz_Heinrich_1785_1865.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_1287" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1287" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ludwig</forename>
                      <surname>Löwe</surname>
                   </persName>
-                  <birth>1795-1871</birth>
-                  <death>1795-1871</death>
+                  <birth>1794-1871</birth>
+                  <death>1794-1871</death>
                   <occupation style="background-color: light-blue;">Schauspieler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/101459734</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4992710</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_L/Loewe_Ludwig_1794_1871.xml</idno>
                </person>
                <person xml:id="hsl_person_id_1288" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -18618,7 +18630,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118886673</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q111559</idno>
                </person>
-               <person xml:id="hsl_person_id_1317" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1317" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Maria Magdalena</surname>
@@ -18686,7 +18698,7 @@
                   <death>19./20. Jhdt.</death>
                   <occupation style="background-color: dark-gray;">Sänger (Bassist)</occupation>
                </person>
-               <person xml:id="hsl_person_id_1323" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1323" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Paula</forename>
                      <surname>Szalit</surname>
@@ -18746,7 +18758,7 @@
                      <bibl n="hsl_work_id_3238">Variationen für 2 Klaviere</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1326" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1326" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Susanne</forename>
                      <surname>Rée</surname>
@@ -18758,9 +18770,10 @@
                   <birth>1862-1937</birth>
                   <death>1862-1937</death>
                   <occupation style="background-color: dark-blue;">Pianistin</occupation>
-                  <occupation style="background-color: gray;">Sängerin</occupation>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116389842</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q59653313</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_R/Ree_Ehepaar.xml</idno>
                </person>
                <person xml:id="hsl_person_id_1327" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -19008,7 +19021,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q50328023</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_N/Navratil_Karl.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_1342" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1342" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Josef</forename>
                      <surname>Schatz</surname>
@@ -19020,9 +19033,9 @@
                   <birth>1871-1950</birth>
                   <death>1871-1950</death>
                   <occupation style="background-color: dark-orange;">Germanist</occupation>
-                  <occupation style="background-color: brown;">Philologe</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117110922</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1705616</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Schatz_Josef_1871_1950.xml</idno>
                </person>
                <person xml:id="hsl_person_id_1343" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -19072,7 +19085,7 @@
                      <bibl n="hsl_work_id_841">Der dot Mon</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1347" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1347" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Petrus</surname>
@@ -19106,7 +19119,7 @@
                      <bibl n="hsl_work_id_842">Abu Hassan, J106</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1350" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1350" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Wilhelm</forename>
                      <surname>Scherer</surname>
@@ -19114,9 +19127,9 @@
                   <birth>1841-1886</birth>
                   <death>1841-1886</death>
                   <occupation style="background-color: dark-orange;">Germanist</occupation>
-                  <occupation style="background-color: brown;">Philologe</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118607200</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q112136</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Scherer_Wilhelm_1841_1886.xml</idno>
                </person>
                <person xml:id="hsl_person_id_1351" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -19516,7 +19529,7 @@
                      <bibl n="hsl_work_id_861">Der Bärenhäuter, op. 1</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1381" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1381" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Elisabeth</forename>
                      <surname>Petznek</surname>
@@ -20857,7 +20870,7 @@
                </person>
                <person xml:id="hsl_person_id_1481" resp="#awilfing" cert="medium">
                   <persName type="main">
-                     <forename>Kurfürst Pfalz</forename>
+                     <forename>Kurfürst der Pfalz</forename>
                      <surname>Karl Theodor</surname>
                   </persName>
                   <birth>1724-1799</birth>
@@ -20884,7 +20897,7 @@
                   <death>19./20. Jhdt.</death>
                   <occupation style="background-color: dark-red;">Fagottist</occupation>
                </person>
-               <person xml:id="hsl_person_id_1484" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1484" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Alois</forename>
                      <surname>Schmidl</surname>
@@ -20894,6 +20907,7 @@
                   <occupation style="background-color: dark-purple;">Klarinettist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1043128247</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q125458948</idno>
+                  <idno type="URI" subtype="OEML">https://musiklexikon.ac.at/ml/musik_S/Schmidl_Peter.xml</idno>
                </person>
                <person xml:id="hsl_person_id_1485" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -20913,7 +20927,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_H/Hoffmann_Karl.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_H/Hofmann_Karl_1835_1909.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_1486" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1486" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>August</forename>
                      <surname>Schumann</surname>
@@ -20936,7 +20950,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1209230437</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q125395819</idno>
                </person>
-               <person xml:id="hsl_person_id_1488" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1488" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Christiane</forename>
                      <surname>Schumann</surname>
@@ -21024,7 +21038,7 @@
                      <bibl n="hsl_work_id_2611">Konzert für Violine und Orchester Nr. 4 in d-Moll, op. 31</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1495" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1495" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Elise</forename>
                      <surname>Schumann</surname>
@@ -21036,7 +21050,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117477850</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55846722</idno>
                </person>
-               <person xml:id="hsl_person_id_1497" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1497" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ferdinand</forename>
                      <surname>Schumann</surname>
@@ -21047,7 +21061,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117294497</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q94900851</idno>
                </person>
-               <person xml:id="hsl_person_id_1498" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1498" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ludwig</forename>
                      <surname>Schumann</surname>
@@ -21058,7 +21072,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1021212970</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q125458952</idno>
                </person>
-               <person xml:id="hsl_person_id_1499" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1499" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Julie</forename>
                      <surname>Schumann</surname>
@@ -21444,7 +21458,7 @@
                      <bibl n="hsl_work_id_1379">Der Rattenfänger von Hameln</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1530" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1530" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Arthur</forename>
                      <surname>Seidl</surname>
@@ -21723,13 +21737,13 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1170106900</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q95697611</idno>
                </person>
-               <person xml:id="hsl_person_id_1552" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1552" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Elsa von</forename>
                      <surname>Plank</surname>
                   </persName>
-                  <birth>19./20. Jhdt.</birth>
-                  <death>19./20. Jhdt.</death>
+                  <birth>?-nach 1942</birth>
+                  <death>?-nach 1942</death>
                   <occupation style="background-color: gray;">Violinistin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116205164</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q95682327</idno>
@@ -21843,7 +21857,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/123332098X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q125459155</idno>
                </person>
-               <person xml:id="hsl_person_id_1562" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1562" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Marie</forename>
                      <surname>Richter</surname>
@@ -21855,9 +21869,9 @@
                   <birth>1875-1948</birth>
                   <death>1875-1948</death>
                   <occupation style="background-color: dark-gray;">Sängerin (Mezzo-Sopran)</occupation>
-                  <occupation style="background-color: dark-blue;">Gesangslehrerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1059931524</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q125395803</idno>
+                  <idno type="URI" subtype="OEML">https://musiklexikon.ac.at/ml/musik_R/Richter_Hans.xml</idno>
                </person>
                <person xml:id="hsl_person_id_1563" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -22269,17 +22283,17 @@
                      <bibl n="hsl_work_id_1005">Gott erhalte Franz den Kaiser, Hob.XXVIa:43</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1594" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1594" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Graf Franz Joseph von</forename>
                      <surname>Saurau</surname>
                   </persName>
                   <birth>1760-1832</birth>
                   <death>1760-1832</death>
-                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
                   <occupation style="background-color: dark-gray;">Politiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117019496</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q216253</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Saurau_Franz-Josef_1760_1832.xml</idno>
                </person>
                <person xml:id="hsl_person_id_1596" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -23405,7 +23419,7 @@
                      <bibl n="hsl_work_id_649">Die Walküre, WWV86B</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1692" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1692" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Mór</forename>
                      <surname>Jókai</surname>
@@ -23417,9 +23431,9 @@
                   <birth>1825-1904</birth>
                   <death>1825-1904</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: dark-green;">Journalist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118985418</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q379621</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_J/Jokai_Mor_1825_1904.xml</idno>
                </person>
                <person xml:id="hsl_person_id_1693" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -26640,7 +26654,7 @@
                      <bibl n="hsl_work_id_1275">Die Hexe von Boisy</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1949" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1949" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Wilhelm</forename>
                      <surname>Knaack</surname>
@@ -26650,6 +26664,7 @@
                   <occupation style="background-color: light-blue;">Schauspieler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116243252</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1691737</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_K/Knaack_Wilhelm_1829_1894.xml</idno>
                </person>
                <person xml:id="hsl_person_id_1950" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -26692,7 +26707,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q96341</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_B/Beckmann_Friedrich_1803_1866.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_1953" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1953" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Karl Wilhelm</forename>
                      <surname>Meixner</surname>
@@ -26702,6 +26717,7 @@
                   <occupation style="background-color: light-blue;">Schauspieler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11687239X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1522031</idno>
+                  <idno type="URI" subtype="OEBL">https://biographien.ac.at/oebl/oebl_M/Meixner_Karl-Wilhelm_1815_1888.xml</idno>
                </person>
                <person xml:id="hsl_person_id_1954" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -26715,17 +26731,18 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q114728</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_G/Gabillon_Ludwig_1828_1896.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_1955" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1955" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Adolf von</forename>
                      <surname>Sonnenthal</surname>
                   </persName>
-                  <birth>1834-1909</birth>
-                  <death>1834-1909</death>
+                  <birth>1832-1909</birth>
+                  <death>1832-1909</death>
                   <occupation style="background-color: light-blue;">Schauspieler</occupation>
                   <occupation style="background-color: gray;">Regisseur</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119343207</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q84769</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_s/Sonnenthal_Adolf_1832_1909.xml</idno>
                </person>
                <person xml:id="hsl_person_id_1956" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -26849,7 +26866,7 @@
                      <bibl n="hsl_work_id_1006">Das Donauweibchen</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1968" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1968" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Rose Friquet</surname>
@@ -27014,16 +27031,15 @@
                      <bibl n="hsl_work_id_1280">Rule, Britannia!</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1980" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1980" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Maximilian</forename>
                      <surname>Singer</surname>
                   </persName>
                   <birth>1857-1928</birth>
                   <death>1857-1928</death>
-                  <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: light-orange;">Librettist</occupation>
                   <occupation style="background-color: light-red;">Botaniker</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117402516</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q47126256</idno>
                   <listBibl type="authorOf">
@@ -27080,7 +27096,7 @@
                      <bibl n="hsl_work_id_1286">El desdén con el desdén</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1984" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1984" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Jean Paul</surname>
@@ -27348,7 +27364,7 @@
                      <bibl n="hsl_work_id_1096">Joseph and his Brethren, HWV59</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2003" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2003" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Siegfried</forename>
                      <surname>Lipiner</surname>
@@ -27356,9 +27372,10 @@
                   <birth>1856-1911</birth>
                   <death>1856-1911</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: dark-green;">Journalist</occupation>
+                  <occupation style="background-color: darker-purple;">Bibliothekar</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11906815X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q326460</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_L/Lipiner_Siegfried_1856_1911.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1112">Merlin</bibl>
                   </listBibl>
@@ -27834,13 +27851,13 @@
                      <bibl n="hsl_work_id_1292">Die Entführung aus dem Serail, KV384</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2036" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2036" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Eugène de</forename>
                      <surname>Planard</surname>
                   </persName>
-                  <birth>1783-1855</birth>
-                  <death>1783-1855</death>
+                  <birth>1783-1853</birth>
+                  <death>1783-1853</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <occupation style="background-color: light-orange;">Librettist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/123381762</idno>
@@ -27931,7 +27948,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116669314</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3185601</idno>
                </person>
-               <person xml:id="hsl_person_id_2042" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2042" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Carl von</forename>
                      <surname>Lützow</surname>
@@ -27943,10 +27960,10 @@
                   <birth>1832-1897</birth>
                   <death>1832-1897</death>
                   <occupation style="background-color: dark-orange;">Kunsthistoriker</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
-                  <occupation style="background-color: blue;">Kritiker</occupation>
+                  <occupation style="background-color: darker-green;">Archäologe</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/100804691</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q124190</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_L/Luetzow_Karl_1832_1897.xml</idno>
                </person>
                <person xml:id="hsl_person_id_2043" role="fictional" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -28688,7 +28705,7 @@
                      <bibl n="hsl_work_id_1656">Immer leiser wird mein Schlummer, op. 105 Nr. 2</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2097" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2097" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>August</forename>
                      <surname>Silberstein</surname>
@@ -28696,9 +28713,9 @@
                   <birth>1827-1900</birth>
                   <death>1827-1900</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: dark-green;">Journalist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11738464X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q113791</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Silberstein_August_1827_1900.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_446">Germanenzug, WAB70</bibl>
                      <bibl n="hsl_work_id_2970">Helgoland, WAB71</bibl>
@@ -29110,17 +29127,17 @@
                      <bibl n="hsl_work_id_1508">L'ange de Nisida</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2124" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2124" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Gaetano</forename>
                      <surname>Rossi</surname>
                   </persName>
                   <birth>1774-1855</birth>
                   <death>1774-1855</death>
-                  <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <occupation style="background-color: light-orange;">Librettist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119304805</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1491039</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_R/Rossi_Gaetano_1774_1855.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_12">Il crociato in Egitto</bibl>
                      <bibl n="hsl_work_id_52">Semiramide</bibl>
@@ -30332,7 +30349,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117076384</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q125464939</idno>
                </person>
-               <person xml:id="hsl_person_id_2201" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2201" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Maria Karoline zu</forename>
                      <surname>Schwarzenberg</surname>
@@ -30343,10 +30360,10 @@
                   </persName>
                   <birth>1775-1816</birth>
                   <death>1775-1816</death>
-                  <occupation style="background-color: light-blue;">Adelige</occupation>
-                  <occupation style="background-color: darker-blue;">Mäzenin</occupation>
+                  <occupation style="background-color: darker-cyan;">Philantropin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/103347875X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q47939303</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Schwarzenberg_Maria-Karoline_1775_1816.xml</idno>
                </person>
                <person xml:id="hsl_person_id_2202" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -30412,7 +30429,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116700785</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q103281</idno>
                </person>
-               <person xml:id="hsl_person_id_2207" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2207" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Sophie</forename>
                      <surname>Schröder</surname>
@@ -30420,9 +30437,9 @@
                   <birth>1781-1868</birth>
                   <death>1781-1868</death>
                   <occupation style="background-color: dark-red;">Schauspielerin</occupation>
-                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118761889</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q97039</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_s/Schroeder_Sophie_1781_1868.xml</idno>
                </person>
                <person xml:id="hsl_person_id_2208" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -30832,7 +30849,7 @@
                      <bibl n="hsl_work_id_2910">Nun hast du mir den ersten Schmerz getan, op. 42 Nr. 8</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2233" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2233" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Karel</forename>
                      <surname>Sabina</surname>
@@ -30840,10 +30857,10 @@
                   <birth>1813-1877</birth>
                   <death>1813-1877</death>
                   <occupation style="background-color: dark-green;">Journalist</occupation>
-                  <occupation style="background-color: light-orange;">Librettist</occupation>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118750542</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q740181</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Sabina_Karel_1813_1877.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1240">Prodaná nevěsta, JB1:100</bibl>
                      <bibl n="hsl_work_id_1515">Braniboři v Čechách, JB1:87</bibl>
@@ -30989,7 +31006,7 @@
                      <bibl n="hsl_work_id_208">Don Carlos, H61</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2243" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2243" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Andrea</forename>
                      <surname>Maffei</surname>
@@ -30997,10 +31014,9 @@
                   <birth>1798-1885</birth>
                   <death>1798-1885</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: light-orange;">Librettist</occupation>
-                  <occupation style="background-color: dark-red;">Übersetzer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119062526</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2460930</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_M/Maffei_Andrea_1798_1885.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_178">I masnadieri, H47</bibl>
                      <bibl n="hsl_work_id_2753">Guglielmo Ratcliff</bibl>
@@ -31149,7 +31165,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Saphir_Moritz.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Saphir_Moritz-Gottlieb_1795_1858.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_2253" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2253" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Julie</forename>
                      <surname>Rettich</surname>
@@ -31159,6 +31175,7 @@
                   <occupation style="background-color: dark-red;">Schauspielerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116449926</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1712198</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_R/Rettich_Julie_1809_1866.xml</idno>
                </person>
                <person xml:id="hsl_person_id_2254" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -31248,17 +31265,18 @@
                      <bibl n="hsl_work_id_1351">Niobe, regina di Tebe</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2261" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2261" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann Valentin</forename>
                      <surname>Schickh</surname>
                   </persName>
                   <birth>1770-1835</birth>
                   <death>1770-1835</death>
-                  <occupation style="background-color: dark-green;">Journalist</occupation>
                   <occupation style="background-color: yellow;">Unternehmer</occupation>
+                  <occupation style="background-color: dark-green;">Journalist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/102989633X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15456050</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Schickh_Johann-Valentin_1770_1835.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1353">Wiener Zeitschrift für Kunst, Literatur, Theater und Mode</bibl>
                   </listBibl>
@@ -31332,7 +31350,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118524097</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q316722</idno>
                </person>
-               <person xml:id="hsl_person_id_2269" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2269" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Heinrich</forename>
                      <surname>Hlasiwetz</surname>
@@ -31342,8 +31360,9 @@
                   <occupation style="background-color: dark-gray;">Chemiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116917784</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q86284</idno>
+                  <idno type="URI" subtype="OEBL">https://biographien.ac.at/oebl/oebl_H/Hlasiwetz_Heinrich_1825_1875.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_2270" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2270" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Anton von</forename>
                      <surname>Schrötter</surname>
@@ -31351,11 +31370,11 @@
                   <birth>1802-1875</birth>
                   <death>1802-1875</death>
                   <occupation style="background-color: dark-gray;">Chemiker</occupation>
-                  <occupation style="background-color: dark-pink;">Mineraloge</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117098981</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q86275</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_s/Schroetter-Kristelli_Anton_1802_1875.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_2271" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2271" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Joseph</forename>
                      <surname>Redtenbacher</surname>
@@ -31363,9 +31382,9 @@
                   <birth>1810-1870</birth>
                   <death>1810-1870</death>
                   <occupation style="background-color: dark-gray;">Chemiker</occupation>
-                  <occupation style="background-color: dark-orange;">Mediziner</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116389613</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q89508</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_R/Redtenbacher_Josef_1810_1870.xml</idno>
                </person>
                <person xml:id="hsl_person_id_2272" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -32101,16 +32120,14 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116507004</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1392901</idno>
                </person>
-               <person xml:id="hsl_person_id_2344" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2344" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Louis-Luc Loiseau de</forename>
                      <surname>Persuis</surname>
                   </persName>
                   <birth>1769-1819</birth>
                   <death>1769-1819</death>
-                  <occupation style="background-color: light-gray;">Violinist</occupation>
-                  <occupation style="background-color: red;">Dirigent</occupation>
-                  <occupation style="background-color: dark-blue;">Theaterdirektor</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/10422813X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2086781</idno>
                </person>
@@ -32756,7 +32773,7 @@
                      <bibl n="hsl_work_id_2660">Erinnerung, op. 4</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2392" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2392" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Carl</forename>
                      <surname>Kundmann</surname>
@@ -32766,6 +32783,7 @@
                   <occupation style="background-color: darker-pink;">Bildhauer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116610301</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q323521</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_K/Kundmann_Karl_1838_1919.xml</idno>
                </person>
                <person xml:id="hsl_person_id_2393" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -33745,7 +33763,7 @@
                      <bibl n="hsl_work_id_3120">Die Flüchtlinge</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2466" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2466" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Adele</forename>
                      <surname>Strauss</surname>
@@ -33976,13 +33994,13 @@
                   <death>19. Jhdt.</death>
                   <occupation style="background-color: dark-gray;">Kaufmann</occupation>
                </person>
-               <person xml:id="hsl_person_id_2486" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2486" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Rosa</forename>
                      <surname>Neuda-Bernstein</surname>
                   </persName>
-                  <birth>19./20. Jhdt.</birth>
-                  <death>19./20. Jhdt.</death>
+                  <birth>1856-?</birth>
+                  <death>1856-?</death>
                   <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                </person>
                <person xml:id="hsl_person_id_2487" resp="#awilfing" cert="high">
@@ -34276,7 +34294,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11852786X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5580</idno>
                </person>
-               <person xml:id="hsl_person_id_2511" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2511" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Benedictus de</forename>
                      <surname>Spinoza</surname>
@@ -34329,7 +34347,7 @@
                      <bibl n="hsl_work_id_2777">Schlafwandel, op. 18</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2515" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2515" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Friedrich</forename>
                      <surname>Maaßen</surname>
@@ -34337,10 +34355,10 @@
                   <birth>1823-1900</birth>
                   <death>1823-1900</death>
                   <occupation style="background-color: green;">Jurist</occupation>
-                  <occupation style="background-color: dark-green;">Journalist</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
+                  <occupation style="background-color: darker-blue;">Kanonist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116620056</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q74639</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_M/Maassen_Friedrich-Bernhard_1823_1900.xml</idno>
                </person>
                <person xml:id="hsl_person_id_2516" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -35047,7 +35065,7 @@
                      <bibl n="hsl_work_id_1511">Dalibor, JB1:101</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2580" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2580" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Eliška</forename>
                      <surname>Krásnohorská</surname>
@@ -35059,10 +35077,9 @@
                   <birth>1847-1926</birth>
                   <death>1847-1926</death>
                   <occupation style="background-color: gray;">Schriftstellerin</occupation>
-                  <occupation style="background-color: darker-yellow;">Librettistin</occupation>
-                  <occupation style="background-color: darker-blue;">Feministin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118989405</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q274171</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_P/Pechova_Alzbeta_1847_1926.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1512">Tajemství, JB1:110</bibl>
                      <bibl n="hsl_work_id_1513">Hubička, JB1:104</bibl>
@@ -35344,7 +35361,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117127221</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q94841604</idno>
                </person>
-               <person xml:id="hsl_person_id_2603" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2603" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Paul</forename>
                      <surname>Mendelssohn Bartholdy</surname>
@@ -35355,7 +35372,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116881151</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2061251</idno>
                </person>
-               <person xml:id="hsl_person_id_2604" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2604" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Cécile</forename>
                      <surname>Mendelssohn Bartholdy</surname>
@@ -35906,7 +35923,7 @@
                      <bibl n="hsl_work_id_1531">Der Tyroler Landsturm, Op. 100</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2648" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2648" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Joseph von</forename>
                      <surname>Seyfried</surname>
@@ -35915,9 +35932,9 @@
                   <death>1780-1849</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <occupation style="background-color: dark-green;">Journalist</occupation>
-                  <occupation style="background-color: blue;">Kritiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117460087</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55131102</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_s/Seyfried_Josef_1780_1849.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1532">Die Rückkehr des Vaters. Eine Cantate in zwey Abtheilungen</bibl>
                      <bibl n="hsl_work_id_1533">Oesterreich's Jubeltag</bibl>
@@ -36834,7 +36851,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116662166</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1452729</idno>
                </person>
-               <person xml:id="hsl_person_id_2719" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2719" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Franz</forename>
                      <surname>Salzer</surname>
@@ -36846,7 +36863,6 @@
                   <birth>1827-1890</birth>
                   <death>1827-1890</death>
                   <occupation style="background-color: dark-orange;">Mediziner</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1016962568</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q46630401</idno>
                </person>
@@ -37692,7 +37708,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11667749X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q95195442</idno>
                </person>
-               <person xml:id="hsl_person_id_2790" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2790" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Anna</forename>
                      <surname>Prasch</surname>
@@ -37707,6 +37723,7 @@
                   <occupation style="background-color: dark-blue;">Gesangslehrerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1298464870</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q125398871</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_P/Prasch_Familie.xml</idno>
                </person>
                <person xml:id="hsl_person_id_2791" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -37830,7 +37847,7 @@
                      <bibl n="hsl_work_id_1661">Feldeinsamkeit, op. 86 Nr. 2</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2802" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2802" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Felix</forename>
                      <surname>Schumann</surname>
@@ -39301,7 +39318,7 @@
                      <bibl n="hsl_work_id_1284">Donna Diana</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2920" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2920" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ignaz von</forename>
                      <surname>Plener</surname>
@@ -39311,6 +39328,7 @@
                   <occupation style="background-color: dark-gray;">Politiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118595016</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q78834</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_P/Plener_Ignaz_1810_1908.xml</idno>
                </person>
                <person xml:id="hsl_person_id_2921" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -39348,7 +39366,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q18631769</idno>
                   <idno type="URI" subtype="OEML">https://musiklexikon.ac.at/ml/musik_B/Boschetti_Familie.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_2924" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2924" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Julius</forename>
                      <surname>Stern</surname>
@@ -39356,15 +39374,14 @@
                   <birth>1865-1939</birth>
                   <death>1865-1939</death>
                   <occupation style="background-color: dark-green;">Journalist</occupation>
-                  <occupation style="background-color: light-gray;">Musikautor</occupation>
-                  <occupation style="background-color: darker-brown;">Kantor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1012743764</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q94847349</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_s/Stern_Julius_1865_1939.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1694">Fünfzig Jahre Hoftheater</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2925" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2925" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Rudolf</forename>
                      <surname>Lothar</surname>
@@ -39373,9 +39390,9 @@
                   <death>1865-1943</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <occupation style="background-color: dark-green;">Journalist</occupation>
-                  <occupation style="background-color: blue;">Kritiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119545063</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q215158</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Spitzer_Rudolf-Lothar_1865_1943.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1694">Fünfzig Jahre Hoftheater</bibl>
                   </listBibl>
@@ -39511,7 +39528,7 @@
                   <occupation style="background-color: red;">Heiliger</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1075059364</idno>
                </person>
-               <person xml:id="hsl_person_id_2938" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2938" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann Franz</forename>
                      <surname>Kempen von Fichtenstamm</surname>
@@ -39519,8 +39536,10 @@
                   <birth>1793-1863</birth>
                   <death>1793-1863</death>
                   <occupation style="background-color: light-gray;">Offizier</occupation>
+                  <occupation style="background-color: dark-green;">Minister</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/126717397</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q877627</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_K/Kempen-Fichtenstamm_Johann-Franz_1793_1863.xml</idno>
                </person>
                <person xml:id="hsl_person_id_2939" role="fictional" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -40096,7 +40115,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q163061</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_A/Adamberger_Familie.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_2988" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2988" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Leopold Florian</forename>
                      <surname>Meissner</surname>
@@ -40109,9 +40128,10 @@
                   <death>1835-1895</death>
                   <occupation style="background-color: light-gray;">Beamter</occupation>
                   <occupation style="background-color: green;">Jurist</occupation>
-                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118938673</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1739291</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_M/Meissner_Leopold-Florian_1835_1895.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1732">Aus den Papieren eines Polizeikommissärs. Wiener Sittenbilder</bibl>
                   </listBibl>
@@ -41388,7 +41408,7 @@
                      <bibl n="hsl_work_id_1808">Nun grüße dich Gott, Frau Minne, op. 30</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3095" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3095" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johannes M.</forename>
                      <surname>Messchaert</surname>
@@ -41505,7 +41525,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_E/Epstein_Familie.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_E/Epstein_Richard_1869_1919.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_3105" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3105" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann von</forename>
                      <surname>Mikulicz-Radecki</surname>
@@ -41515,6 +41535,7 @@
                   <occupation style="background-color: dark-orange;">Mediziner</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118733893</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q66944</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_M/Mikulicz-Radecki_Johann_1850_1905.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3106" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -41602,7 +41623,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118932640</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q79876</idno>
                </person>
-               <person xml:id="hsl_person_id_3113" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3113" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Hermann</forename>
                      <surname>Nothnagel</surname>
@@ -41610,9 +41631,9 @@
                   <birth>1841-1905</birth>
                   <death>1841-1905</death>
                   <occupation style="background-color: dark-orange;">Mediziner</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11903462X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q73361</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_N/Nothnagel_Hermann_1841_1905.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3114" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -41709,7 +41730,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/139885048</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q86863</idno>
                </person>
-               <person xml:id="hsl_person_id_3122" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3122" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Alfons von</forename>
                      <surname>Rosthorn</surname>
@@ -41717,11 +41738,11 @@
                   <birth>1857-1909</birth>
                   <death>1857-1909</death>
                   <occupation style="background-color: dark-orange;">Mediziner</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116633905</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q87539</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_R/Rosthorn_Alfons_1857_1909.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_3123" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3123" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Wilhelm</forename>
                      <surname>His</surname>
@@ -41729,7 +41750,6 @@
                   <birth>1831-1904</birth>
                   <death>1831-1904</death>
                   <occupation style="background-color: dark-orange;">Mediziner</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118705253</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q115601</idno>
                </person>
@@ -41755,17 +41775,17 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117231657</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55900222</idno>
                </person>
-               <person xml:id="hsl_person_id_3126" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3126" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Franz</forename>
                      <surname>Schuh</surname>
                   </persName>
-                  <birth>1804-1867</birth>
-                  <death>1804-1867</death>
+                  <birth>1804-1865</birth>
+                  <death>1804-1865</death>
                   <occupation style="background-color: dark-orange;">Mediziner</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11764708X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q86277</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Schuh_Franz_1804_1865.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3127" role="fictional" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -41953,7 +41973,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118780034</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q86886</idno>
                </person>
-               <person xml:id="hsl_person_id_3142" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3142" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Franz von</forename>
                      <surname>Pitha</surname>
@@ -41961,9 +41981,9 @@
                   <birth>1810-1875</birth>
                   <death>1810-1875</death>
                   <occupation style="background-color: dark-orange;">Mediziner</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117689580</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q442053</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_P/Pitha_Franz_1810_1875.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3143" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -43583,7 +43603,7 @@
                      <bibl n="hsl_work_id_674">Tannhäuser. Zukunftsposse mit vergangener Musik und gegenwärtigen Gruppierungen</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3272" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3272" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Reinhold</forename>
                      <surname>Hummer</surname>
@@ -43594,6 +43614,7 @@
                   <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/130187135</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4502321</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_H/Hummer_Reinhold.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3273" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -43680,7 +43701,7 @@
                      <bibl n="hsl_work_id_387">Briefwechsel zwischen Goethe und Zelter</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3279" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3279" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Sirach</surname>
@@ -44276,7 +44297,7 @@
                      <bibl n="hsl_work_id_1935">Dr. Carl Loewe's Selbstbiographie</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3328" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3328" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann Andreas</forename>
                      <surname>Loewe</surname>
@@ -44288,7 +44309,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1073326551</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q125459318</idno>
                </person>
-               <person xml:id="hsl_person_id_3329" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3329" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Marie</forename>
                      <surname>Loewe</surname>
@@ -44309,7 +44330,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q216090</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_T/Tuerk_Daniel.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_3331" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3331" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Julie</forename>
                      <surname>Loewe</surname>
@@ -44321,7 +44342,7 @@
                   <birth>1796-1823</birth>
                   <death>1796-1823</death>
                </person>
-               <person xml:id="hsl_person_id_3332" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3332" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Anton</forename>
                      <surname>Plappart von Leenheer</surname>
@@ -44331,6 +44352,7 @@
                   <occupation style="background-color: green;">Jurist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1026198658</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q41589732</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_P/Plappart-Leenheer_Anton_1780_1860.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3333" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -44345,7 +44367,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/10408040X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q19284503</idno>
                </person>
-               <person xml:id="hsl_person_id_3334" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3334" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Auguste</forename>
                      <surname>Loewe</surname>
@@ -44370,17 +44392,17 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118540254</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q75568</idno>
                </person>
-               <person xml:id="hsl_person_id_3336" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3336" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Henriette von</forename>
                      <surname>Pereira-Arnstein</surname>
                   </persName>
                   <birth>1780-1859</birth>
                   <death>1780-1859</death>
-                  <occupation style="background-color: dark-blue;">Pianistin</occupation>
-                  <occupation style="background-color: darker-cyan;">Salonnière</occupation>
+                  <occupation style="background-color: darker-blue;">Mäzenin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/136224032</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q22083797</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_P/Pereira-Arnstein_Henriette_1780_1859.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3337" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -44395,7 +44417,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Streicher_Familie.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Streicher_Johann-Bapt_1796_1871.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_3338" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3338" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Helene</forename>
                      <surname>Loewe</surname>
@@ -45112,7 +45134,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116451793</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q497494</idno>
                </person>
-               <person xml:id="hsl_person_id_3394" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3394" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann Joseph Wenzel</forename>
                      <surname>Radetzky von Radetz</surname>
@@ -45120,9 +45142,9 @@
                   <birth>1766-1858</birth>
                   <death>1766-1858</death>
                   <occupation style="background-color: light-gray;">Offizier</occupation>
-                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118597647</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q153500</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_R/Radetzky-Radetz_Johann-Josef-Wenzel_1766_1858.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3395" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -46724,7 +46746,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/132625814</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4154420</idno>
                </person>
-               <person xml:id="hsl_person_id_3529" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3529" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Karolína</forename>
                      <surname>Světlá</surname>
@@ -46738,6 +46760,7 @@
                   <occupation style="background-color: gray;">Schriftstellerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118799509</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q258960</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_M/Muzakova_Johanka_1830_1899.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2125">Hubička a jiné ještědské povídky</bibl>
                   </listBibl>
@@ -47365,7 +47388,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q95661438</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_B/Basch-Mahler_Fanny.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_3580" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3580" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Georg</forename>
                      <surname>Reimers</surname>
@@ -47373,9 +47396,9 @@
                   <birth>1860-1936</birth>
                   <death>1860-1936</death>
                   <occupation style="background-color: light-blue;">Schauspieler</occupation>
-                  <occupation style="background-color: gray;">Regisseur</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11641488X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1505717</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_R/Reimers_Georg_1860_1936.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3581" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -47529,7 +47552,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117177989</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55675114</idno>
                </person>
-               <person xml:id="hsl_person_id_3591" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3591" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Engelbert</forename>
                      <surname>Mühlbacher</surname>
@@ -47537,10 +47560,9 @@
                   <birth>1843-1903</birth>
                   <death>1843-1903</death>
                   <occupation style="background-color: red;">Historiker</occupation>
-                  <occupation style="background-color: purple;">Priester</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11716173X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q87151</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_M/Muehlbacher_Engelbert_1843_1903.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3592" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -47784,17 +47806,18 @@
                      <bibl n="hsl_work_id_493">Die Leiden des jungen Werther</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3610" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3610" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Joseph</forename>
                      <surname>Skoda</surname>
                   </persName>
                   <birth>1805-1881</birth>
                   <death>1805-1881</death>
+                  <occupation style="background-color: cyan;">Anatom</occupation>
                   <occupation style="background-color: dark-orange;">Mediziner</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119034603</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q79165</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Skoda_Josef_1805_1881.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3611" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -47855,17 +47878,18 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118758055</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q711132</idno>
                </person>
-               <person xml:id="hsl_person_id_3615" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3615" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Anton</forename>
                      <surname>Springer</surname>
                   </persName>
                   <birth>1825-1891</birth>
                   <death>1825-1891</death>
-                  <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <occupation style="background-color: dark-orange;">Kunsthistoriker</occupation>
+                  <occupation style="background-color: dark-green;">Journalist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117479373</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q64637</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Springer_Anton-Heinrich_1825_1891.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2177">Bilder aus der neueren Kunstgeschichte</bibl>
                   </listBibl>
@@ -47943,18 +47967,17 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/12918375X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q94910176</idno>
                </person>
-               <person xml:id="hsl_person_id_3621" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3621" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Siegfried</forename>
                      <surname>Kapper</surname>
                   </persName>
-                  <birth>1820-1879</birth>
-                  <death>1820-1879</death>
+                  <birth>1821-1879</birth>
+                  <death>1821-1879</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: dark-orange;">Mediziner</occupation>
-                  <occupation style="background-color: dark-red;">Übersetzer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116053755</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2283496</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_K/Kapper_Siegfried_1821_1879.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2189">Mädchenfluch, op. 69 Nr. 9</bibl>
                   </listBibl>
@@ -48148,7 +48171,7 @@
                      <bibl n="hsl_work_id_2203">The Principles of Sociology</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3637" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3637" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Salomon</forename>
                      <surname>Stricker</surname>
@@ -48156,10 +48179,9 @@
                   <birth>1834-1898</birth>
                   <death>1834-1898</death>
                   <occupation style="background-color: dark-orange;">Mediziner</occupation>
-                  <occupation style="background-color: dark-orange;">Pathologe</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117318477</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q84573</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Stricker_Salomon_1834_1898.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3638" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -48168,7 +48190,7 @@
                   </persName>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q16025991</idno>
                </person>
-               <person xml:id="hsl_person_id_3639" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3639" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Eduard</forename>
                      <surname>Sueß</surname>
@@ -48180,10 +48202,11 @@
                   <birth>1831-1914</birth>
                   <death>1831-1914</death>
                   <occupation style="background-color: darker-cyan;">Geologe</occupation>
+                  <occupation style="background-color: darker-cyan;">Paläontologe</occupation>
                   <occupation style="background-color: dark-gray;">Politiker</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118757709</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q156941</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Suess_Eduard_1831_1914.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3640" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -48227,7 +48250,7 @@
                      <bibl n="hsl_work_id_2211">Oktett für Oboe, Klarinette, Fagott, Horn, Violine, Viola, Cello und Kontrabass in B-Dur, op. 7</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3644" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3644" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Gottfried</forename>
                      <surname>Semper</surname>
@@ -48235,10 +48258,9 @@
                   <birth>1803-1879</birth>
                   <death>1803-1879</death>
                   <occupation style="background-color: light-purple;">Architekt</occupation>
-                  <occupation style="background-color: dark-orange;">Kunsthistoriker</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118613154</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q61342</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Semper_Gottfried_1803_1879.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3645" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -48340,7 +48362,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118800256</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q117207</idno>
                </person>
-               <person xml:id="hsl_person_id_3653" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3653" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ludwig von</forename>
                      <surname>Przibram</surname>
@@ -48352,6 +48374,7 @@
                   <occupation style="background-color: dark-red;">Diplomat</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11630619X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q18601510</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_P/Przibram-Gladona_Ludwig_1840_1916.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3654" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -48535,7 +48558,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_J/Januschowsky_Georgine_von.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_J/Januschowsky_Georgine_1859_1914.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_3667" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3667" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Irene</forename>
                      <surname>Sironi</surname>
@@ -48544,6 +48567,7 @@
                   <death>1874-1961</death>
                   <occupation style="background-color: darker-gray;">Tänzerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1019648732</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Sironi_Irene.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3668" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -48663,7 +48687,7 @@
                      <bibl n="hsl_work_id_2315">Prolog zum Fest-Konzert zum 50-jährigen Jubiläum von Johann Strauß</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3677" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3677" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Stella</forename>
                      <surname>Hohenfels</surname>
@@ -48673,6 +48697,7 @@
                   <occupation style="background-color: dark-red;">Schauspielerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116132043</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q88930</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_H/Hohenfels-Berger_Stella_1857_1920.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3678" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -49308,7 +49333,7 @@
                      <bibl n="hsl_work_id_2306">Le Luthier de Crémone</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3732" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3732" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Xavér Ferenc</forename>
                      <surname>Szabó</surname>
@@ -49324,6 +49349,7 @@
                   <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1076177867</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q98834824</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Szabo_Xaver-Ferenc_1846_1911.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2274">Dárius kincse</bibl>
                   </listBibl>
@@ -49972,18 +49998,17 @@
                      <bibl n="hsl_work_id_563">Lettres intimes de Berlioz</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3785" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3785" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Anton von</forename>
                      <surname>Schmerling</surname>
                   </persName>
                   <birth>1805-1893</birth>
                   <death>1805-1893</death>
-                  <occupation style="background-color: green;">Jurist</occupation>
                   <occupation style="background-color: dark-gray;">Politiker</occupation>
-                  <occupation style="background-color: dark-green;">Minister</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119233460</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q596470</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_s/Schmerling_Anton_1805_1893.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3786" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -50169,7 +50194,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117201731</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q6204197</idno>
                </person>
-               <person xml:id="hsl_person_id_3801" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3801" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Maximilien de</forename>
                      <surname>Robespierre</surname>
@@ -50298,7 +50323,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_F/Fitzner_Rudolf.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_F/Fitzner_Rudolf_1868_1934.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_3812" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3812" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Stanisław</forename>
                      <surname>Przybyszewski</surname>
@@ -50306,9 +50331,10 @@
                   <birth>1868-1927</birth>
                   <death>1868-1927</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: dark-red;">Übersetzer</occupation>
+                  <occupation style="background-color: dark-green;">Journalist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118742108</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q921405</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_P/Przybyszewski_Stanislaw_1868_1927.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2337">Zur Psychologie des Individuums. Chopin und Nietzsche</bibl>
                   </listBibl>
@@ -50400,17 +50426,18 @@
                      <bibl n="hsl_work_id_2358">Bellini: memorie e lettere</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3819" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3819" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Marie zu</forename>
                      <surname>Hohenlohe-Schillingsfürst</surname>
                   </persName>
                   <birth>1837-1920</birth>
                   <death>1837-1920</death>
-                  <occupation style="background-color: light-blue;">Adelige</occupation>
                   <occupation style="background-color: darker-blue;">Mäzenin</occupation>
+                  <occupation style="background-color: darker-cyan;">Philantropin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11695549X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1897569</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_H/Hohenlohe-Schillingsfuerst_Marie_1837_1920.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3820" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -50779,7 +50806,7 @@
                      <bibl n="hsl_work_id_2382">Die moderne Oper</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3845" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3845" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Karl Johann Philipp</forename>
                      <surname>Spitta</surname>
@@ -50975,7 +51002,7 @@
                      <bibl n="hsl_work_id_2388">Amen</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3860" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3860" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Sylvain</surname>
@@ -50984,8 +51011,6 @@
                      <forename/>
                      <surname>Silvain</surname>
                   </persName>
-                  <birth>1843-1916</birth>
-                  <death>1843-1916</death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118638904</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q57629</idno>
                   <listBibl type="characterOf">
@@ -51652,7 +51677,7 @@
                      <bibl n="hsl_work_id_229">Der Wildschütz oder die Stimme der Natur, LoWV58</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3918" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3918" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Eduard</forename>
                      <surname>Lunzer</surname>
@@ -51660,9 +51685,10 @@
                   <birth>1842-1913</birth>
                   <death>1842-1913</death>
                   <occupation style="background-color: light-blue;">Schauspieler</occupation>
-                  <occupation style="background-color: darker-orange;">Sänger</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117316741</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q60817741</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_L/Lunzer_Eduard_1843_1913.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3919" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -52791,17 +52817,17 @@
                      <bibl n="hsl_work_id_2450">La finta giardiniera, KV196</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4040" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4040" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Erzherzog von Österreich</forename>
                      <surname>Karl</surname>
                   </persName>
                   <birth>1771-1847</birth>
                   <death>1771-1847</death>
-                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
                   <occupation style="background-color: light-gray;">Offizier</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118723049</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q84201</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_K/Karl_Ludwig_1771_1847.xml</idno>
                </person>
                <person xml:id="hsl_person_id_4041" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -53463,7 +53489,7 @@
                      <bibl n="hsl_work_id_2527">Psyché</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4106" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4106" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Caroline</forename>
                      <surname>Montigny-Remaury</surname>
@@ -53486,13 +53512,17 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116565918</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q24067223</idno>
                </person>
-               <person xml:id="hsl_person_id_4108" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4108" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Carl</forename>
                      <surname>Stoerk</surname>
                   </persName>
+                  <birth>1832–1899</birth>
+                  <death>1832–1899</death>
+                  <occupation style="background-color: dark-orange;">Mediziner</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117265977</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q86434</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Stoerk_Carl_1832_1899.xml</idno>
                </person>
                <person xml:id="hsl_person_id_4109" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -53901,7 +53931,7 @@
                      <bibl n="hsl_work_id_2524">Les Mystères d’Isis</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4147" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4147" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Bianca</forename>
                      <surname>Panteo</surname>
@@ -54461,7 +54491,7 @@
                      <bibl n="hsl_work_id_823">Werther</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4197" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4197" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Alexis</forename>
                      <surname>Massenet</surname>
@@ -54470,10 +54500,9 @@
                   <death>1788-1863</death>
                   <occupation style="background-color: light-gray;">Offizier</occupation>
                   <occupation style="background-color: blue;">Ingenieur</occupation>
-                  <occupation style="background-color: yellow;">Unternehmer</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q20895527</idno>
                </person>
-               <person xml:id="hsl_person_id_4198" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4198" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Pierre</forename>
                      <surname>Massenet</surname>
@@ -55015,16 +55044,17 @@
                      <bibl n="hsl_work_id_820">Bibel</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4239" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4239" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Katharina</forename>
                      <surname>Schratt</surname>
                   </persName>
-                  <birth>1855-1940</birth>
-                  <death>1855-1940</death>
+                  <birth>1853-1940</birth>
+                  <death>1853-1940</death>
                   <occupation style="background-color: dark-red;">Schauspielerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118759280</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q78534</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Schratt_Katharina_1853_1940.xml</idno>
                </person>
                <person xml:id="hsl_person_id_4240" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -55395,17 +55425,19 @@
                   <occupation style="background-color: dark-cyan;">Adeliger</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1173197710</idno>
                </person>
-               <person xml:id="hsl_person_id_4271" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4271" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Erzherzog von Österreich</forename>
                      <surname>Rainer Ferdinand</surname>
                   </persName>
                   <birth>1827-1913</birth>
                   <death>1827-1913</death>
-                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <occupation style="background-color: light-gray;">Offizier</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
                   <occupation style="background-color: darker-pink;">Mäzen</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117700886</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q111971</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_R/Rainer-Ferdinand__1827_1913.xml</idno>
                </person>
                <person xml:id="hsl_person_id_4272" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -55451,7 +55483,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q150862</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_M/Maximilian_II.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_4275" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4275" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ludwig</forename>
                      <surname>Michalek</surname>
@@ -55459,8 +55491,11 @@
                   <birth>1859-1942</birth>
                   <death>1859-1942</death>
                   <occupation style="background-color: darker-cyan;">Maler</occupation>
+                  <occupation style="background-color: dark-cyan;">Graphiker</occupation>
+                  <occupation style="background-color: darker-blue;">Kupferstecher</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117017590</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4297899</idno>
+                  <idno type="URI" subtype="OEBL">https://biographien.ac.at/oebl/oebl_M/Michalek_Ludwig_1859_1942.xml</idno>
                </person>
                <person xml:id="hsl_person_id_4276" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -55682,7 +55717,7 @@
                      <bibl n="hsl_work_id_2694">Mozarts letzte Stunden</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4292" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4292" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ludwig</forename>
                      <surname>Lobmeyr</surname>
@@ -55690,9 +55725,9 @@
                   <birth>1829-1917</birth>
                   <death>1829-1917</death>
                   <occupation style="background-color: yellow;">Unternehmer</occupation>
-                  <occupation style="background-color: dark-green;">Kunstsammler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117074314</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55847850</idno>
+                  <idno type="URI" subtype="OEBL">https://biographien.ac.at/oebl/oebl_L/Lobmeyr_Ludwig_1829_1917.xml</idno>
                </person>
                <person xml:id="hsl_person_id_4293" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -56264,18 +56299,18 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1055195289</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q557109</idno>
                </person>
-               <person xml:id="hsl_person_id_4336" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4336" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Frigyes</forename>
                      <surname>Szarvady</surname>
                   </persName>
                   <birth>1822-1882</birth>
                   <death>1822-1882</death>
-                  <occupation style="background-color: dark-red;">Diplomat</occupation>
                   <occupation style="background-color: dark-green;">Journalist</occupation>
-                  <occupation style="background-color: green;">Jurist</occupation>
+                  <occupation style="background-color: dark-red;">Übersetzer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117391522</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q22283711</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Szarvady_Frigyes_1822_1882.xml</idno>
                </person>
                <person xml:id="hsl_person_id_4337" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -56847,7 +56882,7 @@
                      <bibl n="hsl_work_id_2732">L'actrice nouvelle</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4385" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4385" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Quinault-Dufresne</surname>
@@ -57696,7 +57731,7 @@
                      <bibl n="hsl_work_id_2784">Old Folks at Home</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4464" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4464" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Serapion</surname>
@@ -57882,7 +57917,7 @@
                      <bibl n="hsl_work_id_2787">Souvenirs de jeunesse</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4483" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4483" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Theresina</forename>
                      <surname>Seydel</surname>
@@ -57986,7 +58021,7 @@
                      <bibl n="hsl_work_id_2796">Pièces de Clavecin, Livre 1, Suite 2, op. 1 Nr. 16</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4490" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4490" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Gisela von</forename>
                      <surname>Pászthory</surname>
@@ -58000,6 +58035,7 @@
                   <occupation style="background-color: dark-blue;">Pianistin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/128303417</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q16641163</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_P/Paszthory_Casimir.xml</idno>
                </person>
                <person xml:id="hsl_person_id_4491" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -58665,7 +58701,7 @@
                   <birth>18./19. Jhdt.</birth>
                   <death>18./19. Jhdt.</death>
                </person>
-               <person xml:id="hsl_person_id_4546" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4546" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ignaz</forename>
                      <surname>Kuranda</surname>
@@ -58673,10 +58709,11 @@
                   <birth>1811-1884</birth>
                   <death>1811-1884</death>
                   <occupation style="background-color: dark-green;">Journalist</occupation>
-                  <occupation style="background-color: dark-gray;">Politiker</occupation>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116615923</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q86419</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_K/Kuranda_Ignaz_1811_1884.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2889">Ostdeutsche Post</bibl>
                   </listBibl>
@@ -58702,7 +58739,7 @@
                   <death>18./19. Jhdt.</death>
                   <occupation style="background-color: light-gray;">Offizier</occupation>
                </person>
-               <person xml:id="hsl_person_id_4550" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4550" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Theodor Baillet de</forename>
                      <surname>Latour</surname>
@@ -58713,6 +58750,7 @@
                   <occupation style="background-color: dark-green;">Minister</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116752769</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q78807</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_B/Baillet-Latour_Theodor_1780_1848.xml</idno>
                </person>
                <person xml:id="hsl_person_id_4551" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -58808,7 +58846,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116060689</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q826818</idno>
                </person>
-               <person xml:id="hsl_person_id_4559" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4559" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Zygmunt</forename>
                      <surname>Sarnecki</surname>
@@ -58820,6 +58858,7 @@
                   <occupation style="background-color: dark-blue;">Theaterdirektor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1029138222</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9393103</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Sarnecki_Zygmunt_1837_1922.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2887">Konrad Wallenrod</bibl>
                   </listBibl>
@@ -58885,7 +58924,7 @@
                   <occupation style="background-color: dark-gray;">Sänger (Bassist)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1047021161</idno>
                </person>
-               <person xml:id="hsl_person_id_4565" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4565" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Karl</forename>
                      <surname>Oberleitner</surname>
@@ -58896,10 +58935,10 @@
                   </persName>
                   <birth>1821-1898</birth>
                   <death>1821-1898</death>
-                  <occupation style="background-color: light-gray;">Beamter</occupation>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11707697X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55675035</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_O/Oberleitner_Karl_1821_1898.xml</idno>
                </person>
                <person xml:id="hsl_person_id_4566" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -58932,7 +58971,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q716001</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_G/Goergey-Goergoe-Toporcz_Arthur_1818_1916.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_4568" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4568" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Josef</forename>
                      <surname>Jelačić von Bužim</surname>
@@ -58943,10 +58982,11 @@
                   </persName>
                   <birth>1801-1859</birth>
                   <death>1801-1859</death>
-                  <occupation style="background-color: light-gray;">Offizier</occupation>
                   <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: light-gray;">Offizier</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118776088</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q154418</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_J/Jelacic-Buzim_Josef_1801_1859.xml</idno>
                </person>
                <person xml:id="hsl_person_id_4569" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -59646,7 +59686,7 @@
                      <bibl n="hsl_work_id_2964">Fünfzig Jahr' in Lied und That! Festschrift zur Feier des fünfzigjährigen Bestandes des Wiener Männergesangsvereines</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4626" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4626" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ferdinand von</forename>
                      <surname>Saar</surname>
@@ -59656,6 +59696,7 @@
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118604449</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q78977</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Saar_Ferdinand_1833_1906.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2965">Prolog zum Festkonzert 50 Jahre Wiener Männergesangverein</bibl>
                      <bibl n="hsl_work_id_2995">Innocens</bibl>
@@ -60169,7 +60210,7 @@
                      <bibl n="hsl_work_id_2616">Otello</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4670" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4670" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ida</forename>
                      <surname>Reich</surname>
@@ -60888,25 +60929,31 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q62708</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_N/Neidhard_von_Reuental.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_4742" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4742" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Hermann</forename>
                      <surname>Schöne</surname>
                   </persName>
                   <birth>1836-1902</birth>
                   <death>1836-1902</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116867272</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1121128</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Schoene_Hermann_1836_1902.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_4743" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4743" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Karl Phillipp zu</forename>
                      <surname>Schwarzenberg</surname>
                   </persName>
                   <birth>1771-1820</birth>
                   <death>1771-1820</death>
+                  <occupation style="background-color: light-gray;">Offizier</occupation>
+                  <occupation style="background-color: dark-red;">Diplomat</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118763032</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q163755</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Schwarzenberg_Karl-I-Philipp_1771_1820.xml</idno>
                </person>
                <person xml:id="hsl_person_id_4744" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -61781,7 +61828,7 @@
                   <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11661868X</idno>
                </person>
-               <person xml:id="hsl_person_id_4829" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4829" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Olga von</forename>
                      <surname>Hueber</surname>
@@ -61791,6 +61838,7 @@
                   <occupation style="background-color: dark-blue;">Pianistin</occupation>
                   <occupation style="background-color: light-blue;">Musiklehrerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/130186929</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_H/Hueber_Schwestern.xml</idno>
                </person>
                <person xml:id="hsl_person_id_4830" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -62003,7 +62051,7 @@
                      <bibl n="hsl_work_id_3166">Die Wettertanne, op. 22</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4848" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4848" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Adolf</forename>
                      <surname>Pichler</surname>
@@ -62014,9 +62062,10 @@
                   </persName>
                   <birth>1819-1900</birth>
                   <death>1819-1900</death>
-                  <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <occupation style="background-color: gray;">Wissenschaftler</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118742353</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_P/Pichler-Rautenkar_Adolf_1819_1900.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3166">Die Wettertanne, op. 22</bibl>
                   </listBibl>
@@ -62319,13 +62368,19 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118536303</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q87884</idno>
                </person>
-               <person xml:id="hsl_person_id_4877" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4877" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Karl Eduard</forename>
                      <surname>Schelle</surname>
                   </persName>
+                  <birth>1814-1882</birth>
+                  <death>1814-1882</death>
+                  <occupation style="background-color: light-yellow;">Musikkritiker</occupation>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117743135</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q55675533</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Schelle_Eduard.xml</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Schelle_Eduard_1814_1882.xml</idno>
                </person>
                <person xml:id="hsl_person_id_4878" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -63877,25 +63932,29 @@
                      <bibl n="hsl_work_id_2557">Das Meer, op. 31</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_5023" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5023" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ludwig</forename>
                      <surname>Straus</surname>
                   </persName>
                   <birth>1835-1899</birth>
                   <death>1835-1899</death>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117311634</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q6699344</idno>
+                  <idno type="URI" subtype="OEBL">https://www.musiklexikon.ac.at/ml/musik_S/Strauss_Ludwig.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_5024" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5024" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Laura</forename>
                      <surname>Rappoldi</surname>
                   </persName>
                   <birth>1853–1925</birth>
                   <death>1853–1925</death>
+                  <occupation style="background-color: dark-blue;">Pianistin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1146045360</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q21192910</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_R/Rappoldi_Laura_1853_1925.xml</idno>
                </person>
                <person xml:id="hsl_person_id_5025" role="fictional" resp="#awilfing" cert="medium">
                   <persName type="main">
