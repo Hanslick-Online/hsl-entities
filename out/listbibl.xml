@@ -5994,7 +5994,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015003</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_708" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_708" resp="#awilfing" cert="high">
                <title type="main">Ode for St. Cecilia's Day, HWV76</title>
                <title type="alternative">Ode auf den St. Cäcilientag / Cäcilien-Ode</title>
                <author ref="#hsl_person_id_108">
@@ -10457,7 +10457,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300063970</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1230" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1230" resp="#awilfing" cert="high">
                <title type="main">Ode auf St. Caecilia, KV592 (Bearbeitung)</title>
                <title type="alternative">Ode auf den St. Cäcilientag / Cäcilien-Ode</title>
                <author ref="#hsl_person_id_108">
@@ -15723,9 +15723,9 @@
                <name type="character" ref="#hsl_person_id_3059">Don Quijote</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4113209-9</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1897" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1897" resp="#awilfing" cert="high">
                <title type="main">Timotheus oder die Gewalt der Musik, KV591 (Bearbeitung)</title>
-               <title type="alternative">Alexander’s Feast; or, the Power of Music, HWV75 / Das Alexanderfest</title>
+               <title type="alternative">Alexander’s Feast; or, the Power of Music, HWV75 / Das Alexanderfest oder die Macht der Tonkunst</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
@@ -15735,8 +15735,8 @@
                <author ref="#hsl_person_id_386">
                   <persName>Mosel, Ignaz von</persName>
                </author>
-               <author ref="#hsl_person_id_1996">
-                  <persName>Hamilton, Newburgh</persName>
+               <author ref="#hsl_person_id_3245">
+                  <persName>Dryden, John</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300064128</idno>
             </bibl>
@@ -26213,13 +26213,48 @@
                   <persName>Bellaigue, Camille</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3295" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_3295" resp="#awilfing" cert="high">
+               <title type="main">Alexander’s Feast; or, the Power of Music, HWV75</title>
+               <title type="alternative">Das Alexanderfest oder die Macht der Tonkuns</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_1996">
+                  <persName>Hamilton, Newburgh</persName>
+               </author>
+               <author ref="#hsl_person_id_3245">
+                  <persName>Dryden, John</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300064128</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3297" resp="#awilfing" cert="high">
                <title type="main">Richard Wagner über Giacomo Meyerbeer</title>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3298" resp="#awilfing" cert="high">
+               <title type="main">Denkwürdigkeiten von Leopold von Hasner. Autobiographisches und Aphorismen</title>
+               <author ref="#hsl_person_id_731">
+                  <persName>Hasner, Leopold von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3299" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3300" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3301" resp="#awilfing" cert="high">
+               <title type="main">Alexander’s Feast; or, the Power of Music</title>
+               <author ref="#hsl_person_id_3245">
+                  <persName>Dryden, John</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3302" resp="#awilfing" cert="high">
+               <title type="main">A Song for St. Cecilia’s Day</title>
+               <author ref="#hsl_person_id_3245">
+                  <persName>Dryden, John</persName>
                </author>
             </bibl>
       </listBibl>
