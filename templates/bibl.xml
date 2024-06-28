@@ -78,6 +78,11 @@
                {% if x.gnd|length != 0 %}
                <idno type="URI" subtype="GND">{{ x.gnd }}</idno>
                {% endif %}
+               {% if x.Digitalisat|length != 0 %}
+               {% for d in x.Digitalisat|split_string(" , ") %}
+               <idno type="URL" subtype="Digitalisat">{{ d }}</idno>
+               {% endfor %}
+               {% endif %}
             </bibl>
          {% endfor %}
       </listBibl>
