@@ -572,12 +572,13 @@
                <name type="character" ref="#hsl_person_id_655">Samson</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300065655</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_54" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_54" resp="#awilfing" cert="high">
                <title type="main">Rusalka</title>
                <title type="alternative">Die Nixe</title>
                <author ref="#hsl_person_id_159">
                   <persName>Lermontov, Michail Jurʹevič</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://lyricstranslate.com/de/rusalka-die-meerjungfrau.html</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_55" resp="#awilfing" cert="medium">
                <title type="main">Roméo et Juliette, H79</title>
@@ -3942,13 +3943,14 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099363-2</idno>
                <idno type="URL" subtype="Digitalisat">https://www.folger.edu/explore/shakespeares-works/the-merchant-of-venice/read/</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_402" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_402" resp="#awilfing" cert="high">
                <title type="main">Sphḗkes</title>
                <title type="alternative">Die Wespen</title>
                <author ref="#hsl_person_id_680">
                   <persName>Aristophanes</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4342996-8</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10232562?page=10,11</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_403" resp="#awilfing" cert="medium">
                <title type="main">Die Natur der Harmonik und der Metrik. Zur Theorie der Musik</title>
@@ -4729,12 +4731,13 @@
                </author>
                <name type="character" ref="#hsl_person_id_456">Bruder Tuck</name>
             </bibl>
-            <bibl xml:id="hsl_work_id_515" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_515" resp="#awilfing" cert="high">
                <title type="main">Rolandslied</title>
                <author ref="#hsl_person_id_917">
                   <persName>Turoldus</persName>
                </author>
                <name type="character" ref="#hsl_person_id_477">Roland</name>
+               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Roland_La_chanson_de_Roland_par_Turold_i/JDsQAAAAYAAJ?hl=de&amp;gbpv=1&amp;pg=PA9&amp;printsec=frontcover</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_516" resp="#awilfing" cert="high">
                <title type="main">Die Schweizerfamilie</title>
@@ -6150,7 +6153,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1225749905</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_716" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_716" resp="#awilfing" cert="high">
                <title type="main">Sappho</title>
                <author ref="#hsl_person_id_721">
                   <persName>Grillparzer, Franz</persName>
@@ -6159,6 +6162,7 @@
                <name type="character" ref="#hsl_person_id_4655">Phaon</name>
                <name type="character" ref="#hsl_person_id_4656">Melitta</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4752753-5</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/sapphotrauerspi04grilgoog/page/n6/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_718" resp="#awilfing" cert="medium">
                <title type="main">Sakuntala, op. 13</title>
@@ -6432,12 +6436,13 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300279426</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_748" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_748" resp="#awilfing" cert="high">
                <title type="main">Ruy Blas</title>
                <author ref="#hsl_person_id_131">
                   <persName>Hugo, Victor</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4361633-1</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/bnf-bpt6k65112421/page/n7/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_749" resp="#awilfing" cert="medium">
                <title type="main">Lodoïska</title>
@@ -9365,9 +9370,10 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1297340809</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1086" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1086" resp="#awilfing" cert="high">
                <title type="main">Russkije Wedomosti</title>
                <title type="alternative">Russische Nachrichten</title>
+               <idno type="URL" subtype="Digitalisat">https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=141000</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1087" resp="#awilfing" cert="medium">
                <title type="main">Let Thy Hand Be Strengthened, HWV259</title>
@@ -10800,12 +10806,13 @@
                   <persName>Christianowitsch, Alexandre</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_1247" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1247" resp="#awilfing" cert="high">
                <title type="main">Scènes de la vie de bohème</title>
                <author ref="#hsl_person_id_992">
                   <persName>Murger, Henri</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4572869-0</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/essentiels/murger/scenes-vie-boheme</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1248" resp="#awilfing" cert="medium">
                <title type="main">Neue Berliner Musikzeitung</title>
@@ -14051,8 +14058,9 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300862377</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1648" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1648" resp="#awilfing" cert="high">
                <title type="main">Sammlung musikalischer Vorträge</title>
+               <idno type="URL" subtype="Digitalisat">https://de.wikisource.org/wiki/Sammlung_musikalischer_Vortr%C3%A4ge</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1649" resp="#awilfing" cert="medium">
                <title type="main">Die Gegenwart. Wochenschrift für Literatur, Kunst und öffentliches Leben</title>
@@ -15832,7 +15840,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300116799</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1881" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1881" resp="#awilfing" cert="high">
                <title type="main">Sämmtliche Gedichte</title>
                <author ref="#hsl_person_id_3197">
                   <persName>Kulmann, Elisabeth</persName>
@@ -15840,6 +15848,7 @@
                <author ref="#hsl_person_id_3198">
                   <persName>Grossheinrich, Karl Friedrich von</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10113233?page=8,9</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1882" resp="#awilfing" cert="medium">
                <title type="main">Novelette für Klavier in D-Dur, op. 21 Nr. 2</title>
@@ -16425,13 +16434,14 @@
             <bibl xml:id="hsl_work_id_1956" resp="#awilfing" cert="medium">
                <title type="main">Jugend</title>
             </bibl>
-            <bibl xml:id="hsl_work_id_1957" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1957" resp="#awilfing" cert="high">
                <title type="main">Hedda Gabler</title>
                <author ref="#hsl_person_id_2145">
                   <persName>Ibsen, Henrik</persName>
                </author>
                <name type="character" ref="#hsl_person_id_3347">Gabler, Hedda</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4396893-4</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.ibsen.uio.no/DRVIT_HG%7CHGht.xhtml</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1958" resp="#awilfing" cert="medium">
                <title type="main">I høst, op. 11 (Orchesterfassung)</title>
@@ -17987,13 +17997,14 @@
                   <persName>Nordau, Max</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2176" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2176" resp="#awilfing" cert="high">
                <title type="main">Samfundets Støtter</title>
                <title type="alternative">Die Stützen der Gesellschaft</title>
                <author ref="#hsl_person_id_2145">
                   <persName>Ibsen, Henrik</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4507742-3</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.ibsen.uio.no/DRVIT_SS%7CSSht.xhtml</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2177" resp="#awilfing" cert="high">
                <title type="main">Bilder aus der neueren Kunstgeschichte</title>
@@ -19207,7 +19218,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_3798">Borghild</name>
             </bibl>
-            <bibl xml:id="hsl_work_id_2322" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2322" resp="#awilfing" cert="high">
                <title type="main">Peer Gynt</title>
                <author ref="#hsl_person_id_2145">
                   <persName>Ibsen, Henrik</persName>
@@ -19226,6 +19237,7 @@
                <name type="character" ref="#hsl_person_id_4782">Anitra</name>
                <name type="character" ref="#hsl_person_id_4783">Professor Begriffenfeldt</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4256031-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.ibsen.uio.no/DRVIT_PG%7CPGht.xhtml</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2323" resp="#awilfing" cert="medium">
                <title type="main">Fantaisie brillante sur "Faust" de Gounod, op. 20</title>
@@ -22694,11 +22706,12 @@
                   <persName>Schön, Eduard</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2776" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2776" resp="#awilfing" cert="high">
                <title type="main">Schlafwandel</title>
                <author ref="#hsl_person_id_2514">
                   <persName>Keller, Gottfried</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Gesammelte_gedichte_von_Gottfried_Keller/G4tJAAAAMAAJ?hl=de&amp;gbpv=1&amp;pg=PA72&amp;printsec=frontcover</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2777" resp="#awilfing" cert="medium">
                <title type="main">Schlafwandel, op. 18</title>
@@ -23964,11 +23977,13 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/zurmusiksechzeh00spitgoog/page/n246/mode/2up</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2949" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2949" resp="#awilfing" cert="high">
                <title type="main">Selbstbiographie</title>
                <author ref="#hsl_person_id_293">
                   <persName>Spohr, Louis</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10600271?page=6,7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10271268?page=4,5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2950" resp="#awilfing" cert="medium">
                <title type="main">La veuve du Malabar ou L’Empire des coutumes</title>
@@ -24340,11 +24355,12 @@
                <name type="character" ref="#hsl_person_id_4653">Pater Innocens</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4126797-7</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2996" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2996" resp="#awilfing" cert="high">
                <title type="main">Sensitiven</title>
                <author ref="#hsl_person_id_4652">
                   <persName>Bach, Friedrich</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://books.google.at/books?id=f2NlAAAAcAAJ&amp;hl=de&amp;pg=PR3#v=onepage&amp;q&amp;f=false</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2997" resp="#awilfing" cert="medium">
                <title type="main">Sonate für Violine und Klavier Nr. 2 in A-Dur, op. 100</title>
