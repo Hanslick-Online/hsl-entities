@@ -82,7 +82,7 @@
                <name type="character" ref="#hsl_person_id_4704">Fanchette</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4323525-6</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4" resp="#awilfing" cert="high">
                <title type="main">Le nozze di Figaro, KV492</title>
                <title type="alternative">Figaro's Hochzeit / Die Hochzeit des Figaro</title>
                <author ref="#hsl_person_id_189">
@@ -96,7 +96,7 @@
                <name type="character" ref="#hsl_person_id_462">Cherubino</name>
                <name type="character" ref="#hsl_person_id_474">Don Curzio</name>
                <name type="character" ref="#hsl_person_id_534">Figaro</name>
-               <name type="character" ref="#hsl_person_id_544">Il Conte di Almaviva</name>
+               <name type="character" ref="#hsl_person_id_544">Conte di Almaviva</name>
                <name type="character" ref="#hsl_person_id_546">Contessa di Almaviva</name>
                <name type="character" ref="#hsl_person_id_622">Marcellina</name>
                <name type="character" ref="#hsl_person_id_661">Susanna</name>
@@ -5751,7 +5751,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_658" resp="#awilfing" cert="high">
                <title type="main">Chronologisch-thematisches Verzeichniss sämmtlicher Tonwerke Wolfgang Amade Mozart's</title>
-               <title type="alternative">Köchel / Köchel-Verzeichnis / Köchel-Katalog</title>
+               <title type="alternative">Köchel / Köchel-Verzeichnis / Köchel-Katalog / Chronologisch-thematischer Katalog von Mozart's sämmtlichen Werken</title>
                <author ref="#hsl_person_id_145">
                   <persName>Köchel, Ludwig von</persName>
                </author>
@@ -20253,9 +20253,9 @@
                <name type="character" ref="#hsl_person_id_3995">Contino Belfiore</name>
                <name type="character" ref="#hsl_person_id_3997">Arminda</name>
                <name type="character" ref="#hsl_person_id_4000">Serpetta</name>
-               <name type="character" ref="#hsl_person_id_4001">Marchioness Violante Onesti</name>
+               <name type="character" ref="#hsl_person_id_4001">Marchesa Violante Onesti</name>
                <name type="character" ref="#hsl_person_id_4002">Roberto</name>
-               <name type="character" ref="#hsl_person_id_4037">Cavalier Ramiro</name>
+               <name type="character" ref="#hsl_person_id_4037">Cavaliere Ramiro</name>
                <name type="character" ref="#hsl_person_id_4038">Don Anchise</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300108192</idno>
             </bibl>
@@ -26992,6 +26992,16 @@
                   <persName>Liszt, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30009504X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3336" resp="#awilfing" cert="high">
+               <title type="main">La finta giardiniera</title>
+               <author ref="#hsl_person_id_2986">
+                  <persName>Anfossi, Pasquale</persName>
+               </author>
+               <author ref="#hsl_person_id_3465">
+                  <persName>Petrosellini, Giuseppe</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4206530-6</idno>
             </bibl>
       </listBibl>
       </body>
