@@ -1211,7 +1211,7 @@
                <name type="character" ref="#hsl_person_id_547">Comte d'Oberthal</name>
                <name type="character" ref="#hsl_person_id_599">Jean de Leyde</name>
                <name type="character" ref="#hsl_person_id_600">Jonas</name>
-               <name type="character" ref="#hsl_person_id_4540">Bertha</name>
+               <name type="character" ref="#hsl_person_id_4540">Berthe</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300104286</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_114" resp="#awilfing" cert="medium">
@@ -1342,7 +1342,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/119631019X</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_124" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_124" resp="#awilfing" cert="high">
                <title type="main">La serva padrona</title>
                <title type="alternative">La serva patrona</title>
                <author ref="#hsl_person_id_211">
@@ -2030,7 +2030,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1156419069</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_196" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_196" resp="#awilfing" cert="high">
                <title type="main">Feramors</title>
                <author ref="#hsl_person_id_238">
                   <persName>Rodenberg, Julius</persName>
@@ -2343,8 +2343,9 @@
                <name type="character" ref="#hsl_person_id_734">Lukas</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300069189</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_220" resp="#awilfing" cert="medium">
-               <title type="main">Die Kinder der Haide</title>
+            <bibl xml:id="hsl_work_id_220" resp="#awilfing" cert="high">
+               <title type="main">Die Kinder der Heide</title>
+               <title type="alternative">Die Kinder der Haide</title>
                <author ref="#hsl_person_id_188">
                   <persName>Mosenthal, Salomon Hermann von</persName>
                </author>
@@ -3325,11 +3326,12 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300351534</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_329" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_329" resp="#awilfing" cert="high">
                <title type="main">Pierer's Universal-Lexikon der Vergangenheit und Gegenwart oder Neuestes encyclopädisches Wörterbuch der Wissenschaften, Künste und Gewerbe</title>
                <author ref="#hsl_person_id_392">
                   <persName>Pierer, Heinrich August</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://de.wikisource.org/wiki/Universal-Lexikon_der_Gegenwart_und_Vergangenheit</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_330" resp="#awilfing" cert="medium">
                <title type="main">Encyclopädie der gesammten musikalischen Wissenschaften, oder Universal-Lexicon der Tonkunst</title>
@@ -6334,7 +6336,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4239141-6</idno>
                <idno type="URL" subtype="Digitalisat">https://aleksandr-pushkin.su/poemy/boris-godunov/</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_737" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_737" resp="#awilfing" cert="high">
                <title type="main">Demon</title>
                <title type="alternative">Der Dämon</title>
                <author ref="#hsl_person_id_244">
@@ -7006,6 +7008,7 @@
                <title type="main">Bibel</title>
                <title type="alternative">Heilige Schrift</title>
                <name type="character" ref="#hsl_person_id_416">Gott</name>
+               <name type="character" ref="#hsl_person_id_463">Jesus Christus</name>
                <name type="character" ref="#hsl_person_id_469">Delila</name>
                <name type="character" ref="#hsl_person_id_658">Simson</name>
                <name type="character" ref="#hsl_person_id_664">Teufel</name>
@@ -8089,7 +8092,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300109350</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_934" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_934" resp="#awilfing" cert="high">
                <title type="main">La clemenza di Tito, KV621</title>
                <title type="alternative">Titus</title>
                <author ref="#hsl_person_id_189">
@@ -8099,6 +8102,7 @@
                   <persName>Mazzolà, Caterino</persName>
                </author>
                <name type="character" ref="#hsl_person_id_2969">Tito Vespasiano</name>
+               <name type="character" ref="#hsl_person_id_5045">Sesto</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300107242</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_935" resp="#awilfing" cert="medium">
@@ -8359,12 +8363,13 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4787239-1</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10925189?page=4,5</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_966" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_966" resp="#awilfing" cert="high">
                <title type="main">Dictionnaire de Musique</title>
                <author ref="#hsl_person_id_415">
                   <persName>Rousseau, Jean-Jacques</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7636619-4</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k850406b</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_967" resp="#awilfing" cert="medium">
                <title type="main">Symphonie Nr. 5 in B-Dur, WAB105</title>
@@ -9185,7 +9190,7 @@
                <name type="character" ref="#hsl_person_id_1666">Lucifer</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4401727-3</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1066" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1066" resp="#awilfing" cert="high">
                <title type="main">Die Maccabäer</title>
                <title type="alternative">Die Makkabäer</title>
                <author ref="#hsl_person_id_188">
@@ -9194,6 +9199,7 @@
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5048">Lea</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/105022860X</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1067" resp="#awilfing" cert="medium">
@@ -10452,11 +10458,12 @@
                   <persName>Goldmark, Karl</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_1214" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1214" resp="#awilfing" cert="high">
                <title type="main">Portraits et Souvenirs</title>
                <author ref="#hsl_person_id_1658">
                   <persName>Saint-Saëns, Camille</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k5455520c.texteImage</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1215" resp="#awilfing" cert="medium">
                <title type="main">Harmonie et Mélodie</title>
@@ -14174,7 +14181,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300025939</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1662" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1662" resp="#awilfing" cert="high">
                <title type="main">Junge Liebe I, op. 63 Nr. 5</title>
                <title type="alternative">Meine Liebe ist grün / Meine Lieb’ ist grün</title>
                <author ref="#hsl_person_id_41">
@@ -16873,11 +16880,12 @@
                   <persName>Schumann, Robert</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2015" resp="#awilfing" cert="medium">
-               <title type="main">Aufforderung zum Tanze, op. 65</title>
+            <bibl xml:id="hsl_work_id_2015" resp="#awilfing" cert="high">
+               <title type="main">Aufforderung zum Tanze, J260</title>
                <author ref="#hsl_person_id_321">
                   <persName>Weber, Carl Maria von</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300171404</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2016" resp="#awilfing" cert="medium">
                <title type="main">Konzert für Klavier und Orchester Nr. 21 in C-Dur, KV467</title>
@@ -17515,15 +17523,15 @@
                   <persName>Arban, Jean-Baptiste</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2108" resp="#awilfing" cert="medium">
-               <title type="main">Ungarische Rhapsodie für Orchester Nr. 2 in d-Moll, S359/2</title>
+            <bibl xml:id="hsl_work_id_2108" resp="#awilfing" cert="high">
+               <title type="main">Ungarische Rhapsodie für Orchester Nr. 2 in d-Moll, S359 Nr. 2</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1178730344</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2109" resp="#awilfing" cert="medium">
-               <title type="main">Ungarische Rhapsodie für Orchester Nr. 4 in d-Moll, S359/4</title>
+            <bibl xml:id="hsl_work_id_2109" resp="#awilfing" cert="high">
+               <title type="main">Ungarische Rhapsodie für Orchester Nr. 4 in d-Moll, S359 Nr. 4</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -19743,11 +19751,13 @@
                   <persName>Heydrich, Bruno</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2389" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2389" resp="#awilfing" cert="high">
                <title type="main">Joseph Haydn</title>
                <author ref="#hsl_person_id_3866">
                   <persName>Pohl, Carl Ferdinand</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/josephhaydn01pohluoft/page/n7/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/josephhaydn02pohluoft/page/n7/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2390" resp="#awilfing" cert="medium">
                <title type="main">Orlando paladino, Hob. XXVIII:11</title>
@@ -20115,12 +20125,12 @@
                   <persName>Doré, Gustave</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2440" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2440" resp="#awilfing" cert="high">
                <title type="main">Stabat Mater, P77</title>
                <author ref="#hsl_person_id_211">
                   <persName>Pergolesi, Giovanni Battista</persName>
                </author>
-               <idno type="URI" subtype="GND">https://lobid.org/gnd/300118481</idno>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300118481</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2441" resp="#awilfing" cert="medium">
                <title type="main">Les amours de Bastien et Bastienne</title>
@@ -20205,7 +20215,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/128270673X</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2448" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2448" resp="#awilfing" cert="high">
                <title type="main">Bastien und Bastienne, KV50</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
@@ -20249,8 +20259,9 @@
                <name type="character" ref="#hsl_person_id_4038">Don Anchise</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300108192</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2451" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2451" resp="#awilfing" cert="high">
                <title type="main">Le devin du village</title>
+               <title type="alternative">Der Dorfwahrsager</title>
                <author ref="#hsl_person_id_415">
                   <persName>Rousseau, Jean-Jacques</persName>
                </author>
@@ -22399,12 +22410,13 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4316169-8</idno>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/bim_early-english-books-1475-1640_the-alchemist_jonson-benjamin_1610/mode/2up</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2727" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2727" resp="#awilfing" cert="high">
                <title type="main">Polyeucte</title>
                <author ref="#hsl_person_id_51">
                   <persName>Corneille, Pierre</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4266207-2</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b86108047/f9.item.r=corneille%20Polyeucte</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2728" resp="#awilfing" cert="medium">
                <title type="main">Électre</title>
@@ -22810,12 +22822,18 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7756512-5</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10924909?page=30,31</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2786" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2786" resp="#awilfing" cert="high">
                <title type="main">Phantasus</title>
                <author ref="#hsl_person_id_306">
                   <persName>Tieck, Ludwig</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4319463-1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10128720?page=,1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10128721?page=,1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10128722?page=,1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10128723?page=,1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10128724?page=,1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10128725?page=,1</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2787" resp="#awilfing" cert="medium">
                <title type="main">Souvenirs de jeunesse</title>
@@ -23358,12 +23376,13 @@
                   <persName>Gernsheim, Friedrich</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2863" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2863" resp="#awilfing" cert="high">
                <title type="main">Phänomenologie des Geistes</title>
                <author ref="#hsl_person_id_378">
                   <persName>Hegel, Georg Wilhelm Friedrich</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099222-6</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11760696?page=6,7</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2864" resp="#awilfing" cert="medium">
                <title type="main">Paulus. Oratorium nach Worten der heiligen Schrift, komponirt von Felix Mendelssohn-Bartholdy. Op. 36</title>
@@ -24406,7 +24425,7 @@
                   <persName>Moszkowski, Alexander</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3001" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3001" resp="#awilfing" cert="high">
                <title type="main">Prestuplenie i nakazanie</title>
                <title type="alternative">Schuld und Sühne</title>
                <author ref="#hsl_person_id_1707">
@@ -24414,6 +24433,8 @@
                </author>
                <name type="character" ref="#hsl_person_id_4659">Raskolnikow</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099168-4</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10862248?page=4,5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10862249?page=4,5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3002" resp="#awilfing" cert="high">
                <title type="main">Anton Notenquetschers neue Humoresken</title>
@@ -26793,6 +26814,184 @@
                <name type="character" ref="#hsl_person_id_5044">Iphigenie</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099201-9</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10108987?page=10,11</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3316" resp="#awilfing" cert="high">
+               <title type="main">Dem Unendlichen, D291</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_2381">
+                  <persName>Klopstock, Friedrich Gottlieb</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300553196</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3317" resp="#awilfing" cert="high">
+               <title type="main">Lied aus dem Gedicht "Ivan", op. 3 Nr. 4</title>
+               <title type="alternative">Weit über das Feld</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_3702">
+                  <persName>Bodenstedt, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1053823533</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3318" resp="#awilfing" cert="high">
+               <title type="main">Liebestreu, op. 3 Nr. 1</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_2174">
+                  <persName>Reinick, Robert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3319" resp="#awilfing" cert="high">
+               <title type="main">Im Treibhaus, WWV91 Nr. 3</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <author ref="#hsl_person_id_4391">
+                  <persName>Wesendonck, Mathilde</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4587568-6</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3320" resp="#awilfing" cert="high">
+               <title type="main">5 Gedichte, WWV91</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <author ref="#hsl_person_id_4391">
+                  <persName>Wesendonck, Mathilde</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300169841</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3321" resp="#awilfing" cert="high">
+               <title type="main">In der Nacht</title>
+               <author ref="#hsl_person_id_1245">
+                  <persName>Eichendorff, Joseph von</persName>
+               </author>
+               <author ref="#hsl_person_id_4643">
+                  <persName>Lassen, Eduard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/126889026X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3322" resp="#awilfing" cert="high">
+               <title type="main">Die Loreley, S273</title>
+               <author ref="#hsl_person_id_116">
+                  <persName>Heine, Heinrich</persName>
+               </author>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30063871X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3323" resp="#awilfing" cert="high">
+               <title type="main">Weißt du noch wie ich am Fels</title>
+               <author ref="#hsl_person_id_3270">
+                  <persName>Roquette, Otto</persName>
+               </author>
+               <author ref="#hsl_person_id_4165">
+                  <persName>Fischhof, Robert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3324" resp="#awilfing" cert="high">
+               <title type="main">Nachtigall auf dem Holundertrieb</title>
+               <author ref="#hsl_person_id_1602">
+                  <persName>Baumbach, Rudolf</persName>
+               </author>
+               <author ref="#hsl_person_id_4165">
+                  <persName>Fischhof, Robert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3325" resp="#awilfing" cert="high">
+               <title type="main">3 Lieder aus Baumbach's "Frau Holde"</title>
+               <author ref="#hsl_person_id_1602">
+                  <persName>Baumbach, Rudolf</persName>
+               </author>
+               <author ref="#hsl_person_id_4165">
+                  <persName>Fischhof, Robert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3326" resp="#awilfing" cert="high">
+               <title type="main">Zingarella</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_141">
+                  <persName>Jommelli, Niccolò</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3327" resp="#awilfing" cert="high">
+               <title type="main">Ah! Perfido, op. 65</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <author ref="#hsl_person_id_2118">
+                  <persName>Metastasio, Pietro</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300014848</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3328" resp="#awilfing" cert="high">
+               <title type="main">Die liebe Farbe, D795 Nr. 16</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_1387">
+                  <persName>Müller, Wilhelm</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1052294103</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3329" resp="#awilfing" cert="high">
+               <title type="main">9 Lieder und Gesänge, op. 63</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_1603">
+                  <persName>Groth, Klaus</persName>
+               </author>
+               <author ref="#hsl_person_id_2802">
+                  <persName>Schumann, Felix</persName>
+               </author>
+               <author ref="#hsl_person_id_3249">
+                  <persName>Schenkendorf, Max von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300026196</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3330" resp="#awilfing" cert="high">
+               <title type="main">Notturno in D-Dur, KV286</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300109806</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3331" resp="#awilfing" cert="high">
+               <title type="main">Symphonie in d-Moll, Hob. I:26</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300070179</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3332" resp="#awilfing" cert="high">
+               <title type="main">Symphonie in d-Moll, Hob. I:34</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300778171</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3333" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3334" resp="#awilfing" cert="high">
+               <title type="main">Symphonie in d-Moll, Hob. I:80</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300787774</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3335" resp="#awilfing" cert="high">
+               <title type="main">6 Ungarische Rhapsodien für Orchester, S359</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30009504X</idno>
             </bibl>
       </listBibl>
       </body>
