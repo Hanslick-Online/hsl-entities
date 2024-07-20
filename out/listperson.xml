@@ -3609,10 +3609,6 @@
                      <forename>Franz</forename>
                      <surname>Liszt</surname>
                   </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Abbé Liszt</surname>
-                  </persName>
                   <birth>1811-1886</birth>
                   <death>1811-1886</death>
                   <occupation style="background-color: dark-orange;">Pianist</occupation>
@@ -7529,7 +7525,7 @@
                      <bibl n="hsl_work_id_328">Die Kunst des reinen Satzes in der Musik aus sicheren Grundsätzen hergeleitet und mit deutlichen Beyspielen erläutert</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_392" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_392" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Heinrich August</forename>
                      <surname>Pierer</surname>
@@ -7538,11 +7534,11 @@
                   <death>1794-1850</death>
                   <occupation style="background-color: light-gray;">Offizier</occupation>
                   <occupation style="background-color: darker-blue;">Verleger</occupation>
-                  <occupation style="background-color: dark-brown;">Buchhändler</occupation>
+                  <occupation style="background-color: dark-orange;">Lexikograph</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119114445</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q216159</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_329">Pierer's Universal-Lexikon der Vergangenheit und Gegenwart oder Neuestes encyclopädisches Wörterbuch der Wissenschaften, Künste und Gewerbe</bibl>
+                     <bibl n="hsl_work_id_329">Encyclopädisches Wörterbuch der Wissenschaften, Künste und Gewerbe</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_393" resp="#awilfing" cert="high">
@@ -7613,6 +7609,8 @@
                      <forename>J. W.</forename>
                      <surname>Böhm</surname>
                   </persName>
+                  <birth>18./19. Jhdt.</birth>
+                  <death>18./19. Jhdt.</death>
                   <occupation style="background-color: light-gray;">Musikautor</occupation>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_334">Analyse des Schönen der Musik und des Tanzes</bibl>
@@ -7648,7 +7646,7 @@
                      <bibl n="hsl_work_id_337">Aesthetik der Tonkunst</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_400" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_400" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Heinrich Friedrich Wilhelm</forename>
                      <surname>Richter</surname>
@@ -7682,7 +7680,7 @@
                      <bibl n="hsl_work_id_339">Manuale della musica ovvero Introduzione alla scienza ragionate</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_402" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_402" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Friedrich Wilhelm</forename>
                      <surname>Thiersch</surname>
@@ -7762,7 +7760,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11856871X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q379022</idno>
                </person>
-               <person xml:id="hsl_person_id_408" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_408" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Julian</forename>
                      <surname>Schmidt</surname>
@@ -7771,6 +7769,7 @@
                   <death>1818-1886</death>
                   <occupation style="background-color: dark-green;">Journalist</occupation>
                   <occupation style="background-color: red;">Historiker</occupation>
+                  <occupation style="background-color: darker-blue;">Redakteur</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11875968X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q92019</idno>
                   <listBibl type="authorOf">
@@ -7825,7 +7824,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118594893</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q859</idno>
                </person>
-               <person xml:id="hsl_person_id_412" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_412" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Hans Christian</forename>
                      <surname>Ørsted</surname>
@@ -8053,7 +8052,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118769715</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q43610</idno>
                </person>
-               <person xml:id="hsl_person_id_425" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_425" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Achille</surname>
@@ -8300,7 +8299,7 @@
                      <bibl n="hsl_work_id_2689">L'Orfeo, SV318</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_427" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_427" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Admète</surname>
@@ -8337,7 +8336,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q78684</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_H/Hyrtl_Josef_1810_1894.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_428" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_428" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Admète</surname>
@@ -8396,7 +8395,7 @@
                   <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q102279324</idno>
                </person>
-               <person xml:id="hsl_person_id_431" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_431" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Agamemnon</surname>
@@ -8453,7 +8452,7 @@
                      <bibl n="hsl_work_id_280">La belle Hélène</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_433" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_433" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Alceste</surname>
@@ -8462,7 +8461,7 @@
                      <bibl n="hsl_work_id_296">Alceste ou Le triomphe d'Alcide</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_434" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_434" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Alceste</surname>
@@ -8660,7 +8659,7 @@
                      <bibl n="hsl_work_id_514">Robin Hood</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_457" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_457" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Calchas</surname>
@@ -8781,10 +8780,14 @@
                      <bibl n="hsl_work_id_83">Much Ado About Nothing</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_466" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_466" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Clitemnestre</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Klytämnestra</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_166">Iphigénie en Aulide, Wq. 40</bibl>
@@ -8871,7 +8874,7 @@
                      <bibl n="hsl_work_id_83">Much Ado About Nothing</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_477" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_477" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Roland</surname>
@@ -8890,7 +8893,7 @@
                   <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q30077041</idno>
                </person>
-               <person xml:id="hsl_person_id_479" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_479" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Florestan</surname>
@@ -8912,10 +8915,10 @@
                      <bibl n="hsl_work_id_348">Fidelio, op. 72</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_481" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_481" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
-                     <surname>Pizarro</surname>
+                     <surname>Don Pizarro</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_348">Fidelio, op. 72</bibl>
@@ -8964,7 +8967,7 @@
                      <bibl n="hsl_work_id_292">Iphigénie</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_486" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_486" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Iphigénie</surname>
@@ -8999,10 +9002,14 @@
                      <bibl n="hsl_work_id_165">Iphigénie en Tauride, Wq. 46</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_489" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_489" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Patrocle</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Patroklus</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_166">Iphigénie en Aulide, Wq. 40</bibl>
@@ -9564,7 +9571,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117392359</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q260610</idno>
                </person>
-               <person xml:id="hsl_person_id_558" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_558" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann Wilhelm</forename>
                      <surname>Albrecht</surname>
@@ -9573,7 +9580,7 @@
                   <death>1703-1736</death>
                   <occupation style="background-color: dark-orange;">Mediziner</occupation>
                   <occupation style="background-color: light-red;">Botaniker</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
+                  <occupation style="background-color: cyan;">Anatom</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/129761265</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q94851593</idno>
                </person>
@@ -9589,7 +9596,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118597248</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q10261</idno>
                </person>
-               <person xml:id="hsl_person_id_560" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_560" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Caelus Aemilianus</surname>
@@ -9641,7 +9648,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/129810819</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q16859632</idno>
                </person>
-               <person xml:id="hsl_person_id_564" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_564" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ernst Anton</forename>
                      <surname>Nicolai</surname>
@@ -9650,11 +9657,10 @@
                   <death>1722-1802</death>
                   <occupation style="background-color: dark-orange;">Mediziner</occupation>
                   <occupation style="background-color: dark-gray;">Chemiker</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/100222838</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15298648</idno>
                </person>
-               <person xml:id="hsl_person_id_565" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_565" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Peter Joseph</forename>
                      <surname>Schneider</surname>
@@ -9662,23 +9668,25 @@
                   <birth>1791-1871</birth>
                   <death>1791-1871</death>
                   <occupation style="background-color: dark-orange;">Mediziner</occupation>
-                  <occupation style="background-color: light-orange;">Philosoph</occupation>
                   <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <occupation style="background-color: light-orange;">Philosoph</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/115598472</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q19223405</idno>
                </person>
-               <person xml:id="hsl_person_id_567" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_567" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Robert</forename>
                      <surname>Boyle</surname>
                   </persName>
                   <birth>1627-1691</birth>
                   <death>1627-1691</death>
-                  <occupation style="background-color: gray;">Wissenschaftler</occupation>
+                  <occupation style="background-color: dark-gray;">Chemiker</occupation>
+                  <occupation style="background-color: light-yellow;">Physiker</occupation>
+                  <occupation style="background-color: dark-purple;">Erfinder</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118659642</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q43393</idno>
                </person>
-               <person xml:id="hsl_person_id_568" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_568" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann Joseph</forename>
                      <surname>Kausch</surname>
@@ -9690,7 +9698,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/100807402</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55122424</idno>
                </person>
-               <person xml:id="hsl_person_id_569" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_569" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Robert</forename>
                      <surname>Whytt</surname>
@@ -9717,7 +9725,7 @@
                      <bibl n="hsl_work_id_390">Grundriß der Physiologie des Menschen. Für das erste Studium und zur Selbstbelehrung</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_571" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_571" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Rudolf</forename>
                      <surname>Wagner</surname>
@@ -9746,7 +9754,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118519352</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q61987</idno>
                </person>
-               <person xml:id="hsl_person_id_573" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_573" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Emil</forename>
                      <surname>Harless</surname>
@@ -9761,7 +9769,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116476494</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q109467</idno>
                </person>
-               <person xml:id="hsl_person_id_574" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_574" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Jan Evangelista</forename>
                      <surname>Purkyně</surname>
@@ -9778,7 +9786,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118597159</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q159542</idno>
                </person>
-               <person xml:id="hsl_person_id_575" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_575" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Hermann</forename>
                      <surname>Lotze</surname>
@@ -12387,10 +12395,6 @@
                   <persName type="main">
                      <forename>Georg Joseph</forename>
                      <surname>Vogler</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Abbé Vogler</surname>
                   </persName>
                   <birth>1749-1814</birth>
                   <death>1749-1814</death>
@@ -24693,10 +24697,6 @@
                      <forename>Maximilian</forename>
                      <surname>Stadler</surname>
                   </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Abbé Stadler</surname>
-                  </persName>
                   <birth>1748-1833</birth>
                   <death>1748-1833</death>
                   <occupation style="background-color: darker-pink;">Geistlicher</occupation>
@@ -24717,7 +24717,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Abbé Gelinek</surname>
+                     <surname>Gelinek</surname>
                   </persName>
                   <birth>1758-1825</birth>
                   <death>1758-1825</death>
@@ -32962,7 +32962,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117380334</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q40397504</idno>
                </person>
-               <person xml:id="hsl_person_id_2404" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2404" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Jaquino</surname>
@@ -43902,7 +43902,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Abbé Brigaud</surname>
+                     <surname>Brigaud</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1908">Le chevalier d'Harmental</bibl>
@@ -47030,7 +47030,7 @@
                      <surname>Schäfer</surname>
                   </persName>
                </person>
-               <person xml:id="hsl_person_id_3549" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3549" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Rocco</surname>
@@ -53187,8 +53187,12 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/132425831</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q17425446</idno>
                </person>
-               <person xml:id="hsl_person_id_4067" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4067" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
+                     <forename/>
+                     <surname>Diane</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename/>
                      <surname>Diana</surname>
                   </persName>
@@ -58267,7 +58271,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Abbé Lammenais</surname>
+                     <surname>Lammenais</surname>
                   </persName>
                   <birth>1782-1854</birth>
                   <death>1782-1854</death>

@@ -1704,9 +1704,9 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300345755</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_165" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_165" resp="#awilfing" cert="high">
                <title type="main">Iphigénie en Tauride, Wq. 46</title>
-               <title type="alternative">Iphigenia / Iphigenie in / auf Tauris</title>
+               <title type="alternative">Iphigenia / Iphigenie in / auf Tauris; Taurische Iphigenia</title>
                <author ref="#hsl_person_id_99">
                   <persName>Gluck, Christoph Willibald</persName>
                </author>
@@ -1717,9 +1717,9 @@
                <name type="character" ref="#hsl_person_id_490">Pylade</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300060254</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_166" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_166" resp="#awilfing" cert="high">
                <title type="main">Iphigénie en Aulide, Wq. 40</title>
-               <title type="alternative">Iphigenia / Iphigenie in / auf Aulis</title>
+               <title type="alternative">Iphigenia / Iphigenie in / auf Aulis; Aulische Iphigenia</title>
                <author ref="#hsl_person_id_99">
                   <persName>Gluck, Christoph Willibald</persName>
                </author>
@@ -1732,7 +1732,7 @@
                <name type="character" ref="#hsl_person_id_466">Clitemnestre</name>
                <name type="character" ref="#hsl_person_id_486">Iphigénie</name>
                <name type="character" ref="#hsl_person_id_489">Patrocle</name>
-               <name type="character" ref="#hsl_person_id_4067">Diana</name>
+               <name type="character" ref="#hsl_person_id_4067">Diane</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300060203</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_168" resp="#awilfing" cert="medium">
@@ -2940,7 +2940,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300299893</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_277" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_277" resp="#awilfing" cert="high">
                <title type="main">Phantasie für Klavier, Chor und Orchester in c-Moll, op. 80</title>
                <title type="alternative">Fantasie</title>
                <author ref="#hsl_person_id_25">
@@ -3271,12 +3271,13 @@
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10045987?q=%28hegel+%22Vorlesungen+%C3%BCber+die+Aesthetik%22%29&amp;page=6,7</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10045988?page=8,9</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_321" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_321" resp="#awilfing" cert="high">
                <title type="main">Der vollkommene Capellmeister, das ist gründliche Anzeige aller derjenigen Sachen, die einer wissen, können und vollkommen inne haben muß, der einer Capelle mit Ehren und Nutzen vorstehen will</title>
                <author ref="#hsl_person_id_383">
                   <persName>Mattheson, Johann</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4686125-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10212373?page=4,5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_322" resp="#awilfing" cert="high">
                <title type="main">Beste und leichteste Temperatur des Monochordi</title>
@@ -3299,18 +3300,20 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb11081541?page=4,5</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_325" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_325" resp="#awilfing" cert="high">
                <title type="main">Des critischen Musicus an der Spree erster Band</title>
                <author ref="#hsl_person_id_388">
                   <persName>Marpurg, Friedrich Wilhelm</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1250203236</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.loc.gov/resource/muspre1800.100619/?sp=1</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_326" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_326" resp="#awilfing" cert="high">
                <title type="main">Musikalische Dialogen. Oder: Philosophische Unterredungen berühmter Gelehrten, Dichter und Tonkünstler über den Kunstgeschmack in der Musik. Ein Nachlaß</title>
                <author ref="#hsl_person_id_389">
                   <persName>Heinse, Wilhelm</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10598682?page=4,5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_327" resp="#awilfing" cert="high">
                <title type="main">Ueber die musikalische Malerey. An den Königl. Kapell-Meister, Herrn Reichardt</title>
@@ -3319,37 +3322,56 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/%C3%9Cber_die_musikalische_Malerey/jYzWM4BFCekC?hl=de&amp;gbpv=1&amp;pg=PA1&amp;printsec=frontcover</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_328" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_328" resp="#awilfing" cert="high">
                <title type="main">Die Kunst des reinen Satzes in der Musik aus sicheren Grundsätzen hergeleitet und mit deutlichen Beyspielen erläutert</title>
                <author ref="#hsl_person_id_391">
                   <persName>Kirnberger, Johann Philipp</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300351534</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527343?page=4,5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527340?page=,1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527341?q=%25&amp;page=,1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527342?page=,1</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_329" resp="#awilfing" cert="high">
-               <title type="main">Pierer's Universal-Lexikon der Vergangenheit und Gegenwart oder Neuestes encyclopädisches Wörterbuch der Wissenschaften, Künste und Gewerbe</title>
+               <title type="main">Encyclopädisches Wörterbuch der Wissenschaften, Künste und Gewerbe</title>
+               <title type="alternative">Universal-Lexikon / Universallexikon der Vergangenheit und Gegenwart oder Neuestes encyclopädisches Wörterbuch der Wissenschaften, Künste und Gewerbe</title>
                <author ref="#hsl_person_id_392">
                   <persName>Pierer, Heinrich August</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://de.wikisource.org/wiki/Universal-Lexikon_der_Gegenwart_und_Vergangenheit</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_330" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_330" resp="#awilfing" cert="high">
                <title type="main">Encyclopädie der gesammten musikalischen Wissenschaften, oder Universal-Lexicon der Tonkunst</title>
+               <title type="alternative">Universallexikon</title>
                <author ref="#hsl_person_id_393">
                   <persName>Schilling, Gustav</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10600488?page=4,5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10810229?page=4,5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10810230?page=4,5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10600492?page=4,5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10810232?page=4,5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10600494?page=4,5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10810234?page=4,5</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_331" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_331" resp="#awilfing" cert="high">
                <title type="main">Musikalisches Lexikon welches die theoretische und praktische Tonkunst, encyclopädisch bearbeitet, alle alten und neuen Kunstwörter erklärt, und die alten und neuen Instrumente beschrieben, enthält</title>
                <author ref="#hsl_person_id_394">
                   <persName>Koch, Heinrich Christoph</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10271116?page=4,5</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_332" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_332" resp="#awilfing" cert="high">
                <title type="main">Lehrbuch der Tonsetzkunst</title>
+               <title type="alternative">Lehrbuch der Tonkunst</title>
                <author ref="#hsl_person_id_395">
                   <persName>André, Johann Anton</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11304346?page=6,7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11304347?page=6,7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11304348?page=6,7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11304349?page=6,7</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_333" resp="#awilfing" cert="high">
                <title type="main">Allgemeine Theorie der Schönen Künste in einzeln, nach alphabetischer Ordnung der Kunstwörter auf einander folgenden, Artikeln abgehandelt</title>
@@ -3365,10 +3387,11 @@
                <author ref="#hsl_person_id_397">
                   <persName>Böhm, J. W.</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://books.google.at/books?id=20MeFIY2hgAC&amp;lpg=PR1&amp;ots=LoGDaXMkk3&amp;dq=j.%20w.%20b%C3%B6hm%20Analyse%20des%20Sch%C3%B6nen%20der%20Musik%20und%20des%20Tanzes&amp;hl=de&amp;pg=PR1#v=onepage&amp;q&amp;f=false</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.google.de/books/edition/Analyse_des_Sch%C3%B6nen_der_Musik_und_des_T/20MeFIY2hgAC?hl=de&amp;gbpv=1&amp;pg=PR1&amp;printsec=frontcover</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_336" resp="#awilfing" cert="high">
                <title type="main">Versuch einer geordneten Theorie der Tonsezkunst zum Selbstunterricht, mit Anmerkungen für Gelehrtere</title>
+               <title type="alternative">Theorie der Tonsetzkunst</title>
                <author ref="#hsl_person_id_398">
                   <persName>Weber, Gottfried</persName>
                </author>
@@ -3392,8 +3415,9 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10598200?page=6,7</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_339" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_339" resp="#awilfing" cert="high">
                <title type="main">Manuale della musica ovvero Introduzione alla scienza ragionate</title>
+               <title type="alternative">Manuale alla Musica</title>
                <author ref="#hsl_person_id_401">
                   <persName>Bellini, Fermo</persName>
                </author>
@@ -3442,14 +3466,14 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10311511?page=4,5</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_346" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_346" resp="#awilfing" cert="high">
                <title type="main">Die Geschöpfe des Prometheus, op. 43 (Ouvertüre)</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015356</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_347" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_347" resp="#awilfing" cert="high">
                <title type="main">Das wohltemperierte Klavier, BWV846–893</title>
                <title type="alternative">Das wohltemperirte Clavier</title>
                <author ref="#hsl_person_id_18">
@@ -3474,12 +3498,12 @@
                </author>
                <name type="character" ref="#hsl_person_id_479">Florestan</name>
                <name type="character" ref="#hsl_person_id_480">Leonore</name>
-               <name type="character" ref="#hsl_person_id_481">Pizarro</name>
+               <name type="character" ref="#hsl_person_id_481">Don Pizarro</name>
                <name type="character" ref="#hsl_person_id_2404">Jaquino</name>
                <name type="character" ref="#hsl_person_id_3549">Rocco</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015194</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_349" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_349" resp="#awilfing" cert="high">
                <title type="main">Ein feste Burg ist unser Gott</title>
                <author ref="#hsl_person_id_169">
                   <persName>Luther, Martin</persName>
@@ -3539,22 +3563,27 @@
             <bibl xml:id="hsl_work_id_354" resp="#awilfing" cert="medium">
                <title type="main">Journal de politique et de littérature</title>
                <title type="alternative">Journal de politique et de litérature</title>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/cb344724208/date</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_355" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_355" resp="#awilfing" cert="high">
                <title type="main">Geschichte der deutschen Literatur seit Lessing's Tod</title>
+               <title type="alternative">Geschichte der deutschen Nationalliteratur</title>
                <author ref="#hsl_person_id_408">
                   <persName>Schmidt, Julian</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4456656-6</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10734976?page=6,7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11687576?page=6,7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10734973?page=6,7</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_356" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_356" resp="#awilfing" cert="high">
                <title type="main">Coriolan, op. 62</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30001502X</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_357" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_357" resp="#awilfing" cert="high">
                <title type="main">Die Hebriden oder Die Fingalshöhle, MWV P 7</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
@@ -3855,20 +3884,27 @@
                   <persName>Valentin, Gabriel Gustav</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_391" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_391" resp="#awilfing" cert="high">
                <title type="main">Handwörterbuch der Physiologie mit Rücksicht auf physiologische Pathologie</title>
                <author ref="#hsl_person_id_571">
                   <persName>Wagner, Rudolf</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10369713?page=4,5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10369714?page=8,9</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10369715?page=6,7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11764040?page=6,7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10369717?page=6,7</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_392" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_392" resp="#awilfing" cert="high">
                <title type="main">Medicinische Psychologie oder Physiologie der Seele</title>
                <author ref="#hsl_person_id_575">
                   <persName>Lotze, Hermann</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11423012?page=4,5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_393" resp="#awilfing" cert="high">
                <title type="main">Der General-Bass in der Composition</title>
+               <title type="alternative">Generalbaß</title>
                <author ref="#hsl_person_id_576">
                   <persName>Heinichen, Johann David</persName>
                </author>
