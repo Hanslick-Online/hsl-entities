@@ -58,7 +58,7 @@
       <body>
          <div type="index_places">
             <listPlace xml:id="listplace">
-               <place xml:id="hsl_place_id_1" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_1" resp="#awilfing" cert="high">
                   <settlement type="L">
                      <placeName type="main">Čechy</placeName>
                      <placeName type="alternative">Böhmen</placeName>
@@ -84,7 +84,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q29</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4055964-6</idno>
                </place>
-               <place xml:id="hsl_place_id_68" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_68" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Köln</placeName>
                   </settlement>
@@ -277,7 +277,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q183</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4011882-4</idno>
                </place>
-               <place xml:id="hsl_place_id_15" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_15" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Dresden</placeName>
                   </settlement>
@@ -431,7 +431,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q257780</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4066013-8</idno>
                </place>
-               <place xml:id="hsl_place_id_69" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_69" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Hamburg</placeName>
                   </settlement>
@@ -1014,7 +1014,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/1252569/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q31652119</idno>
                </place>
-               <place xml:id="hsl_place_id_78" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_78" resp="#awilfing" cert="high">
                   <settlement type="T">
                      <placeName type="main">Dhaulagiri</placeName>
                      <placeName type="alternative">Dhawalagiri</placeName>
@@ -1307,7 +1307,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q34</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4077258-5</idno>
                </place>
-               <place xml:id="hsl_place_id_105" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_105" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Luzern</placeName>
                   </settlement>
@@ -3810,7 +3810,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1792</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4011039-4</idno>
                </place>
-               <place xml:id="hsl_place_id_320" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_320" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Penzing, Wien</placeName>
                   </settlement>
@@ -5877,7 +5877,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q326568</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4782828-6</idno>
                </place>
-               <place xml:id="hsl_place_id_502" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_502" resp="#awilfing" cert="high">
                   <placeName type="main">Norddeutschland</placeName>
                </place>
                <place xml:id="hsl_place_id_503" resp="#awilfing" cert="medium">
@@ -5893,7 +5893,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q43266</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4074432-2</idno>
                </place>
-               <place xml:id="hsl_place_id_504" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_504" resp="#awilfing" cert="high">
                   <placeName type="main">Süddeutschland</placeName>
                </place>
                <place xml:id="hsl_place_id_505" resp="#awilfing" cert="medium">
@@ -6727,6 +6727,11 @@
                </place>
                <place xml:id="hsl_place_id_587" resp="#awilfing" cert="medium">
                   <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_588" resp="#awilfing" cert="high">
+                  <placeName type="main">Jiřetín pod Jedlovou</placeName>
+                     <placeName type="alternative">Georgenthal</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3074133/</idno>
                </place>
             </listPlace>
          </div>

@@ -78,7 +78,7 @@
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_H/Hanslick_Eduard_1825_1904.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_421">Grillparzer und die Musik</bibl>
-                     <bibl n="hsl_work_id_422">Musikalische Stationen. (Der „Modernen Oper“ II. Theil.)</bibl>
+                     <bibl n="hsl_work_id_422">Musikalische Stationen. Neue Folge der "Modernen Oper"</bibl>
                      <bibl n="hsl_work_id_484">Die moderne Oper. Kritiken und Studien</bibl>
                      <bibl n="hsl_work_id_1083">Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Ästhetik der Tonkunst</bibl>
                      <bibl n="hsl_work_id_1487">Aus Briefen von Billroth, I-VI</bibl>
@@ -90,6 +90,7 @@
                      <bibl n="hsl_work_id_2333">Richard Wagner's "Judenthum in der Musik"</bibl>
                      <bibl n="hsl_work_id_2335">Bayreuther Festspiele I-IV</bibl>
                      <bibl n="hsl_work_id_2416">Ein Gespräch über Musikkritik</bibl>
+                     <bibl n="hsl_work_id_3370">Die Zwischenactmusik, ihre Beurtheilung durch Lessing und die Schriftsteller unserer Zeit. (15. Februar 1881.)</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2" resp="#awilfing" cert="medium">
@@ -4226,7 +4227,7 @@
                      <bibl n="hsl_work_id_3157">Ne pulvis et cinis, KV122a</bibl>
                      <bibl n="hsl_work_id_3227">Maurerische Trauermusik, KV477</bibl>
                      <bibl n="hsl_work_id_3237">Abendruhe, KV Anhang C 9 10</bibl>
-                     <bibl n="hsl_work_id_3239">Symphonie in G-Dur</bibl>
+                     <bibl n="hsl_work_id_3239">Symphonie Nr. 32 in G-Dur, KV318</bibl>
                      <bibl n="hsl_work_id_3252">Serenade für Orchester Nr. 7 in D-Dur, KV250</bibl>
                      <bibl n="hsl_work_id_3258">Sonate für Klavier Nr. 5 in G-Dur, KV283</bibl>
                      <bibl n="hsl_work_id_3259">Sonate für Klavier Nr. 15 in F-Dur, KV533</bibl>
@@ -6639,6 +6640,7 @@
                      <bibl n="hsl_work_id_3297">Richard Wagner über Giacomo Meyerbeer</bibl>
                      <bibl n="hsl_work_id_3319">Im Treibhaus, WWV91 Nr. 3</bibl>
                      <bibl n="hsl_work_id_3320">5 Gedichte, WWV91</bibl>
+                     <bibl n="hsl_work_id_3372">Religion und Kunst</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_361" resp="#awilfing" cert="high">
@@ -7853,7 +7855,7 @@
                      <bibl n="hsl_work_id_360">Der Geist in der Natur</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_413" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_413" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Karl Ludwig</forename>
                      <surname>Kannegiesser</surname>
@@ -9207,9 +9209,9 @@
                      <bibl n="hsl_work_id_95">Lucia di Lammermoor</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_522" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_522" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>Nichte des Landgrafen</forename>
+                     <forename/>
                      <surname>Elisabeth</surname>
                   </persName>
                   <listBibl type="characterOf">
@@ -9304,7 +9306,7 @@
                      <bibl n="hsl_work_id_132">La damnation de Faust, H111</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_531" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_531" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Fenella</surname>
@@ -9631,7 +9633,7 @@
                      <bibl n="hsl_work_id_388">Der musikalische Arzt, oder: Abhandlung von dem Einflusse der Musik auf den Körper, und von ihrer Anwendung in gewissen Krankheiten. Nebst einigen Winken, zur Anhörung einer guten Musik</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_562" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_562" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Giambattista</forename>
                      <surname>Della Porta</surname>
@@ -9639,7 +9641,6 @@
                   <birth>1535-1615</birth>
                   <death>1535-1615</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: gray;">Wissenschaftler</occupation>
                   <occupation style="background-color: green;">Polyhistor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119054647</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q334154</idno>
@@ -9727,7 +9728,6 @@
                   <birth>1810-1883</birth>
                   <death>1810-1883</death>
                   <occupation style="background-color: brown;">Physiologe</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/10404103X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q68146</idno>
                   <listBibl type="authorOf">
@@ -9976,10 +9976,10 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118639552</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q122248</idno>
                </person>
-               <person xml:id="hsl_person_id_588" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_588" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>Landgraf von Thüringen</forename>
-                     <surname>Hermann</surname>
+                     <forename/>
+                     <surname>Landgraf Hermann</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_40">Tannhäuser und der Sängerkrieg auf Wartburg, WWV70</bibl>
@@ -10716,7 +10716,7 @@
                      <bibl n="hsl_work_id_350">Die Zauberflöte, KV620</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_663" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_663" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Tannhäuser</surname>
@@ -10758,7 +10758,7 @@
                      <bibl n="hsl_work_id_105">Les Huguenots</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_667" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_667" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Venus</surname>
@@ -10794,7 +10794,7 @@
                      <bibl n="hsl_work_id_169">Indra, das Schlangenmädchen</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_671" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_671" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Wolfram von Eschinbach</surname>
@@ -11134,6 +11134,10 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q34628</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_744">Nathan der Weise</bibl>
+                     <bibl n="hsl_work_id_3363">An den Herrn Marpurg, über die Regeln der Wissenschaften zum Vergnügen, besonders der Poesie und Tonkunst</bibl>
+                     <bibl n="hsl_work_id_3364">Laokoon: oder ueber die Grenzen der Mahlerey und Poesie. Mit beylaeufigen Erlaeuterungen verschiedner Punkte der alten Kunstgeschichte</bibl>
+                     <bibl n="hsl_work_id_3365">Hamburgische Dramaturgie</bibl>
+                     <bibl n="hsl_work_id_3366">Wem ich zu gefallen suche, und nicht suche</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_698" role="fictional" resp="#awilfing" cert="high">
@@ -11417,6 +11421,9 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q265995</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_A/Ambros_August.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_A/Ambros_August-Wilhelm_1816_1876.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3360">Geschichte der Musik</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_718" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -12636,7 +12643,7 @@
                      <bibl n="hsl_work_id_201">Euryanthe, J291</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_833" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_833" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Friedrich von Telramund</surname>
@@ -12645,7 +12652,7 @@
                      <bibl n="hsl_work_id_97">Lohengrin, WWV75</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_834" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_834" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Ortrud</surname>
@@ -12654,7 +12661,7 @@
                      <bibl n="hsl_work_id_97">Lohengrin, WWV75</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_835" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_835" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Heinrich der Vogler</surname>
@@ -14873,7 +14880,7 @@
                      <bibl n="hsl_work_id_159">Jolanthe</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1025" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1025" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Tristan</surname>
@@ -16183,7 +16190,7 @@
                   <death>ca. 1816-1849</death>
                   <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
                </person>
-               <person xml:id="hsl_person_id_1126" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1126" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Lohengrin</surname>
@@ -19407,7 +19414,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118553437</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q160182</idno>
                </person>
-               <person xml:id="hsl_person_id_1367" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1367" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Walther von Stolzing</surname>
@@ -19416,7 +19423,7 @@
                      <bibl n="hsl_work_id_217">Die Meistersinger von Nürnberg, WWV96</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1368" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1368" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Veit Pogner</surname>
@@ -19499,7 +19506,7 @@
                      <bibl n="hsl_work_id_851">Feuersnot, op. 50</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1375" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1375" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Senta</surname>
@@ -19508,7 +19515,7 @@
                      <bibl n="hsl_work_id_237">Der fliegende Holländer, WWV63</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1376" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1376" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Holländer</surname>
@@ -19765,6 +19772,8 @@
                      <bibl n="hsl_work_id_2730">Oedipe</bibl>
                      <bibl n="hsl_work_id_2731">Zaïre</bibl>
                      <bibl n="hsl_work_id_2788">Le temple du goût</bibl>
+                     <bibl n="hsl_work_id_3367">Sémiramis</bibl>
+                     <bibl n="hsl_work_id_3368">Semiramis</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1392" resp="#awilfing" cert="medium">
@@ -22724,7 +22733,7 @@
                      <bibl n="hsl_work_id_1022">Rienzi, or The Last of the Tribunes</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1626" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1626" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Irene</surname>
@@ -22733,7 +22742,7 @@
                      <bibl n="hsl_work_id_60">Rienzi, der letzte der Tribunen, WWV49</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1627" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1627" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Adriano</surname>
@@ -22742,7 +22751,7 @@
                      <bibl n="hsl_work_id_60">Rienzi, der letzte der Tribunen, WWV49</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1628" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1628" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Paolo Orsini</surname>
@@ -22751,7 +22760,7 @@
                      <bibl n="hsl_work_id_60">Rienzi, der letzte der Tribunen, WWV49</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1629" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1629" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Steffano Colonna</surname>
@@ -22760,7 +22769,7 @@
                      <bibl n="hsl_work_id_60">Rienzi, der letzte der Tribunen, WWV49</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1630" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1630" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Cola Rienzi</surname>
@@ -22795,7 +22804,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_R/Reichenberg_Franz.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_R/Reichenberg_Franz-von_1853_1905.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_1634" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1634" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Friedensbote</surname>
@@ -23350,7 +23359,7 @@
                      <bibl n="hsl_work_id_1079">Graf Bismarck und seine Leute während des Kriegs mit Frankreich</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1680" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1680" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Wotan</surname>
@@ -23376,7 +23385,7 @@
                      <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1682" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1682" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Erda</surname>
@@ -23387,7 +23396,7 @@
                      <bibl n="hsl_work_id_1315">Siegfried, WWV86C</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1683" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1683" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Brünnhilde</surname>
@@ -23399,7 +23408,7 @@
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1684" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1684" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Siegfried</surname>
@@ -23425,7 +23434,7 @@
                      <bibl n="hsl_work_id_820">Bibel</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1686" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1686" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Alberich</surname>
@@ -23437,7 +23446,7 @@
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1687" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1687" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Mime</surname>
@@ -23448,7 +23457,7 @@
                      <bibl n="hsl_work_id_1315">Siegfried, WWV86C</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1688" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1688" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Hagen</surname>
@@ -23458,7 +23467,7 @@
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1689" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1689" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Gunther</surname>
@@ -23468,7 +23477,7 @@
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1690" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1690" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Siegmund</surname>
@@ -23482,7 +23491,7 @@
                      <bibl n="hsl_work_id_649">Die Walküre, WWV86B</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1691" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1691" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Sieglinde</surname>
@@ -23769,7 +23778,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116487178</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4531764</idno>
                </person>
-               <person xml:id="hsl_person_id_1710" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1710" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Isolde</surname>
@@ -25249,6 +25258,12 @@
                   <occupation style="background-color: green;">Musikwissenschaftler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118715941</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q64542</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3355">Führer durch den Concertsaal</bibl>
+                     <bibl n="hsl_work_id_3356">Führer durch den Concertsaal. I. Abtheilung: Sinfonie und Suite</bibl>
+                     <bibl n="hsl_work_id_3357">Führer durch den Concertsaal. II. Abtheilung, Erster Theil: Kirchliche Werke</bibl>
+                     <bibl n="hsl_work_id_3358">Führer durch den Concertsaal. II. Abtheilung, Zweiter Theil: Oratorien und Weltliche Chorwerke</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1827" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -26253,7 +26268,7 @@
                      <bibl n="hsl_work_id_1226">Der Bundschuh, op. 22</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1913" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1913" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Sixtus Beckmesser</surname>
@@ -26262,7 +26277,7 @@
                      <bibl n="hsl_work_id_217">Die Meistersinger von Nürnberg, WWV96</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1914" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1914" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>David</surname>
@@ -35903,7 +35918,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/122489896</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2634465</idno>
                </person>
-               <person xml:id="hsl_person_id_2640" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2640" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Elsa von Brabant</surname>
@@ -37521,6 +37536,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q109575</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1628">Thematischer Leitfaden durch die Musik zu Richard Wagner's Festspiel Der Ring des Nibelungen</bibl>
+                     <bibl n="hsl_work_id_3369">Wagner und die Thierwelt. Auch eine Biographie</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2769" resp="#awilfing" cert="medium">
@@ -38874,7 +38890,7 @@
                   <birth>19. Jhdt.</birth>
                   <death>19. Jhdt.</death>
                </person>
-               <person xml:id="hsl_person_id_2875" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2875" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Kurwenal</surname>
@@ -38887,7 +38903,7 @@
                      <bibl n="hsl_work_id_417">Tristan und Isolde, WWV90</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2876" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2876" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>König Marke</surname>
@@ -41118,7 +41134,7 @@
                      <bibl n="hsl_work_id_1781">Walther von der Vogelweide</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3062" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3062" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Walther von der Vogelweide</surname>
@@ -42115,7 +42131,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_B/Barsescu_Agathe.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_B/Barsescu_Agathe_1859_1939.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_3146" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3146" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ernesto</forename>
                      <surname>Rossi</surname>
@@ -42365,7 +42381,7 @@
                      <bibl n="hsl_work_id_1240">Prodaná nevěsta, JB1:100</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3167" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3167" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Fafner</surname>
@@ -46671,7 +46687,7 @@
                      <bibl n="hsl_work_id_401">The Merchant of Venice</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3516" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3516" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Masaniello</surname>
@@ -48111,7 +48127,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119091771</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5827</idno>
                </person>
-               <person xml:id="hsl_person_id_3625" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3625" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Amfortas</surname>
@@ -48120,7 +48136,7 @@
                      <bibl n="hsl_work_id_275">Parsifal, WWV111</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3626" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3626" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Titurel</surname>
@@ -48129,7 +48145,7 @@
                      <bibl n="hsl_work_id_275">Parsifal, WWV111</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3627" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3627" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Parsifal</surname>
@@ -48138,7 +48154,7 @@
                      <bibl n="hsl_work_id_275">Parsifal, WWV111</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3628" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3628" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Kundry</surname>
@@ -48147,7 +48163,7 @@
                      <bibl n="hsl_work_id_275">Parsifal, WWV111</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3629" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3629" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Gurnemanz</surname>
@@ -48167,15 +48183,14 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118511114</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q229871</idno>
                </person>
-               <person xml:id="hsl_person_id_3631" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3631" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>Aulus Caecina</forename>
                      <surname>Paetus</surname>
                   </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>unklarer Bezug</surname>
-                  </persName>
+                  <birth>?-42</birth>
+                  <death>?-42</death>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
                </person>
                <person xml:id="hsl_person_id_3632" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -49859,6 +49874,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2303">Aus dem Zauberlande Polyhymnias. Musikalische Geschichten und Plaudereien</bibl>
                      <bibl n="hsl_work_id_2304">Dur- und Moll-Accorde. Musikalische Streifzüge, Portraitskizzen und Genrebilder</bibl>
+                     <bibl n="hsl_work_id_3361">Johannes Miksch, der größte deutsche Singemeister und sein Gesangssystem. Vom Atmen</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3765" resp="#awilfing" cert="high">
@@ -57065,14 +57081,15 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116779969</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1647349</idno>
                </person>
-               <person xml:id="hsl_person_id_4390" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4390" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>Julius</forename>
                      <surname>Haimberger</surname>
                   </persName>
-                  <birth>19. Jhdt.</birth>
-                  <death>19. Jhdt.</death>
+                  <birth>1827-1865</birth>
+                  <death>1827-1865</death>
                   <occupation style="background-color: light-gray;">Violinist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1257345133</idno>
                </person>
                <person xml:id="hsl_person_id_4391" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -57992,7 +58009,7 @@
                      <bibl n="hsl_work_id_1835">Signor Formica</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4478" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4478" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Nachtwächter</surname>
@@ -59706,7 +59723,7 @@
                      <bibl n="hsl_work_id_2954">Olimpie</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4617" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4617" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Eva Pogner</surname>
@@ -59715,7 +59732,7 @@
                      <bibl n="hsl_work_id_217">Die Meistersinger von Nürnberg, WWV96</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4618" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4618" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Brangäne</surname>
@@ -61124,7 +61141,7 @@
                      <bibl n="hsl_work_id_3097">Gräfin Egmont</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4747" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4747" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Alphonse</surname>
@@ -61143,7 +61160,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1019746327</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3242514</idno>
                </person>
-               <person xml:id="hsl_person_id_4749" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4749" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Pietro</surname>
@@ -62690,6 +62707,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118917382</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3192">Anleitung zur Singkunst</bibl>
+                     <bibl n="hsl_work_id_3368">Semiramis</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4892" resp="#awilfing" cert="high">
@@ -63178,25 +63196,15 @@
                   <occupation style="background-color: darker-purple;">Bibliothekar</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118500651</idno>
                </person>
-               <person xml:id="hsl_person_id_4937" resp="#awilfing" cert="high">
-                  <persName type="main">
-                     <forename>?</forename>
-                     <surname>Rossi</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>unklarer Bezug</surname>
-                  </persName>
-               </person>
                <person xml:id="hsl_person_id_4938" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>Tommaso</forename>
                      <surname>Salvini</surname>
                   </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>unklarer Bezug</surname>
-                  </persName>
+                  <birth>1829-1915</birth>
+                  <death>1829-1915</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118836447</idno>
                </person>
                <person xml:id="hsl_person_id_4939" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -63243,11 +63251,19 @@
                   <occupation style="background-color: dark-gray;">Politiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117404306</idno>
                </person>
-               <person xml:id="hsl_person_id_4943" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4943" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>Ferdinand</forename>
+                     <surname>Heisler</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
                      <surname>Heißler</surname>
                   </persName>
+                  <birth>1793-1876</birth>
+                  <death>1793-1876</death>
+                  <occupation style="background-color: green;">Jurist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1012271552</idno>
                </person>
                <person xml:id="hsl_person_id_4944" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -63861,31 +63877,37 @@
                      <bibl n="hsl_work_id_3250">Edda</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_5000" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5000" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Woglinde</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_238">Das Rheingold, WWV86A</bibl>
+                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
+                     <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_5001" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5001" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Wellgunde</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_238">Das Rheingold, WWV86A</bibl>
+                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
+                     <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_5002" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5002" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Floßhilde</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_238">Das Rheingold, WWV86A</bibl>
+                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
+                     <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_5003" role="fictional" resp="#awilfing" cert="medium">
@@ -64507,6 +64529,288 @@
                   <death>1802-1875</death>
                   <occupation style="background-color: light-purple;">Cellist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1328746593</idno>
+               </person>
+               <person xml:id="hsl_person_id_5061" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Marzelline</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Marcelline</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_348">Fidelio, op. 72</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5062" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Johann Aloys</forename>
+                     <surname>Miksch</surname>
+                  </persName>
+                  <birth>1765-1845</birth>
+                  <death>1765-1845</death>
+                  <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117030953</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_M/Miksch_Brueder.xml</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_M/Miksch_Johann-Alois_1765_1845.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5063" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Adolf</forename>
+                     <surname>Prosniz</surname>
+                  </persName>
+                  <birth>1829-1917</birth>
+                  <death>1829-1917</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/137706324</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_P/Prosniz_Adolf.xml</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_P/Prosniz_Adolf_1829_1917.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3333">Compendium der Musikgeschichte bis zum Ende des 16. Jahrhunderts. Für Schule und Conservatorien</bibl>
+                     <bibl n="hsl_work_id_3359">Handbuch der Clavier-Literatur 1450 bis 1830. Historisch-kritische Übersicht</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5064" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Carl</forename>
+                     <surname>Rühle</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Karl</forename>
+                     <surname>Rühle</surname>
+                  </persName>
+                  <birth>1848-1927</birth>
+                  <death>1848-1927</death>
+                  <occupation style="background-color: darker-red;">Musikverleger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116675756</idno>
+               </person>
+               <person xml:id="hsl_person_id_5065" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Agnese</forename>
+                     <surname>Schebest</surname>
+                  </persName>
+                  <birth>1813-1870</birth>
+                  <death>1813-1870</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <occupation style="background-color: dark-blue;">Gesangslehrerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119480905</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Schebest_Agnes.xml</idno>
+                  <idno type="URI" subtype="OEBL">https://biographien.ac.at/ID-0.3054086-1</idno>
+               </person>
+               <person xml:id="hsl_person_id_5066" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Anton</forename>
+                     <surname>Mitterwurzer</surname>
+                  </persName>
+                  <birth>1818-1876</birth>
+                  <death>1818-1876</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117064815</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_M/Mitterwurzer_Anton.xml</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/http://www.musiklexikon.ac.at/ml/musik_M/Mitterwurzer_Anton_Georg.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5067" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Ferdinand</forename>
+                     <surname>Sieber</surname>
+                  </persName>
+                  <birth>1822-1895</birth>
+                  <death>1822-1895</death>
+                  <occupation style="background-color: dark-gray;">Sänger (Bassist)</occupation>
+                  <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1036758699</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Sieber_Ferdinand_1822_1895.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5068" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Anton</forename>
+                     <surname>Raaff</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Raff</surname>
+                  </persName>
+                  <birth>1714-1797</birth>
+                  <death>1714-1797</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119216485</idno>
+               </person>
+               <person xml:id="hsl_person_id_5069" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Antonio Maria</forename>
+                     <surname>Bernacchi</surname>
+                  </persName>
+                  <birth>1694-1756</birth>
+                  <death>1694-1756</death>
+                  <occupation style="background-color: dark-orange;">Sänger (Kastrat)</occupation>
+                  <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/131998234</idno>
+               </person>
+               <person xml:id="hsl_person_id_5070" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Vincenzo</forename>
+                     <surname>Caselli</surname>
+                  </persName>
+                  <birth>18. Jhdt.</birth>
+                  <death>18. Jhdt.</death>
+                  <occupation style="background-color: dark-orange;">Sänger (Kastrat)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116467584</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q95635318</idno>
+               </person>
+               <person xml:id="hsl_person_id_5071" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Gustav Wilhelm</forename>
+                     <surname>Teschner</surname>
+                  </persName>
+                  <birth>1800-1883</birth>
+                  <death>1800-1883</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117274852</idno>
+               </person>
+               <person xml:id="hsl_person_id_5072" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Feodor von</forename>
+                     <surname>Milde</surname>
+                  </persName>
+                  <birth>1821-1899</birth>
+                  <death>1821-1899</death>
+                  <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117041467</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_M/Milde_Familie.xml</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_M/Milde_Johann_1821_1899.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5073" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Caroline von</forename>
+                     <surname>Weber</surname>
+                  </persName>
+                  <birth>1794-1852</birth>
+                  <death>1794-1852</death>
+                  <occupation style="background-color: dark-red;">Schauspielerin</occupation>
+                  <occupation style="background-color: gray;">Sängerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118816578</idno>
+               </person>
+               <person xml:id="hsl_person_id_5074" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Alfred</forename>
+                     <surname>Kalischer</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Kalisch</surname>
+                  </persName>
+                  <birth>1842-1909</birth>
+                  <death>1842-1909</death>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116058250</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3362">Gotthold Ephraim Lessing als Musik-Aesthetiker</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5075" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Ferdinand</forename>
+                     <surname>Oehlmann</surname>
+                  </persName>
+                  <birth>?-1894</birth>
+                  <death>?-1894</death>
+                  <occupation style="background-color: dark-brown;">Buchhändler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1073454037</idno>
+               </person>
+               <person xml:id="hsl_person_id_5076" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Johann Gottfried</forename>
+                     <surname>Lessing</surname>
+                  </persName>
+                  <birth>1693-1770</birth>
+                  <death>1693-1770</death>
+                  <occupation style="background-color: light-green;">Theologe</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/10018541X</idno>
+               </person>
+               <person xml:id="hsl_person_id_5077" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Gottschalk E.</forename>
+                     <surname>Guhrauer</surname>
+                  </persName>
+                  <birth>1809-1854</birth>
+                  <death>1809-1854</death>
+                  <occupation style="background-color: dark-red;">Literaturhistoriker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116920645</idno>
+               </person>
+               <person xml:id="hsl_person_id_5079" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Leda</surname>
+                  </persName>
+                  <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1325002534</idno>
+               </person>
+               <person xml:id="hsl_person_id_5080" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Sigismond</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1161">La Juive</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5081" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Europa</surname>
+                  </persName>
+                  <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118531409</idno>
+               </person>
+               <person xml:id="hsl_person_id_5082" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Ulrich</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5083" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Ludwig</forename>
+                     <surname>Geyer</surname>
+                  </persName>
+                  <birth>1779-1821</birth>
+                  <death>1779-1821</death>
+                  <occupation style="background-color: darker-cyan;">Maler</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118717170</idno>
+               </person>
+               <person xml:id="hsl_person_id_5084" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Otto</forename>
+                     <surname>Neitzel</surname>
+                  </persName>
+                  <birth>1852-1920</birth>
+                  <death>1852-1920</death>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116909390</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3371">Der alte Dessauer</bibl>
+                     <bibl n="hsl_work_id_3373">Der Führer durch die Oper des Theaters der Gegenwart, Text Musik und Scene erläuternd</bibl>
+                     <bibl n="hsl_work_id_3374">Der Führer durch die Oper des Theaters der Gegenwart, Text Musik und Scene erläuternd. 1. Band. Deutsche Opern. 1. Abtheilung</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5085" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Paul</forename>
+                     <surname>Kurth</surname>
+                  </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3371">Der alte Dessauer</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

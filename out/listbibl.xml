@@ -65,9 +65,9 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300102224</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_5" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_5" resp="#awilfing" cert="high">
                <title type="main">La folle journée ou Le mariage de Figaro</title>
-               <title type="alternative">Une folle journée</title>
+               <title type="alternative">Une folle journée / Figaro's Hochzeit</title>
                <author ref="#hsl_person_id_11">
                   <persName>Beaumarchais, Pierre Augustin Caron de</persName>
                </author>
@@ -81,6 +81,7 @@
                <name type="character" ref="#hsl_person_id_4699">La comtesse</name>
                <name type="character" ref="#hsl_person_id_4704">Fanchette</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4323525-6</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k72035j.r</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4" resp="#awilfing" cert="high">
                <title type="main">Le nozze di Figaro, KV492</title>
@@ -469,8 +470,8 @@
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_522">Elisabeth, Nichte des Landgrafen</name>
-               <name type="character" ref="#hsl_person_id_588">Hermann, Landgraf von Thüringen</name>
+               <name type="character" ref="#hsl_person_id_522">Elisabeth</name>
+               <name type="character" ref="#hsl_person_id_588">Landgraf Hermann</name>
                <name type="character" ref="#hsl_person_id_663">Tannhäuser</name>
                <name type="character" ref="#hsl_person_id_667">Venus</name>
                <name type="character" ref="#hsl_person_id_671">Wolfram von Eschinbach</name>
@@ -2437,7 +2438,7 @@
                <name type="character" ref="#hsl_person_id_3917">Gräfin</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300096550</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_230" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_230" resp="#awilfing" cert="high">
                <title type="main">Der Templer und die Jüdin, op. 60</title>
                <title type="alternative">Templer und Jüdin</title>
                <author ref="#hsl_person_id_174">
@@ -2533,7 +2534,7 @@
                <name type="character" ref="#hsl_person_id_1376">Holländer</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300169752</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_238" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_238" resp="#awilfing" cert="high">
                <title type="main">Das Rheingold, WWV86A</title>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
@@ -2566,7 +2567,7 @@
                <name type="character" ref="#hsl_person_id_1505">Peri</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145969</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_240" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_240" resp="#awilfing" cert="high">
                <title type="main">Das Liebesmahl der Apostel, WWV69</title>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
@@ -2825,7 +2826,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1163060607</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_267" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_267" resp="#awilfing" cert="high">
                <title type="main">Alceste, Wq. 37</title>
                <author ref="#hsl_person_id_99">
                   <persName>Gluck, Christoph Willibald</persName>
@@ -3501,6 +3502,7 @@
                <name type="character" ref="#hsl_person_id_481">Don Pizarro</name>
                <name type="character" ref="#hsl_person_id_2404">Jaquino</name>
                <name type="character" ref="#hsl_person_id_3549">Rocco</name>
+               <name type="character" ref="#hsl_person_id_5061">Marzelline</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015194</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_349" resp="#awilfing" cert="high">
@@ -3554,11 +3556,12 @@
                <name type="character" ref="#hsl_person_id_4110">Elvino</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300017987</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_353" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_353" resp="#awilfing" cert="high">
                <title type="main">Mémoires pour servir à l'historie de la révolution opérée dans la musique par M. le chevalier Gluck</title>
                <author ref="#hsl_person_id_242">
                   <persName>Du Roullet, François Louis Gaud Lebland</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k5727860f</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_354" resp="#awilfing" cert="medium">
                <title type="main">Journal de politique et de littérature</title>
@@ -3597,11 +3600,13 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300111150</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_359" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_359" resp="#awilfing" cert="high">
                <title type="main">Musikalische Charakterköpfe. Ein kunstgeschichtliches Skizzenbuch</title>
                <author ref="#hsl_person_id_410">
                   <persName>Riehl, Wilhelm Heinrich</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10599325?page=4,5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10599331?page=,1</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_360" resp="#awilfing" cert="high">
                <title type="main">Der Geist in der Natur</title>
@@ -3613,7 +3618,8 @@
             </bibl>
             <bibl xml:id="hsl_work_id_361" resp="#awilfing" cert="medium">
                <title type="main">Allgemeine Zeitung (Augsburg)</title>
-               <title type="alternative">A. A. Ztg.</title>
+               <title type="alternative">A. Allgemeinen Zeitung / A. A. Ztg.</title>
+               <idno type="URL" subtype="Digitalisat">https://digipress.digitale-sammlungen.de/calendar/newspaper/bsbmult00000002</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_362" resp="#awilfing" cert="high">
                <title type="main">King Lear</title>
@@ -3757,18 +3763,20 @@
                   <persName>Dante, Alighieri</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_378" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_378" resp="#awilfing" cert="high">
                <title type="main">Ideen zu einer Ästhetik der Tonkunst</title>
                <author ref="#hsl_person_id_277">
                   <persName>Schubart, Christian Friedrich Daniel</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4349175-3</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10599461?page=10,11</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_379" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_379" resp="#awilfing" cert="high">
                <title type="main">Neue Wahrnehmungen zur Aufnahme und weitern Ausbreitung der Musik</title>
                <author ref="#hsl_person_id_492">
                   <persName>Rolle, Christian Friedrich</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.loc.gov/resource/muspre1800.100322/?sp=1</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_380" resp="#awilfing" cert="high">
                <title type="main">La Favorite</title>
@@ -3865,7 +3873,7 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10287479?page=4,5</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_389" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_389" resp="#awilfing" cert="high">
                <title type="main">Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers</title>
                <author ref="#hsl_person_id_60">
                   <persName>Diderot, Denis</persName>
@@ -3877,12 +3885,14 @@
                   <persName>Jaucourt, Louis de</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4070801-9</idno>
+               <idno type="URL" subtype="Digitalisat">https://fr.wikisource.org/wiki/Encyclop%C3%A9die,_ou_Dictionnaire_raisonn%C3%A9_des_sciences,_des_arts_et_des_m%C3%A9tiers</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_390" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_390" resp="#awilfing" cert="high">
                <title type="main">Grundriß der Physiologie des Menschen. Für das erste Studium und zur Selbstbelehrung</title>
                <author ref="#hsl_person_id_570">
                   <persName>Valentin, Gabriel Gustav</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11106904?page=6,7</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_391" resp="#awilfing" cert="high">
                <title type="main">Handwörterbuch der Physiologie mit Rücksicht auf physiologische Pathologie</title>
@@ -4111,6 +4121,9 @@
                <name type="character" ref="#hsl_person_id_1691">Sieglinde</name>
                <name type="character" ref="#hsl_person_id_3167">Fafner</name>
                <name type="character" ref="#hsl_person_id_3168">Loge</name>
+               <name type="character" ref="#hsl_person_id_5000">Woglinde</name>
+               <name type="character" ref="#hsl_person_id_5001">Wellgunde</name>
+               <name type="character" ref="#hsl_person_id_5002">Floßhilde</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300170319</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_419" resp="#awilfing" cert="high">
@@ -4126,17 +4139,19 @@
                   <persName>Grillparzer, Franz</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_421" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_421" resp="#awilfing" cert="high">
                <title type="main">Grillparzer und die Musik</title>
                <author ref="#hsl_person_id_1">
                   <persName>Hanslick, Eduard</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11727297?page=344,345</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_422" resp="#awilfing" cert="medium">
-               <title type="main">Musikalische Stationen. (Der „Modernen Oper“ II. Theil.)</title>
+            <bibl xml:id="hsl_work_id_422" resp="#awilfing" cert="high">
+               <title type="main">Musikalische Stationen. Neue Folge der "Modernen Oper"</title>
                <author ref="#hsl_person_id_1">
                   <persName>Hanslick, Eduard</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11727297?page=8,9</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_423" resp="#awilfing" cert="medium">
                <title type="main">Licht! Mehr Licht!, S84</title>
@@ -4516,11 +4531,12 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300011806</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_484" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_484" resp="#awilfing" cert="high">
                <title type="main">Die moderne Oper. Kritiken und Studien</title>
                <author ref="#hsl_person_id_1">
                   <persName>Hanslick, Eduard</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11081548?page=4,5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_485" resp="#awilfing" cert="high">
                <title type="main">W. A. Mozart</title>
@@ -5743,7 +5759,7 @@
                <name type="character" ref="#hsl_person_id_4808">Marie</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4476528-9</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_649" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_649" resp="#awilfing" cert="high">
                <title type="main">Die Walküre, WWV86B</title>
                <title type="alternative">Die Wallküre</title>
                <author ref="#hsl_person_id_319">
@@ -6220,7 +6236,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300166192</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_722" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_722" resp="#awilfing" cert="high">
                <title type="main">Missa solennis zur Einweihung der Basilika in Gran, S9</title>
                <title type="alternative">Festmesse / Graner Messe</title>
                <author ref="#hsl_person_id_164">
@@ -8814,14 +8830,14 @@
                <name type="character" ref="#hsl_person_id_2632">Bořivoj</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300430493</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1020" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1020" resp="#awilfing" cert="high">
                <title type="main">Die Feen, WWV32</title>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300169736</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1021" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1021" resp="#awilfing" cert="high">
                <title type="main">Das Liebesverbot oder Die Novize von Palermo, WWV38</title>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
@@ -10056,6 +10072,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_1803">Rachel</name>
                <name type="character" ref="#hsl_person_id_1804">Éléazar</name>
+               <name type="character" ref="#hsl_person_id_5080">Sigismond</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300066651</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1162" resp="#awilfing" cert="medium">
@@ -10892,8 +10909,9 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300060386</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1252" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1252" resp="#awilfing" cert="high">
                <title type="main">Sémiramis</title>
+               <title type="alternative">Semiramis</title>
                <author ref="#hsl_person_id_45">
                   <persName>Catel, Charles-Simon</persName>
                </author>
@@ -11405,7 +11423,7 @@
                <name type="character" ref="#hsl_person_id_3167">Fafner</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300170327</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1316" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1316" resp="#awilfing" cert="high">
                <title type="main">Götterdämmerung, WWV86D</title>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
@@ -11415,6 +11433,9 @@
                <name type="character" ref="#hsl_person_id_1686">Alberich</name>
                <name type="character" ref="#hsl_person_id_1688">Hagen</name>
                <name type="character" ref="#hsl_person_id_1689">Gunther</name>
+               <name type="character" ref="#hsl_person_id_5000">Woglinde</name>
+               <name type="character" ref="#hsl_person_id_5001">Wellgunde</name>
+               <name type="character" ref="#hsl_person_id_5002">Floßhilde</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300169868</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1318" resp="#awilfing" cert="high">
@@ -13059,7 +13080,7 @@
                <author ref="#hsl_person_id_1">
                   <persName>Hanslick, Eduard</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11556962?page=8,9</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/Suite.AufstzeberMusikUndMusiker</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1521" resp="#awilfing" cert="medium">
                <title type="main">Symphonie Nr. 10 in Es-Dur</title>
@@ -13538,7 +13559,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1060926164</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1578" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1578" resp="#awilfing" cert="high">
                <title type="main">Huldigungsmarsch, WWV97</title>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
@@ -17198,11 +17219,12 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300093993</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2060" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2060" resp="#awilfing" cert="high">
                <title type="main">Musikalischer Almanach für Deutschland</title>
                <author ref="#hsl_person_id_385">
                   <persName>Forkel, Johann Nikolaus</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://de.wikisource.org/wiki/Musikalischer_Almanach_f%C3%BCr_Deutschland</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2061" resp="#awilfing" cert="medium">
                <title type="main">Raoul Barbe-Bleue</title>
@@ -18643,7 +18665,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300030088</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2244" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2244" resp="#awilfing" cert="high">
                <title type="main">Messe in C-Dur, op. 86</title>
                <title type="alternative">Festmesse</title>
                <author ref="#hsl_person_id_25">
@@ -19152,7 +19174,7 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://books.google.at/books?id=PyUWAAAAYAAJ&amp;hl=de&amp;pg=PP11#v=onepage&amp;q&amp;f=false</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2304" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2304" resp="#awilfing" cert="high">
                <title type="main">Dur- und Moll-Accorde. Musikalische Streifzüge, Portraitskizzen und Genrebilder</title>
                <author ref="#hsl_person_id_3764">
                   <persName>Kohut, Adolph</persName>
@@ -20022,12 +20044,13 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300208413</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2416" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2416" resp="#awilfing" cert="high">
                <title type="main">Ein Gespräch über Musikkritik</title>
                <title type="alternative">Billroth-Kapitel</title>
                <author ref="#hsl_person_id_1">
                   <persName>Hanslick, Eduard</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11557245?page=308,309</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2417" resp="#awilfing" cert="medium">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 2 in C-Dur</title>
@@ -24878,7 +24901,7 @@
                   <persName>Hiemer, Franz Karl</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3054" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3054" resp="#awilfing" cert="high">
                <title type="main">Le Barbier de Séville ou La précaution inutile</title>
                <author ref="#hsl_person_id_11">
                   <persName>Beaumarchais, Pierre Augustin Caron de</persName>
@@ -24889,6 +24912,8 @@
                <name type="character" ref="#hsl_person_id_4684">Le comte Almaviva</name>
                <name type="character" ref="#hsl_person_id_4688">Bartholo</name>
                <name type="character" ref="#hsl_person_id_4689">Figaro</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4313425-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k6125805c.r</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3055" resp="#awilfing" cert="medium">
                <title type="main">Mater Dolorosa</title>
@@ -26287,11 +26312,11 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3239" resp="#awilfing" cert="high">
-               <title type="main">Symphonie in G-Dur</title>
-               <title type="alternative">unklarer Bezug</title>
+               <title type="main">Symphonie Nr. 32 in G-Dur, KV318</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300111061</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3240" resp="#awilfing" cert="high">
                <title type="main">Weit, weit!, op. 25 Nr. 20</title>
@@ -27013,8 +27038,12 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300778171</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3333" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_3333" resp="#awilfing" cert="high">
+               <title type="main">Compendium der Musikgeschichte bis zum Ende des 16. Jahrhunderts. Für Schule und Conservatorien</title>
+               <author ref="#hsl_person_id_5063">
+                  <persName>Prosniz, Adolf</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/compendiumdermus00pros/page/n5/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3334" resp="#awilfing" cert="high">
                <title type="main">Symphonie in d-Moll, Hob. I:80</title>
@@ -27194,6 +27223,169 @@
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300110227</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3355" resp="#awilfing" cert="high">
+               <title type="main">Führer durch den Concertsaal</title>
+               <author ref="#hsl_person_id_1826">
+                  <persName>Kretzschmar, Hermann</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/bub_gb_-8w3AAAAIAAJ/page/n5/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/fhrerdurchdenco07kretgoog/page/n6/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/fhrerdurchdenco08kretgoog/page/n4/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3356" resp="#awilfing" cert="high">
+               <title type="main">Führer durch den Concertsaal. I. Abtheilung: Sinfonie und Suite</title>
+               <author ref="#hsl_person_id_1826">
+                  <persName>Kretzschmar, Hermann</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/bub_gb_-8w3AAAAIAAJ/page/n5/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3357" resp="#awilfing" cert="high">
+               <title type="main">Führer durch den Concertsaal. II. Abtheilung, Erster Theil: Kirchliche Werke</title>
+               <author ref="#hsl_person_id_1826">
+                  <persName>Kretzschmar, Hermann</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/fhrerdurchdenco07kretgoog/page/n6/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3358" resp="#awilfing" cert="high">
+               <title type="main">Führer durch den Concertsaal. II. Abtheilung, Zweiter Theil: Oratorien und Weltliche Chorwerke</title>
+               <author ref="#hsl_person_id_1826">
+                  <persName>Kretzschmar, Hermann</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/fhrerdurchdenco08kretgoog/page/n4/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3359" resp="#awilfing" cert="high">
+               <title type="main">Handbuch der Clavier-Literatur 1450 bis 1830. Historisch-kritische Übersicht</title>
+               <author ref="#hsl_person_id_5063">
+                  <persName>Prosniz, Adolf</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/handbuchderklav01prosgoog/page/n4/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3360" resp="#awilfing" cert="high">
+               <title type="main">Geschichte der Musik</title>
+               <author ref="#hsl_person_id_717">
+                  <persName>Ambros, August Wilhelm</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1024786811</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10598178?page=4,5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10598179?page=4,5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10598180?page=8,9</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11376491?page=4,5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11556902?page=6,7</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3361" resp="#awilfing" cert="high">
+               <title type="main">Johannes Miksch, der größte deutsche Singemeister und sein Gesangssystem. Vom Atmen</title>
+               <title type="alternative">Johannes Miksch, der größte deutsche Singemeister und sein System</title>
+               <author ref="#hsl_person_id_3764">
+                  <persName>Kohut, Adolph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3362" resp="#awilfing" cert="high">
+               <title type="main">Gotthold Ephraim Lessing als Musik-Aesthetiker</title>
+               <author ref="#hsl_person_id_5074">
+                  <persName>Kalischer, Alfred</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/gottholdephraim00kaligoog/page/n7/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3363" resp="#awilfing" cert="high">
+               <title type="main">An den Herrn Marpurg, über die Regeln der Wissenschaften zum Vergnügen, besonders der Poesie und Tonkunst</title>
+               <author ref="#hsl_person_id_697">
+                  <persName>Lessing, Gotthold Ephraim</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.projekt-gutenberg.org/lessing/fragfabe/chap005.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3364" resp="#awilfing" cert="high">
+               <title type="main">Laokoon: oder ueber die Grenzen der Mahlerey und Poesie. Mit beylaeufigen Erlaeuterungen verschiedner Punkte der alten Kunstgeschichte</title>
+               <author ref="#hsl_person_id_697">
+                  <persName>Lessing, Gotthold Ephraim</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4325992-3</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/laokoonoderueber00less/page/n3/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3365" resp="#awilfing" cert="high">
+               <title type="main">Hamburgische Dramaturgie</title>
+               <author ref="#hsl_person_id_697">
+                  <persName>Lessing, Gotthold Ephraim</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099290-1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10574234?page=4,5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10574235?page=4,5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3366" resp="#awilfing" cert="high">
+               <title type="main">Wem ich zu gefallen suche, und nicht suche</title>
+               <author ref="#hsl_person_id_697">
+                  <persName>Lessing, Gotthold Ephraim</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.projekt-gutenberg.org/lessing/lieder/chap069.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3367" resp="#awilfing" cert="high">
+               <title type="main">Sémiramis</title>
+               <title type="alternative">Semiramis</title>
+               <author ref="#hsl_person_id_1391">
+                  <persName>Voltaire</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1204039143</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k54592670</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3368" resp="#awilfing" cert="high">
+               <title type="main">Semiramis</title>
+               <author ref="#hsl_person_id_1391">
+                  <persName>Voltaire</persName>
+               </author>
+               <author ref="#hsl_person_id_4891">
+                  <persName>Agricola, Johann Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3369" resp="#awilfing" cert="high">
+               <title type="main">Wagner und die Thierwelt. Auch eine Biographie</title>
+               <author ref="#hsl_person_id_2768">
+                  <persName>Wolzogen, Hans von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://www.google.de/books/edition/Richard_Wagner_und_die_Tierwelt/xcgvGfE-OJMC?hl=de&amp;gbpv=1&amp;pg=PA1&amp;printsec=frontcover</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3370" resp="#awilfing" cert="high">
+               <title type="main">Die Zwischenactmusik, ihre Beurtheilung durch Lessing und die Schriftsteller unserer Zeit. (15. Februar 1881.)</title>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/Suite.AufstzeberMusikUndMusiker/page/n103/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3371" resp="#awilfing" cert="high">
+               <title type="main">Der alte Dessauer</title>
+               <author ref="#hsl_person_id_5084">
+                  <persName>Neitzel, Otto</persName>
+               </author>
+               <author ref="#hsl_person_id_5085">
+                  <persName>Kurth, Paul</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3372" resp="#awilfing" cert="high">
+               <title type="main">Religion und Kunst</title>
+               <title type="alternative">Kunst und Religion</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7841025-3</idno>
+               <idno type="URL" subtype="Digitalisat">https://babel.hathitrust.org/cgi/pt?id=mdp.39015023339743&amp;seq=281</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3373" resp="#awilfing" cert="high">
+               <title type="main">Der Führer durch die Oper des Theaters der Gegenwart, Text Musik und Scene erläuternd</title>
+               <author ref="#hsl_person_id_5084">
+                  <persName>Neitzel, Otto</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/bub_gb_DSQuAQAAIAAJ/page/n3/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/bub_gb_PCQuAQAAIAAJ/page/n3/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/ab3derfhrerdur01neit/page/n5/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3374" resp="#awilfing" cert="high">
+               <title type="main">Der Führer durch die Oper des Theaters der Gegenwart, Text Musik und Scene erläuternd. 1. Band. Deutsche Opern. 1. Abtheilung</title>
+               <author ref="#hsl_person_id_5084">
+                  <persName>Neitzel, Otto</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/bub_gb_DSQuAQAAIAAJ/page/n3/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3375" resp="#awilfing" cert="medium">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>
