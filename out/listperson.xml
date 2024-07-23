@@ -6641,6 +6641,7 @@
                      <bibl n="hsl_work_id_3319">Im Treibhaus, WWV91 Nr. 3</bibl>
                      <bibl n="hsl_work_id_3320">5 Gedichte, WWV91</bibl>
                      <bibl n="hsl_work_id_3372">Religion und Kunst</bibl>
+                     <bibl n="hsl_work_id_3376">Gesammelte Schriften und Dichtungen</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_361" resp="#awilfing" cert="high">
@@ -7478,6 +7479,10 @@
                      <forename>Friedrich Wilhelm</forename>
                      <surname>Marpurg</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Marburg</surname>
+                  </persName>
                   <birth>1718-1795</birth>
                   <death>1718-1795</death>
                   <occupation style="background-color: light-gray;">Musikautor</occupation>
@@ -7718,7 +7723,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q91592</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_341">Elemente der Musik</bibl>
-                     <bibl n="hsl_work_id_2562">Handbuch der Musikgeschichte</bibl>
+                     <bibl n="hsl_work_id_2562">Handbuch der Musik-Geschichte von den ersten Anfängen bis zum Tode Beethovens</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_404" resp="#awilfing" cert="high">
@@ -9663,6 +9668,10 @@
                      <forename>Ernst Anton</forename>
                      <surname>Nicolai</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Nikolai</surname>
+                  </persName>
                   <birth>1722-1802</birth>
                   <death>1722-1802</death>
                   <occupation style="background-color: dark-orange;">Mediziner</occupation>
@@ -9750,7 +9759,7 @@
                      <bibl n="hsl_work_id_391">Handwörterbuch der Physiologie mit Rücksicht auf physiologische Pathologie</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_572" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_572" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Carl Gustav</forename>
                      <surname>Carus</surname>
@@ -9844,23 +9853,25 @@
                      <bibl n="hsl_work_id_394">Fragmente zur höhern Musik, und für ästhetische Tonliebhaber</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_578" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_578" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
-                     <surname>Duke Orsino</surname>
+                     <surname>Orsino</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_395">Twelfth Night</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_579" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_579" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Allatson</forename>
                      <surname>Burgh</surname>
                   </persName>
-                  <birth>18./19. Jhdt.</birth>
-                  <death>18./19. Jhdt.</death>
+                  <birth>1769-1856</birth>
+                  <death>1769-1856</death>
+                  <occupation style="background-color: purple;">Priester</occupation>
                   <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q106099875</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_396">Anecdotes of Music, Historical and Biographical; in a Series of Letters from a Gentelman to his Daughter</bibl>
                   </listBibl>
@@ -10447,11 +10458,18 @@
                      <bibl n="hsl_work_id_200">Falstaff, H64</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_636" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_636" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Orfeo</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Orpheus</surname>
+                  </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2012">Orfeo ed Euridice, Wq. 30</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_637" role="fictional" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -11000,7 +11018,7 @@
                      <bibl n="hsl_work_id_486">Briefe von Moritz Hauptmann, Kantor und Musikdirektor an der Thomasschule zu Leipzig, an Ludwig Spohr und Andere</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_688" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_688" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Jacob</forename>
                      <surname>Grimm</surname>
@@ -11243,7 +11261,7 @@
                      <bibl n="hsl_work_id_474">Allgemeine Aesthetik als Formwissenschaft</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_706" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_706" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann Ambrosius</forename>
                      <surname>Barth</surname>
@@ -11983,16 +12001,16 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118958801</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q13685096</idno>
                </person>
-               <person xml:id="hsl_person_id_782" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_782" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Georg Gottfried</forename>
                      <surname>Gervinus</surname>
                   </persName>
                   <birth>1805-1871</birth>
                   <death>1805-1871</death>
-                  <occupation style="background-color: light-gray;">Musikautor</occupation>
                   <occupation style="background-color: red;">Historiker</occupation>
                   <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118538918</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q61648</idno>
                   <listBibl type="authorOf">
@@ -12009,7 +12027,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118590278</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q174353</idno>
                </person>
-               <person xml:id="hsl_person_id_784" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_784" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Bartolomeo Ortensio</forename>
                      <surname>Mauro</surname>
@@ -12048,15 +12066,16 @@
                      <bibl n="hsl_work_id_2355">Richard Wagner und die neuere Musik. Eine kritische Skizze aus der musikalischen Gegenwart</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_787" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_787" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Pascal</forename>
                      <surname>Boyé</surname>
                   </persName>
-                  <birth>18. Jhdt.</birth>
-                  <death>18. Jhdt.</death>
-                  <occupation style="background-color: blue;">Kritiker</occupation>
-                  <occupation style="background-color: dark-green;">Journalist</occupation>
+                  <birth>1741-1794</birth>
+                  <death>1741-1794</death>
+                  <occupation style="background-color: light-green;">Publizist</occupation>
+                  <occupation style="background-color: light-yellow;">Musikkritiker</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
                </person>
                <person xml:id="hsl_person_id_788" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -12142,7 +12161,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118557211</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q77079</idno>
                </person>
-               <person xml:id="hsl_person_id_794" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_794" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Paul Emil</forename>
                      <surname>Thieriot</surname>
@@ -18184,6 +18203,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118550772</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q76487</idno>
                   <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1099">Spanisches Liederbuch</bibl>
                      <bibl n="hsl_work_id_1338">All' meine Herzgedanken, op. 25 Nr. 2</bibl>
                      <bibl n="hsl_work_id_1658">Mädchenlied, op. 107 Nr. 5</bibl>
                      <bibl n="hsl_work_id_1829">Der Salamander. Ein Reisetagebuch</bibl>
@@ -21015,7 +21035,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/100802583</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q92090</idno>
                </person>
-               <person xml:id="hsl_person_id_1487" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1487" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Charlotte Agnes Florentine</forename>
                      <surname>Carus</surname>
@@ -40507,7 +40527,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118657127</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q677193</idno>
                </person>
-               <person xml:id="hsl_person_id_3011" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3011" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Wilhelm</forename>
                      <surname>Grimm</surname>
@@ -50346,14 +50366,15 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116463910</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q94809755</idno>
                </person>
-               <person xml:id="hsl_person_id_3805" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3805" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>? von</forename>
-                     <surname>Niessen</surname>
+                     <forename>Matja von</forename>
+                     <surname>Niessen-Stone</surname>
                   </persName>
-                  <birth>19./20. Jhdt.</birth>
-                  <death>19./20. Jhdt.</death>
+                  <birth>1870-1948</birth>
+                  <death>1870-1948</death>
                   <occupation style="background-color: dark-gray;">Sängerin (Alt)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1329194845</idno>
                </person>
                <person xml:id="hsl_person_id_3806" role="fictional" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -54316,14 +54337,15 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Savart_Louis.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Savart_Louis_1871_1923.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_4168" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4168" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Jettka</forename>
-                     <surname>Finkenstein</surname>
+                     <surname>Finkenstein-Pulvermacher</surname>
                   </persName>
-                  <birth>1865-?</birth>
-                  <death>1865-?</death>
+                  <birth>1861-nach 1931</birth>
+                  <death>1861-nach 1931</death>
                   <occupation style="background-color: dark-gray;">Sängerin (Alt)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1327514303</idno>
                </person>
                <person xml:id="hsl_person_id_4169" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -56805,10 +56827,10 @@
                <person xml:id="hsl_person_id_4366" role="fictional" resp="#awilfing" cert="medium">
                   <persName type="main">
                      <forename/>
-                     <surname>Heinrich IV.</surname>
+                     <surname>Henry IV</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_2699">Jagdpartie Heinrich's IV.</bibl>
+                     <bibl n="hsl_work_id_2699">Le Partie de Chasse d'Henry IV</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4367" resp="#awilfing" cert="medium">
@@ -64810,6 +64832,28 @@
                   </persName>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3371">Der alte Dessauer</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5086" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Euridice</surname>
+                  </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2012">Orfeo ed Euridice, Wq. 30</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5087" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Charles</forename>
+                     <surname>Collé</surname>
+                  </persName>
+                  <birth>1709-1783</birth>
+                  <death>1709-1783</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116637099</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2699">Le Partie de Chasse d'Henry IV</bibl>
                   </listBibl>
                </person>
             </listPerson>
