@@ -469,7 +469,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1616329</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4108155-9</idno>
                </place>
-               <place xml:id="hsl_place_id_27" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_27" resp="#awilfing" cert="high">
                   <settlement type="S">
                      <placeName type="main">Hohenasperg</placeName>
                      <placeName type="alternative">Hohen-Asperg</placeName>
@@ -2439,7 +2439,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2803138/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q31467408</idno>
                </place>
-               <place xml:id="hsl_place_id_204" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_204" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Česko</placeName>
                      <placeName type="alternative">Tschechien / Czechien</placeName>
@@ -2949,7 +2949,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1653</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4012712-6</idno>
                </place>
-               <place xml:id="hsl_place_id_244" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_244" resp="#awilfing" cert="high">
                   <settlement type="H">
                      <placeName type="main">Vltava</placeName>
                      <placeName type="alternative">Moldau</placeName>
@@ -6300,10 +6300,10 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q23792</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4044381-4</idno>
                </place>
-               <place xml:id="hsl_place_id_543" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_543" resp="#awilfing" cert="high">
                   <settlement type="S">
                      <placeName type="main">Vyšehrad</placeName>
-                     <placeName type="alternative">Wyssehrad</placeName>
+                     <placeName type="alternative">Wyssehrad / Wyschehrad</placeName>
                   </settlement>
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>CZ, Czechia</country>
@@ -6732,6 +6732,30 @@
                   <placeName type="main">Jiřetín pod Jedlovou</placeName>
                      <placeName type="alternative">Georgenthal</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3074133/</idno>
+               </place>
+               <place xml:id="hsl_place_id_589" resp="#awilfing" cert="high">
+                  <placeName type="main">Wiener Neustadt</placeName>
+                     <placeName type="alternative">Wiener-Neustadt</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2761353/</idno>
+               </place>
+               <place xml:id="hsl_place_id_590" resp="#awilfing" cert="medium">
+                  <placeName type="main">Göteborg</placeName>
+                     <placeName type="alternative">Gothenburg</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2711537/</idno>
+               </place>
+               <place xml:id="hsl_place_id_591" resp="#awilfing" cert="high">
+                  <placeName type="main">Niagara Falls</placeName>
+                     <placeName type="alternative">Niagarafall</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6087891/</idno>
+               </place>
+               <place xml:id="hsl_place_id_592" resp="#awilfing" cert="high">
+                  <placeName type="main">Litomyšl</placeName>
+                     <placeName type="alternative">Leitomischl</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3071675/</idno>
+               </place>
+               <place xml:id="hsl_place_id_593" resp="#awilfing" cert="high">
+                  <placeName type="main">Svatojánské proudy</placeName>
+                     <placeName type="alternative">St. Johannis-Stromschnellen</placeName>
                </place>
             </listPlace>
          </div>

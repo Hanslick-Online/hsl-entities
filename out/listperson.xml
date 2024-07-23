@@ -1071,6 +1071,9 @@
                   <occupation style="background-color: light-orange;">Übersetzerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119019027</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4938988</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_75">Orpheus og Eurydike</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_33" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -4327,7 +4330,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q97494</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_254">Beethovens Leben, Bd. 1, Beethoven's Jugend</bibl>
-                     <bibl n="hsl_work_id_2561">Neue Briefe Beethovens. Nebst einigen ungedruckten Gelegenheitscompositionen und Auszügen aus seinem Tagebuch und seiner Lectüre.</bibl>
+                     <bibl n="hsl_work_id_2561">Neue Briefe Beethovens. Nebst einigen ungedruckten Gelegenheitscompositionen und Auszügen aus seinem Tagebuch und seiner Lectüre</bibl>
                      <bibl n="hsl_work_id_2565">Beethovens Leben, Bd. 2, Beethoven's Mannesalter</bibl>
                      <bibl n="hsl_work_id_2570">Musikalisches Skizzenbuch</bibl>
                   </listBibl>
@@ -5221,7 +5224,7 @@
                      <bibl n="hsl_work_id_2491">Nocturne in As-Dur, op. 71 Nr. 1</bibl>
                      <bibl n="hsl_work_id_2492">Contredanse</bibl>
                      <bibl n="hsl_work_id_2494">12 Lieder des Mirza-Schaffy, op. 34</bibl>
-                     <bibl n="hsl_work_id_2495">Neun Lieder von Kolzoff, op. 27</bibl>
+                     <bibl n="hsl_work_id_2495">9 Lieder von Kolzoff, op. 27</bibl>
                      <bibl n="hsl_work_id_2554">Caprice russe für Klavier und Orchester, op. 102</bibl>
                      <bibl n="hsl_work_id_2577">Melodie</bibl>
                      <bibl n="hsl_work_id_2583">Symphonie Nr. 5 in g-Moll, op. 107</bibl>
@@ -9009,10 +9012,14 @@
                      <bibl n="hsl_work_id_292">Iphigénie</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_488" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_488" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Oreste</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Orest</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_165">Iphigénie en Tauride, Wq. 46</bibl>
@@ -9031,7 +9038,7 @@
                      <bibl n="hsl_work_id_166">Iphigénie en Aulide, Wq. 40</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_490" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_490" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Pylade</surname>
@@ -11308,7 +11315,7 @@
                      <bibl n="hsl_work_id_197">Faust. Der Tragödie erster Theil</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_711" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_711" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>David Friedrich</forename>
                      <surname>Strauß</surname>
@@ -12134,7 +12141,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_R/Rudolf_Erzherzog.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_R/Rudolf_Johann-Josef-Rainer_1788_1831.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_792" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_792" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Emil Heinrich</forename>
                      <surname>Du Bois-Reymond</surname>
@@ -12143,7 +12150,6 @@
                   <death>1818-1896</death>
                   <occupation style="background-color: brown;">Physiologe</occupation>
                   <occupation style="background-color: dark-orange;">Mediziner</occupation>
-                  <occupation style="background-color: green;">Hochschullehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118527665</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q76571</idno>
                   <listBibl type="authorOf">
@@ -13371,6 +13377,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_69">Paragraph Drei</bibl>
                      <bibl n="hsl_work_id_3074">Die Frau Meisterin</bibl>
+                     <bibl n="hsl_work_id_3380">Das Pensionat</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_906" resp="#awilfing" cert="high">
@@ -42124,7 +42131,7 @@
                <person xml:id="hsl_person_id_3144" role="fictional" resp="#awilfing" cert="medium">
                   <persName type="main">
                      <forename/>
-                     <surname>Freund Hein</surname>
+                     <surname>Freund Hein / Hain</surname>
                   </persName>
                   <persName type="alternative">
                      <forename/>
@@ -44811,6 +44818,9 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55674135</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_K/Kaulich_Familie.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_K/Kaulich_Josef_1827_1901.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3380">Das Pensionat</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3358" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -45557,7 +45567,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/104760518X</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_Z/Ziegler_Familie.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_3418" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3418" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann Michel</forename>
                      <surname>Schweighofer</surname>
@@ -45567,6 +45577,7 @@
                   <occupation style="background-color: dark-green;">Klavierbauer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1033492744</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q98908166</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Schweighofer_Johann-Michael_1840_1889.xml</idno>
                </person>
                <person xml:id="hsl_person_id_3419" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -51232,7 +51243,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2389">Joseph Haydn</bibl>
                      <bibl n="hsl_work_id_2558">Mozart und Haydn in London</bibl>
-                     <bibl n="hsl_work_id_2563">Mozart in London</bibl>
+                     <bibl n="hsl_work_id_2563">Mozart und Haydn in London. Erste Abtheilung: Mozart in London</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3867" resp="#awilfing" cert="high">
@@ -53893,7 +53904,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/143341863</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3130970</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_2547">Nena Sahib, Choreographisches Drama in drei Aufzügen und fünf Bildern</bibl>
+                     <bibl n="hsl_work_id_2547">Nena Sahib</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4130" resp="#awilfing" cert="medium">
@@ -53958,7 +53969,7 @@
                      <surname>Nena Sahib</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_2547">Nena Sahib, Choreographisches Drama in drei Aufzügen und fünf Bildern</bibl>
+                     <bibl n="hsl_work_id_2547">Nena Sahib</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4136" role="fictional" resp="#awilfing" cert="medium">
@@ -53967,7 +53978,7 @@
                      <surname>Ophelia</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_2547">Nena Sahib, Choreographisches Drama in drei Aufzügen und fünf Bildern</bibl>
+                     <bibl n="hsl_work_id_2547">Nena Sahib</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4137" role="fictional" resp="#awilfing" cert="medium">
@@ -53976,7 +53987,7 @@
                      <surname>Lord Bentink</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_2547">Nena Sahib, Choreographisches Drama in drei Aufzügen und fünf Bildern</bibl>
+                     <bibl n="hsl_work_id_2547">Nena Sahib</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4138" role="fictional" resp="#awilfing" cert="medium">
@@ -53985,7 +53996,7 @@
                      <surname>Sita</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_2547">Nena Sahib, Choreographisches Drama in drei Aufzügen und fünf Bildern</bibl>
+                     <bibl n="hsl_work_id_2547">Nena Sahib</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4139" role="fictional" resp="#awilfing" cert="medium">
@@ -53994,7 +54005,7 @@
                      <surname>Georg</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_2547">Nena Sahib, Choreographisches Drama in drei Aufzügen und fünf Bildern</bibl>
+                     <bibl n="hsl_work_id_2547">Nena Sahib</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4140" resp="#awilfing" cert="high">
@@ -54229,11 +54240,15 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/120691124</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55848724</idno>
                </person>
-               <person xml:id="hsl_person_id_4159" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4159" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ferdinand</forename>
                      <surname>Stolle</surname>
                   </persName>
+                  <birth>1806-1872</birth>
+                  <death>1806-1872</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: dark-green;">Journalist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117286877</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1405824</idno>
                   <listBibl type="authorOf">
@@ -56918,7 +56933,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116788267</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3047850</idno>
                </person>
-               <person xml:id="hsl_person_id_4374" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4374" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Suzanne</forename>
                      <surname>Reichenberg</surname>
@@ -64855,6 +64870,216 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2699">Le Partie de Chasse d'Henry IV</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5088" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Johann</forename>
+                     <surname>Schenk</surname>
+                  </persName>
+                  <birth>1753-1836</birth>
+                  <death>1753-1836</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119466910</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Schenk_Johann_Baptist.xml</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Schenk_Johann-Bapt_1753_1836.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3375">Der Dorfbarbier</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5089" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Paul</forename>
+                     <surname>Weidmann</surname>
+                  </persName>
+                  <birth>1744-1801</birth>
+                  <death>1744-1801</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-gray;">Beamter</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119497921</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_W/Weidmann_Familie.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3375">Der Dorfbarbier</bibl>
+                     <bibl n="hsl_work_id_3379">Der Dorfbarbier</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5090" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Joseph</forename>
+                     <surname>Weidmann</surname>
+                  </persName>
+                  <birth>1742–1810</birth>
+                  <death>1742–1810</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: gray;">Regisseur</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/139097392</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_W/Weidmann_Familie.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3375">Der Dorfbarbier</bibl>
+                     <bibl n="hsl_work_id_3379">Der Dorfbarbier</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5091" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Lux</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3375">Der Dorfbarbier</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5092" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Lux</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3379">Der Dorfbarbier</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5093" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Suschen</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3375">Der Dorfbarbier</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5094" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Rund</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3375">Der Dorfbarbier</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5095" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Joseph</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3375">Der Dorfbarbier</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5096" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Adam</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3375">Der Dorfbarbier</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5097" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Adam</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3379">Der Dorfbarbier</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5098" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Peter</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3375">Der Dorfbarbier</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5099" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Johann Franz Hieronymus</forename>
+                     <surname>Brockmann</surname>
+                  </persName>
+                  <birth>1745-1812</birth>
+                  <death>1745-1812</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: dark-blue;">Theaterdirektor</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116553456</idno>
+               </person>
+               <person xml:id="hsl_person_id_5100" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Karl Joseph Anton von</forename>
+                     <surname>Auersperg</surname>
+                  </persName>
+                  <birth>1720-1800</birth>
+                  <death>1720-1800</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/13964606X</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_A/Auersperg_Familie.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5101" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Giovanni Battista</forename>
+                     <surname>Brocchi</surname>
+                  </persName>
+                  <birth>ca. 1750-nach 1807</birth>
+                  <death>ca. 1750-nach 1807</death>
+                  <occupation style="background-color: dark-gray;">Sänger (Bassist)</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q123564122</idno>
+               </person>
+               <person xml:id="hsl_person_id_5102" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Friedrich</forename>
+                     <surname>Baumann</surname>
+                  </persName>
+                  <birth>1763-1841</birth>
+                  <death>1763-1841</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/135870178</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_B/Baumann_Friedrich_1763_1841.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5103" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Felix</forename>
+                     <surname>Schweighofer</surname>
+                  </persName>
+                  <birth>1842-1912</birth>
+                  <death>1842-1912</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117401846</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Schweighofer_Felix.xml</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_s/Schweighofer_Felix_1842_1912.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5104" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Margarethe</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3375">Der Dorfbarbier</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5105" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>van</forename>
+                     <surname>Bett</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_453">Czaar und Zimmermann, LoWV38</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5106" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Ferdinand von</forename>
+                     <surname>Seyfried</surname>
+                  </persName>
+                  <birth>1811-1865</birth>
+                  <death>1811-1865</death>
+                  <occupation style="background-color: light-gray;">Beamter</occupation>
+                  <occupation style="background-color: darker-blue;">Redakteur</occupation>
+                  <occupation style="background-color: blue;">Kritiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/139694404</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Seyfried_Familie.xml</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Seyfried_Ferdinand_1811_1865.xml</idno>
                </person>
             </listPerson>
          </div>

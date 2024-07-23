@@ -126,14 +126,14 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141254</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 11 in f-Moll, op. 95</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30001600X</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 15 in a-Moll, op. 132</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -514,7 +514,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300110367</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_47" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_47" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 14 in cis-Moll, op. 131</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -737,7 +737,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30010233X</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_69" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_69" resp="#awilfing" cert="high">
                <title type="main">Paragraph Drei</title>
                <author ref="#hsl_person_id_905">
                   <persName>Suppé, Franz von</persName>
@@ -793,14 +793,18 @@
             </bibl>
             <bibl xml:id="hsl_work_id_75" resp="#awilfing" cert="medium">
                <title type="main">Orpheus og Eurydike</title>
+               <author ref="#hsl_person_id_32">
+                  <persName>Biehl, Charlotta Dorothea</persName>
+               </author>
                <author ref="#hsl_person_id_191">
                   <persName>Naumann, Johann Gottlieb</persName>
                </author>
                <name type="character" ref="#hsl_person_id_527">Eurydike</name>
                <name type="character" ref="#hsl_person_id_637">Orpheus</name>
             </bibl>
-            <bibl xml:id="hsl_work_id_77" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_77" resp="#awilfing" cert="high">
                <title type="main">Oesterreichische Revue</title>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno-plus?aid=orv</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_78" resp="#awilfing" cert="medium">
                <title type="main">Oedipus in Kolonos, MWV M 14</title>
@@ -1609,14 +1613,14 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300017294</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_153" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_153" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier Nr. 32 in c-Moll, op. 111</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300016891</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_154" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_154" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier Nr. 31 in As-Dur, op. 110</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -1948,12 +1952,14 @@
                <name type="character" ref="#hsl_person_id_4973">Ruodi</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1107595622</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_187" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_187" resp="#awilfing" cert="high">
                <title type="main">Gluck und die Oper</title>
                <author ref="#hsl_person_id_175">
                   <persName>Marx, Adolf Bernhard</persName>
                </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4299476-7</idno>
+               <idno type="URI" subtype="GND">https://d-nb.info/810473704</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10599027?page=4,5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10599028?page=4,5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_188" resp="#awilfing" cert="medium">
                <title type="main">Gluck et Piccini</title>
@@ -3776,6 +3782,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_379" resp="#awilfing" cert="high">
                <title type="main">Neue Wahrnehmungen zur Aufnahme und weitern Ausbreitung der Musik</title>
+               <title type="alternative">Neue Wahrnehmungen zur Aufnahme der Musik</title>
                <author ref="#hsl_person_id_492">
                   <persName>Rolle, Christian Friedrich</persName>
                </author>
@@ -3943,6 +3950,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_396" resp="#awilfing" cert="high">
                <title type="main">Anecdotes of Music, Historical and Biographical; in a Series of Letters from a Gentelman to his Daughter</title>
+               <title type="alternative">Anecdotes on music</title>
                <author ref="#hsl_person_id_579">
                   <persName>Burgh, Allatson</persName>
                </author>
@@ -3960,6 +3968,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_398" resp="#awilfing" cert="high">
                <title type="main">Ueber das Verhältniß der bildenden Künste zu der Natur</title>
+               <title type="alternative">Über das Verhältnis der bildenden Künste zur Natur</title>
                <author ref="#hsl_person_id_677">
                   <persName>Schelling, Friedrich Wilhelm Joseph von</persName>
                </author>
@@ -4012,6 +4021,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_403" resp="#awilfing" cert="high">
                <title type="main">Die Natur der Harmonik und der Metrik. Zur Theorie der Musik</title>
+               <title type="alternative">Die Natur der Harmonik und Metrik</title>
                <author ref="#hsl_person_id_687">
                   <persName>Hauptmann, Moritz</persName>
                </author>
@@ -4027,6 +4037,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_405" resp="#awilfing" cert="high">
                <title type="main">Acht Briefe an eine Freundin über Clavier-Unterricht</title>
+               <title type="alternative">Acht Briefe über Klavierunterricht</title>
                <author ref="#hsl_person_id_689">
                   <persName>Kinkel, Johanna</persName>
                </author>
@@ -4314,6 +4325,7 @@
                   <persName>Lortzing, Albert</persName>
                </author>
                <name type="character" ref="#hsl_person_id_2584">Peter I., Zar von Russland</name>
+               <name type="character" ref="#hsl_person_id_5105">Bett, van</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300096615</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_454" resp="#awilfing" cert="medium">
@@ -4425,14 +4437,14 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10598752?page=4,5</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_467" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_467" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier Nr. 17 in d-Moll, op. 31 Nr. 2</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300016727</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_468" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_468" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier Nr. 23 in f-Moll, op. 57</title>
                <title type="alternative">Sonata appassionata</title>
                <author ref="#hsl_person_id_25">
@@ -4449,14 +4461,14 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099371-1</idno>
                <idno type="URL" subtype="Digitalisat">https://www.folger.edu/explore/shakespeares-works/the-tempest/read/</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_470" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_470" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 1 in F-Dur, op. 18 Nr. 1</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015895</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_471" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_471" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier Nr. 26 in Es-Dur, op. 81a</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -4481,6 +4493,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_474" resp="#awilfing" cert="high">
                <title type="main">Allgemeine Aesthetik als Formwissenschaft</title>
+               <title type="alternative">Allgemeine Ästhetik als Formwissenschaft</title>
                <author ref="#hsl_person_id_705">
                   <persName>Zimmermann, Robert von</persName>
                </author>
@@ -4574,12 +4587,14 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://books.google.at/books?id=gVccLRwexsIC&amp;hl=de&amp;pg=PP9#v=onepage&amp;q&amp;f=false</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_487" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_487" resp="#awilfing" cert="high">
                <title type="main">Ludwig van Beethoven. Leben und Schaffen</title>
                <author ref="#hsl_person_id_175">
                   <persName>Marx, Adolf Bernhard</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7841761-2</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011812?page=8,9</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011813?page=8,9</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_488" resp="#awilfing" cert="medium">
                <title type="main">Il ritorno di Tobia, Hob. XXI:1</title>
@@ -4940,7 +4955,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300101902</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_532" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_532" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 12 in Es-Dur, op. 127</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -5054,9 +5069,10 @@
                   <persName>Schulhoff, Julius</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_553" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_553" resp="#awilfing" cert="high">
                <title type="main">Neue Zeitschrift für Musik</title>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7796404-4</idno>
+               <idno type="URL" subtype="Digitalisat">https://de.wikisource.org/wiki/Neue_Zeitschrift_f%C3%BCr_Musik</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_554" resp="#awilfing" cert="medium">
                <title type="main">La Bohème, SC67</title>
@@ -5172,6 +5188,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_566" resp="#awilfing" cert="medium">
                <title type="main">Ossian, ou Les bardes</title>
+               <title type="alternative">Die Barden</title>
                <author ref="#hsl_person_id_160">
                   <persName>Le Sueur, Jean-François</persName>
                </author>
@@ -6471,7 +6488,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4191697-9</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb00073577?page=2,3</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_744" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_744" resp="#awilfing" cert="high">
                <title type="main">Nathan der Weise</title>
                <author ref="#hsl_person_id_697">
                   <persName>Lessing, Gotthold Ephraim</persName>
@@ -6479,6 +6496,7 @@
                <name type="character" ref="#hsl_person_id_1797">Nathan</name>
                <name type="character" ref="#hsl_person_id_1798">Sultan Saladin</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099292-5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11245315?page=,1</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_745" resp="#awilfing" cert="high">
                <title type="main">Luisa Miller, H51</title>
@@ -6677,7 +6695,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300151829</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_768" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_768" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 6 in B-Dur, op. 18 Nr. 6</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -6746,7 +6764,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145845</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_777" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_777" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 10 in Es-Dur, op. 74</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -7173,9 +7191,10 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300290802</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_826" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_826" resp="#awilfing" cert="high">
                <title type="main">Neues Testament</title>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4041771-2</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_827" resp="#awilfing" cert="medium">
                <title type="main">Die sieben letzten Worte unseres Erlösers am Kreuze, Hob. XX/2</title>
@@ -7412,11 +7431,12 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4226513-7</idno>
                <idno type="URL" subtype="Digitalisat">https://aleksandr-pushkin.su/poemy/evgenij-onegin/</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_854" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_854" resp="#awilfing" cert="high">
                <title type="main">Opritschniki</title>
                <author ref="#hsl_person_id_1224">
                   <persName>Lažečnikov, Ivan Ivanovič</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">http://az.lib.ru/l/lazhechnikow_i_i/text_0240.shtml</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_855" resp="#awilfing" cert="high">
                <title type="main">Demon</title>
@@ -7796,7 +7816,7 @@
                <name type="character" ref="#hsl_person_id_4096">Ophélie</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300162634</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_896" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_896" resp="#awilfing" cert="high">
                <title type="main">Notre-Dame de Paris</title>
                <author ref="#hsl_person_id_131">
                   <persName>Hugo, Victor</persName>
@@ -7804,6 +7824,8 @@
                <name type="character" ref="#hsl_person_id_1407">Quasimodo</name>
                <name type="character" ref="#hsl_person_id_4758">Esmeralda</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4342614-1</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k9941148/f13.item</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k994117d/f9.item</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_897" resp="#awilfing" cert="medium">
                <title type="main">Les contes d'Hoffmann (1851)</title>
@@ -8351,11 +8373,12 @@
                <name type="character" ref="#hsl_person_id_2471">Werner Kirchhofer</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30054085X</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_954" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_954" resp="#awilfing" cert="high">
                <title type="main">Moderner Geist in der deutschen Tonkunst</title>
                <author ref="#hsl_person_id_1530">
                   <persName>Seidl, Arthur</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/bub_gb_KwQtAAAAYAAJ/page/n7/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_955" resp="#awilfing" cert="high">
                <title type="main">Kirchenarie</title>
@@ -8395,14 +8418,14 @@
                   <persName>Pixis, Johann Peter</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_961" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_961" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier Nr. 3 in C-Dur, op. 2 Nr. 3</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300016522</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_962" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_962" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier Nr. 14 in cis-Moll, op. 27 Nr. 2</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -8912,6 +8935,7 @@
             <bibl xml:id="hsl_work_id_1028" resp="#awilfing" cert="high">
                <title type="main">Altes Testament</title>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4001515-4</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1029" resp="#awilfing" cert="medium">
                <title type="main">Jephtha, HWV70</title>
@@ -9281,11 +9305,12 @@
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_1068" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1068" resp="#awilfing" cert="high">
                <title type="main">Musikalische Essays</title>
                <author ref="#hsl_person_id_1624">
                   <persName>Marsop, Paul</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/musikalischeessa00mars/page/n3/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1069" resp="#awilfing" cert="medium">
                <title type="main">Barbe-Bleue</title>
@@ -9388,11 +9413,13 @@
                   <persName>Busch, Moritz</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_1080" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1080" resp="#awilfing" cert="high">
                <title type="main">Opern-Abende. Beiträge zur Geschichte und Kritik der Oper</title>
                <author ref="#hsl_person_id_1065">
                   <persName>Kalbeck, Max</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/opernabendebeit00kalbgoog/page/n9/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/opernabendebeit01kalbgoog/page/n8/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1081" resp="#awilfing" cert="medium">
                <title type="main">Jean de Paris</title>
@@ -9564,13 +9591,13 @@
                   <persName>Groth, Klaus</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_1101" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1101" resp="#awilfing" cert="high">
                <title type="main">Musikalisches und Persönliches</title>
                <author ref="#hsl_person_id_1608">
                   <persName>Scholz, Bernhard</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_1102" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1102" resp="#awilfing" cert="high">
                <title type="main">Opern und Concerte im Hoftheater zu Hannover bis 1866</title>
                <author ref="#hsl_person_id_1723">
                   <persName>Fischer, Georg</persName>
@@ -10353,11 +10380,12 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300011490</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1191" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1191" resp="#awilfing" cert="high">
                <title type="main">Musikalische Briefe. Wahrheit über Tonkunst und Tonkünstler. Von einem Wohlbekannten</title>
                <author ref="#hsl_person_id_789">
                   <persName>Lobe, Johann Christian</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/bub_gb_t7pPAAAAcAAJ/page/n1/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1192" resp="#awilfing" cert="medium">
                <title type="main">Kong Renés Datter</title>
@@ -10371,12 +10399,13 @@
                <title type="main">Georg Friedrich Händel's Werke. Gesamtausgabe</title>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Georg_Friedrich_H%C3%A4ndels_Werke_(Handel,_George_Frideric)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1194" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1194" resp="#awilfing" cert="high">
                <title type="main">Nočʹ pered roždestvom</title>
                <title type="alternative">Die Nacht vor Weihnachten</title>
                <author ref="#hsl_person_id_1223">
                   <persName>Gogolʹ, Nikolaj Vasilʹevič</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://ru.wikisource.org/wiki/%D0%9D%D0%BE%D1%87%D1%8C_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4_%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%BC_(%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1195" resp="#awilfing" cert="medium">
                <title type="main">La dame de pique</title>
@@ -10899,11 +10928,13 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4572869-0</idno>
                <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/essentiels/murger/scenes-vie-boheme</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1248" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1248" resp="#awilfing" cert="high">
                <title type="main">Neue Berliner Musikzeitung</title>
                <author ref="#hsl_person_id_1947">
                   <persName>Bock, Gustav</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4357092-6</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=bmz</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1249" resp="#awilfing" cert="medium">
                <title type="main">Water Music, HWV348-350</title>
@@ -10978,7 +11009,7 @@
                   <persName>Esser, Heinrich</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_1258" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1258" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier Nr. 13 in Es-Dur, op. 27 Nr. 1</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -11071,7 +11102,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145896</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1270" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1270" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 2 in G-Dur, op. 18 Nr. 2</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -11323,7 +11354,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4339979-4</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1303" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1303" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 13 in B-Dur, op. 130</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -12607,12 +12638,13 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1030489696</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1464" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1464" resp="#awilfing" cert="high">
                <title type="main">Musikerbriefe aus fünf Jahrhunderten</title>
                <title type="alternative">Künstlerbriefe</title>
                <author ref="#hsl_person_id_1588">
                   <persName>Lipsius, Ida Marie</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=28206&amp;versionNumber=1</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1465" resp="#awilfing" cert="high">
                <title type="main">Briefwechsel zwischen Schiller und Goethe in den Jahren 1794 bis 1805</title>
@@ -14198,7 +14230,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300026714</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1655" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1655" resp="#awilfing" cert="high">
                <title type="main">Neujahrsblatt der Allgemeinen Musikgesellschaft in Zürich</title>
             </bibl>
             <bibl xml:id="hsl_work_id_1656" resp="#awilfing" cert="high">
@@ -15103,7 +15135,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300070012</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1771" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1771" resp="#awilfing" cert="high">
                <title type="main">Sonate für Cello und Klavier Nr. 4 in C-Dur, op. 102 Nr. 1</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -15776,7 +15808,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300016786</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1858" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1858" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier Nr. 1 in f-Moll, op. 2 Nr. 1</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -16918,13 +16950,14 @@
                   <persName>Haydn, Joseph</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2010" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2010" resp="#awilfing" cert="high">
                <title type="main">Nos Bons Villageois</title>
                <title type="alternative">Unsere braven Landleute</title>
                <author ref="#hsl_person_id_3375">
                   <persName>Sardou, Victorien</persName>
                </author>
                <name type="character" ref="#hsl_person_id_3366">Geneviève</name>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/nosbonsvillageo02sardgoog/page/n5/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2011" resp="#awilfing" cert="medium">
                <title type="main">Johann Huß, Oratorium von Prof. Dr. A. Zeune, componiert von Dr. C. Löwe</title>
@@ -17165,7 +17198,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300102682</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2048" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2048" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier Nr. 12 in As-Dur, op. 26</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -17570,7 +17603,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300208669</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2102" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2102" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 8 in e-Moll, op. 59 Nr. 2</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -17638,7 +17671,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1269057952</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2113" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2113" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier Nr. 29 in B-Dur, op. 106</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -18059,7 +18092,7 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/bub_gb_OfUrAAAAYAAJ/page/n5/mode/2up</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2169" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2169" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 16 in F-Dur, op. 135</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -18073,7 +18106,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015305</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2171" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2171" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 9 in C-Dur, op. 59 Nr. 3</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -18375,8 +18408,10 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300047673</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2205" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2205" resp="#awilfing" cert="high">
                <title type="main">Neue Zürcher Zeitung</title>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4041739-6</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.e-newspaperarchives.ch/?a=cl&amp;cl=CL1&amp;sp=NZZ&amp;e=-------de-20-NZZ-1--img-txIN-Neue+Z%C3%BCrcher+Zeitung-------0-----</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2206" resp="#awilfing" cert="medium">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 9 in A-Dur, KV169</title>
@@ -19057,7 +19092,7 @@
                <idno type="URL" subtype="Digitalisat">https://de.wikisource.org/wiki/Kinder-_und_Haus-M%C3%A4rchen_Band_2_(1815)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2285" resp="#awilfing" cert="high">
-               <title type="main">Allgemeine Wiener Musik-Zeitung</title>
+               <title type="main">Wiener allgemeine Musik-Zeitung</title>
                <title type="alternative">Wiener Allgemeine Musikzeitung / Wiener Musikzeitung</title>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4266685-5</idno>
                <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=awm</idno>
@@ -19613,7 +19648,7 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://books.google.at/books?id=PIQyAQAAMAAJ&amp;hl=de&amp;pg=PP9#v=onepage&amp;q&amp;f=false</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2359" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2359" resp="#awilfing" cert="high">
                <title type="main">Ost und West. Gedichte</title>
                <author ref="#hsl_person_id_3832">
                   <persName>Murad, Efendi</persName>
@@ -19645,11 +19680,12 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ56311003</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2364" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2364" resp="#awilfing" cert="high">
                <title type="main">Nibelungen im Frack</title>
                <author ref="#hsl_person_id_3833">
                   <persName>Grün, Anastasius</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/nibelungenimfrac00grna/page/n5/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2365" resp="#awilfing" cert="medium">
                <title type="main">Gedichte</title>
@@ -19677,12 +19713,13 @@
                   <persName>Pfizer, Gustav</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2369" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2369" resp="#awilfing" cert="high">
                <title type="main">Mythologie des alten Indien</title>
                <title type="alternative">Mythologie der alten Inder</title>
                <author ref="#hsl_person_id_3838">
                   <persName>Wollheim da Fonseca, A. E.</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://digi.ub.uni-heidelberg.de/diglit/wollheimdafonseca1856/0004/image,info,thumbs</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2370" resp="#awilfing" cert="high">
                <title type="main">Richard Wagner an Eliza Wille. Fünfzehn Briefe des Meisters nebst Erinnerungen und Erläuterungen</title>
@@ -20613,7 +20650,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2495" resp="#awilfing" cert="medium">
-               <title type="main">Neun Lieder von Kolzoff, op. 27</title>
+               <title type="main">9 Lieder von Kolzoff, op. 27</title>
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
@@ -20948,7 +20985,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2547" resp="#awilfing" cert="medium">
-               <title type="main">Nena Sahib, Choreographisches Drama in drei Aufzügen und fünf Bildern</title>
+               <title type="main">Nena Sahib</title>
                <author ref="#hsl_person_id_4129">
                   <persName>Desplaces, Henri</persName>
                </author>
@@ -21036,11 +21073,13 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/106490159X</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2558" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2558" resp="#awilfing" cert="high">
                <title type="main">Mozart und Haydn in London</title>
                <author ref="#hsl_person_id_3866">
                   <persName>Pohl, Carl Ferdinand</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10600468?page=2,3</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10600221?page=6,7</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2559" resp="#awilfing" cert="high">
                <title type="main">Wolfgang Amadeus Mozart. 2. Aufl.</title>
@@ -21057,11 +21096,12 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10990081?page=4,5</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2561" resp="#awilfing" cert="medium">
-               <title type="main">Neue Briefe Beethovens. Nebst einigen ungedruckten Gelegenheitscompositionen und Auszügen aus seinem Tagebuch und seiner Lectüre.</title>
+            <bibl xml:id="hsl_work_id_2561" resp="#awilfing" cert="high">
+               <title type="main">Neue Briefe Beethovens. Nebst einigen ungedruckten Gelegenheitscompositionen und Auszügen aus seinem Tagebuch und seiner Lectüre</title>
                <author ref="#hsl_person_id_195">
                   <persName>Nohl, Ludwig</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10598246?page=4,5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2562" resp="#awilfing" cert="high">
                <title type="main">Handbuch der Musik-Geschichte von den ersten Anfängen bis zum Tode Beethovens</title>
@@ -21071,11 +21111,12 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10598465?page=6,7</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2563" resp="#awilfing" cert="medium">
-               <title type="main">Mozart in London</title>
+            <bibl xml:id="hsl_work_id_2563" resp="#awilfing" cert="high">
+               <title type="main">Mozart und Haydn in London. Erste Abtheilung: Mozart in London</title>
                <author ref="#hsl_person_id_3866">
                   <persName>Pohl, Carl Ferdinand</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10600468?page=2,3</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2564" resp="#awilfing" cert="medium">
                <title type="main">J. Haydn in London 1791 und 1792</title>
@@ -21123,11 +21164,12 @@
                <name type="character" ref="#hsl_person_id_4163">Paride</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300060378</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2570" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2570" resp="#awilfing" cert="high">
                <title type="main">Musikalisches Skizzenbuch</title>
                <author ref="#hsl_person_id_195">
                   <persName>Nohl, Ludwig</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10599154?page=4,5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2571" resp="#awilfing" cert="high">
                <title type="main">Wallensteins Lager</title>
@@ -21846,11 +21888,12 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4581730-3</idno>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/rembrandtalserzi00languoft/page/n3/mode/2up</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2653" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2653" resp="#awilfing" cert="high">
                <title type="main">Moltke als Erzieher. Allerlei Betrachtungen</title>
                <author ref="#hsl_person_id_1978">
                   <persName>Dahn, Felix</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.google.de/books/edition/Moltke_als_Erzieher/SZoBAAAAYAAJ?hl=de&amp;gbpv=1&amp;pg=PR1&amp;printsec=frontcover</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2654" resp="#awilfing" cert="high">
                <title type="main">Richard Wagner als Erzieher. Ein Volksbuch und zugleich Begleiter zu den bayreuther Festspielen</title>
@@ -22710,19 +22753,21 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4649109-0</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2759" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2759" resp="#awilfing" cert="high">
                <title type="main">Odyssea</title>
                <title type="alternative">Odysse</title>
                <author ref="#hsl_person_id_1733">
                   <persName>Homerus</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4193022-8</idno>
+               <idno type="URL" subtype="Digitalisat">https://el.wikisource.org/wiki/%CE%9F%CE%B4%CF%8D%CF%83%CF%83%CE%B5%CE%B9%CE%B1</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2760" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2760" resp="#awilfing" cert="high">
                <title type="main">Offener Brief an Eduard Hanslick über Bearbeitungen älterer Tonwerke namentlich Bach'scher und Händel'scher Vocalmusik</title>
                <author ref="#hsl_person_id_1708">
                   <persName>Franz, Robert</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10999244?page=4,5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2761" resp="#awilfing" cert="medium">
                <title type="main">Suite in altem Styl</title>
@@ -22787,12 +22832,13 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300647999</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2771" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2771" resp="#awilfing" cert="high">
                <title type="main">Olympia, Nr. 5</title>
                <author ref="#hsl_person_id_4450">
                   <persName>Pindarus</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4261812-5</idno>
+               <idno type="URL" subtype="Digitalisat">http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0161%3Abook%3DO.%3Apoem%3D5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2772" resp="#awilfing" cert="high">
                <title type="main">Sturm und Drang</title>
@@ -23478,28 +23524,37 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099222-6</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11760696?page=6,7</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2864" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2864" resp="#awilfing" cert="high">
                <title type="main">Paulus. Oratorium nach Worten der heiligen Schrift, komponirt von Felix Mendelssohn-Bartholdy. Op. 36</title>
-               <title type="alternative">Allgemeine Wiener Musik-Zeitung (21.11.1846, 28.11.1846, 03.12.1846, 05-08.12.1846, 12.12.1846, 22.12.1846, 24.-26.12.1846, 29.12.1846, 05.01.1847, 07.01.1847)</title>
                <author ref="#hsl_person_id_3613">
                   <persName>Laurencin d'Armond, Ferdinand Peter</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=awm&amp;datum=18461121&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=awm&amp;datum=18461128&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=awm&amp;datum=18461203&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=awm&amp;datum=18461205&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=awm&amp;datum=18461212&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=awm&amp;datum=18461222&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=awm&amp;datum=18461224&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=awm&amp;datum=18461229&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=awm&amp;datum=18470105&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=awm&amp;datum=18470107&amp;zoom=33</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2866" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2866" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 3 in D-Dur, op. 18 Nr. 3</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7731144-9</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2867" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2867" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 4 in c-Moll, op. 18 Nr. 4</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015925</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2868" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2868" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 5 in A-Dur, op. 18 Nr. 5</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -23514,11 +23569,12 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb11011773?page=2,3</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2870" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2870" resp="#awilfing" cert="high">
                <title type="main">Mozartiana. Von Mozart herrührende und ihn betreffende, zum großen Theil noch nicht veröffentlichte Schriftstücke</title>
                <author ref="#hsl_person_id_365">
                   <persName>Nottebohm, Gustav</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/mozartianavonmoz00nott/page/n5/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2871" resp="#awilfing" cert="high">
                <title type="main">Zweite Beethoveniana. Nachgelassene Aufsätze</title>
@@ -23534,12 +23590,13 @@
                   <persName>Bazzini, Antonio</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2873" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2873" resp="#awilfing" cert="high">
                <title type="main">Paradise Lost</title>
                <author ref="#hsl_person_id_2437">
                   <persName>Milton, John</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4114602-5</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/bim_early-english-books-1641-1700_paradise-lost-_milton-john_1667/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2874" resp="#awilfing" cert="high">
                <title type="main">Mors et vita, CG33</title>
@@ -23978,7 +24035,7 @@
                   <persName>Maurel, Victor</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2932" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2932" resp="#awilfing" cert="high">
                <title type="main">Otto Nicolais Tagebücher nebst biographischen Ergänzungen</title>
                <title type="alternative">Otto Nicolai's Tagebuchblätter</title>
                <author ref="#hsl_person_id_193">
@@ -23987,6 +24044,7 @@
                <author ref="#hsl_person_id_4596">
                   <persName>Schröder, Bernhard</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/ottonicolaistage00nico/page/n3/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2933" resp="#awilfing" cert="medium">
                <title type="main">Reisende Musikerinnen. Tagebuchblätter</title>
@@ -24459,13 +24517,14 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1261455118</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2993" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2993" resp="#awilfing" cert="high">
                <title type="main">Narziss</title>
                <title type="alternative">Narciß</title>
                <author ref="#hsl_person_id_4651">
                   <persName>Brachvogel, Albert Emil</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4494555-3</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/3897243/page/n3/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2994" resp="#awilfing" cert="medium">
                <title type="main">Le Père de la débutante</title>
@@ -24500,7 +24559,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300027052</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2998" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2998" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 7 in F-Dur, op. 59 Nr. 1</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -24681,11 +24740,12 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1062533054</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3024" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3024" resp="#awilfing" cert="high">
                <title type="main">Niels W. Gade. Aufzeichnungen und Briefe</title>
                <author ref="#hsl_person_id_4665">
                   <persName>Gade, Dagmar</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/aufzeichnungenun00gade/page/n5/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3025" resp="#awilfing" cert="medium">
                <title type="main">Mariotta</title>
@@ -25095,7 +25155,7 @@
                   <persName>Cormon, Eugène</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3074" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3074" resp="#awilfing" cert="high">
                <title type="main">Die Frau Meisterin</title>
                <author ref="#hsl_person_id_905">
                   <persName>Suppé, Franz von</persName>
@@ -25104,6 +25164,7 @@
                   <persName>Costa, Carl</persName>
                </author>
                <name type="character" ref="#hsl_person_id_4725">Leontine</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300896190</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3076" resp="#awilfing" cert="high">
                <title type="main">Konzert für Violoncello</title>
@@ -25216,7 +25277,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300047851</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3095" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3095" resp="#awilfing" cert="high">
                <title type="main">Sonate für Cello und Klavier Nr. 5 in D-Dur, op. 102 Nr. 2</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
@@ -27418,8 +27479,25 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/bub_gb_DSQuAQAAIAAJ/page/n3/mode/2up</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3375" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_3375" resp="#awilfing" cert="high">
+               <title type="main">Der Dorfbarbier</title>
+               <author ref="#hsl_person_id_5088">
+                  <persName>Schenk, Johann</persName>
+               </author>
+               <author ref="#hsl_person_id_5089">
+                  <persName>Weidmann, Paul</persName>
+               </author>
+               <author ref="#hsl_person_id_5090">
+                  <persName>Weidmann, Joseph</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_5091">Lux</name>
+               <name type="character" ref="#hsl_person_id_5093">Suschen</name>
+               <name type="character" ref="#hsl_person_id_5094">Rund</name>
+               <name type="character" ref="#hsl_person_id_5095">Joseph</name>
+               <name type="character" ref="#hsl_person_id_5096">Adam</name>
+               <name type="character" ref="#hsl_person_id_5098">Peter</name>
+               <name type="character" ref="#hsl_person_id_5104">Margarethe</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1109917732</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3376" resp="#awilfing" cert="high">
                <title type="main">Gesammelte Schriften und Dichtungen</title>
@@ -27432,6 +27510,31 @@
                <title type="main"/>
             </bibl>
             <bibl xml:id="hsl_work_id_3378" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3379" resp="#awilfing" cert="high">
+               <title type="main">Der Dorfbarbier</title>
+               <author ref="#hsl_person_id_5089">
+                  <persName>Weidmann, Paul</persName>
+               </author>
+               <author ref="#hsl_person_id_5090">
+                  <persName>Weidmann, Joseph</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_5092">Lux</name>
+               <name type="character" ref="#hsl_person_id_5097">Adam</name>
+               <idno type="URL" subtype="Digitalisat">https://www.google.de/books/edition/Der_Dorfbarbier/wkH1U0AoKjwC?hl=de&amp;gbpv=1&amp;pg=PA1&amp;printsec=frontcover</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3380" resp="#awilfing" cert="high">
+               <title type="main">Das Pensionat</title>
+               <author ref="#hsl_person_id_905">
+                  <persName>Suppé, Franz von</persName>
+               </author>
+               <author ref="#hsl_person_id_3357">
+                  <persName>Kaulich, Josef</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/113750059X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3381" resp="#awilfing" cert="medium">
                <title type="main"/>
             </bibl>
       </listBibl>
