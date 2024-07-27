@@ -207,7 +207,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300817274</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_14" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_14" resp="#awilfing" cert="high">
                <title type="main">Das Schifflein, op. 146 Nr. 5</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -216,6 +216,7 @@
                   <persName>Uhland, Ludwig</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146418</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Romanzen_und_Balladen,_Op.146_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_144" resp="#awilfing" cert="medium">
                <title type="main">I Lombardi alla prima crociata, H40</title>
@@ -234,7 +235,7 @@
                <name type="character" ref="#hsl_person_id_1249">Sofia</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300165722</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_15" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_15" resp="#awilfing" cert="high">
                <title type="main">Im Walde, op. 75 Nr. 2</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -242,7 +243,8 @@
                <author ref="#hsl_person_id_1245">
                   <persName>Eichendorff, Joseph von</persName>
                </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/120917281X</idno>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146280</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Romanzen_und_Balladen%2C_Op.75_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_16" resp="#awilfing" cert="high">
                <title type="main">Alfonso und Estrella, D732</title>
@@ -286,12 +288,13 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300428235</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Zauberharfe,_D.644_(Schubert,_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_20" resp="#awilfing" cert="medium">
-               <title type="main">Symphonie in C-Dur, D944</title>
+            <bibl xml:id="hsl_work_id_20" resp="#awilfing" cert="high">
+               <title type="main">Symphonie Nr. 9 in C-Dur, D944</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141785</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.9,_D.944_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_528" resp="#awilfing" cert="medium">
                <title type="main">Die Erhebung von Pest zur königlichen Freistadt</title>
@@ -398,7 +401,7 @@
                <name type="character" ref="#hsl_person_id_901">Spessart-Fee</name>
                <name type="character" ref="#hsl_person_id_4717">König</name>
             </bibl>
-            <bibl xml:id="hsl_work_id_31" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_31" resp="#awilfing" cert="high">
                <title type="main">Vom Pagen und der Königstochter, op. 140</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -407,6 +410,7 @@
                   <persName>Geibel, Emanuel</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146868</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Vom_Pagen_und_der_K%C3%B6nigstochter%2C_Op.140_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_32" resp="#awilfing" cert="medium">
                <title type="main">Variations sérieuses für Klavier, MWV U 156</title>
@@ -795,12 +799,13 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300257058</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Namensfeier_Overture,_Op.115_(Beethoven,_Ludwig_van)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_73" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_73" resp="#awilfing" cert="high">
                <title type="main">Die Braut von Messina, op. 100</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300283709</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Braut_von_Messina%2C_Op.100_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_74" resp="#awilfing" cert="medium">
                <title type="main">Otello, H63</title>
@@ -1622,19 +1627,21 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1135681201</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_149" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_149" resp="#awilfing" cert="high">
                <title type="main">Trio für Violine, Cello und Klavier Nr. 2 in F-Dur, op. 80</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146833</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Trio_No.2%2C_Op.80_(Schumann%2C_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_150" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_150" resp="#awilfing" cert="high">
                <title type="main">Trio für Violine, Cello und Klavier Nr. 1 in d-Moll, op. 63</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146825</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Trio_No.1,_Op.63_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_151" resp="#awilfing" cert="medium">
                <title type="main">Trio für Violine, Cello und Klavier Nr. 3 in B-Dur, op. 52</title>
@@ -1678,13 +1685,14 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4747423-3</idno>
                <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=wrz</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_157" resp="#awilfing" cert="medium">
-               <title type="main">Julius Caesar, op. 128</title>
+            <bibl xml:id="hsl_work_id_157" resp="#awilfing" cert="high">
+               <title type="main">Ouvertüre zu Shakespeares Julius Caesar, op. 128</title>
                <title type="alternative">Julius Cäsar</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300201419</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Julius_Caesar_Ouverture,_Op.128_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_158" resp="#awilfing" cert="medium">
                <title type="main">Judas Maccabaeus, HWV63</title>
@@ -2032,7 +2040,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300165684</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_191" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_191" resp="#awilfing" cert="high">
                <title type="main">Genoveva, op. 81</title>
                <title type="alternative">Genovefa / Genofeva</title>
                <author ref="#hsl_person_id_282">
@@ -2044,6 +2052,7 @@
                <name type="character" ref="#hsl_person_id_2716">Siegfried</name>
                <name type="character" ref="#hsl_person_id_3192">Golo</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145055</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Genoveva,_Op.81_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_192" resp="#awilfing" cert="medium">
                <title type="main">Frühlingsmahnung</title>
@@ -2178,19 +2187,21 @@
                <name type="character" ref="#hsl_person_id_1082">Rudolph</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300171447</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_202" resp="#awilfing" cert="medium">
-               <title type="main">Trio für Violine, Cello und Klavier in Es-Dur, D929</title>
+            <bibl xml:id="hsl_work_id_202" resp="#awilfing" cert="high">
+               <title type="main">Trio für Violine, Cello und Klavier Nr. 2 in Es-Dur, D929</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300142250</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Trio_in_E-flat_major,_D.929_(Schubert,_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_203" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_203" resp="#awilfing" cert="high">
                <title type="main">Symphonie Nr. 3 in Es-Dur, op. 97</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146485</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.3,_Op.97_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_204" resp="#awilfing" cert="medium">
                <title type="main">Ernani, H41</title>
@@ -2536,7 +2547,7 @@
             <bibl xml:id="hsl_work_id_232" resp="#awilfing" cert="medium">
                <title type="main">Der Salon für Literatur, Kunst und Gesellschaft</title>
             </bibl>
-            <bibl xml:id="hsl_work_id_233" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_233" resp="#awilfing" cert="high">
                <title type="main">Der Rose Pilgerfahrt, op. 112</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -2545,6 +2556,7 @@
                   <persName>Horn, Moritz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300186703</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Rose_Pilgerfahrt,_Op.112_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_245" resp="#awilfing" cert="medium">
                <title type="main">Symphonie Nr. 2 in B-Dur, MWV A 18</title>
@@ -2565,7 +2577,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300300158</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_sch%C3%B6ne_M%C3%BCllerin%2C_D.795_(Schubert%2C_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_235" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_235" resp="#awilfing" cert="high">
                <title type="main">Der Königssohn, op. 116</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -2574,6 +2586,7 @@
                   <persName>Uhland, Ludwig</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145381</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_K%C3%B6nigssohn%2C_Op.116_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_236" resp="#awilfing" cert="high">
                <title type="main">Der Freischütz, J277</title>
@@ -2648,7 +2661,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300401027</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Das_Liebesmahl_der_Apostel,_WWV_69_(Wagner,_Richard)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_241" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_241" resp="#awilfing" cert="high">
                <title type="main">Das Glück von Edenhall, op. 143</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -2659,13 +2672,15 @@
                <name type="character" ref="#hsl_person_id_615">Laros</name>
                <name type="character" ref="#hsl_person_id_656">Schenk</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30014525X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Das_Gl%C3%BCck_von_Edenhall,_Op.143_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_242" resp="#awilfing" cert="medium">
-               <title type="main">Sonate für Violine und Klavier Nr. 2 in D-Moll, op. 121</title>
+            <bibl xml:id="hsl_work_id_242" resp="#awilfing" cert="high">
+               <title type="main">Sonate für Violine und Klavier Nr. 2 in d-Moll, op. 121</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146590</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Sonata_No.2%2C_Op.121_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_246" resp="#awilfing" cert="medium">
                <title type="main">Der Corregidor, HWW158</title>
@@ -2973,12 +2988,13 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300102658</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_271" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_271" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier in a-Moll, D537</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141823</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Sonata_in_A_minor,_D.537_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_272" resp="#awilfing" cert="high">
                <title type="main">Symphonie Nr. 9 in d-Moll, op. 125</title>
@@ -3043,12 +3059,13 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300016387</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.5,_Op.67_(Beethoven,_Ludwig_van)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_279" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_279" resp="#awilfing" cert="high">
                <title type="main">Requiem, op. 148</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146043</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Requiem,_Op.148_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_280" resp="#awilfing" cert="medium">
                <title type="main">La belle Hélène</title>
@@ -4336,7 +4353,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30019501X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Heidenr%C3%B6slein,_D.257_(Schubert,_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_443" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_443" resp="#awilfing" cert="high">
                <title type="main">Widerspruch, D865</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
@@ -4345,6 +4362,7 @@
                   <persName>Seidl, Johann Gabriel</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300142404</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Widerspruch,_D.865_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_444" resp="#awilfing" cert="high">
                <title type="main">Der Entfernten, D331 (Chorfassung)</title>
@@ -4887,7 +4905,7 @@
                <name type="character" ref="#hsl_person_id_887">Alter Sänger</name>
                <name type="character" ref="#hsl_person_id_888">Nordischer König</name>
             </bibl>
-            <bibl xml:id="hsl_work_id_508" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_508" resp="#awilfing" cert="high">
                <title type="main">Des Sängers Fluch, op. 139</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -4896,6 +4914,7 @@
                   <persName>Pohl, Richard</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146442</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Des_S%C3%A4ngers_Fluch,_Op.139_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_509" resp="#awilfing" cert="medium">
                <title type="main">Le Correspondant</title>
@@ -5106,13 +5125,14 @@
                   <persName>Hüttenbrenner, Anselm</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_537" resp="#awilfing" cert="medium">
-               <title type="main">Symphonie in h-Moll, D759</title>
+            <bibl xml:id="hsl_work_id_537" resp="#awilfing" cert="high">
+               <title type="main">Symphonie Nr. 8 in h-Moll, D759</title>
                <title type="alternative">Die Unvollendete</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141777</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.8,_D.759_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_538" resp="#awilfing" cert="high">
                <title type="main">Der Graf von Gleichen, D918</title>
@@ -5551,12 +5571,13 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300062451</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_602" resp="#awilfing" cert="medium">
-               <title type="main">6 Gesänge, op. 107</title>
+            <bibl xml:id="hsl_work_id_602" resp="#awilfing" cert="high">
+               <title type="main">6 Gesänge für Singstimme und Klavier, op. 107</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300263392</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Ges%C3%A4nge%2C_Op.107_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_603" resp="#awilfing" cert="medium">
                <title type="main">Der Gärtner, HWW119 Nr. 17</title>
@@ -6115,19 +6136,21 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300009682</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_676" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_676" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier in a-Moll, D784</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141858</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Sonata_in_A_minor,_D.784_(Schubert,_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_677" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_677" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier in a-Moll, D845</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141874</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Sonata_in_A_minor,_D.845_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_678" resp="#awilfing" cert="medium">
                <title type="main">Caenis</title>
@@ -6155,7 +6178,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300029225</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Concerto_No.3,_Op.58_(Bruch,_Max)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_681" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_681" resp="#awilfing" cert="high">
                <title type="main">Der Gärtner, op. 107 Nr. 3</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -6164,6 +6187,7 @@
                   <persName>Mörike, Eduard</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1257891456</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Ges%C3%A4nge%2C_Op.107_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_682" resp="#awilfing" cert="high">
                <title type="main">Waldfräulein. Ein Mährchen in achtzehn Abentheuern</title>
@@ -6235,12 +6259,13 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300110138</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_693" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_693" resp="#awilfing" cert="high">
                <title type="main">8 Novelletten für Klavier, op. 21</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145918</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/8_Novelletten,_Op.21_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_694" resp="#awilfing" cert="medium">
                <title type="main">Sextett für 2 Violinen, Viola, Cello, Kontrabass und Klavier in G-Dur, op. 58</title>
@@ -6921,12 +6946,13 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300475276</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_776" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_776" resp="#awilfing" cert="high">
                <title type="main">Messe in c-Moll, op. 147</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145845</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Mass_in_C_minor,_Op.147_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_777" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 10 in Es-Dur, op. 74</title>
@@ -7092,12 +7118,13 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300017715</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Weihe_des_Hauses,_Op.124_(Beethoven,_Ludwig_van)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_799" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_799" resp="#awilfing" cert="high">
                <title type="main">Symphonie Nr. 4 in d-Moll, op. 120</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146493</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.4%2C_Op.120_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_801" resp="#awilfing" cert="medium">
                <title type="main">Der Landtag von Wolkenkuckucksheim</title>
@@ -8408,12 +8435,13 @@
                   <persName>Schumann, Robert</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_939" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_939" resp="#awilfing" cert="high">
                <title type="main">Symphonie Nr. 2 in C-Dur, op. 61</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146477</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.2%2C_Op.61_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_940" resp="#awilfing" cert="medium">
                <title type="main">Manon Lescaut</title>
@@ -8451,7 +8479,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300103069</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_944" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_944" resp="#awilfing" cert="high">
                <title type="main">Frauenliebe und -leben, op. 42</title>
                <title type="alternative">Frauenliebe und Leben</title>
                <author ref="#hsl_person_id_282">
@@ -8461,6 +8489,7 @@
                   <persName>Chamisso, Adelbert von</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300144822</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Frauenliebe_und_Leben,_Op.42_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_945" resp="#awilfing" cert="medium">
                <title type="main">Der deutsche Rhein, WoO1</title>
@@ -8505,7 +8534,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1074379810</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_949" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_949" resp="#awilfing" cert="high">
                <title type="main">Aufträge, op. 77 Nr. 5</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -8514,14 +8543,7 @@
                   <persName>Grüel, Carl Julius</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300211260</idno>
-            </bibl>
-            <bibl xml:id="hsl_work_id_950" resp="#awilfing" cert="medium">
-               <title type="main">Phantasie für Violine und Orchester in C-Dur, op. 131</title>
-               <title type="alternative">Fantasie</title>
-               <author ref="#hsl_person_id_282">
-                  <persName>Schumann, Robert</persName>
-               </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300144717</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lieder_und_Ges%C3%A4nge%2C_Vol.III%2C_Op.77_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_951" resp="#awilfing" cert="medium">
                <title type="main">Lobetanz, op. 10</title>
@@ -8590,13 +8612,14 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300408463</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_958" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_958" resp="#awilfing" cert="high">
                <title type="main">Variations de concert sur la cavatine du Pirate de Bellini für Klavier, op. 8</title>
                <title type="alternative">Pirata-Variationen</title>
                <author ref="#hsl_person_id_281">
                   <persName>Schumann, Clara</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1074722191</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Variations_de_Concert,_Op.8_(Schumann,_Clara)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_959" resp="#awilfing" cert="high">
                <title type="main">Rondo für Klavier in C-Dur</title>
@@ -9461,7 +9484,7 @@
                   <persName>Grädener, Hermann</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_1063" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1063" resp="#awilfing" cert="high">
                <title type="main">Romanze vom Gänsebuben, op. 145 Nr. 5</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -9470,6 +9493,7 @@
                   <persName>Malsburg, Ernst von der</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146388</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Romanzen_und_Balladen%2C_Op.145_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1064" resp="#awilfing" cert="medium">
                <title type="main">Der 42. Psalm, MWV A 15</title>
@@ -11197,7 +11221,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300102461</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1254" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1254" resp="#awilfing" cert="high">
                <title type="main">Schön Rohtraut, op. 67 Nr. 2</title>
                <title type="alternative">Schön Rothtraut</title>
                <author ref="#hsl_person_id_282">
@@ -11207,6 +11231,7 @@
                   <persName>Mörike, Eduard</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146256</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Romanzen_und_Balladen,_Op.67_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1255" resp="#awilfing" cert="medium">
                <title type="main">Suite für Orchester Nr. 3 in f-Moll, op. 122</title>
@@ -11253,15 +11278,16 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300387571</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1262" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1262" resp="#awilfing" cert="high">
                <title type="main">Phantasiestücke für Violine, Cello und Klavier, op. 88</title>
                <title type="alternative">Fantasiestücke</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300144806</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Phantasiest%C3%BCcke,_Op.88_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1263" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1263" resp="#awilfing" cert="high">
                <title type="main">Kommen und Scheiden, op. 90 Nr. 3</title>
                <title type="alternative">So oft sie kam</title>
                <author ref="#hsl_person_id_282">
@@ -11271,8 +11297,9 @@
                   <persName>Lenau, Nikolaus</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30026352X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Gedichte_von_N._Lenau_und_Requiem,_Op.90_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1264" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1264" resp="#awilfing" cert="high">
                <title type="main">Lehn' deine Wang', op. 142 Nr. 2</title>
                <author ref="#hsl_person_id_116">
                   <persName>Heine, Heinrich</persName>
@@ -11281,6 +11308,7 @@
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300257139</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/4_Ges%C3%A4nge%2C_Op.142_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1265" resp="#awilfing" cert="high">
                <title type="main">Aus den hebräischen Gesängen, op. 25 Nr. 15</title>
@@ -11294,8 +11322,8 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300369824</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Myrthen,_Op.25_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1266" resp="#awilfing" cert="medium">
-               <title type="main">3 Gedichte, op. 119</title>
+            <bibl xml:id="hsl_work_id_1266" resp="#awilfing" cert="high">
+               <title type="main">3 Gedichte für Singstimme und Klavier, op. 119</title>
                <title type="alternative">Waldlieder</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -11304,14 +11332,16 @@
                   <persName>Pfarrius, Gustav</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145039</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Gedichte,_Op.119_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1267" resp="#awilfing" cert="medium">
-               <title type="main">Lieder-Album für die Jugend, op. 79</title>
+            <bibl xml:id="hsl_work_id_1267" resp="#awilfing" cert="high">
+               <title type="main">Lieder-Album für die Jugend für Singstimmen und Klavier, op. 79</title>
                <title type="alternative">Jugendlieder</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145500</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Liederalbum_f%C3%BCr_die_Jugend,_Op.79_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1268" resp="#awilfing" cert="high">
                <title type="main">Der Nussbaum, op. 25 Nr. 3</title>
@@ -11531,19 +11561,21 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145276</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1296" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1296" resp="#awilfing" cert="high">
                <title type="main">Albumblätter für Klavier, op. 124</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300144458</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Albumbl%C3%A4tter,_Op.124_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1297" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1297" resp="#awilfing" cert="high">
                <title type="main">Schlummerlied, op. 124 Nr. 6</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300298552</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Albumbl%C3%A4tter,_Op.124_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1298" resp="#awilfing" cert="medium">
                <title type="main">Variationen in E-Dur für 2 Klaviere zu 4 Händen, op. 1</title>
@@ -11552,12 +11584,13 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1256493228</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1299" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1299" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier in B-Dur, D960</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141939</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Sonata_in_B-flat_major,_D.960_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1300" resp="#awilfing" cert="medium">
                <title type="main">Suite für Klavier in E-dur, HWV430</title>
@@ -12290,26 +12323,29 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30014105X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Mass_in_F_major,_D.105_(Schubert,_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1390" resp="#awilfing" cert="medium">
-               <title type="main">Symphonie in B-Dur, D125</title>
+            <bibl xml:id="hsl_work_id_1390" resp="#awilfing" cert="high">
+               <title type="main">Symphonie Nr. 2 in B-Dur, D125</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141726</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.2,_D.125_(Schubert,_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1391" resp="#awilfing" cert="medium">
-               <title type="main">Symphonie in B-Dur, D485</title>
+            <bibl xml:id="hsl_work_id_1391" resp="#awilfing" cert="high">
+               <title type="main">Symphonie Nr. 5 in B-Dur, D485</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141750</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.5%2C_D.485_(Schubert%2C_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1392" resp="#awilfing" cert="medium">
-               <title type="main">Symphonie in C-Dur, D589</title>
+            <bibl xml:id="hsl_work_id_1392" resp="#awilfing" cert="high">
+               <title type="main">Symphonie Nr. 6 in C-Dur, D589</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141769</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.6,_D.589_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1393" resp="#awilfing" cert="high">
                <title type="main">Ouvertüre im italienischen Stile in D-Dur, D590</title>
@@ -12488,20 +12524,22 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141483</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quintet,_D.956_(Schubert,_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1418" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1418" resp="#awilfing" cert="high">
                <title type="main">Trio für Violine, Cello und Klavier Nr. 1 in B-Dur, D898</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300142242</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Trio_in_B-flat_major,_D.898_(Schubert,_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1419" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1419" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier in G-Dur, D894</title>
                <title type="alternative">Phantasie-Sonate</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141890</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Sonata_in_G_major,_D.894_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1420" resp="#awilfing" cert="high">
                <title type="main">Nur wer die Liebe kennt, D513a</title>
@@ -12548,7 +12586,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141211</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Nachtgesang_im_Walde,_D.913_(Schubert,_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1425" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1425" resp="#awilfing" cert="high">
                <title type="main">Ständchen, D920</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
@@ -12557,6 +12595,7 @@
                   <persName>Grillparzer, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300142048</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/St%C3%A4ndchen,_D.920_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1426" resp="#awilfing" cert="high">
                <title type="main">Gott in der Natur, D757</title>
@@ -12625,7 +12664,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30014007X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/An_die_Musik%2C_D.547_(Schubert%2C_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1432" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1432" resp="#awilfing" cert="high">
                <title type="main">Sei mir gegrüsst, D741</title>
                <title type="alternative">Sei mir gegrüßt</title>
                <author ref="#hsl_person_id_279">
@@ -12635,6 +12674,7 @@
                   <persName>Rückert, Friedrich</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300300166</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Sei_mir_gegr%C3%BCsst,_D.741_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1433" resp="#awilfing" cert="high">
                <title type="main">Ungeduld, D795 Nr. 7</title>
@@ -14481,12 +14521,13 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4849610-8</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1646" resp="#awilfing" cert="medium">
-               <title type="main">Hermann und Dorothea, op. 136</title>
+            <bibl xml:id="hsl_work_id_1646" resp="#awilfing" cert="high">
+               <title type="main">Ouvertüre zu Goethes Hermann und Dorothea, op. 136</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300286333</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Hermann_und_Dorothea,_Op.136_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1647" resp="#awilfing" cert="medium">
                <title type="main">Quartett für 2 Violinen, Viola und Cello in C-Dur, Hob. III:77</title>
@@ -15091,13 +15132,14 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1221139754</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1723" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1723" resp="#awilfing" cert="high">
                <title type="main">Bilder aus Osten, op. 66</title>
                <title type="alternative">Klänge aus Osten</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300298595</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Bilder_aus_Osten,_Op.66_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1724" resp="#awilfing" cert="medium">
                <title type="main">Die Musik als Ausdruck</title>
@@ -16070,21 +16112,23 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300027346</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Variations_on_a_Theme_by_Robert_Schumann,_Op.23_(Brahms,_Johannes)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1847" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1847" resp="#awilfing" cert="high">
                <title type="main">Konzert-Allegro mit Introduktion für Klavier und Orchester in d-Moll, op. 134</title>
                <title type="alternative">Concert-Allegro / Concertstück</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30014539X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Introduction_and_Allegro,_Op.134_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1848" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1848" resp="#awilfing" cert="high">
                <title type="main">Gesänge der Frühe, op. 133</title>
                <title type="alternative">Gesänge in der Frühe</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145098</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ges%C3%A4nge_der_Fr%C3%BChe%2C_Op.133_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1849" resp="#awilfing" cert="medium">
                <title type="main">Läuschen un Rimels</title>
@@ -16101,12 +16145,13 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300562292</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1851" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1851" resp="#awilfing" cert="high">
                <title type="main">Variationen über ein Thema von Robert Schumann in fis-Moll, op. 20</title>
                <author ref="#hsl_person_id_281">
                   <persName>Schumann, Clara</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300144393</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Variationen_%C3%BCber_ein_Thema_von_Robert_Schumann,_Op.20_(Schumann,_Clara)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1852" resp="#awilfing" cert="high">
                <title type="main">Variationen über ein Thema von Robert Schumann in fis-Moll für Klavier, op. 9</title>
@@ -16116,12 +16161,13 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300027338</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Variations_on_a_Theme_by_Robert_Schumann,_Op.9_(Brahms,_Johannes)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1853" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1853" resp="#awilfing" cert="high">
                <title type="main">4 Nachtstücke für Klavier, op. 23</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30014590X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/4_Nachtst%C3%BCcke%2C_Op.23_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1854" resp="#awilfing" cert="high">
                <title type="main">4 Balladen für Klavier, op. 10</title>
@@ -16139,13 +16185,14 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300024819</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/4_Ballades,_Op.10_(Brahms,_Johannes)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1856" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1856" resp="#awilfing" cert="high">
                <title type="main">Album für die Jugend, op. 68</title>
                <title type="alternative">Jugendalbum</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300144415</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Album_f%C3%BCr_die_Jugend,_Op.68_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1857" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier Nr. 21 in C-Dur, op. 53</title>
@@ -16178,27 +16225,30 @@
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_1861" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1861" resp="#awilfing" cert="high">
                <title type="main">Konzert für Cello und Orchester in a-Moll, op. 129</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145411</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Cello_Concerto,_Op.129_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1862" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1862" resp="#awilfing" cert="high">
                <title type="main">Phantasie für Violine und Orchester in C-Dur, op. 131</title>
                <title type="alternative">Fantasie</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300144717</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Phantasie_for_Violin_and_Orchestra,_Op.131_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1863" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1863" resp="#awilfing" cert="high">
                <title type="main">7 Klavierstücke in Fughettenform, op. 126</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145373</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/7_Klavierst%C3%BCcke_in_Fughettenform,_Op.126_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1864" resp="#awilfing" cert="medium">
                <title type="main">Ouvertüre zu Hamlet, op. 4</title>
@@ -16216,9 +16266,10 @@
                   <persName>Kulmann, Elisabeth</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300320167</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/M%C3%A4dchenlieder%2C_Op.103_(Schumann%2C_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1866" resp="#awilfing" cert="medium">
-               <title type="main">Rheinweinlied-Ouverture, op. 123</title>
+            <bibl xml:id="hsl_work_id_1866" resp="#awilfing" cert="high">
+               <title type="main">Festouvertüre über das Rheinweinlied, op. 123</title>
                <title type="alternative">Rhein-Ouvertüre</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -16227,9 +16278,10 @@
                   <persName>Müller von Königswinter, Wolfgang</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300242026</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Rheinweinlied-Ouverture,_Op.123_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1867" resp="#awilfing" cert="medium">
-               <title type="main">7 Lieder, op. 104</title>
+            <bibl xml:id="hsl_work_id_1867" resp="#awilfing" cert="high">
+               <title type="main">7 Lieder für Singstimme und Klavier, op. 104</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
@@ -16237,6 +16289,7 @@
                   <persName>Kulmann, Elisabeth</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300855745</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/7_Lieder,_Op.104_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1868" resp="#awilfing" cert="medium">
                <title type="main">Ballade für Violine und Klavier, op. 3 Nr. 3</title>
@@ -16255,12 +16308,13 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4149165-8</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1870" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1870" resp="#awilfing" cert="high">
                <title type="main">Spanische Liebeslieder, op. 138</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146612</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Spanische_Liebeslieder,_Op.138_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1871" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier Nr. 1 in C-Dur, op. 1</title>
@@ -16308,19 +16362,21 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300402791</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1877" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1877" resp="#awilfing" cert="high">
                <title type="main">6 Studien nach Capricen von Paganini für Klavier, op. 3</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146671</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Etudes_after_Paganini_Caprices,_Op.3_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1878" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1878" resp="#awilfing" cert="high">
                <title type="main">6 Konzert-Studien nach Capricen von Paganini für Klavier, op. 10</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145446</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Concert_Etudes_after_Paganini_Caprices,_Op.10_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1879" resp="#awilfing" cert="medium">
                <title type="main">24 Capriccios für Violine, op. 1</title>
@@ -16339,12 +16395,13 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10113233?page=8,9</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1882" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1882" resp="#awilfing" cert="high">
                <title type="main">Novelette für Klavier in D-Dur, op. 21 Nr. 2</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1051220300</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/8_Novelletten,_Op.21_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1883" resp="#awilfing" cert="medium">
                <title type="main">Gedichte aus Liebesfrühling, op. 37</title>
@@ -16572,8 +16629,8 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1046737368</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1911" resp="#awilfing" cert="medium">
-               <title type="main">3 Lieder, op. 12</title>
+            <bibl xml:id="hsl_work_id_1911" resp="#awilfing" cert="high">
+               <title type="main">3 Lieder für Singstimme und Klavier, op. 12</title>
                <author ref="#hsl_person_id_281">
                   <persName>Schumann, Clara</persName>
                </author>
@@ -16581,6 +16638,7 @@
                   <persName>Rückert, Friedrich</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300144245</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lieder,_Op.12_(Schumann,_Clara)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1912" resp="#awilfing" cert="medium">
                <title type="main">3 Stücke für Violine und Klavier, op. 2</title>
@@ -16675,12 +16733,6 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146558</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Sonata_No.2%2C_Op.22_(Schumann%2C_Robert)</idno>
-            </bibl>
-            <bibl xml:id="hsl_work_id_1927" resp="#awilfing" cert="medium">
-               <title type="main">Konzert ohne Orchester f-moll op.14 für Klavier (1. Fassung 1836);  Klaviersonate Nr. 3 f-moll op. 14 (2. Fassung, 1853)</title>
-               <author ref="#hsl_person_id_282">
-                  <persName>Schumann, Robert</persName>
-               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1928" resp="#awilfing" cert="high">
                <title type="main">Trio für Violine, Violoncello und Klavier in D-Dur, op. 70 Nr. 1</title>
@@ -17009,7 +17061,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300062206</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1966" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1966" resp="#awilfing" cert="high">
                <title type="main">Liebesgram, op. 74 Nr. 3</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -17018,6 +17070,7 @@
                   <persName>Geibel, Emanuel</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300320221</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Spanisches_Liederspiel,_Op.74_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1967" resp="#awilfing" cert="medium">
                <title type="main">Bergliot, op. 42</title>
@@ -17184,17 +17237,21 @@
                   <persName>Haydn, Joseph</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_1993" resp="#awilfing" cert="medium">
-               <title type="main">Streichquartett in c-Moll, D703</title>
+            <bibl xml:id="hsl_work_id_1993" resp="#awilfing" cert="high">
+               <title type="main">Quartett für 2 Violinen, Viola und Cello in c-Moll, D703</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141424</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_in_C_minor,_D.703_(Schubert,_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1994" resp="#awilfing" cert="medium">
-               <title type="main">Variationen über ein Original-Thema, D813</title>
+            <bibl xml:id="hsl_work_id_1994" resp="#awilfing" cert="high">
+               <title type="main">8 Variationen über ein Original-Thema für Klavier zu 4 Händen in As-Dur, D813</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300206453</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/8_Variations_on_an_Original_Theme,_D.813_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1995" resp="#awilfing" cert="high">
                <title type="main">Die Stille, op. 39 Nr. 4</title>
@@ -17420,7 +17477,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_3396">Fiammella</name>
             </bibl>
-            <bibl xml:id="hsl_work_id_2025" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2025" resp="#awilfing" cert="high">
                <title type="main">Spanisches Liederspiel, op. 74</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -17429,6 +17486,7 @@
                   <persName>Geibel, Emanuel</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146620</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Spanisches_Liederspiel,_Op.74_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2026" resp="#awilfing" cert="high">
                <title type="main">Davidsbündlertänze für Klavier, op. 6</title>
@@ -17487,12 +17545,13 @@
                   <persName>Sivori, Camillo</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2035" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2035" resp="#awilfing" cert="high">
                <title type="main">In der Nacht, op. 12 Nr. 5</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300363087</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Fantasiest%C3%BCcke,_Op.12_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2036" resp="#awilfing" cert="high">
                <title type="main">Variationen und Fuge für Klavier in Es-Dur, op. 35</title>
@@ -17793,12 +17852,13 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30072358X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Lieder_von_Otto_Roquette%2C_Op.35_(Jensen%2C_Adolf)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2080" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2080" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier Nr. 1 in fis-Moll, op. 11</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30014654X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Sonata_No.1%2C_Op.11_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2081" resp="#awilfing" cert="high">
                <title type="main">Rhapsodie für Klavier in h-Moll, op. 79 Nr. 1</title>
@@ -17808,7 +17868,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300026676</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/2_Rhapsodies,_Op.79_(Brahms,_Johannes)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2082" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2082" resp="#awilfing" cert="high">
                <title type="main">An Anna, WoO21 Nr. 7</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -18111,12 +18171,13 @@
                   <persName>Stieler, Karl</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2121" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2121" resp="#awilfing" cert="high">
                <title type="main">Novellette für Klavier in E-Dur, op. 21 Nr. 7</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1051285658</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/8_Novelletten,_Op.21_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2122" resp="#awilfing" cert="high">
                <title type="main">Polonaise</title>
@@ -21173,11 +21234,14 @@
                   <persName>Bach, Johann Sebastian</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2507" resp="#awilfing" cert="medium">
-               <title type="main">Rondo brillant, D895</title>
+            <bibl xml:id="hsl_work_id_2507" resp="#awilfing" cert="high">
+               <title type="main">Rondo für Violine und Klavier in h-Moll, D895</title>
+               <title type="alternative">Rondo brillant</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141513</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Rondo_in_B_minor,_D.895_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2508" resp="#awilfing" cert="medium">
                <title type="main">Sonate in C-Dur, D812</title>
@@ -21202,11 +21266,13 @@
                   <persName>Spohr, Louis</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2512" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2512" resp="#awilfing" cert="high">
                <title type="main">Abendlied, op. 85 Nr. 12</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146760</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/12_Klavierst%C3%BCcke_f%C3%BCr_kleine_und_gro%C3%9Fe_Kinder,_Op.85_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2513" resp="#awilfing" cert="medium">
                <title type="main">Capriccios</title>
@@ -21223,11 +21289,13 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300140347</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Fantasie_in_C_major,_D.934_(Schubert,_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2515" resp="#awilfing" cert="medium">
-               <title type="main">12 Klavierstücke für kleine und große Kinder, op. 85</title>
+            <bibl xml:id="hsl_work_id_2515" resp="#awilfing" cert="high">
+               <title type="main">12 Stücke für kleine und große Kinder für Klavier zu 4 Händen, op. 85</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300263481</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/12_Klavierst%C3%BCcke_f%C3%BCr_kleine_und_gro%C3%9Fe_Kinder,_Op.85_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2516" resp="#awilfing" cert="medium">
                <title type="main">Konzert für Violine und Orchester Nr. 3 in G-Dur</title>
@@ -21348,6 +21416,16 @@
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300200617</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Rosamunde,_D.797_(Schubert,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_2534" resp="#awilfing" cert="high">
+               <title type="main">Ballett aus "Rosamunde, Fürstin von Zypern", D797 Nr. 6</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141548</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Rosamunde,_D.797_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2536" resp="#awilfing" cert="high">
                <title type="main">Der Kuß</title>
@@ -21814,7 +21892,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30014587X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Myrthen,_Op.25_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2596" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2596" resp="#awilfing" cert="high">
                <title type="main">Abälard und Heloise</title>
                <title type="alternative">Entwurf</title>
                <author ref="#hsl_person_id_282">
@@ -22161,7 +22239,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145128</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Ges%C3%A4nge%2C_Op.31_(Schumann%2C_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2633" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2633" resp="#awilfing" cert="high">
                <title type="main">Schmetterling, op. 79 Nr. 2</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -22170,8 +22248,9 @@
                   <persName>Hoffmann von Fallersleben, August Heinrich</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/120908676X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Liederalbum_f%C3%BCr_die_Jugend,_Op.79_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2634" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2634" resp="#awilfing" cert="high">
                <title type="main">Mignon, op. 79 Nr. 29</title>
                <title type="alternative">Kennst du das Land?</title>
                <author ref="#hsl_person_id_100">
@@ -22181,6 +22260,7 @@
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7847742-6</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Liederalbum_f%C3%BCr_die_Jugend,_Op.79_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2635" resp="#awilfing" cert="medium">
                <title type="main">Der junge Haiduck, op. 50 Nr. 4</title>
@@ -22353,7 +22433,7 @@
                   <persName>Schubert, Franz</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2657" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2657" resp="#awilfing" cert="high">
                <title type="main">Wehmut, D825</title>
                <title type="alternative">Wehmuth</title>
                <author ref="#hsl_person_id_279">
@@ -22363,6 +22443,7 @@
                   <persName>Hüttenbrenner, Heinrich</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300260385</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Wehmut,_D.825_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2658" resp="#awilfing" cert="medium">
                <title type="main">Die Macht der Poesie, op. 44</title>
@@ -23334,7 +23415,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1182918212</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2778" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2778" resp="#awilfing" cert="high">
                <title type="main">Verzweifle nicht im Schmerzensthal, op. 93</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -23343,6 +23424,7 @@
                   <persName>Rückert, Friedrich</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300837550</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Verzweifle_nicht_im_Schmerzenstal,_Op.93_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2779" resp="#awilfing" cert="medium">
                <title type="main">Die Verwandlungen des Abu Seid von Serug, oder Die Makamen des Hariri</title>
@@ -23548,20 +23630,22 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300239920</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2805" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2805" resp="#awilfing" cert="high">
                <title type="main">Carnaval. Scènes mignonnes sur quatre notes für Klavier, op. 9</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300144520</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Carnaval,_Op.9_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2806" resp="#awilfing" cert="medium">
-               <title type="main">Phantasiestücke für Klavier, op. 12</title>
+            <bibl xml:id="hsl_work_id_2806" resp="#awilfing" cert="high">
+               <title type="main">8 Phantasiestücke für Klavier, op. 12</title>
                <title type="alternative">Fantasiestücke</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300144725</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Fantasiest%C3%BCcke,_Op.12_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2807" resp="#awilfing" cert="high">
                <title type="main">Etüden für Klavier</title>
@@ -23765,8 +23849,9 @@
                   <persName>Brüll, Ignaz</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2837" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2837" resp="#awilfing" cert="high">
                <title type="main">Süsser Freund, du blickest, op. 42 Nr. 6</title>
+               <title type="alternative">Süßer Freund, du blickest</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
@@ -23774,8 +23859,9 @@
                   <persName>Chamisso, Adelbert von</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1209173816</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Frauenliebe_und_Leben,_Op.42_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2838" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2838" resp="#awilfing" cert="high">
                <title type="main">An meinem Herzen, op. 42 Nr. 7</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -23784,6 +23870,7 @@
                   <persName>Chamisso, Adelbert von</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1209173913</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Frauenliebe_und_Leben,_Op.42_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2839" resp="#awilfing" cert="medium">
                <title type="main">Ich geh und suche mit Verlangen, BWV49</title>
@@ -24274,19 +24361,21 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Robert_Schumann:_Robert_Schumanns_Werke</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2903" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2903" resp="#awilfing" cert="high">
                <title type="main">Andante und Variationen für Horn, 2 Celli und 2 Klaviere in B-Dur, op. 46</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300239041</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Andante_und_Variationen,_Op.46_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2904" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2904" resp="#awilfing" cert="high">
                <title type="main">Andante und Variationen für 2 Klaviere in B-Dur, op. 46</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300144466</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Andante_und_Variationen,_Op.46_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2905" resp="#awilfing" cert="medium">
                <title type="main">Scherzo für Klavier in f-Moll, WoO5 Nr. 1</title>
@@ -24303,12 +24392,14 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30030028X</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2907" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2907" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier Nr. 3 in f-Moll, op. 14</title>
+               <title type="alternative">Concert sans orchestre</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300144539</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Sonata_No.3%2C_Op.14_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2908" resp="#awilfing" cert="high">
                <title type="main">Arie</title>
@@ -24323,7 +24414,7 @@
                   <persName>Martín y Soler, Vicente</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2910" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2910" resp="#awilfing" cert="high">
                <title type="main">Nun hast du mir den ersten Schmerz getan, op. 42 Nr. 8</title>
                <title type="alternative">Nun hast du mir den ersten Schmerz gethan</title>
                <author ref="#hsl_person_id_282">
@@ -24333,6 +24424,7 @@
                   <persName>Chamisso, Adelbert von</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1209174057</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Frauenliebe_und_Leben,_Op.42_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2911" resp="#awilfing" cert="high">
                <title type="main">Vor dem Fenster, op. 14 Nr. 1</title>
@@ -24343,12 +24435,13 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1044141654</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/8_Lieder_and_Romances,_Op.14_(Brahms,_Johannes)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2913" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2913" resp="#awilfing" cert="high">
                <title type="main">Toccata für Klavier in C-Dur, op. 7</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146809</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Toccata,_Op.7_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2914" resp="#awilfing" cert="high">
                <title type="main">Andante favori für Klavier in F-Dur, WoO57</title>
@@ -24378,8 +24471,8 @@
                   <persName>Groth, Klaus</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2917" resp="#awilfing" cert="medium">
-               <title type="main">Die Lotosblume, op. 33 Nr. 3 (Chorfassung)</title>
+            <bibl xml:id="hsl_work_id_2917" resp="#awilfing" cert="high">
+               <title type="main">Die Lotosblume, op. 33 Nr. 3</title>
                <author ref="#hsl_person_id_116">
                   <persName>Heine, Heinrich</persName>
                </author>
@@ -24387,6 +24480,7 @@
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300368941</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Lieder%2C_Op.33_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2918" resp="#awilfing" cert="medium">
                <title type="main">Konzert für Klavier und Orchester Nr. 2 in A-Dur, S125</title>
@@ -24774,7 +24868,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300309848</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2967" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2967" resp="#awilfing" cert="high">
                <title type="main">Die Rose stand im Thau, op. 65 Nr. 1</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -24783,6 +24877,7 @@
                   <persName>Rückert, Friedrich</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300488769</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ritornelle_in_canonischen_Weisen%2C_Op.65_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2968" resp="#awilfing" cert="medium">
                <title type="main">Nachtlied</title>
@@ -25161,13 +25256,15 @@
                   <persName>Herbeck, Johann von</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3016" resp="#awilfing" cert="medium">
-               <title type="main">Rüdigers Heimkehr, D 791</title>
+            <bibl xml:id="hsl_work_id_3016" resp="#awilfing" cert="high">
+               <title type="main">Rüdiger, D791</title>
+               <title type="alternative">Entwurf</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://d-nb.info/gnd/127237307X</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3017" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3017" resp="#awilfing" cert="high">
                <title type="main">Sehnsucht, D656</title>
                <title type="alternative">Nur wer die Sehnsucht kennt</title>
                <author ref="#hsl_person_id_100">
@@ -25176,18 +25273,27 @@
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30014167X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Sehnsucht,_D.656_(Schubert,_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3018" resp="#awilfing" cert="medium">
-               <title type="main">6 Lieder, op. 33</title>
+            <bibl xml:id="hsl_work_id_3018" resp="#awilfing" cert="high">
+               <title type="main">6 Lieder für Männerchor, op. 33</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145551</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Lieder%2C_Op.33_(Schumann%2C_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3019" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3019" resp="#awilfing" cert="high">
                <title type="main">Der träumende See, op. 33 Nr. 1</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
+               <author ref="#hsl_person_id_726">
+                  <persName>Mosen, Julius</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300394047</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Lieder%2C_Op.33_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3020" resp="#awilfing" cert="medium">
                <title type="main">Morgen, op. 74</title>
@@ -25289,8 +25395,8 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1207353604</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/12_Lieder_and_Romances,_Op.44_(Brahms,_Johannes)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3032" resp="#awilfing" cert="medium">
-               <title type="main">Talismane, op. 141 Nr. 4 (Chorfassung)</title>
+            <bibl xml:id="hsl_work_id_3032" resp="#awilfing" cert="high">
+               <title type="main">Talismane, op. 141 Nr. 4</title>
                <author ref="#hsl_person_id_100">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
@@ -25298,6 +25404,7 @@
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300182759</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/4_Doppelch%C3%B6rige_Ges%C3%A4nge%2C_Op.141_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3033" resp="#awilfing" cert="high">
                <title type="main">Talismane, op. 25 Nr. 8</title>
@@ -25741,12 +25848,13 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300770723</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3091" resp="#awilfing" cert="medium">
-               <title type="main">Valse noble für Klavier, op. 9 Nr. 4</title>
+            <bibl xml:id="hsl_work_id_3091" resp="#awilfing" cert="high">
+               <title type="main">Valse noble für Klavier in B-Dur, op. 9 Nr. 4</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30030031X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Carnaval,_Op.9_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3092" resp="#awilfing" cert="medium">
                <title type="main">Die Rantzau</title>
@@ -26401,12 +26509,13 @@
                   <persName>Neumann, Ferdinand</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3173" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3173" resp="#awilfing" cert="high">
                <title type="main">Trio für Violine, Cello und Klavier Nr. 3 in g-Moll, op. 110</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146841</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Trio_No.3%2C_Op.110_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3174" resp="#awilfing" cert="high">
                <title type="main">Vossische Zeitung</title>
@@ -27865,7 +27974,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3350" resp="#awilfing" cert="high">
-               <title type="main">3 Gesänge, op. 31</title>
+               <title type="main">3 Gesänge für Singstimme und Klavier, op. 31</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
@@ -28515,6 +28624,118 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141130</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Moments_musicaux,_D.780_(Schubert,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3427" resp="#awilfing" cert="high">
+               <title type="main">5 Romanzen und Balladen für gemischten Chor, op. 146</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_310">
+                  <persName>Uhland, Ludwig</persName>
+               </author>
+               <author ref="#hsl_person_id_1824">
+                  <persName>Rückert, Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_5125">
+                  <persName>Gerhard, Wilhelm</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300263473</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Romanzen_und_Balladen,_Op.146_(Schumann,_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3428" resp="#awilfing" cert="high">
+               <title type="main">4 Gesänge für Singstimme und Klavier, op. 142</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300257198</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/4_Ges%C3%A4nge%2C_Op.142_(Schumann%2C_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3429" resp="#awilfing" cert="high">
+               <title type="main">5 Romanzen und Balladen für gemischten Chor, op. 145</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146337</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Romanzen_und_Balladen%2C_Op.145_(Schumann%2C_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3430" resp="#awilfing" cert="high">
+               <title type="main">4 Gesänge für doppelten gemischten Chor, op. 141</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_332">
+                  <persName>Zedlitz, Joseph Christian von</persName>
+               </author>
+               <author ref="#hsl_person_id_1824">
+                  <persName>Rückert, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7656204-9</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/4_Doppelch%C3%B6rige_Ges%C3%A4nge%2C_Op.141_(Schumann%2C_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3431" resp="#awilfing" cert="high">
+               <title type="main">6 Gedichte von Nikolaus Lenau und Requiem für Singstimme und Klavier, op. 90</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1229953841</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Gedichte_von_N._Lenau_und_Requiem,_Op.90_(Schumann,_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3432" resp="#awilfing" cert="high">
+               <title type="main">5 Romanzen und Balladen für gemischten Chor, op. 75</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_1245">
+                  <persName>Eichendorff, Joseph von</persName>
+               </author>
+               <author ref="#hsl_person_id_5125">
+                  <persName>Gerhard, Wilhelm</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146272</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Romanzen_und_Balladen%2C_Op.75_(Schumann%2C_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3433" resp="#awilfing" cert="high">
+               <title type="main">5 Lieder und Gesänge für Singstimme und Klavier, op. 77</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300263430</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lieder_und_Ges%C3%A4nge%2C_Vol.III%2C_Op.77_(Schumann%2C_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3434" resp="#awilfing" cert="high">
+               <title type="main">7 Ritornelle in canonischen Weisen für Männerchor, op. 65</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_1824">
+                  <persName>Rückert, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146051</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ritornelle_in_canonischen_Weisen%2C_Op.65_(Schumann%2C_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3435" resp="#awilfing" cert="high">
+               <title type="main">5 Romanzen und Balladen für gemischten Chor, op. 67</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146213</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Romanzen_und_Balladen,_Op.67_(Schumann,_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3436" resp="#awilfing" cert="high">
+               <title type="main">6 Jugendlieder für Singstimme und Klavier, WoO21</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_3483">
+                  <persName>Kerner, Justinus</persName>
+               </author>
+               <author ref="#hsl_person_id_3537">
+                  <persName>Jacobi, Johann Georg</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300455348</idno>
             </bibl>
       </listBibl>
       </body>
