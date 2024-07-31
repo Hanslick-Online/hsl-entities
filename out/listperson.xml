@@ -692,6 +692,9 @@
                      <bibl n="hsl_work_id_3377">Du wahrer Gott und Davids Sohn, BWV23</bibl>
                      <bibl n="hsl_work_id_3392">Komm, Jesu, komm, BWV229</bibl>
                      <bibl n="hsl_work_id_3417">Fuge für Orgel in a-Moll</bibl>
+                     <bibl n="hsl_work_id_3520">Gloria in excelsis Deo</bibl>
+                     <bibl n="hsl_work_id_3521">Kyrie eleison, BWV 232.4/1-3</bibl>
+                     <bibl n="hsl_work_id_3522">Messe in h-Moll, BWV 232/2 Christe eleison</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_19" resp="#awilfing" cert="medium">
@@ -2941,6 +2944,7 @@
                      <bibl n="hsl_work_id_2058">Rosestock, Holderblüh</bibl>
                      <bibl n="hsl_work_id_2062">O, Diandle tiaf drunt im Tal</bibl>
                      <bibl n="hsl_work_id_3015">Froher Morgen</bibl>
+                     <bibl n="hsl_work_id_3523">Alte Marienlitanei der Hirten</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_122" resp="#awilfing" cert="high">
@@ -14933,7 +14937,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118606832</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9082</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_586">Ekkehard</bibl>
+                     <bibl n="hsl_work_id_586">Ekkehard. Eine Geschichte aus dem zehnten Jahrhundert</bibl>
                      <bibl n="hsl_work_id_756">Heini der Steier</bibl>
                      <bibl n="hsl_work_id_3102">Der Hut im Meer</bibl>
                      <bibl n="hsl_work_id_3152">La régine Avrillouse, op. 10</bibl>
@@ -19601,6 +19605,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116392983</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q91175</idno>
                   <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3169">Es muß ein Wunderbares sein, op. 12</bibl>
                      <bibl n="hsl_work_id_3345">3 Gesänge für Singstimme und Klavier, op. 123</bibl>
                   </listBibl>
                </person>
@@ -58882,7 +58887,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1391004</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2885">Echa leśne, op. 41</bibl>
-                     <bibl n="hsl_work_id_2886">Psalm 46: In Exitu Israel</bibl>
+                     <bibl n="hsl_work_id_2886">In Exitu Israel</bibl>
                      <bibl n="hsl_work_id_2887">Konrad Wallenrod</bibl>
                   </listBibl>
                </person>
@@ -66308,6 +66313,116 @@
                   <birth>-1874</birth>
                   <death>-1874</death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1329676149</idno>
+               </person>
+               <person xml:id="hsl_person_id_5200" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Karl</forename>
+                     <surname>Wittkowksy</surname>
+                  </persName>
+                  <birth>1852-1911</birth>
+                  <death>1852-1911</death>
+                  <occupation style="background-color: dark-gray;">Kaufmann</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1233717375</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_1691">Donna Diana</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5202" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Maria</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1293">Lazarus, D689</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5203" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Jemina</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1293">Lazarus, D689</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5204" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Simon</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1293">Lazarus, D689</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5205" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Josef</forename>
+                     <surname>Kren</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Krenn</surname>
+                  </persName>
+                  <birth>1824-1891</birth>
+                  <death>1824-1891</death>
+                  <occupation style="background-color: darker-orange;">Sänger</occupation>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: gray;">Regisseur</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/143884379</idno>
+               </person>
+               <person xml:id="hsl_person_id_5206" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Nathanael</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1293">Lazarus, D689</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5207" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Anna</forename>
+                     <surname>Schultzen von Asten</surname>
+                  </persName>
+                  <birth>1836-1903 (anderslt. Geburtsjahr 1848 (Riemann 1929))</birth>
+                  <death>1836-1903 (anderslt. Geburtsjahr 1848 (Riemann 1929))</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117236314</idno>
+               </person>
+               <person xml:id="hsl_person_id_5208" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Martha</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1293">Lazarus, D689</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5209" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Roman</forename>
+                     <surname>Hoffstetter</surname>
+                  </persName>
+                  <birth>1742-1815</birth>
+                  <death>1742-1815</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118706047</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3525">Quartett für 2 Violinen, Viola, Violoncello, Hob 3 13-18. Nr. 5</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5210" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Friedrich Wilhelm</forename>
+                     <surname>Rust</surname>
+                  </persName>
+                  <birth>1739-1796</birth>
+                  <death>1739-1796</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/115666494</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3526">Violinsonate</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
