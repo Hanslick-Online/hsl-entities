@@ -444,7 +444,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1055</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4023118-5</idno>
                </place>
-               <place xml:id="hsl_place_id_25" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_25" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Hannover</placeName>
                   </settlement>
@@ -2110,7 +2110,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q79</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4000556-2</idno>
                </place>
-               <place xml:id="hsl_place_id_176" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_176" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">United States of America</placeName>
                      <placeName type="alternative">Amerika / Nordamerika</placeName>
@@ -2243,7 +2243,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2966</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4023996-2</idno>
                </place>
-               <place xml:id="hsl_place_id_186" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_186" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">New York City</placeName>
                      <placeName type="alternative">Newyork</placeName>
@@ -2257,7 +2257,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q60</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4042011-5</idno>
                </place>
-               <place xml:id="hsl_place_id_187" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_187" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Boston</placeName>
                   </settlement>
@@ -6775,6 +6775,20 @@
                <place xml:id="hsl_place_id_597" resp="#awilfing" cert="medium">
                   <placeName type="main">Katharinenkirche, Nürnberg</placeName>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1736108</idno>
+               </place>
+               <place xml:id="hsl_place_id_598" resp="#awilfing" cert="high">
+                  <placeName type="main">New England</placeName>
+                     <placeName type="alternative">Neu-England</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/11919979/</idno>
+               </place>
+               <place xml:id="hsl_place_id_599" resp="#awilfing" cert="high">
+                  <placeName type="main">Neworleans</placeName>
+                     <placeName type="alternative">Neworleans</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/4335045/</idno>
+               </place>
+               <place xml:id="hsl_place_id_600" resp="#awilfing" cert="high">
+                  <placeName type="main">Plymouth-Rock</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/4947627/</idno>
                </place>
             </listPlace>
          </div>

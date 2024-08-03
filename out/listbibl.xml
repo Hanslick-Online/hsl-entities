@@ -476,7 +476,6 @@
                <name type="character" ref="#hsl_person_id_2328">Oscar</name>
                <name type="character" ref="#hsl_person_id_3466">Samuel</name>
                <name type="character" ref="#hsl_person_id_3467">Tom</name>
-               <name type="character" ref="#hsl_person_id_5246">René Ankarström</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300165145</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Un_ballo_in_maschera_(Verdi%2C_Giuseppe)</idno>
             </bibl>
@@ -31336,8 +31335,61 @@
                   <persName>Grün, Anastasius</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3562" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_3562" resp="#awilfing" cert="high">
+               <title type="main">Music in America</title>
+               <author ref="#hsl_person_id_5247">
+                  <persName>Ritter, Frédérick Louis</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/musicinamerica00rittgoog/page/n8/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3563" resp="#awilfing" cert="high">
+               <title type="main">The New-England Psalmsinger or American Chorister Containing a Number of Psalm-Tunes, Anthems, and Canons</title>
+               <author ref="#hsl_person_id_5248">
+                  <persName>Billings, William</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.loc.gov/item/2008581408/</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3564" resp="#awilfing" cert="high">
+               <title type="main">On Church-Music</title>
+               <author ref="#hsl_person_id_5254">
+                  <persName>Hubbard, John</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3565" resp="#awilfing" cert="high">
+               <title type="main">Chester</title>
+               <author ref="#hsl_person_id_5248">
+                  <persName>Billings, William</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.loc.gov/resource/music.musihas-200154806/?sp=133&amp;st=image</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3566" resp="#awilfing" cert="high">
+               <title type="main">Columbia</title>
+               <author ref="#hsl_person_id_5248">
+                  <persName>Billings, William</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.loc.gov/resource/music.musihas-200154804/?sp=92&amp;st=image</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3567" resp="#awilfing" cert="high">
+               <title type="main">Independence</title>
+               <title type="alternative">Independance</title>
+               <author ref="#hsl_person_id_5248">
+                  <persName>Billings, William</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.loc.gov/resource/music.musihas-200154804/?sp=127&amp;st=image</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3568" resp="#awilfing" cert="high">
+               <title type="main">Lamentation over Boston</title>
+               <author ref="#hsl_person_id_5248">
+                  <persName>Billings, William</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.loc.gov/resource/music.musihas-200154804/?sp=69&amp;st=image</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3569" resp="#awilfing" cert="high">
+               <title type="main">The Singing Master's Assistant or Key to Practical Music Being an Abridgement from the New-England Psalm-Singer Together with Several Other Tunes</title>
+               <author ref="#hsl_person_id_5248">
+                  <persName>Billings, William</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.loc.gov/item/2008581404/</idno>
             </bibl>
       </listBibl>
       </body>

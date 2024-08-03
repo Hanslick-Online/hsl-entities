@@ -1206,8 +1206,8 @@
                      <surname>Napoleon I.</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename>Napoleon</forename>
-                     <surname>Bonaparte</surname>
+                     <forename/>
+                     <surname>Napoleon Bonaparte</surname>
                   </persName>
                   <birth>1769-1821</birth>
                   <death>1769-1821</death>
@@ -59733,7 +59733,7 @@
                      <bibl n="hsl_work_id_2930">Die Lehre vom Tastsinne und Gemeingefühle auf Versuche gegründet</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4593" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4593" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Iago</surname>
@@ -62144,7 +62144,7 @@
                   <occupation style="background-color: dark-red;">Übersetzer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/127520643</idno>
                </person>
-               <person xml:id="hsl_person_id_4814" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4814" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Desdemona</surname>
@@ -66917,13 +66917,112 @@
                      <bibl n="hsl_work_id_3559">Die stille Nacht für Männerchor, op. 43</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_5246" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5247" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename/>
-                     <surname>René Ankarström</surname>
+                     <forename>Frédérick Louis</forename>
+                     <surname>Ritter</surname>
                   </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_35">Un ballo in maschera, H59</bibl>
+                  <persName type="alternative">
+                     <forename>Frederick Louis</forename>
+                     <surname>Ritter</surname>
+                  </persName>
+                  <birth>1834-1891</birth>
+                  <death>1834-1891</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1156015448</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3562">Music in America</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5248" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>William</forename>
+                     <surname>Billings</surname>
+                  </persName>
+                  <birth>1746-1800</birth>
+                  <death>1746-1800</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119078813</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3563">The New-England Psalmsinger or American Chorister Containing a Number of Psalm-Tunes, Anthems, and Canons</bibl>
+                     <bibl n="hsl_work_id_3565">Chester</bibl>
+                     <bibl n="hsl_work_id_3566">Columbia</bibl>
+                     <bibl n="hsl_work_id_3567">Independence</bibl>
+                     <bibl n="hsl_work_id_3568">Lamentation over Boston</bibl>
+                     <bibl n="hsl_work_id_3569">The Singing Master's Assistant or Key to Practical Music Being an Abridgement from the New-England Psalm-Singer Together with Several Other Tunes</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5249" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Arthur Wellesley of</forename>
+                     <surname>Wellington</surname>
+                  </persName>
+                  <birth>1769-1852</birth>
+                  <death>1769-1852</death>
+                  <occupation style="background-color: light-gray;">Offizier</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118806645</idno>
+               </person>
+               <person xml:id="hsl_person_id_5250" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>George</forename>
+                     <surname>Washington</surname>
+                  </persName>
+                  <birth>1732-1799</birth>
+                  <death>1732-1799</death>
+                  <occupation style="background-color: light-gray;">Offizier</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: darker-yellow;">Präsident</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11876439X</idno>
+               </person>
+               <person xml:id="hsl_person_id_5251" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Hans</forename>
+                     <surname>Gram</surname>
+                  </persName>
+                  <birth>1754-1804</birth>
+                  <death>1754-1804</death>
+                  <occupation style="background-color: dark-blue;">Organist</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/122844513</idno>
+               </person>
+               <person xml:id="hsl_person_id_5252" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Gottlieb</forename>
+                     <surname>Graupner</surname>
+                  </persName>
+                  <birth>1767-1836</birth>
+                  <death>1767-1836</death>
+                  <occupation style="background-color: light-yellow;">Oboist</occupation>
+                  <occupation style="background-color: darker-blue;">Verleger</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1052921833</idno>
+               </person>
+               <person xml:id="hsl_person_id_5253" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Johann Peter</forename>
+                     <surname>Salomon</surname>
+                  </persName>
+                  <birth>1745-1815</birth>
+                  <death>1745-1815</death>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-yellow;">Konzertagent</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116767189</idno>
+               </person>
+               <person xml:id="hsl_person_id_5254" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>John</forename>
+                     <surname>Hubbard</surname>
+                  </persName>
+                  <birth>1759-1810</birth>
+                  <death>1759-1810</death>
+                  <occupation style="background-color: dark-brown;">Mathematiker</occupation>
+                  <occupation style="background-color: light-cyan;">Naturphilosoph</occupation>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3564">On Church-Music</bibl>
                   </listBibl>
                </person>
             </listPerson>
