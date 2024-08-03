@@ -857,7 +857,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300166028</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Otello_(Verdi,_Giuseppe)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_75" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_75" resp="#awilfing" cert="high">
                <title type="main">Orpheus og Eurydike</title>
                <author ref="#hsl_person_id_32">
                   <persName>Biehl, Charlotta Dorothea</persName>
@@ -867,6 +867,8 @@
                </author>
                <name type="character" ref="#hsl_person_id_527">Eurydike</name>
                <name type="character" ref="#hsl_person_id_637">Orpheus</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7652379-2</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Orpheus_og_Eurydike_(Naumann%2C_Johann_Gottlieb)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_77" resp="#awilfing" cert="high">
                <title type="main">Oesterreichische Revue</title>
@@ -1528,11 +1530,14 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k5834334t/f4.image</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_130" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_130" resp="#awilfing" cert="high">
                <title type="main">La Gerusalemme liberata</title>
+               <title type="alternative">Das befreite Jerusalem</title>
                <author ref="#hsl_person_id_302">
                   <persName>Tasso, Torquato</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4210503-1</idno>
+               <idno type="URL" subtype="Digitalisat">https://digi.ub.uni-heidelberg.de/fwhb/tasso1745</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_131" resp="#awilfing" cert="high">
                <title type="main">La fiancée</title>
@@ -4846,11 +4851,12 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10097934?page=6,7</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_476" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_476" resp="#awilfing" cert="high">
                <title type="main">Mes souvenirs</title>
                <author ref="#hsl_person_id_808">
                   <persName>Escudier, Léon</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/bub_gb_mLIm2U3YOIIC/page/n5/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_477" resp="#awilfing" cert="high">
                <title type="main">Meyerbeer et son temps</title>
@@ -5166,12 +5172,17 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4280631-8</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10109174?page=4,5</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_514" resp="#awilfing" cert="medium">
-               <title type="main">Robin Hood</title>
+            <bibl xml:id="hsl_work_id_514" resp="#awilfing" cert="high">
+               <title type="main">Robin Hood, op. 34</title>
                <author ref="#hsl_person_id_916">
                   <persName>Dietrich, Albert Hermann</persName>
                </author>
+               <author ref="#hsl_person_id_5261">
+                  <persName>Mosen, Reinhard</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_456">Bruder Tuck</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7758386-3</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Robin_Hood,_Op.34_(Dietrich,_Albert_Hermann)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_515" resp="#awilfing" cert="high">
                <title type="main">Rolandslied</title>
@@ -9371,7 +9382,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300156634</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ein_Heldenleben,_Op.40_(Strauss,_Richard)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_995" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_995" resp="#awilfing" cert="high">
                <title type="main">Richard Strauß. Eine monographische Skizze</title>
                <author ref="#hsl_person_id_1586">
                   <persName>Brecher, Gustav</persName>
@@ -10615,7 +10626,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300073909</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Opernball_(Heuberger%2C_Richard)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1128" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1128" resp="#awilfing" cert="high">
                <title type="main">Niniche</title>
                <author ref="#hsl_person_id_1747">
                   <persName>Hennequin, Alfred</persName>
@@ -10623,6 +10634,7 @@
                <author ref="#hsl_person_id_1748">
                   <persName>Millaud, Albert</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k1185089x.image</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1129" resp="#awilfing" cert="high">
                <title type="main">Max et Thécla / Les Piccolomini, op. 12 Nr. 2</title>
@@ -11096,7 +11108,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1123217750</idno>
                <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=zet</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1178" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1178" resp="#awilfing" cert="high">
                <title type="main">Ratbold</title>
                <author ref="#hsl_person_id_1819">
                   <persName>Becker, Reinhold</persName>
@@ -12665,11 +12677,16 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300525079</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Agrippina,_HWV_6_(Handel,_George_Frideric)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1351" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1351" resp="#awilfing" cert="high">
                <title type="main">Niobe, regina di Tebe</title>
                <author ref="#hsl_person_id_2260">
                   <persName>Steffano, Agostino</persName>
                </author>
+               <author ref="#hsl_person_id_5262">
+                  <persName>Orlandi, Luigi</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1065181876</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Niobe_Regina_di_Tebe_(Steffani%2C_Agostino)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1352" resp="#awilfing" cert="high">
                <title type="main">Die Wahlverwandtschaften</title>
@@ -13495,7 +13512,7 @@
                   <persName>Vockner, Josef</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_1444" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1444" resp="#awilfing" cert="high">
                <title type="main">Raoul Koczalski. Eine Skizze</title>
                <author ref="#hsl_person_id_2454">
                   <persName>Vogel, Bernhard</persName>
@@ -14289,9 +14306,12 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Deutsches_Monument_Ludwigs_des_Ungl%C3%BCcklichen_(Paradis%2C_Maria_Theresia_von)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1530" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1530" resp="#awilfing" cert="high">
                <title type="main">Österreich über Alles. Eine kleine vaterländische Szene mit Chören</title>
                <title type="alternative">Oesterreich über Alles</title>
+               <author ref="#hsl_person_id_1966">
+                  <persName>Müller, Wenzel</persName>
+               </author>
                <author ref="#hsl_person_id_3451">
                   <persName>Perinet, Joachim</persName>
                </author>
@@ -17535,12 +17555,12 @@
                <name type="character" ref="#hsl_person_id_3281">Raoul d'Harmental</name>
                <name type="character" ref="#hsl_person_id_3287">Bathilde</name>
                <name type="character" ref="#hsl_person_id_3288">Roquefinette</name>
-               <name type="character" ref="#hsl_person_id_3289">Abbé Brigault</name>
+               <name type="character" ref="#hsl_person_id_3289">Abbé Brigaud</name>
                <name type="character" ref="#hsl_person_id_3290">Buvat</name>
                <name type="character" ref="#hsl_person_id_3308">Duchesse du Maine</name>
                <name type="character" ref="#hsl_person_id_3310">Régent</name>
                <name type="character" ref="#hsl_person_id_3311">Madame Denis</name>
-               <name type="character" ref="#hsl_person_id_3316">Ravane</name>
+               <name type="character" ref="#hsl_person_id_3316">Ravanne</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1136800786</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_chevalier_d'Harmental_(Messager%2C_Andr%C3%A9)</idno>
             </bibl>
@@ -17924,7 +17944,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300047819</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_No.13%2C_Op.106_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1954" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_1954" resp="#awilfing" cert="high">
                <title type="main">Rosmersholm</title>
                <author ref="#hsl_person_id_1586">
                   <persName>Brecher, Gustav</persName>
@@ -18297,7 +18317,7 @@
                   <persName>Bach, Johann Sebastian</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2000" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2000" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello in a-Moll</title>
                <author ref="#hsl_person_id_1544">
                   <persName>Preyer, Gottfried von</persName>
@@ -18461,11 +18481,12 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1070114499</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ouverture_zu_Medea%2C_Op.22_(Bargiel%2C_Woldemar)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2020" resp="#awilfing" cert="medium">
-               <title type="main">Notturno für Klavier Nr. 3 in As-dur</title>
+            <bibl xml:id="hsl_work_id_2020" resp="#awilfing" cert="high">
+               <title type="main">Quintett für 2 Violinen, Viola, Cello und Klavier in As-Dur, H34</title>
                <author ref="#hsl_person_id_3382">
                   <persName>Field, John</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300565895</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2023" resp="#awilfing" cert="high">
                <title type="main">Sonate für Violine und Klavier Nr. 2 in A-Dur, op. 78</title>
@@ -18541,7 +18562,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1117841332</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Blanche_de_Provence_(Cherubini%2C_Luigi)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2034" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2034" resp="#awilfing" cert="high">
                <title type="main">Movimento perpetuo</title>
                <author ref="#hsl_person_id_3349">
                   <persName>Sivori, Camillo</persName>
@@ -18616,11 +18637,15 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/theaterkritiken01laubgoog/page/n168/mode/2up</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2046" resp="#awilfing" cert="medium">
-               <title type="main">Memoiren meines Lebens</title>
+            <bibl xml:id="hsl_work_id_2046" resp="#awilfing" cert="high">
+               <title type="main">Memoiren meines Lebens. Gefundenes und Empfundenes, Erlebtes und Erstrebtes</title>
                <author ref="#hsl_person_id_376">
                   <persName>Castelli, Ignaz Franz</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10068938?page=6,7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10068939?page=6,7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10062294?page=2,3</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10062295?page=2,3</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2047" resp="#awilfing" cert="high">
                <title type="main">Ein Sommernachtstraum, MWV M 13 (Schauspielmusik)</title>
@@ -20619,7 +20644,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4426867-1</idno>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/enochardentrad00tenn/page/n1/mode/2up</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2278" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2278" resp="#awilfing" cert="high">
                <title type="main">Nächtliche Werbung</title>
                <title type="alternative">Ein nächtliches Abenteuer</title>
                <author ref="#hsl_person_id_3736">
@@ -21668,12 +21693,14 @@
                   <persName>Schachner, Joseph Rudolph</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2403" resp="#awilfing" cert="medium">
-               <title type="main">Mose</title>
+            <bibl xml:id="hsl_work_id_2403" resp="#awilfing" cert="high">
+               <title type="main">Mose, op. 10</title>
                <title type="alternative">Moses</title>
                <author ref="#hsl_person_id_175">
                   <persName>Marx, Adolf Bernhard</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4452647-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Mose_(Marx%2C_Adolf_Bernhard)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2404" resp="#awilfing" cert="high">
                <title type="main">Jephtha und seine Tochter</title>
@@ -22492,8 +22519,14 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141513</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Rondo_in_B_minor,_D.895_(Schubert,_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2508" resp="#awilfing" cert="medium">
-               <title type="main">Sonate in C-Dur, D812</title>
+            <bibl xml:id="hsl_work_id_2508" resp="#awilfing" cert="high">
+               <title type="main">Sonate für Klavier zu 4 Händen in C-Dur, D812</title>
+               <title type="alternative">Grand Duo</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141955</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Sonata_for_Piano_Duet_in_C_major,_D.812_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2509" resp="#awilfing" cert="high">
                <title type="main">Sonate für Violine und Klavier Nr. 10 in G-Dur, op. 96</title>
@@ -24085,7 +24118,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4847061-2</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2694" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2694" resp="#awilfing" cert="high">
                <title type="main">Mozarts letzte Stunden</title>
                <title type="alternative">Mozart’s letzte Stunden</title>
                <author ref="#hsl_person_id_4291">
@@ -24992,7 +25025,7 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Suite_in_E_minor,_RCT_2_(Rameau,_Jean-Philippe)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2798" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2798" resp="#awilfing" cert="high">
                <title type="main">Ouvertüre zur Zauberflöte</title>
                <title type="alternative">Transkription</title>
                <author ref="#hsl_person_id_3673">
@@ -25013,7 +25046,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1192378342</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2801" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2801" resp="#awilfing" cert="high">
                <title type="main">Romanze für Violine und Klavier</title>
                <author ref="#hsl_person_id_2461">
                   <persName>Seling, Emil</persName>
@@ -25701,7 +25734,7 @@
                   <persName>Barjanski, Adolf</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_2889" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2889" resp="#awilfing" cert="high">
                <title type="main">Ostdeutsche Post</title>
                <author ref="#hsl_person_id_4546">
                   <persName>Kuranda, Ignaz</persName>
@@ -26068,7 +26101,7 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/ottonicolaistage00nico/page/n3/mode/2up</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2933" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_2933" resp="#awilfing" cert="high">
                <title type="main">Reisende Musikerinnen. Tagebuchblätter</title>
                <author ref="#hsl_person_id_4605">
                   <persName>Delia, Max</persName>
@@ -26620,8 +26653,8 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://books.google.at/books?id=PBxpAAAAcAAJ&amp;hl=de&amp;pg=PA170#v=onepage&amp;q&amp;f=false</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3000" resp="#awilfing" cert="medium">
-               <title type="main">Romeo oder Bismarck (Anton Notenquetschers neue Humoresken)</title>
+            <bibl xml:id="hsl_work_id_3000" resp="#awilfing" cert="high">
+               <title type="main">Romeo oder Bismarck</title>
                <author ref="#hsl_person_id_1675">
                   <persName>Moszkowski, Alexander</persName>
                </author>
@@ -27112,7 +27145,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4313425-7</idno>
                <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k6125805c.r</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3055" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3055" resp="#awilfing" cert="high">
                <title type="main">Mater Dolorosa</title>
                <author ref="#hsl_person_id_4705">
                   <persName>Vecellio, Tiziano</persName>
@@ -27368,17 +27401,24 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Die_Hausmusik_in_Deutschland_in_dem_16_1/mLzGHBNBBxwC?hl=de&amp;gbpv=1&amp;pg=PP5&amp;printsec=frontcover</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3084" resp="#awilfing" cert="medium">
-               <title type="main">Minnesänger. Deutsche Liederdichter des zwölften, dreizehnten und vierzehnten Jahrhunderts</title>
+            <bibl xml:id="hsl_work_id_3084" resp="#awilfing" cert="high">
+               <title type="main">Minnesänger. Deutsche Liederdichter des zwölften, dreizehnten und vierzehnten Jahrhunderts, aus allen bekannten Handschriften und früheren Drucken gesammelt und berichtigt, mit den Lesarten derselben, Geschichte des Lebens der Dichter und ihrer Werke, Sangweisen der Lieder, Reimverzeichnis der Anfänge, und Abbildungen sämmtlicher Handschriften</title>
                <author ref="#hsl_person_id_4737">
                   <persName>Hagen, Friedrich Heinrich von der</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10057557?page=,1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10057558?page=,1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10801198?page=2,3</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10801199?page=2,3</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10801200?page=10,11</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3085" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3085" resp="#awilfing" cert="high">
                <title type="main">Orgel oder Instrument Tabulatur</title>
                <author ref="#hsl_person_id_4740">
                   <persName>Ammerbach, Elias Nikolaus</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1058428934</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Orgel_oder_Instrument_Tabulatur_(Ammerbach%2C_Elias_Nikolaus)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3087" resp="#awilfing" cert="high">
                <title type="main">The Bonny Earl of Murray</title>
@@ -28310,7 +28350,7 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_statue_(Reyer,_Ernest)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3199" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3199" resp="#awilfing" cert="high">
                <title type="main">Piratenchor</title>
                <author ref="#hsl_person_id_4894">
                   <persName>Otto, J.</persName>
@@ -30119,7 +30159,7 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/4_Ges%C3%A4nge,_Op.74_(Taubert,_Wilhelm)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3406" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3406" resp="#awilfing" cert="high">
                <title type="main">Romeo und Julie</title>
                <author ref="#hsl_person_id_3976">
                   <persName>Benda, Georg</persName>
@@ -30127,16 +30167,16 @@
                <author ref="#hsl_person_id_4044">
                   <persName>Gotter, Friedrich Wilhelm</persName>
                </author>
-               <author ref="#hsl_person_id_4826">
-                  <persName>Weiße, Christian Felix</persName>
-               </author>
                <name type="character" ref="#hsl_person_id_5117">Julie</name>
                <name type="character" ref="#hsl_person_id_5118">Capellet</name>
                <name type="character" ref="#hsl_person_id_5119">Laura</name>
                <name type="character" ref="#hsl_person_id_5122">Romeo Montecchi</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300434979</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Romeo_und_Julie_(Benda%2C_Georg)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3407" resp="#awilfing" cert="high">
                <title type="main">Giulietta e Romeo</title>
+               <title type="alternative">Romeo und Julie</title>
                <author ref="#hsl_person_id_1270">
                   <persName>Zingarelli, Nicola Antonio</persName>
                </author>
@@ -31071,12 +31111,14 @@
                   <persName>Herbeck, Johann von</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3525" resp="#awilfing" cert="medium">
-               <title type="main">Quartett für 2 Violinen, Viola, Violoncello, Hob 3 13-18. Nr. 5</title>
-               <title type="alternative">Serenadenquartett</title>
+            <bibl xml:id="hsl_work_id_3525" resp="#awilfing" cert="high">
+               <title type="main">Quartett für 2 Violinen, Viola, Violoncello in A-Dur, Hob. III:18</title>
+               <title type="alternative">langzeitig Haydn zugeschrieben</title>
                <author ref="#hsl_person_id_5209">
                   <persName>Hoffstetter, Roman</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1064597165</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_in_A_major%2C_Hob.III:18_(Hoffstetter%2C_Roman)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3526" resp="#awilfing" cert="high">
                <title type="main">Violinsonate</title>
@@ -31294,7 +31336,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300093330</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Es_muss_ein_Wunderbares_sein,_S.314_(Liszt,_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3557" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3557" resp="#awilfing" cert="high">
                <title type="main">Frühlingsglaube</title>
                <author ref="#hsl_person_id_3150">
                   <persName>Uhlig, Theodor</persName>
@@ -31390,6 +31432,18 @@
                   <persName>Billings, William</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.loc.gov/item/2008581404/</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3570" resp="#awilfing" cert="high">
+               <title type="main">The Beggar's Opera</title>
+               <title type="alternative">Die Bettler-Oper</title>
+               <author ref="#hsl_person_id_3244">
+                  <persName>Gay, John</persName>
+               </author>
+               <author ref="#hsl_person_id_5256">
+                  <persName>Pepusch, John Christopher</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300294662</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/The_Beggar's_Opera_(Pepusch%2C_John_Christopher)</idno>
             </bibl>
       </listBibl>
       </body>
