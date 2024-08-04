@@ -2294,7 +2294,7 @@
                <name type="character" ref="#hsl_person_id_840">Euryanthe von Savoyen</name>
                <name type="character" ref="#hsl_person_id_842">Emma</name>
                <name type="character" ref="#hsl_person_id_843">Udo</name>
-               <name type="character" ref="#hsl_person_id_1074">Berta</name>
+               <name type="character" ref="#hsl_person_id_1074">Bertha</name>
                <name type="character" ref="#hsl_person_id_1082">Rudolph</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300171447</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Euryanthe,_Op.81_(Weber,_Carl_Maria_von)</idno>
@@ -3239,7 +3239,6 @@
                <name type="character" ref="#hsl_person_id_607">Calchas</name>
                <name type="character" ref="#hsl_person_id_627">Ménélas</name>
                <name type="character" ref="#hsl_person_id_641">Pâris</name>
-               <name type="character" ref="#hsl_person_id_676">Zoloé</name>
                <name type="character" ref="#hsl_person_id_3930">Ajax deuxième</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/122537412X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_belle_H%C3%A9l%C3%A8ne_(Offenbach%2C_Jacques)</idno>
@@ -4633,7 +4632,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_2293">Adina</name>
                <name type="character" ref="#hsl_person_id_2294">Nemorino</name>
-               <name type="character" ref="#hsl_person_id_2295">Dottore Dulcamara</name>
+               <name type="character" ref="#hsl_person_id_2295">Dottor Dulcamara</name>
                <name type="character" ref="#hsl_person_id_2296">Belcore</name>
                <name type="character" ref="#hsl_person_id_2298">Gianetta</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300045492</idno>
@@ -5490,7 +5489,7 @@
                <author ref="#hsl_person_id_978">
                   <persName>Leoncavallo, Ruggiero</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_2771">Alessandro Schaunard</name>
+               <name type="character" ref="#hsl_person_id_2771">Schaunard</name>
                <name type="character" ref="#hsl_person_id_2772">Gaudenzio</name>
                <name type="character" ref="#hsl_person_id_2773">Musette</name>
                <name type="character" ref="#hsl_person_id_2774">Marcello</name>
@@ -31444,6 +31443,20 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300294662</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/The_Beggar's_Opera_(Pepusch%2C_John_Christopher)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3573" resp="#awilfing" cert="medium">
+               <title type="main">Tannhäuser und der Sängerkrieg auf Wartburg. O du mein holder Abendstern</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1167963512</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3574" resp="#awilfing" cert="medium">
+               <title type="main">Meine Erinnerungen an Felix Mendelssohn-Bartholdy und seine Briefe an mich</title>
+               <author ref="#hsl_person_id_58">
+                  <persName>Devrient, Eduard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7675644-0</idno>
             </bibl>
       </listBibl>
       </body>
