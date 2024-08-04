@@ -1714,6 +1714,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_184">Hans Heiling, op. 80</bibl>
                      <bibl n="hsl_work_id_3574">Meine Erinnerungen an Felix Mendelssohn-Bartholdy und seine Briefe an mich</bibl>
+                     <bibl n="hsl_work_id_3575">Geschichte der deutschen Schauspielkunst</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_59" resp="#awilfing" cert="high">
@@ -2677,6 +2678,7 @@
                      <bibl n="hsl_work_id_3256">This is the day which the Lord hath made, HWV262</bibl>
                      <bibl n="hsl_work_id_3257">Sing unto God, ye kingdoms of the earth, HWV263</bibl>
                      <bibl n="hsl_work_id_3295">Alexander’s Feast; or, the Power of Music, HWV75</bibl>
+                     <bibl n="hsl_work_id_3578">Funeral Anthem for Queen Caroline, HWV 264</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_109" resp="#awilfing" cert="medium">
@@ -11177,6 +11179,7 @@
                      <bibl n="hsl_work_id_2859">Rothkäppchen</bibl>
                      <bibl n="hsl_work_id_2860">Aschenputtel</bibl>
                      <bibl n="hsl_work_id_2861">Sneewittchen (Schneeweißchen)</bibl>
+                     <bibl n="hsl_work_id_3576">König Drosselbart</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_689" resp="#awilfing" cert="high">
@@ -13530,6 +13533,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q711323</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_22">Pâquerette</bibl>
+                     <bibl n="hsl_work_id_3579">Fiamma d'amore</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_907" resp="#awilfing" cert="high">
@@ -15602,6 +15606,9 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116039191</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q880875</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_B/Bagge_Selmar.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3577">Deutsche Musik-Zeitung</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1063" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -27232,6 +27239,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1278">La Giocoliera e Un'avventura di Carnevale</bibl>
                      <bibl n="hsl_work_id_2024">Fiammella oder: die Macht der Hölle</bibl>
+                     <bibl n="hsl_work_id_3580">Carnevals-Abenteuer in Paris</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1973" resp="#awilfing" cert="high">
@@ -40779,6 +40787,7 @@
                      <bibl n="hsl_work_id_2859">Rothkäppchen</bibl>
                      <bibl n="hsl_work_id_2860">Aschenputtel</bibl>
                      <bibl n="hsl_work_id_2861">Sneewittchen (Schneeweißchen)</bibl>
+                     <bibl n="hsl_work_id_3576">König Drosselbart</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3012" role="fictional" resp="#awilfing" cert="medium">
@@ -61564,9 +61573,17 @@
                </person>
                <person xml:id="hsl_person_id_4759" resp="#awilfing" cert="medium">
                   <persName type="main">
-                     <forename>Guglielma</forename>
+                     <forename>Wilhelmine</forename>
                      <surname>Salvioni</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Guglielma</surname>
+                  </persName>
+                  <birth>1842-</birth>
+                  <death>1842-</death>
+                  <occupation style="background-color: darker-gray;">Tänzerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1133511368</idno>
                </person>
                <person xml:id="hsl_person_id_4760" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -66744,6 +66761,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/103952667</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2547">Nena Sahib</bibl>
+                     <bibl n="hsl_work_id_3580">Carnevals-Abenteuer in Paris</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_5232" resp="#awilfing" cert="high">
@@ -66841,6 +66859,9 @@
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <occupation style="background-color: brown;">Geiger</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/120442779</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3579">Fiamma d'amore</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_5240" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -67173,6 +67194,198 @@
                   <death>1729-1785/86</death>
                   <occupation style="background-color: light-orange;">Philosoph</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118580744</idno>
+               </person>
+               <person xml:id="hsl_person_id_5270" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Karl Wilhelm Ludwig</forename>
+                     <surname>Heyse</surname>
+                  </persName>
+                  <birth>1797-1855</birth>
+                  <death>1797-1855</death>
+                  <occupation style="background-color: light-pink;">Lehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118774360</idno>
+               </person>
+               <person xml:id="hsl_person_id_5271" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>König Drosselbart</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3576">König Drosselbart</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5272" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Dorothea</forename>
+                     <surname>Grimm</surname>
+                  </persName>
+                  <birth>1793-1867</birth>
+                  <death>1793-1867</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116842857</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3576">König Drosselbart</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5273" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Ludowine Freiin von</forename>
+                     <surname>Haxthausen</surname>
+                  </persName>
+                  <birth>1794-1872</birth>
+                  <death>1794-1872</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11655245X</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3576">König Drosselbart</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5274" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Hans</forename>
+                     <surname>Kohlhase</surname>
+                  </persName>
+                  <birth>1500-1540</birth>
+                  <death>1500-1540</death>
+                  <occupation style="background-color: dark-gray;">Kaufmann</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118564641</idno>
+               </person>
+               <person xml:id="hsl_person_id_5275" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Andreas</forename>
+                     <surname>Hofer</surname>
+                  </persName>
+                  <birth>1767-1810</birth>
+                  <death>1767-1810</death>
+                  <occupation style="background-color: dark-cyan;">Freiheitskämpfer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118552325</idno>
+               </person>
+               <person xml:id="hsl_person_id_5276" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Kurprinzessin Charlotte</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5277" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5278" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Pantalon</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_923">Bonsoir, Monsieur Pantalon!</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5279" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Sprühfeuer</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3579">Fiamma d'amore</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5280" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Amor</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3579">Fiamma d'amore</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5281" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Sternhold</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3579">Fiamma d'amore</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5282" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Prinzessin Jolanda</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3579">Fiamma d'amore</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5283" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Merkur</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3579">Fiamma d'amore</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5284" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Germont</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_981">La Dame aux camélias</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5285" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Reisner</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>unklarer Bezug</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5286" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Virgilio</forename>
+                     <surname>Calori</surname>
+                  </persName>
+                  <birth>1832-1874</birth>
+                  <death>1832-1874</death>
+                  <occupation style="background-color: orange;">Tänzer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1034406485</idno>
+               </person>
+               <person xml:id="hsl_person_id_5287" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Alphons</forename>
+                     <surname>Regenspurger</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1329676149</idno>
+               </person>
+               <person xml:id="hsl_person_id_5288" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Dr. Pancrazio</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_923">Bonsoir, Monsieur Pantalon!</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5289" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Lelio</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_923">Bonsoir, Monsieur Pantalon!</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5290" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Columbine</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_923">Bonsoir, Monsieur Pantalon!</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
