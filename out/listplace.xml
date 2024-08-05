@@ -340,7 +340,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q46</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4015701-5</idno>
                </place>
-               <place xml:id="hsl_place_id_20" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_20" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Frankfurt a.M.</placeName>
                   </settlement>
@@ -717,7 +717,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1085</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4076310-9</idno>
                </place>
-               <place xml:id="hsl_place_id_46" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_46" resp="#awilfing" cert="high">
                   <placeName type="main">Preußen</placeName>
                </place>
                <place xml:id="hsl_place_id_47" resp="#awilfing" cert="high">
@@ -1233,7 +1233,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2780188/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q126321</idno>
                </place>
-               <place xml:id="hsl_place_id_97" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_97" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Schweiz</placeName>
                      <placeName type="alternative">Helvetien</placeName>
@@ -2096,7 +2096,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2861650/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q116874675</idno>
                </place>
-               <place xml:id="hsl_place_id_175" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_175" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Miṣr</placeName>
                      <placeName type="alternative">Ägypten / Egypten</placeName>
@@ -3991,7 +3991,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q237</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4062404-3</idno>
                </place>
-               <place xml:id="hsl_place_id_335" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_335" resp="#awilfing" cert="high">
                   <settlement type="L">
                      <placeName type="main">Silesia</placeName>
                      <placeName type="alternative">Schlesien</placeName>
@@ -4005,7 +4005,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q81720</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4052678-1</idno>
                </place>
-               <place xml:id="hsl_place_id_336" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_336" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Potsdam</placeName>
                   </settlement>
@@ -6793,6 +6793,18 @@
                <place xml:id="hsl_place_id_601" resp="#awilfing" cert="high">
                   <placeName type="main">Louisiana</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/4331987/</idno>
+               </place>
+               <place xml:id="hsl_place_id_602" resp="#awilfing" cert="high">
+                  <placeName type="main">Cincinnati</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/4508722/</idno>
+               </place>
+               <place xml:id="hsl_place_id_603" resp="#awilfing" cert="high">
+                  <placeName type="main">St. Louis</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/4407066/</idno>
+               </place>
+               <place xml:id="hsl_place_id_604" resp="#awilfing" cert="high">
+                  <placeName type="main">Plymouth</placeName>
+                     <placeName type="alternative">unklarer Bezug</placeName>
                </place>
             </listPlace>
          </div>

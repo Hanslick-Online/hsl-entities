@@ -156,12 +156,15 @@
             </bibl>
             <bibl xml:id="hsl_work_id_8" resp="#awilfing" cert="high">
                <title type="main">Ein Feldlager in Schlesien</title>
-               <title type="alternative">Das Feldlager in / von Schlesien</title>
+               <title type="alternative">Das Feldlager in / von Schlesien; Vielka</title>
                <author ref="#hsl_person_id_182">
                   <persName>Meyerbeer, Giacomo</persName>
                </author>
-               <author ref="#hsl_person_id_284">
-                  <persName>Scribe, Eugène</persName>
+               <author ref="#hsl_person_id_911">
+                  <persName>Birch-Pfeiffer, Charlotte</persName>
+               </author>
+               <author ref="#hsl_person_id_2186">
+                  <persName>Rellstab, Ludwig</persName>
                </author>
                <name type="character" ref="#hsl_person_id_654">Saldorf</name>
                <name type="character" ref="#hsl_person_id_3209">Vielka</name>
@@ -1644,12 +1647,12 @@
                <author ref="#hsl_person_id_284">
                   <persName>Scribe, Eugène</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_1147">Péters Michaeloff (Peter der Große von Russland)</name>
+               <name type="character" ref="#hsl_person_id_1147">Peters Michaeloff</name>
                <name type="character" ref="#hsl_person_id_3210">Catherine</name>
                <name type="character" ref="#hsl_person_id_3212">Prascovia</name>
                <name type="character" ref="#hsl_person_id_3213">Gritzenko</name>
                <name type="character" ref="#hsl_person_id_3214">Danilowitz</name>
-               <name type="character" ref="#hsl_person_id_3215">George Skawronski</name>
+               <name type="character" ref="#hsl_person_id_3215">Georges Skavronski</name>
                <name type="character" ref="#hsl_person_id_3216">Konrad</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300104200</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/L%27%C3%A9toile_du_nord_(Meyerbeer,_Giacomo)</idno>
@@ -1993,8 +1996,6 @@
                </author>
                <name type="character" ref="#hsl_person_id_653">Rosina</name>
                <name type="character" ref="#hsl_person_id_2284">Berta</name>
-               <name type="character" ref="#hsl_person_id_2297">Don Bartolo</name>
-               <name type="character" ref="#hsl_person_id_2806">Don Basilio</name>
                <name type="character" ref="#hsl_person_id_2807">Figaro</name>
                <name type="character" ref="#hsl_person_id_2812">Conte d'Almaviva</name>
                <name type="character" ref="#hsl_person_id_2814">Dottor Malatesta</name>
@@ -7016,6 +7017,7 @@
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
                <name type="character" ref="#hsl_person_id_2337">Brakkenburg</name>
+               <name type="character" ref="#hsl_person_id_3291">Clärchen</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4191697-9</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb00073577?page=2,3</idno>
             </bibl>
@@ -9532,11 +9534,15 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Concerto_No.2%2C_Op.21_(Chopin%2C_Fr%C3%A9d%C3%A9ric)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1012" resp="#awilfing" cert="high">
-               <title type="main">Toccata und Fuge</title>
-               <title type="alternative">unklarer Bezug</title>
+               <title type="main">Toccata und Fuge in F-Dur für Orchester, BWV540</title>
+               <title type="alternative">Bearbeitung</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
+               <author ref="#hsl_person_id_74">
+                  <persName>Esser, Heinrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300010648</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1013" resp="#awilfing" cert="high">
                <title type="main">St. François d'Assise: La prédication aux oiseaux für Klavier, S175 Nr. 1</title>
@@ -13671,18 +13677,6 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300096488</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Undine_(Lortzing%2C_Albert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1463" resp="#awilfing" cert="high">
-               <title type="main">Vielka</title>
-               <title type="alternative">Ein Feldlager in Schlesien</title>
-               <author ref="#hsl_person_id_182">
-                  <persName>Meyerbeer, Giacomo</persName>
-               </author>
-               <author ref="#hsl_person_id_911">
-                  <persName>Birch-Pfeiffer, Charlotte</persName>
-               </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1030489696</idno>
-               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ein_Feldlager_in_Schlesien_(Meyerbeer,_Giacomo)</idno>
-            </bibl>
             <bibl xml:id="hsl_work_id_1464" resp="#awilfing" cert="high">
                <title type="main">Musikerbriefe aus fünf Jahrhunderten</title>
                <title type="alternative">Künstlerbriefe</title>
@@ -17402,7 +17396,6 @@
                <author ref="#hsl_person_id_100">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_3291">Clärchen</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015127</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Egmont,_Op.84_(Beethoven,_Ludwig_van)</idno>
             </bibl>
@@ -17419,7 +17412,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1891" resp="#awilfing" cert="high">
-               <title type="main">Maria Theresia mit dem kleinen Joseph auf dem Arm</title>
+               <title type="main">Maria Theresia mit dem kleinen Joseph auf dem Arme</title>
                <author ref="#hsl_person_id_3207">
                   <persName>Fragonard, Alexandre Evariste</persName>
                </author>
@@ -31627,6 +31620,17 @@
                <author ref="#hsl_person_id_717">
                   <persName>Ambros, August Wilhelm</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3601" resp="#awilfing" cert="high">
+               <title type="main">Des Adlers Horst</title>
+               <author ref="#hsl_person_id_5322">
+                  <persName>Schopenhauer, Johanna</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://play.google.com/books/reader?id=5Y7PAAAAMAAJ&amp;pg=GBS.PA188&amp;hl=de</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3602" resp="#awilfing" cert="high">
+               <title type="main">Dessauer Marsch</title>
+               <title type="alternative">Dessauermarsch</title>
             </bibl>
       </listBibl>
       </body>
