@@ -981,6 +981,10 @@
                      <bibl n="hsl_work_id_1218">I Capuleti e i Montecchi</bibl>
                      <bibl n="hsl_work_id_3135">Il pirata</bibl>
                      <bibl n="hsl_work_id_3206">Beatrice di Tenda</bibl>
+                     <bibl n="hsl_work_id_3605">Adelson e Salvini</bibl>
+                     <bibl n="hsl_work_id_3606">Bianca e Fernando</bibl>
+                     <bibl n="hsl_work_id_3608">La straniera</bibl>
+                     <bibl n="hsl_work_id_3609">Zaira</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_27" resp="#awilfing" cert="high">
@@ -4723,6 +4727,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_124">La serva padrona</bibl>
                      <bibl n="hsl_work_id_2440">Stabat Mater, P77</bibl>
+                     <bibl n="hsl_work_id_3612">L’olimpiade</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_212" resp="#awilfing" cert="medium">
@@ -10390,7 +10395,11 @@
                <person xml:id="hsl_person_id_613" role="fictional" resp="#awilfing" cert="medium">
                   <persName type="main">
                      <forename/>
-                     <surname>Lady Harriet Durham (Martha)</surname>
+                     <surname>Lady Harriet Durham</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Martha</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_89">Martha  oder Der Markt zu Richmond</bibl>
@@ -17488,8 +17497,8 @@
                      <forename/>
                      <surname>Ruckbeil-Hiller</surname>
                   </persName>
-                  <birth>9. / 20. Jhdt.</birth>
-                  <death>9. / 20. Jhdt.</death>
+                  <birth>19. / 20. Jhdt.</birth>
+                  <death>19. / 20. Jhdt.</death>
                   <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116673036</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q95663798</idno>
@@ -28076,6 +28085,8 @@
                      <bibl n="hsl_work_id_3107">Aureliano in Palmira</bibl>
                      <bibl n="hsl_work_id_3135">Il pirata</bibl>
                      <bibl n="hsl_work_id_3206">Beatrice di Tenda</bibl>
+                     <bibl n="hsl_work_id_3609">Zaira</bibl>
+                     <bibl n="hsl_work_id_3610">Giulietta e Romeo</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2027" resp="#awilfing" cert="medium">
@@ -29608,7 +29619,7 @@
                      <bibl n="hsl_work_id_2361">Tausend Jahre Thüringischer Geschichte. Ein Buch für Schule und Haus</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2132" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2132" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Friedrich Wilhelm</forename>
                      <surname>Riese</surname>
@@ -43569,6 +43580,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2564908</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_111">Le siège de Corinthe</bibl>
+                     <bibl n="hsl_work_id_3611">Norma ou l’infanticide</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3238" resp="#awilfing" cert="high">
@@ -52606,6 +52618,9 @@
                   <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119287439</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1353016</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3610">Giulietta e Romeo</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3978" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -67296,11 +67311,15 @@
                      <surname>Kurprinzessin Charlotte</surname>
                   </persName>
                </person>
-               <person xml:id="hsl_person_id_5277" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5277" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Daniel</forename>
+                     <surname>Schlesinger</surname>
                   </persName>
+                  <birth>1799-1839</birth>
+                  <death>1799-1839</death>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1190043807</idno>
                </person>
                <person xml:id="hsl_person_id_5278" role="fictional" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -67710,6 +67729,266 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3601">Des Adlers Horst</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5323" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Ureli Corelli</forename>
+                     <surname>Hill</surname>
+                  </persName>
+                  <birth>1802-1875</birth>
+                  <death>1802-1875</death>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1210444046</idno>
+               </person>
+               <person xml:id="hsl_person_id_5324" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Theodor</forename>
+                     <surname>Eisfeld</surname>
+                  </persName>
+                  <birth>1816-1882</birth>
+                  <death>1816-1882</death>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116435089</idno>
+               </person>
+               <person xml:id="hsl_person_id_5325" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Henry</forename>
+                     <surname>Smith</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>unklarer Bezug</surname>
+                  </persName>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+               </person>
+               <person xml:id="hsl_person_id_5326" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Woodbridge</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5327" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Lowell</forename>
+                     <surname>Mason</surname>
+                  </persName>
+                  <birth>1792-1872</birth>
+                  <death>1792-1872</death>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: red;">Bankier</occupation>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119064855</idno>
+               </person>
+               <person xml:id="hsl_person_id_5328" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>George J.</forename>
+                     <surname>Webb</surname>
+                  </persName>
+                  <birth>1803-1887</birth>
+                  <death>1803-1887</death>
+                  <occupation style="background-color: dark-blue;">Organist</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1507640</idno>
+               </person>
+               <person xml:id="hsl_person_id_5329" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>John Sullivan</forename>
+                     <surname>Dwight</surname>
+                  </persName>
+                  <birth>1813-1893</birth>
+                  <death>1813-1893</death>
+                  <occupation style="background-color: light-yellow;">Musikkritiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119011239</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3603">Dwight's Journal of Music</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5330" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Joseph</forename>
+                     <surname>Gungl</surname>
+                  </persName>
+                  <birth>1809-1889</birth>
+                  <death>1809-1889</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119392984</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_G/Gungl_Familie.xml</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_G/Gungl_Joseph_1809_1889.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5331" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Karl</forename>
+                     <surname>Echardt</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5332" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>August</forename>
+                     <surname>Fries</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5333" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Louis Antoine</forename>
+                     <surname>Jullien</surname>
+                  </persName>
+                  <birth>1812-1860</birth>
+                  <death>1812-1860</death>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/132813629</idno>
+               </person>
+               <person xml:id="hsl_person_id_5334" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Hans</forename>
+                     <surname>Balatka</surname>
+                  </persName>
+                  <birth>1825-1899</birth>
+                  <death>1825-1899</death>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: dark-green;">Journalist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/135854113</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_B/Balatka_Hans.xml</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_B/Balatka_Hans_1827_1899.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5335" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Eduard</forename>
+                     <surname>Sobolewski</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Sobolewsky</surname>
+                  </persName>
+                  <birth>1808-1872</birth>
+                  <death>1808-1872</death>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117459313</idno>
+               </person>
+               <person xml:id="hsl_person_id_5336" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Samuel</forename>
+                     <surname>Gorton</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Gordon</surname>
+                  </persName>
+                  <birth>1592-1677</birth>
+                  <death>1592-1677</death>
+                  <occupation style="background-color: yellow;">Siedler</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: dark-orange;">Sektierer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/135986524</idno>
+               </person>
+               <person xml:id="hsl_person_id_5337" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>M. C.</forename>
+                     <surname>Tyler</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5338" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Young</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5340" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Joseph Isnard Louis</forename>
+                     <surname>Desjardins</surname>
+                  </persName>
+                  <birth>1814-1894</birth>
+                  <death>1814-1894</death>
+               </person>
+               <person xml:id="hsl_person_id_5341" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Juste Adrien de</forename>
+                     <surname>La Fage</surname>
+                  </persName>
+                  <birth>1801-1862</birth>
+                  <death>1801-1862</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116644745</idno>
+               </person>
+               <person xml:id="hsl_person_id_5343" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Maddalena</forename>
+                     <surname>Fumaroli</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5344" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Angelo</forename>
+                     <surname>Brofferio</surname>
+                  </persName>
+                  <birth>1802-1866</birth>
+                  <death>1802-1866</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117632244</idno>
+               </person>
+               <person xml:id="hsl_person_id_5345" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Ugo</forename>
+                     <surname>Foscolo</surname>
+                  </persName>
+                  <birth>1778-1827</birth>
+                  <death>1778-1827</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118534483</idno>
+               </person>
+               <person xml:id="hsl_person_id_5346" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Henriette Clémentine</forename>
+                     <surname>Méric-Lalande</surname>
+                  </persName>
+                  <birth>1799-1867</birth>
+                  <death>1799-1867</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1328490440</idno>
+               </person>
+               <person xml:id="hsl_person_id_5347" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Charles Victor Prévôt d'</forename>
+                     <surname>Arlincourt</surname>
+                  </persName>
+                  <birth>1789-1856</birth>
+                  <death>1789-1856</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116340541</idno>
+               </person>
+               <person xml:id="hsl_person_id_5348" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Torrigiani,?</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5349" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Romeo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1218">I Capuleti e i Montecchi</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5350" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Giuditta</forename>
+                     <surname>Grisi</surname>
+                  </persName>
+                  <birth>1805-1840</birth>
+                  <death>1805-1840</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1019729740</idno>
+               </person>
+               <person xml:id="hsl_person_id_5351" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Cinvenzio</forename>
+                     <surname>Negrini</surname>
+                  </persName>
+                  <birth>1807-1840</birth>
+                  <death>1807-1840</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1329200888</idno>
                </person>
             </listPerson>
          </div>

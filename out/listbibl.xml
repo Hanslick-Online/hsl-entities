@@ -1027,7 +1027,7 @@
                <author ref="#hsl_person_id_2132">
                   <persName>Riese, Friedrich Wilhelm</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_613">Lady Harriet Durham (Martha)</name>
+               <name type="character" ref="#hsl_person_id_613">Lady Harriet Durham</name>
                <name type="character" ref="#hsl_person_id_620">Lyonel</name>
                <name type="character" ref="#hsl_person_id_4538">Nancy (Julia)</name>
                <name type="character" ref="#hsl_person_id_4539">Plumkett</name>
@@ -11467,6 +11467,7 @@
                   <persName>Romani, Felice</persName>
                </author>
                <name type="character" ref="#hsl_person_id_5120">Lorenzo</name>
+               <name type="character" ref="#hsl_person_id_5349">Romeo</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300017812</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/I_Capuleti_e_i_Montecchi_(Bellini,_Vincenzo)</idno>
             </bibl>
@@ -31631,6 +31632,64 @@
             <bibl xml:id="hsl_work_id_3602" resp="#awilfing" cert="high">
                <title type="main">Dessauer Marsch</title>
                <title type="alternative">Dessauermarsch</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3603" resp="#awilfing" cert="high">
+               <title type="main">Dwight's Journal of Music</title>
+               <author ref="#hsl_person_id_5329">
+                  <persName>Dwight, John Sullivan</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4287083-5</idno>
+               <idno type="URL" subtype="Digitalisat">https://en.wikipedia.org/wiki/Dwight%27s_Journal_of_Music</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3605" resp="#awilfing" cert="medium">
+               <title type="main">Adelson e Salvini</title>
+               <author ref="#hsl_person_id_26">
+                  <persName>Bellini, Vincenzo</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3606" resp="#awilfing" cert="medium">
+               <title type="main">Bianca e Fernando</title>
+               <author ref="#hsl_person_id_26">
+                  <persName>Bellini, Vincenzo</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3608" resp="#awilfing" cert="medium">
+               <title type="main">La straniera</title>
+               <title type="alternative">Die Fremde</title>
+               <author ref="#hsl_person_id_26">
+                  <persName>Bellini, Vincenzo</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3609" resp="#awilfing" cert="medium">
+               <title type="main">Zaira</title>
+               <author ref="#hsl_person_id_26">
+                  <persName>Bellini, Vincenzo</persName>
+               </author>
+               <author ref="#hsl_person_id_2026">
+                  <persName>Romani, Felice</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3610" resp="#awilfing" cert="medium">
+               <title type="main">Giulietta e Romeo</title>
+               <author ref="#hsl_person_id_2026">
+                  <persName>Romani, Felice</persName>
+               </author>
+               <author ref="#hsl_person_id_3977">
+                  <persName>Vaccai, Nicola</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3611" resp="#awilfing" cert="medium">
+               <title type="main">Norma ou l’infanticide</title>
+               <author ref="#hsl_person_id_3237">
+                  <persName>Soumet, Alexandre</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3612" resp="#awilfing" cert="medium">
+               <title type="main">L’olimpiade</title>
+               <title type="alternative">Die Olympiade</title>
+               <author ref="#hsl_person_id_211">
+                  <persName>Pergolesi, Giovanni Battista</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>

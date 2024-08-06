@@ -3937,7 +3937,7 @@
                </place>
                <place xml:id="hsl_place_id_330" resp="#awilfing" cert="medium">
                   <settlement type="T">
-                     <placeName type="main">Alpen / Alpes / Alpi / Alpe</placeName>
+                     <placeName type="main">Alpen / Alpes / Alps / Alpi / Alpe</placeName>
                   </settlement>
                   <desc type="entity_type">mountain,hill,rock,...</desc>
                   <location type="coords">
@@ -6805,6 +6805,18 @@
                <place xml:id="hsl_place_id_604" resp="#awilfing" cert="high">
                   <placeName type="main">Plymouth</placeName>
                      <placeName type="alternative">unklarer Bezug</placeName>
+               </place>
+               <place xml:id="hsl_place_id_606" resp="#awilfing" cert="medium">
+                  <placeName type="main">Catania</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1903</idno>
+               </place>
+               <place xml:id="hsl_place_id_607" resp="#awilfing" cert="medium">
+                  <placeName type="main">Moltrasio</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q47403</idno>
+               </place>
+               <place xml:id="hsl_place_id_608" resp="#awilfing" cert="medium">
+                  <placeName type="main">Lago di Como</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15523</idno>
                </place>
             </listPlace>
          </div>
