@@ -212,7 +212,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q64</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4005728-8</idno>
                </place>
-               <place xml:id="hsl_place_id_10" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_10" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Braunschweig</placeName>
                   </settlement>
@@ -678,7 +678,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q41967</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4075560-5</idno>
                </place>
-               <place xml:id="hsl_place_id_43" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_43" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Österreich</placeName>
                      <placeName type="alternative">Oesterreich</placeName>
@@ -1247,7 +1247,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q39</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4053881-3</idno>
                </place>
-               <place xml:id="hsl_place_id_98" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_98" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Zürich</placeName>
                   </settlement>
@@ -1678,7 +1678,7 @@
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3036797/</idno>
                </place>
-               <place xml:id="hsl_place_id_138" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_138" resp="#awilfing" cert="high">
                   <settlement type="L">
                      <placeName type="main">Schwaben</placeName>
                   </settlement>
@@ -2709,7 +2709,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2931574/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q31987608</idno>
                </place>
-               <place xml:id="hsl_place_id_225" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_225" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Prater, Wien</placeName>
                   </settlement>
@@ -6817,6 +6817,17 @@
                <place xml:id="hsl_place_id_608" resp="#awilfing" cert="medium">
                   <placeName type="main">Lago di Como</placeName>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15523</idno>
+               </place>
+               <place xml:id="hsl_place_id_609" resp="#awilfing" cert="medium">
+                  <placeName type="main">Puteaux</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q234743</idno>
+               </place>
+               <place xml:id="hsl_place_id_610" resp="#awilfing" cert="medium">
+                  <placeName type="main">Wienfluss</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q702289</idno>
+               </place>
+               <place xml:id="hsl_place_id_611" resp="#awilfing" cert="high">
+                  <placeName type="main">Deutsch-Oesterreich</placeName>
                </place>
             </listPlace>
          </div>

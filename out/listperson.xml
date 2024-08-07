@@ -962,6 +962,9 @@
                      <bibl n="hsl_work_id_3327">Ah! Perfido, op. 65</bibl>
                      <bibl n="hsl_work_id_3408">Trio für Violine, Cello und Klavier in G-Dur, op. 1 Nr. 2</bibl>
                      <bibl n="hsl_work_id_3409">Trio für Violine, Cello und Klavier in c-Moll, op. 1 Nr. 3</bibl>
+                     <bibl n="hsl_work_id_3614">Klavierkonzert Nr. 1, C-Dur, op. 15</bibl>
+                     <bibl n="hsl_work_id_3615">Sonate für Klavier und Horn, op. 17</bibl>
+                     <bibl n="hsl_work_id_3616">Septett Es-Dur, op. 20</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_26" resp="#awilfing" cert="high">
@@ -1419,6 +1422,7 @@
                      <bibl n="hsl_work_id_3411">Intermezzo für Klavier in B-Dur, op. 76 Nr. 4</bibl>
                      <bibl n="hsl_work_id_3412">Intermezzo für Klavier in A-Dur, op. 76 Nr. 6</bibl>
                      <bibl n="hsl_work_id_3413">Intermezzo für Klavier in a-Moll, op. 76 Nr. 7</bibl>
+                     <bibl n="hsl_work_id_3617">Rinaldo, op. 50</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_42" resp="#awilfing" cert="high">
@@ -2432,6 +2436,7 @@
                      <bibl n="hsl_work_id_3498">3 Balladen für Singstimme und Klavier, op. 20</bibl>
                      <bibl n="hsl_work_id_3558">Meeres Stille, D216 (Chorfassung)</bibl>
                      <bibl n="hsl_work_id_3586">Mahomets Gesang</bibl>
+                     <bibl n="hsl_work_id_3617">Rinaldo, op. 50</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_101" resp="#awilfing" cert="high">
@@ -67989,6 +67994,131 @@
                   <birth>1807-1840</birth>
                   <death>1807-1840</death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1329200888</idno>
+               </person>
+               <person xml:id="hsl_person_id_5352" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Vittorio</forename>
+                     <surname>Alfieri</surname>
+                  </persName>
+                  <birth>1749-1803</birth>
+                  <death>1749-1803</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11864808X</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3613">Oreste</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5353" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Francesco</forename>
+                     <surname>Petrarca</surname>
+                  </persName>
+                  <birth>1304-1374</birth>
+                  <death>1304-1374</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118593234</idno>
+               </person>
+               <person xml:id="hsl_person_id_5354" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Pierre-Louis</forename>
+                     <surname>Lacretelle</surname>
+                  </persName>
+                  <birth>1751-1824</birth>
+                  <death>1751-1824</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117642924</idno>
+               </person>
+               <person xml:id="hsl_person_id_5356" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Auguste-Mathieu</forename>
+                     <surname>Panseron</surname>
+                  </persName>
+                  <birth>1795-1859</birth>
+                  <death>1795-1859</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/104151978</idno>
+               </person>
+               <person xml:id="hsl_person_id_5357" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Nicola</forename>
+                     <surname>Ivanoff</surname>
+                  </persName>
+                  <birth>1810-1880</birth>
+                  <death>1810-1880</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117247960</idno>
+               </person>
+               <person xml:id="hsl_person_id_5358" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Beatrice di Tenda</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3206">Beatrice di Tenda</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5359" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Filippo Maria Visconti</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Herzog</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3206">Beatrice di Tenda</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5360" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Walter</forename>
+                     <surname>Scott</surname>
+                  </persName>
+                  <birth>1771-1832</birth>
+                  <death>1771-1832</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118612409</idno>
+               </person>
+               <person xml:id="hsl_person_id_5361" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>François</forename>
+                     <surname>Ancelot</surname>
+                  </persName>
+                  <birth>1794-1854</birth>
+                  <death>1794-1854</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116303298</idno>
+               </person>
+               <person xml:id="hsl_person_id_5362" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Sebastian</forename>
+                     <surname>Mayer</surname>
+                  </persName>
+                  <birth>1773-1835</birth>
+                  <death>1773-1835</death>
+                  <occupation style="background-color: darker-orange;">Sänger</occupation>
+                  <occupation style="background-color: gray;">Regisseur</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/131895885</idno>
+               </person>
+               <person xml:id="hsl_person_id_5363" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Muzio</forename>
+                     <surname>Clementi</surname>
+                  </persName>
+                  <birth>1752-1832</birth>
+                  <death>1752-1832</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118676423</idno>
+               </person>
+               <person xml:id="hsl_person_id_5364" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Wilhelm</forename>
+                     <surname>Tschirch</surname>
+                  </persName>
+                  <birth>1818-1892</birth>
+                  <death>1818-1892</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/102571988</idno>
                </person>
             </listPerson>
          </div>

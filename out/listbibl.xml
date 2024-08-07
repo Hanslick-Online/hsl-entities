@@ -28413,6 +28413,8 @@
                <author ref="#hsl_person_id_2026">
                   <persName>Romani, Felice</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5358">Beatrice di Tenda</name>
+               <name type="character" ref="#hsl_person_id_5359">Filippo Maria Visconti</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300017790</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Beatrice_di_Tenda_(Bellini,_Vincenzo)</idno>
             </bibl>
@@ -31690,6 +31692,42 @@
                <author ref="#hsl_person_id_211">
                   <persName>Pergolesi, Giovanni Battista</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3613" resp="#awilfing" cert="medium">
+               <title type="main">Oreste</title>
+               <author ref="#hsl_person_id_5352">
+                  <persName>Alfieri, Vittorio</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7735329-8</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3614" resp="#awilfing" cert="medium">
+               <title type="main">Klavierkonzert Nr. 1, C-Dur, op. 15</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3615" resp="#awilfing" cert="medium">
+               <title type="main">Sonate für Klavier und Horn, op. 17</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3616" resp="#awilfing" cert="medium">
+               <title type="main">Septett Es-Dur, op. 20</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3617" resp="#awilfing" cert="high">
+               <title type="main">Rinaldo, op. 50</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300026706</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Rinaldo,_Op.50_(Brahms,_Johannes)</idno>
             </bibl>
       </listBibl>
       </body>
