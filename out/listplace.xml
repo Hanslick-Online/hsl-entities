@@ -653,7 +653,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3172394/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q49295418</idno>
                </place>
-               <place xml:id="hsl_place_id_41" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_41" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Weimar</placeName>
                   </settlement>
@@ -792,7 +792,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q22647</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4060974-1</idno>
                </place>
-               <place xml:id="hsl_place_id_53" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_53" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Magyarország</placeName>
                      <placeName type="alternative">Ungarn</placeName>
@@ -6828,6 +6828,39 @@
                </place>
                <place xml:id="hsl_place_id_611" resp="#awilfing" cert="high">
                   <placeName type="main">Deutsch-Oesterreich</placeName>
+               </place>
+               <place xml:id="hsl_place_id_612" resp="#awilfing" cert="high">
+                  <placeName type="main">Sevilla</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2510911/</idno>
+               </place>
+               <place xml:id="hsl_place_id_613" resp="#awilfing" cert="high">
+                  <placeName type="main"/>
+                     <placeName type="alternative">Venezuela</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3625428/</idno>
+               </place>
+               <place xml:id="hsl_place_id_614" resp="#awilfing" cert="medium">
+                  <placeName type="main">Augustinerkirche Wien</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q693869</idno>
+               </place>
+               <place xml:id="hsl_place_id_615" resp="#awilfing" cert="medium">
+                  <placeName type="main">Frankfurt a.O.</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4024</idno>
+               </place>
+               <place xml:id="hsl_place_id_616" resp="#awilfing" cert="medium">
+                  <placeName type="main">Appenzell</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q209270</idno>
+               </place>
+               <place xml:id="hsl_place_id_617" resp="#awilfing" cert="medium">
+                  <placeName type="main">Franken</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1444573</idno>
+               </place>
+               <place xml:id="hsl_place_id_618" resp="#awilfing" cert="medium">
+                  <placeName type="main">Schleswig-Holstein</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1194</idno>
+               </place>
+               <place xml:id="hsl_place_id_619" resp="#awilfing" cert="medium">
+                  <placeName type="main">Schloss Schönbrunn</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q131330</idno>
                </place>
             </listPlace>
          </div>
