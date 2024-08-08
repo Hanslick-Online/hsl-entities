@@ -5231,7 +5231,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1479</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4088072-2</idno>
                </place>
-               <place xml:id="hsl_place_id_436" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_436" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Coburg</placeName>
                   </settlement>
@@ -6834,17 +6834,16 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2510911/</idno>
                </place>
                <place xml:id="hsl_place_id_613" resp="#awilfing" cert="high">
-                  <placeName type="main"/>
-                     <placeName type="alternative">Venezuela</placeName>
+                  <placeName type="main">Venezuela</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3625428/</idno>
                </place>
                <place xml:id="hsl_place_id_614" resp="#awilfing" cert="medium">
                   <placeName type="main">Augustinerkirche Wien</placeName>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q693869</idno>
                </place>
-               <place xml:id="hsl_place_id_615" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_615" resp="#awilfing" cert="high">
                   <placeName type="main">Frankfurt a.O.</placeName>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4024</idno>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2925535/</idno>
                </place>
                <place xml:id="hsl_place_id_616" resp="#awilfing" cert="medium">
                   <placeName type="main">Appenzell</placeName>
@@ -6861,6 +6860,10 @@
                <place xml:id="hsl_place_id_619" resp="#awilfing" cert="medium">
                   <placeName type="main">Schloss Schönbrunn</placeName>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q131330</idno>
+               </place>
+               <place xml:id="hsl_place_id_620" resp="#awilfing" cert="high">
+                  <placeName type="main">Colchis</placeName>
+                     <placeName type="alternative">Kolchis</placeName>
                </place>
             </listPlace>
          </div>
