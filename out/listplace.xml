@@ -2270,7 +2270,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q100</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4007840-1</idno>
                </place>
-               <place xml:id="hsl_place_id_188" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_188" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Baltimore</placeName>
                   </settlement>
@@ -6864,6 +6864,25 @@
                <place xml:id="hsl_place_id_620" resp="#awilfing" cert="high">
                   <placeName type="main">Colchis</placeName>
                      <placeName type="alternative">Kolchis</placeName>
+               </place>
+               <place xml:id="hsl_place_id_621" resp="#awilfing" cert="high">
+                  <placeName type="main">Mississippi River</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/4333587/</idno>
+               </place>
+               <place xml:id="hsl_place_id_622" resp="#awilfing" cert="high">
+                  <placeName type="main">Le Havre</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3003796/</idno>
+               </place>
+               <place xml:id="hsl_place_id_623" resp="#awilfing" cert="high">
+                  <placeName type="main">Amiens</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3037854/</idno>
+               </place>
+               <place xml:id="hsl_place_id_624" resp="#awilfing" cert="medium">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_625" resp="#awilfing" cert="high">
+                  <placeName type="main">Washington</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/4140963/</idno>
                </place>
             </listPlace>
          </div>

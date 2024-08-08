@@ -769,7 +769,7 @@
                      <bibl n="hsl_work_id_1253">Richte mich, Gott, MWV B 46</bibl>
                      <bibl n="hsl_work_id_1707">Liebe und Wein, MWV G 26</bibl>
                      <bibl n="hsl_work_id_1860">Lieder ohne Worte</bibl>
-                     <bibl n="hsl_work_id_1988">Ouvertüre in C-Dur, MWV P 1</bibl>
+                     <bibl n="hsl_work_id_1988">Ouvertüre in C-Dur für Blasorchester, MWV P 1</bibl>
                      <bibl n="hsl_work_id_2047">Ein Sommernachtstraum, MWV M 13 (Schauspielmusik)</bibl>
                      <bibl n="hsl_work_id_2077">Abschied vom Walde, MWV F 20</bibl>
                      <bibl n="hsl_work_id_2502">Ouvertüre in C-Dur, MWV P 2</bibl>
@@ -990,6 +990,7 @@
                      <bibl n="hsl_work_id_3606">Bianca e Fernando</bibl>
                      <bibl n="hsl_work_id_3608">La straniera</bibl>
                      <bibl n="hsl_work_id_3609">Zaira</bibl>
+                     <bibl n="hsl_work_id_3643">Arie</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_27" resp="#awilfing" cert="high">
@@ -2802,7 +2803,7 @@
                      <bibl n="hsl_work_id_1773">Joseph Haydn's sämmtliche Quartette. Neue vollständige Ausgabe nach den Originalen revidirt</bibl>
                      <bibl n="hsl_work_id_1991">Symphonie in B-Dur</bibl>
                      <bibl n="hsl_work_id_1992">Symphonie in G-Dur</bibl>
-                     <bibl n="hsl_work_id_2009">Quartett in D-Dur</bibl>
+                     <bibl n="hsl_work_id_2009">Quartett für 2 Violinen, Viola und Cello in D-Dur</bibl>
                      <bibl n="hsl_work_id_2018">Trio für Violine, Cello und Klavier in E-Dur, Hob. XV:28</bibl>
                      <bibl n="hsl_work_id_2349">Konzert für Cello und Orchester</bibl>
                      <bibl n="hsl_work_id_2390">Orlando paladino, Hob. XXVIII:11</bibl>
@@ -2821,6 +2822,7 @@
                      <bibl n="hsl_work_id_3334">Symphonie in d-Moll, Hob. I:80</bibl>
                      <bibl n="hsl_work_id_3353">Quartett für 2 Violinen, Viola und Cello in G-Dur</bibl>
                      <bibl n="hsl_work_id_3456">Quartett für 2 Violinen, Viola und Cello in g-Moll, Hob. III:33</bibl>
+                     <bibl n="hsl_work_id_3642">Symphonie</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_115" resp="#awilfing" cert="high">
@@ -8205,7 +8207,7 @@
                   <death>19. Jhdt.</death>
                   <occupation style="background-color: darker-gray;">Tänzerin</occupation>
                </person>
-               <person xml:id="hsl_person_id_872" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_872" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Irma</forename>
                      <surname>Rotter</surname>
@@ -8241,7 +8243,7 @@
                      <bibl n="hsl_work_id_166">Iphigénie en Aulide, Wq. 40</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_506" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_506" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Azucena</surname>
@@ -8383,7 +8385,7 @@
                      <bibl n="hsl_work_id_292">Iphigénie</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_502" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_502" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Anna</forename>
                      <surname>Millerschek</surname>
@@ -12822,6 +12824,10 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q347871</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_T/Thalberg_Sigismond.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_T/Thalberg_Sigismund_1812_1871.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3645">L'art du chant appliqué für Klavier, op. 70</bibl>
+                     <bibl n="hsl_work_id_3646">Tre giorni. Air de Pergolese für Klavier, op. 70 S1 Nr. 2</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_831" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -13212,7 +13218,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_P/Price_Familie.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_P/Price_Julius_1833_1893.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_868" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_868" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Mignon</surname>
@@ -13230,16 +13236,15 @@
                      <bibl n="hsl_work_id_1114">Erlkönig</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_870" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_870" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Anna</forename>
-                     <surname>Stadelmeyer</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
                      <surname>Stadelmayer</surname>
                   </persName>
+                  <birth>1833-1931</birth>
+                  <death>1833-1931</death>
                   <occupation style="background-color: darker-gray;">Tänzerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1330453085</idno>
                </person>
                <person xml:id="hsl_person_id_873" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -14831,11 +14836,11 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q66075</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_P/Paganini_Niccolo.xml</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_889">Le streghe, op. 8</bibl>
-                     <bibl n="hsl_work_id_1400">Il carnevale di Venezia, op. 10</bibl>
-                     <bibl n="hsl_work_id_1403">Moto perpetuo, op. 11</bibl>
-                     <bibl n="hsl_work_id_1879">24 Capriccios für Violine, op. 1</bibl>
-                     <bibl n="hsl_work_id_2008">Mosè-fantasia</bibl>
+                     <bibl n="hsl_work_id_889">Le streghe für Violine und Orchester, MS 19</bibl>
+                     <bibl n="hsl_work_id_1400">Il carnevale di Venezia für Violine und Orchester, MS 59</bibl>
+                     <bibl n="hsl_work_id_1403">Moto perpetuo für Violine und Orchester, MS 72</bibl>
+                     <bibl n="hsl_work_id_1879">24 Capriccios für Violine, MS 25</bibl>
+                     <bibl n="hsl_work_id_2008">Mosè-fantasia für Violine und Orchester, MS 23</bibl>
                      <bibl n="hsl_work_id_2324">Konzert für Violine und Orchester</bibl>
                      <bibl n="hsl_work_id_2433">Capriccio / Capricen</bibl>
                   </listBibl>
@@ -18780,6 +18785,7 @@
                      <bibl n="hsl_work_id_3059">L'île magique</bibl>
                      <bibl n="hsl_work_id_3060">Hyménée</bibl>
                      <bibl n="hsl_work_id_3061">Dans la forêt</bibl>
+                     <bibl n="hsl_work_id_3641">Hérodiade</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1303" resp="#awilfing" cert="high">
@@ -30183,6 +30189,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1678210</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_823">Werther</bibl>
+                     <bibl n="hsl_work_id_3641">Hérodiade</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2165" resp="#awilfing" cert="high">
@@ -30199,6 +30206,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3102860</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_823">Werther</bibl>
+                     <bibl n="hsl_work_id_3641">Hérodiade</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2166" resp="#awilfing" cert="medium">
@@ -40087,7 +40095,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11774672X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55675537</idno>
                </person>
-               <person xml:id="hsl_person_id_2952" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2952" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Manrico</surname>
@@ -40132,7 +40140,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_N/Neumann_Angelo.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_N/Neumann_Angelo_1838_1910.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_2956" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2956" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Ferrando</surname>
@@ -44557,7 +44565,7 @@
                      <bibl n="hsl_work_id_977">Don César de Bazan</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3314" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3314" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Philine</surname>
@@ -45030,7 +45038,8 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119181002</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1029423</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_2034">Movimento perpetuo</bibl>
+                     <bibl n="hsl_work_id_2034">Movimento perpetuo für Violine</bibl>
+                     <bibl n="hsl_work_id_3644">Introduzione e variazioni brillanti sopra un tema dell'opera "Lucia di Lammermoor" für Violine</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3350" resp="#awilfing" cert="medium">
@@ -45191,7 +45200,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116212918</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q21143228</idno>
                </person>
-               <person xml:id="hsl_person_id_3362" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3362" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Marie</forename>
                      <surname>Trousil</surname>
@@ -45300,20 +45309,17 @@
                      <bibl n="hsl_work_id_644">Le petit chaperon rouge</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3370" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3370" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>Immanuel Johann Gerhard</forename>
+                     <forename>Jacob</forename>
                      <surname>Scheller</surname>
                   </persName>
-                  <birth>1735-1803</birth>
-                  <death>1735-1803</death>
-                  <occupation style="background-color: brown;">Philologe</occupation>
-                  <occupation style="background-color: darker-purple;">Bibliothekar</occupation>
-                  <occupation style="background-color: dark-orange;">Lexikograph</occupation>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117216151</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q89238</idno>
+                  <birth>1759-1800</birth>
+                  <death>1759-1800</death>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/136428681</idno>
                </person>
-               <person xml:id="hsl_person_id_3371" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3371" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Josefine</forename>
                      <surname>Rudolff</surname>
@@ -45328,11 +45334,16 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116671041</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q95663785</idno>
                </person>
-               <person xml:id="hsl_person_id_3372" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3372" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename/>
+                     <forename>Marietta von</forename>
                      <surname>Leclair</surname>
                   </persName>
+                  <birth>19. Jhdt.</birth>
+                  <death>19. Jhdt.</death>
+                  <occupation style="background-color: dark-blue;">Gesangslehrerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1016390378</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q94736397</idno>
                </person>
                <person xml:id="hsl_person_id_3373" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -45349,11 +45360,13 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116718250</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q95207671</idno>
                </person>
-               <person xml:id="hsl_person_id_3374" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3374" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Eugenie</forename>
                      <surname>Bernstein</surname>
                   </persName>
+                  <birth>19. Jhdt.</birth>
+                  <death>19. Jhdt.</death>
                   <occupation style="background-color: dark-blue;">Pianistin</occupation>
                </person>
                <person xml:id="hsl_person_id_3375" resp="#awilfing" cert="high">
@@ -45387,31 +45400,42 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7608436</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_W/Wurmbrand-Stuppach_Stephanie.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_3377" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3377" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Marie</forename>
                      <surname>Charles</surname>
                   </persName>
+                  <birth>19. Jhdt.</birth>
+                  <death>19. Jhdt.</death>
+                  <occupation style="background-color: darker-gray;">Tänzerin</occupation>
                </person>
-               <person xml:id="hsl_person_id_3378" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3378" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Leonora</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Leonore</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_171">Il trovatore, H54</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3379" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3379" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ernst</forename>
                      <surname>Dohm</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Carlchen</forename>
+                     <surname>Mießnick</surname>
                   </persName>
                   <birth>1819-1883</birth>
                   <death>1819-1883</death>
                   <occupation style="background-color: dark-green;">Journalist</occupation>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: dark-red;">Übersetzer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116170867</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q87457</idno>
                </person>
@@ -45428,7 +45452,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Stowasser_Familie.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Stowasser_Ignaz_1811_1892.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_3381" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3381" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Franz</forename>
                      <surname>Bock</surname>
@@ -47608,10 +47632,10 @@
                      <bibl n="hsl_work_id_1513">Hubička, JB1:104</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3564" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3564" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
-                     <surname>Manon</surname>
+                     <surname>Manon Lescaut</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_822">Manon</bibl>
@@ -52458,10 +52482,10 @@
                      <bibl n="hsl_work_id_2443">Wilhelm Meisters Lehrjahre</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3958" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3958" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
-                     <surname>Wilhelm Meister</surname>
+                     <surname>Wilhelm</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_894">Mignon</bibl>
@@ -52485,10 +52509,14 @@
                      <bibl n="hsl_work_id_2443">Wilhelm Meisters Lehrjahre</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3961" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3961" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
-                     <surname>Frédéric</surname>
+                     <surname>Frédérick</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Friedrich</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_894">Mignon</bibl>
@@ -52512,7 +52540,7 @@
                      <bibl n="hsl_work_id_2443">Wilhelm Meisters Lehrjahre</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3964" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3964" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Laerte</surname>
@@ -52521,7 +52549,7 @@
                      <bibl n="hsl_work_id_894">Mignon</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3965" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3965" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Lothario</surname>
@@ -53122,13 +53150,14 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116368691</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2413117</idno>
                </person>
-               <person xml:id="hsl_person_id_4020" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4020" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Marie</forename>
                      <surname>Cabel</surname>
                   </persName>
                   <birth>1827-1885</birth>
                   <death>1827-1885</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116395931</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q6762782</idno>
                </person>
@@ -66475,7 +66504,7 @@
                   <occupation style="background-color: dark-gray;">Sänger (Bassist)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116081724</idno>
                </person>
-               <person xml:id="hsl_person_id_5198" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5198" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Jarno</surname>
@@ -68408,6 +68437,124 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116333278</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_G/Gaensbacher_Familie.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_G/Gaensbacher_Josef_1829_1911.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5390" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Manon Lescaut</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_940">Manon Lescaut</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5391" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Desgrieux</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_940">Manon Lescaut</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5392" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Antoine François</forename>
+                     <surname>Prévost d'Exilles</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Prevost d'Exiles</surname>
+                  </persName>
+                  <birth>1697-1763</birth>
+                  <death>1697-1763</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118596462</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3640">Histoire de Manon Lescaut et du chevalier Des Grieux</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5393" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Louis François de Bourbon de</forename>
+                     <surname>Conti</surname>
+                  </persName>
+                  <birth>1717-1776</birth>
+                  <death>1717-1776</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119249928</idno>
+               </person>
+               <person xml:id="hsl_person_id_5394" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Manon</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3640">Histoire de Manon Lescaut et du chevalier Des Grieux</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5395" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Des Grieux</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3640">Histoire de Manon Lescaut et du chevalier Des Grieux</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5396" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Chevalier Des Grieux</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_822">Manon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5397" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Comte Des Grieux</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_822">Manon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5398" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>De Brétigny</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_822">Manon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5399" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Guillot de Morfontaine</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_822">Manon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5400" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Lescaut</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_822">Manon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5401" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Marie</forename>
+                     <surname>Heilbronn</surname>
+                  </persName>
+                  <birth>1851-1886</birth>
+                  <death>1851-1886</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1328170993</idno>
                </person>
             </listPerson>
          </div>
