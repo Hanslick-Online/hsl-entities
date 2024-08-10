@@ -6802,6 +6802,8 @@
                      <bibl n="hsl_work_id_3376">Gesammelte Schriften und Dichtungen</bibl>
                      <bibl n="hsl_work_id_3527">Deutsche Kunst und Deutsche Politik</bibl>
                      <bibl n="hsl_work_id_3573">Tannhäuser und der Sängerkrieg auf Wartburg. O du mein holder Abendstern</bibl>
+                     <bibl n="hsl_work_id_3660">Über das Dirigieren</bibl>
+                     <bibl n="hsl_work_id_3669">Sammlung Wagner'scher Briefe</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_361" resp="#awilfing" cert="high">
@@ -22283,14 +22285,15 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_E/Erl_Familie.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_E/Erl_Anton_1848_1927.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_1568" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1568" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>Georg</forename>
                      <surname>Nollet</surname>
                   </persName>
-                  <birth>19. Jhdt.</birth>
-                  <death>19. Jhdt.</death>
-                  <occupation style="background-color: dark-green;">Sänger</occupation>
+                  <birth>1842-1915</birth>
+                  <death>1842-1915</death>
+                  <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1035101203</idno>
                </person>
                <person xml:id="hsl_person_id_1570" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -23695,6 +23698,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Siegfried</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Bursche</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
@@ -42307,6 +42314,10 @@
                      <forename>Georg</forename>
                      <surname>Herwegh</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Georg Herweg</surname>
+                  </persName>
                   <birth>1817-1875</birth>
                   <death>1817-1875</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
@@ -42514,6 +42525,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q102176</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3557">Frühlingsglaube</bibl>
+                     <bibl n="hsl_work_id_3667">Musikalische Schriften</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3151" resp="#awilfing" cert="high">
@@ -43592,6 +43604,9 @@
                   <occupation style="background-color: red;">Dirigent</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11940818X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q213906</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3668">Quartett und Lieder</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3236" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -59408,8 +59423,8 @@
                      <forename>Emilie</forename>
                      <surname>Tagliana</surname>
                   </persName>
-                  <birth>1854-?</birth>
-                  <death>1854-?</death>
+                  <birth>1854-nach 1910</birth>
+                  <death>1854-nach 1910</death>
                   <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117197297</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q17425440</idno>
@@ -68697,6 +68712,80 @@
                   <birth>19. Jhdt.</birth>
                   <death>19. Jhdt.</death>
                   <occupation style="background-color: light-blue;">Instrumentenbauer</occupation>
+               </person>
+               <person xml:id="hsl_person_id_5410" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>August</forename>
+                     <surname>Hablawetz</surname>
+                  </persName>
+                  <birth>1833-1892</birth>
+                  <death>1833-1892</death>
+                  <occupation style="background-color: dark-gray;">Sänger (Bassist)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116351209</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_H/Hablawetz_Familie.xml</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_H/Hablawetz_August-Egon_1833_1892.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5411" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Heinrich Friedrich</forename>
+                     <surname>Francke</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Johann Heinrich</forename>
+                     <surname>Rausse</surname>
+                  </persName>
+                  <birth>1805-1848</birth>
+                  <death>1805-1848</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/10054276X</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1597266</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3664">Wasser tuts freilich!</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5413" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Wilhelm</forename>
+                     <surname>Fischer</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1037704509</idno>
+               </person>
+               <person xml:id="hsl_person_id_5414" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5415" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Fischer</forename>
+                     <surname>Wilhelm</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1037704509</idno>
+               </person>
+               <person xml:id="hsl_person_id_5416" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Wilhelm</forename>
+                     <surname>Rühlmann</surname>
+                  </persName>
+                  <birth>1842–1922</birth>
+                  <death>1842–1922</death>
+                  <occupation style="background-color: dark-gray;">Orgelbauer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1076778275</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2574794</idno>
+               </person>
+               <person xml:id="hsl_person_id_5417" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Wolf Adolph August von</forename>
+                     <surname>Lüttichau</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Generalintendant von Lüttichau</surname>
+                  </persName>
+                  <birth>1785–1863</birth>
+                  <death>1785–1863</death>
+                  <occupation style="background-color: dark-cyan;">Intendant</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117300772</idno>
                </person>
             </listPerson>
          </div>
