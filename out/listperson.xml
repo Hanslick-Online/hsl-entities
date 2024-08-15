@@ -68786,13 +68786,8 @@
                      <forename>Wilhelm</forename>
                      <surname>Fischer</surname>
                   </persName>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1037704509</idno>
-               </person>
-               <person xml:id="hsl_person_id_5415" resp="#awilfing" cert="medium">
-                  <persName type="main">
-                     <forename>Fischer</forename>
-                     <surname>Wilhelm</surname>
-                  </persName>
+                  <occupation style="background-color: gray;">Regisseur</occupation>
+                  <occupation style="background-color: blue;">Chordirektor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1037704509</idno>
                </person>
                <person xml:id="hsl_person_id_5416" resp="#awilfing" cert="medium">
@@ -68819,6 +68814,33 @@
                   <death>1785–1863</death>
                   <occupation style="background-color: dark-cyan;">Intendant</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117300772</idno>
+               </person>
+               <person xml:id="hsl_person_id_5421" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Otto</forename>
+                     <surname>Wigand</surname>
+                  </persName>
+                  <birth>1795-1870</birth>
+                  <death>1795-1870</death>
+                  <occupation style="background-color: darker-blue;">Verleger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117357944</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q216139</idno>
+               </person>
+               <person xml:id="hsl_person_id_5422" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Johann Friedrich</forename>
+                     <surname>Raeder</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Räder</surname>
+                  </persName>
+                  <birth>1815-1872</birth>
+                  <death>1815-1872</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: darker-orange;">Musiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/138403899</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q109466</idno>
                </person>
             </listPerson>
          </div>
