@@ -2890,6 +2890,7 @@
                      <bibl n="hsl_work_id_3439">Romanzen und Balladen für Singstimme und Orchester, op. 53</bibl>
                      <bibl n="hsl_work_id_3444">Romanzen und Balladen für Singstimme und Klavier, op. 49</bibl>
                      <bibl n="hsl_work_id_3451">6 Lieder von Heine für Singstimme und Klavier, op. 32</bibl>
+                     <bibl n="hsl_work_id_3662">Deine weißen Lilienfinger, op. 9 Nr. 2</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_117" role="fictional" resp="#awilfing" cert="high">
@@ -3864,6 +3865,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1192</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_296">Alceste ou Le triomphe d'Alcide, LWV50</bibl>
+                     <bibl n="hsl_work_id_3672">Menuett in D-Moll</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_169" resp="#awilfing" cert="high">
@@ -5238,7 +5240,7 @@
                      <bibl n="hsl_work_id_1371">La nuit de Noël</bibl>
                      <bibl n="hsl_work_id_1373">L'inganno felice</bibl>
                      <bibl n="hsl_work_id_2101">Le comte Ory</bibl>
-                     <bibl n="hsl_work_id_2220">Petite caprice (style Offenbach)</bibl>
+                     <bibl n="hsl_work_id_2220">Petite caprice (style Offenbach) für Klavier</bibl>
                      <bibl n="hsl_work_id_2222">Boléro tartare</bibl>
                      <bibl n="hsl_work_id_2223">Un profond sommeil; Un reveil en sursaut</bibl>
                      <bibl n="hsl_work_id_2224">Hymne à Napoléon III et à son vaillant peuple</bibl>
@@ -12135,10 +12137,6 @@
                   <persName type="main">
                      <forename/>
                      <surname>Angelina</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Cenerentola / Aschenbrödel</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_134">La Cenerentola, ossia La bontà in trionfo</bibl>
@@ -19834,6 +19832,7 @@
                      <bibl n="hsl_work_id_2214">Die Puppenfee</bibl>
                      <bibl n="hsl_work_id_2215">Burschenliebe</bibl>
                      <bibl n="hsl_work_id_2227">Rund um Wien</bibl>
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1380" resp="#awilfing" cert="high">
@@ -32231,6 +32230,7 @@
                      <bibl n="hsl_work_id_2214">Die Puppenfee</bibl>
                      <bibl n="hsl_work_id_2216">Die goldene Märchenwelt</bibl>
                      <bibl n="hsl_work_id_2227">Rund um Wien</bibl>
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2314" role="fictional" resp="#awilfing" cert="high">
@@ -38368,7 +38368,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename>Oskar</forename>
-                     <surname>Comettant</surname>
+                     <surname>Commettart</surname>
                   </persName>
                   <birth>1819-1898</birth>
                   <death>1819-1898</death>
@@ -46418,13 +46418,18 @@
                      <bibl n="hsl_work_id_1704">Die Kapelle</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3461" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3461" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Georges Eugène</forename>
                      <surname>Haussmann</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Haußmann</surname>
+                  </persName>
                   <birth>1809-1891</birth>
                   <death>1809-1891</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
                   <occupation style="background-color: dark-gray;">Politiker</occupation>
                   <occupation style="background-color: light-cyan;">Stadtplaner</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118773453</idno>
@@ -46637,14 +46642,21 @@
                      <bibl n="hsl_work_id_448">Il turco in Italia</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3479" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3479" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Olympe</forename>
                      <surname>Pélissier</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Rossini</surname>
+                  </persName>
+                  <birth>1799-1878</birth>
+                  <death>1799-1878</death>
+                  <occupation style="background-color: dark-blue;">Model</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1986469</idno>
                </person>
-               <person xml:id="hsl_person_id_3480" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3480" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Marie</forename>
                      <surname>Battu</surname>
@@ -47416,23 +47428,36 @@
                      <bibl n="hsl_work_id_3480">Aus der Wanderzeit. Liedercyklus von Stieler für Singstimme und Klavier, op. 27</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3539" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3539" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename/>
+                     <forename>?</forename>
                      <surname>Romero</surname>
                   </persName>
-               </person>
-               <person xml:id="hsl_person_id_3540" resp="#awilfing" cert="medium">
-                  <persName type="main">
+                  <persName type="alternative">
                      <forename/>
-                     <surname>de Fuertes</surname>
+                     <surname>unklarer Bezug</surname>
                   </persName>
                </person>
-               <person xml:id="hsl_person_id_3541" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3540" resp="#awilfing" cert="high">
                   <persName type="main">
+                     <forename>? de</forename>
+                     <surname>Fuertes</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename/>
+                     <surname>unklarer Bezug</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_3541" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>?</forename>
                      <surname>Rose</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>unklarer Bezug</surname>
+                  </persName>
+                  <occupation style="background-color: light-gray;">Offizier</occupation>
                </person>
                <person xml:id="hsl_person_id_3542" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -47491,10 +47516,14 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q50175336</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_V/Violin_Moriz.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_3546" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3546" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename/>
+                     <forename>?</forename>
                      <surname>Schäfer</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>unklarer Bezug</surname>
                   </persName>
                </person>
                <person xml:id="hsl_person_id_3549" role="fictional" resp="#awilfing" cert="high">
@@ -47582,11 +47611,15 @@
                      <bibl n="hsl_work_id_3538">6 Charakterstücke für Cello und Klavier, op. 3</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3556" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3556" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Michael</forename>
                      <surname>Zimmermann</surname>
                   </persName>
+                  <birth>1833-1907</birth>
+                  <death>1833-1907</death>
+                  <occupation style="background-color: light-gray;">Offizier</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q90887068</idno>
                </person>
                <person xml:id="hsl_person_id_3557" role="fictional" resp="#awilfing" cert="high">
@@ -48705,11 +48738,14 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q84573</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Stricker_Salomon_1834_1898.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_3638" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3638" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Henri de</forename>
                      <surname>Beurges</surname>
                   </persName>
+                  <birth>1822-1912</birth>
+                  <death>1822-1912</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q16025991</idno>
                </person>
                <person xml:id="hsl_person_id_3639" resp="#awilfing" cert="high">
@@ -48982,6 +49018,7 @@
                      <bibl n="hsl_work_id_2215">Burschenliebe</bibl>
                      <bibl n="hsl_work_id_2216">Die goldene Märchenwelt</bibl>
                      <bibl n="hsl_work_id_2756">Die Sirenen-Insel</bibl>
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3659" resp="#awilfing" cert="high">
@@ -49119,22 +49156,37 @@
                      <bibl n="hsl_work_id_2219">Johann Strauss. Ein Lebensbild</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3670" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3670" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>König von Portugal</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>unklarer Bezug</surname>
+                  </persName>
                </person>
-               <person xml:id="hsl_person_id_3671" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3671" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Marie-Joseph</forename>
                      <surname>Masson</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Sax</surname>
+                  </persName>
+                  <birth>1791-1861</birth>
+                  <death>1791-1861</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                </person>
-               <person xml:id="hsl_person_id_3672" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3672" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Constance-Caroline</forename>
                      <surname>Lefèbvre</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Faure</surname>
                   </persName>
                   <birth>1828-1905</birth>
                   <death>1828-1905</death>
@@ -54974,6 +55026,8 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q463343</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3653">Suleika für Sopran mit Orchester</bibl>
+                     <bibl n="hsl_work_id_3662">Deine weißen Lilienfinger, op. 9 Nr. 2</bibl>
+                     <bibl n="hsl_work_id_3670">6 Lieder für Singstimme und Klavier, op. 9</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4180" resp="#awilfing" cert="medium">
@@ -59219,7 +59273,7 @@
                   <death>19./20. Jhdt.</death>
                   <occupation style="background-color: darker-gray;">Tänzerin</occupation>
                </person>
-               <person xml:id="hsl_person_id_4531" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4531" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Franziska</forename>
                      <surname>Well</surname>
@@ -62468,7 +62522,7 @@
                      <bibl n="hsl_work_id_3145">Sonate für Violine und Klavier in D-Dur, op. 9 Nr. 3</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4824" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4824" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Felix</forename>
                      <surname>Bamberg</surname>
@@ -62565,15 +62619,16 @@
                   <occupation style="background-color: darker-cyan;">Maler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118538969</idno>
                </person>
-               <person xml:id="hsl_person_id_4832" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4832" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Waldemar</forename>
                      <surname>Meyer</surname>
                   </persName>
                   <birth>1853-1940</birth>
                   <death>1853-1940</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
                   <occupation style="background-color: light-gray;">Violinist</occupation>
-                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117569534</idno>
                </person>
                <person xml:id="hsl_person_id_4833" resp="#awilfing" cert="high">
@@ -65364,6 +65419,7 @@
                      <bibl n="hsl_work_id_3371">Der alte Dessauer</bibl>
                      <bibl n="hsl_work_id_3373">Der Führer durch die Oper des Theaters der Gegenwart, Text Musik und Scene erläuternd</bibl>
                      <bibl n="hsl_work_id_3374">Der Führer durch die Oper des Theaters der Gegenwart, Text Musik und Scene erläuternd. 1. Band. Deutsche Opern. 1. Abtheilung</bibl>
+                     <bibl n="hsl_work_id_3661">Die russische Musik und ihr berufenster Vertreter</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_5085" resp="#awilfing" cert="medium">
@@ -68841,6 +68897,325 @@
                   <occupation style="background-color: darker-orange;">Musiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/138403899</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q109466</idno>
+               </person>
+               <person xml:id="hsl_person_id_5423" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Agénor</forename>
+                     <surname>Bardoux</surname>
+                  </persName>
+                  <birth>1829-1897</birth>
+                  <death>1829-1897</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: dark-green;">Minister</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/130106212X</idno>
+               </person>
+               <person xml:id="hsl_person_id_5424" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Theódore de</forename>
+                     <surname>Lajarte</surname>
+                  </persName>
+                  <birth>1826-1890</birth>
+                  <death>1826-1890</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <occupation style="background-color: darker-purple;">Bibliothekar</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/101915957X</idno>
+               </person>
+               <person xml:id="hsl_person_id_5425" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Félix</forename>
+                     <surname>Feuillet de Conches</surname>
+                  </persName>
+                  <birth>1798-1887</birth>
+                  <death>1798-1887</death>
+                  <occupation style="background-color: dark-red;">Diplomat</occupation>
+                  <occupation style="background-color: dark-green;">Journalist</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/115542086</idno>
+               </person>
+               <person xml:id="hsl_person_id_5426" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Laure</forename>
+                     <surname>Fonta</surname>
+                  </persName>
+                  <birth>1845-1915</birth>
+                  <death>1845-1915</death>
+                  <occupation style="background-color: darker-gray;">Tänzerin</occupation>
+                  <occupation style="background-color: darker-purple;">Musikautorin</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q80787755</idno>
+               </person>
+               <person xml:id="hsl_person_id_5427" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Boreas</surname>
+                  </persName>
+                  <occupation style="background-color: dark-gray;">Gottheit</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1033685380</idno>
+               </person>
+               <person xml:id="hsl_person_id_5428" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Zephir</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Zephyrs</surname>
+                  </persName>
+                  <occupation style="background-color: dark-gray;">Gottheit</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/138435669</idno>
+               </person>
+               <person xml:id="hsl_person_id_5429" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Audron</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5430" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Pan</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5431" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Apollo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5432" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Musik</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5433" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Poesie</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5434" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Plastik</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5435" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Muse des Tanzes</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5436" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Genius der Zeit</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5437" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Geist des Heidentums</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Genius des Heidenthums</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5438" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Apis</surname>
+                  </persName>
+                  <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
+               </person>
+               <person xml:id="hsl_person_id_5439" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>König David</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5440" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Atta Troll</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3663">Atta Troll. Ein Sommernachtstraum</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5441" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Mars</surname>
+                  </persName>
+                  <occupation style="background-color: dark-gray;">Gottheit</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118731181</idno>
+               </person>
+               <person xml:id="hsl_person_id_5442" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Harun-al-Raschid</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5443" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Stefania</forename>
+                     <surname>Vergé</surname>
+                  </persName>
+                  <birth>1865-?</birth>
+                  <death>1865-?</death>
+                  <occupation style="background-color: darker-gray;">Tänzerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1330621514</idno>
+               </person>
+               <person xml:id="hsl_person_id_5444" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Olaija</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Odaliske</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5445" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Walther von der Vogelweide</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5446" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ulrich von Liechtenstein</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5447" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Emma</forename>
+                     <surname>Allesch</surname>
+                  </persName>
+                  <birth>1856-1934</birth>
+                  <death>1856-1934</death>
+                  <occupation style="background-color: darker-gray;">Tänzerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/136503217</idno>
+                  <idno type="URI" subtype="OEML">https://musiklexikon.ac.at/ml/musik_A/Allesch_Emma.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5448" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Königin von Frankreich</forename>
+                     <surname>Margarete</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Margot</surname>
+                  </persName>
+                  <birth>1553-1615</birth>
+                  <death>1553-1615</death>
+                  <occupation style="background-color: darker-purple;">Monarchin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118577700</idno>
+               </person>
+               <person xml:id="hsl_person_id_5449" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Michael</forename>
+                     <surname>Praetorius</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Prätorius</surname>
+                  </persName>
+                  <birth>1571-1621</birth>
+                  <death>1571-1621</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: dark-blue;">Organist</occupation>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118741713</idno>
+               </person>
+               <person xml:id="hsl_person_id_5450" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Carl</forename>
+                     <surname>Raimund</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Raymund</surname>
+                  </persName>
+                  <birth>1871-1951</birth>
+                  <death>1871-1951</death>
+                  <occupation style="background-color: orange;">Tänzer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1041969015</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_R/Raimund_Familie.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5451" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Tanzmeister</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3671">Ein Tanz-Märchen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5452" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Lucie Marietta</forename>
+                     <surname>Balbo</surname>
+                  </persName>
+                  <birth>1869-1944</birth>
+                  <death>1869-1944</death>
+                  <occupation style="background-color: darker-gray;">Tänzerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1326951858</idno>
+               </person>
+               <person xml:id="hsl_person_id_5453" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Elias</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_206">Elias, MWV A 25</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

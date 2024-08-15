@@ -2351,6 +2351,7 @@
                <author ref="#hsl_person_id_2170">
                   <persName>Schubring, Julius</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5453">Elias</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300101392</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Elijah,_Op.70_(Mendelssohn,_Felix)</idno>
             </bibl>
@@ -18679,7 +18680,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2050" resp="#awilfing" cert="high">
                <title type="main">Malbrough s’en va-t-en guerre</title>
-               <title type="alternative">Malborough-Lied</title>
+               <title type="alternative">Malborough / Marlborough</title>
             </bibl>
             <bibl xml:id="hsl_work_id_2051" resp="#awilfing" cert="high">
                <title type="main">Leyer und Schwerdt, J168-173</title>
@@ -18836,12 +18837,14 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2071" resp="#awilfing" cert="high">
                <title type="main">Morgenhymne</title>
+               <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_3471">
                   <persName>Hanssens, Charles Louis</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2072" resp="#awilfing" cert="high">
                <title type="main">Abendhymne</title>
+               <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_3471">
                   <persName>Hanssens, Charles Louis</persName>
                </author>
@@ -20120,7 +20123,7 @@
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/johannstraussein00eise/page/n7/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2220" resp="#awilfing" cert="high">
-               <title type="main">Petite caprice (style Offenbach)</title>
+               <title type="main">Petite caprice (style Offenbach) für Klavier</title>
                <title type="alternative">Offenbach-Capriccio</title>
                <author ref="#hsl_person_id_241">
                   <persName>Rossini, Gioachino</persName>
@@ -32065,14 +32068,27 @@
                   <persName>Wagner, Richard</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3661" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_3661" resp="#awilfing" cert="high">
+               <title type="main">Die russische Musik und ihr berufenster Vertreter</title>
+               <author ref="#hsl_person_id_5084">
+                  <persName>Neitzel, Otto</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://babel.hathitrust.org/cgi/pt?id=uc1.b2875189&amp;seq=74</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3662" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_3662" resp="#awilfing" cert="high">
+               <title type="main">Deine weißen Lilienfinger, op. 9 Nr. 2</title>
+               <author ref="#hsl_person_id_116">
+                  <persName>Heine, Heinrich</persName>
+               </author>
+               <author ref="#hsl_person_id_4179">
+                  <persName>Stavenhagen, Bernhard</persName>
+               </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3663" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_3663" resp="#awilfing" cert="high">
+               <title type="main">Atta Troll. Ein Sommernachtstraum</title>
+               <name type="character" ref="#hsl_person_id_5440">Atta Troll</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099223-8</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb11720521?page=8,9</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3664" resp="#awilfing" cert="medium">
                <title type="main">Wasser tuts freilich!</title>
@@ -32104,6 +32120,47 @@
                <title type="main">Sammlung Wagner'scher Briefe</title>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3670" resp="#awilfing" cert="high">
+               <title type="main">6 Lieder für Singstimme und Klavier, op. 9</title>
+               <author ref="#hsl_person_id_4179">
+                  <persName>Stavenhagen, Bernhard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3671" resp="#awilfing" cert="high">
+               <title type="main">Ein Tanz-Märchen</title>
+               <title type="alternative">Ein Tanzmärchen</title>
+               <author ref="#hsl_person_id_1379">
+                  <persName>Bayer, Josef</persName>
+               </author>
+               <author ref="#hsl_person_id_2313">
+                  <persName>Gaul, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_3658">
+                  <persName>Hassreiter, Josef</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_5429">Audron</name>
+               <name type="character" ref="#hsl_person_id_5430">Pan</name>
+               <name type="character" ref="#hsl_person_id_5431">Apollo</name>
+               <name type="character" ref="#hsl_person_id_5432">Musik</name>
+               <name type="character" ref="#hsl_person_id_5433">Poesie</name>
+               <name type="character" ref="#hsl_person_id_5434">Plastik</name>
+               <name type="character" ref="#hsl_person_id_5435">Muse des Tanzes</name>
+               <name type="character" ref="#hsl_person_id_5436">Genius der Zeit</name>
+               <name type="character" ref="#hsl_person_id_5437">Geist des Heidentums</name>
+               <name type="character" ref="#hsl_person_id_5439">König David</name>
+               <name type="character" ref="#hsl_person_id_5442">Harun-al-Raschid</name>
+               <name type="character" ref="#hsl_person_id_5444">Olaija</name>
+               <name type="character" ref="#hsl_person_id_5445">Walther von der Vogelweide</name>
+               <name type="character" ref="#hsl_person_id_5446">Ulrich von Liechtenstein</name>
+               <name type="character" ref="#hsl_person_id_5451">Tanzmeister</name>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ein_Tanz-M%C3%A4rchen_(Bayer%2C_Josef)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3672" resp="#awilfing" cert="high">
+               <title type="main">Menuett in D-Moll</title>
+               <author ref="#hsl_person_id_168">
+                  <persName>Lully, Jean-Baptiste</persName>
                </author>
             </bibl>
       </listBibl>
