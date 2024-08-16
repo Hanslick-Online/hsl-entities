@@ -536,7 +536,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q37985</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4029175-3</idno>
                </place>
-               <place xml:id="hsl_place_id_31" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_31" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Ljubljana</placeName>
                      <placeName type="alternative">Laibach</placeName>
@@ -2641,7 +2641,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q96</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4039058-5</idno>
                </place>
-               <place xml:id="hsl_place_id_220" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_220" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Nice</placeName>
                      <placeName type="alternative">Nizza</placeName>
@@ -2994,9 +2994,9 @@
                   <placeName type="main">Lombardia</placeName>
                      <placeName type="alternative">Lombardei</placeName>
                </place>
-               <place xml:id="hsl_place_id_248" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_248" resp="#awilfing" cert="high">
                   <settlement type="P">
-                     <placeName type="main">Champs-Elysées</placeName>
+                     <placeName type="main">Champs-Elysées, Paris</placeName>
                      <placeName type="alternative">Champs Elysées</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
@@ -3564,9 +3564,10 @@
                <place xml:id="hsl_place_id_296" resp="#awilfing" cert="medium">
                   <placeName type="main">Steiermark</placeName>
                </place>
-               <place xml:id="hsl_place_id_297" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_297" resp="#awilfing" cert="high">
                   <placeName type="main">Bratislava</placeName>
                      <placeName type="alternative">Pressburg / Preßburg</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3060972/</idno>
                </place>
                <place xml:id="hsl_place_id_299" resp="#awilfing" cert="medium">
                   <settlement type="A">
@@ -4770,7 +4771,7 @@
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12514775/</idno>
                </place>
-               <place xml:id="hsl_place_id_398" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_398" resp="#awilfing" cert="high">
                   <placeName type="main">Rue Mansart, Paris</placeName>
                      <placeName type="alternative">Rue Mansard</placeName>
                </place>
@@ -5524,7 +5525,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2867996/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q32664001</idno>
                </place>
-               <place xml:id="hsl_place_id_459" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_459" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Olomouc</placeName>
                      <placeName type="alternative">Olmütz</placeName>
@@ -5538,9 +5539,10 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q81137</idno>
                   <idno type="URI" subtype="GND">https://lobid.org/gnd/4075643-9</idno>
                </place>
-               <place xml:id="hsl_place_id_460" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_460" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Opava</placeName>
+                     <placeName type="alternative">Troppau</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>CZ, Czechia</country>
@@ -5551,7 +5553,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q156080</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4061019-6</idno>
                </place>
-               <place xml:id="hsl_place_id_461" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_461" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Kraków</placeName>
                      <placeName type="alternative">Krakau</placeName>
@@ -5565,9 +5567,10 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q31487</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4073760-3</idno>
                </place>
-               <place xml:id="hsl_place_id_462" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_462" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Lviv</placeName>
+                     <placeName type="alternative">Lemberg</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>UA, Ukraine</country>
@@ -5578,9 +5581,10 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q36036</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4035304-7</idno>
                </place>
-               <place xml:id="hsl_place_id_463" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_463" resp="#awilfing" cert="high">
                   <settlement type="P">
-                     <placeName type="main">Chernivtsi</placeName>
+                     <placeName type="main">Tscherniwzi</placeName>
+                     <placeName type="alternative">Czernowitz</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>UA, Ukraine</country>
@@ -6472,7 +6476,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q235</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4040031-1</idno>
                </place>
-               <place xml:id="hsl_place_id_559" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_559" resp="#awilfing" cert="high">
                   <settlement type="R">
                      <placeName type="main">Promenade des Anglais, Nizza</placeName>
                   </settlement>
@@ -6894,6 +6898,29 @@
                </place>
                <place xml:id="hsl_place_id_628" resp="#awilfing" cert="high">
                   <placeName type="main">Großherzogtum Baden</placeName>
+               </place>
+               <place xml:id="hsl_place_id_629" resp="#awilfing" cert="high">
+                  <placeName type="main">Rue Saint-Georges, Paris</placeName>
+                     <placeName type="alternative">Rue St. Georges</placeName>
+               </place>
+               <place xml:id="hsl_place_id_630" resp="#awilfing" cert="high">
+                  <placeName type="main">Klostergasse, Wien</placeName>
+               </place>
+               <place xml:id="hsl_place_id_631" resp="#awilfing" cert="high">
+                  <placeName type="main">Rue Bayard, Paris</placeName>
+               </place>
+               <place xml:id="hsl_place_id_632" resp="#awilfing" cert="high">
+                  <placeName type="main">Portici</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3170116/</idno>
+               </place>
+               <place xml:id="hsl_place_id_633" resp="#awilfing" cert="high">
+                  <placeName type="main">Tuchlauben, Wien</placeName>
+               </place>
+               <place xml:id="hsl_place_id_634" resp="#awilfing" cert="medium">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_635" resp="#awilfing" cert="medium">
+                  <placeName type="main"/>
                </place>
             </listPlace>
          </div>

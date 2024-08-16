@@ -601,6 +601,7 @@
                      <bibl n="hsl_work_id_940">Manon Lescaut</bibl>
                      <bibl n="hsl_work_id_1282">La Parisienne</bibl>
                      <bibl n="hsl_work_id_1610">Le premier jour de bonheur</bibl>
+                     <bibl n="hsl_work_id_3690">La fiancée du roi de Garbe</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_17" resp="#awilfing" cert="high">
@@ -1873,6 +1874,10 @@
                   <persName type="main">
                      <forename>Alexandre</forename>
                      <surname>Dumas der Jüngere</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Alexander</forename>
+                     <surname>Dumas</surname>
                   </persName>
                   <birth>1824-1895</birth>
                   <death>1824-1895</death>
@@ -6143,6 +6148,7 @@
                      <bibl n="hsl_work_id_2101">Le comte Ory</bibl>
                      <bibl n="hsl_work_id_3209">The Tempest</bibl>
                      <bibl n="hsl_work_id_3212">Les vêpres siciliennes</bibl>
+                     <bibl n="hsl_work_id_3690">La fiancée du roi de Garbe</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_285" resp="#awilfing" cert="high">
@@ -15679,7 +15685,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119138131</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q316582</idno>
                </person>
-               <person xml:id="hsl_person_id_1064" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1064" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Bernard</forename>
                      <surname>Ullman</surname>
@@ -24488,6 +24494,9 @@
                   <occupation style="background-color: light-yellow;">Musikkritiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119020742</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q69501</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3694">Musikzeitschrift</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1746" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -25335,6 +25344,7 @@
                      <bibl n="hsl_work_id_2710">L'ombre</bibl>
                      <bibl n="hsl_work_id_2713">Naida</bibl>
                      <bibl n="hsl_work_id_2716">La Fleur d'Harlem</bibl>
+                     <bibl n="hsl_work_id_3690">La fiancée du roi de Garbe</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1810" role="fictional" resp="#awilfing" cert="high">
@@ -28281,18 +28291,19 @@
                      <bibl n="hsl_work_id_113">Le prophète</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2038" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2038" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Rudolf</forename>
                      <surname>Willmers</surname>
                   </persName>
                   <birth>1821-1878</birth>
                   <death>1821-1878</death>
-                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <occupation style="background-color: dark-orange;">Pianist</occupation>
-                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/104318724</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q16599066</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_W/Willmers_Rudolph.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2425">Flieg', Vogel, fliege, op. 29 Nr. 1</bibl>
                      <bibl n="hsl_work_id_2426">Ungarische Episode, op. 126</bibl>
@@ -39999,6 +40010,10 @@
                      <forename>Alexandre</forename>
                      <surname>Dumas der Ältere</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Alexander</forename>
+                     <surname>Dumas</surname>
+                  </persName>
                   <birth>1802-1870</birth>
                   <death>1802-1870</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
@@ -40517,7 +40532,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118618393</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q63479</idno>
                </person>
-               <person xml:id="hsl_person_id_2985" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2985" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Marie</forename>
                      <surname>Krebs</surname>
@@ -43615,7 +43630,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11940818X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q213906</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_3668">Quartett und Lieder</bibl>
+                     <bibl n="hsl_work_id_3668">Quartett</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3236" resp="#awilfing" cert="medium">
@@ -44421,6 +44436,9 @@
                   <occupation style="background-color: light-purple;">Cellist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/102411034</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q76104</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3691">Konzert für Cello und Orcherster</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3298" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -45508,19 +45526,27 @@
                      <bibl n="hsl_work_id_2020">Quintett für 2 Violinen, Viola, Cello und Klavier in As-Dur, H34</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3383" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3383" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>Prosper</forename>
                      <surname>Bagier</surname>
                   </persName>
+                  <birth>1811-1881</birth>
+                  <death>1811-1881</death>
+                  <occupation style="background-color: dark-blue;">Theaterdirektor</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q102280660</idno>
                </person>
-               <person xml:id="hsl_person_id_3384" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3384" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>de ?</forename>
+                     <forename>Chretien de</forename>
                      <surname>Thal</surname>
                   </persName>
+                  <birth>19. Jhdt.</birth>
+                  <death>19. Jhdt.</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
                </person>
-               <person xml:id="hsl_person_id_3385" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3385" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Gustave</forename>
                      <surname>Doré</surname>
@@ -45533,30 +45559,35 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118526839</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q6682</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_2435">Illustrationen zu Cervantes "Don Quichote"</bibl>
-                     <bibl n="hsl_work_id_2437">Illustrationen zu Dantes "Göttlichen Komödie"</bibl>
-                     <bibl n="hsl_work_id_2438">Illustrationen zu "Dornröschen"</bibl>
                      <bibl n="hsl_work_id_3232">Der Spieltisch in Homburg</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3386" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3386" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Eugène</forename>
                      <surname>Vivier</surname>
                   </persName>
                   <birth>1821-1900</birth>
                   <death>1821-1900</death>
-                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: dark-green;">Hornist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117448133</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q16947558</idno>
                </person>
-               <person xml:id="hsl_person_id_3387" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3387" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>Marquis de Caux</forename>
-                     <surname>Sébastien Henri de Cahuzac</surname>
+                     <forename>Louis-Henri de Roger de</forename>
+                     <surname>Cahuzac</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Marquis de Caux</surname>
+                  </persName>
+                  <birth>1825-1889</birth>
+                  <death>1825-1889</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q47011848</idno>
                </person>
-               <person xml:id="hsl_person_id_3388" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3388" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Eugène</forename>
                      <surname>Rouher</surname>
@@ -45564,11 +45595,11 @@
                   <birth>1814-1884</birth>
                   <death>1814-1884</death>
                   <occupation style="background-color: dark-gray;">Politiker</occupation>
-                  <occupation style="background-color: green;">Jurist</occupation>
+                  <occupation style="background-color: dark-green;">Minister</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116664029</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3060162</idno>
                </person>
-               <person xml:id="hsl_person_id_3389" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3389" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Jean Baptiste Philibert</forename>
                      <surname>Vaillant</surname>
@@ -45580,7 +45611,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/104241640</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q115694</idno>
                </person>
-               <person xml:id="hsl_person_id_3390" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3390" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Adolphe de</forename>
                      <surname>Forcade La Roquette</surname>
@@ -45588,7 +45619,7 @@
                   <birth>1820-1874</birth>
                   <death>1820-1874</death>
                   <occupation style="background-color: dark-gray;">Politiker</occupation>
-                  <occupation style="background-color: green;">Jurist</occupation>
+                  <occupation style="background-color: dark-green;">Minister</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1202049044</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2615548</idno>
                </person>
@@ -45596,6 +45627,10 @@
                   <persName type="main">
                      <forename>François-Auguste</forename>
                      <surname>Gevaert</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Gevart</surname>
                   </persName>
                   <birth>1828-1908</birth>
                   <death>1828-1908</death>
@@ -52151,11 +52186,14 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q17450365</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_A/Ascher_Anton_1820_1884.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_3903" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3903" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Jules</forename>
                      <surname>Lefort</surname>
                   </persName>
+                  <birth>1822-1898</birth>
+                  <death>1822-1898</death>
+                  <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116856599</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q44739026</idno>
                </person>
