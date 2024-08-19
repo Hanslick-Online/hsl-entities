@@ -2385,10 +2385,11 @@
                </author>
                <name type="character" ref="#hsl_person_id_3936">Rodrigo</name>
                <name type="character" ref="#hsl_person_id_3938">Filippo II.</name>
-               <name type="character" ref="#hsl_person_id_3939">Elisabetta di Valois</name>
-               <name type="character" ref="#hsl_person_id_3940">Principessa Eboli</name>
+               <name type="character" ref="#hsl_person_id_3939">Elisabetta</name>
+               <name type="character" ref="#hsl_person_id_3940">Eboli</name>
                <name type="character" ref="#hsl_person_id_3941">Don Carlo</name>
                <name type="character" ref="#hsl_person_id_3942">Grande Inquisitore</name>
+               <name type="character" ref="#hsl_person_id_5462">Moine</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300165293</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Don_Carlos_(Verdi,_Giuseppe)</idno>
             </bibl>
@@ -9677,7 +9678,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1030" resp="#awilfing" cert="high">
                <title type="main">Così fan tutte, ossia La scuola degli amanti, KV588</title>
-               <title type="alternative">Cosi fan tutte / So machen es Alle</title>
+               <title type="alternative">Cosi fan tutte / So machen es Alle / Mädchentreue</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
@@ -9743,6 +9744,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1036" resp="#awilfing" cert="high">
                <title type="main">Doctor und Apotheker, Kr. 292</title>
+               <title type="alternative">Der Apotheker und Doctor</title>
                <author ref="#hsl_person_id_897">
                   <persName>Dittersdorf, Karl Ditters von</persName>
                </author>
@@ -10102,7 +10104,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1070" resp="#awilfing" cert="high">
                <title type="main">La Grande-Duchesse de Gérolstein</title>
-               <title type="alternative">Die Großherzogin von Gérolstein / Gerolstein</title>
+               <title type="alternative">Die Großherzogin von Gerolstein</title>
                <author ref="#hsl_person_id_202">
                   <persName>Offenbach, Jacques</persName>
                </author>
@@ -16183,6 +16185,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1744" resp="#awilfing" cert="high">
                <title type="main">Das rothe Käppchen, Kr. 298</title>
+               <title type="alternative">Rothkäppchen</title>
                <author ref="#hsl_person_id_897">
                   <persName>Dittersdorf, Karl Ditters von</persName>
                </author>
@@ -16192,7 +16195,7 @@
                <name type="character" ref="#hsl_person_id_3021">Mariane</name>
                <name type="character" ref="#hsl_person_id_3022">Emmrich von Landau</name>
                <name type="character" ref="#hsl_person_id_3023">Lieutenant von Felsenberg</name>
-               <name type="character" ref="#hsl_person_id_3935">Handelsjude</name>
+               <name type="character" ref="#hsl_person_id_3935">Jacob</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1044564806</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Das_rote_K%C3%A4ppchen%2C_Kr.298_(Dittersdorf%2C_Carl_Ditters_von)</idno>
             </bibl>
@@ -32352,6 +32355,23 @@
                <author ref="#hsl_person_id_82">
                   <persName>Freytag, Gustav</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3702" resp="#awilfing" cert="high">
+               <title type="main">Zur Geschichte dramatischer Musik und Poesie in Deutschland</title>
+               <author ref="#hsl_person_id_251">
+                  <persName>Schletterer, Hans Michel</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Zur_Geschichte_dramatischer_Musik_und_Po/W3ZKAAAAcAAJ?hl=de&amp;gbpv=1&amp;pg=PR2&amp;printsec=frontcover</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3703" resp="#awilfing" cert="high">
+               <title type="main">Don Karlos, Infant von Spanien</title>
+               <title type="alternative">Don Carlos</title>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4130120-1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10713786?page=2,3</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10713785?page=2,3</idno>
             </bibl>
       </listBibl>
       </body>

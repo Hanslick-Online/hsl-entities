@@ -5456,6 +5456,7 @@
                      <bibl n="hsl_work_id_3063">Das Lied von der Glocke, op. 25</bibl>
                      <bibl n="hsl_work_id_3064">Die Glocke, op. 42</bibl>
                      <bibl n="hsl_work_id_3065">Das Lied von der Glocke, op. 61</bibl>
+                     <bibl n="hsl_work_id_3703">Don Karlos, Infant von Spanien</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_249" resp="#awilfing" cert="high">
@@ -5500,6 +5501,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q473474</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_161">Joh. Friedrich Reichardt. Sein Leben und seine Werke</bibl>
+                     <bibl n="hsl_work_id_3702">Zur Geschichte dramatischer Musik und Poesie in Deutschland</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_252" resp="#awilfing" cert="medium">
@@ -52476,7 +52478,7 @@
                      <bibl n="hsl_work_id_280">La belle Hélène</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3931" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3931" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Lise</forename>
                      <surname>Tautin</surname>
@@ -52497,11 +52499,19 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119191830</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q450838</idno>
                </person>
-               <person xml:id="hsl_person_id_3933" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3933" resp="#awilfing" cert="high">
                   <persName type="main">
+                     <forename>Joseph-Lambert</forename>
+                     <surname>Dupuis</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename/>
                      <surname>Dupuy</surname>
                   </persName>
+                  <birth>1833-1900</birth>
+                  <death>1833-1900</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/141631023</idno>
                </person>
                <person xml:id="hsl_person_id_3934" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -52519,11 +52529,7 @@
                <person xml:id="hsl_person_id_3935" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
-                     <surname>Handelsjude</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>unklarer Bezug</surname>
+                     <surname>Jacob</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1744">Das rothe Käppchen, Kr. 298</bibl>
@@ -52569,7 +52575,7 @@
                <person xml:id="hsl_person_id_3939" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
-                     <surname>Elisabetta di Valois</surname>
+                     <surname>Elisabetta</surname>
                   </persName>
                   <persName type="alternative">
                      <forename/>
@@ -52582,7 +52588,7 @@
                <person xml:id="hsl_person_id_3940" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
-                     <surname>Principessa Eboli</surname>
+                     <surname>Eboli</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_208">Don Carlos, H61</bibl>
@@ -52923,6 +52929,9 @@
                      <forename>Louis Henri</forename>
                      <surname>Obin</surname>
                   </persName>
+                  <birth>1820-1895</birth>
+                  <death>1820-1895</death>
+                  <occupation style="background-color: dark-gray;">Sänger (Bassist)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117078298</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q19929962</idno>
                </person>
@@ -52953,35 +52962,49 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118957260</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q583649</idno>
                </person>
-               <person xml:id="hsl_person_id_3981" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3981" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Louis</forename>
                      <surname>Gueymard</surname>
                   </persName>
+                  <birth>1822-1880</birth>
+                  <death>1822-1880</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116919965</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3262100</idno>
                </person>
-               <person xml:id="hsl_person_id_3982" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3982" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Pauline</forename>
                      <surname>Gueymard</surname>
                   </persName>
+                  <birth>1834-1918</birth>
+                  <death>1834-1918</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <occupation style="background-color: dark-gray;">Sängerin (Mezzo-Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116919973</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q95665427</idno>
                </person>
-               <person xml:id="hsl_person_id_3983" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3983" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Victor</forename>
                      <surname>Warot</surname>
                   </persName>
+                  <birth>1834-1906</birth>
+                  <death>1834-1906</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117142468</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2522618</idno>
                </person>
-               <person xml:id="hsl_person_id_3984" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3984" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Jean</forename>
                      <surname>Morère</surname>
                   </persName>
+                  <birth>1836-1887</birth>
+                  <death>1836-1887</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1328761495</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q97343698</idno>
                </person>
                <person xml:id="hsl_person_id_3985" resp="#awilfing" cert="high">
@@ -69451,6 +69474,25 @@
                   <death>1841-1912</death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/143938134</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_R/Raettig_Theodor.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5461" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5462" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Moine</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Karl V.</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_208">Don Carlos, H61</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
