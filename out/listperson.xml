@@ -31900,7 +31900,7 @@
                      <bibl n="hsl_work_id_1361">La dame blanche</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2278" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2278" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Charles Marie Auguste</forename>
                      <surname>Ponchard</surname>
@@ -47295,6 +47295,9 @@
                   <occupation style="background-color: darker-cyan;">Maler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118975072</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q436726</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3699">Mignon</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_3525" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -52680,7 +52683,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Pater Lorenz</surname>
+                     <surname>Pater Lorenzo</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_56">Roméo et Juliette, CG9</bibl>
@@ -52767,6 +52770,10 @@
                      <forename/>
                      <surname>Laertes</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Laёrtes</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_2443">Wilhelm Meisters Lehrjahre</bibl>
                   </listBibl>
@@ -52784,10 +52791,6 @@
                   <persName type="main">
                      <forename/>
                      <surname>Lothario</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Harfner</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_894">Mignon</bibl>
@@ -52814,7 +52817,7 @@
                <person xml:id="hsl_person_id_3968" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
-                     <surname>Mariane</surname>
+                     <surname>Marianne</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_2443">Wilhelm Meisters Lehrjahre</bibl>
@@ -52854,12 +52857,6 @@
                      <bibl n="hsl_work_id_2447">Raymond ou le Secret de la Reine</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3972" resp="#awilfing" cert="medium">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Armstrong</surname>
-                  </persName>
-               </person>
                <person xml:id="hsl_person_id_3973" resp="#awilfing" cert="medium">
                   <persName type="main">
                      <forename>Giovanni</forename>
@@ -52876,8 +52873,13 @@
                      <forename>Caroline-Marie</forename>
                      <surname>Carvalho</surname>
                   </persName>
-                  <birth>1826/27-1895</birth>
-                  <death>1826/27-1895</death>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Miolan-Carvalho</surname>
+                  </persName>
+                  <birth>1827-1895</birth>
+                  <death>1827-1895</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116464143</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1630239</idno>
                </person>
@@ -53378,13 +53380,14 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/130178837</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4109557</idno>
                </person>
-               <person xml:id="hsl_person_id_4018" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4018" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Léon</forename>
                      <surname>Achard</surname>
                   </persName>
                   <birth>1831-1905</birth>
                   <death>1831-1905</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116004959</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q23660891</idno>
                </person>
@@ -53410,11 +53413,14 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116395931</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q6762782</idno>
                </person>
-               <person xml:id="hsl_person_id_4021" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4021" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Alexandrine</forename>
                      <surname>Cico</surname>
                   </persName>
+                  <birth>1841-1875</birth>
+                  <death>1841-1875</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                </person>
                <person xml:id="hsl_person_id_4022" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -53423,7 +53429,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Fürst N.N.</surname>
+                     <surname>Fürst</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_894">Mignon</bibl>

@@ -352,7 +352,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2925533/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
-               <place xml:id="hsl_place_id_103" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_103" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Firenze</placeName>
                      <placeName type="alternative">Florenz</placeName>
@@ -1175,6 +1175,7 @@
                <place xml:id="hsl_place_id_91" resp="#awilfing" cert="medium">
                   <settlement type="P">
                      <placeName type="main">Verona</placeName>
+                     <placeName type="alternative">Vérone</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>IT, Italy</country>
@@ -5622,7 +5623,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5684</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4004101-3</idno>
                </place>
-               <place xml:id="hsl_place_id_468" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_468" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Metz</placeName>
                   </settlement>
@@ -5637,6 +5638,8 @@
                </place>
                <place xml:id="hsl_place_id_469" resp="#awilfing" cert="medium">
                   <placeName type="main">Lago di Garda</placeName>
+                     <placeName type="alternative">Gardasee</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3176317/</idno>
                </place>
                <place xml:id="hsl_place_id_472" resp="#awilfing" cert="medium">
                   <settlement type="A">
@@ -6920,6 +6923,9 @@
                   <placeName type="main"/>
                </place>
                <place xml:id="hsl_place_id_635" resp="#awilfing" cert="medium">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_636" resp="#awilfing" cert="medium">
                   <placeName type="main"/>
                </place>
             </listPlace>
