@@ -1888,7 +1888,6 @@
                <name type="character" ref="#hsl_person_id_466">Clitemnestre</name>
                <name type="character" ref="#hsl_person_id_486">Iphigénie</name>
                <name type="character" ref="#hsl_person_id_489">Patrocle</name>
-               <name type="character" ref="#hsl_person_id_4067">Diane</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300060203</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Iphig%C3%A9nie_en_Aulide,_Wq.40_(Gluck,_Christoph_Willibald)</idno>
             </bibl>
@@ -22197,7 +22196,9 @@
                <author ref="#hsl_person_id_4024">
                   <persName>Fioravanti, Vincenzo</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10581638?page=6,7</idno>
+               <author ref="#hsl_person_id_5463">
+                  <persName>Passaro, Andrea</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2462" resp="#awilfing" cert="high">
                <title type="main">Crispino e la comare</title>
@@ -22621,7 +22622,7 @@
                   <persName>Wagner, Richard</persName>
                </author>
                <name type="character" ref="#hsl_person_id_4069">Diana</name>
-               <name type="character" ref="#hsl_person_id_4070">Iphigenia</name>
+               <name type="character" ref="#hsl_person_id_4070">Iphigenie</name>
                <name type="character" ref="#hsl_person_id_4071">Artemis</name>
             </bibl>
             <bibl xml:id="hsl_work_id_2523" resp="#awilfing" cert="high">
@@ -32377,6 +32378,9 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4130120-1</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10713786?page=2,3</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10713785?page=2,3</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3704" resp="#awilfing" cert="medium">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>

@@ -5280,6 +5280,10 @@
                      <forename>François Louis Gaud Lebland</forename>
                      <surname>Du Roullet</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Rollet</surname>
+                  </persName>
                   <birth>1716-1786</birth>
                   <death>1716-1786</death>
                   <occupation style="background-color: dark-red;">Diplomat</occupation>
@@ -32072,6 +32076,10 @@
                      <forename/>
                      <surname>Adina</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Adine</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_451">L'elisir d'amore</bibl>
                   </listBibl>
@@ -53462,11 +53470,14 @@
                      <bibl n="hsl_work_id_2461">Columella o Il pazzo per amore</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4025" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4025" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>Francesco</forename>
                      <surname>Cresci</surname>
                   </persName>
+                  <birth>19. Jhdt.</birth>
+                  <death>19. Jhdt.</death>
+                  <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
                </person>
                <person xml:id="hsl_person_id_4026" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -53491,31 +53502,42 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q45571</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_F/Fraschini_Gaetano.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_4028" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4028" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Raffaele</forename>
                      <surname>Scalese</surname>
                   </persName>
                   <birth>1800-1884</birth>
                   <death>1800-1884</death>
+                  <occupation style="background-color: dark-gray;">Sänger (Bassist)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1300681888</idno>
                </person>
                <person xml:id="hsl_person_id_4029" resp="#awilfing" cert="medium">
                   <persName type="main">
-                     <forename/>
-                     <surname>Johann Daniel Skoczdopole</surname>
+                     <forename>Johann Daniel</forename>
+                     <surname>Skoczdopole</surname>
                   </persName>
                   <persName type="alternative">
                      <forename/>
                      <surname>Skoczdopolle</surname>
                   </persName>
+                  <birth>1811-1877</birth>
+                  <death>1811-1877</death>
+                  <occupation style="background-color: red;">Dirigent</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q20003626</idno>
                </person>
-               <person xml:id="hsl_person_id_4030" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4030" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Emilie</forename>
                      <surname>La Grua</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Emmy</forename>
+                     <surname>La Grua</surname>
+                  </persName>
+                  <birth>1831-1922</birth>
+                  <death>1831-1922</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116646896</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3052464</idno>
                </person>
@@ -53535,8 +53557,9 @@
                      <forename>Carlo</forename>
                      <surname>Severini</surname>
                   </persName>
-                  <birth>1793/1800-1838</birth>
-                  <death>1793/1800-1838</death>
+                  <birth>1793-1838</birth>
+                  <death>1793-1838</death>
+                  <occupation style="background-color: dark-blue;">Theaterdirektor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1030347492</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q94871285</idno>
                </person>
@@ -53916,19 +53939,6 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/132425831</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q17425446</idno>
                </person>
-               <person xml:id="hsl_person_id_4067" role="fictional" resp="#awilfing" cert="high">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Diane</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Diana</surname>
-                  </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_166">Iphigénie en Aulide, Wq. 40</bibl>
-                  </listBibl>
-               </person>
                <person xml:id="hsl_person_id_4068" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -53949,6 +53959,10 @@
                </person>
                <person xml:id="hsl_person_id_4070" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
+                     <forename/>
+                     <surname>Iphigenie</surname>
+                  </persName>
+                  <persName type="alternative">
                      <forename/>
                      <surname>Iphigenia</surname>
                   </persName>
@@ -69499,6 +69513,51 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_208">Don Carlos, H61</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5463" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Andrea</forename>
+                     <surname>Passaro</surname>
+                  </persName>
+                  <birth>19. Jhdt.</birth>
+                  <death>19. Jhdt.</death>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1051228298</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_2461">Columella o Il pazzo per amore</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5464" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Iphigenie</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Iphigenia</surname>
+                  </persName>
+                  <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118555723</idno>
+               </person>
+               <person xml:id="hsl_person_id_5465" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Klytämnestra</surname>
+                  </persName>
+                  <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118983504</idno>
+               </person>
+               <person xml:id="hsl_person_id_5466" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Calchas</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Kalchas</surname>
+                  </persName>
+                  <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q725527</idno>
                </person>
             </listPerson>
          </div>
