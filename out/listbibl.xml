@@ -32379,8 +32379,28 @@
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10713786?page=2,3</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10713785?page=2,3</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3704" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_3704" resp="#awilfing" cert="high">
+               <title type="main">Flûte enchantée</title>
+               <title type="alternative">Die Zauberflöte (Bearbeitung)</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+               <author ref="#hsl_person_id_1410">
+                  <persName>Nuitter, Charles</persName>
+               </author>
+               <author ref="#hsl_person_id_5467">
+                  <persName>Beaumont, Alexandre</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_5468">Pamina</name>
+               <name type="character" ref="#hsl_person_id_5469">Tamino</name>
+               <name type="character" ref="#hsl_person_id_5470">Königin der Nacht</name>
+               <name type="character" ref="#hsl_person_id_5471">Sarastro</name>
+               <name type="character" ref="#hsl_person_id_5472">Papagena</name>
+               <name type="character" ref="#hsl_person_id_5473">Papageno</name>
+               <name type="character" ref="#hsl_person_id_5474">Monostatos</name>
+               <name type="character" ref="#hsl_person_id_5475">Erste Dame</name>
+               <name type="character" ref="#hsl_person_id_5476">Zweite Dame</name>
+               <name type="character" ref="#hsl_person_id_5477">Dritte Dame</name>
             </bibl>
       </listBibl>
       </body>

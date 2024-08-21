@@ -3125,7 +3125,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_H/Hoelzel_Familie.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_H/Hoelzel_Gustav_1813_1883.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_130" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_130" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Franz</forename>
                      <surname>Hrabanek</surname>
@@ -3135,6 +3135,7 @@
                   <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1251267114</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q22675665</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_H/Hrabanek_Familie.xml</idno>
                </person>
                <person xml:id="hsl_person_id_131" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -4360,6 +4361,7 @@
                      <bibl n="hsl_work_id_3484">L'oca del Cairo, KV422</bibl>
                      <bibl n="hsl_work_id_3485">Lo sposo deluso, KV430</bibl>
                      <bibl n="hsl_work_id_3486">La villanella rapita</bibl>
+                     <bibl n="hsl_work_id_3704">Flûte enchantée</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_190" resp="#awilfing" cert="high">
@@ -20332,6 +20334,7 @@
                      <bibl n="hsl_work_id_916">Coppélia, ou La fille aux yeux d'émail</bibl>
                      <bibl n="hsl_work_id_1310">Coscoletto</bibl>
                      <bibl n="hsl_work_id_3070">La permission de dix heures</bibl>
+                     <bibl n="hsl_work_id_3704">Flûte enchantée</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1411" resp="#awilfing" cert="high">
@@ -53746,11 +53749,14 @@
                      <bibl n="hsl_work_id_2486">I figli di Borgia</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4049" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4049" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ernestine</forename>
                      <surname>Gindele</surname>
                   </persName>
+                  <birth>1841-1879</birth>
+                  <death>1841-1879</death>
+                  <occupation style="background-color: dark-gray;">Sängerin (Mezzo-Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116632550</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q95195764</idno>
                </person>
@@ -69558,6 +69564,110 @@
                   </persName>
                   <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q725527</idno>
+               </person>
+               <person xml:id="hsl_person_id_5467" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Alexandre</forename>
+                     <surname>Beaumont</surname>
+                  </persName>
+                  <birth>1827-1909</birth>
+                  <death>1827-1909</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-orange;">Librettist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/128516771</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3704">Flûte enchantée</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5468" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Pamina</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3704">Flûte enchantée</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5469" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Tamino</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3704">Flûte enchantée</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5470" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Königin der Nacht</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3704">Flûte enchantée</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5471" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Sarastro</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3704">Flûte enchantée</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5472" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Papagena</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3704">Flûte enchantée</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5473" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Papageno</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3704">Flûte enchantée</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5474" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Monostatos</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3704">Flûte enchantée</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5475" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Erste Dame</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3704">Flûte enchantée</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5476" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Zweite Dame</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3704">Flûte enchantée</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5477" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Dritte Dame</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3704">Flûte enchantée</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
