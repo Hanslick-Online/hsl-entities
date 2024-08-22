@@ -22637,6 +22637,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2524" resp="#awilfing" cert="high">
                <title type="main">Les mystères d’Isis</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
                <author ref="#hsl_person_id_3268">
                   <persName>Morel de Chédeville, Étienne</persName>
                </author>
@@ -32401,6 +32404,14 @@
                <name type="character" ref="#hsl_person_id_5475">Erste Dame</name>
                <name type="character" ref="#hsl_person_id_5476">Zweite Dame</name>
                <name type="character" ref="#hsl_person_id_5477">Dritte Dame</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3705" resp="#awilfing" cert="high">
+               <title type="main">Das Märchen</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4259689-0</idno>
+               <idno type="URL" subtype="Digitalisat">https://ds.ub.uni-bielefeld.de/viewer/image/2104386_010/122/LOG_0013/</idno>
             </bibl>
       </listBibl>
       </body>
