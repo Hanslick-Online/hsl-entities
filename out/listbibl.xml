@@ -148,6 +148,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_7" resp="#awilfing" cert="high">
                <title type="main">Konzert für Violine und Orchester Nr. 2 in d-Moll, op. 11</title>
+               <title type="alternative">Ungarisches Concert / Concert in ungarischer Weise</title>
                <author ref="#hsl_person_id_140">
                   <persName>Joachim, Joseph</persName>
                </author>
@@ -2326,8 +2327,6 @@
                </author>
                <name type="character" ref="#hsl_person_id_516">Ernani</name>
                <name type="character" ref="#hsl_person_id_523">Elvira</name>
-               <name type="character" ref="#hsl_person_id_4053">Don Carlo</name>
-               <name type="character" ref="#hsl_person_id_4054">Don Ruy Gómez de Silva</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300165447</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ernani_(Verdi,_Giuseppe)</idno>
             </bibl>
@@ -22496,7 +22495,7 @@
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
-               <idno type="URI" subtype="GND">https://imslp.org/wiki/Pastorale_in_F_major,_BWV_590_(Bach,_Johann_Sebastian)</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Pastorale_in_F_major,_BWV_590_(Bach,_Johann_Sebastian)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2505" resp="#awilfing" cert="high">
                <title type="main">Gigue</title>
@@ -22506,8 +22505,8 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2506" resp="#awilfing" cert="high">
-               <title type="main">Phantasie für Orgel</title>
-               <title type="alternative">Fantasie; unklarer Bezug</title>
+               <title type="main">Phantasie</title>
+               <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -22520,15 +22519,6 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141513</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Rondo_in_B_minor,_D.895_(Schubert,_Franz)</idno>
-            </bibl>
-            <bibl xml:id="hsl_work_id_2508" resp="#awilfing" cert="high">
-               <title type="main">Sonate für Klavier zu 4 Händen in C-Dur, D812</title>
-               <title type="alternative">Grand Duo</title>
-               <author ref="#hsl_person_id_279">
-                  <persName>Schubert, Franz</persName>
-               </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141955</idno>
-               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Sonata_for_Piano_Duet_in_C_major,_D.812_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2509" resp="#awilfing" cert="high">
                <title type="main">Sonate für Violine und Klavier Nr. 10 in G-Dur, op. 96</title>
@@ -32414,6 +32404,18 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4259689-0</idno>
                <idno type="URL" subtype="Digitalisat">https://ds.ub.uni-bielefeld.de/viewer/image/2104386_010/122/LOG_0013/</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3706" resp="#awilfing" cert="high">
+               <title type="main">Hernani ou L'honneur castillan</title>
+               <author ref="#hsl_person_id_131">
+                  <persName>Hugo, Victor</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_4054">Don Ruy Gomez de Silva</name>
+               <name type="character" ref="#hsl_person_id_5478">Hernani</name>
+               <name type="character" ref="#hsl_person_id_5479">Dona Sol de Silva</name>
+               <name type="character" ref="#hsl_person_id_5480">Don Carlos</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4284775-8</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b8617137c/f13.item</idno>
             </bibl>
       </listBibl>
       </body>

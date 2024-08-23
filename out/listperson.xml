@@ -676,7 +676,7 @@
                      <bibl n="hsl_work_id_2501">Suite für Laute in e-Moll, BWV996</bibl>
                      <bibl n="hsl_work_id_2504">Pastorale in F-Dur,  BWV590</bibl>
                      <bibl n="hsl_work_id_2505">Gigue</bibl>
-                     <bibl n="hsl_work_id_2506">Phantasie für Orgel</bibl>
+                     <bibl n="hsl_work_id_2506">Phantasie</bibl>
                      <bibl n="hsl_work_id_2529">Sonate für Violine und Klavier Nr. 3 in E-Dur, BWV1016</bibl>
                      <bibl n="hsl_work_id_2610">Sonate für Violine und Klavier</bibl>
                      <bibl n="hsl_work_id_2621">Also hat Gott die Welt geliebt, BWV68</bibl>
@@ -3157,6 +3157,7 @@
                      <bibl n="hsl_work_id_896">Notre-Dame de Paris</bibl>
                      <bibl n="hsl_work_id_898">Le roi s'amuse</bibl>
                      <bibl n="hsl_work_id_2499">Lucrèce Borgia</bibl>
+                     <bibl n="hsl_work_id_3706">Hernani ou L'honneur castillan</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_132" resp="#awilfing" cert="medium">
@@ -5840,7 +5841,6 @@
                      <bibl n="hsl_work_id_2414">Die Allmacht, S376</bibl>
                      <bibl n="hsl_work_id_2496">Die Post, D911 Nr. 13</bibl>
                      <bibl n="hsl_work_id_2507">Rondo für Violine und Klavier in h-Moll, D895</bibl>
-                     <bibl n="hsl_work_id_2508">Sonate für Klavier zu 4 Händen in C-Dur, D812</bibl>
                      <bibl n="hsl_work_id_2514">Phantasie für Violine und Klavier in C-Dur, D934</bibl>
                      <bibl n="hsl_work_id_2533">Romanze aus "Rosamunde, Fürstin von Zypern", D797 Nr. 3</bibl>
                      <bibl n="hsl_work_id_2534">Ballett aus "Rosamunde, Fürstin von Zypern", D797 Nr. 6</bibl>
@@ -53811,26 +53811,13 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118501844</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q108316</idno>
                </person>
-               <person xml:id="hsl_person_id_4053" role="fictional" resp="#awilfing" cert="high">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Don Carlo</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Karl</surname>
-                  </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_204">Ernani, H41</bibl>
-                  </listBibl>
-               </person>
                <person xml:id="hsl_person_id_4054" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
-                     <surname>Don Ruy Gómez de Silva</surname>
+                     <surname>Don Ruy Gomez de Silva</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_204">Ernani, H41</bibl>
+                     <bibl n="hsl_work_id_3706">Hernani ou L'honneur castillan</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4055" role="fictional" resp="#awilfing" cert="high">
@@ -69681,6 +69668,37 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_3704">Flûte enchantée</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5478" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Hernani</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3706">Hernani ou L'honneur castillan</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5479" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Dona Sol de Silva</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3706">Hernani ou L'honneur castillan</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5480" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Don Carlos</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Karl</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3706">Hernani ou L'honneur castillan</bibl>
                   </listBibl>
                </person>
             </listPerson>
