@@ -14937,7 +14937,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Tschaikowsky</surname>
+                     <surname>Tschaikowsky / Tschaikowski</surname>
                   </persName>
                   <birth>1840-1893</birth>
                   <death>1840-1893</death>
@@ -20814,7 +20814,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Délibes</surname>
+                     <surname>Délibes / Leo</surname>
                   </persName>
                   <birth>1836-1891</birth>
                   <death>1836-1891</death>
@@ -61458,6 +61458,10 @@
                      <forename>Tiziano</forename>
                      <surname>Vecellio</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Tizian</surname>
+                  </persName>
                   <birth>ca. 1488-1576</birth>
                   <death>ca. 1488-1576</death>
                   <occupation style="background-color: darker-cyan;">Maler</occupation>
@@ -69700,6 +69704,104 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_3706">Hernani ou L'honneur castillan</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5482" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118522582</idno>
+               </person>
+               <person xml:id="hsl_person_id_5483" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Lucas</forename>
+                     <surname>Cranach</surname>
+                  </persName>
+                  <birth>1472-1553</birth>
+                  <death>1472-1553</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118522582</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q191748</idno>
+               </person>
+               <person xml:id="hsl_person_id_5484" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Anna N.</forename>
+                     <surname>Esipova</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Essipoff</surname>
+                  </persName>
+                  <birth>1851-1914</birth>
+                  <death>1851-1914</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116584319</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q521740</idno>
+               </person>
+               <person xml:id="hsl_person_id_5485" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Paula</forename>
+                     <surname>Dürnberger</surname>
+                  </persName>
+                  <birth>1857-?</birth>
+                  <death>1857-?</death>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_W/Walter_Familie.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5486" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Malvolio</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5487" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Junker Tobias</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5488" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Herzog Orsino</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5489" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Gräfin Olivia</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5490" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5491" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Viola</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5492" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Sebastian</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5493" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Junker Christoph</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5494" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Jean-Georges</forename>
+                     <surname>Sieber</surname>
+                  </persName>
+                  <birth>1738-1822</birth>
+                  <death>1738-1822</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/130615595</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1684874</idno>
                </person>
             </listPerson>
          </div>
