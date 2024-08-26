@@ -1109,6 +1109,8 @@
                <name type="character" ref="#hsl_person_id_505">Lucia</name>
                <name type="character" ref="#hsl_person_id_521">Edgardo di Ravenswood</name>
                <name type="character" ref="#hsl_person_id_4126">Enrico Ashton</name>
+               <name type="character" ref="#hsl_person_id_5461">Raimondo Bidebent</name>
+               <name type="character" ref="#hsl_person_id_5482">Arturo Bucklaw</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300045735</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lucia_di_Lammermoor_(Donizetti,_Gaetano)</idno>
             </bibl>
@@ -1223,7 +1225,7 @@
                   <persName>Moinaux, Jules</persName>
                </author>
                <name type="character" ref="#hsl_person_id_633">Nani</name>
-               <idno type="URI" subtype="GND">https://imslp.org/wiki/Les_g%C3%A9orgiennes_(Offenbach%2C_Jacques)</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Les_g%C3%A9orgiennes_(Offenbach%2C_Jacques)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_107" resp="#awilfing" cert="high">
                <title type="main">Les fées du Rhin</title>
@@ -3571,8 +3573,8 @@
                   <persName>Hegel, Georg Wilhelm Friedrich</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4306432-2</idno>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10045986?q=%28hegel+%22Vorlesungen+%C3%BCber+die+Aesthetik%22%29&amp;page=6,7</idno>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10045987?q=%28hegel+%22Vorlesungen+%C3%BCber+die+Aesthetik%22%29&amp;page=6,7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10045986?page=6,7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10045987?page=6,7</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10045988?page=8,9</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_321" resp="#awilfing" cert="high">
@@ -11892,7 +11894,7 @@
                <author ref="#hsl_person_id_2115">
                   <persName>Prechtler, Otto</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://d-nb.info/gnd/1052442897</idno>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1052442897</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1239" resp="#awilfing" cert="high">
                <title type="main">Libuše, JB1:102</title>
@@ -15921,7 +15923,7 @@
                <author ref="#hsl_person_id_2883">
                   <persName>Otto-Peters, Louise</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://d-nb.info/gnd/1277174261</idno>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1277174261</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1682" resp="#awilfing" cert="high">
                <title type="main">Meister Martin der Küfer und seine Gesellen</title>
@@ -18966,6 +18968,9 @@
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300490119</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Soir%C3%A9es_musicales_de_Rossini,_S.424_(Liszt,_Franz)</idno>
             </bibl>
@@ -19567,6 +19572,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2102" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 8 in e-Moll, op. 59 Nr. 2</title>
+               <title type="alternative">Rasumowski-Quartette</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -20134,6 +20140,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2171" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 9 in C-Dur, op. 59 Nr. 3</title>
+               <title type="alternative">Rasumowski-Quartette</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -20757,7 +20764,7 @@
                   <persName>Grünfeld, Alfred</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30034869X</idno>
-               <idno type="URL" subtype="Digitalisat">https://d-nb.info/gnd/30034869X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Soir%C3%A9e_de_Vienne%2C_Op.56_(Gr%C3%BCnfeld%2C_Alfred)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2231" resp="#awilfing" cert="high">
                <title type="main">Fledermaus-Quadrille, op. 363</title>
@@ -21931,7 +21938,6 @@
                <author ref="#hsl_person_id_3834">
                   <persName>Kopisch, August</persName>
                </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1261199081</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2366" resp="#awilfing" cert="high">
                <title type="main">Gedichte</title>
@@ -22947,19 +22953,13 @@
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300397798</idno>
-               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Barcarolle_No.4_(Rubinstein%2C_Anton)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2491" resp="#awilfing" cert="high">
                <title type="main">Nocturne für Klavier</title>
                <title type="alternative">unklarer Bezug</title>
-               <noteGrp type="Werkbezug">
-                  <note type="Werkbezug" target="hsl_work_id_3452">3 Morceaux für Klavier, op. 71</note>
-               </noteGrp>
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Morceaux%2C_Op.71_(Rubinstein%2C_Anton)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2492" resp="#awilfing" cert="high">
                <title type="main">Contredanse für Klavier, op. 14 Nr. 3</title>
@@ -23171,8 +23171,8 @@
                <author ref="#hsl_person_id_140">
                   <persName>Joachim, Joseph</persName>
                </author>
-               <idno type="URI" subtype="GND">https://imslp.org/wiki/Violin_Concerto_No.3_(Joachim%2C_Joseph)</idno>
-               <idno type="URL" subtype="Digitalisat">https://d-nb.info/gnd/113663178X</idno>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/113663178X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Concerto_No.3_(Joachim%2C_Joseph)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2517" resp="#awilfing" cert="high">
                <title type="main">Quintett für 2 Violinen, Viola, Cello und Klavier</title>
@@ -23303,7 +23303,10 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_No.21_in_D_major%2C_K.575_(Mozart%2C_Wolfgang_Amadeus)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2533" resp="#awilfing" cert="high">
-               <title type="main">Romanze aus "Rosamunde, Fürstin von Zypern", D797 Nr. 3</title>
+               <title type="main">Romanze aus Rosamunde, Fürstin von Zypern, D797 Nr. 3</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_696">Rosamunde, Fürstin von Zypern, D797</note>
+               </noteGrp>
                <author ref="#hsl_person_id_257">
                   <persName>Chézy, Helmina von</persName>
                </author>
@@ -23314,7 +23317,10 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Rosamunde,_D.797_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2534" resp="#awilfing" cert="high">
-               <title type="main">Ballett aus "Rosamunde, Fürstin von Zypern", D797 Nr. 6</title>
+               <title type="main">Ballett aus Rosamunde, Fürstin von Zypern, D797 Nr. 6</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_696">Rosamunde, Fürstin von Zypern, D797</note>
+               </noteGrp>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -23352,6 +23358,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2540" resp="#awilfing" cert="high">
                <title type="main">Notturno</title>
+               <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_143">
                   <persName>Kässmayer, Moritz</persName>
                </author>
@@ -23383,8 +23390,8 @@
                <author ref="#hsl_person_id_321">
                   <persName>Weber, Carl Maria von</persName>
                </author>
-               <idno type="URI" subtype="GND">https://imslp.org/wiki/Momento_capriccioso,_Op.12_(Weber,_Carl_Maria_von)</idno>
-               <idno type="URL" subtype="Digitalisat">https://d-nb.info/gnd/300171730</idno>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300171730</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Momento_capriccioso,_Op.12_(Weber,_Carl_Maria_von)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2547" resp="#awilfing" cert="high">
                <title type="main">Nena Sahib</title>
@@ -27448,6 +27455,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2998" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 7 in F-Dur, op. 59 Nr. 1</title>
+               <title type="alternative">Rasumowski-Quartette</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -29663,6 +29671,9 @@
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300213506</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Soir%C3%A9es_de_Vienne,_S.427_(Liszt,_Franz)</idno>
             </bibl>
@@ -30066,6 +30077,9 @@
                </noteGrp>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300094701</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Soir%C3%A9es_de_Vienne,_S.427_(Liszt,_Franz)</idno>
@@ -31356,6 +31370,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3426" resp="#awilfing" cert="high">
                <title type="main">6 Moments musicaux für Klavier, D780</title>
+               <title type="alternative">Moments musicales</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -31647,6 +31662,9 @@
                <title type="main">Soirées musicales de Rossini für Klavier, S424</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300276702</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Soir%C3%A9es_musicales_de_Rossini,_S.424_(Liszt,_Franz)</idno>
@@ -33499,6 +33517,18 @@
                <name type="character" ref="#hsl_person_id_5480">Don Carlos</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4284775-8</idno>
                <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b8617137c/f13.item</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3707" resp="#awilfing" cert="high">
+               <title type="main">Scherzo à capriccio für Klavier, MWV U 113</title>
+               <author ref="#hsl_person_id_21">
+                  <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30019627X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Scherzo_%C3%A0_capriccio%2C_WoO_3_(Mendelssohn%2C_Felix)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3708" resp="#awilfing" cert="high">
+               <title type="main">Neues Fremden-Blatt</title>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nfb</idno>
             </bibl>
       </listBibl>
       </body>
