@@ -5748,11 +5748,15 @@
                <place xml:id="hsl_place_id_485" resp="#awilfing" cert="medium">
                   <placeName type="main">In</placeName>
                </place>
-               <place xml:id="hsl_place_id_486" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_486" resp="#awilfing" cert="high">
                   <placeName type="main">Kanpur</placeName>
+                     <placeName type="alternative">Cawnpore</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/1267995/</idno>
                </place>
-               <place xml:id="hsl_place_id_487" resp="#awilfing" cert="medium">
-                  <placeName type="main">Delhi</placeName>
+               <place xml:id="hsl_place_id_487" resp="#awilfing" cert="high">
+                  <placeName type="main">Dillī / Dêhlī</placeName>
+                     <placeName type="alternative">Delhi</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/1273294/</idno>
                </place>
                <place xml:id="hsl_place_id_488" resp="#awilfing" cert="medium">
                   <placeName type="main">Hessen</placeName>
