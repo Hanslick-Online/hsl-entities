@@ -17689,7 +17689,7 @@
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10113233?page=8,9</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1882" resp="#awilfing" cert="high">
-               <title type="main">Novelette für Klavier in D-Dur, op. 21 Nr. 2</title>
+               <title type="main">Novellette für Klavier in D-Dur, op. 21 Nr. 2</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_693">8 Novelletten für Klavier, op. 21</note>
                </noteGrp>
@@ -30446,6 +30446,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3327" resp="#awilfing" cert="high">
                <title type="main">Ah! Perfido, op. 65</title>
+               <title type="alternative">Ah perfido</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -30487,7 +30488,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/9_Lieder_and_Songs,_Op.63_(Brahms,_Johannes)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3330" resp="#awilfing" cert="high">
-               <title type="main">Notturno in D-Dur, KV286</title>
+               <title type="main">Notturno für 4 Orchester in D-Dur, KV286</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
@@ -30545,6 +30546,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3337" resp="#awilfing" cert="high">
                <title type="main">Die Seligkeiten, S25</title>
+               <title type="alternative">Sieben Seligkeiten</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -30699,7 +30701,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3352" resp="#awilfing" cert="high">
-               <title type="main">Novelette</title>
+               <title type="main">Novellette</title>
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_1403">
                   <persName>Rückauf, Anton</persName>
@@ -33663,6 +33665,36 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/991037456</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Concerto%2C_Op.32_(Mackenzie%2C_Alexander_Campbell)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3724" resp="#awilfing" cert="high">
+               <title type="main">Dem Unendlichen</title>
+               <author ref="#hsl_person_id_2381">
+                  <persName>Klopstock, Friedrich Gottlieb</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10112515?page=210,211</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3725" resp="#awilfing" cert="high">
+               <title type="main">5 Gesänge für Singstimme und Klavier, op. 9</title>
+               <author ref="#hsl_person_id_115">
+                  <persName>Hebbel, Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_2417">
+                  <persName>Albert, Eugen d'</persName>
+               </author>
+               <author ref="#hsl_person_id_3409">
+                  <persName>Cornelius, Peter</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1272356108</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3726" resp="#awilfing" cert="high">
+               <title type="main">Zur Drossel sprach der Fink, op. 9 Nr. 4</title>
+               <author ref="#hsl_person_id_2417">
+                  <persName>Albert, Eugen d'</persName>
+               </author>
+               <author ref="#hsl_person_id_3409">
+                  <persName>Cornelius, Peter</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1272359409</idno>
             </bibl>
       </listBibl>
       </body>
