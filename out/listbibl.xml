@@ -4288,7 +4288,17 @@
                <author ref="#hsl_person_id_287">
                   <persName>Shakespeare, William</persName>
                </author>
+               <author ref="#hsl_person_id_5491">
+                  <persName>Viola</persName>
+               </author>
+               <author ref="#hsl_person_id_5492">
+                  <persName>Sebastian</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_578">Orsino</name>
+               <name type="character" ref="#hsl_person_id_5486">Malvolio</name>
+               <name type="character" ref="#hsl_person_id_5487">Toby Belch</name>
+               <name type="character" ref="#hsl_person_id_5489">Olivia</name>
+               <name type="character" ref="#hsl_person_id_5493">Andrew Aguecheek</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4316770-6</idno>
                <idno type="URL" subtype="Digitalisat">https://www.folger.edu/explore/shakespeares-works/twelfth-night/read/</idno>
             </bibl>
@@ -30083,6 +30093,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3288" resp="#awilfing" cert="high">
                <title type="main">Soirées de Vienne für Klavier, S427 Nr. 6</title>
+               <title type="alternative">Valse caprice</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_3244">Soirées de Vienne für Klavier, S427</note>
                </noteGrp>
@@ -33590,8 +33601,8 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1292398752</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Se_i_miei_sospiri_(F%C3%A9tis%2C_Fran%C3%A7ois-Joseph)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3714" resp="#awilfing" cert="medium">
-               <title type="main">Symphonie in C-Dur, Hob. I: 82</title>
+            <bibl xml:id="hsl_work_id_3714" resp="#awilfing" cert="high">
+               <title type="main">Symphonie in C-Dur, Hob. I:82</title>
                <title type="alternative">Bärensymphonie / L'ours</title>
                <author ref="#hsl_person_id_114">
                   <persName>Haydn, Joseph</persName>
@@ -33607,59 +33618,69 @@
                <idno type="URI" subtype="GND">https://d-nb.info/1006523723</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Concerto%2C_Op.28_(Goldmark%2C_Carl)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3716" resp="#awilfing" cert="medium">
-               <title type="main">Klavierkonzert a-Moll, op. 17</title>
+            <bibl xml:id="hsl_work_id_3716" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Klavier und Orchester in a-Moll, op. 17</title>
                <author ref="#hsl_person_id_2452">
                   <persName>Paderewski, Ignacy Jan</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/352919507</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Concerto%2C_Op.17_(Paderewski%2C_Ignacy_Jan)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3717" resp="#awilfing" cert="medium">
-               <title type="main">Menuett in G-Dur, op. 14 Nr. 1</title>
+            <bibl xml:id="hsl_work_id_3717" resp="#awilfing" cert="high">
+               <title type="main">Menuett für Klavier in G-Dur, op. 14 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3728">6 Humoresques de concert für Klavier, op. 14</note>
+               </noteGrp>
                <author ref="#hsl_person_id_2452">
                   <persName>Paderewski, Ignacy Jan</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30018879X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Humoresques_de_concert%2C_Op.14_(Paderewski%2C_Ignacy_Jan)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3718" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3718" resp="#awilfing" cert="high">
                <title type="main">Auf dem See, op. 106 Nr. 2</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_1586">5 Lieder für Singstimme und Klavier, op. 106</note>
+               </noteGrp>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_5497">
+                  <persName>Köstlin, Reinhold</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1058576313</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/5_Lieder,_Op.106_(Brahms,_Johannes)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3719" resp="#awilfing" cert="medium">
-               <title type="main">Impromptu B-Dur, D935 Nr. 3</title>
+            <bibl xml:id="hsl_work_id_3719" resp="#awilfing" cert="high">
+               <title type="main">Impromptu für Klavier in B-Dur, D935 Nr. 3</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3730">4 Impromptus für Klavier, D935</note>
+               </noteGrp>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/1004960581</idno>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30014072X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/4_Impromptus,_D.935_(Schubert,_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3720" resp="#awilfing" cert="medium">
-               <title type="main">Valse caprice, S427 Nr. 6</title>
-               <author ref="#hsl_person_id_164">
-                  <persName>Liszt, Franz</persName>
-               </author>
-               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Soir%C3%A9es_de_Vienne,_S.427_(Liszt,_Franz)</idno>
-            </bibl>
-            <bibl xml:id="hsl_work_id_3721" resp="#awilfing" cert="medium">
-               <title type="main">Ouvertüre zu "Was ihr wollt" von Shakespeare</title>
+            <bibl xml:id="hsl_work_id_3721" resp="#awilfing" cert="high">
+               <title type="main">Overtüre zu "Twelfth Night", op. 40</title>
+               <title type="alternative">Was ihr wollt</title>
                <author ref="#hsl_person_id_2620">
                   <persName>Mackenzie, Alexander Campbell</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300442238</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Overture_'Twelfth_Night'%2C_Op.40_(Mackenzie%2C_Alexander_Campbell)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3722" resp="#awilfing" cert="medium">
-               <title type="main">Second Scottish Rhapsody "Burns", op. 24</title>
-               <title type="alternative">Schottische Rhapsodie</title>
+            <bibl xml:id="hsl_work_id_3722" resp="#awilfing" cert="high">
+               <title type="main">Burns, op. 24</title>
+               <title type="alternative">Schottische Rhapsodie / Second Scotch Rhapsody</title>
                <author ref="#hsl_person_id_2620">
                   <persName>Mackenzie, Alexander Campbell</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Burns%2C_Op.24_(Mackenzie%2C_Alexander_Campbell)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3723" resp="#awilfing" cert="medium">
-               <title type="main">Violinkonzert in cis-Moll, op. 32</title>
+            <bibl xml:id="hsl_work_id_3723" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Violine und Orchester in cis-Moll, op. 32</title>
                <author ref="#hsl_person_id_2620">
                   <persName>Mackenzie, Alexander Campbell</persName>
                </author>
@@ -33695,6 +33716,32 @@
                   <persName>Cornelius, Peter</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1272359409</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3727" resp="#awilfing" cert="high">
+               <title type="main">Magnificat</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3728" resp="#awilfing" cert="high">
+               <title type="main">6 Humoresques de concert für Klavier, op. 14</title>
+               <author ref="#hsl_person_id_2452">
+                  <persName>Paderewski, Ignacy Jan</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300330812</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Humoresques_de_concert%2C_Op.14_(Paderewski%2C_Ignacy_Jan)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3729" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3730" resp="#awilfing" cert="medium">
+               <title type="main">4 Impromptus für Klavier, D935</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300140703</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/4_Impromptus,_D.935_(Schubert,_Franz)</idno>
             </bibl>
       </listBibl>
       </body>

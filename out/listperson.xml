@@ -694,6 +694,7 @@
                      <bibl n="hsl_work_id_3417">Fuge für Orgel in a-Moll</bibl>
                      <bibl n="hsl_work_id_3520">Gloria in excelsis Deo, BWV191</bibl>
                      <bibl n="hsl_work_id_3547">Konzert für Flöte, Violine und Klavier in a-Moll, BWV1044</bibl>
+                     <bibl n="hsl_work_id_3727">Magnificat</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_19" resp="#awilfing" cert="medium">
@@ -2843,7 +2844,7 @@
                      <bibl n="hsl_work_id_3353">Quartett für 2 Violinen, Viola und Cello in G-Dur</bibl>
                      <bibl n="hsl_work_id_3456">Quartett für 2 Violinen, Viola und Cello in g-Moll, Hob. III:33</bibl>
                      <bibl n="hsl_work_id_3642">Symphonie</bibl>
-                     <bibl n="hsl_work_id_3714">Symphonie in C-Dur, Hob. I: 82</bibl>
+                     <bibl n="hsl_work_id_3714">Symphonie in C-Dur, Hob. I:82</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_115" resp="#awilfing" cert="high">
@@ -3803,7 +3804,6 @@
                      <bibl n="hsl_work_id_3584">Die Himmel erzählen die Ehre Gottes</bibl>
                      <bibl n="hsl_work_id_3665">Ungarische Rhapsodien für Klavier, S244</bibl>
                      <bibl n="hsl_work_id_3675">Ungarische Rhapsodie für Klavier in a-Moll, S244 Nr. 13</bibl>
-                     <bibl n="hsl_work_id_3720">Valse caprice, S427 Nr. 6</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_165" resp="#awilfing" cert="high">
@@ -5888,7 +5888,8 @@
                      <bibl n="hsl_work_id_3455">Soirées musicales de Rossini für Klavier, S424</bibl>
                      <bibl n="hsl_work_id_3591">Suleika I, op.14/1</bibl>
                      <bibl n="hsl_work_id_3592">Suleika II, op.31</bibl>
-                     <bibl n="hsl_work_id_3719">Impromptu B-Dur, D935 Nr. 3</bibl>
+                     <bibl n="hsl_work_id_3719">Impromptu für Klavier in B-Dur, D935 Nr. 3</bibl>
+                     <bibl n="hsl_work_id_3730">4 Impromptus für Klavier, D935</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_280" resp="#awilfing" cert="high">
@@ -34061,8 +34062,9 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q191957</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_P/Paderewski_Ignacy.xml</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_3716">Klavierkonzert a-Moll, op. 17</bibl>
-                     <bibl n="hsl_work_id_3717">Menuett in G-Dur, op. 14 Nr. 1</bibl>
+                     <bibl n="hsl_work_id_3716">Konzert für Klavier und Orchester in a-Moll, op. 17</bibl>
+                     <bibl n="hsl_work_id_3717">Menuett für Klavier in G-Dur, op. 14 Nr. 1</bibl>
+                     <bibl n="hsl_work_id_3728">6 Humoresques de concert für Klavier, op. 14</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2453" resp="#awilfing" cert="high">
@@ -34782,7 +34784,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/104162392</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4525707</idno>
                </person>
-               <person xml:id="hsl_person_id_2510" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2510" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Albrecht</forename>
                      <surname>Dürer</surname>
@@ -36085,9 +36087,9 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116644729</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q674739</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_3721">Ouvertüre zu "Was ihr wollt" von Shakespeare</bibl>
-                     <bibl n="hsl_work_id_3722">Second Scottish Rhapsody "Burns", op. 24</bibl>
-                     <bibl n="hsl_work_id_3723">Violinkonzert in cis-Moll, op. 32</bibl>
+                     <bibl n="hsl_work_id_3721">Overtüre zu "Twelfth Night", op. 40</bibl>
+                     <bibl n="hsl_work_id_3722">Burns, op. 24</bibl>
+                     <bibl n="hsl_work_id_3723">Konzert für Violine und Orchester in cis-Moll, op. 32</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2621" resp="#awilfing" cert="high">
@@ -69795,17 +69797,18 @@
                      <bibl n="hsl_work_id_95">Lucia di Lammermoor</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_5483" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5483" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Lucas</forename>
                      <surname>Cranach der Ältere</surname>
                   </persName>
                   <birth>1472-1553</birth>
                   <death>1472-1553</death>
+                  <occupation style="background-color: darker-cyan;">Maler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118522582</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q191748</idno>
                </person>
-               <person xml:id="hsl_person_id_5484" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5484" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Anna N.</forename>
                      <surname>Esipova</surname>
@@ -69816,41 +69819,50 @@
                   </persName>
                   <birth>1851-1914</birth>
                   <death>1851-1914</death>
+                  <occupation style="background-color: dark-blue;">Pianistin</occupation>
+                  <occupation style="background-color: light-blue;">Musiklehrerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116584319</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q521740</idno>
                </person>
-               <person xml:id="hsl_person_id_5485" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5485" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Paula</forename>
                      <surname>Dürnberger</surname>
                   </persName>
                   <birth>1857-?</birth>
                   <death>1857-?</death>
-                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_W/Walter_Familie.xml</idno>
+                  <occupation style="background-color: dark-blue;">Pianistin</occupation>
                </person>
-               <person xml:id="hsl_person_id_5486" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5486" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Malvolio</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_395">Twelfth Night</bibl>
+                  </listBibl>
                </person>
-               <person xml:id="hsl_person_id_5487" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5487" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
-                     <surname>Junker Tobias</surname>
+                     <surname>Toby Belch</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Tobias</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_395">Twelfth Night</bibl>
+                  </listBibl>
                </person>
-               <person xml:id="hsl_person_id_5488" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5489" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
-                     <surname>Herzog Orsino</surname>
+                     <surname>Olivia</surname>
                   </persName>
-               </person>
-               <person xml:id="hsl_person_id_5489" role="fictional" resp="#awilfing" cert="medium">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Gräfin Olivia</surname>
-                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_395">Twelfth Night</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_5490" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -69867,31 +69879,45 @@
                   <occupation style="background-color: light-gray;">Musikautor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118707566</idno>
                </person>
-               <person xml:id="hsl_person_id_5491" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5491" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Viola</surname>
                   </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_395">Twelfth Night</bibl>
+                  </listBibl>
                </person>
-               <person xml:id="hsl_person_id_5492" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5492" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Sebastian</surname>
                   </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_395">Twelfth Night</bibl>
+                  </listBibl>
                </person>
-               <person xml:id="hsl_person_id_5493" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5493" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
-                     <surname>Junker Christoph</surname>
+                     <surname>Andrew Aguecheek</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Christoph</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_395">Twelfth Night</bibl>
+                  </listBibl>
                </person>
-               <person xml:id="hsl_person_id_5494" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5494" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Jean-Georges</forename>
                      <surname>Sieber</surname>
                   </persName>
                   <birth>1738-1822</birth>
                   <death>1738-1822</death>
+                  <occupation style="background-color: darker-red;">Musikverleger</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/130615595</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1684874</idno>
                </person>
@@ -69905,6 +69931,31 @@
                   <occupation style="background-color: dark-gray;">Politiker</occupation>
                   <occupation style="background-color: dark-green;">Minister</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4848887</idno>
+               </person>
+               <person xml:id="hsl_person_id_5496" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Johann Christoph</forename>
+                     <surname>Lauterbach</surname>
+                  </persName>
+                  <birth>1832-1918</birth>
+                  <death>1832-1918</death>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116770368</idno>
+               </person>
+               <person xml:id="hsl_person_id_5497" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Reinhold</forename>
+                     <surname>Köstlin</surname>
+                  </persName>
+                  <birth>1813-1856</birth>
+                  <death>1813-1856</death>
+                  <occupation style="background-color: green;">Jurist</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/100798802</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3718">Auf dem See, op. 106 Nr. 2</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
