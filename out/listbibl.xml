@@ -1012,7 +1012,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_87" resp="#awilfing" cert="high">
                <title type="main">Missa Solemnis in D-Dur, op. 123</title>
-               <title type="alternative">Missa solennis</title>
+               <title type="alternative">Missa solennis / Festmesse</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -20105,6 +20105,7 @@
                <author ref="#hsl_person_id_165">
                   <persName>Lortzing, Albert</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5098">Peter</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300316321</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_beiden_Sch%C3%BCtzen_(Lortzing%2C_Albert)</idno>
             </bibl>
@@ -30744,6 +30745,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3356" resp="#awilfing" cert="high">
                <title type="main">Führer durch den Concertsaal. I. Abtheilung: Sinfonie und Suite</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3355">Führer durch den Concertsaal</note>
+               </noteGrp>
                <author ref="#hsl_person_id_1826">
                   <persName>Kretzschmar, Hermann</persName>
                </author>
@@ -30751,6 +30755,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3357" resp="#awilfing" cert="high">
                <title type="main">Führer durch den Concertsaal. II. Abtheilung, Erster Theil: Kirchliche Werke</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3355">Führer durch den Concertsaal</note>
+               </noteGrp>
                <author ref="#hsl_person_id_1826">
                   <persName>Kretzschmar, Hermann</persName>
                </author>
@@ -30758,6 +30765,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3358" resp="#awilfing" cert="high">
                <title type="main">Führer durch den Concertsaal. II. Abtheilung, Zweiter Theil: Oratorien und Weltliche Chorwerke</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3355">Führer durch den Concertsaal</note>
+               </noteGrp>
                <author ref="#hsl_person_id_1826">
                   <persName>Kretzschmar, Hermann</persName>
                </author>
@@ -30784,7 +30794,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3361" resp="#awilfing" cert="high">
                <title type="main">Johannes Miksch, der größte deutsche Singemeister und sein Gesangssystem. Vom Atmen</title>
-               <title type="alternative">Johannes Miksch, der größte deutsche Singemeister und sein System</title>
+               <title type="alternative">Johannes Miksch, der größte deutsche Singemeister, und sein System</title>
                <author ref="#hsl_person_id_3764">
                   <persName>Kohut, Adolph</persName>
                </author>
@@ -30881,7 +30891,7 @@
                <idno type="URL" subtype="Digitalisat">https://babel.hathitrust.org/cgi/pt?id=mdp.39015023339743&amp;seq=281</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3373" resp="#awilfing" cert="high">
-               <title type="main">Der Führer durch die Oper des Theaters der Gegenwart, Text Musik und Scene erläuternd</title>
+               <title type="main">Der Führer durch die Oper des Theaters der Gegenwart, Text, Musik und Scene erläuternd</title>
                <author ref="#hsl_person_id_5084">
                   <persName>Neitzel, Otto</persName>
                </author>
@@ -30890,7 +30900,10 @@
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/ab3derfhrerdur01neit/page/n5/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3374" resp="#awilfing" cert="high">
-               <title type="main">Der Führer durch die Oper des Theaters der Gegenwart, Text Musik und Scene erläuternd. 1. Band. Deutsche Opern. 1. Abtheilung</title>
+               <title type="main">Der Führer durch die Oper des Theaters der Gegenwart, Text, Musik und Scene erläuternd. 1. Band. Deutsche Opern. 1. Abtheilung</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3373">Der Führer durch die Oper des Theaters der Gegenwart, Text, Musik und Scene erläuternd</note>
+               </noteGrp>
                <author ref="#hsl_person_id_5084">
                   <persName>Neitzel, Otto</persName>
                </author>
@@ -30912,7 +30925,6 @@
                <name type="character" ref="#hsl_person_id_5094">Rund</name>
                <name type="character" ref="#hsl_person_id_5095">Joseph</name>
                <name type="character" ref="#hsl_person_id_5096">Adam</name>
-               <name type="character" ref="#hsl_person_id_5098">Peter</name>
                <name type="character" ref="#hsl_person_id_5104">Margarethe</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1109917732</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Dorfbarbier_(Schenk%2C_Johann)</idno>

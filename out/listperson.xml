@@ -23750,10 +23750,6 @@
                      <forename/>
                      <surname>Siegfried</surname>
                   </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Bursche</surname>
-                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_1315">Siegfried, WWV86C</bibl>
@@ -23935,7 +23931,7 @@
                      <surname>Brodskij</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
+                     <forename>Adolph</forename>
                      <surname>Brodski / Brodsky</surname>
                   </persName>
                   <birth>1851-1929</birth>
@@ -24015,7 +24011,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11890745X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1339344</idno>
                </person>
-               <person xml:id="hsl_person_id_1703" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1703" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Hermann</forename>
                      <surname>Wolff</surname>
@@ -42523,7 +42519,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Personifikation des Todes</surname>
+                     <surname>Gevatter Hein / Hain; Personifikation des Todes</surname>
                   </persName>
                   <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1379520</idno>
@@ -50930,7 +50926,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117174793</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q76249</idno>
                </person>
-               <person xml:id="hsl_person_id_3803" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3803" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Mathilde</forename>
                      <surname>Mayer</surname>
@@ -50941,7 +50937,7 @@
                   </persName>
                   <birth>19./20. Jhdt.</birth>
                   <death>19./20. Jhdt.</death>
-                  <occupation style="background-color: gray;">Sängerin</occupation>
+                  <occupation style="background-color: dark-gray;">Sängerin (Alt)</occupation>
                </person>
                <person xml:id="hsl_person_id_3804" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -65441,6 +65437,10 @@
                      <forename>Adolf</forename>
                      <surname>Prosniz</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Adolph</forename>
+                     <surname>Prosniz</surname>
+                  </persName>
                   <birth>1829-1917</birth>
                   <death>1829-1917</death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/137706324</idno>
@@ -65485,6 +65485,7 @@
                   </persName>
                   <birth>1818-1876</birth>
                   <death>1818-1876</death>
+                  <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117064815</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_M/Mitterwurzer_Anton.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/http://www.musiklexikon.ac.at/ml/musik_M/Mitterwurzer_Anton_Georg.xml</idno>
@@ -65678,8 +65679,8 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116909390</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3371">Der alte Dessauer</bibl>
-                     <bibl n="hsl_work_id_3373">Der Führer durch die Oper des Theaters der Gegenwart, Text Musik und Scene erläuternd</bibl>
-                     <bibl n="hsl_work_id_3374">Der Führer durch die Oper des Theaters der Gegenwart, Text Musik und Scene erläuternd. 1. Band. Deutsche Opern. 1. Abtheilung</bibl>
+                     <bibl n="hsl_work_id_3373">Der Führer durch die Oper des Theaters der Gegenwart, Text, Musik und Scene erläuternd</bibl>
+                     <bibl n="hsl_work_id_3374">Der Führer durch die Oper des Theaters der Gegenwart, Text, Musik und Scene erläuternd. 1. Band. Deutsche Opern. 1. Abtheilung</bibl>
                      <bibl n="hsl_work_id_3661">Die russische Musik und ihr berufenster Vertreter</bibl>
                   </listBibl>
                </person>
@@ -65832,7 +65833,7 @@
                      <surname>Peter</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_3375">Der Dorfbarbier</bibl>
+                     <bibl n="hsl_work_id_2165">Die beiden Schützen, LoWV35</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_5099" resp="#awilfing" cert="high">
