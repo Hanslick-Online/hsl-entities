@@ -5669,7 +5669,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_572" resp="#awilfing" cert="high">
                <title type="main">Grande Messe des morts, H75</title>
-               <title type="alternative">Requiem</title>
+               <title type="alternative">Requiem / Todtenmesse</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
                </author>
@@ -30979,6 +30979,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3381" resp="#awilfing" cert="high">
                <title type="main">Variiertes Original-Thema für Orchester, op. 44</title>
+               <title type="alternative">Variirtes Originalthema</title>
                <author ref="#hsl_person_id_909">
                   <persName>Hager, Johannes</persName>
                </author>
@@ -31111,7 +31112,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3395" resp="#awilfing" cert="high">
                <title type="main">Šelma sedlák, B67</title>
-               <title type="alternative">Der Bauer ein Schelm</title>
+               <title type="alternative">Der Bauer ein Schelm / Der Bauer als Schelm</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
@@ -31333,7 +31334,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3418" resp="#awilfing" cert="high">
-               <title type="main">Gigue in G-Dur</title>
+               <title type="main">Gigue für Klavier in G-Dur</title>
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_890">
                   <persName>Scarlatti, Alessandro</persName>
@@ -33754,6 +33755,26 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300140703</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/4_Impromptus,_D.935_(Schubert,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3731" resp="#awilfing" cert="high">
+               <title type="main">Über Hector Berlioz</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_2285">Wiener allgemeine Musik-Zeitung</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_414">
+                  <persName>Becher, Alfred Julius</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=awm&amp;datum=18451202&amp;seite=1&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=awm&amp;datum=18451209&amp;seite=1&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=awm&amp;datum=18451230&amp;seite=1&amp;zoom=33</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3732" resp="#awilfing" cert="high">
+               <title type="main">Requiem in c-Moll</title>
+               <author ref="#hsl_person_id_47">
+                  <persName>Cherubini, Luigi</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4825553-1</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Requiem_in_C_minor_(Cherubini%2C_Luigi)</idno>
             </bibl>
       </listBibl>
       </body>
