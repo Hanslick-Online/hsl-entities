@@ -34326,7 +34326,7 @@
                      <bibl n="hsl_work_id_953">Der Trompeter von Säkkingen</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_2472" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2472" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Paul</forename>
                      <surname>Bulß</surname>
@@ -62435,13 +62435,13 @@
                      <bibl n="hsl_work_id_3120">Die Flüchtlinge</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4794" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4794" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Hermann</forename>
                      <surname>Breiting</surname>
                   </persName>
-                  <birth>1804-1859</birth>
-                  <death>1804-1859</death>
+                  <birth>1804-1860</birth>
+                  <death>1804-1860</death>
                   <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116481587</idno>
                </person>
@@ -62617,7 +62617,7 @@
                   <occupation style="background-color: dark-cyan;">Adeliger</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/104142316</idno>
                </person>
-               <person xml:id="hsl_person_id_4810" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4810" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Sebastian</forename>
                      <surname>Binder</surname>
@@ -62626,8 +62626,9 @@
                   <death>1792-1845</death>
                   <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/102144264X</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_B/Binder_Sebastian.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_4811" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4811" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Joseph</forename>
                      <surname>Pöck</surname>
@@ -67549,6 +67550,10 @@
                      <forename>Hans</forename>
                      <surname>Gram</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Hanns</forename>
+                     <surname>Gram</surname>
+                  </persName>
                   <birth>1754-1804</birth>
                   <death>1754-1804</death>
                   <occupation style="background-color: dark-blue;">Organist</occupation>
@@ -69960,6 +69965,19 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/100798802</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3718">Auf dem See, op. 106 Nr. 2</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5498" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Bartholomew</forename>
+                     <surname>Brown</surname>
+                  </persName>
+                  <birth>1772-1854</birth>
+                  <death>1772-1854</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q11908581</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3733">Bridgewater Collection of Sacred Music</bibl>
                   </listBibl>
                </person>
             </listPerson>
