@@ -5583,7 +5583,7 @@
                      <bibl n="hsl_work_id_1180">Wiener Walzer</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_266" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_266" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Zelia</forename>
                      <surname>Trebelli</surname>
@@ -11123,8 +11123,8 @@
                      <surname>Traetta</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
-                     <surname>Traëtta</surname>
+                     <forename>Tomaso</forename>
+                     <surname>Traëtta / Trajetta</surname>
                   </persName>
                   <birth>1727-1779</birth>
                   <death>1727-1779</death>
@@ -12693,6 +12693,10 @@
                   <persName type="main">
                      <forename>Maria</forename>
                      <surname>Malibran</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Marie</forename>
+                     <surname>Garcia</surname>
                   </persName>
                   <birth>1808-1836</birth>
                   <death>1808-1836</death>
@@ -15535,7 +15539,7 @@
                      <bibl n="hsl_work_id_184">Hans Heiling, op. 80</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_1047" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1047" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Minnie</forename>
                      <surname>Hauk</surname>
@@ -67618,7 +67622,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Traëtta</surname>
+                     <surname>Traëtta / Trajetta</surname>
                   </persName>
                   <birth>1777-1854</birth>
                   <death>1777-1854</death>
@@ -68073,34 +68077,51 @@
                      <forename>John</forename>
                      <surname>Davis</surname>
                   </persName>
+                  <birth>18./19. Jhdt.</birth>
+                  <death>18./19. Jhdt.</death>
+                  <occupation style="background-color: yellow;">Unternehmer</occupation>
+                  <occupation style="background-color: dark-blue;">Theaterdirektor</occupation>
                </person>
                <person xml:id="hsl_person_id_5303" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Charles</forename>
-                     <surname>Boudausquié</surname>
+                     <surname>Boudousquié</surname>
                   </persName>
                   <persName type="alternative">
                      <forename/>
                      <surname>Boudausquier</surname>
                   </persName>
+                  <birth>1814-1866</birth>
+                  <death>1814-1866</death>
+                  <occupation style="background-color: dark-blue;">Theaterdirektor</occupation>
                </person>
                <person xml:id="hsl_person_id_5304" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Charles</forename>
                      <surname>Alhaiza</surname>
                   </persName>
+                  <birth>1827-1866</birth>
+                  <death>1827-1866</death>
+                  <occupation style="background-color: dark-blue;">Theaterdirektor</occupation>
                </person>
                <person xml:id="hsl_person_id_5305" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Marcelin</forename>
                      <surname>Alhaiza</surname>
                   </persName>
+                  <birth>1831-1866</birth>
+                  <death>1831-1866</death>
+                  <occupation style="background-color: dark-blue;">Theaterdirektor</occupation>
                </person>
                <person xml:id="hsl_person_id_5306" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ferdinand</forename>
                      <surname>Palmo</surname>
                   </persName>
+                  <birth>1784-1869</birth>
+                  <death>1784-1869</death>
+                  <occupation style="background-color: yellow;">Unternehmer</occupation>
+                  <occupation style="background-color: dark-blue;">Theaterdirektor</occupation>
                </person>
                <person xml:id="hsl_person_id_5308" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -68139,6 +68160,10 @@
                   <persName type="main">
                      <forename>Marie</forename>
                      <surname>Rôze</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Roze</surname>
                   </persName>
                   <birth>1846-1926</birth>
                   <death>1846-1926</death>
@@ -68221,6 +68246,10 @@
                      <forename>Adolf</forename>
                      <surname>Neuendorff</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Neuendorf</surname>
+                  </persName>
                   <birth>1843-1897</birth>
                   <death>1843-1897</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
@@ -68269,6 +68298,10 @@
                      <forename>Ureli Corelli</forename>
                      <surname>Hill</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Uriah</forename>
+                     <surname>Hill</surname>
+                  </persName>
                   <birth>1802-1875</birth>
                   <death>1802-1875</death>
                   <occupation style="background-color: light-gray;">Violinist</occupation>
@@ -68298,9 +68331,16 @@
                </person>
                <person xml:id="hsl_person_id_5326" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>?</forename>
+                     <forename>William Channing</forename>
                      <surname>Woodbridge</surname>
                   </persName>
+                  <birth>1794-1845</birth>
+                  <death>1794-1845</death>
+                  <occupation style="background-color: dark-blue;">Geograph</occupation>
+                  <occupation style="background-color: light-purple;">Pädagoge</occupation>
+                  <occupation style="background-color: gray;">Herausgeber</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/104179783</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q8006696</idno>
                </person>
                <person xml:id="hsl_person_id_5327" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -68362,6 +68402,9 @@
                      <forename>August</forename>
                      <surname>Fries</surname>
                   </persName>
+                  <birth>19. Jhdt.</birth>
+                  <death>19. Jhdt.</death>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
                </person>
                <person xml:id="hsl_person_id_5333" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -68377,6 +68420,10 @@
                <person xml:id="hsl_person_id_5334" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Hans</forename>
+                     <surname>Balatka</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Hanns</forename>
                      <surname>Balatka</surname>
                   </persName>
                   <birth>1825-1899</birth>
@@ -69979,6 +70026,18 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3733">Bridgewater Collection of Sacred Music</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5499" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Max</forename>
+                     <surname>Strakosch</surname>
+                  </persName>
+                  <birth>1835-1892</birth>
+                  <death>1835-1892</death>
+                  <occupation style="background-color: dark-blue;">Theaterdirektor</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1046479857</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Strakosch_Familie.xml</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Strakosch_Max_1835_1892.xml</idno>
                </person>
             </listPerson>
          </div>
