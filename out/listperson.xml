@@ -19183,7 +19183,7 @@
                      <bibl n="hsl_work_id_2096">Mirjam</bibl>
                      <bibl n="hsl_work_id_2097">Die Abenteuer einer Neujahrsnacht</bibl>
                      <bibl n="hsl_work_id_2099">Ueber Operntexte</bibl>
-                     <bibl n="hsl_work_id_2100">Liederspiel</bibl>
+                     <bibl n="hsl_work_id_2100">Liederreigen für Singstimmen, gemischten Chor und Klavier, op. 17</bibl>
                      <bibl n="hsl_work_id_2140">Herbst, op. 10 Nr. 2</bibl>
                      <bibl n="hsl_work_id_2281">Die Lautenschägerin</bibl>
                      <bibl n="hsl_work_id_3167">Volksweise, op. 38 Nr. 3</bibl>
@@ -41275,7 +41275,7 @@
                      <bibl n="hsl_work_id_1762">Il trionfo del Tempo e del Disinganno, HWV46</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_3039" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3039" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Hugo</forename>
                      <surname>Heermann</surname>
@@ -48221,6 +48221,7 @@
                   <death>1864-1895</death>
                   <occupation style="background-color: light-gray;">Beamter</occupation>
                   <occupation style="background-color: light-yellow;">Musikkritiker</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/132875047</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q59601672</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_H/Hermann_Geschwister.xml</idno>
@@ -50259,6 +50260,10 @@
                      <forename>Hermine</forename>
                      <surname>Spies</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Spieß</surname>
+                  </persName>
                   <birth>1857-1893</birth>
                   <death>1857-1893</death>
                   <occupation style="background-color: dark-gray;">Sängerin (Alt)</occupation>
@@ -51791,7 +51796,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Proska</surname>
+                     <surname>Proska / Schuch-Proska</surname>
                   </persName>
                   <birth>1850-1932</birth>
                   <death>1850-1932</death>
@@ -62886,6 +62891,10 @@
                      <forename>Willem de</forename>
                      <surname>Fesch</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Guillaume de</forename>
+                     <surname>Fesch</surname>
+                  </persName>
                   <birth>1687-1761</birth>
                   <death>1687-1761</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
@@ -70038,6 +70047,52 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1046479857</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Strakosch_Familie.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Strakosch_Max_1835_1892.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5500" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Mathilde</forename>
+                     <surname>Jacobi</surname>
+                  </persName>
+                  <birth>19./20. Jhdt.</birth>
+                  <death>19./20. Jhdt.</death>
+                  <occupation style="background-color: gray;">Sängerin</occupation>
+               </person>
+               <person xml:id="hsl_person_id_5501" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Emánuel</forename>
+                     <surname>Moór</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Emanuel</forename>
+                     <surname>Moor</surname>
+                  </persName>
+                  <birth>1863-1931</birth>
+                  <death>1863-1931</death>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117134864</idno>
+               </person>
+               <person xml:id="hsl_person_id_5502" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Viktor Oskar</forename>
+                     <surname>Tilgner</surname>
+                  </persName>
+                  <birth>1844-1896</birth>
+                  <death>1844-1896</death>
+                  <occupation style="background-color: darker-pink;">Bildhauer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/121161919</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_T/Tilgner_Victor-Oskar_1844_1896.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5503" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Johannes</forename>
+                     <surname>Pache</surname>
+                  </persName>
+                  <birth>1857-1897</birth>
+                  <death>1857-1897</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: dark-blue;">Organist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/174076150</idno>
                </person>
             </listPerson>
          </div>

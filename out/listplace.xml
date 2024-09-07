@@ -2428,7 +2428,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q234</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4248467-4</idno>
                </place>
-               <place xml:id="hsl_place_id_203" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_203" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Antwerpen</placeName>
                   </settlement>
@@ -6936,6 +6936,13 @@
                   <placeName type="main">Buda</placeName>
                      <placeName type="alternative">Ofen</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3054667/</idno>
+               </place>
+               <place xml:id="hsl_place_id_638" resp="#awilfing" cert="high">
+                  <placeName type="main">Illyrien</placeName>
+               </place>
+               <place xml:id="hsl_place_id_639" resp="#awilfing" cert="high">
+                  <placeName type="main">Kranjska</placeName>
+                     <placeName type="alternative">Krain</placeName>
                </place>
             </listPlace>
          </div>
