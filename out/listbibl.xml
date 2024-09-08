@@ -5865,7 +5865,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.2%2C_Op.115_(Huber%2C_Hans)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_598" resp="#awilfing" cert="high">
-               <title type="main">Septett für Klarinette, Fagott, Horn, Violin, Viola, Cello und Kontrabass in Es-Dur, op. 20</title>
+               <title type="main">Septett für Klarinette, Fagott, Horn, Violine, Viola, Cello und Kontrabass in Es-Dur, op. 20</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -15446,7 +15446,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1622" resp="#awilfing" cert="high">
                <title type="main">Tausendundeine Nacht</title>
-               <title type="alternative">Märchen aus 1001 Nacht</title>
+               <title type="alternative">Märchen aus 1001 Nacht / Tausend und Eine Nacht</title>
                <name type="character" ref="#hsl_person_id_4806">Alāʾ ad-Dīn</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4270241-0</idno>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/bub_gb_mZ8GAAAAQAAJ_2/page/n7/mode/2up</idno>
@@ -32822,6 +32822,9 @@
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
+               <author ref="#hsl_person_id_382">
+                  <persName>Hummel, Johann Nepomuk</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3617" resp="#awilfing" cert="high">
                <title type="main">Rinaldo, op. 50</title>
@@ -33747,8 +33750,11 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300330812</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Humoresques_de_concert%2C_Op.14_(Paderewski%2C_Ignacy_Jan)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3729" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_3729" resp="#awilfing" cert="high">
+               <title type="main">6 Lieder für 4 Männerstimmen, op. 35</title>
+               <author ref="#hsl_person_id_1017">
+                  <persName>Fuchs, Robert</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3730" resp="#awilfing" cert="medium">
                <title type="main">4 Impromptus für Klavier, D935</title>
@@ -33784,6 +33790,215 @@
                   <persName>Brown, Bartholomew</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Bridgewater_Collection_of_Sacred_Music_(Brown,_Bartholomew)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3734" resp="#awilfing" cert="high">
+               <title type="main">Kriegslied, op. 61 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3735">6 Lieder für Singstimme und Klavier, op. 61</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+               <author ref="#hsl_person_id_714">
+                  <persName>Geibel, Emanuel</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3735" resp="#awilfing" cert="high">
+               <title type="main">6 Lieder für Singstimme und Klavier, op. 61</title>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3736" resp="#awilfing" cert="high">
+               <title type="main">6 Lieder und Gesänge für vierstimmigen Männerchor, op. 187</title>
+               <author ref="#hsl_person_id_234">
+                  <persName>Reinecke, Carl</persName>
+               </author>
+               <author ref="#hsl_person_id_1602">
+                  <persName>Baumbach, Rudolf</persName>
+               </author>
+               <author ref="#hsl_person_id_2232">
+                  <persName>Chamisso, Adelbert von</persName>
+               </author>
+               <author ref="#hsl_person_id_3702">
+                  <persName>Bodenstedt, Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3737" resp="#awilfing" cert="high">
+               <title type="main">Scheiden ohne Leiden, op. 35 Nr. 3</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3729">6 Lieder für 4 Männerstimmen, op. 35</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1017">
+                  <persName>Fuchs, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_3270">
+                  <persName>Roquette, Otto</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3738" resp="#awilfing" cert="high">
+               <title type="main">Amor und Fortuna, op. 187 Nr. 5</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3736">6 Lieder und Gesänge für vierstimmigen Männerchor, op. 187</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_234">
+                  <persName>Reinecke, Carl</persName>
+               </author>
+               <author ref="#hsl_person_id_1602">
+                  <persName>Baumbach, Rudolf</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3739" resp="#awilfing" cert="high">
+               <title type="main">Gretelein</title>
+               <author ref="#hsl_person_id_3589">
+                  <persName>Hermann, Albert von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3740" resp="#awilfing" cert="high">
+               <title type="main">Meeresstille und glückliche Fahrt, op. 16</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300939116</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3741" resp="#awilfing" cert="high">
+               <title type="main">Meeresstille</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1181244765</idno>
+               <idno type="URL" subtype="Digitalisat">https://de.wikisource.org/wiki/Meeresstille_%E2%80%93_Gl%C3%BCckliche_Fahrt</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3742" resp="#awilfing" cert="high">
+               <title type="main">Glückliche Fahrt</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1208340123</idno>
+               <idno type="URL" subtype="Digitalisat">https://de.wikisource.org/wiki/Meeresstille_%E2%80%93_Gl%C3%BCckliche_Fahrt</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3743" resp="#awilfing" cert="high">
+               <title type="main">Waldeinsamkeit, op. 61 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3744">2 Gesänge für Männerchor, op. 61</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_5503">
+                  <persName>Pache, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_5504">
+                  <persName>Leuthold, Heinrich</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/2_Ges%C3%A4nge,_Op.61_(Pache,_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3744" resp="#awilfing" cert="high">
+               <title type="main">2 Gesänge für Männerchor, op. 61</title>
+               <author ref="#hsl_person_id_3538">
+                  <persName>Stieler, Karl</persName>
+               </author>
+               <author ref="#hsl_person_id_5503">
+                  <persName>Pache, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_5504">
+                  <persName>Leuthold, Heinrich</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/2_Ges%C3%A4nge,_Op.61_(Pache,_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3745" resp="#awilfing" cert="high">
+               <title type="main">Frühlingskränze, op. 36</title>
+               <author ref="#hsl_person_id_1327">
+                  <persName>Heuberger, Richard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3746" resp="#awilfing" cert="high">
+               <title type="main">Sonate für Violine und Klavier Nr. 2 in a-Moll, op. 21</title>
+               <author ref="#hsl_person_id_5501">
+                  <persName>Moór, Emánuel</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Sonata_No.2%2C_Op.21_(Mo%C3%B3r%2C_Emanuel)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3747" resp="#awilfing" cert="high">
+               <title type="main">Canzonetta con variazione</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_4833">
+                  <persName>Fesch, Willem de</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3748" resp="#awilfing" cert="high">
+               <title type="main">Unbefangenheit, op. 30 Nr. 3</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3749">6 Lieder für Singstimme und Klavier, op. 30</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_321">
+                  <persName>Weber, Carl Maria von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300185553</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Lieder,_Op.30_(Weber,_Carl_Maria_von)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3749" resp="#awilfing" cert="high">
+               <title type="main">6 Lieder für Singstimme und Klavier, op. 30</title>
+               <author ref="#hsl_person_id_321">
+                  <persName>Weber, Carl Maria von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Lieder,_Op.30_(Weber,_Carl_Maria_von)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3750" resp="#awilfing" cert="high">
+               <title type="main">Volkslied, J234</title>
+               <title type="alternative">Mein Schatzerl ist hübsch</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3751">8 Volkslieder für Singstimme und Klavier, op. 64</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_321">
+                  <persName>Weber, Carl Maria von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1128339722</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/8_Volkslieder%2C_Op.64_(Weber%2C_Carl_Maria_von)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3751" resp="#awilfing" cert="high">
+               <title type="main">8 Volkslieder für Singstimme und Klavier, op. 64</title>
+               <author ref="#hsl_person_id_321">
+                  <persName>Weber, Carl Maria von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/8_Volkslieder%2C_Op.64_(Weber%2C_Carl_Maria_von)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3752" resp="#awilfing" cert="high">
+               <title type="main">Polonaise für Klavier in Es-Dur</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_48">
+                  <persName>Chopin, Frédéric</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3753" resp="#awilfing" cert="high">
+               <title type="main">Toccate für Klavier in d-Moll</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_151">
+                  <persName>Lachner, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3754" resp="#awilfing" cert="high">
+               <title type="main">Septett für Flöte, Oboe, Horn, Viola, Cello, Kontrabass und Klavier Nr. 1 in d-Moll, op. 74</title>
+               <author ref="#hsl_person_id_382">
+                  <persName>Hummel, Johann Nepomuk</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30027677X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Septet_No.1%2C_Op.74_(Hummel%2C_Johann_Nepomuk)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3755" resp="#awilfing" cert="high">
+               <title type="main">Septett für Flöte, Klarinette, Trompete, Klavier, Violine, Cello und Kontrabass Nr. 2 in C-Dur, op. 114</title>
+               <author ref="#hsl_person_id_382">
+                  <persName>Hummel, Johann Nepomuk</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Septet_No.2%2C_Op.114_(Hummel%2C_Johann_Nepomuk)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3756" resp="#awilfing" cert="high">
+               <title type="main">Quartett für 2 Violinen, Viola und Cello in D-Dur, Hob.III:34</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300205511</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_in_D_major,_Hob.III:34_(Haydn,_Joseph)</idno>
             </bibl>
       </listBibl>
       </body>
