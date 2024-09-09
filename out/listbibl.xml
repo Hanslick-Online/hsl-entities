@@ -9679,8 +9679,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Concerto_No.2%2C_Op.21_(Chopin%2C_Fr%C3%A9d%C3%A9ric)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1012" resp="#awilfing" cert="high">
-               <title type="main">Toccata und Fuge in F-Dur für Orchester, BWV540</title>
-               <title type="alternative">Bearbeitung</title>
+               <title type="main">Toccata und Fuge in F-Dur für Orchester, BWV540 (Bearbeitung)</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -22989,7 +22988,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2493" resp="#awilfing" cert="high">
                <title type="main">Réminiscences de Don Juan für Klavier, S418</title>
-               <title type="alternative">Don Juan-Phantasie</title>
+               <title type="alternative">Don Juan-Phantasie / Don-Juan-Phantasie</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -29729,6 +29728,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3249" resp="#awilfing" cert="high">
                <title type="main">Rhapsodie espagnole für Klavier, S254</title>
+               <title type="alternative">Spanische Rhapsodie</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -33148,7 +33148,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Nocturnes,_Op.15_(Chopin,_Fr%C3%A9d%C3%A9ric)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3656" resp="#awilfing" cert="high">
-               <title type="main">Polonaise-Fantaisie für Klavier, op. 61</title>
+               <title type="main">Polonaise-Fantaisie für Klavier in As-Dur, op. 61</title>
                <author ref="#hsl_person_id_48">
                   <persName>Chopin, Frédéric</persName>
                </author>
@@ -34068,7 +34068,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Oboe_Concerto_in_G_minor,_HWV_287_(Handel,_George_Frideric)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3765" resp="#awilfing" cert="high">
-               <title type="main">Konzert für Oboe und Orchester in g-Moll, HWV287 (Arrangement)</title>
+               <title type="main">Konzert für Oboe und Orchester in g-Moll, HWV287 (Bearbeitung)</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
@@ -34077,6 +34077,161 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300064977</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Oboe_Concerto_in_G_minor,_HWV_287_(Handel,_George_Frideric)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3766" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Violine und Orchester Nr. 2 in d-Moll, op. 22</title>
+               <author ref="#hsl_person_id_3277">
+                  <persName>Wieniawski, Henri</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300173849</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Concerto_No.2%2C_Op.22_(Wieniawski%2C_Henri)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3767" resp="#awilfing" cert="high">
+               <title type="main">Präludium und Fuge für Klavier in g-Moll</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3770" resp="#awilfing" cert="high">
+               <title type="main">Romanze für Violine und Orchester in F-Dur, op. 50</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300016115</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Romance_in_F_major%2C_Op.50_(Beethoven%2C_Ludwig_van)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3771" resp="#awilfing" cert="high">
+               <title type="main">Gavotte</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_2417">
+                  <persName>Albert, Eugen d'</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3772" resp="#awilfing" cert="high">
+               <title type="main">Nocturne für Klavier in Fis-Dur, op. 15 Nr. 2</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3655">3 Nocturnes für Klavier, op. 15</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_48">
+                  <persName>Chopin, Frédéric</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300037414</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Nocturnes,_Op.15_(Chopin,_Fr%C3%A9d%C3%A9ric)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3773" resp="#awilfing" cert="high">
+               <title type="main">Scherzo für Klavier Nr. 1 in h-Moll, op. 20</title>
+               <author ref="#hsl_person_id_48">
+                  <persName>Chopin, Frédéric</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300037805</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Scherzo_No.1,_Op.20_(Chopin,_Fr%C3%A9d%C3%A9ric)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3774" resp="#awilfing" cert="high">
+               <title type="main">Sonate für Violine und Klavier Nr. 2 in a-Moll, op. 60</title>
+               <author ref="#hsl_person_id_1085">
+                  <persName>Brüll, Ignaz</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Sonata_No.2%2C_Op.60_(Br%C3%BCll%2C_Ignaz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3775" resp="#awilfing" cert="high">
+               <title type="main">5 Stücke für Klavier, op. 57</title>
+               <author ref="#hsl_person_id_1085">
+                  <persName>Brüll, Ignaz</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/5_Piano_Pieces%2C_Op.57_(Br%C3%BCll%2C_Ignaz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3776" resp="#awilfing" cert="high">
+               <title type="main">5 Lieder für Singstimme und Klavier, op. 9</title>
+               <author ref="#hsl_person_id_1403">
+                  <persName>Rückauf, Anton</persName>
+               </author>
+               <author ref="#hsl_person_id_2692">
+                  <persName>Daumer, Georg Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3777" resp="#awilfing" cert="high">
+               <title type="main">Hafis. Eine Sammlung persischer Gedichte</title>
+               <author ref="#hsl_person_id_2692">
+                  <persName>Daumer, Georg Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1258546671</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10107183?page=6,7</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3778" resp="#awilfing" cert="high">
+               <title type="main">Wie Melodien aus reiner Sphäre hör' ich, op. 9 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3776">5 Lieder für Singstimme und Klavier, op. 9</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1403">
+                  <persName>Rückauf, Anton</persName>
+               </author>
+               <author ref="#hsl_person_id_2692">
+                  <persName>Daumer, Georg Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3779" resp="#awilfing" cert="high">
+               <title type="main">Ich dachte dein in tiefer Nacht, op. 9 Nr. 4</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3776">5 Lieder für Singstimme und Klavier, op. 9</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1403">
+                  <persName>Rückauf, Anton</persName>
+               </author>
+               <author ref="#hsl_person_id_2692">
+                  <persName>Daumer, Georg Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3780" resp="#awilfing" cert="high">
+               <title type="main">Mein süßer Schatz! Du bist so gut, op. 9 Nr. 3</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3776">5 Lieder für Singstimme und Klavier, op. 9</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1403">
+                  <persName>Rückauf, Anton</persName>
+               </author>
+               <author ref="#hsl_person_id_2692">
+                  <persName>Daumer, Georg Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3781" resp="#awilfing" cert="high">
+               <title type="main">Russische Volkspoësien für gemischten Chor und Klavier zu 4 Händen, op. 8</title>
+               <title type="alternative">Russische Volkspoesien</title>
+               <author ref="#hsl_person_id_1403">
+                  <persName>Rückauf, Anton</persName>
+               </author>
+               <author ref="#hsl_person_id_2692">
+                  <persName>Daumer, Georg Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3782" resp="#awilfing" cert="high">
+               <title type="main">6 Stücke für Klavier, op. 10</title>
+               <author ref="#hsl_person_id_1403">
+                  <persName>Rückauf, Anton</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3783" resp="#awilfing" cert="high">
+               <title type="main">Sonne und Erde</title>
+               <author ref="#hsl_person_id_1379">
+                  <persName>Bayer, Josef</persName>
+               </author>
+               <author ref="#hsl_person_id_2313">
+                  <persName>Gaul, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_3658">
+                  <persName>Hassreiter, Josef</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3784" resp="#awilfing" cert="high">
+               <title type="main">Polacca brillante für Klavier und Orchester in E-Dur, J268 (Bearbeitung)</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_321">
+                  <persName>Weber, Carl Maria von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300171811</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Polacca_brillante%2C_Op.72_(Weber%2C_Carl_Maria_von)</idno>
             </bibl>
       </listBibl>
       </body>
