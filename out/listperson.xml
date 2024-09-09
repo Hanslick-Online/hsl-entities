@@ -1588,9 +1588,13 @@
                      <bibl n="hsl_work_id_3471">2 Nocturnes für Klavier, op. 37</bibl>
                      <bibl n="hsl_work_id_3472">3 Walzer für Klavier, op. 64</bibl>
                      <bibl n="hsl_work_id_3654">Nocturne für Klavier in F-Dur, op. 15 Nr. 1</bibl>
-                     <bibl n="hsl_work_id_3655">3 Nocturne für Klavier, op. 15</bibl>
+                     <bibl n="hsl_work_id_3655">3 Nocturnes für Klavier, op. 15</bibl>
                      <bibl n="hsl_work_id_3656">Polonaise-Fantaisie für Klavier, op. 61</bibl>
                      <bibl n="hsl_work_id_3752">Polonaise für Klavier in Es-Dur</bibl>
+                     <bibl n="hsl_work_id_3760">Nocturne für Klavier in Es-Dur, op. 9 Nr. 2</bibl>
+                     <bibl n="hsl_work_id_3761">3 Nocturnes für Klavier, op. 9</bibl>
+                     <bibl n="hsl_work_id_3762">Nocturne für Klavier in Es-Dur, op. 55 Nr. 2</bibl>
+                     <bibl n="hsl_work_id_3763">2 Nocturnes für Klavier, op. 55</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_49" resp="#awilfing" cert="medium">
@@ -2723,6 +2727,8 @@
                      <bibl n="hsl_work_id_3257">Sing unto God, ye kingdoms of the earth, HWV263</bibl>
                      <bibl n="hsl_work_id_3295">Alexander’s Feast; or, the Power of Music, HWV75</bibl>
                      <bibl n="hsl_work_id_3578">Funeral Anthem for Queen Caroline, HWV 264</bibl>
+                     <bibl n="hsl_work_id_3764">Konzert für Oboe und Orchester in g-Moll, HWV287</bibl>
+                     <bibl n="hsl_work_id_3765">Konzert für Oboe und Orchester in g-Moll, HWV287 (Arrangement)</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_109" resp="#awilfing" cert="medium">
@@ -18053,6 +18059,9 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q580669</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_B/Bachrich_Familie.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_B/Bachrich_Sigmund_1841_1913.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3765">Konzert für Oboe und Orchester in g-Moll, HWV287 (Arrangement)</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1251" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -18708,6 +18717,9 @@
                   <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/102199191</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q215083</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3759">Konzert für Violine und Orchester</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1291" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -19164,6 +19176,8 @@
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_R/Ree_Luis_1861_1939.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3238">Variationen für 2 Klaviere</bibl>
+                     <bibl n="hsl_work_id_3757">Variations pour piano sur un thème original, op. 8</bibl>
+                     <bibl n="hsl_work_id_3758">Weihnachtsbilder für Klavier</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1326" resp="#awilfing" cert="high">
@@ -66203,6 +66217,10 @@
                      <forename>Helena</forename>
                      <surname>Hopekirk</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Hobekirk</surname>
+                  </persName>
                   <birth>1856-1945</birth>
                   <death>1856-1945</death>
                   <occupation style="background-color: dark-blue;">Pianistin</occupation>
@@ -70178,6 +70196,51 @@
                   <occupation style="background-color: red;">Dirigent</occupation>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119306476</idno>
+               </person>
+               <person xml:id="hsl_person_id_5506" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Albert</forename>
+                     <surname>Bachrich</surname>
+                  </persName>
+                  <birth>1874-1924</birth>
+                  <death>1874-1924</death>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1033910880</idno>
+                  <idno type="URI" subtype="OEML">https://musiklexikon.ac.at/ml/musik_B/Bachrich_Familie.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_5507" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Schneewittchen</surname>
+                  </persName>
+                  <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/136757898</idno>
+               </person>
+               <person xml:id="hsl_person_id_5508" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Rumpelstilzchen</surname>
+                  </persName>
+                  <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
+               </person>
+               <person xml:id="hsl_person_id_5509" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Amelie</forename>
+                     <surname>Epstein</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Mauthner</surname>
+                  </persName>
+                  <birth>1832-1916</birth>
+                  <death>1832-1916</death>
+                  <occupation style="background-color: dark-blue;">Pianistin</occupation>
+               </person>
+               <person xml:id="hsl_person_id_5510" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
                </person>
             </listPerson>
          </div>
