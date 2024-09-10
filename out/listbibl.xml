@@ -7804,7 +7804,7 @@
                   <persName>Gille, Philippe</persName>
                </author>
                <name type="character" ref="#hsl_person_id_3564">Manon Lescaut</name>
-               <name type="character" ref="#hsl_person_id_5396">Chevalier Des Grieux</name>
+               <name type="character" ref="#hsl_person_id_5396">Des Grieux</name>
                <name type="character" ref="#hsl_person_id_5397">Comte Des Grieux</name>
                <name type="character" ref="#hsl_person_id_5398">De Brétigny</name>
                <name type="character" ref="#hsl_person_id_5399">Guillot de Morfontaine</name>
@@ -32927,9 +32927,6 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1179242351</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Slavonic_Dances%2C_Op.46_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3628" resp="#awilfing" cert="medium">
-               <title type="main">op.</title>
-            </bibl>
             <bibl xml:id="hsl_work_id_3629" resp="#awilfing" cert="medium">
                <title type="main">Tremate, empi tremate, op. 116</title>
                <author ref="#hsl_person_id_25">
@@ -33107,6 +33104,9 @@
             <bibl xml:id="hsl_work_id_3651" resp="#awilfing" cert="high">
                <title type="main">Totentanz für Orchester, S126</title>
                <title type="alternative">Todtentanz</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300094841</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Totentanz,_S.126_(Liszt,_Franz)</idno>
             </bibl>
@@ -33202,6 +33202,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3663" resp="#awilfing" cert="high">
                <title type="main">Atta Troll. Ein Sommernachtstraum</title>
+               <author ref="#hsl_person_id_116">
+                  <persName>Heine, Heinrich</persName>
+               </author>
                <name type="character" ref="#hsl_person_id_5440">Atta Troll</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099223-8</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb11720521?page=8,9</idno>

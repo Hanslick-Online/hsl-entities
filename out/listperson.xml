@@ -2926,6 +2926,7 @@
                      <bibl n="hsl_work_id_3444">Romanzen und Balladen für Singstimme und Klavier, op. 49</bibl>
                      <bibl n="hsl_work_id_3451">6 Lieder von Heine für Singstimme und Klavier, op. 32</bibl>
                      <bibl n="hsl_work_id_3662">Deine weißen Lilienfinger, op. 9 Nr. 2</bibl>
+                     <bibl n="hsl_work_id_3663">Atta Troll. Ein Sommernachtstraum</bibl>
                      <bibl n="hsl_work_id_3684">Leise zieht durch mein Gemüth</bibl>
                   </listBibl>
                </person>
@@ -3820,6 +3821,7 @@
                      <bibl n="hsl_work_id_3546">Magnificat, S109 Nr. 3</bibl>
                      <bibl n="hsl_work_id_3556">Es muss ein Wunderbares sein, S314</bibl>
                      <bibl n="hsl_work_id_3584">Die Himmel erzählen die Ehre Gottes</bibl>
+                     <bibl n="hsl_work_id_3651">Totentanz für Orchester, S126</bibl>
                      <bibl n="hsl_work_id_3665">Ungarische Rhapsodien für Klavier, S244</bibl>
                      <bibl n="hsl_work_id_3675">Ungarische Rhapsodie für Klavier in a-Moll, S244 Nr. 13</bibl>
                      <bibl n="hsl_work_id_3784">Polacca brillante für Klavier und Orchester in E-Dur, J268 (Bearbeitung)</bibl>
@@ -18249,6 +18251,10 @@
                      <forename>Moritz</forename>
                      <surname>Moszkowski</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Moriz</forename>
+                     <surname>Moskowski</surname>
+                  </persName>
                   <birth>1854-1925</birth>
                   <death>1854-1925</death>
                   <occupation style="background-color: dark-orange;">Pianist</occupation>
@@ -30300,6 +30306,10 @@
                <person xml:id="hsl_person_id_2163" resp="#awilfing" cert="medium">
                   <persName type="main">
                      <forename>Philippe</forename>
+                     <surname>Gille</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Philipp</forename>
                      <surname>Gille</surname>
                   </persName>
                   <birth>1831-1901</birth>
@@ -49681,7 +49691,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q16647387</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_D/Duesberg_Familie.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_3696" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_3696" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Richard</forename>
                      <surname>Erxleben</surname>
@@ -69110,7 +69120,7 @@
                <person xml:id="hsl_person_id_5396" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
-                     <surname>Chevalier Des Grieux</surname>
+                     <surname>Des Grieux</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_822">Manon</bibl>
@@ -69408,7 +69418,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Zephyrs</surname>
+                     <surname>Zephyr</surname>
                   </persName>
                   <occupation style="background-color: dark-gray;">Gottheit</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/138435669</idno>
@@ -69649,6 +69659,10 @@
                <person xml:id="hsl_person_id_5452" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Lucie Marietta</forename>
+                     <surname>Balbo</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Lucia</forename>
                      <surname>Balbo</surname>
                   </persName>
                   <birth>1869-1944</birth>
@@ -70296,6 +70310,16 @@
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/142730076</idno>
+               </person>
+               <person xml:id="hsl_person_id_5513" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Agnes</forename>
+                     <surname>Stavenhagen</surname>
+                  </persName>
+                  <birth>1862-1945</birth>
+                  <death>1862-1945</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117223786</idno>
                </person>
             </listPerson>
          </div>
