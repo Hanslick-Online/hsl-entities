@@ -7774,6 +7774,11 @@
                <name type="character" ref="#hsl_person_id_4238">Rebekka</name>
                <name type="character" ref="#hsl_person_id_4521">Ijob</name>
                <name type="character" ref="#hsl_person_id_5219">Johannes, der Täufer</name>
+               <name type="character" ref="#hsl_person_id_5523">Josua</name>
+               <name type="character" ref="#hsl_person_id_5525">Jakob</name>
+               <name type="character" ref="#hsl_person_id_5528">Simeon</name>
+               <name type="character" ref="#hsl_person_id_5529">Levi</name>
+               <name type="character" ref="#hsl_person_id_5531">Adoni-Zedek</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4006406-2</idno>
                <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/</idno>
             </bibl>
@@ -8681,6 +8686,7 @@
                <author ref="#hsl_person_id_1995">
                   <persName>Morell, Thomas</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5530">Josua</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300064799</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Joshua,_HWV_64_(Handel,_George_Frideric)</idno>
             </bibl>
@@ -26276,6 +26282,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2862" resp="#awilfing" cert="high">
                <title type="main">Wächterlied aus der Neujahrsnacht 1200, op. 7</title>
+               <author ref="#hsl_person_id_1018">
+                  <persName>Scheffel, Joseph Victor von</persName>
+               </author>
                <author ref="#hsl_person_id_3092">
                   <persName>Gernsheim, Friedrich</persName>
                </author>
@@ -27631,8 +27640,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3016" resp="#awilfing" cert="high">
-               <title type="main">Rüdiger, D791</title>
-               <title type="alternative">Entwurf</title>
+               <title type="main">Rüdigers Heimkehr, D791</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -27679,6 +27687,9 @@
                <title type="main">Morgen, op. 74</title>
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
+               </author>
+               <author ref="#hsl_person_id_2147">
+                  <persName>Wenzig, Josef</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3021" resp="#awilfing" cert="high">
@@ -34224,6 +34235,24 @@
                <author ref="#hsl_person_id_3658">
                   <persName>Hassreiter, Josef</persName>
                </author>
+               <author ref="#hsl_person_id_5514">
+                  <persName>Naturforscher</persName>
+               </author>
+               <author ref="#hsl_person_id_5515">
+                  <persName>Dichter</persName>
+               </author>
+               <author ref="#hsl_person_id_5517">
+                  <persName>Baron von Sternheim</persName>
+               </author>
+               <author ref="#hsl_person_id_5518">
+                  <persName>Wirt</persName>
+               </author>
+               <author ref="#hsl_person_id_5519">
+                  <persName>Sonne</persName>
+               </author>
+               <author ref="#hsl_person_id_5520">
+                  <persName>Saturn</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3784" resp="#awilfing" cert="high">
                <title type="main">Polacca brillante für Klavier und Orchester in E-Dur, J268 (Bearbeitung)</title>
@@ -34235,6 +34264,18 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300171811</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Polacca_brillante%2C_Op.72_(Weber%2C_Carl_Maria_von)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3785" resp="#awilfing" cert="high">
+               <title type="main">Le cadi dupé, Wq. 29</title>
+               <title type="alternative">Der betrogene Kadi</title>
+               <author ref="#hsl_person_id_99">
+                  <persName>Gluck, Christoph Willibald</persName>
+               </author>
+               <author ref="#hsl_person_id_5521">
+                  <persName>Lemonnier, Pierre-René</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300060130</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_cadi_dup%C3%A9%2C_Wq.29_(Gluck%2C_Christoph_Willibald)</idno>
             </bibl>
       </listBibl>
       </body>
