@@ -68,11 +68,10 @@
             </bibl>
             <bibl xml:id="hsl_work_id_5" resp="#awilfing" cert="high">
                <title type="main">La folle journée ou Le mariage de Figaro</title>
-               <title type="alternative">Une folle journée / Figaro's Hochzeit</title>
+               <title type="alternative">Une folle journée / Figaro's Hochzeit / Die Hochzeit des Figaro</title>
                <author ref="#hsl_person_id_11">
                   <persName>Beaumarchais, Pierre Augustin Caron de</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_4687">Rosine</name>
                <name type="character" ref="#hsl_person_id_4691">Figaro</name>
                <name type="character" ref="#hsl_person_id_4692">Suzanne</name>
                <name type="character" ref="#hsl_person_id_4695">Bartholo</name>
@@ -81,6 +80,9 @@
                <name type="character" ref="#hsl_person_id_4698">Comte Almaviva</name>
                <name type="character" ref="#hsl_person_id_4699">Comtesse Almaviva</name>
                <name type="character" ref="#hsl_person_id_4704">Fanchette</name>
+               <name type="character" ref="#hsl_person_id_5533">Bazile</name>
+               <name type="character" ref="#hsl_person_id_5534">Antonio</name>
+               <name type="character" ref="#hsl_person_id_5535">Don Gusman Brid'oison</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4323525-6</idno>
                <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k72035j.r</idno>
             </bibl>
@@ -8249,7 +8251,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Sonata_No.9,_Op.47_(Beethoven,_Ludwig_van)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_868" resp="#awilfing" cert="high">
-               <title type="main">Idomeneo, KV366</title>
+               <title type="main">Idomeneo, Rè di Creta, KV366</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
@@ -28043,6 +28045,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3054" resp="#awilfing" cert="high">
                <title type="main">Le Barbier de Séville ou La précaution inutile</title>
+               <title type="alternative">Barbier von Sevilla</title>
                <author ref="#hsl_person_id_11">
                   <persName>Beaumarchais, Pierre Augustin Caron de</persName>
                </author>
@@ -28050,7 +28053,7 @@
                   <persName>Baudron, Antoine-Laurent</persName>
                </author>
                <name type="character" ref="#hsl_person_id_4684">Almaviva</name>
-               <name type="character" ref="#hsl_person_id_4688">Bartholo</name>
+               <name type="character" ref="#hsl_person_id_4687">Rosine</name>
                <name type="character" ref="#hsl_person_id_4689">Figaro</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4313425-7</idno>
                <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k6125805c.r</idno>

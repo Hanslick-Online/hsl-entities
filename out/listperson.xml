@@ -4323,7 +4323,7 @@
                      <bibl n="hsl_work_id_725">Große Messe in c-Moll, KV427</bibl>
                      <bibl n="hsl_work_id_836">Sonate</bibl>
                      <bibl n="hsl_work_id_837">Adagio und Fuge für 2 Violinen, Viola und Cello in c-Moll, KV546</bibl>
-                     <bibl n="hsl_work_id_868">Idomeneo, KV366</bibl>
+                     <bibl n="hsl_work_id_868">Idomeneo, Rè di Creta, KV366</bibl>
                      <bibl n="hsl_work_id_890">Symphonie Nr. 39 in Es-Dur, KV543</bibl>
                      <bibl n="hsl_work_id_924">Konzert für Violine und Orchester Nr. 5 in A-Dur, KV219</bibl>
                      <bibl n="hsl_work_id_925">No, no, che non sei capace, KV419</bibl>
@@ -9000,7 +9000,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Cherubim</surname>
+                     <surname>Cherubim / Cherubin</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_4">Le nozze di Figaro, KV492</bibl>
@@ -10593,7 +10593,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Marzelline / Marzelline</surname>
+                     <surname>Marzelline / Marcelline</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_4">Le nozze di Figaro, KV492</bibl>
@@ -20034,7 +20034,7 @@
                      <surname>Ilia</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_868">Idomeneo, KV366</bibl>
+                     <bibl n="hsl_work_id_868">Idomeneo, Rè di Creta, KV366</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1386" resp="#awilfing" cert="high">
@@ -30725,7 +30725,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/100652565</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q552416</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_868">Idomeneo, KV366</bibl>
+                     <bibl n="hsl_work_id_868">Idomeneo, Rè di Creta, KV366</bibl>
                      <bibl n="hsl_work_id_3484">L'oca del Cairo, KV422</bibl>
                   </listBibl>
                </person>
@@ -40269,10 +40269,14 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1118751620</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1528050</idno>
                </person>
-               <person xml:id="hsl_person_id_2951" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2951" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Max</forename>
                      <surname>Zottmayr</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Zottmayer</surname>
                   </persName>
                   <birth>1833-1905</birth>
                   <death>1833-1905</death>
@@ -53206,7 +53210,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/122413857</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q570434</idno>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_868">Idomeneo, KV366</bibl>
+                     <bibl n="hsl_work_id_868">Idomeneo, Rè di Creta, KV366</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3991" resp="#awilfing" cert="high">
@@ -61451,15 +61455,6 @@
                      <surname>Rosine</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_5">La folle journée ou Le mariage de Figaro</bibl>
-                  </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_4688" role="fictional" resp="#awilfing" cert="high">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Bartholo</surname>
-                  </persName>
-                  <listBibl type="characterOf">
                      <bibl n="hsl_work_id_3054">Le Barbier de Séville ou La précaution inutile</bibl>
                   </listBibl>
                </person>
@@ -61472,13 +61467,18 @@
                      <bibl n="hsl_work_id_3054">Le Barbier de Séville ou La précaution inutile</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4690" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4690" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Charles Augustin</forename>
                      <surname>Saint-Beuve</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>St. Beuve</surname>
+                  </persName>
                   <birth>1804-1869</birth>
                   <death>1804-1869</death>
+                  <occupation style="background-color: blue;">Kritiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118604899</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1063392</idno>
                </person>
@@ -61504,13 +61504,18 @@
                      <bibl n="hsl_work_id_5">La folle journée ou Le mariage de Figaro</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4693" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4693" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>König von Frankreich</forename>
                      <surname>Karl X.</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Comte d'Artois</surname>
+                  </persName>
                   <birth>1757-1836</birth>
                   <death>1757-1836</death>
+                  <occupation style="background-color: orange;">Monarch</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118776770</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7758</idno>
                </person>
@@ -61533,6 +61538,10 @@
                   <persName type="main">
                      <forename/>
                      <surname>Bartholo</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Bartolo</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_5">La folle journée ou Le mariage de Figaro</bibl>
@@ -61585,6 +61594,7 @@
                   </persName>
                   <birth>1841-1909</birth>
                   <death>1841-1909</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116670673</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q142310</idno>
                </person>
@@ -61595,6 +61605,7 @@
                   </persName>
                   <birth>1833-1900</birth>
                   <death>1833-1900</death>
+                  <occupation style="background-color: dark-red;">Schauspielerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116567473</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3076612</idno>
                </person>
@@ -61605,6 +61616,7 @@
                   </persName>
                   <birth>1824-1893</birth>
                   <death>1824-1893</death>
+                  <occupation style="background-color: dark-red;">Schauspielerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1243865237</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2871684</idno>
                </person>
@@ -70535,6 +70547,41 @@
                      <forename/>
                      <surname/>
                   </persName>
+               </person>
+               <person xml:id="hsl_person_id_5533" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Bazile</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Basilio</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_5">La folle journée ou Le mariage de Figaro</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5534" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Antonio</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_5">La folle journée ou Le mariage de Figaro</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5535" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Don Gusman Brid'oison</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Don Curzio</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_5">La folle journée ou Le mariage de Figaro</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
