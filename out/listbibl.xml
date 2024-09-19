@@ -11642,7 +11642,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1218" resp="#awilfing" cert="high">
                <title type="main">I Capuleti e i Montecchi</title>
-               <title type="alternative">Romeo und Julia / Julie</title>
+               <title type="alternative">Romeo und Julia / Julie; Montecchi und Capuletti</title>
                <author ref="#hsl_person_id_26">
                   <persName>Bellini, Vincenzo</persName>
                </author>
@@ -32790,7 +32790,7 @@
                   <persName>Romani, Felice</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3610" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3610" resp="#awilfing" cert="high">
                <title type="main">Giulietta e Romeo</title>
                <author ref="#hsl_person_id_2026">
                   <persName>Romani, Felice</persName>
@@ -32798,6 +32798,8 @@
                <author ref="#hsl_person_id_3977">
                   <persName>Vaccai, Nicola</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300580878</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Giulietta_e_Romeo_(Vaccai,_Nicola)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3611" resp="#awilfing" cert="medium">
                <title type="main">Norma ou l’infanticide</title>
@@ -34279,6 +34281,16 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300060130</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_cadi_dup%C3%A9%2C_Wq.29_(Gluck%2C_Christoph_Willibald)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3787" resp="#awilfing" cert="high">
+               <title type="main">Romeo und Julie</title>
+               <author ref="#hsl_person_id_287">
+                  <persName>Shakespeare, William</persName>
+               </author>
+               <author ref="#hsl_person_id_4826">
+                  <persName>Weiße, Christian Felix</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10122947?page=102,103</idno>
             </bibl>
       </listBibl>
       </body>
