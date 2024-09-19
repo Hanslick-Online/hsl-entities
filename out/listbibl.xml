@@ -4128,7 +4128,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_380" resp="#awilfing" cert="high">
                <title type="main">La Favorite</title>
-               <title type="alternative">La Favorita / Die Favoritin</title>
+               <title type="alternative">La Favorita / Die Favoritin / Die Favorite</title>
                <author ref="#hsl_person_id_63">
                   <persName>Donizetti, Gaetano</persName>
                </author>
@@ -22932,7 +22932,7 @@
             <bibl xml:id="hsl_work_id_2486" resp="#awilfing" cert="high">
                <title type="main">I figli di Borgia</title>
                <author ref="#hsl_person_id_4048">
-                  <persName>Strigelli, Guiseppe</persName>
+                  <persName>Strigelli, Giuseppe</persName>
                </author>
                <author ref="#hsl_person_id_5227">
                   <persName>Barattani, Filippo</persName>
@@ -28267,11 +28267,12 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Frau_Meisterin_(Supp%C3%A9%2C_Franz_von)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3076" resp="#awilfing" cert="high">
-               <title type="main">Konzert für Violoncello</title>
-               <title type="alternative">unklarer Bezug</title>
+               <title type="main">Konzert für Cello und Orchester Nr. 1 in h-Moll, op. 5</title>
                <author ref="#hsl_person_id_4729">
                   <persName>Davydov, Karl Jul'evič</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300871910</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Cello_Concerto_No.1%2C_Op.5_(Davydov%2C_Karl)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3077" resp="#awilfing" cert="high">
                <title type="main">Unterm Fenster, op. 34 Nr. 3</title>
@@ -32218,7 +32219,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_in_A_major%2C_Hob.III:18_(Hoffstetter%2C_Roman)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3526" resp="#awilfing" cert="high">
-               <title type="main">Violinsonate</title>
+               <title type="main">Sonate für Violine</title>
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_5210">
                   <persName>Rust, Friedrich Wilhelm</persName>
@@ -34291,6 +34292,47 @@
                   <persName>Weiße, Christian Felix</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10122947?page=102,103</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3788" resp="#awilfing" cert="high">
+               <title type="main">Quartett für 2 Violinen, Viola und Cello in G-Dur, Hob. III:4</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300759932</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_in_G_major%2C_Hob.III:4_(Haydn%2C_Joseph)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3790" resp="#awilfing" cert="high">
+               <title type="main">Quartett für 2 Violinen, Viola und Cello</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3791" resp="#awilfing" cert="high">
+               <title type="main">Trio für Violine, Cello und Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_5149">
+                  <persName>Riedel, Hermann</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3792" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3793" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Cello und Orchester Nr. 2 in a-Moll, op. 14</title>
+               <author ref="#hsl_person_id_4729">
+                  <persName>Davydov, Karl Jul'evič</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1315992701</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Cello_Concerto_No.2%2C_Op.14_(Davydov%2C_Karl)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3794" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Cello und Orchester Nr. 3 in D-Dur, op. 18</title>
+               <author ref="#hsl_person_id_4729">
+                  <persName>Davydov, Karl Jul'evič</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300987021</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Cello_Concerto_No.3%2C_Op.18_(Davydov%2C_Karl)</idno>
             </bibl>
       </listBibl>
       </body>
