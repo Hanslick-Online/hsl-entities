@@ -28238,6 +28238,7 @@
                   <persName>Hervé</persName>
                </author>
                <name type="character" ref="#hsl_person_id_4724">Marquis de Haut-en-Truffes</name>
+               <name type="character" ref="#hsl_person_id_5537">Fleur de Noblesse</name>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/L'%C5%93il_crev%C3%A9_(Herv%C3%A9)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3073" resp="#awilfing" cert="high">
@@ -34315,8 +34316,12 @@
                   <persName>Riedel, Hermann</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3792" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_3792" resp="#awilfing" cert="high">
+               <title type="main">Blätter für Musik, Theater und Kunst</title>
+               <author ref="#hsl_person_id_5538">
+                  <persName>Zellner, Leopold Alexander</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=mtk</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3793" resp="#awilfing" cert="high">
                <title type="main">Konzert für Cello und Orchester Nr. 2 in a-Moll, op. 14</title>
@@ -34333,6 +34338,36 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300987021</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Cello_Concerto_No.3%2C_Op.18_(Davydov%2C_Karl)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3795" resp="#awilfing" cert="medium">
+               <title type="main">Cavaliere und Rundhütte</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3796" resp="#awilfing" cert="high">
+               <title type="main">Ueber die Musik der Minnesänger</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3084">Minnesänger. Deutsche Liederdichter des zwölften, dreizehnten und vierzehnten Jahrhunderts, aus allen bekannten Handschriften und früheren Drucken gesammelt und berichtigt, mit den Lesarten derselben, Geschichte des Lebens der Dichter und ihrer Werke, Sangweisen der Lieder, Reimverzeichnis der Anfänge, und Abbildungen sämmtlicher Handschriften</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_5539">
+                  <persName>Fischer, E.</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10801200?page=880,881</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3797" resp="#awilfing" cert="high">
+               <title type="main">Lieder und Sprüche aus der letzten Zeit des Minnesanges</title>
+               <author ref="#hsl_person_id_4738">
+                  <persName>Stade, Friedrich Wilhelm</persName>
+               </author>
+               <author ref="#hsl_person_id_4739">
+                  <persName>Liliencron, Rochus von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://babel.hathitrust.org/cgi/pt?id=hvd.32044040605735&amp;seq=5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3798" resp="#awilfing" cert="high">
+               <title type="main">Fastnachtspiel</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_1343">
+                  <persName>Sachs, Hans</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>

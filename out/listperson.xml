@@ -19495,6 +19495,10 @@
                      <forename>Hans</forename>
                      <surname>Sachs</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Hanns</forename>
+                     <surname>Sachs</surname>
+                  </persName>
                   <birth>1494-1576</birth>
                   <death>1494-1576</death>
                   <occupation style="background-color: dark-brown;">Meistersinger</occupation>
@@ -19504,6 +19508,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Sachs_Hans.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_841">Der dot Mon</bibl>
+                     <bibl n="hsl_work_id_3798">Fastnachtspiel</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1344" role="fictional" resp="#awilfing" cert="high">
@@ -61662,39 +61667,51 @@
                      <bibl n="hsl_work_id_3055">Mater Dolorosa</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4706" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4706" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Anna</forename>
                      <surname>Falk-Mehlig</surname>
                   </persName>
+                  <birth>1846-1928</birth>
+                  <death>1846-1928</death>
+                  <occupation style="background-color: dark-blue;">Pianistin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116394722</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q19997813</idno>
                </person>
-               <person xml:id="hsl_person_id_4707" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4707" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Asminde</forename>
                      <surname>Lederer</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Ubrich</surname>
+                  </persName>
                   <birth>1837-1890</birth>
                   <death>1837-1890</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116851686</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q88966845</idno>
                </person>
-               <person xml:id="hsl_person_id_4708" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4708" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Wilhelmine</forename>
                      <surname>Schuller</surname>
                   </persName>
+                  <birth>19. Jhdt.</birth>
+                  <death>19. Jhdt.</death>
+                  <occupation style="background-color: darker-gray;">Tänzerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117169927</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q95698494</idno>
                </person>
-               <person xml:id="hsl_person_id_4709" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4709" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Bianka</forename>
                      <surname>Blume</surname>
                   </persName>
                   <birth>1843-1896</birth>
                   <death>1843-1896</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/132279924</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q18616718</idno>
                </person>
@@ -61710,13 +61727,14 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q112279</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_G/Gallmeyer_Josefine_1838_1884.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_4711" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4711" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Adolf</forename>
                      <surname>Hacker</surname>
                   </persName>
                   <birth>1832-1883</birth>
                   <death>1832-1883</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/130877751</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q94915450</idno>
                </person>
@@ -61993,31 +62011,47 @@
                   </persName>
                   <birth>1780-1856</birth>
                   <death>1780-1856</death>
+                  <occupation style="background-color: dark-orange;">Germanist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118829130</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q73553</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3084">Minnesänger. Deutsche Liederdichter des zwölften, dreizehnten und vierzehnten Jahrhunderts, aus allen bekannten Handschriften und früheren Drucken gesammelt und berichtigt, mit den Lesarten derselben, Geschichte des Lebens der Dichter und ihrer Werke, Sangweisen der Lieder, Reimverzeichnis der Anfänge, und Abbildungen sämmtlicher Handschriften</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4738" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4738" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Friedrich Wilhelm</forename>
                      <surname>Stade</surname>
                   </persName>
                   <birth>1817-1902</birth>
                   <death>1817-1902</death>
+                  <occupation style="background-color: dark-blue;">Organist</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117194875</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2575206</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3797">Lieder und Sprüche aus der letzten Zeit des Minnesanges</bibl>
+                  </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4739" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4739" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Rochus von</forename>
                      <surname>Liliencron</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Lilienkron</surname>
+                  </persName>
                   <birth>1820-1912</birth>
                   <death>1820-1912</death>
+                  <occupation style="background-color: dark-orange;">Germanist</occupation>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118728245</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q215701</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3797">Lieder und Sprüche aus der letzten Zeit des Minnesanges</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_4740" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -62038,6 +62072,10 @@
                   <persName type="main">
                      <forename>von Reuental</forename>
                      <surname>Neidhart</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Nithart</surname>
                   </persName>
                   <birth>1180-1247</birth>
                   <death>1180-1247</death>
@@ -70629,6 +70667,47 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_5">La folle journée ou Le mariage de Figaro</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5537" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Fleur de Noblesse</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3072">L’œil crevé</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5538" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Leopold Alexander</forename>
+                     <surname>Zellner</surname>
+                  </persName>
+                  <birth>1823-1894</birth>
+                  <death>1823-1894</death>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: gray;">Herausgeber</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116978759</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_Z/Zellner_Familie.xml</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_Z/Zellner_Leopold-Alexander_1823_1894.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3792">Blätter für Musik, Theater und Kunst</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5539" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>E.</forename>
+                     <surname>Fischer</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>unklarer Bezug</surname>
+                  </persName>
+                  <birth>19. Jhdt.</birth>
+                  <death>19. Jhdt.</death>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3796">Ueber die Musik der Minnesänger</bibl>
                   </listBibl>
                </person>
             </listPerson>
