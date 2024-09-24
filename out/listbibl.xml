@@ -12426,6 +12426,7 @@
                <name type="character" ref="#hsl_person_id_5204">Simon</name>
                <name type="character" ref="#hsl_person_id_5206">Nathanael</name>
                <name type="character" ref="#hsl_person_id_5208">Martha</name>
+               <name type="character" ref="#hsl_person_id_5560">Lazarus</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300140878</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lazarus,_D.689_(Schubert,_Franz)</idno>
             </bibl>
@@ -32211,10 +32212,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gloria_in_excelsis_Deo,_BWV_191_(Bach,_Johann_Sebastian)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3523" resp="#awilfing" cert="high">
-               <title type="main">Alte Marienlitanei der Hirten</title>
-               <author ref="#hsl_person_id_121">
-                  <persName>Herbeck, Johann von</persName>
-               </author>
+               <title type="main">Alte Marien-Litanei der Hirten</title>
             </bibl>
             <bibl xml:id="hsl_work_id_3525" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola, Violoncello in A-Dur, Hob. III:18</title>
@@ -34391,6 +34389,12 @@
                <title type="main">Geschichte des Concertwesen in Wien</title>
                <author ref="#hsl_person_id_1">
                   <persName>Hanslick, Eduard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3803" resp="#awilfing" cert="medium">
+               <title type="main">Sardanapalus</title>
+               <author ref="#hsl_person_id_5562">
+                  <persName>Boxberg, Christian Ludwig</persName>
                </author>
             </bibl>
       </listBibl>
