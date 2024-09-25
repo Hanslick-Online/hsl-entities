@@ -3692,6 +3692,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q559659</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_566">Ossian, ou Les bardes</bibl>
+                     <bibl n="hsl_work_id_3809">La Caverne</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_161" resp="#awilfing" cert="high">
@@ -7994,6 +7995,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q62315</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_345">Psychologie oder die Wissenschaft vom subjectiven Geist</bibl>
+                     <bibl n="hsl_work_id_3808">Aesthetik des Häßlichen</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_405" resp="#awilfing" cert="high">
@@ -10357,7 +10359,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Prinzessin</surname>
+                     <surname>Isabella</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_58">Robert le diable</bibl>
@@ -10843,7 +10845,7 @@
                      <surname>Raimbaud</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
+                     <forename>Raimbeaut</forename>
                      <surname>Raimbaut</surname>
                   </persName>
                   <listBibl type="characterOf">
@@ -11517,7 +11519,7 @@
                      <surname>Hus</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
+                     <forename>Johannes</forename>
                      <surname>Huß</surname>
                   </persName>
                   <birth>um 1370-1415</birth>
@@ -16354,7 +16356,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Zoloë / Bayadère / Bajadere</surname>
+                     <surname>Zoloë</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_119">Le dieu et la bayadère, ou La courtisane amoureuse</bibl>
@@ -16652,10 +16654,6 @@
                   <persName type="main">
                      <forename/>
                      <surname>Robert</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Robert der Teufel</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_58">Robert le diable</bibl>
@@ -25413,7 +25411,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_T/Tichatschek_Joseph.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_T/Tichatschek_Joseph-Alois_1807_1886.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_1807" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_1807" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Heinrich</forename>
                      <surname>Sontheim</surname>
@@ -44150,8 +44148,6 @@
                   <birth>1784-1852</birth>
                   <death>1784-1852</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
-                  <occupation style="background-color: red;">Historiker</occupation>
-                  <occupation style="background-color: light-orange;">Librettist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/100823548</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q67961</idno>
                   <listBibl type="authorOf">
@@ -62156,17 +62152,22 @@
                      <forename/>
                      <surname>Alphonse</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Alonzo</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_128">La muette de Portici</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4748" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4748" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Lise</forename>
                      <surname>Noblet</surname>
                   </persName>
                   <birth>1802-1852</birth>
                   <death>1802-1852</death>
+                  <occupation style="background-color: darker-gray;">Tänzerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1019746327</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3242514</idno>
                </person>
@@ -62188,11 +62189,18 @@
                      <bibl n="hsl_work_id_58">Robert le diable</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4751" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4751" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Henriette</forename>
                      <surname>Bose</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Bosé</surname>
+                  </persName>
+                  <birth>1838-?</birth>
+                  <death>1838-?</death>
+                  <occupation style="background-color: darker-gray;">Tänzerin</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116266295</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q95682316</idno>
                </person>
@@ -62222,19 +62230,24 @@
                      <bibl n="hsl_work_id_56">Roméo et Juliette, CG9</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_4754" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4754" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Albert</forename>
                      <surname>Telek</surname>
                   </persName>
-                  <birth>1835-1903</birth>
-                  <death>1835-1903</death>
+                  <birth>1835-1901</birth>
+                  <death>1835-1901</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1330466764</idno>
                </person>
-               <person xml:id="hsl_person_id_4755" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4755" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Theodor</forename>
                      <surname>Wachtel</surname>
                   </persName>
+                  <birth>1841-1871</birth>
+                  <death>1841-1871</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
                </person>
                <person xml:id="hsl_person_id_4756" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -66886,6 +66899,10 @@
                      <forename/>
                      <surname>Léopold</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Leopold</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1161">La Juive</bibl>
                   </listBibl>
@@ -70688,11 +70705,14 @@
                      <bibl n="hsl_work_id_820">Bibel</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_5532" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5532" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Donna Pantea</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3484">L'oca del Cairo, KV422</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_5533" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -70833,11 +70853,14 @@
                      <bibl n="hsl_work_id_2541">Das Landhaus in Meudon</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_5550" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5550" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
-                     <surname/>
+                     <surname>Don Pippo</surname>
                   </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3484">L'oca del Cairo, KV422</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_5551" role="fictional" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -71037,6 +71060,78 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_56">Roméo et Juliette, CG9</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5578" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Celidora</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3484">L'oca del Cairo, KV422</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5579" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Biondello</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3484">L'oca del Cairo, KV422</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5580" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Ottokar Franz</forename>
+                     <surname>Ebersberg</surname>
+                  </persName>
+                  <birth>1833-1886</birth>
+                  <death>1833-1886</death>
+                  <occupation style="background-color: dark-green;">Journalist</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116329696</idno>
+                  <idno type="URI" subtype="OEBL">https://biographien.ac.at/oebl/oebl_E/Ebersberg_Ottokar-Franz_1833_1886.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3807">Die Pfarrerköchin</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5581" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Mathéo</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Wirt</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_194">Fra Diavolo</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5582" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Eduard</forename>
+                     <surname>Brandstöttner</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/132710413X</idno>
+               </person>
+               <person xml:id="hsl_person_id_5583" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Cuvellier</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5584" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Chapelou</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Postillon</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_587">Le postillon de Lonjumeau</bibl>
                   </listBibl>
                </person>
             </listPerson>

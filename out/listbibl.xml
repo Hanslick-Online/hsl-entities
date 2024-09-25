@@ -2201,6 +2201,7 @@
                <name type="character" ref="#hsl_person_id_3856">Lorenzo</name>
                <name type="character" ref="#hsl_person_id_4589">Giacomo</name>
                <name type="character" ref="#hsl_person_id_4590">Beppo</name>
+               <name type="character" ref="#hsl_person_id_5581">Mathéo</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300003218</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Fra_Diavolo_(Auber%2C_Daniel_Fran%C3%A7ois_Esprit)</idno>
             </bibl>
@@ -5781,6 +5782,7 @@
                <author ref="#hsl_person_id_3202">
                   <persName>Brunswick, Léon-Lévy</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5584">Chapelou</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300000448</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_postillon_de_Lonjumeau_(Adam%2C_Adolphe)</idno>
             </bibl>
@@ -31948,13 +31950,17 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3484" resp="#awilfing" cert="high">
                <title type="main">L'oca del Cairo, KV422</title>
-               <title type="alternative">Die Gans aus Kairo</title>
+               <title type="alternative">Die Gans aus / von Kairo; Oie du Caire; Lʼocca del Caïro</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
                <author ref="#hsl_person_id_2189">
                   <persName>Varesco, Giambattista</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5532">Donna Pantea</name>
+               <name type="character" ref="#hsl_person_id_5550">Don Pippo</name>
+               <name type="character" ref="#hsl_person_id_5578">Celidora</name>
+               <name type="character" ref="#hsl_person_id_5579">Biondello</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300287615</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/L%27oca_del_Cairo,_K.422_(Mozart,_Wolfgang_Amadeus)</idno>
             </bibl>
@@ -34419,6 +34425,27 @@
                <title type="main">Olivier L'Orphéoniste</title>
                <author ref="#hsl_person_id_3472">
                   <persName>Rillé, Laurent de</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3807" resp="#awilfing" cert="high">
+               <title type="main">Die Pfarrerköchin</title>
+               <author ref="#hsl_person_id_5580">
+                  <persName>Ebersberg, Ottokar Franz</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Die_Pfarrersk%C3%B6chin/Xn860WsLCOMC?gbpv=1</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3808" resp="#awilfing" cert="high">
+               <title type="main">Aesthetik des Häßlichen</title>
+               <author ref="#hsl_person_id_404">
+                  <persName>Rosenkranz, Karl</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/122176036X</idno>
+               <idno type="URL" subtype="Digitalisat">https://digi.ub.uni-heidelberg.de/diglit/rosenkranz1853/0009/image,info</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3809" resp="#awilfing" cert="medium">
+               <title type="main">La Caverne</title>
+               <author ref="#hsl_person_id_160">
+                  <persName>Le Sueur, Jean-François</persName>
                </author>
             </bibl>
       </listBibl>
