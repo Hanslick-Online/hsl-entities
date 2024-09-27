@@ -1002,6 +1002,7 @@
                      <bibl n="hsl_work_id_3608">La straniera</bibl>
                      <bibl n="hsl_work_id_3609">Zaira</bibl>
                      <bibl n="hsl_work_id_3643">Arie</bibl>
+                     <bibl n="hsl_work_id_3811">Ismene</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_27" resp="#awilfing" cert="high">
@@ -24853,6 +24854,9 @@
                   <occupation style="background-color: red;">Dirigent</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116277882</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2865302</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3810">Bellini, sa vie, ses oeuvres</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1762" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -28268,6 +28272,8 @@
                      <bibl n="hsl_work_id_3107">Aureliano in Palmira</bibl>
                      <bibl n="hsl_work_id_3135">Il pirata</bibl>
                      <bibl n="hsl_work_id_3206">Beatrice di Tenda</bibl>
+                     <bibl n="hsl_work_id_3606">Bianca e Fernando</bibl>
+                     <bibl n="hsl_work_id_3608">La straniera</bibl>
                      <bibl n="hsl_work_id_3609">Zaira</bibl>
                      <bibl n="hsl_work_id_3610">Giulietta e Romeo</bibl>
                   </listBibl>
@@ -29632,6 +29638,7 @@
                      <bibl n="hsl_work_id_1378">Il borgomastro di Saardam</bibl>
                      <bibl n="hsl_work_id_1492">L'esule di Roma</bibl>
                      <bibl n="hsl_work_id_1494">Il diluvio universale</bibl>
+                     <bibl n="hsl_work_id_3606">Bianca e Fernando</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2122" resp="#awilfing" cert="high">
@@ -43845,6 +43852,7 @@
                      <bibl n="hsl_work_id_534">Zelmira</bibl>
                      <bibl n="hsl_work_id_2618">La donna del lago</bibl>
                      <bibl n="hsl_work_id_3109">Eduardo e Cristina</bibl>
+                     <bibl n="hsl_work_id_3605">Adelson e Salvini</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3239" resp="#awilfing" cert="medium">
@@ -52863,7 +52871,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Stephano</surname>
+                     <surname>Stephano / Stefano</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_56">Roméo et Juliette, CG9</bibl>
@@ -62249,11 +62257,14 @@
                   <death>1841-1871</death>
                   <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
                </person>
-               <person xml:id="hsl_person_id_4756" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_4756" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Josefine</forename>
                      <surname>Pastet</surname>
                   </persName>
+                  <birth>19. Jhdt.</birth>
+                  <death>19. Jhdt.</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                </person>
                <person xml:id="hsl_person_id_4757" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -68762,70 +68773,91 @@
                      <surname>Young</surname>
                   </persName>
                </person>
-               <person xml:id="hsl_person_id_5340" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5340" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Joseph Isnard Louis</forename>
                      <surname>Desjardins</surname>
                   </persName>
                   <birth>1814-1894</birth>
                   <death>1814-1894</death>
+                  <occupation style="background-color: light-blue;">Graveur</occupation>
+                  <occupation style="background-color: light-cyan;">Lithograf</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5620850</idno>
                </person>
-               <person xml:id="hsl_person_id_5341" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5341" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Juste Adrien de</forename>
                      <surname>La Fage</surname>
                   </persName>
                   <birth>1801-1862</birth>
                   <death>1801-1862</death>
+                  <occupation style="background-color: light-gray;">Musikautor</occupation>
+                  <occupation style="background-color: light-yellow;">Musikkritiker</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116644745</idno>
                </person>
-               <person xml:id="hsl_person_id_5343" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5343" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Maddalena</forename>
                      <surname>Fumaroli</surname>
                   </persName>
+                  <birth>1802-1834</birth>
+                  <death>1802-1834</death>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q102288688</idno>
                </person>
-               <person xml:id="hsl_person_id_5344" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5344" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Angelo</forename>
                      <surname>Brofferio</surname>
                   </persName>
                   <birth>1802-1866</birth>
                   <death>1802-1866</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117632244</idno>
                </person>
-               <person xml:id="hsl_person_id_5345" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5345" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ugo</forename>
                      <surname>Foscolo</surname>
                   </persName>
                   <birth>1778-1827</birth>
                   <death>1778-1827</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118534483</idno>
                </person>
-               <person xml:id="hsl_person_id_5346" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5346" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Henriette Clémentine</forename>
                      <surname>Méric-Lalande</surname>
                   </persName>
                   <birth>1799-1867</birth>
                   <death>1799-1867</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1328490440</idno>
                </person>
-               <person xml:id="hsl_person_id_5347" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5347" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Charles Victor Prévôt d'</forename>
                      <surname>Arlincourt</surname>
                   </persName>
                   <birth>1789-1856</birth>
                   <death>1789-1856</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116340541</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3812">L’Étrangère</bibl>
+                  </listBibl>
                </person>
-               <person xml:id="hsl_person_id_5348" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5348" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename/>
-                     <surname>Torrigiani,?</surname>
+                     <forename>Luigi</forename>
+                     <surname>Torrigiani</surname>
                   </persName>
+                  <birth>18./19. Jhdt.</birth>
+                  <death>18./19. Jhdt.</death>
+                  <occupation style="background-color: green;">Jurist</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
                </person>
                <person xml:id="hsl_person_id_5349" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -68836,13 +68868,14 @@
                      <bibl n="hsl_work_id_1218">I Capuleti e i Montecchi</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_5350" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5350" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Giuditta</forename>
                      <surname>Grisi</surname>
                   </persName>
                   <birth>1805-1840</birth>
                   <death>1805-1840</death>
+                  <occupation style="background-color: dark-gray;">Sängerin (Mezzo-Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1019729740</idno>
                </person>
                <person xml:id="hsl_person_id_5351" resp="#awilfing" cert="medium">
@@ -71133,6 +71166,53 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_587">Le postillon de Lonjumeau</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_5585" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Hufeland</surname>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_5586" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Dido</surname>
+                  </persName>
+                  <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118525271</idno>
+               </person>
+               <person xml:id="hsl_person_id_5587" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Vincenzo Tobia</forename>
+                     <surname>Bellini</surname>
+                  </persName>
+                  <birth>1744-1829</birth>
+                  <death>1744-1829</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/130922374</idno>
+               </person>
+               <person xml:id="hsl_person_id_5588" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Rosario</forename>
+                     <surname>Bellini</surname>
+                  </persName>
+                  <birth>1776-1840</birth>
+                  <death>1776-1840</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/130927090</idno>
+               </person>
+               <person xml:id="hsl_person_id_5589" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Giovanni</forename>
+                     <surname>Ricordi</surname>
+                  </persName>
+                  <birth>1785-1853</birth>
+                  <death>1785-1853</death>
+                  <occupation style="background-color: darker-red;">Musikverleger</occupation>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116531185</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_R/Ricordi_Giovanni.xml</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_R/Ricordi_Giovanni_1785_1853.xml</idno>
                </person>
             </listPerson>
          </div>

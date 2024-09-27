@@ -28781,7 +28781,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3135" resp="#awilfing" cert="high">
                <title type="main">Il pirata</title>
-               <title type="alternative">Piraten</title>
+               <title type="alternative">Die Piraten; Der Pirat; Il pirato</title>
                <author ref="#hsl_person_id_26">
                   <persName>Bellini, Vincenzo</persName>
                </author>
@@ -32775,36 +32775,58 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4287083-5</idno>
                <idno type="URL" subtype="Digitalisat">https://en.wikipedia.org/wiki/Dwight%27s_Journal_of_Music</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3605" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3605" resp="#awilfing" cert="high">
                <title type="main">Adelson e Salvini</title>
                <author ref="#hsl_person_id_26">
                   <persName>Bellini, Vincenzo</persName>
                </author>
+               <author ref="#hsl_person_id_3238">
+                  <persName>Tottola, Andrea Leone</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300939094</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Adelson_e_Salvini_(Bellini%2C_Vincenzo)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3606" resp="#awilfing" cert="medium">
                <title type="main">Bianca e Fernando</title>
                <author ref="#hsl_person_id_26">
                   <persName>Bellini, Vincenzo</persName>
                </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_3608" resp="#awilfing" cert="medium">
-               <title type="main">La straniera</title>
-               <title type="alternative">Die Fremde</title>
-               <author ref="#hsl_person_id_26">
-                  <persName>Bellini, Vincenzo</persName>
+               <author ref="#hsl_person_id_2026">
+                  <persName>Romani, Felice</persName>
                </author>
+               <author ref="#hsl_person_id_2121">
+                  <persName>Gilardoni, Domenico</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7753860-2</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Bianca_e_Fernando_(Bellini,_Vincenzo)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3609" resp="#awilfing" cert="medium">
-               <title type="main">Zaira</title>
+            <bibl xml:id="hsl_work_id_3608" resp="#awilfing" cert="high">
+               <title type="main">La straniera</title>
+               <title type="alternative">Die Unbekannte</title>
                <author ref="#hsl_person_id_26">
                   <persName>Bellini, Vincenzo</persName>
                </author>
                <author ref="#hsl_person_id_2026">
                   <persName>Romani, Felice</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300937946</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_straniera_(Bellini%2C_Vincenzo)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3609" resp="#awilfing" cert="high">
+               <title type="main">Zaira</title>
+               <title type="alternative">Zaïre</title>
+               <author ref="#hsl_person_id_26">
+                  <persName>Bellini, Vincenzo</persName>
+               </author>
+               <author ref="#hsl_person_id_2026">
+                  <persName>Romani, Felice</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300946457</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zaira_(Bellini%2C_Vincenzo)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3610" resp="#awilfing" cert="high">
                <title type="main">Giulietta e Romeo</title>
+               <title type="alternative">Romeo e Giulietta</title>
                <author ref="#hsl_person_id_2026">
                   <persName>Romani, Felice</persName>
                </author>
@@ -34447,6 +34469,28 @@
                <author ref="#hsl_person_id_160">
                   <persName>Le Sueur, Jean-François</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3810" resp="#awilfing" cert="high">
+               <title type="main">Bellini, sa vie, ses oeuvres</title>
+               <author ref="#hsl_person_id_1761">
+                  <persName>Pougin, Arthur</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k54973472</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3811" resp="#awilfing" cert="medium">
+               <title type="main">Ismene</title>
+               <author ref="#hsl_person_id_26">
+                  <persName>Bellini, Vincenzo</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Imene_(Bellini%2C_Vincenzo)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3812" resp="#awilfing" cert="high">
+               <title type="main">L’Étrangère</title>
+               <author ref="#hsl_person_id_5347">
+                  <persName>Arlincourt, Charles Victor Prévôt d'</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k56188125</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k6116169x</idno>
             </bibl>
       </listBibl>
       </body>
