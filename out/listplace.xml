@@ -1886,7 +1886,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9125</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4066337-1</idno>
                </place>
-               <place xml:id="hsl_place_id_159" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_159" resp="#awilfing" cert="high">
                   <settlement type="S">
                      <placeName type="main">Cimetière du Père-Lachaise</placeName>
                   </settlement>
@@ -4233,7 +4233,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q25287</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4021453-9</idno>
                </place>
-               <place xml:id="hsl_place_id_355" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_355" resp="#awilfing" cert="high">
                   <settlement type="H">
                      <placeName type="main">Seine</placeName>
                   </settlement>
@@ -6823,9 +6823,9 @@
                      <placeName type="alternative">Comosee</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3178228/</idno>
                </place>
-               <place xml:id="hsl_place_id_609" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_609" resp="#awilfing" cert="high">
                   <placeName type="main">Puteaux</placeName>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q234743</idno>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2985034/</idno>
                </place>
                <place xml:id="hsl_place_id_610" resp="#awilfing" cert="medium">
                   <placeName type="main">Wienfluss</placeName>
@@ -6988,6 +6988,9 @@
                   <placeName type="main">Vis</placeName>
                      <placeName type="alternative">Lissa</placeName>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q203767</idno>
+               </place>
+               <place xml:id="hsl_place_id_653" resp="#awilfing" cert="medium">
+                  <placeName type="main"/>
                </place>
             </listPlace>
          </div>
