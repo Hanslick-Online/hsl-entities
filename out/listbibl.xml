@@ -21089,6 +21089,19 @@
                <author ref="#hsl_person_id_3703">
                   <persName>Pozza, Francesco</persName>
                </author>
+               <author ref="#hsl_person_id_5627">
+                  <persName>Andor</persName>
+               </author>
+               <author ref="#hsl_person_id_5628">
+                  <persName>Milos</persName>
+               </author>
+               <author ref="#hsl_person_id_5629">
+                  <persName>Naja</persName>
+               </author>
+               <author ref="#hsl_person_id_5630">
+                  <persName>Rolf</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_5633">Aebtissin</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1256393487</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Il_vassallo_di_Szigeth_(Smareglia%2C_Antonio)</idno>
             </bibl>
@@ -34568,8 +34581,13 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Les_Deux_grenadiers_ou_les_Quiproquos_Co/colbpnBXADAC?hl=de&amp;gbpv=1&amp;dq=patrat%20Les%20Deux%20grenadiers%20ou%20Les%20Quiproquos&amp;pg=PA1</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3818" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_3818" resp="#awilfing" cert="high">
+               <title type="main">Buch von Der Meister-Singer holdseligen Kunst. Anfang / Fortübung / Nutzbarkeiten / und Lehr-Sätzen</title>
+               <author ref="#hsl_person_id_5634">
+                  <persName>Wagenseil, Georg Christoph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1257634348</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10826861?page=468,469</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3819" resp="#awilfing" cert="high">
                <title type="main">Der Wirrwarr</title>
@@ -34592,8 +34610,12 @@
                   <persName>Praetorius, Michael</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3822" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_3822" resp="#awilfing" cert="high">
+               <title type="main">Ade</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_3175">
+                  <persName>Eyrich, Franz Heinrich</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3824" resp="#awilfing" cert="medium">
                <title type="main"/>
@@ -34720,6 +34742,18 @@
                </noteGrp>
                <author ref="#hsl_person_id_1444">
                   <persName>Chrysander, Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3844" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3845" resp="#awilfing" cert="high">
+               <title type="main">Es hat nicht sollen sein</title>
+               <author ref="#hsl_person_id_274">
+                  <persName>Schön, Eduard</persName>
+               </author>
+               <author ref="#hsl_person_id_1018">
+                  <persName>Scheffel, Joseph Victor von</persName>
                </author>
             </bibl>
       </listBibl>
