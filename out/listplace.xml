@@ -1500,7 +1500,7 @@
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3009879/</idno>
                </place>
-               <place xml:id="hsl_place_id_121" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_121" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Lyon</placeName>
                   </settlement>
@@ -5756,7 +5756,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1199</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4024729-6</idno>
                </place>
-               <place xml:id="hsl_place_id_489" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_489" resp="#awilfing" cert="high">
                   <placeName type="main">Ardennes / Ardennen / Årdene</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2803095/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q151985</idno>
@@ -7000,6 +7000,28 @@
                </place>
                <place xml:id="hsl_place_id_656" resp="#awilfing" cert="high">
                   <placeName type="main">Cäciliengasse, Wien</placeName>
+               </place>
+               <place xml:id="hsl_place_id_657" resp="#awilfing" cert="high">
+                  <placeName type="main">Avignon</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3035681/</idno>
+               </place>
+               <place xml:id="hsl_place_id_658" resp="#awilfing" cert="high">
+                  <placeName type="main">Sūriyya</placeName>
+                     <placeName type="alternative">Syrien</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/163843/</idno>
+               </place>
+               <place xml:id="hsl_place_id_659" resp="#awilfing" cert="high">
+                  <placeName type="main">Meuse / Moûze / Maos</placeName>
+                     <placeName type="alternative">Maas</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2751306/</idno>
+               </place>
+               <place xml:id="hsl_place_id_660" resp="#awilfing" cert="high">
+                  <placeName type="main">Givet</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3015904/</idno>
+               </place>
+               <place xml:id="hsl_place_id_661" resp="#awilfing" cert="high">
+                  <placeName type="main">Schussenried</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2835635/</idno>
                </place>
             </listPlace>
          </div>
