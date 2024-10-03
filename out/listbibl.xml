@@ -7792,6 +7792,7 @@
                <name type="character" ref="#hsl_person_id_5590">Otniël</name>
                <name type="character" ref="#hsl_person_id_5591">Achsa</name>
                <name type="character" ref="#hsl_person_id_5592">Kaleb</name>
+               <name type="character" ref="#hsl_person_id_5654">Benjamin</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4006406-2</idno>
                <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/</idno>
             </bibl>
@@ -7873,6 +7874,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_826" resp="#awilfing" cert="high">
                <title type="main">Neues Testament</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_820">Bibel</note>
+               </noteGrp>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4041771-2</idno>
                <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/</idno>
             </bibl>
@@ -9824,6 +9828,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1028" resp="#awilfing" cert="high">
                <title type="main">Altes Testament</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_820">Bibel</note>
+               </noteGrp>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4001515-4</idno>
                <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/</idno>
             </bibl>
@@ -18025,6 +18032,10 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1915" resp="#awilfing" cert="high">
                <title type="main">1. Korintherbrief</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_820">Bibel</note>
+                  <note type="Werkbezug" target="hsl_work_id_826">Neues Testament</note>
+               </noteGrp>
                <author ref="#hsl_person_id_3280">
                   <persName>Paulus von Tarsus</persName>
                </author>
@@ -34795,6 +34806,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3849" resp="#awilfing" cert="high">
                <title type="main">Horatius Coclès</title>
+               <title type="alternative">Horatius Cocles</title>
                <author ref="#hsl_person_id_179">
                   <persName>Méhul, Étienne Nicolas</persName>
                </author>
@@ -34840,6 +34852,47 @@
                   <persName>Atterbom, Per Daniel Amadeus</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://books.google.de/books?id=tH_uPAAACAAJ&amp;hl=de&amp;pg=PR1</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3854" resp="#awilfing" cert="high">
+               <title type="main">Chant de la Victoire</title>
+               <author ref="#hsl_person_id_179">
+                  <persName>Méhul, Étienne Nicolas</persName>
+               </author>
+               <author ref="#hsl_person_id_4330">
+                  <persName>Chénier, Marie Joseph Blaise de</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3855" resp="#awilfing" cert="high">
+               <title type="main">Adrien</title>
+               <title type="alternative">Adrian, Kaiser von Rom</title>
+               <author ref="#hsl_person_id_179">
+                  <persName>Méhul, Étienne Nicolas</persName>
+               </author>
+               <author ref="#hsl_person_id_2107">
+                  <persName>Hoffmann, François Benoit</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1179285204</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3856" resp="#awilfing" cert="high">
+               <title type="main">Adriano in Siria</title>
+               <author ref="#hsl_person_id_2118">
+                  <persName>Metastasio, Pietro</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1138736724</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Adriano_in_Siria_dramma_in_three_acts_an/JqhfAAAAcAAJ?gbpv=1</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3857" resp="#awilfing" cert="high">
+               <title type="main">Orlando furioso</title>
+               <title type="alternative">Der rasende Roland</title>
+               <author ref="#hsl_person_id_5652">
+                  <persName>Ariosto, Ludovico</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4194744-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10754033?page=8,9</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10754034?page=6,7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10754035?page=6,7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10754036?page=6,7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11683140?page=4,5</idno>
             </bibl>
       </listBibl>
       </body>
