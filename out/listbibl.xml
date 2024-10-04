@@ -16389,10 +16389,11 @@
                <author ref="#hsl_person_id_3262">
                   <persName>Hoffman, François-Benoît</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ariodant_(M%C3%A9hul%2C_Etienne_Nicolas)</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k1158792x/f5.item</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1728" resp="#awilfing" cert="high">
                <title type="main">L'irato, ou L'emporté</title>
+               <title type="alternative">L’emporté</title>
                <author ref="#hsl_person_id_179">
                   <persName>Méhul, Étienne Nicolas</persName>
                </author>
@@ -16412,7 +16413,7 @@
                   <persName>Bouilly, Jean Nicolas</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1140662201</idno>
-               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Une_folie_(M%C3%A9hul%2C_Etienne_Nicolas)</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k1163629j.image</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1730" resp="#awilfing" cert="high">
                <title type="main">Il curioso indiscreto</title>
@@ -19174,7 +19175,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2051" resp="#awilfing" cert="high">
                <title type="main">Leyer und Schwerdt, J168-173</title>
-               <title type="alternative">Leier und Schwert, Lützow'sche Jäger</title>
+               <title type="alternative">Leier und Schwert</title>
                <author ref="#hsl_person_id_321">
                   <persName>Weber, Carl Maria von</persName>
                </author>
@@ -28558,8 +28559,8 @@
                <author ref="#hsl_person_id_2115">
                   <persName>Prechtler, Otto</persName>
                </author>
-               <author ref="#hsl_person_id_4517">
-                  <persName>Sulzer, Joseph</persName>
+               <author ref="#hsl_person_id_5666">
+                  <persName>Sulzer, Julius</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3106" resp="#awilfing" cert="high">
@@ -33048,8 +33049,9 @@
                   <persName>Beethoven, Ludwig van</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3634" resp="#awilfing" cert="medium">
-               <title type="main">Gesselschaftsliederbuch für vierstimmigen Männergesang</title>
+            <bibl xml:id="hsl_work_id_3634" resp="#awilfing" cert="high">
+               <title type="main">Gesellschafts-Liederbuch für vierstimmigen Männergesang</title>
+               <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_555">
                   <persName>Nägeli, Hans Georg</persName>
                </author>
@@ -34893,6 +34895,111 @@
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10754035?page=6,7</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10754036?page=6,7</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11683140?page=4,5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3858" resp="#awilfing" cert="high">
+               <title type="main">Chant national du 14 juillet 1800</title>
+               <title type="alternative">Chant du 25 Messidor</title>
+               <author ref="#hsl_person_id_179">
+                  <persName>Méhul, Étienne Nicolas</persName>
+               </author>
+               <author ref="#hsl_person_id_5658">
+                  <persName>Fontanes, Louis de</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300215649</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b10875462n</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3859" resp="#awilfing" cert="high">
+               <title type="main">Quelques reflexions</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_1727">Ariodant</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_179">
+                  <persName>Méhul, Étienne Nicolas</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k1158792x/f9.item</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3860" resp="#awilfing" cert="high">
+               <title type="main">Maria Magdalene</title>
+               <title type="alternative">Maria Magdalena</title>
+               <author ref="#hsl_person_id_115">
+                  <persName>Hebbel, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099220-2</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10110607?page=6,7</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3861" resp="#awilfing" cert="high">
+               <title type="main">Anacréon chez Polycrate</title>
+               <title type="alternative">Anakreon bei Polykrates</title>
+               <author ref="#hsl_person_id_103">
+                  <persName>Grétry, André-Ernest-Modeste</persName>
+               </author>
+               <author ref="#hsl_person_id_5659">
+                  <persName>Guy, Jean-Henri</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/119375562X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Anacr%C3%A9on_chez_Polycrate_(Gr%C3%A9try%2C_Andr%C3%A9_Ernest_Modeste)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3862" resp="#awilfing" cert="high">
+               <title type="main">Les deux aveugles de Tolède</title>
+               <title type="alternative">Die beiden Blinden von Toledo</title>
+               <author ref="#hsl_person_id_179">
+                  <persName>Méhul, Étienne Nicolas</persName>
+               </author>
+               <author ref="#hsl_person_id_3264">
+                  <persName>Marsollier des Vivetières, Benoît-Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1096508257</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k1162406j</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3863" resp="#awilfing" cert="high">
+               <title type="main">Bion</title>
+               <author ref="#hsl_person_id_179">
+                  <persName>Méhul, Étienne Nicolas</persName>
+               </author>
+               <author ref="#hsl_person_id_2107">
+                  <persName>Hoffmann, François Benoit</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Bion_(M%C3%A9hul%2C_Etienne_Nicolas)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3864" resp="#awilfing" cert="high">
+               <title type="main">La Dansomanie</title>
+               <author ref="#hsl_person_id_179">
+                  <persName>Méhul, Étienne Nicolas</persName>
+               </author>
+               <author ref="#hsl_person_id_5660">
+                  <persName>Gardel, Pierre</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b10507239g</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3865" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3866" resp="#awilfing" cert="high">
+               <title type="main">Le Moniteur universel</title>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7736987-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/cb34452336z/date.item</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3867" resp="#awilfing" cert="high">
+               <title type="main">Le chevalier de Sénanges</title>
+               <author ref="#hsl_person_id_29">
+                  <persName>Berton, Henri-Montan</persName>
+               </author>
+               <author ref="#hsl_person_id_5663">
+                  <persName>Forbin, Auguste de</persName>
+               </author>
+               <author ref="#hsl_person_id_5664">
+                  <persName>Ségur, Alexandre-Joseph-Pierre de</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3868" resp="#awilfing" cert="high">
+               <title type="main">Des Teutschen Vaterland</title>
+               <title type="alternative">Deutsches Vaterland</title>
+               <author ref="#hsl_person_id_556">
+                  <persName>Zelter, Carl Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_4569">
+                  <persName>Arndt, Ernst Moritz</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>

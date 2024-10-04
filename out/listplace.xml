@@ -1105,7 +1105,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q18</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4078014-4</idno>
                </place>
-               <place xml:id="hsl_place_id_86" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_86" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Kaliningrad</placeName>
                      <placeName type="alternative">Königsberg</placeName>
@@ -1131,7 +1131,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2825297/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q32749678</idno>
                </place>
-               <place xml:id="hsl_place_id_88" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_88" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Karlovy Vary</placeName>
                      <placeName type="alternative">Karlsbad</placeName>
@@ -2647,7 +2647,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q33959</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4075416-9</idno>
                </place>
-               <place xml:id="hsl_place_id_221" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_221" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Alsace</placeName>
                      <placeName type="alternative">Elsass / Elsaß</placeName>
@@ -3372,8 +3372,9 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q63600</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4543134-6</idno>
                </place>
-               <place xml:id="hsl_place_id_279" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_279" resp="#awilfing" cert="high">
                   <placeName type="main">Rheinland</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2847618/</idno>
                </place>
                <place xml:id="hsl_place_id_280" resp="#awilfing" cert="medium">
                   <settlement type="P">
@@ -6842,21 +6843,17 @@
                   <placeName type="main">Frankfurt a.O.</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2925535/</idno>
                </place>
-               <place xml:id="hsl_place_id_616" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_616" resp="#awilfing" cert="high">
                   <placeName type="main">Appenzell</placeName>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q209270</idno>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2661740/</idno>
                </place>
-               <place xml:id="hsl_place_id_617" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_617" resp="#awilfing" cert="high">
                   <placeName type="main">Franken</placeName>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1444573</idno>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2803465/</idno>
                </place>
                <place xml:id="hsl_place_id_618" resp="#awilfing" cert="medium">
                   <placeName type="main">Schleswig-Holstein</placeName>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1194</idno>
-               </place>
-               <place xml:id="hsl_place_id_619" resp="#awilfing" cert="medium">
-                  <placeName type="main">Schloss Schönbrunn</placeName>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q131330</idno>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2838632/</idno>
                </place>
                <place xml:id="hsl_place_id_620" resp="#awilfing" cert="high">
                   <placeName type="main">Colchis</placeName>
@@ -7022,6 +7019,21 @@
                <place xml:id="hsl_place_id_661" resp="#awilfing" cert="high">
                   <placeName type="main">Schussenried</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2835635/</idno>
+               </place>
+               <place xml:id="hsl_place_id_662" resp="#awilfing" cert="high">
+                  <placeName type="main">Schottenring, Wien</placeName>
+               </place>
+               <place xml:id="hsl_place_id_663" resp="#awilfing" cert="medium">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_664" resp="#awilfing" cert="high">
+                  <placeName type="main">Mitteldeutschland</placeName>
+               </place>
+               <place xml:id="hsl_place_id_665" resp="#awilfing" cert="medium">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_666" resp="#awilfing" cert="medium">
+                  <placeName type="main"/>
                </place>
             </listPlace>
          </div>
