@@ -17863,7 +17863,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1897" resp="#awilfing" cert="high">
                <title type="main">Timotheus oder die Gewalt der Musik, KV591 (Bearbeitung)</title>
-               <title type="alternative">Alexander’s Feast; or, the Power of Music, HWV75 / Das Alexanderfest oder die Macht der Tonkunst</title>
+               <title type="alternative">Thimotheus / Alexander’s Feast; or, the Power of Music, HWV75 / Das Alexanderfest oder die Macht der Tonkunst</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
@@ -24866,7 +24866,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2692" resp="#awilfing" cert="high">
                <title type="main">Telemaco, Wq. 34</title>
-               <title type="alternative">Telemacco</title>
+               <title type="alternative">Telemacco / Telemach</title>
                <author ref="#hsl_person_id_99">
                   <persName>Gluck, Christoph Willibald</persName>
                </author>
@@ -32629,13 +32629,6 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300294662</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/The_Beggar's_Opera_(Pepusch%2C_John_Christopher)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3573" resp="#awilfing" cert="medium">
-               <title type="main">Tannhäuser und der Sängerkrieg auf Wartburg. O du mein holder Abendstern</title>
-               <author ref="#hsl_person_id_319">
-                  <persName>Wagner, Richard</persName>
-               </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1167963512</idno>
-            </bibl>
             <bibl xml:id="hsl_work_id_3574" resp="#awilfing" cert="medium">
                <title type="main">Meine Erinnerungen an Felix Mendelssohn-Bartholdy und seine Briefe an mich</title>
                <author ref="#hsl_person_id_58">
@@ -34971,8 +34964,18 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b10507239g</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3865" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_3865" resp="#awilfing" cert="high">
+               <title type="main">Épicure</title>
+               <title type="alternative">Epikur</title>
+               <author ref="#hsl_person_id_47">
+                  <persName>Cherubini, Luigi</persName>
+               </author>
+               <author ref="#hsl_person_id_179">
+                  <persName>Méhul, Étienne Nicolas</persName>
+               </author>
+               <author ref="#hsl_person_id_5671">
+                  <persName>Demoustier, Charles Albert</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3866" resp="#awilfing" cert="high">
                <title type="main">Le Moniteur universel</title>
@@ -35000,6 +35003,55 @@
                <author ref="#hsl_person_id_4569">
                   <persName>Arndt, Ernst Moritz</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3869" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3870" resp="#awilfing" cert="high">
+               <title type="main">Hécube</title>
+               <title type="alternative">Hekuba</title>
+               <author ref="#hsl_person_id_5672">
+                  <persName>Fontenelle, Granges de</persName>
+               </author>
+               <author ref="#hsl_person_id_5673">
+                  <persName>Milcent, Jean-Baptiste Gabriel Marie de</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3871" resp="#awilfing" cert="high">
+               <title type="main">Praxitèle ou la ceinture</title>
+               <title type="alternative">Praxiteles</title>
+               <author ref="#hsl_person_id_5673">
+                  <persName>Milcent, Jean-Baptiste Gabriel Marie de</persName>
+               </author>
+               <author ref="#hsl_person_id_5674">
+                  <persName>Devismes, Jeanne-Hippolyte</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3872" resp="#awilfing" cert="high">
+               <title type="main">Léonidas, ou les Spartiates</title>
+               <title type="alternative">Leonidas</title>
+               <author ref="#hsl_person_id_2344">
+                  <persName>Persuis, Louis-Luc Loiseau de</persName>
+               </author>
+               <author ref="#hsl_person_id_5653">
+                  <persName>Pixérécourt, René-Charles Guilbert de</persName>
+               </author>
+               <author ref="#hsl_person_id_5675">
+                  <persName>Gresnick, Antoine-Frédéric</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3873" resp="#awilfing" cert="high">
+               <title type="main">Apelle et Campaspe</title>
+               <title type="alternative">Apelles</title>
+               <author ref="#hsl_person_id_5671">
+                  <persName>Demoustier, Charles Albert</persName>
+               </author>
+               <author ref="#hsl_person_id_5676">
+                  <persName>Eler, André-Frédéric</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3874" resp="#awilfing" cert="medium">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>
