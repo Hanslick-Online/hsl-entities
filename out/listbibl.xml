@@ -1455,6 +1455,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_2597">Violetta Valery</name>
                <name type="character" ref="#hsl_person_id_4427">Alfredo Germont</name>
+               <name type="character" ref="#hsl_person_id_5687">Giorgio Germont</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300166400</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_traviata_(Verdi,_Giuseppe)</idno>
             </bibl>
@@ -1946,6 +1947,7 @@
                <name type="character" ref="#hsl_person_id_2952">Manrico</name>
                <name type="character" ref="#hsl_person_id_2956">Ferrando</name>
                <name type="character" ref="#hsl_person_id_3378">Leonora</name>
+               <name type="character" ref="#hsl_person_id_5686">Conte di Luna</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300166508</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Il_trovatore_(Verdi,_Giuseppe)</idno>
             </bibl>
@@ -5432,6 +5434,8 @@
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5696">Sultan von Kairo</name>
+               <name type="character" ref="#hsl_person_id_5698">Suleika</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300140517</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Graf_von_Gleichen,_D.918_(Schubert,_Franz)</idno>
             </bibl>
@@ -32701,27 +32705,37 @@
             <bibl xml:id="hsl_work_id_3583" resp="#awilfing" cert="medium">
                <title type="main">Die Mördergrube</title>
             </bibl>
-            <bibl xml:id="hsl_work_id_3584" resp="#awilfing" cert="medium">
-               <title type="main">Die Himmel erzählen die Ehre Gottes</title>
+            <bibl xml:id="hsl_work_id_3584" resp="#awilfing" cert="high">
+               <title type="main">Die Himmel erzählen die Ehre Gottes, S14</title>
                <title type="alternative">18. Psalm</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1036525082</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3585" resp="#awilfing" cert="medium">
-               <title type="main">Abendfriede, Op.140</title>
+            <bibl xml:id="hsl_work_id_3585" resp="#awilfing" cert="high">
+               <title type="main">Abendfriede, op. 140</title>
                <author ref="#hsl_person_id_151">
                   <persName>Lachner, Franz</persName>
                </author>
+               <author ref="#hsl_person_id_375">
+                  <persName>Lenau, Nikolaus</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1118780264</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Abendfriede%2C_Op.140_(Lachner%2C_Franz_Paul)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3586" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3586" resp="#awilfing" cert="high">
                <title type="main">Mahomets Gesang</title>
+               <title type="alternative">Gesang Mahomedʼs</title>
                <author ref="#hsl_person_id_100">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4482134-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10924778?page=194,195</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3587" resp="#awilfing" cert="medium">
-               <title type="main">Waldszene. Für Chor und Orchester</title>
+            <bibl xml:id="hsl_work_id_3587" resp="#awilfing" cert="high">
+               <title type="main">Waldszene</title>
+               <title type="alternative">Waldscene</title>
                <author ref="#hsl_person_id_121">
                   <persName>Herbeck, Johann von</persName>
                </author>
@@ -32732,22 +32746,11 @@
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3590" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3590" resp="#awilfing" cert="high">
                <title type="main">Ukrainisches Ständchen</title>
+               <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_323">
                   <persName>Weinwurm, Rudolf</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_3591" resp="#awilfing" cert="medium">
-               <title type="main">Suleika I, op.14/1</title>
-               <author ref="#hsl_person_id_279">
-                  <persName>Schubert, Franz</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_3592" resp="#awilfing" cert="medium">
-               <title type="main">Suleika II, op.31</title>
-               <author ref="#hsl_person_id_279">
-                  <persName>Schubert, Franz</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3593" resp="#awilfing" cert="medium">
@@ -35057,7 +35060,87 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3874" resp="#awilfing" cert="medium">
+               <title type="main">Konzertsatz für Klavier und Orchester in D-Dur</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3875" resp="#awilfing" cert="high">
+               <title type="main">La Jérusalem délivrée</title>
+               <title type="alternative">Das befreite Jerusalem</title>
+               <author ref="#hsl_person_id_2344">
+                  <persName>Persuis, Louis-Luc Loiseau de</persName>
+               </author>
+               <author ref="#hsl_person_id_5688">
+                  <persName>Baour-Lormian, Pierre-Marie-François-Louis</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/116861774X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3876" resp="#awilfing" cert="high">
+               <title type="main">Der Abschied des Landwehrmanns</title>
+               <author ref="#hsl_person_id_5689">
+                  <persName>Krafft, Johann Peter</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://sammlung.belvedere.at/objects/8042/der-abschied-des-landwehrmannes</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3877" resp="#awilfing" cert="high">
+               <title type="main">An die Religion</title>
+               <author ref="#hsl_person_id_754">
+                  <persName>Salieri, Antonio</persName>
+               </author>
+               <author ref="#hsl_person_id_5690">
+                  <persName>Huglmann, Leopold</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3878" resp="#awilfing" cert="high">
+               <title type="main">Der Oesterreicher an seinen Kaiser</title>
+               <author ref="#hsl_person_id_5668">
+                  <persName>Pichler, Florian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3879" resp="#awilfing" cert="high">
+               <title type="main">Leonore Prochaska</title>
+               <author ref="#hsl_person_id_5668">
+                  <persName>Pichler, Florian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3880" resp="#awilfing" cert="medium">
                <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3881" resp="#awilfing" cert="high">
+               <title type="main">Die preußische Heldenmutter, verwitwete Frau von Schierstädt</title>
+               <author ref="#hsl_person_id_5668">
+                  <persName>Pichler, Florian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3882" resp="#awilfing" cert="high">
+               <title type="main">Chor</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3883" resp="#awilfing" cert="high">
+               <title type="main">Des deutschen Mädchens Wunsch und Vorsatz</title>
+               <author ref="#hsl_person_id_376">
+                  <persName>Castelli, Ignaz Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3884" resp="#awilfing" cert="high">
+               <title type="main">Abendbilder</title>
+               <author ref="#hsl_person_id_375">
+                  <persName>Lenau, Nikolaus</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.deutschestextarchiv.de/book/view/lenau_gedichte_1832?p=223</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3885" resp="#awilfing" cert="high">
+               <title type="main">Mohamets Gesang, op. 78</title>
+               <author ref="#hsl_person_id_74">
+                  <persName>Esser, Heinrich</persName>
+               </author>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
