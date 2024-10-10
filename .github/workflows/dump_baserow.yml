@@ -15,8 +15,12 @@ jobs:
       BASEROW_PW: ${{secrets.BASEROW_PW}}
     steps:
       - name: Perfom Checkout
-        uses: actions/checkout@v3
-      - name: isntall py dump denormalize data
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: install py requirements, dump and denormalize data
         run: |
           pip install -U pip
           pip install -r scripts/python/requirements.txt
