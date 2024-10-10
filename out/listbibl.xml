@@ -2543,6 +2543,7 @@
                   <persName>Geibel, Emanuel</persName>
                </author>
                <name type="character" ref="#hsl_person_id_2364">Leonore</name>
+               <name type="character" ref="#hsl_person_id_5730">Loreley</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300102216</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Loreley,_Op.98_(Mendelssohn,_Felix)</idno>
             </bibl>
@@ -4798,6 +4799,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_462" resp="#awilfing" cert="high">
                <title type="main">Händel und Shakespeare. Zur Ästhetik der Tonkunst</title>
+               <title type="alternative">Händel und Shakspeare</title>
                <author ref="#hsl_person_id_782">
                   <persName>Gervinus, Georg Gottfried</persName>
                </author>
@@ -32634,18 +32636,25 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300294662</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/The_Beggar's_Opera_(Pepusch%2C_John_Christopher)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3574" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3574" resp="#awilfing" cert="high">
                <title type="main">Meine Erinnerungen an Felix Mendelssohn-Bartholdy und seine Briefe an mich</title>
                <author ref="#hsl_person_id_58">
                   <persName>Devrient, Eduard</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7675644-0</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10310110?page=8,9</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3575" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3575" resp="#awilfing" cert="high">
                <title type="main">Geschichte der deutschen Schauspielkunst</title>
                <author ref="#hsl_person_id_58">
                   <persName>Devrient, Eduard</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4498316-5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11081589?page=6,7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11081590?page=6,7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11081591?page=4,5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10107253?page=10,11</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11188563?page=12,13</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3576" resp="#awilfing" cert="medium">
                <title type="main">König Drosselbart</title>
@@ -32663,12 +32672,6 @@
                </author>
                <name type="character" ref="#hsl_person_id_5271">König Drosselbart</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4164370-7</idno>
-            </bibl>
-            <bibl xml:id="hsl_work_id_3577" resp="#awilfing" cert="medium">
-               <title type="main">Deutsche Musik-Zeitung</title>
-               <author ref="#hsl_person_id_1061">
-                  <persName>Bagge, Selmar</persName>
-               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3578" resp="#awilfing" cert="medium">
                <title type="main">Funeral Anthem for Queen Caroline, HWV 264</title>
@@ -35304,6 +35307,39 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1342347722</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digizeitschriften.org/search?filter%5BZeitschriften%5D%5B1%5D=479007071%7Clog1&amp;filter%5BObjekttyp%5D%5B1%5D=volume&amp;q=*</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3901" resp="#awilfing" cert="high">
+               <title type="main">Die Königsbraut, op. 46</title>
+               <author ref="#hsl_person_id_1017">
+                  <persName>Fuchs, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_1693">
+                  <persName>Schnitzer, Ignaz</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_5715">Edgar</name>
+               <name type="character" ref="#hsl_person_id_5716">Ethelwold</name>
+               <name type="character" ref="#hsl_person_id_5717">Editha</name>
+               <name type="character" ref="#hsl_person_id_5718">Elfrida</name>
+               <name type="character" ref="#hsl_person_id_5727">Gurth</name>
+               <name type="character" ref="#hsl_person_id_5728">Castor</name>
+               <name type="character" ref="#hsl_person_id_5729">Cherry</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1063113199</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3902" resp="#awilfing" cert="high">
+               <title type="main">Chronicle of the Kings of England: From the Earliest Period to the Reign of King Stephen</title>
+               <author ref="#hsl_person_id_5719">
+                  <persName>Wilhelm, von Malmesbury</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/williammalmesbu00malmgoog/page/n4/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3903" resp="#awilfing" cert="high">
+               <title type="main">Elfrida</title>
+               <author ref="#hsl_person_id_929">
+                  <persName>Paisiello, Giovanni</persName>
+               </author>
+               <author ref="#hsl_person_id_2142">
+                  <persName>Calzabigi, Ranieri de</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>

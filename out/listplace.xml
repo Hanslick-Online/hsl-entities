@@ -510,7 +510,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1218</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4028586-8</idno>
                </place>
-               <place xml:id="hsl_place_id_29" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_29" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Karlsruhe</placeName>
                   </settlement>
@@ -7018,8 +7018,23 @@
                <place xml:id="hsl_place_id_665" resp="#awilfing" cert="high">
                   <placeName type="main">Landstraße, Wien</placeName>
                </place>
-               <place xml:id="hsl_place_id_666" resp="#awilfing" cert="medium">
-                  <placeName type="main"/>
+               <place xml:id="hsl_place_id_666" resp="#awilfing" cert="high">
+                  <placeName type="main">Malmesbury</placeName>
+                     <placeName type="alternative">Malesbury</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2643146/</idno>
+               </place>
+               <place xml:id="hsl_place_id_667" resp="#awilfing" cert="high">
+                  <placeName type="main">Canterbury</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2653877/</idno>
+               </place>
+               <place xml:id="hsl_place_id_668" resp="#awilfing" cert="high">
+                  <placeName type="main">Dover</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2651048/</idno>
+               </place>
+               <place xml:id="hsl_place_id_669" resp="#awilfing" cert="high">
+                  <placeName type="main">Devon</placeName>
+                     <placeName type="alternative">Devonshire</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/11609025/</idno>
                </place>
             </listPlace>
          </div>
