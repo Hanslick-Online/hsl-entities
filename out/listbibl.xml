@@ -4881,6 +4881,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_473" resp="#awilfing" cert="high">
                <title type="main">Die Lehre von den Tonempfindungen als physiologische Grundlage für die Theorie der Musik</title>
+               <title type="alternative">Lehre von den Ton-Empfindungen</title>
                <author ref="#hsl_person_id_713">
                   <persName>Helmholtz, Hermann von</persName>
                </author>
@@ -32673,11 +32674,13 @@
                <name type="character" ref="#hsl_person_id_5271">König Drosselbart</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4164370-7</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3578" resp="#awilfing" cert="medium">
-               <title type="main">Funeral Anthem for Queen Caroline, HWV 264</title>
+            <bibl xml:id="hsl_work_id_3578" resp="#awilfing" cert="high">
+               <title type="main">Funeral Anthem for Queen Caroline, HWV264</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300231903</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Funeral_Anthem_for_Queen_Caroline%2C_HWV_264_(Handel%2C_George_Frideric)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3579" resp="#awilfing" cert="medium">
                <title type="main">Fiamma d'amore</title>
@@ -32769,56 +32772,70 @@
                   <persName>Weinwurm, Rudolf</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3593" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3593" resp="#awilfing" cert="high">
                <title type="main">Musikalische Charakterbilder</title>
                <author ref="#hsl_person_id_5018">
                   <persName>Gumprecht, Otto</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10600519?page=4,5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3594" resp="#awilfing" cert="medium">
-               <title type="main">Mozart's Requiem: Zum besseren Verständnis bei Aufführungen</title>
+               <title type="main">Mozart's Requiem. Zum besseren Verständnis bei Aufführungen</title>
                <author ref="#hsl_person_id_5293">
                   <persName>Hahn, Albert</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Mozarts_Requiem/OS5QGvwzOkEC?hl=de&amp;gbpv=1&amp;pg=PA1</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3595" resp="#awilfing" cert="medium">
-               <title type="main">Das Mozartbuch</title>
+            <bibl xml:id="hsl_work_id_3595" resp="#awilfing" cert="high">
+               <title type="main">Das Mozart-Buch</title>
+               <title type="alternative">Mozartbuch</title>
                <author ref="#hsl_person_id_5294">
                   <persName>Wurzbach, Constantin von</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Mozart_Buch/zeK9n-Nwj2sC?hl=de&amp;gbpv=1&amp;pg=PP7</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3596" resp="#awilfing" cert="medium">
-               <title type="main">Joseph Haydn und sein Bruder Michael: zwei bio-bibliographische Künstler-Skizzen</title>
+            <bibl xml:id="hsl_work_id_3596" resp="#awilfing" cert="high">
+               <title type="main">Joseph Haydn und sein Bruder Michael. Zwei bio-bibliographische Künstler-Skizzen</title>
                <author ref="#hsl_person_id_5294">
                   <persName>Wurzbach, Constantin von</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10600117?page=2,3</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3597" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3597" resp="#awilfing" cert="high">
                <title type="main">Die Lehre von der Harmonik</title>
                <author ref="#hsl_person_id_687">
                   <persName>Hauptmann, Moritz</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10598677?page=4,5</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3598" resp="#awilfing" cert="medium">
-               <title type="main">Tonhalle</title>
-               <author ref="#hsl_person_id_687">
-                  <persName>Hauptmann, Moritz</persName>
-               </author>
+            <bibl xml:id="hsl_work_id_3598" resp="#awilfing" cert="high">
+               <title type="main">Die Tonhalle. Organ für Musikfreunde</title>
                <author ref="#hsl_person_id_4160">
                   <persName>Paul, Oskar</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3599" resp="#awilfing" cert="medium">
-               <title type="main">System und Methode der Harmonielehre, gegründet auf fremde und eigene Beobachtungen mit besonderer Berücksichtigung der neuesten physikalisch-physiologischen Untersuchungen über Tonempfindungen ; für Musikinstitute &amp; zum Selbstunterricht</title>
+            <bibl xml:id="hsl_work_id_3599" resp="#awilfing" cert="high">
+               <title type="main">System und Methode der Harmonielehre, gegründet auf fremde und eigene Beobachtungen mit besonderer Berücksichtigung der neuesten physikalisch-physiologischen Untersuchungen über Tonempfindungen. Für Musikinstitute und zum Selbstunterricht</title>
+               <title type="alternative">System der Harmonielehre</title>
                <author ref="#hsl_person_id_5299">
                   <persName>Tiersch, Otto</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10599613?page=6,7</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3600" resp="#awilfing" cert="medium">
-               <title type="main">Blätter aus Italien</title>
+            <bibl xml:id="hsl_work_id_3600" resp="#awilfing" cert="high">
+               <title type="main">Fliegende Blätter aus Italien</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
                <author ref="#hsl_person_id_717">
                   <persName>Ambros, August Wilhelm</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18680711&amp;seite=1&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18680717&amp;seite=1&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18680721&amp;seite=1&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18680806&amp;seite=1&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18681204&amp;seite=1&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18681230&amp;seite=1&amp;zoom=33</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3601" resp="#awilfing" cert="high">
                <title type="main">Des Adlers Horst</title>
@@ -35340,6 +35357,39 @@
                <author ref="#hsl_person_id_2142">
                   <persName>Calzabigi, Ranieri de</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3904" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3905" resp="#awilfing" cert="high">
+               <title type="main">Harmonias Poeticas, sive carmina nonnulla Horatii aliorumque poetarum romanorum vocum cantui</title>
+               <author ref="#hsl_person_id_4248">
+                  <persName>Hofhaimer, Paul</persName>
+               </author>
+               <author ref="#hsl_person_id_5295">
+                  <persName>Achleitner, Innocentius</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11140709?page=4,5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3906" resp="#awilfing" cert="high">
+               <title type="main">Geschichte der Musik im Zeitalter der Renaissance bis zu Palestrina</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3360">Geschichte der Musik</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_717">
+                  <persName>Ambros, August Wilhelm</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10598180?page=12,13</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3907" resp="#awilfing" cert="high">
+               <title type="main">Geschichte der Musik im Zeitalter der Renaissance von Palestrina an</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3360">Geschichte der Musik</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_717">
+                  <persName>Ambros, August Wilhelm</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11376491?page=8,9</idno>
             </bibl>
       </listBibl>
       </body>
