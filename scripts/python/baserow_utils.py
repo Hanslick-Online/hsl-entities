@@ -34,7 +34,7 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
                         oeml = f'https://www.musiklexikon.ac.at/ml/musik_{wd["custom"]}.xml'
                         update[field_name_update["oeml"]] = oeml
                         v_oeml += 1
-                        print(f"gnd id matched with wikidata: {wd["custom"]}")
+                        print(f"gnd id matched with oeml: {oeml}")
                 except Exception as err:
                     print(err)
                     print(f"no match for {norm_id} found.")
@@ -45,14 +45,14 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
                         oebl = f'https://www.biographien.ac.at/oebl/oebl_{wd["custom"]}.xml'
                         update[field_name_update["oebl"]] = oebl
                         v_oebl += 1
-                        print(f"gnd id matched with wikidata: {wd["custom"]}")
+                        print(f"gnd id matched with oebl: {oebl}")
                 except Exception as err:
                     print(err)
-                    print(f"no wikidata match for {norm_id} found.")
+                    print(f"no oebl match for {norm_id} found.")
                 try:
-                    wdc = gnd_to_wikidata_custom(norm_id, "P12483")
-                    if len(wdc["custom"]) > 0:
-                        pmb = wdc["custom"]
+                    wd = gnd_to_wikidata_custom(norm_id, "P12483")
+                    if len(wd["custom"]) > 0:
+                        pmb = wd["custom"]
                         update[field_name_update["pmb"]] = f"https://pmb.acdh.oeaw.ac.at/entity/{pmb}"
                         v_pmb += 1
                         print(f"gnd id matched with pmb: https://pmb.acdh.oeaw.ac.at/entity/{pmb}")
