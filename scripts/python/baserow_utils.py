@@ -14,6 +14,9 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
     br_rows_url = f"{BASEROW_URL}database/rows/table/{br_table_id}/"
     v_wd = 0
     v_geo = 0
+    v_pmb = 0
+    v_oebl = 0
+    v_oeml = 0
     for x in table:
         update = {}
         if uri == "gnd":
@@ -25,19 +28,37 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
                     wd = gnd_to_wikidata_custom(norm_id, "P8432")
                     wd_id = wd["wikidata"]
                     update[field_name_update["wikidata"]] = wd_id
+                    v_wd += 1
+                    print(f"gnd id matched with wikidata: {wd_id}")
                     if len(wd["custom"]) > 0:
                         oeml = f'https://www.musiklexikon.ac.at/ml/musik_{wd["custom"]}.xml'
-                        update["oeml"] = oeml
+                        update[field_name_update["oeml"]] = oeml
+                        v_oeml += 1
+                        print(f"gnd id matched with wikidata: {wd["custom"]}")
+                except Exception as err:
+                    print(err)
+                    print(f"no match for {norm_id} found.")
+                try:
                     # custom = oebl
                     wd = gnd_to_wikidata_custom(norm_id, "P6194")
                     if len(wd["custom"]) > 0:
                         oebl = f'https://www.biographien.ac.at/oebl/oebl_{wd["custom"]}.xml'
-                        update["oebl"] = oebl
-                    v_wd += 1
-                    print(f"gnd id matched with wikidata: {wd_id}")
+                        update[field_name_update["oebl"]] = oebl
+                        v_oebl += 1
+                        print(f"gnd id matched with wikidata: {wd["custom"]}")
                 except Exception as err:
                     print(err)
-                    print(f"no match for {norm_id} found.")
+                    print(f"no wikidata match for {norm_id} found.")
+                try:
+                    wdc = gnd_to_wikidata_custom(norm_id, "P12483")
+                    if len(wdc["custom"]) > 0:
+                        pmb = wdc["custom"]
+                        update[field_name_update["pmb"]] = f"https://pmb.acdh.oeaw.ac.at/entity/{pmb}"
+                        v_pmb += 1
+                        print(f"gnd id matched with pmb: https://pmb.acdh.oeaw.ac.at/entity/{pmb}")
+                except Exception as err:
+                    print(err)
+                    print(f"no pmb match for {norm_id} found.")
         if uri == "geonames":
             if (len(x[field_name_input["geonames"]]) and len(x[field_name_input["wikidata"]]) == 0):
                 norm_id = get_normalized_uri(x[field_name_input["geonames"]])
