@@ -1,7 +1,7 @@
 import requests
 import geocoder
 import json
-
+from time import sleep
 from acdh_id_reconciler import geonames_to_gnd, geonames_to_wikidata, gnd_to_wikidata_custom
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
 from acdh_obj2xml_pyutils import ObjectToXml
@@ -83,7 +83,6 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
         if update:
             row_id = x["id"]
             url = f"{br_rows_url}{row_id}/?user_field_names=true"
-            print(url)
             try:
                 requests.patch(
                     url,
@@ -93,8 +92,10 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
                     },
                     json=update
                 )
+                print(f"{url} : updated")
             except Exception as err:
                 print(err)
+        sleep(0.25)
     print(f"{v_wd} wikidata uri and {v_geo} geonames uri of {len(table)} table rows matched")
 
 
@@ -135,7 +136,6 @@ def geonames_to_location(br_table_id, user, field_name_input, field_name_update)
             update["updated"] = True
             row_id = x["id"]
             url = f"{br_rows_url}{row_id}/?user_field_names=true"
-            print(url)
             try:
                 requests.patch(
                     url,
@@ -145,8 +145,10 @@ def geonames_to_location(br_table_id, user, field_name_input, field_name_update)
                     },
                     json=update
                 )
+                print(f"{url} : updated")
             except Exception as err:
                 print(err)
+        sleep(0.25)
     print(f"{geo_u} geonames uri and of {len(table)} table rows matched")
 
 

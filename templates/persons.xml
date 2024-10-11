@@ -85,6 +85,9 @@
                   {% if x.wikidata|length > 0 %}
                   <idno type="URI" subtype="WIKIDATA">{{ x.wikidata }}</idno>
                   {% endif %}
+                  {% if x.pmb|length > 0 %}
+                  <idno type="URI" subtype="PMB">{{ x.pmb }}</idno>
+                  {% endif %}
                   {% if x.oeml|length > 0 %}
                   <idno type="URI" subtype="OEML">{{ x.oeml }}</idno>
                   {% endif %}
