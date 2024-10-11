@@ -14,7 +14,11 @@ jobs:
       GEONAMES_USER: ${{secrets.GEONAMES_USER}}
     steps:
       - name: Perfom Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
       - name: Install Python Packages
         run: |
           pip install -U pip
