@@ -35340,6 +35340,9 @@
                <name type="character" ref="#hsl_person_id_5727">Gurth</name>
                <name type="character" ref="#hsl_person_id_5728">Castor</name>
                <name type="character" ref="#hsl_person_id_5729">Cherry</name>
+               <name type="character" ref="#hsl_person_id_5734">Diana</name>
+               <name type="character" ref="#hsl_person_id_5735">Olgar</name>
+               <name type="character" ref="#hsl_person_id_5736">John</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1063113199</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3902" resp="#awilfing" cert="high">
@@ -35358,8 +35361,12 @@
                   <persName>Calzabigi, Ranieri de</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3904" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_3904" resp="#awilfing" cert="high">
+               <title type="main">Elfride</title>
+               <author ref="#hsl_person_id_1278">
+                  <persName>Heyse, Paul</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.google.com/books/edition/Elfride/qG8OAQAAMAAJ?hl=de&amp;gbpv=1&amp;pg=PP11</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3905" resp="#awilfing" cert="high">
                <title type="main">Harmonias Poeticas, sive carmina nonnulla Horatii aliorumque poetarum romanorum vocum cantui</title>
@@ -35390,6 +35397,51 @@
                   <persName>Ambros, August Wilhelm</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11376491?page=8,9</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3909" resp="#awilfing" cert="high">
+               <title type="main">Aatidsbilleder für Singstimmen, Frauenchor und Klavier, op. 51</title>
+               <author ref="#hsl_person_id_94">
+                  <persName>Gade, Niels Wilhelm</persName>
+               </author>
+               <author ref="#hsl_person_id_2135">
+                  <persName>Andersen, Carl</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1189852896</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3910" resp="#awilfing" cert="high">
+               <title type="main">Sommernacht, op. 51 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3909">Aatidsbilleder für Singstimmen, Frauenchor und Klavier, op. 51</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_94">
+                  <persName>Gade, Niels Wilhelm</persName>
+               </author>
+               <author ref="#hsl_person_id_2135">
+                  <persName>Andersen, Carl</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1189852896</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3911" resp="#awilfing" cert="high">
+               <title type="main">Frühlingsnahen, op. 51 Nr. 4</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3909">Aatidsbilleder für Singstimmen, Frauenchor und Klavier, op. 51</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_94">
+                  <persName>Gade, Niels Wilhelm</persName>
+               </author>
+               <author ref="#hsl_person_id_2135">
+                  <persName>Andersen, Carl</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1189852896</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3912" resp="#awilfing" cert="high">
+               <title type="main">Ruhe umhüllt</title>
+               <author ref="#hsl_person_id_721">
+                  <persName>Grillparzer, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_3593">
+                  <persName>Labor, Josef</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
