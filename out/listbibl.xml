@@ -6316,6 +6316,9 @@
                </author>
                <name type="character" ref="#hsl_person_id_1968">Rose Friquet</name>
                <name type="character" ref="#hsl_person_id_3860">Sylvain</name>
+               <name type="character" ref="#hsl_person_id_5750">Belamy</name>
+               <name type="character" ref="#hsl_person_id_5751">Thibaut</name>
+               <name type="character" ref="#hsl_person_id_5752">Georgette</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300098197</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Les_dragons_de_Villars_(Maillart,_Aim%C3%A9)</idno>
             </bibl>
@@ -10686,6 +10689,7 @@
                   <persName>Lipiner, Siegfried</persName>
                </author>
                <name type="character" ref="#hsl_person_id_3088">Merlin</name>
+               <name type="character" ref="#hsl_person_id_5755">Artus</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300986998</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Merlin_(Goldmark%2C_Carl)</idno>
             </bibl>
@@ -20538,6 +20542,9 @@
                <author ref="#hsl_person_id_3273">
                   <persName>Gilbert, William S.</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5756">Colonel Fairfax</name>
+               <name type="character" ref="#hsl_person_id_5757">Jack Point</name>
+               <name type="character" ref="#hsl_person_id_5758">Elsie Maynard</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4424923-8</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/The_Yeomen_of_the_Guard_(Sullivan%2C_Arthur)</idno>
             </bibl>
@@ -35686,6 +35693,83 @@
                   <persName>Scharwenka, Xaver</persName>
                </author>
                <idno type="URI" subtype="GND">https://imslp.org/wiki/Symphony%2C_Op.60_(Scharwenka%2C_Xaver)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3939" resp="#awilfing" cert="high">
+               <title type="main">The Pirates of Penzance</title>
+               <title type="alternative">Die Piraten</title>
+               <author ref="#hsl_person_id_2623">
+                  <persName>Sullivan, Arthur</persName>
+               </author>
+               <author ref="#hsl_person_id_3273">
+                  <persName>Gilbert, William S.</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_5759">Sergeant of Police</name>
+               <name type="character" ref="#hsl_person_id_5760">Mabel</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300159129</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/The_Pirates_of_Penzance_(Sullivan%2C_Arthur)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3940" resp="#awilfing" cert="high">
+               <title type="main">La Petite Fadette</title>
+               <author ref="#hsl_person_id_2960">
+                  <persName>Sand, George</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_5749">Fadette</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4484923-0</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k5723901p</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3941" resp="#awilfing" cert="high">
+               <title type="main">Gastibelza ou Le fou de Tolède</title>
+               <author ref="#hsl_person_id_1104">
+                  <persName>Maillart, Louis Aimé</persName>
+               </author>
+               <author ref="#hsl_person_id_2156">
+                  <persName>Cormon, Eugène</persName>
+               </author>
+               <author ref="#hsl_person_id_2157">
+                  <persName>Ennery, Adolphe d'</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3942" resp="#awilfing" cert="high">
+               <title type="main">Gastibelza, l'homme à la carabine</title>
+               <author ref="#hsl_person_id_131">
+                  <persName>Hugo, Victor</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.lieder.net/lieder/get_text.html?TextId=22450</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3943" resp="#awilfing" cert="high">
+               <title type="main">Les pêcheurs de Catane</title>
+               <title type="alternative">Die Fischer von Catanea</title>
+               <author ref="#hsl_person_id_84">
+                  <persName>Carré, Michel</persName>
+               </author>
+               <author ref="#hsl_person_id_1104">
+                  <persName>Maillart, Louis Aimé</persName>
+               </author>
+               <author ref="#hsl_person_id_2156">
+                  <persName>Cormon, Eugène</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_5753">Nella</name>
+               <name type="character" ref="#hsl_person_id_5754">Fernand</name>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Les_p%C3%AAcheurs_de_Catane_(Maillart%2C_Aim%C3%A9)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3944" resp="#awilfing" cert="high">
+               <title type="main">Graziella</title>
+               <author ref="#hsl_person_id_2959">
+                  <persName>Lamartine, Alphonse de</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4551149-4</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k56121384</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3945" resp="#awilfing" cert="high">
+               <title type="main">Patience</title>
+               <author ref="#hsl_person_id_2623">
+                  <persName>Sullivan, Arthur</persName>
+               </author>
+               <author ref="#hsl_person_id_3273">
+                  <persName>Gilbert, William S.</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300159110</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Patience_(Sullivan%2C_Arthur)</idno>
             </bibl>
       </listBibl>
       </body>
