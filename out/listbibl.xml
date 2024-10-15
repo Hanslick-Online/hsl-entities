@@ -1056,6 +1056,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_2563">Maria</name>
                <name type="character" ref="#hsl_person_id_2564">Enrico</name>
+               <name type="character" ref="#hsl_person_id_5772">Riccardo</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30053082X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Maria_di_Rohan_(Donizetti%2C_Gaetano)</idno>
             </bibl>
@@ -1228,6 +1229,7 @@
                   <persName>Moinaux, Jules</persName>
                </author>
                <name type="character" ref="#hsl_person_id_633">Nani</name>
+               <name type="character" ref="#hsl_person_id_5769">Féroza</name>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Les_g%C3%A9orgiennes_(Offenbach%2C_Jacques)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_107" resp="#awilfing" cert="high">
@@ -7467,6 +7469,7 @@
                <author ref="#hsl_person_id_1268">
                   <persName>Goetz, Hermann</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5768">Katharine</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300646909</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Widerspenstigen_Z%C3%A4hmung_(Goetz%2C_Hermann)</idno>
             </bibl>
@@ -11269,6 +11272,8 @@
                <author ref="#hsl_person_id_284">
                   <persName>Scribe, Eugène</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5770">Miranda</name>
+               <name type="character" ref="#hsl_person_id_5771">Antonio</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1279540648</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1171" resp="#awilfing" cert="high">
@@ -11739,6 +11744,7 @@
                <author ref="#hsl_person_id_1879">
                   <persName>Augier, Emile</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5767">Sapho</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7715541-5</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Sapho,_CG_1_(Gounod,_Charles)</idno>
             </bibl>
@@ -31061,6 +31067,8 @@
                <author ref="#hsl_person_id_3357">
                   <persName>Kaulich, Josef</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5773">Helene</name>
+               <name type="character" ref="#hsl_person_id_5774">Karl</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/113750059X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Das_Pensionat_(Supp%C3%A9%2C_Franz_von)</idno>
             </bibl>
@@ -35802,6 +35810,29 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300237146</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Sextet,_Op.140_(Spohr,_Louis)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3950" resp="#awilfing" cert="high">
+               <title type="main">Sonate für Violine und Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_4050">
+                  <persName>Tartini, Giuseppe</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3951" resp="#awilfing" cert="high">
+               <title type="main">Romanze für Violine und Klavier in C-Dur</title>
+               <author ref="#hsl_person_id_140">
+                  <persName>Joachim, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300562241</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Romance_for_Violin_and_Piano_(Joachim%2C_Joseph)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3952" resp="#awilfing" cert="high">
+               <title type="main">Suite für Orchester Nr. 2 in h-Moll, BWV1067</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300011474</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Orchestral_Suite_No.2_in_B_minor,_BWV_1067_(Bach,_Johann_Sebastian)</idno>
             </bibl>
       </listBibl>
       </body>
