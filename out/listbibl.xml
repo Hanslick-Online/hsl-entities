@@ -12661,6 +12661,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1315" resp="#awilfing" cert="high">
                <title type="main">Siegfried, WWV86C</title>
+               <title type="alternative">Der junge Siegfried</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_418">Der Ring des Nibelungen, WWV86</note>
                </noteGrp>
@@ -12679,6 +12680,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1316" resp="#awilfing" cert="high">
                <title type="main">Götterdämmerung, WWV86D</title>
+               <title type="alternative">Siegfried's Tod</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_418">Der Ring des Nibelungen, WWV86</note>
                </noteGrp>
@@ -33314,12 +33316,13 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300408617</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Concerto_in_F_minor%2C_Op.16_(Henselt%2C_Adolf_von)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3660" resp="#awilfing" cert="medium">
-               <title type="main">Über das Dirigieren</title>
-               <title type="alternative">Ueber das Dirigieren</title>
+            <bibl xml:id="hsl_work_id_3660" resp="#awilfing" cert="high">
+               <title type="main">Ueber das Dirigieren</title>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1131078403</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Ueber_das_Dirigiren/C37mwsePJTwC?hl=de&amp;gbpv=1&amp;pg=PP5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3661" resp="#awilfing" cert="high">
                <title type="main">Die russische Musik und ihr berufenster Vertreter</title>
@@ -33599,12 +33602,6 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3693" resp="#awilfing" cert="medium">
                <title type="main">Possen</title>
-            </bibl>
-            <bibl xml:id="hsl_work_id_3694" resp="#awilfing" cert="medium">
-               <title type="main">Musikzeitschrift</title>
-               <author ref="#hsl_person_id_1745">
-                  <persName>Brendel, Franz</persName>
-               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3695" resp="#awilfing" cert="medium">
                <title type="main">Aufsatz Wollen</title>
@@ -35833,6 +35830,29 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300011474</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Orchestral_Suite_No.2_in_B_minor,_BWV_1067_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3954" resp="#awilfing" cert="high">
+               <title type="main">Wasser thut's freilich! oder Miscellen zur Gräfenberger Wasserkur</title>
+               <author ref="#hsl_person_id_5775">
+                  <persName>Rausse, J. H.</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10288158?q=%28Francke,+Heinrich+Friedrich%3A+%22Wasser+thut%22s+freilich%21%22+oder+Miscellen+zur+Gr%C3%A4fenberger+Wasserkur.+2%29&amp;page=4,5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3955" resp="#awilfing" cert="high">
+               <title type="main">Richard Wagner's Briefe an Theodor Uhlig, Wilhelm Fischer, Ferdinand Heine</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb11557055?q=%28+Richard+Wagner%22s+Briefe+an+Theodor+Uhlig,+Wilhelm+Fischer,+Ferdinand+Heine%29&amp;page=4,5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3956" resp="#awilfing" cert="high">
+               <title type="main">Ueber den dichterischen Gehalt Beethoven'scher Tonwerke</title>
+               <author ref="#hsl_person_id_3150">
+                  <persName>Uhlig, Theodor</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18520924&amp;seite=3&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18521001&amp;seite=3&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18521015&amp;seite=3&amp;zoom=33 ,</idno>
             </bibl>
       </listBibl>
       </body>
