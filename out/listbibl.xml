@@ -7797,7 +7797,7 @@
                <name type="character" ref="#hsl_person_id_3769">Judit</name>
                <name type="character" ref="#hsl_person_id_4238">Rebekka</name>
                <name type="character" ref="#hsl_person_id_4521">Ijob</name>
-               <name type="character" ref="#hsl_person_id_5219">Johannes, der Täufer</name>
+               <name type="character" ref="#hsl_person_id_5219">Johannes der Täufer</name>
                <name type="character" ref="#hsl_person_id_5523">Josua</name>
                <name type="character" ref="#hsl_person_id_5525">Jakob</name>
                <name type="character" ref="#hsl_person_id_5528">Simeon</name>
@@ -18996,6 +18996,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2023" resp="#awilfing" cert="high">
                <title type="main">Sonate für Violine und Klavier Nr. 2 in A-Dur, op. 78</title>
+               <title type="alternative">Grande Sonate</title>
                <author ref="#hsl_person_id_1674">
                   <persName>Raff, Joseph Joachim</persName>
                </author>
@@ -26214,6 +26215,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2845" resp="#awilfing" cert="high">
                <title type="main">Divertimento für Violine, Viola und Cello in Es-Dur, KV563</title>
+               <title type="alternative">Streichtrio</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
@@ -35226,6 +35228,7 @@
                <author ref="#hsl_person_id_5704">
                   <persName>Storck, Adam</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300235690</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ellens_Gesang%2C_D.838_(Schubert%2C_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3890" resp="#awilfing" cert="high">
@@ -35237,6 +35240,7 @@
                <author ref="#hsl_person_id_5704">
                   <persName>Storck, Adam</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300194242</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ave_Maria,_D.839_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3891" resp="#awilfing" cert="high">
@@ -35248,6 +35252,7 @@
                <author ref="#hsl_person_id_5704">
                   <persName>Storck, Adam</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300140290</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ellens_Gesang%2C_D.837_(Schubert%2C_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3892" resp="#awilfing" cert="high">
@@ -35891,6 +35896,21 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1060213265</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Lieder,_Op.204_(Abt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3959" resp="#awilfing" cert="high">
+               <title type="main">Ellens Gesang, D838 (Bearbeitung für Frauenchor und Orchester)</title>
+               <title type="alternative">Ellen’s Gesang</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_5704">
+                  <persName>Storck, Adam</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300194242</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ellens_Zweiter_Gesang,_Anh_17_(Brahms,_Johannes)</idno>
             </bibl>
       </listBibl>
       </body>
