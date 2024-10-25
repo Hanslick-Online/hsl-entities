@@ -34507,11 +34507,19 @@
                   <persName>Sachs, Hans</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3799" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3799" resp="#awilfing" cert="high">
                <title type="main">Fernand Cortez, ou La conquête du Mexique</title>
                <author ref="#hsl_person_id_294">
                   <persName>Spontini, Gaspare</persName>
                </author>
+               <author ref="#hsl_person_id_2064">
+                  <persName>Jouy, Étienne de</persName>
+               </author>
+               <author ref="#hsl_person_id_5783">
+                  <persName>Esménard, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300892608</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Fernand_Cortez_(Spontini,_Gaspare)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3800" resp="#awilfing" cert="medium">
                <title type="main">Der stille Zecher, op.132</title>
@@ -34832,6 +34840,7 @@
                <author ref="#hsl_person_id_2107">
                   <persName>Hoffmann, François Benoit</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5784">Euphrosine</name>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Euphrosine_(M%C3%A9hul,_Etienne_Nicolas)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3847" resp="#awilfing" cert="high">
@@ -34844,6 +34853,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_5640">Stratonice</name>
                <name type="character" ref="#hsl_person_id_5641">Seleucus</name>
+               <name type="character" ref="#hsl_person_id_5785">Antiochus</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300495420</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Stratonice_(M%C3%A9hul%2C_Etienne_Nicolas)</idno>
             </bibl>
@@ -35949,6 +35959,12 @@
                <title type="main">Die Wolfsschlucht</title>
                <author ref="#hsl_person_id_4277">
                   <persName>Hoffmann, Josef</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3965" resp="#awilfing" cert="high">
+               <title type="main">An der Schönen Blauen Donau</title>
+               <author ref="#hsl_person_id_5782">
+                  <persName>Mamroth, Fedor</persName>
                </author>
             </bibl>
       </listBibl>
