@@ -5995,7 +5995,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_609" resp="#awilfing" cert="high">
                <title type="main">Szenen aus Goethes Faust, WoO3</title>
-               <title type="alternative">Faustmusik; Faust-Musik; Faust-Ouvertüre; Faust's Verklärung</title>
+               <title type="alternative">Faustmusik; Faust-Musik; Faust-Ouvertüre; Faust's Verklärung; Verklärung Faust's</title>
                <author ref="#hsl_person_id_100">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
@@ -12605,21 +12605,6 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4692276-3</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Daphnis_et_Chlo%C3%A9_(Offenbach%2C_Jacques)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_1308" resp="#awilfing" cert="high">
-               <title type="main">Monsieur et Madame Dénis</title>
-               <title type="alternative">Herr und Madame Dénis</title>
-               <author ref="#hsl_person_id_202">
-                  <persName>Offenbach, Jacques</persName>
-               </author>
-               <author ref="#hsl_person_id_3229">
-                  <persName>Delaporte, Michel</persName>
-               </author>
-               <author ref="#hsl_person_id_3230">
-                  <persName>Chapelle, Paul Aimé</persName>
-               </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/301028850</idno>
-               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Monsieur_et_Madame_Denis_(Offenbach%2C_Jacques)</idno>
-            </bibl>
             <bibl xml:id="hsl_work_id_1310" resp="#awilfing" cert="high">
                <title type="main">Coscoletto</title>
                <author ref="#hsl_person_id_202">
@@ -13150,7 +13135,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1367" resp="#awilfing" cert="high">
                <title type="main">Monsieur et Madame Denis</title>
-               <title type="alternative">Herr und Madame Dénis</title>
+               <title type="alternative">Herr und Madame Dénis; Monsieur und Madame Denis</title>
                <author ref="#hsl_person_id_202">
                   <persName>Offenbach, Jacques</persName>
                </author>
@@ -35934,6 +35919,14 @@
                <author ref="#hsl_person_id_2062">
                   <persName>Meilhac, Henri</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5793">Vert-Vert</name>
+               <name type="character" ref="#hsl_person_id_5794">Mimi</name>
+               <name type="character" ref="#hsl_person_id_5795">Valentin</name>
+               <name type="character" ref="#hsl_person_id_5796">Baladon</name>
+               <name type="character" ref="#hsl_person_id_5797">Paturelle</name>
+               <name type="character" ref="#hsl_person_id_5798">Chevalier de Bergerac</name>
+               <name type="character" ref="#hsl_person_id_5799">Comte d'Arlange</name>
+               <name type="character" ref="#hsl_person_id_5800">Corilla</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4690803-1</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Vert-vert_(Offenbach,_Jacques)</idno>
             </bibl>
@@ -35965,6 +35958,70 @@
                <title type="main">An der Schönen Blauen Donau</title>
                <author ref="#hsl_person_id_5782">
                   <persName>Mamroth, Fedor</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3966" resp="#awilfing" cert="high">
+               <title type="main">Estelle</title>
+               <title type="alternative">Estella</title>
+               <author ref="#hsl_person_id_699">
+                  <persName>Florian, Jean-Pierre Claris de</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4723032-0</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k9791965r.texteImage</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3967" resp="#awilfing" cert="high">
+               <title type="main">La mort d'Orphée</title>
+               <title type="alternative">Orpheus</title>
+               <author ref="#hsl_person_id_28">
+                  <persName>Berlioz, Hector</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300676344</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3968" resp="#awilfing" cert="high">
+               <title type="main">Traité d'ostéologie</title>
+               <title type="alternative">Handbuch der Osteologie</title>
+               <author ref="#hsl_person_id_5789">
+                  <persName>Monro, Alexander</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3969" resp="#awilfing" cert="high">
+               <title type="main">Giselle</title>
+               <title type="alternative">Gisela</title>
+               <author ref="#hsl_person_id_12">
+                  <persName>Adam, Adolphe</persName>
+               </author>
+               <author ref="#hsl_person_id_1809">
+                  <persName>Saint-Georges, Henri de</persName>
+               </author>
+               <author ref="#hsl_person_id_5790">
+                  <persName>Gautier, Théophile</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30000043X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Giselle_(Adam%2C_Adolphe)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3970" resp="#awilfing" cert="high">
+               <title type="main">Adam und Eva</title>
+               <author ref="#hsl_person_id_1278">
+                  <persName>Heyse, Paul</persName>
+               </author>
+               <author ref="#hsl_person_id_5791">
+                  <persName>Hornstein, Robert von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/129501534X</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3971" resp="#awilfing" cert="high">
+               <title type="main">Konzert von Klavier und Orchester Nr. 2 in fis-Moll, op. 69</title>
+               <author ref="#hsl_person_id_124">
+                  <persName>Hiller, Ferdinand von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1033386502</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Concerto_No.2,_Op.69_(Hiller,_Ferdinand)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3972" resp="#awilfing" cert="high">
+               <title type="main">Quartett für 2 Violinen, Viola und Cello</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_1250">
+                  <persName>Bachrich, Siegmund</persName>
                </author>
             </bibl>
       </listBibl>
