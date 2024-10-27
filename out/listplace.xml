@@ -841,6 +841,7 @@
                <place xml:id="hsl_place_id_55" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Wien</placeName>
+                     <placeName type="alternative">Vindobona</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
@@ -1662,7 +1663,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q182470</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4056178-1</idno>
                </place>
-               <place xml:id="hsl_place_id_136" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_136" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Brasil</placeName>
                      <placeName type="alternative">Brasilien</placeName>
@@ -2635,7 +2636,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q143265</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4484741-5</idno>
                </place>
-               <place xml:id="hsl_place_id_219" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_219" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">México</placeName>
                      <placeName type="alternative">Mexico</placeName>
@@ -3514,7 +3515,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3068173/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1017256</idno>
                </place>
-               <place xml:id="hsl_place_id_290" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_290" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Litoměřice</placeName>
                      <placeName type="alternative">Leitmeritz</placeName>
@@ -7748,6 +7749,23 @@
                   <placeName type="main">Pont Neuf</placeName>
                      <placeName type="alternative">Pontneuf</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6452939/</idno>
+               </place>
+               <place xml:id="hsl_place_id_677" resp="#awilfing" cert="high">
+                  <placeName type="main">Kyffhäuser</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2882175/</idno>
+               </place>
+               <place xml:id="hsl_place_id_678" resp="#awilfing" cert="high">
+                  <placeName type="main">Ringstraße, Wien</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/8181703/</idno>
+               </place>
+               <place xml:id="hsl_place_id_679" resp="#awilfing" cert="high">
+                  <placeName type="main">Terezín</placeName>
+                     <placeName type="alternative">Theresienstadt</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3064268/</idno>
+               </place>
+               <place xml:id="hsl_place_id_680" resp="#awilfing" cert="high">
+                  <placeName type="main">Alessandria</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3183299/</idno>
                </place>
             </listPlace>
          </div>
