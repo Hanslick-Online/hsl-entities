@@ -5295,6 +5295,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_520" resp="#awilfing" cert="high">
                <title type="main">Israel in Egypt, HWV54</title>
+               <title type="alternative">Israel in Egypten</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
@@ -8723,13 +8724,11 @@
                <author ref="#hsl_person_id_1995">
                   <persName>Morell, Thomas</persName>
                </author>
-               <author ref="#hsl_person_id_5596">
-                  <persName>Angel</persName>
-               </author>
-               <name type="character" ref="#hsl_person_id_5530">Josua</name>
+               <name type="character" ref="#hsl_person_id_5530">Joshua</name>
                <name type="character" ref="#hsl_person_id_5593">Caleb</name>
                <name type="character" ref="#hsl_person_id_5594">Achsah</name>
                <name type="character" ref="#hsl_person_id_5595">Othniel</name>
+               <name type="character" ref="#hsl_person_id_5596">Angel</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300064799</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Joshua,_HWV_64_(Handel,_George_Frideric)</idno>
             </bibl>
@@ -10491,6 +10490,11 @@
                   <persName>Renan, Ernest</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4830823-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/histoiredupeuple01rena/page/n9/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/histoiredupeuple02rena/page/n7/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/histoiredupeuple03rena/page/n7/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/histoiredupeupl04rena/page/n7/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/histoiredupeuple05rena/page/n7/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1092" resp="#awilfing" cert="high">
                <title type="main">So geht's, op. 21 Nr. 8</title>
@@ -20718,6 +20722,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2218" resp="#awilfing" cert="high">
                <title type="main">Kaiserwalzer, op. 437</title>
+               <title type="alternative">Kaiser-Walzer</title>
                <author ref="#hsl_person_id_299">
                   <persName>Strauss junior, Johann</persName>
                </author>
@@ -34223,7 +34228,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Concerto_No.2%2C_Op.22_(Wieniawski%2C_Henri)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3767" resp="#awilfing" cert="high">
-               <title type="main">Präludium und Fuge für Klavier in g-Moll</title>
+               <title type="main">Präludium und Fuge in g-Moll</title>
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
@@ -34238,7 +34243,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Romance_in_F_major%2C_Op.50_(Beethoven%2C_Ludwig_van)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3771" resp="#awilfing" cert="high">
-               <title type="main">Gavotte</title>
+               <title type="main">Gavotte für Klavier</title>
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_2417">
                   <persName>Albert, Eugen d'</persName>
@@ -34357,24 +34362,12 @@
                <author ref="#hsl_person_id_3658">
                   <persName>Hassreiter, Josef</persName>
                </author>
-               <author ref="#hsl_person_id_5514">
-                  <persName>Naturforscher</persName>
-               </author>
-               <author ref="#hsl_person_id_5515">
-                  <persName>Dichter</persName>
-               </author>
-               <author ref="#hsl_person_id_5517">
-                  <persName>Baron von Sternheim</persName>
-               </author>
-               <author ref="#hsl_person_id_5518">
-                  <persName>Wirt</persName>
-               </author>
-               <author ref="#hsl_person_id_5519">
-                  <persName>Sonne</persName>
-               </author>
-               <author ref="#hsl_person_id_5520">
-                  <persName>Saturn</persName>
-               </author>
+               <name type="character" ref="#hsl_person_id_5514">Naturforscher</name>
+               <name type="character" ref="#hsl_person_id_5515">Dichter</name>
+               <name type="character" ref="#hsl_person_id_5517">Baron von Sternheim</name>
+               <name type="character" ref="#hsl_person_id_5518">Wirt</name>
+               <name type="character" ref="#hsl_person_id_5519">Sonne</name>
+               <name type="character" ref="#hsl_person_id_5520">Saturn</name>
             </bibl>
             <bibl xml:id="hsl_work_id_3784" resp="#awilfing" cert="high">
                <title type="main">Polacca brillante für Klavier und Orchester in E-Dur, J268 (Bearbeitung)</title>
@@ -36231,6 +36224,102 @@
                <name type="character" ref="#hsl_person_id_5828">Dorothea</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4123298-7</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10924788?page=4,5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3999" resp="#awilfing" cert="high">
+               <title type="main">6 Lieder für Singstimme und Klavier, op. 48</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <author ref="#hsl_person_id_732">
+                  <persName>Gellert, Christian Fürchtegott</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015623</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4000" resp="#awilfing" cert="high">
+               <title type="main">Bußlied, op. 48 Nr. 6</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3999">6 Lieder für Singstimme und Klavier, op. 48</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <author ref="#hsl_person_id_732">
+                  <persName>Gellert, Christian Fürchtegott</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1073331458</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Lieder,_Op.48_(Beethoven,_Ludwig_van)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4001" resp="#awilfing" cert="high">
+               <title type="main">8 Lieder für Singstimme und Klavier, op. 52</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015666</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/8_Lieder,_Op.52_(Beethoven,_Ludwig_van)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4002" resp="#awilfing" cert="medium">
+               <title type="main">Mailied, op. 52 Nr. 4</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4001">8 Lieder für Singstimme und Klavier, op. 52</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7758923-3</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/8_Lieder,_Op.52_(Beethoven,_Ludwig_van)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4003" resp="#awilfing" cert="high">
+               <title type="main">6 Gesänge für Singstimme und Klavier, op. 75</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <author ref="#hsl_person_id_5845">
+                  <persName>Reissig, Christian Ludwig</persName>
+               </author>
+               <author ref="#hsl_person_id_5846">
+                  <persName>Halem, Gerhard Anton von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015313</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Lieder,_Op.48_(Beethoven,_Ludwig_van)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4004" resp="#awilfing" cert="high">
+               <title type="main">Neue Liebe, op. 75 Nr. 2</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4003">6 Gesänge für Singstimme und Klavier, op. 75</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30001533X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Ges%C3%A4nge%2C_Op.75_(Beethoven%2C_Ludwig_van)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4005" resp="#awilfing" cert="high">
+               <title type="main">Prolog zur Beethoven-Feier 1870</title>
+               <name type="character" ref="#hsl_person_id_5847">Weilen, Joseph von</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4006" resp="#awilfing" cert="high">
+               <title type="main">An die Freude</title>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4590404-2</idno>
+               <idno type="URL" subtype="Digitalisat">https://ds.ub.uni-bielefeld.de/viewer/image/1944380_002/1/LOG_0003/</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4007" resp="#awilfing" cert="high">
+               <title type="main">Etüde für Violine</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_1008">
+                  <persName>Paganini, Niccolò</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
