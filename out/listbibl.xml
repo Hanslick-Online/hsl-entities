@@ -620,6 +620,7 @@
                <author ref="#hsl_person_id_2124">
                   <persName>Rossi, Gaetano</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5839">Arsace</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300214197</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Semiramide_(Rossini%2C_Gioacchino)</idno>
             </bibl>
@@ -7103,6 +7104,7 @@
                   <persName>Schiller, Friedrich</persName>
                </author>
                <name type="character" ref="#hsl_person_id_2014">Wallenstein</name>
+               <name type="character" ref="#hsl_person_id_5829">Thekla</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099340-1</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11722379?page=8,9</idno>
             </bibl>
@@ -12623,6 +12625,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1312" resp="#awilfing" cert="high">
                <title type="main">An die entfernte Geliebte, op. 98</title>
+               <title type="alternative">Liederkreis an die Geliebte</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -24194,6 +24197,7 @@
                <author ref="#hsl_person_id_3238">
                   <persName>Tottola, Andrea Leone</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5840">Malcom</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300132433</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_donna_del_lago_(Rossini%2C_Gioacchino)</idno>
             </bibl>
@@ -33643,6 +33647,8 @@
                <author ref="#hsl_person_id_248">
                   <persName>Schiller, Friedrich</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5834">Posa</name>
+               <name type="character" ref="#hsl_person_id_5836">Mondekar</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4130120-1</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10713786?page=2,3</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10713785?page=2,3</idno>
@@ -36216,6 +36222,15 @@
                <author ref="#hsl_person_id_5638">
                   <persName>Arnault, Antoine-Vincent</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_3998" resp="#awilfing" cert="high">
+               <title type="main">Hermann und Dorothea</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_5828">Dorothea</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4123298-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10924788?page=4,5</idno>
             </bibl>
       </listBibl>
       </body>
