@@ -3130,6 +3130,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_294" resp="#awilfing" cert="high">
                <title type="main">Matthäus-Passion, BWV244</title>
+               <title type="alternative">Matthäuspassion</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -11446,6 +11447,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1188" resp="#awilfing" cert="high">
                <title type="main">Johannes-Passion, BWV245</title>
+               <title type="alternative">Johannespassion</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -23466,12 +23468,16 @@
                <author ref="#hsl_person_id_143">
                   <persName>Kässmayer, Moritz</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_5546">Herr Gogot</name>
+               <author ref="#hsl_person_id_188">
+                  <persName>Mosenthal, Salomon Hermann von</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_5546">Gogot</name>
                <name type="character" ref="#hsl_person_id_5547">Sofie</name>
                <name type="character" ref="#hsl_person_id_5548">Julius Florval</name>
                <name type="character" ref="#hsl_person_id_5549">Hippolyth Gardel</name>
                <name type="character" ref="#hsl_person_id_5551">Brigitte</name>
                <name type="character" ref="#hsl_person_id_5552">Le Grand</name>
+               <name type="character" ref="#hsl_person_id_5879">Madame Gardel</name>
             </bibl>
             <bibl xml:id="hsl_work_id_2542" resp="#awilfing" cert="high">
                <title type="main">Rondo für Klavier in a-Moll, KV511</title>
@@ -34501,17 +34507,21 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300892608</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Fernand_Cortez_(Spontini,_Gaspare)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3800" resp="#awilfing" cert="medium">
-               <title type="main">Der stille Zecher, op.132</title>
+            <bibl xml:id="hsl_work_id_3800" resp="#awilfing" cert="high">
+               <title type="main">Der stille Zecher, op. 132</title>
                <author ref="#hsl_person_id_219">
                   <persName>Proch, Heinrich</persName>
                </author>
+               <author ref="#hsl_person_id_5880">
+                  <persName>Beyer, Rudolf von</persName>
+               </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_3801" resp="#awilfing" cert="medium">
-               <title type="main">Geschichte des Concertwesen in Wien</title>
+            <bibl xml:id="hsl_work_id_3801" resp="#awilfing" cert="high">
+               <title type="main">Geschichte des Concertwesens in Wien</title>
                <author ref="#hsl_person_id_1">
                   <persName>Hanslick, Eduard</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10598665?page=4,5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3803" resp="#awilfing" cert="medium">
                <title type="main">Sardanapalus</title>
@@ -36515,6 +36525,14 @@
                <author ref="#hsl_person_id_121">
                   <persName>Herbeck, Johann von</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4038" resp="#awilfing" cert="high">
+               <title type="main">Bericht an Seine Majestät den König Ludwig II. von Bayern über eine in München zu errichtenden deutsche Musikschule</title>
+               <title type="alternative">Bericht über die Reform des Münchener Conservatoriums</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10380477?page=4,5</idno>
             </bibl>
       </listBibl>
       </body>
