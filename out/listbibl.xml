@@ -1220,7 +1220,7 @@
                <name type="character" ref="#hsl_person_id_666">Valentine</name>
                <name type="character" ref="#hsl_person_id_4762">Urbain</name>
                <name type="character" ref="#hsl_person_id_4962">Marguerite de Valois</name>
-               <name type="character" ref="#hsl_person_id_4982">Le comte de Nevers</name>
+               <name type="character" ref="#hsl_person_id_4982">Comte de Nevers</name>
                <name type="character" ref="#hsl_person_id_5814">Nachtwächter</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300245637</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Les_Huguenots_(Meyerbeer,_Giacomo)</idno>
@@ -29690,6 +29690,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3230" resp="#awilfing" cert="high">
                <title type="main">Alimelek oder Wirt und Gast</title>
+               <title type="alternative">Abimelek</title>
                <author ref="#hsl_person_id_182">
                   <persName>Meyerbeer, Giacomo</persName>
                </author>
@@ -34523,11 +34524,19 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10598665?page=4,5</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3803" resp="#awilfing" cert="medium">
-               <title type="main">Sardanapalus</title>
-               <author ref="#hsl_person_id_5562">
-                  <persName>Boxberg, Christian Ludwig</persName>
+            <bibl xml:id="hsl_work_id_3803" resp="#awilfing" cert="high">
+               <title type="main">Sardanapal, op. 28</title>
+               <author ref="#hsl_person_id_64">
+                  <persName>Doppler, Franz</persName>
                </author>
+               <author ref="#hsl_person_id_836">
+                  <persName>Taglioni, Paul</persName>
+               </author>
+               <author ref="#hsl_person_id_865">
+                  <persName>Hertel, Peter Ludwig</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_5878">Sardanapal</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1102939935</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3804" resp="#awilfing" cert="medium">
                <title type="main">Le petit poucet</title>

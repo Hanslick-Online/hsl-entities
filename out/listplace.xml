@@ -6933,10 +6933,6 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3806</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4061147-4</idno>
                </place>
-               <place xml:id="hsl_place_id_585" resp="#awilfing" cert="medium">
-                  <placeName type="main">San Carlo</placeName>
-                  <country>IT, Italy</country>
-               </place>
                <place xml:id="hsl_place_id_586" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Kolín</placeName>
@@ -7487,20 +7483,7 @@
                <place xml:id="hsl_place_id_647" resp="#awilfing" cert="high">
                   <placeName type="main">Lerchenfeld, Wien</placeName>
                </place>
-               <place xml:id="hsl_place_id_648" resp="#awilfing" cert="medium">
-                  <settlement type="P">
-                     <placeName type="main">Coventgarden</placeName>
-                  </settlement>
-                  <desc type="entity_type">city, village,...</desc>
-                  <country>GB, United Kingdom</country>
-                  <location type="coords">
-                     <geo>51.51424, -0.12471</geo>
-                  </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2652222/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55019</idno>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4301097-0</idno>
-               </place>
-               <place xml:id="hsl_place_id_649" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_649" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Altdorf</placeName>
                   </settlement>
@@ -7512,14 +7495,16 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2661780/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q22397480</idno>
                </place>
-               <place xml:id="hsl_place_id_650" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_650" resp="#awilfing" cert="high">
                   <placeName type="main">Vierwaldstättersee</placeName>
+                     <placeName type="alternative">Vierwaldstädtersee</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2658136/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q14381</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4063511-9</idno>
                </place>
-               <place xml:id="hsl_place_id_651" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_651" resp="#awilfing" cert="high">
                   <placeName type="main">Rütli</placeName>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q688537</idno>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2658908/</idno>
                </place>
                <place xml:id="hsl_place_id_652" resp="#awilfing" cert="medium">
                   <placeName type="main">Vis</placeName>
@@ -7772,6 +7757,10 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2990999/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q40898</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4041201-5</idno>
+               </place>
+               <place xml:id="hsl_place_id_683" resp="#awilfing" cert="high">
+                  <placeName type="main">Brunnen</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2661368/</idno>
                </place>
             </listPlace>
          </div>
