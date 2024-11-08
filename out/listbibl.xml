@@ -12664,7 +12664,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1315" resp="#awilfing" cert="high">
                <title type="main">Siegfried, WWV86C</title>
-               <title type="alternative">Der junge Siegfried</title>
+               <title type="alternative">Der junge Siegfried; Sigfried</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_418">Der Ring des Nibelungen, WWV86</note>
                </noteGrp>
@@ -29844,12 +29844,12 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Rhapsodie_espagnole,_S.254_(Liszt,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3250" resp="#awilfing" cert="high">
-               <title type="main">Edda</title>
+               <title type="main">Snorra-Edda</title>
                <author ref="#hsl_person_id_4999">
                   <persName>Sturluson, Snorri</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4243926-7</idno>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10036661?page=4,5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10036677?page=4,5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3251" resp="#awilfing" cert="high">
                <title type="main">Beethoven-Biographie</title>
@@ -36542,6 +36542,53 @@
                   <persName>Wagner, Richard</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10380477?page=4,5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4039" resp="#awilfing" cert="high">
+               <title type="main">Nibelungenlied</title>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4042046-2</idno>
+               <idno type="URL" subtype="Digitalisat">https://digitale-sammlungen.de/de/view/bsb10925057?page=4,5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4040" resp="#awilfing" cert="high">
+               <title type="main">Lieder-Edda</title>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4138527-5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11023168?page=4,5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4041" resp="#awilfing" cert="high">
+               <title type="main">Oden</title>
+               <author ref="#hsl_person_id_2381">
+                  <persName>Klopstock, Friedrich Gottlieb</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4491397-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.deutschestextarchiv.de/book/view/klopstock_oden_1771?p=5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4042" resp="#awilfing" cert="medium">
+               <title type="main">24 Etudes ou Lecons de Perfectionnement destinees aux Eleves avances, op. 70</title>
+               <author ref="#hsl_person_id_950">
+                  <persName>Moscheles, Ignaz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4043" resp="#awilfing" cert="medium">
+               <title type="main">Klavierkonzert Nr.3 in g-Moll, op. 58</title>
+               <author ref="#hsl_person_id_950">
+                  <persName>Moscheles, Ignaz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4044" resp="#awilfing" cert="high">
+               <title type="main">Der Korrespondent von und für Deutschland</title>
+               <title type="alternative">Correspondent</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4045" resp="#awilfing" cert="medium">
+               <title type="main">Klavierkonzert Nr.4 in E-Dur, op. 64</title>
+               <author ref="#hsl_person_id_950">
+                  <persName>Moscheles, Ignaz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4046" resp="#awilfing" cert="medium">
+               <title type="main">2 Symphonien</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_21">
+                  <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
