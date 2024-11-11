@@ -682,7 +682,6 @@
                <name type="character" ref="#hsl_person_id_3954">Stéphano</name>
                <name type="character" ref="#hsl_person_id_4752">Duc de Vérone</name>
                <name type="character" ref="#hsl_person_id_4753">Gertrude</name>
-               <name type="character" ref="#hsl_person_id_5577">Mab, la reine des mensonges</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300061307</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Rom%C3%A9o_et_Juliette,_CG_9_(Gounod,_Charles)</idno>
             </bibl>
@@ -19381,7 +19380,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2074" resp="#awilfing" cert="high">
                <title type="main">Les fils d'Égypte</title>
-               <title type="alternative">Les Enfants d'Egypte</title>
+               <title type="alternative">Les enfants d'Egypte</title>
                <author ref="#hsl_person_id_3472">
                   <persName>Rillé, Laurent de</persName>
                </author>
@@ -23675,10 +23674,14 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2566" resp="#awilfing" cert="high">
                <title type="main">Beethoven und die Ausgaben seiner Werke</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_466">Gesammelte Aufsätze über Musik</note>
+               </noteGrp>
                <author ref="#hsl_person_id_135">
                   <persName>Jahn, Otto</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://brema.suub.uni-bremen.de/grenzboten/periodical/titleinfo/161841</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10598752?page=282,283</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2567" resp="#awilfing" cert="high">
                <title type="main">Die Gartenlaube – Illustrirtes Familienblatt</title>
@@ -30150,6 +30153,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3284" resp="#awilfing" cert="high">
                <title type="main">La Veuve Grapin</title>
+               <title type="alternative">Witwe Grapin</title>
                <author ref="#hsl_person_id_81">
                   <persName>Flotow, Friedrich von</persName>
                </author>
@@ -34538,8 +34542,9 @@
                <name type="character" ref="#hsl_person_id_5878">Sardanapal</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1102939935</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3804" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3804" resp="#awilfing" cert="high">
                <title type="main">Le petit poucet</title>
+               <title type="alternative">Der Däumling</title>
                <author ref="#hsl_person_id_3472">
                   <persName>Rillé, Laurent de</persName>
                </author>
@@ -34550,16 +34555,20 @@
                   <persName>Vanloo, Albert</persName>
                </author>
                <name type="character" ref="#hsl_person_id_5565">Poucet</name>
-               <name type="character" ref="#hsl_person_id_5571">Krok`Mach`Cru</name>
+               <name type="character" ref="#hsl_person_id_5571">Krok'Mach'Cru</name>
+               <name type="character" ref="#hsl_person_id_5886">Brillantina</name>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_petit_poucet_(Rill%C3%A9%2C_Laurent_de)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3805" resp="#awilfing" cert="medium">
-               <title type="main">Constitutionelle Zeitung</title>
+            <bibl xml:id="hsl_work_id_3805" resp="#awilfing" cert="high">
+               <title type="main">Sächsische Constitutionelle Zeitung</title>
             </bibl>
-            <bibl xml:id="hsl_work_id_3806" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3806" resp="#awilfing" cert="high">
                <title type="main">Olivier L'Orphéoniste</title>
+               <title type="alternative">Le jeune Orphéoniste</title>
                <author ref="#hsl_person_id_3472">
                   <persName>Rillé, Laurent de</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Olivier_l_Orph%C3%A9oniste/zp8tAAAAMAAJ?hl=de&amp;gbpv=1&amp;pg=PP5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3807" resp="#awilfing" cert="high">
                <title type="main">Die Pfarrerköchin</title>
@@ -36589,6 +36598,58 @@
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4047" resp="#awilfing" cert="high">
+               <title type="main">Tannhäuser, Oper von Richard Wagner</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_466">Gesammelte Aufsätze über Musik</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_135">
+                  <persName>Jahn, Otto</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10598752?page=76,77</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4048" resp="#awilfing" cert="high">
+               <title type="main">Lohengrin, Oper von Richard Wagner</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_466">Gesammelte Aufsätze über Musik</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_135">
+                  <persName>Jahn, Otto</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10598752?page=124,125</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4049" resp="#awilfing" cert="high">
+               <title type="main">Le journal amusant</title>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7729573-0</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4050" resp="#awilfing" cert="high">
+               <title type="main">Leonore oder Fidelio?</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_466">Gesammelte Aufsätze über Musik</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_135">
+                  <persName>Jahn, Otto</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10598752?page=248,249</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4051" resp="#awilfing" cert="high">
+               <title type="main">Beethoven im Malkasten</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_466">Gesammelte Aufsätze über Musik</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_135">
+                  <persName>Jahn, Otto</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10598752?page=272,273</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4052" resp="#awilfing" cert="high">
+               <title type="main">Mailüfterl</title>
+               <title type="alternative">unklarer Bezug</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4053" resp="#awilfing" cert="high">
+               <title type="main">Ella</title>
+               <title type="alternative">unklarer Bezug</title>
             </bibl>
       </listBibl>
       </body>

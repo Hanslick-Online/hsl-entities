@@ -933,7 +933,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q202337</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4041446-2</idno>
                </place>
-               <place xml:id="hsl_place_id_67" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_67" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Bonn</placeName>
                   </settlement>
@@ -7509,7 +7509,7 @@
                <place xml:id="hsl_place_id_652" resp="#awilfing" cert="medium">
                   <placeName type="main">Vis</placeName>
                      <placeName type="alternative">Lissa</placeName>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q203767</idno>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3187683/</idno>
                </place>
                <place xml:id="hsl_place_id_653" resp="#awilfing" cert="high">
                   <settlement type="P">
@@ -7771,6 +7771,10 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2842700/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1678</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4051085-2</idno>
+               </place>
+               <place xml:id="hsl_place_id_685" resp="#awilfing" cert="high">
+                  <placeName type="main">Beethovengasse, Wien</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q106193403</idno>
                </place>
             </listPlace>
          </div>
