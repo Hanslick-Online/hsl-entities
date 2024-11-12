@@ -34585,11 +34585,15 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/122176036X</idno>
                <idno type="URL" subtype="Digitalisat">https://digi.ub.uni-heidelberg.de/diglit/rosenkranz1853/0009/image,info</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3809" resp="#awilfing" cert="medium">
-               <title type="main">La Caverne</title>
+            <bibl xml:id="hsl_work_id_3809" resp="#awilfing" cert="high">
+               <title type="main">La caverne</title>
                <author ref="#hsl_person_id_160">
                   <persName>Le Sueur, Jean-François</persName>
                </author>
+               <author ref="#hsl_person_id_5887">
+                  <persName>Palat-Dercy, Alphonse François</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/lacavernedramely00pfull/page/n1/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3810" resp="#awilfing" cert="high">
                <title type="main">Bellini, sa vie, ses oeuvres</title>
@@ -36650,6 +36654,23 @@
             <bibl xml:id="hsl_work_id_4053" resp="#awilfing" cert="high">
                <title type="main">Ella</title>
                <title type="alternative">unklarer Bezug</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4054" resp="#awilfing" cert="high">
+               <title type="main">Das Burgtheater. Ein Beitrag zur Deutschen Theater-Geschichte</title>
+               <author ref="#hsl_person_id_153">
+                  <persName>Laube, Heinrich</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/dasburgtheaterei00laub/page/n7/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4055" resp="#awilfing" cert="high">
+               <title type="main">Fra Diavolo, chef des brigands dans les Alpes</title>
+               <title type="alternative">Die Räuber in den Abruzzen</title>
+               <author ref="#hsl_person_id_199">
+                  <persName>Franconi, Antonio</persName>
+               </author>
+               <author ref="#hsl_person_id_5583">
+                  <persName>Cuvelier, Jean-Guillaume-Antoine</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
