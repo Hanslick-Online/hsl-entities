@@ -5593,6 +5593,7 @@
                <author ref="#hsl_person_id_2105">
                   <persName>Bouilly, Jean Nicolas</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_5888">Mikeli</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300207875</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Les_deux_journ%C3%A9es_(Cherubini%2C_Luigi)</idno>
             </bibl>
@@ -30105,7 +30106,8 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/12_Ges%C3%A4nge%2C_Op.18_(Goldmark%2C_Carl)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3278" resp="#awilfing" cert="high">
-               <title type="main">Wanderers Nachtlied, op. 48 Nr. 5</title>
+               <title type="main">Gornye vershiny, op. 48 Nr. 5</title>
+               <title type="alternative">Wanderers Nachtlied</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_3453">12 Lieder für 2 Singstimmen und Klavier, op. 48</note>
                </noteGrp>
@@ -30119,7 +30121,8 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/12_Lieder%2C_Op.48_(Rubinstein%2C_Anton)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3279" resp="#awilfing" cert="high">
-               <title type="main">Sang das Vögelein, op. 48 Nr. 2</title>
+               <title type="main">Bezzabotnost' ptichki, op. 48 Nr. 2</title>
+               <title type="alternative">Sang das Vöglein</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_3453">12 Lieder für 2 Singstimmen und Klavier, op. 48</note>
                </noteGrp>
@@ -36671,6 +36674,21 @@
                <author ref="#hsl_person_id_5583">
                   <persName>Cuvelier, Jean-Guillaume-Antoine</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4056" resp="#awilfing" cert="high">
+               <title type="main">Am Tage Aller Seelen, D343 (Chorfassung)</title>
+               <title type="alternative">Litaney auf das Fest Aller Seelen; Litanei auf das Fest Aller Seelen</title>
+               <author ref="#hsl_person_id_121">
+                  <persName>Herbeck, Johann von</persName>
+               </author>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_3537">
+                  <persName>Jacobi, Johann Georg</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300553269</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Am_Tage_Aller_Seelen,_D.343_(Schubert,_Franz)</idno>
             </bibl>
       </listBibl>
       </body>
