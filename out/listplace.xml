@@ -497,9 +497,10 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q38</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4027833-5</idno>
                </place>
-               <place xml:id="hsl_place_id_63" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_63" resp="#awilfing" cert="high">
                   <settlement type="P">
-                     <placeName type="main">Jerusalem</placeName>
+                     <placeName type="main">Jeruschalajim; Ūršalīm al-Quds</placeName>
+                     <placeName type="alternative">Jerusalem</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>IL, Israel</country>
@@ -1167,7 +1168,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3164603/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q33723961</idno>
                </place>
-               <place xml:id="hsl_place_id_90" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_90" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Dimaschq</placeName>
                      <placeName type="alternative">Damaskus; Damascus</placeName>
@@ -7810,6 +7811,11 @@
                <place xml:id="hsl_place_id_685" resp="#awilfing" cert="high">
                   <placeName type="main">Beethovengasse, Wien</placeName>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q106193403</idno>
+               </place>
+               <place xml:id="hsl_place_id_686" resp="#awilfing" cert="high">
+                  <placeName type="main">Nahr al-ʿĀṣī; Asi Nehri</placeName>
+                     <placeName type="alternative">Orontes</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/303365/</idno>
                </place>
             </listPlace>
          </div>
