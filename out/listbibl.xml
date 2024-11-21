@@ -2779,6 +2779,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_238" resp="#awilfing" cert="high">
                <title type="main">Das Rheingold, WWV86A</title>
+               <title type="alternative">Der Raub des Rheingoldes</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_418">Der Ring des Nibelungen, WWV86</note>
                </noteGrp>
@@ -3959,7 +3960,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_361" resp="#awilfing" cert="high">
                <title type="main">Allgemeine Zeitung (Augsburg)</title>
-               <title type="alternative">A. Allgemeinen Zeitung; A. A. Ztg.</title>
+               <title type="alternative">Augsburger Allgemeine Zeitung; A. Allgemeinen Zeitung; A. A. Ztg.</title>
                <idno type="URL" subtype="Digitalisat">https://digipress.digitale-sammlungen.de/calendar/newspaper/bsbmult00000002</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_362" resp="#awilfing" cert="high">
@@ -36700,8 +36701,12 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300207034</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Trio_in_E-flat_major%2C_WoO_38_(Beethoven%2C_Ludwig_van)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4058" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_4058" resp="#awilfing" cert="high">
+               <title type="main">Briefe Richard Wagners an eine Putzmacherin</title>
+               <author ref="#hsl_person_id_5905">
+                  <persName>Spitzer, Daniel</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://de.wikisource.org/wiki/Briefe_Richard_Wagners_an_eine_Putzmacherin</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4059" resp="#awilfing" cert="medium">
                <title type="main">Chor und Marsch der Kreuzritter, S2 3.d</title>
@@ -36797,6 +36802,16 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4073" resp="#awilfing" cert="medium">
                <title type="main">Der Sieg von Saarbrücken</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4074" resp="#awilfing" cert="high">
+               <title type="main">Ein Brief von Richard Wagner über Franz Liszt's symphonische Dichtungen</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10599691?page=8,9</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4075" resp="#awilfing" cert="medium">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>

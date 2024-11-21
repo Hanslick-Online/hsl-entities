@@ -1566,7 +1566,7 @@
                <place xml:id="hsl_place_id_125" resp="#awilfing" cert="medium">
                   <settlement type="P">
                      <placeName type="main">Rio de Janeiro</placeName>
-                     <placeName type="alternative">Rio-de-Janeiro</placeName>
+                     <placeName type="alternative">Rio-de-Janeiro; Rio-Janeiro</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>BR, Brazil</country>
@@ -5524,10 +5524,10 @@
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6293395/</idno>
                </place>
-               <place xml:id="hsl_place_id_454" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_454" resp="#awilfing" cert="high">
                   <settlement type="H">
                      <placeName type="main">Zürichsee</placeName>
-                     <placeName type="alternative">Zürchersee</placeName>
+                     <placeName type="alternative">Zürchersee; Züricher See</placeName>
                   </settlement>
                   <desc type="entity_type">stream, lake, ...</desc>
                   <country>CH, Switzerland</country>
@@ -6125,6 +6125,7 @@
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2834282/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q32293124</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4053950-7</idno>
                </place>
                <place xml:id="hsl_place_id_508" resp="#awilfing" cert="medium">
                   <settlement type="P">
@@ -7994,6 +7995,48 @@
                      <geo>48.20684, 16.36702</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12504002/</idno>
+               </place>
+               <place xml:id="hsl_place_id_688" resp="#awilfing" cert="high">
+                  <placeName type="main">Genfersee; Léman</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2660647/</idno>
+               </place>
+               <place xml:id="hsl_place_id_689" resp="#awilfing" cert="high">
+                  <placeName type="main">Sankt Moritz</placeName>
+                     <placeName type="alternative">St. Moriz</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2658813/</idno>
+               </place>
+               <place xml:id="hsl_place_id_690" resp="#awilfing" cert="high">
+                  <placeName type="main">Seelisberg</placeName>
+                     <placeName type="alternative">Selisberg</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2658650/</idno>
+               </place>
+               <place xml:id="hsl_place_id_691" resp="#awilfing" cert="high">
+                  <placeName type="main">Montreux</placeName>
+                     <placeName type="alternative">Mornex</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2659601/</idno>
+               </place>
+               <place xml:id="hsl_place_id_692" resp="#awilfing" cert="medium">
+                  <placeName type="main">Palermo</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2523920/</idno>
+               </place>
+               <place xml:id="hsl_place_id_693" resp="#awilfing" cert="medium">
+                  <placeName type="main">Villeneuve-lès-Avignon</placeName>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>43.96773, 4.79258</geo>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2968545/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q269113</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4119442-1</idno>
+               </place>
+               <place xml:id="hsl_place_id_694" resp="#awilfing" cert="medium">
+                  <placeName type="main">Ohio</placeName>
+                  <country>US, United States</country>
+                  <location type="coords">
+                     <geo>36.98751, -89.13365</geo>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/4401696/</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4102035-2</idno>
                </place>
             </listPlace>
          </div>
