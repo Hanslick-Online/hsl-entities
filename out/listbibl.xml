@@ -517,6 +517,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_40" resp="#awilfing" cert="high">
                <title type="main">Tannhäuser und der Sängerkrieg auf Wartburg, WWV70</title>
+               <title type="alternative">Tanhäuser</title>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
                </author>
@@ -2813,6 +2814,8 @@
                   <persName>Flechsig, Emil</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1505">Peri</name>
+               <name type="character" ref="#hsl_person_id_5934">Engel</name>
+               <name type="character" ref="#hsl_person_id_5935">Jungfrau</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145969</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Das_Paradies_und_die_Peri,_Op.50_(Schumann,_Robert)</idno>
             </bibl>
@@ -6402,7 +6405,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_658" resp="#awilfing" cert="high">
                <title type="main">Chronologisch-thematisches Verzeichniss sämmtlicher Tonwerke Wolfgang Amade Mozart's</title>
-               <title type="alternative">Köchel; Köchel-Verzeichnis; Köchel-Katalog; Chronologisch-thematischer Katalog von Mozart's sämmtlichen Werken</title>
+               <title type="alternative">Köchel; Köchel-Verzeichnis; Köchel-Katalog; Mozart-Katalog; Chronologisch-thematischer Katalog von Mozart's sämmtlichen Werken</title>
                <author ref="#hsl_person_id_145">
                   <persName>Köchel, Ludwig von</persName>
                </author>
@@ -12702,6 +12705,9 @@
                <name type="character" ref="#hsl_person_id_5000">Woglinde</name>
                <name type="character" ref="#hsl_person_id_5001">Wellgunde</name>
                <name type="character" ref="#hsl_person_id_5002">Floßhilde</name>
+               <name type="character" ref="#hsl_person_id_5939">Erste Norn</name>
+               <name type="character" ref="#hsl_person_id_5940">Zweite Norn</name>
+               <name type="character" ref="#hsl_person_id_5941">Dritte Norn</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300169868</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/G%C3%B6tterd%C3%A4mmerung,_WWV_86D_(Wagner,_Richard)</idno>
             </bibl>
@@ -14028,6 +14034,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1466" resp="#awilfing" cert="high">
                <title type="main">Kantate auf den Tod Kaiser Joseph des Zweiten, WoO87</title>
+               <title type="alternative">Trauercantate</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -36810,7 +36817,100 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10599691?page=8,9</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4075" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4075" resp="#awilfing" cert="high">
+               <title type="main">Misero! O sogno!, KV431</title>
+               <title type="alternative">Misero! o sogno, o son desto?</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300243359</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Misero!_o_sogno,_K.431/425b_(Mozart,_Wolfgang_Amadeus)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4076" resp="#awilfing" cert="high">
+               <title type="main">Symphonie Nr. 2 in Es-Dur, op. 45</title>
+               <author ref="#hsl_person_id_1017">
+                  <persName>Fuchs, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300524722</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.2%2C_Op.45_(Fuchs%2C_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4077" resp="#awilfing" cert="high">
+               <title type="main">Symphonie in F-Dur, op. 4</title>
+               <author ref="#hsl_person_id_2417">
+                  <persName>Albert, Eugen d'</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/104596638X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony%2C_Op.4_(Albert%2C_Eugen_d')</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4078" resp="#awilfing" cert="high">
+               <title type="main">Robert Schumann und seine Cantate "Das Paradies und die Peri"</title>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=ouw&amp;datum=18460519&amp;seite=3&amp;zoom=33</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4079" resp="#awilfing" cert="high">
+               <title type="main">Ouvertüre zu Grillparzers Esther, op. 8</title>
+               <author ref="#hsl_person_id_2417">
+                  <persName>Albert, Eugen d'</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1058849417</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ouvert%C3%BCre_zu_Grillparzers_Esther%2C_Op.8_(Albert%2C_Eugen_d')</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4080" resp="#awilfing" cert="high">
+               <title type="main">Coriolan</title>
+               <author ref="#hsl_person_id_1975">
+                  <persName>Collin, Heinrich Joseph von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10578181?page=2,3</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4081" resp="#awilfing" cert="high">
+               <title type="main">Symphonie in C-Dur, WWV29</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300170378</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony%2C_WWV_29_(Wagner%2C_Richard)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4082" resp="#awilfing" cert="high">
+               <title type="main">Das Orchester</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4083" resp="#awilfing" cert="high">
+               <title type="main">Eine Pilgerfahrt zu Beethoven</title>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7500832-4</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11015432?page=134,135</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4084" resp="#awilfing" cert="high">
+               <title type="main">Sonate für Klavier in B-Dur, WWV21</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300170386</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Sonata_in_B-flat_major%2C_WWV_21_(Wagner%2C_Richard)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4085" resp="#awilfing" cert="high">
+               <title type="main">Das Waldmädchen</title>
+               <author ref="#hsl_person_id_321">
+                  <persName>Weber, Carl Maria von</persName>
+               </author>
+               <author ref="#hsl_person_id_5942">
+                  <persName>Steinsberg, Karl Franz Guolfinger von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7705182-8</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4086" resp="#awilfing" cert="high">
+               <title type="main">The Times</title>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4185524-3</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.gale.com/c/the-times-digital-archive</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4087" resp="#awilfing" cert="high">
+               <title type="main">Richard Wagner's Sinfonie in C-dur</title>
+               <author ref="#hsl_person_id_5943">
+                  <persName>Eichberg, Oskar</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Richard_Wagner_s_Sinfonie_in_C_dur_analy/pu7bRqnBMwIC?hl=de&amp;gbpv=1&amp;pg=PA1</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4088" resp="#awilfing" cert="medium">
                <title type="main"/>
             </bibl>
       </listBibl>
