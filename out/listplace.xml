@@ -8038,8 +8038,10 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/4401696/</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4102035-2</idno>
                </place>
-               <place xml:id="hsl_place_id_695" resp="#awilfing" cert="medium">
-                  <placeName type="main"/>
+               <place xml:id="hsl_place_id_695" resp="#awilfing" cert="high">
+                  <placeName type="main">Säckingen</placeName>
+                     <placeName type="alternative">Säkkingen</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2953363/</idno>
                </place>
                <place xml:id="hsl_place_id_696" resp="#awilfing" cert="high">
                   <placeName type="main">Byzanz</placeName>
