@@ -2670,7 +2670,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1142</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4014500-1</idno>
                </place>
-               <place xml:id="hsl_place_id_222" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_222" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">İstanbul</placeName>
                      <placeName type="alternative">Konstantinopel</placeName>
@@ -8037,6 +8037,13 @@
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/4401696/</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4102035-2</idno>
+               </place>
+               <place xml:id="hsl_place_id_695" resp="#awilfing" cert="medium">
+                  <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_696" resp="#awilfing" cert="high">
+                  <placeName type="main">Byzanz</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q12544</idno>
                </place>
             </listPlace>
          </div>
