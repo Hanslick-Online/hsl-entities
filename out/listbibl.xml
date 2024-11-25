@@ -4538,7 +4538,7 @@
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/altesundneues1v3visc/page/n3/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_420" resp="#awilfing" cert="high">
-               <title type="main">Franz Grillparzers Sämmtliche Werke</title>
+               <title type="main">Franz Grillparzers sämtliche Werke (1. Ausgabe in 10 Bänden)</title>
                <author ref="#hsl_person_id_721">
                   <persName>Grillparzer, Franz</persName>
                </author>
@@ -36911,8 +36911,9 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Richard_Wagner_s_Sinfonie_in_C_dur_analy/pu7bRqnBMwIC?hl=de&amp;gbpv=1&amp;pg=PA1</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4088" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_4088" resp="#awilfing" cert="high">
+               <title type="main">Der schwarze Ritter</title>
+               <title type="alternative">unklarer Bezug</title>
             </bibl>
             <bibl xml:id="hsl_work_id_4089" resp="#awilfing" cert="medium">
                <title type="main">Napoleon-Marsch, Op.156</title>
@@ -37008,6 +37009,128 @@
                <title type="main">Scherzo Nr. 2 in b-Moll, op. 31</title>
                <author ref="#hsl_person_id_48">
                   <persName>Chopin, Frédéric</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4103" resp="#awilfing" cert="high">
+               <title type="main">Franz Grillparzers sämtliche Werke (4. Ausgabe in 16 Bänden)</title>
+               <author ref="#hsl_person_id_721">
+                  <persName>Grillparzer, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4104" resp="#awilfing" cert="high">
+               <title type="main">Rede am Grabe Beethovens (29. März 1827)</title>
+               <author ref="#hsl_person_id_721">
+                  <persName>Grillparzer, Franz</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.projekt-gutenberg.org/grillprz/beethove/beethove.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4105" resp="#awilfing" cert="high">
+               <title type="main">Rede am Grabe Beethovens bei der Enthüllung des Denksteines (Herbst 1827)</title>
+               <author ref="#hsl_person_id_721">
+                  <persName>Grillparzer, Franz</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.projekt-gutenberg.org/grillprz/beethove/beethove.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4106" resp="#awilfing" cert="medium">
+               <title type="main">Rede am Grabe Beethovens bei der Enthüllung des Denksteines (Herbst 1827)</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4107" resp="#awilfing" cert="high">
+               <title type="main">Selbstbiographie</title>
+               <author ref="#hsl_person_id_721">
+                  <persName>Grillparzer, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4278891-2</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/grillparzerssmm00weilgoog/page/n15</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4108" resp="#awilfing" cert="high">
+               <title type="main">Die Schuld</title>
+               <author ref="#hsl_person_id_5967">
+                  <persName>Müllner, Adolph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1220109207</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10115246?page=6,7</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4109" resp="#awilfing" cert="high">
+               <title type="main">Avertissement</title>
+               <author ref="#hsl_person_id_721">
+                  <persName>Grillparzer, Franz</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/smmtlichewerke05grilgoog/page/n203/</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4110" resp="#awilfing" cert="medium">
+               <title type="main">Klavierkonzert Nr. 2 in Es-Dur, J155</title>
+               <author ref="#hsl_person_id_321">
+                  <persName>Weber, Carl Maria von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4111" resp="#awilfing" cert="medium">
+               <title type="main">Scherzo</title>
+               <author ref="#hsl_person_id_5951">
+                  <persName>Litolff, Henry</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4112" resp="#awilfing" cert="medium">
+               <title type="main">Aven</title>
+               <author ref="#hsl_person_id_5544">
+                  <persName>Leschetitzkiy, Theodor</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4113" resp="#awilfing" cert="medium">
+               <title type="main">Mazurka</title>
+               <author ref="#hsl_person_id_5544">
+                  <persName>Leschetitzkiy, Theodor</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4114" resp="#awilfing" cert="medium">
+               <title type="main">Gavotte</title>
+               <author ref="#hsl_person_id_5953">
+                  <persName>Silas, Edouard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4115" resp="#awilfing" cert="medium">
+               <title type="main">Romanze des Siébel</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_199">Faust, CG4</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_102">
+                  <persName>Gounod, Charles</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4116" resp="#awilfing" cert="medium">
+               <title type="main">Je ne vous aime pas</title>
+               <author ref="#hsl_person_id_5914">
+                  <persName>Lewy, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4117" resp="#awilfing" cert="medium">
+               <title type="main">Russisches Wiegenlied</title>
+               <author ref="#hsl_person_id_5914">
+                  <persName>Lewy, Karl</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4118" resp="#awilfing" cert="medium">
+               <title type="main">Die Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates und ihr Conservatorium</title>
+               <author ref="#hsl_person_id_3866">
+                  <persName>Pohl, Carl Ferdinand</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4119" resp="#awilfing" cert="medium">
+               <title type="main">Allegro</title>
+               <author ref="#hsl_person_id_321">
+                  <persName>Weber, Carl Maria von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4120" resp="#awilfing" cert="medium">
+               <title type="main">Der blonde Eckbert</title>
+               <author ref="#hsl_person_id_306">
+                  <persName>Tieck, Ludwig</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_5969">Bertha</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4121" resp="#awilfing" cert="medium">
+               <title type="main">Ouvertüre zu Ludwig Tiecks Märchen Der blonde Eckbert, op. 8</title>
+               <author ref="#hsl_person_id_2040">
+                  <persName>Rudorff, Ernst</persName>
                </author>
             </bibl>
       </listBibl>
