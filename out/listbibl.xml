@@ -869,6 +869,12 @@
                </author>
                <name type="character" ref="#hsl_person_id_4593">Iago</name>
                <name type="character" ref="#hsl_person_id_4814">Desdemona</name>
+               <name type="character" ref="#hsl_person_id_5981">Othello</name>
+               <name type="character" ref="#hsl_person_id_5982">Roderigo</name>
+               <name type="character" ref="#hsl_person_id_5983">Cassio</name>
+               <name type="character" ref="#hsl_person_id_5984">Emilia</name>
+               <name type="character" ref="#hsl_person_id_5985">Montano</name>
+               <name type="character" ref="#hsl_person_id_5986">Lodovico</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300166028</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Otello_(Verdi,_Giuseppe)</idno>
             </bibl>
@@ -14292,7 +14298,10 @@
                <author ref="#hsl_person_id_2125">
                   <persName>Cammarano, Salvatore</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_1639">Miliukova, Antonina</name>
                <name type="character" ref="#hsl_person_id_5945">Belisario</name>
+               <name type="character" ref="#hsl_person_id_5988">Alamiro</name>
+               <name type="character" ref="#hsl_person_id_5989">Irene</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300694342</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Belisario_(Donizetti,_Gaetano)</idno>
             </bibl>
@@ -21315,6 +21324,8 @@
                </author>
                <name type="character" ref="#hsl_person_id_3797">Desdemona</name>
                <name type="character" ref="#hsl_person_id_4119">Othello</name>
+               <name type="character" ref="#hsl_person_id_5979">Brabantio</name>
+               <name type="character" ref="#hsl_person_id_5980">Bianca</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099368-1</idno>
                <idno type="URL" subtype="Digitalisat">https://www.folger.edu/explore/shakespeares-works/othello/read/</idno>
             </bibl>
@@ -35764,7 +35775,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/The_Pirates_of_Penzance_(Sullivan%2C_Arthur)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3940" resp="#awilfing" cert="high">
-               <title type="main">La Petite Fadette</title>
+               <title type="main">La petite Fadette</title>
                <author ref="#hsl_person_id_2960">
                   <persName>Sand, George</persName>
                </author>
@@ -37244,6 +37255,40 @@
                <author ref="#hsl_person_id_1327">
                   <persName>Heuberger, Richard</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4135" resp="#awilfing" cert="high">
+               <title type="main">Bélisaire</title>
+               <author ref="#hsl_person_id_173">
+                  <persName>Marmontel, Jean François</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4410417-0</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10094269?page=4,5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4136" resp="#awilfing" cert="high">
+               <title type="main">La petite Fadette</title>
+               <author ref="#hsl_person_id_2960">
+                  <persName>Sand, George</persName>
+               </author>
+               <author ref="#hsl_person_id_5991">
+                  <persName>Semet, Théophile</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/127952796X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_petite_Fadette_(Semet%2C_Th%C3%A9ophile)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4137" resp="#awilfing" cert="high">
+               <title type="main">La Dame de Monsoreau</title>
+               <author ref="#hsl_person_id_170">
+                  <persName>Maquet, Auguste</persName>
+               </author>
+               <author ref="#hsl_person_id_5992">
+                  <persName>Salvayre, Gervais Bernard Gaston</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_dame_de_Monsoreau_(Salvayre%2C_Gaston)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4138" resp="#awilfing" cert="high">
+               <title type="main">Frankfurter Conversationsblatt</title>
+               <title type="alternative">Frankfurter Konversationsblatt</title>
+               <idno type="URL" subtype="Digitalisat">https://digipress.digitale-sammlungen.de/calendar/newspaper/bsbmult00000577</idno>
             </bibl>
       </listBibl>
       </body>
