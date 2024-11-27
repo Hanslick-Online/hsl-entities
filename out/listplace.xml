@@ -1577,7 +1577,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q8678</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4076741-3</idno>
                </place>
-               <place xml:id="hsl_place_id_126" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_126" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Bad Ischl</placeName>
                   </settlement>
@@ -1884,7 +1884,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3169561/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q49280740</idno>
                </place>
-               <place xml:id="hsl_place_id_158" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_158" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Winterthur</placeName>
                   </settlement>
@@ -3265,18 +3265,9 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2768497/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q21880432</idno>
                </place>
-               <place xml:id="hsl_place_id_269" resp="#awilfing" cert="medium">
-                  <settlement type="A">
-                     <placeName type="main">Mürzzuschlag</placeName>
-                  </settlement>
-                  <desc type="entity_type">country, state, region,...</desc>
-                  <country>AT, Austria</country>
-                  <location type="coords">
-                     <geo>47.61131, 15.67877</geo>
-                  </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/7872461/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q492868</idno>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4101749-3</idno>
+               <place xml:id="hsl_place_id_269" resp="#awilfing" cert="high">
+                  <placeName type="main">Mürzzuschlag</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2770993/</idno>
                </place>
                <place xml:id="hsl_place_id_270" resp="#awilfing" cert="medium">
                   <settlement type="H">
@@ -5886,7 +5877,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1353</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4011371-1</idno>
                </place>
-               <place xml:id="hsl_place_id_488" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_488" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Hessen</placeName>
                   </settlement>
@@ -8058,6 +8049,10 @@
                <place xml:id="hsl_place_id_699" resp="#awilfing" cert="high">
                   <placeName type="main">Assisi</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6538612/</idno>
+               </place>
+               <place xml:id="hsl_place_id_700" resp="#awilfing" cert="high">
+                  <placeName type="main">Detmold</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2937936/</idno>
                </place>
             </listPlace>
          </div>
