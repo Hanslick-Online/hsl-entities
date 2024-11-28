@@ -300,6 +300,8 @@
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6004">Eginhard</name>
+               <name type="character" ref="#hsl_person_id_6005">Florinda</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300229550</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Fierabras,_D.796_(Schubert,_Franz)</idno>
             </bibl>
@@ -28397,7 +28399,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3077" resp="#awilfing" cert="high">
                <title type="main">Unterm Fenster, op. 34 Nr. 3</title>
-               <title type="alternative">Unter dem Fenster</title>
+               <title type="alternative">Unter dem Fenster; Unter'm Fenster</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_3442">4 Duette für Sopran, Tenor und Klavier, op. 34</note>
                </noteGrp>
@@ -37299,6 +37301,147 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300027214</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Triumphlied,_Op.55_(Brahms,_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4140" resp="#awilfing" cert="high">
+               <title type="main">Aus allen Tonarten</title>
+               <author ref="#hsl_person_id_718">
+                  <persName>Ehrlich, Heinrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4141" resp="#awilfing" cert="high">
+               <title type="main">Wagner's religiöse Anschauungen</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4140">Aus allen Tonarten</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_718">
+                  <persName>Ehrlich, Heinrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4142" resp="#awilfing" cert="high">
+               <title type="main">Das Evangelium nach Lukas</title>
+               <title type="alternative">Lucas</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_820">Bibel</note>
+                  <note type="Werkbezug" target="hsl_work_id_826">Neues Testament</note>
+               </noteGrp>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4036616-9</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/lk1.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4143" resp="#awilfing" cert="high">
+               <title type="main">Das Evangelium nach Matthäus</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_820">Bibel</note>
+                  <note type="Werkbezug" target="hsl_work_id_826">Neues Testament</note>
+               </noteGrp>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4038001-4</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/mt1.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4144" resp="#awilfing" cert="high">
+               <title type="main">Das Evangelium nach Markus</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_820">Bibel</note>
+                  <note type="Werkbezug" target="hsl_work_id_826">Neues Testament</note>
+               </noteGrp>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4037658-8</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/mk1.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4145" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4146" resp="#awilfing" cert="high">
+               <title type="main">Zigeunerlied</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4147" resp="#awilfing" cert="high">
+               <title type="main">Der wandernde Musikant, op. 8 Nr. 2</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4148">4 Lieder für hohe Stimme und Klavier, op. 8</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1033">
+                  <persName>Grädener, Hermann</persName>
+               </author>
+               <author ref="#hsl_person_id_1245">
+                  <persName>Eichendorff, Joseph von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4148" resp="#awilfing" cert="high">
+               <title type="main">4 Lieder für hohe Stimme und Klavier, op. 8</title>
+               <author ref="#hsl_person_id_1033">
+                  <persName>Grädener, Hermann</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4149" resp="#awilfing" cert="medium">
+               <title type="main">Au printemps, CG331</title>
+               <title type="alternative">Frühlingslied</title>
+               <author ref="#hsl_person_id_90">
+                  <persName>Barbier, Jules</persName>
+               </author>
+               <author ref="#hsl_person_id_102">
+                  <persName>Gounod, Charles</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1133520081</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Au_printemps,_CG_331_(Gounod,_Charles)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4150" resp="#awilfing" cert="high">
+               <title type="main">So lass uns wandern!, op. 75 Nr. 3</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4151">4 Balladen und Romanzenfür 2 Singstimmen und Klavier, op. 75</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_2147">
+                  <persName>Wenzig, Josef</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30035293X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/4_Ballades_and_Romances%2C_Op.75_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4151" resp="#awilfing" cert="medium">
+               <title type="main">4 Balladen und Romanzenfür 2 Singstimmen und Klavier, op. 75</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_1253">
+                  <persName>Herder, Johann Gottfried von</persName>
+               </author>
+               <author ref="#hsl_person_id_2147">
+                  <persName>Wenzig, Josef</persName>
+               </author>
+               <author ref="#hsl_person_id_5176">
+                  <persName>Alexis, Willibald</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300024827</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/4_Ballades_and_Romances%2C_Op.75_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4152" resp="#awilfing" cert="high">
+               <title type="main">Seliger Tod, op. 41 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4153">6 Lieder für Singstimme und Klavier, op. 41</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_310">
+                  <persName>Uhland, Ludwig</persName>
+               </author>
+               <author ref="#hsl_person_id_1017">
+                  <persName>Fuchs, Robert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4153" resp="#awilfing" cert="high">
+               <title type="main">6 Lieder für Singstimme und Klavier, op. 41</title>
+               <author ref="#hsl_person_id_1017">
+                  <persName>Fuchs, Robert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4154" resp="#awilfing" cert="high">
+               <title type="main">Fasse Muth, o gramgebeugtes Herz, op. 34 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3516">3 Lieder für Singstimme und Klavier, op. 34</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1327">
+                  <persName>Heuberger, Richard</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
