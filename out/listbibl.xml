@@ -37345,8 +37345,16 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4037658-8</idno>
                <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/mk1.html</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4145" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_4145" resp="#awilfing" cert="high">
+               <title type="main">L'Ipermestra</title>
+               <title type="alternative">Ipermenestra</title>
+               <author ref="#hsl_person_id_110">
+                  <persName>Hasse, Johann Adolf</persName>
+               </author>
+               <author ref="#hsl_person_id_2118">
+                  <persName>Metastasio, Pietro</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/L'Ipermestra_(Hasse%2C_Johann_Adolph)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4146" resp="#awilfing" cert="high">
                <title type="main">Zigeunerlied</title>
@@ -37471,6 +37479,73 @@
                <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Briefe_der_Kaiserin_Maria_Theresia_an_ih/c46pY2mgYGsC?hl=de&amp;gbpv=1&amp;pg=PP9</idno>
                <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Briefe_der_Kaiserin_Maria_Theresia_an_ih/zcAUAAAAYAAJ?hl=de&amp;gbpv=1&amp;pg=PP7</idno>
                <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Briefe_der_Kaiserin_Maria_Theresia_an_ih/oT1OLqLQn9oC?hl=de&amp;gbpv=1&amp;pg=PP1</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4157" resp="#awilfing" cert="high">
+               <title type="main">Maria Theresia und Joseph II.: Ihre Correspondenz sammt Briefen Joseph's an seinen Bruder Leopold</title>
+               <author ref="#hsl_person_id_823">
+                  <persName>Josef II., Kaiser des Heiligen Römischen Reichs</persName>
+               </author>
+               <author ref="#hsl_person_id_3225">
+                  <persName>Maria Theresia, Erzherzogin von Österreich</persName>
+               </author>
+               <author ref="#hsl_person_id_6007">
+                  <persName>Arneth, Alfred von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/view/bsb10403414?page=6%2C7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/view/bsb10403415?page=6%2C7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/view/bsb10403416?page=6%2C7</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4158" resp="#awilfing" cert="high">
+               <title type="main">Il Ruggiero</title>
+               <author ref="#hsl_person_id_110">
+                  <persName>Hasse, Johann Adolf</persName>
+               </author>
+               <author ref="#hsl_person_id_2118">
+                  <persName>Metastasio, Pietro</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/301014795</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Il_Ruggiero_(Hasse%2C_Johann_Adolph)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4159" resp="#awilfing" cert="high">
+               <title type="main">Ascanio in Alba, KV111</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+               <author ref="#hsl_person_id_6019">
+                  <persName>Parini, Giuseppe</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4160" resp="#awilfing" cert="high">
+               <title type="main">Maria Theresia und Marie Antoinette. Ihr Briefwechsel während der Jahre 1770-1780</title>
+               <author ref="#hsl_person_id_3225">
+                  <persName>Maria Theresia, Erzherzogin von Österreich</persName>
+               </author>
+               <author ref="#hsl_person_id_4298">
+                  <persName>Marie Antoinette, Königin von Frankreich</persName>
+               </author>
+               <author ref="#hsl_person_id_6007">
+                  <persName>Arneth, Alfred von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/view/bsb10403413?page=6%2C7</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4161" resp="#awilfing" cert="high">
+               <title type="main">Requiem</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_1959">
+                  <persName>Reutter der Jüngere, Georg</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4162" resp="#awilfing" cert="high">
+               <title type="main">Écho et Narcisse, Wq. 47</title>
+               <title type="alternative">Echo und Narciß</title>
+               <author ref="#hsl_person_id_99">
+                  <persName>Gluck, Christoph Willibald</persName>
+               </author>
+               <author ref="#hsl_person_id_6026">
+                  <persName>Tschudy, Jean Baptiste Louis Théodore de</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7704358-3</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/%C3%89cho_et_Narcisse,_Wq.47_(Gluck,_Christoph_Willibald)</idno>
             </bibl>
       </listBibl>
       </body>
