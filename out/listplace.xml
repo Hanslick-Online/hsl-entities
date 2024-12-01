@@ -2592,7 +2592,7 @@
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2829457/</idno>
                </place>
-               <place xml:id="hsl_place_id_216" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_216" resp="#awilfing" cert="high">
                   <settlement type="L">
                      <placeName type="main">Skandinavia; Skandinavien</placeName>
                   </settlement>
@@ -2684,7 +2684,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q406</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4027821-9</idno>
                </place>
-               <place xml:id="hsl_place_id_223" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_223" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">København</placeName>
                      <placeName type="alternative">Kopenhagen</placeName>
@@ -5232,7 +5232,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q156715</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/2034995-6</idno>
                </place>
-               <place xml:id="hsl_place_id_431" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_431" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Stockholm</placeName>
                   </settlement>
@@ -6652,7 +6652,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1028</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4037680-1</idno>
                </place>
-               <place xml:id="hsl_place_id_553" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_553" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Fristad Christiania</placeName>
                      <placeName type="alternative">Christiania</placeName>
@@ -8087,6 +8087,14 @@
                <place xml:id="hsl_place_id_708" resp="#awilfing" cert="high">
                   <placeName type="main">Arkadien</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/264644/</idno>
+               </place>
+               <place xml:id="hsl_place_id_709" resp="#awilfing" cert="high">
+                  <placeName type="main">Bergen</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3161732/</idno>
+               </place>
+               <place xml:id="hsl_place_id_710" resp="#awilfing" cert="high">
+                  <placeName type="main">Tivoli</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/9778133/</idno>
                </place>
             </listPlace>
          </div>
