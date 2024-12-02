@@ -4278,20 +4278,6 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q50886</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4086311-6</idno>
                </place>
-               <place xml:id="hsl_place_id_354" resp="#awilfing" cert="medium">
-                  <settlement type="P">
-                     <placeName type="main">Göteborg</placeName>
-                     <placeName type="alternative">Götaborg</placeName>
-                  </settlement>
-                  <desc type="entity_type">city, village,...</desc>
-                  <country>SE, Sweden</country>
-                  <location type="coords">
-                     <geo>57.70716, 11.96679</geo>
-                  </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2711537/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q25287</idno>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4021453-9</idno>
-               </place>
                <place xml:id="hsl_place_id_355" resp="#awilfing" cert="high">
                   <settlement type="H">
                      <placeName type="main">Seine</placeName>
@@ -7026,10 +7012,10 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q131612</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4066023-0</idno>
                </place>
-               <place xml:id="hsl_place_id_590" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_590" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Göteborg</placeName>
-                     <placeName type="alternative">Gothenburg</placeName>
+                     <placeName type="alternative">Götaborg; Gothenburg</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>SE, Sweden</country>
@@ -8095,6 +8081,72 @@
                <place xml:id="hsl_place_id_710" resp="#awilfing" cert="high">
                   <placeName type="main">Tivoli</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/9778133/</idno>
+               </place>
+               <place xml:id="hsl_place_id_711" resp="#awilfing" cert="high">
+                  <placeName type="main">Djurgården</placeName>
+                     <placeName type="alternative">Thiergarten</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2717550/</idno>
+               </place>
+               <place xml:id="hsl_place_id_712" resp="#awilfing" cert="high">
+                  <placeName type="main">Uppsala</placeName>
+                     <placeName type="alternative">Upsala</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2666199/</idno>
+               </place>
+               <place xml:id="hsl_place_id_713" resp="#awilfing" cert="high">
+                  <placeName type="main">Plzeň</placeName>
+                     <placeName type="alternative">Pilsen</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3068160/</idno>
+               </place>
+               <place xml:id="hsl_place_id_714" resp="#awilfing" cert="high">
+                  <placeName type="main">Pontecorvo</placeName>
+                     <placeName type="alternative">Ponte-Corvo</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6540539/</idno>
+               </place>
+               <place xml:id="hsl_place_id_715" resp="#awilfing" cert="high">
+                  <placeName type="main">Mälaren</placeName>
+                     <placeName type="alternative">Mälarsee</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2693132/</idno>
+               </place>
+               <place xml:id="hsl_place_id_716" resp="#awilfing" cert="high">
+                  <placeName type="main">Siljan</placeName>
+                     <placeName type="alternative">Salzsee</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2679230/</idno>
+               </place>
+               <place xml:id="hsl_place_id_717" resp="#awilfing" cert="high">
+                  <placeName type="main">Vaxholm</placeName>
+                     <placeName type="alternative">Waxholm</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2663540/</idno>
+               </place>
+               <place xml:id="hsl_place_id_718" resp="#awilfing" cert="high">
+                  <placeName type="main">Ulriksdal</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6951203/</idno>
+               </place>
+               <place xml:id="hsl_place_id_719" resp="#awilfing" cert="high">
+                  <placeName type="main">Drottningholm</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2717198/</idno>
+               </place>
+               <place xml:id="hsl_place_id_720" resp="#awilfing" cert="high">
+                  <placeName type="main">Strömparterren</placeName>
+                     <placeName type="alternative">Strömparterre</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q10682213</idno>
+               </place>
+               <place xml:id="hsl_place_id_721" resp="#awilfing" cert="high">
+                  <placeName type="main">Hasselbacken</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2599681/</idno>
+               </place>
+               <place xml:id="hsl_place_id_722" resp="#awilfing" cert="high">
+                  <placeName type="main">Trollhättan</placeName>
+                     <placeName type="alternative">Trollhätta</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2667303/</idno>
+               </place>
+               <place xml:id="hsl_place_id_723" resp="#awilfing" cert="high">
+                  <placeName type="main">Pau</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2988358/</idno>
+               </place>
+               <place xml:id="hsl_place_id_724" resp="#awilfing" cert="high">
+                  <placeName type="main">Trädgårdsföreningen, Gotaburg</placeName>
+                     <placeName type="alternative">Trädgards förening</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/8199220/</idno>
                </place>
             </listPlace>
          </div>
