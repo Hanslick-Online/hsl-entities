@@ -37782,8 +37782,11 @@
                <idno type="URL" subtype="Digitalisat">https://digipress.digitale-sammlungen.de/view/bsb10532439_00131_u001?page=10%2C11</idno>
                <idno type="URL" subtype="Digitalisat">https://digipress.digitale-sammlungen.de/view/bsb10532439_00159_u001?page=6%2C7</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4187" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_4187" resp="#awilfing" cert="high">
+               <title type="main">Sämmtliche Werke für Pianoforte</title>
+               <author ref="#hsl_person_id_724">
+                  <persName>Lanner, Joseph</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_4188" resp="#awilfing" cert="medium">
                <title type="main">12 Sopran-Arien aus verschiedenen Opern mit Begleitung des Pianoforte</title>
@@ -37804,6 +37807,48 @@
                   <persName>Franz, Robert</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.robertfranz.org//katalog/objekte/211</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4190" resp="#awilfing" cert="high">
+               <title type="main">Die Werber, op. 103</title>
+               <author ref="#hsl_person_id_724">
+                  <persName>Lanner, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300263651</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Werber%2C_Op.103_(Lanner%2C_Joseph)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4191" resp="#awilfing" cert="high">
+               <title type="main">Ferdinand David und die Familie Mendelssohn-Bartholdy</title>
+               <author ref="#hsl_person_id_6068">
+                  <persName>Eckardt, Julius Wilhelm Albert von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Ferdinand_David_und_die_Familie_Mendelss/FWATAAAAQAAJ?hl=de&amp;gbpv=1&amp;pg=PP7</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4192" resp="#awilfing" cert="high">
+               <title type="main">Ueber die Dichtung der ersten Scene des "Rheingold" von Richard Wagner. Ein Beitrag zur Beurtheilung des Dichters</title>
+               <author ref="#hsl_person_id_6072">
+                  <persName>Hagen, Edmund von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/view/bsb11335570?page=4%2C5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4193" resp="#awilfing" cert="high">
+               <title type="main">Richard Wagner als Dichter in der zweiten Scene des "Rheingold"</title>
+               <author ref="#hsl_person_id_6072">
+                  <persName>Hagen, Edmund von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/3347413/page/n5/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4194" resp="#awilfing" cert="high">
+               <title type="main">Das Trompeten-Signal der Freiheit in Richard Wagner's "Rienzi". In ästhetischer und politischer Bedeutung</title>
+               <author ref="#hsl_person_id_6072">
+                  <persName>Hagen, Edmund von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://babel.hathitrust.org/cgi/pt?id=nnc1.cu01740857&amp;seq=123</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4195" resp="#awilfing" cert="high">
+               <title type="main">Walzer-Gesamt-Ausgabe bearbeitet für Klavier</title>
+               <author ref="#hsl_person_id_1150">
+                  <persName>Strauss senior, Johann</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
