@@ -2194,7 +2194,7 @@
                   <placeName type="main">Persien</placeName>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q83311</idno>
                </place>
-               <place xml:id="hsl_place_id_182" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_182" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Torino</placeName>
                      <placeName type="alternative">Turin</placeName>
@@ -8180,6 +8180,10 @@
                   <placeName type="main">Silvrettagletscher</placeName>
                      <placeName type="alternative">Silvretta-Gletscher</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/9782522/</idno>
+               </place>
+               <place xml:id="hsl_place_id_732" resp="#awilfing" cert="high">
+                  <placeName type="main">Lateran</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12110397/</idno>
                </place>
             </listPlace>
          </div>

@@ -3104,6 +3104,8 @@
                </author>
                <name type="character" ref="#hsl_person_id_436">Alessandro Stradella</name>
                <name type="character" ref="#hsl_person_id_2957">Bassi</name>
+               <name type="character" ref="#hsl_person_id_6074">Malvolio</name>
+               <name type="character" ref="#hsl_person_id_6075">Barbarino</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300442602</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Alessandro_Stradella_(Flotow,_Friedrich_von)</idno>
             </bibl>
@@ -25042,7 +25044,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2702" resp="#awilfing" cert="high">
                <title type="main">Lady Harriette ou La Servante de Greenwich</title>
-               <title type="alternative">Lady Harriett</title>
+               <title type="alternative">Lady Harriett; Lady Henriette</title>
                <author ref="#hsl_person_id_81">
                   <persName>Flotow, Friedrich von</persName>
                </author>
@@ -25074,6 +25076,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2704" resp="#awilfing" cert="high">
                <title type="main">L'esclave de Camoëns</title>
+               <title type="alternative">L'esclave de Camoens</title>
                <author ref="#hsl_person_id_81">
                   <persName>Flotow, Friedrich von</persName>
                </author>
@@ -26483,7 +26486,7 @@
                <author ref="#hsl_person_id_365">
                   <persName>Nottebohm, Gustav</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb11011773?page=2,3</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/view/bsb11011773?page=2%2C3</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2870" resp="#awilfing" cert="high">
                <title type="main">Mozartiana. Von Mozart herrührende und ihn betreffende, zum großen Theil noch nicht veröffentlichte Schriftstücke</title>
@@ -36130,9 +36133,9 @@
                   <persName>Thayer, Alexander Wheelock</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7731107-3</idno>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011842?q=%28Thayer,+Alexander+Wheelock%3A+Ludwig+van+Beethoven%22s+Leben%29&amp;page=4,5</idno>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11425526?q=%28Thayer,+Alexander+Wheelock%3A+Ludwig+van+Beethoven%22s+Leben%29&amp;page=6,7</idno>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11390953?q=%28Thayer,+Alexander+Wheelock%3A+Ludwig+van+Beethoven%22s+Leben%29&amp;page=10,11</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/view/bsb11011842?page=4%2C5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/view/bsb11425526?page=6%2C7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/view/bsb11390953?page=10%2C11</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3977" resp="#awilfing" cert="high">
                <title type="main">Symphonie in C-Dur, Hob. I:48</title>
@@ -36386,7 +36389,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4005" resp="#awilfing" cert="high">
                <title type="main">Prolog zur Beethoven-Feier 1870</title>
-               <name type="character" ref="#hsl_person_id_5847">Weilen, Joseph von</name>
+               <author ref="#hsl_person_id_5847">
+                  <persName>Weilen, Joseph von</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_4006" resp="#awilfing" cert="high">
                <title type="main">An die Freude</title>
@@ -37849,6 +37854,38 @@
                <author ref="#hsl_person_id_1150">
                   <persName>Strauss senior, Johann</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4196" resp="#awilfing" cert="high">
+               <title type="main">Pietà, Signore</title>
+               <title type="alternative">Pietà, Signor!</title>
+               <author ref="#hsl_person_id_6076">
+                  <persName>Niedermeyer, Louis</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4198" resp="#awilfing" cert="high">
+               <title type="main">Histoire de la musique et de ses effets, depuis son origine jusqu'a présent</title>
+               <author ref="#hsl_person_id_6077">
+                  <persName>Bourdelot, Pierre</persName>
+               </author>
+               <author ref="#hsl_person_id_6078">
+                  <persName>Bonnet, Jacques</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4732820-4</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/view/bsb10598305?page=2%2C3</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/view/bsb10598306?page=%2C1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/view/bsb10598308?page=%2C1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/view/bsb10598309?page=%2C1</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4199" resp="#awilfing" cert="high">
+               <title type="main">Cythère assiégée, Wq. 26</title>
+               <author ref="#hsl_person_id_99">
+                  <persName>Gluck, Christoph Willibald</persName>
+               </author>
+               <author ref="#hsl_person_id_3850">
+                  <persName>Favart, Charles Simon</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7702097-2</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Cyth%C3%A8re_assi%C3%A9g%C3%A9e%2C_Wq.26_(Gluck%2C_Christoph_Willibald)</idno>
             </bibl>
       </listBibl>
       </body>
