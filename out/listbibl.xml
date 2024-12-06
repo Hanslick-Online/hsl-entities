@@ -11442,6 +11442,9 @@
             <bibl xml:id="hsl_work_id_1184" resp="#awilfing" cert="high">
                <title type="main">Johann Sebastian Bach's Werke</title>
                <title type="alternative">Bach-Gesellschaft Ausgabe</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Bach-Gesellschaft_Ausgabe_(Bach,_Johann_Sebastian)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1185" resp="#awilfing" cert="high">
@@ -13429,6 +13432,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1395" resp="#awilfing" cert="high">
                <title type="main">Franz Schubert's Werke. Kritisch durchgesehene Gesammtausgabe</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Franz_Schubert's_Werke_(Schubert%2C_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1396" resp="#awilfing" cert="high">
@@ -13549,6 +13555,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1409" resp="#awilfing" cert="high">
                <title type="main">Ludwig van Beethovens Werke. Vollständige, kritisch durchgesehene, überall berechtigte Ausgabe</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ludwig_van_Beethovens_Werke_(Beethoven,_Ludwig_van)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1411" resp="#awilfing" cert="high">
@@ -18961,15 +18970,11 @@
                <author ref="#hsl_person_id_99">
                   <persName>Gluck, Christoph Willibald</persName>
                </author>
-               <author ref="#hsl_person_id_636">
-                  <persName>Orfeo</persName>
-               </author>
                <author ref="#hsl_person_id_2142">
                   <persName>Calzabigi, Ranieri de</persName>
                </author>
-               <author ref="#hsl_person_id_5086">
-                  <persName>Euridice</persName>
-               </author>
+               <name type="character" ref="#hsl_person_id_636">Orfeo</name>
+               <name type="character" ref="#hsl_person_id_5086">Euridice</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1151670537</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Orfeo_ed_Euridice,_Wq.30_(Gluck,_Christoph_Willibald)</idno>
             </bibl>
@@ -24845,19 +24850,6 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1199154504</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_2682" resp="#awilfing" cert="high">
-               <title type="main">Vierteljahresschrift für Musikwissenschaft</title>
-               <author ref="#hsl_person_id_825">
-                  <persName>Spitta, Philipp</persName>
-               </author>
-               <author ref="#hsl_person_id_1335">
-                  <persName>Adler, Guido</persName>
-               </author>
-               <author ref="#hsl_person_id_1444">
-                  <persName>Chrysander, Friedrich</persName>
-               </author>
-               <idno type="URL" subtype="Digitalisat">https://www.digizeitschriften.de/search?filter%5BZeitschriften%5D%5B1%5D=479007071%7Clog1&amp;filter%5BObjekttyp%5D%5B1%5D=volume</idno>
-            </bibl>
             <bibl xml:id="hsl_work_id_2683" resp="#awilfing" cert="high">
                <title type="main">Miserere</title>
                <author ref="#hsl_person_id_3582">
@@ -29782,6 +29774,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3236" resp="#awilfing" cert="high">
                <title type="main">Wolfgang Amadeus Mozart's Werke. Kritisch durchgesehene Gesamtausgabe</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Wolfgang_Amadeus_Mozarts_Werke_(Mozart,_Wolfgang_Amadeus)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3237" resp="#awilfing" cert="high">
@@ -32607,8 +32602,8 @@
                <author ref="#hsl_person_id_100">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
-               <author ref="#hsl_person_id_278">
-                  <persName>Schubert, Ferdinand</persName>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300193491</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Meeres_Stille,_D.216_(Schubert,_Franz)</idno>
@@ -35405,6 +35400,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3900" resp="#awilfing" cert="high">
                <title type="main">Vierteljahrsschrift für Musikwissenschaft</title>
+               <title type="alternative">Vierteljahrschrift für Musikwissenschaft</title>
                <author ref="#hsl_person_id_825">
                   <persName>Spitta, Philipp</persName>
                </author>
@@ -36027,12 +36023,6 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300064829</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Jubilate_Deo_in_D_major%2C_HWV_279_(Handel%2C_George_Frideric)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3964" resp="#awilfing" cert="medium">
-               <title type="main">Die Wolfsschlucht</title>
-               <author ref="#hsl_person_id_4277">
-                  <persName>Hoffmann, Josef</persName>
-               </author>
-            </bibl>
             <bibl xml:id="hsl_work_id_3965" resp="#awilfing" cert="high">
                <title type="main">An der Schönen Blauen Donau</title>
                <author ref="#hsl_person_id_5782">
@@ -36408,24 +36398,25 @@
                   <persName>Paganini, Niccolò</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4008" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4008" resp="#awilfing" cert="high">
                <title type="main">Pax Vobiscum, D551</title>
+               <title type="alternative">Der Friede sei mit euch</title>
+               <author ref="#hsl_person_id_272">
+                  <persName>Schober, Franz von</persName>
+               </author>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300397607</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Pax_vobiscum,_D.551_(Schubert,_Franz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4009" resp="#awilfing" cert="medium">
-               <title type="main">Sonate für Klavier in C-Dur</title>
-               <title type="alternative">unklarer Bezug</title>
-               <author ref="#hsl_person_id_25">
-                  <persName>Beethoven, Ludwig van</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_4010" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4010" resp="#awilfing" cert="high">
                <title type="main">Konzertstück für Klavier und Orchester in G-Dur, op. 92</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300220006</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Konzertst%C3%BCck%2C_Op.92_(Schumann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4011" resp="#awilfing" cert="medium">
                <title type="main">Adagio für Violine</title>
@@ -36434,25 +36425,28 @@
                   <persName>Bach, Johann Sebastian</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4012" resp="#awilfing" cert="medium">
-               <title type="main">Klavierquintett</title>
+            <bibl xml:id="hsl_work_id_4012" resp="#awilfing" cert="high">
+               <title type="main">Quintett für 2 Violinen, Viola, Cello und Klavier</title>
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_5019">
                   <persName>Pazdírek, Bohumil</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4013" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4013" resp="#awilfing" cert="high">
                <title type="main">Suite für Orchester Nr. 5 in c-Moll, op. 135</title>
                <author ref="#hsl_person_id_151">
                   <persName>Lachner, Franz</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1155878248</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Suite_No.5%2C_Op.135_(Lachner%2C_Franz_Paul)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4014" resp="#awilfing" cert="medium">
-               <title type="main">Klavierkonzert</title>
-               <title type="alternative">unklarer Bezug</title>
+            <bibl xml:id="hsl_work_id_4014" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Klavier und Orchester in F-Dur, op. 10</title>
                <author ref="#hsl_person_id_1085">
                   <persName>Brüll, Ignaz</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1252297963</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Concerto_No.1,_Op.10_(Br%C3%BCll,_Ignaz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4015" resp="#awilfing" cert="medium">
                <title type="main">Übergehütetes Mädchen</title>
@@ -37886,6 +37880,115 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7702097-2</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Cyth%C3%A8re_assi%C3%A9g%C3%A9e%2C_Wq.26_(Gluck%2C_Christoph_Willibald)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4200" resp="#awilfing" cert="high">
+               <title type="main">Trio für Klavier, Flöte und Fagott in G-Dur, WoO37</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300017286</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Trio_for_Piano,_Flute_and_Bassoon,_WoO_37_(Beethoven,_Ludwig_van)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4201" resp="#awilfing" cert="high">
+               <title type="main">Sonatine für Mandoline und Klavier in c-Moll, WoO43a</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1075610907</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Sonatina_for_Mandolin_and_Harpsichord,_WoO_43a_(Beethoven,_Ludwig_van)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4202" resp="#awilfing" cert="medium">
+               <title type="main">Adagio für Mandoline und Klavier in Es-Dur, WoO43b</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300436467</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Adagio_for_Mandolin_and_Harpsichord,_WoO43b_(Beethoven,_Ludwig_van)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4203" resp="#awilfing" cert="high">
+               <title type="main">Sonaten für Pianoforte. Wiener Volksausgabe</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4204" resp="#awilfing" cert="high">
+               <title type="main">Neue Beethoveniana</title>
+               <author ref="#hsl_person_id_6084">
+                  <persName>Frimmel, Theodor von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/neuebeethovenian0000unse/page/n5/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4205" resp="#awilfing" cert="high">
+               <title type="main">Beethoven als Clavierspieler</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4204">Neue Beethoveniana</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_6084">
+                  <persName>Frimmel, Theodor von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/neuebeethovenian0000unse/page/n13/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4206" resp="#awilfing" cert="high">
+               <title type="main">Beethoven in Mödling</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4204">Neue Beethoveniana</note>
+               </noteGrp>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/neuebeethovenian0000unse/page/170/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4207" resp="#awilfing" cert="high">
+               <title type="main">Rinaldo di Capua</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3900">Vierteljahrsschrift für Musikwissenschaft</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_825">
+                  <persName>Spitta, Philipp</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digizeitschriften.de/id/479007071_0003%7Clog1?tify=%7B%22pages%22%3A%5B98%5D%2C%22pan%22%3A%7B%22x%22%3A0.5%2C%22y%22%3A0.793%7D%2C%22view%22%3A%22help%22%2C%22zoom%22%3A0.343%7D&amp;origin=%2Fsearch%3Ffilter%255BZeitschriften%255D%255B1%255D%3D479007071%257Clog1%26filter%255BObjekttyp%255D%255B1%255D%3Dvolume%26q%3D%252A</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4208" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4209" resp="#awilfing" cert="high">
+               <title type="main">Claudio Monteverdi. Leben, Wirken im Lichte der zeitgenössischen Kritik und Verzeichniss seiner im Druck erschienenen Werke</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3900">Vierteljahrsschrift für Musikwissenschaft</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_6086">
+                  <persName>Vogel, Emil</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digizeitschriften.de/id/479007071_0003%7Clog1?tify=%7B%22pages%22%3A%5B328%2C329%5D%2C%22view%22%3A%22help%22%7D&amp;origin=%2Fsearch%3Ffilter%255BZeitschriften%255D%255B1%255D%3D479007071%257Clog1%26filter%255BObjekttyp%255D%255B1%255D%3Dvolume%26q%3D%252A</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4210" resp="#awilfing" cert="high">
+               <title type="main">Händel's Instrumentalkompositionen für grosses Orchester</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3900">Vierteljahrsschrift für Musikwissenschaft</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1444">
+                  <persName>Chrysander, Friedrich</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digizeitschriften.de/id/479007071_0003%7Clog1?tify=%7B%22pages%22%3A%5B6%2C7%5D%2C%22view%22%3A%22help%22%7D&amp;origin=%2Fsearch%3Ffilter%255BZeitschriften%255D%255B1%255D%3D479007071%257Clog1%26filter%255BObjekttyp%255D%255B1%255D%3Dvolume%26q%3D%252A</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digizeitschriften.de/id/479007071_0003%7Clog1?tify=%7B%22pages%22%3A%5B166%2C167%5D%2C%22pan%22%3A%7B%22x%22%3A1.005%2C%22y%22%3A0.792%7D%2C%22view%22%3A%22help%22%2C%22zoom%22%3A0.343%7D&amp;origin=%2Fsearch%3Ffilter%255BZeitschriften%255D%255B1%255D%3D479007071%257Clog1%26filter%255BObjekttyp%255D%255B1%255D%3Dvolume%26q%3D%252A</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digizeitschriften.de/id/479007071_0003%7Clog1?tify=%7B%22pages%22%3A%5B464%2C465%5D%2C%22pan%22%3A%7B%22x%22%3A1.005%2C%22y%22%3A0.792%7D%2C%22view%22%3A%22help%22%2C%22zoom%22%3A0.343%7D&amp;origin=%2Fsearch%3Ffilter%255BZeitschriften%255D%255B1%255D%3D479007071%257Clog1%26filter%255BObjekttyp%255D%255B1%255D%3Dvolume%26q%3D%252A</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4211" resp="#awilfing" cert="high">
+               <title type="main">Don Giovanni o sia Il Convitato di Pietra</title>
+               <author ref="#hsl_person_id_2109">
+                  <persName>Bertati, Giovanni</persName>
+               </author>
+               <author ref="#hsl_person_id_6087">
+                  <persName>Gazzaniga, Giuseppe</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300280092</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4212" resp="#awilfing" cert="high">
+               <title type="main">Hermann Ludwig: Johann Georg Kastner. Ein elsässischer Tondichter, Theoretiker und Musikforscher. Sein Werden und Wirken</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3900">Vierteljahrsschrift für Musikwissenschaft</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_825">
+                  <persName>Spitta, Philipp</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digizeitschriften.de/id/479007071_0004%7Clog1?tify=%7B%22pages%22%3A%5B452%2C453%5D%2C%22view%22%3A%22info%22%7D&amp;origin=%2Fsearch%3Ffilter%255BZeitschriften%255D%255B1%255D%3D479007071%257Clog1%26filter%255BObjekttyp%255D%255B1%255D%3Dvolume%26q%3D%252A</idno>
             </bibl>
       </listBibl>
       </body>
