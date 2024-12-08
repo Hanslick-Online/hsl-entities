@@ -2675,6 +2675,11 @@
                   <persName>Lortzing, Albert</persName>
                </author>
                <name type="character" ref="#hsl_person_id_3917">Gräfin</name>
+               <name type="character" ref="#hsl_person_id_6109">Baculus</name>
+               <name type="character" ref="#hsl_person_id_6110">Baronin Freimann</name>
+               <name type="character" ref="#hsl_person_id_6111">Baron Kronthal</name>
+               <name type="character" ref="#hsl_person_id_6112">Graf von Eberbach</name>
+               <name type="character" ref="#hsl_person_id_6113">Gretchen</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300096550</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Wildsch%C3%BCtz_(Lortzing%2C_Albert)</idno>
             </bibl>
@@ -11094,6 +11099,7 @@
                <author ref="#hsl_person_id_165">
                   <persName>Lortzing, Albert</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6118">Marie</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30009650X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Waffenschmied_(Lortzing%2C_Albert)</idno>
             </bibl>
@@ -11844,6 +11850,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_1884">Carmen</name>
                <name type="character" ref="#hsl_person_id_4646">Don José</name>
+               <name type="character" ref="#hsl_person_id_6117">Lillas Pastia</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300020724</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Carmen_(Bizet,_Georges)</idno>
             </bibl>
@@ -38061,6 +38068,87 @@
                   <persName>Riehl, Wilhelm Heinrich</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11828283?page=4,5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4223" resp="#awilfing" cert="high">
+               <title type="main">Galathée</title>
+               <author ref="#hsl_person_id_84">
+                  <persName>Carré, Michel</persName>
+               </author>
+               <author ref="#hsl_person_id_90">
+                  <persName>Barbier, Jules</persName>
+               </author>
+               <author ref="#hsl_person_id_907">
+                  <persName>Massé, Victor</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300918992</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Galath%C3%A9e_(Mass%C3%A9,_Victor)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4224" resp="#awilfing" cert="high">
+               <title type="main">La Circassienne</title>
+               <author ref="#hsl_person_id_16">
+                  <persName>Auber, Daniel-François-Esprit</persName>
+               </author>
+               <author ref="#hsl_person_id_284">
+                  <persName>Scribe, Eugène</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7686864-3</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_Circassienne_(Auber%2C_Daniel_Fran%C3%A7ois_Esprit)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4225" resp="#awilfing" cert="high">
+               <title type="main">Fatinitza</title>
+               <author ref="#hsl_person_id_353">
+                  <persName>Walzel, Camillo</persName>
+               </author>
+               <author ref="#hsl_person_id_905">
+                  <persName>Suppé, Franz von</persName>
+               </author>
+               <author ref="#hsl_person_id_2020">
+                  <persName>Genée, Richard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4435820-9</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Fatinitza_(Supp%C3%A9,_Franz_von)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4226" resp="#awilfing" cert="high">
+               <title type="main">Farinelli</title>
+               <author ref="#hsl_person_id_6103">
+                  <persName>Zumpe, Hermann</persName>
+               </author>
+               <author ref="#hsl_person_id_6104">
+                  <persName>Cassmann, Charles</persName>
+               </author>
+               <author ref="#hsl_person_id_6105">
+                  <persName>Wulff, Friedrich Wilhelm</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1124162631</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4227" resp="#awilfing" cert="high">
+               <title type="main">Die schöne Galathée</title>
+               <author ref="#hsl_person_id_905">
+                  <persName>Suppé, Franz von</persName>
+               </author>
+               <author ref="#hsl_person_id_6106">
+                  <persName>Kohl von Kohlenegg, Leopold</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300159234</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_sch%C3%B6ne_Galath%C3%A9e_(Supp%C3%A9%2C_Franz_von)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4228" resp="#awilfing" cert="high">
+               <title type="main">Don Cesar</title>
+               <author ref="#hsl_person_id_6107">
+                  <persName>Dellinger, Rudolf</persName>
+               </author>
+               <author ref="#hsl_person_id_6108">
+                  <persName>Walther, Oscar</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1218738006</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Don_Cesar_(Dellinger,_Rudolf)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4229" resp="#awilfing" cert="high">
+               <title type="main">Der Rehbock oder die schuldlosen Schuldbewußten</title>
+               <author ref="#hsl_person_id_925">
+                  <persName>Kotzebue, August von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10135802?page=6,7</idno>
             </bibl>
       </listBibl>
       </body>
