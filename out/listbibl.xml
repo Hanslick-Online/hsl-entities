@@ -15827,7 +15827,7 @@
                <title type="main">Neujahrsblatt der Allgemeinen Musikgesellschaft in Zürich</title>
             </bibl>
             <bibl xml:id="hsl_work_id_1656" resp="#awilfing" cert="high">
-               <title type="main">Immer leiser wird mein Schlummer, op. 105 Nr. 2</title>
+               <title type="main">Immer leiser wird mein Schlummer , op. 105 Nr. 2</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_1585">5 Lieder für Singstimme und Klavier, op. 105</note>
                </noteGrp>
@@ -28629,6 +28629,7 @@
                <author ref="#hsl_person_id_3470">
                   <persName>Pasqué, Ernst</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6115">Astorga</name>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Astorga_(Abert,_Johann_Joseph)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3105" resp="#awilfing" cert="high">
@@ -33381,6 +33382,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3660" resp="#awilfing" cert="high">
                <title type="main">Ueber das Dirigieren</title>
+               <title type="alternative">Vom Dirigiren</title>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
                </author>
@@ -38164,6 +38166,7 @@
                <author ref="#hsl_person_id_1603">
                   <persName>Groth, Klaus</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1317621603</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11670070?page=188,189</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4233" resp="#awilfing" cert="high">
@@ -38226,6 +38229,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4238" resp="#awilfing" cert="high">
                <title type="main">Auf dem Kirchhofe, op. 105 Nr. 4</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_1585">5 Lieder für Singstimme und Klavier, op. 105</note>
+               </noteGrp>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
@@ -38304,6 +38310,321 @@
                   <note type="Werkbezug" target="hsl_work_id_820">Bibel</note>
                   <note type="Werkbezug" target="hsl_work_id_1028">Altes Testament</note>
                </noteGrp>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4249" resp="#awilfing" cert="high">
+               <title type="main">Auf dem Kirchhofe</title>
+               <author ref="#hsl_person_id_6120">
+                  <persName>Liliencron, Detlev von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1225130883</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.deutschestextarchiv.de/book/view/liliencron_adjutantenritte_1883?p=39</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4250" resp="#awilfing" cert="high">
+               <title type="main">Verrat, op. 105 Nr. 5</title>
+               <title type="alternative">Verrath</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_1585">5 Lieder für Singstimme und Klavier, op. 105</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_3266">
+                  <persName>Lemcke, Carl von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1198317426</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/5_Lieder,_Op.105_(Brahms,_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4251" resp="#awilfing" cert="high">
+               <title type="main">Meine Lieder, op. 106 Nr. 4</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_1586">5 Lieder für Singstimme und Klavier, op. 106</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_6138">
+                  <persName>Frey, Adolf</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1198176458</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/5_Lieder,_Op.106_(Brahms,_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4252" resp="#awilfing" cert="high">
+               <title type="main">Ein Wanderer, op. 106 Nr. 5</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_1586">5 Lieder für Singstimme und Klavier, op. 106</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_5497">
+                  <persName>Köstlin, Reinhold</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1198319569</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/5_Lieder,_Op.106_(Brahms,_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4253" resp="#awilfing" cert="high">
+               <title type="main">Immer leiser wird mein Schlummer</title>
+               <author ref="#hsl_person_id_2096">
+                  <persName>Lingg, Hermann</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1317627288</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10114029?page=82,83</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4254" resp="#awilfing" cert="high">
+               <title type="main">Nachtwache, op. 104 Nr. 2</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3385">5 Gesänge für gemischten Chor, op. 104</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_1824">
+                  <persName>Rückert, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300347758</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/5_Ges%C3%A4nge%2C_Op.104_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4255" resp="#awilfing" cert="high">
+               <title type="main">He, Zigeuner, greife in die Saiten ein!, op. 103 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_624">11 Zigeunerlieder für 4 Singstimmen und Klavier, op. 103</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_3482">
+                  <persName>Conrat, Hugo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1178960412</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zigeunerlieder%2C_Op.103_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4256" resp="#awilfing" cert="high">
+               <title type="main">Verlorene Jugend, op. 104 Nr. 4</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3385">5 Gesänge für gemischten Chor, op. 104</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_2147">
+                  <persName>Wenzig, Josef</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1126286699</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/5_Ges%C3%A4nge%2C_Op.104_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4257" resp="#awilfing" cert="high">
+               <title type="main">Im Herbst, op. 104 Nr. 5</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3385">5 Gesänge für gemischten Chor, op. 104</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_1603">
+                  <persName>Groth, Klaus</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300025424</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/5_Ges%C3%A4nge%2C_Op.104_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4258" resp="#awilfing" cert="high">
+               <title type="main">Neue Liebeslieder-Walzer, op. 65</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_2692">
+                  <persName>Daumer, Georg Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300025742</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Neue_Liebeslieder_Waltzes%2C_Op.65_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4259" resp="#awilfing" cert="high">
+               <title type="main">Hochgetürmte Rimaflut, op. 103 Nr. 2</title>
+               <title type="alternative">Hochgethürmte Rimafluth</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_624">11 Zigeunerlieder für 4 Singstimmen und Klavier, op. 103</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_3482">
+                  <persName>Conrat, Hugo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1178960897</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zigeunerlieder%2C_Op.103_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4260" resp="#awilfing" cert="high">
+               <title type="main">Wißt ihr, wann mein Kindchen am allerschönsten ist?, op 103 Nr. 3</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_624">11 Zigeunerlieder für 4 Singstimmen und Klavier, op. 103</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_3482">
+                  <persName>Conrat, Hugo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1191712605</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zigeunerlieder%2C_Op.103_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4261" resp="#awilfing" cert="high">
+               <title type="main">Lieber Gott, du weißt, op. 103 Nr. 4</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_624">11 Zigeunerlieder für 4 Singstimmen und Klavier, op. 103</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_3482">
+                  <persName>Conrat, Hugo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1191712648</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zigeunerlieder%2C_Op.103_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4262" resp="#awilfing" cert="high">
+               <title type="main">Brauner Bursche führt zum Tanze, op. 103 Nr. 5</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_624">11 Zigeunerlieder für 4 Singstimmen und Klavier, op. 103</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_3482">
+                  <persName>Conrat, Hugo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1178961877</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zigeunerlieder%2C_Op.103_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4263" resp="#awilfing" cert="high">
+               <title type="main">Röslein dreie in der Reihe blühn so rot, op. 103 Nr. 6</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_624">11 Zigeunerlieder für 4 Singstimmen und Klavier, op. 103</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_3482">
+                  <persName>Conrat, Hugo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1191712699</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zigeunerlieder%2C_Op.103_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4264" resp="#awilfing" cert="high">
+               <title type="main">Kommt dir manchmal in den Sinn, op. 103 Nr. 7</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_624">11 Zigeunerlieder für 4 Singstimmen und Klavier, op. 103</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_3482">
+                  <persName>Conrat, Hugo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1191712745</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zigeunerlieder%2C_Op.103_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4265" resp="#awilfing" cert="high">
+               <title type="main">Horch, der Wind klagt in den Zweigen traurig sacht, op. 103 Nr. 8</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_624">11 Zigeunerlieder für 4 Singstimmen und Klavier, op. 103</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_3482">
+                  <persName>Conrat, Hugo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1178961397</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zigeunerlieder%2C_Op.103_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4266" resp="#awilfing" cert="high">
+               <title type="main">Weit und breit schaut niemand mich an, op. 103 Nr. 9</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_624">11 Zigeunerlieder für 4 Singstimmen und Klavier, op. 103</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_3482">
+                  <persName>Conrat, Hugo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1191712788</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zigeunerlieder%2C_Op.103_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4267" resp="#awilfing" cert="high">
+               <title type="main">Mond verhüllt sein Angesicht, op. 103 Nr. 10</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_624">11 Zigeunerlieder für 4 Singstimmen und Klavier, op. 103</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_3482">
+                  <persName>Conrat, Hugo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/119171280X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zigeunerlieder%2C_Op.103_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4268" resp="#awilfing" cert="medium">
+               <title type="main">Rote Abendwolken ziehn am Firmament, op. 103 Nr. 11</title>
+               <title type="alternative">Rothe Abendwolken ziehen</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_624">11 Zigeunerlieder für 4 Singstimmen und Klavier, op. 103</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_3482">
+                  <persName>Conrat, Hugo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1191712826</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zigeunerlieder%2C_Op.103_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4269" resp="#awilfing" cert="high">
+               <title type="main">An die Stolze</title>
+               <author ref="#hsl_person_id_6121">
+                  <persName>Fleming, Paul</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1324076380</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10108097?page=506,507</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4270" resp="#awilfing" cert="medium">
+               <title type="main">A-B-C der Aesthetik</title>
+               <author ref="#hsl_person_id_6127">
+                  <persName>Grün, Albert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4271" resp="#awilfing" cert="medium">
+               <title type="main">Zur Reform der modernen Kunst. Eine Studie zur neuesten Kunstgeschichte</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4272" resp="#awilfing" cert="medium">
+               <title type="main">Über die ästhetische Erziehung des Menschen</title>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4273" resp="#awilfing" cert="medium">
+               <title type="main">Neue Lehre von den Proportionen des menschlichen Körpers</title>
+               <author ref="#hsl_person_id_6126">
+                  <persName>Zeising, Adolf</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4274" resp="#awilfing" cert="medium">
+               <title type="main">Poetik</title>
+               <author ref="#hsl_person_id_6123">
+                  <persName>Carriere, Moritz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4275" resp="#awilfing" cert="medium">
+               <title type="main">Philosophisches Journal einer Gesellschaft Teutscher Gelehrten</title>
+               <author ref="#hsl_person_id_6140">
+                  <persName>Fichte, Johann Gottlieb</persName>
+               </author>
+               <author ref="#hsl_person_id_6141">
+                  <persName>Niethammer, Friedrich Immanuel</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4276" resp="#awilfing" cert="medium">
+               <title type="main">L'avant d'homme</title>
             </bibl>
       </listBibl>
       </body>
