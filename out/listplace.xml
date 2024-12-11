@@ -3296,7 +3296,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1607</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4094610-1</idno>
                </place>
-               <place xml:id="hsl_place_id_272" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_272" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Amsterdam</placeName>
                   </settlement>
@@ -3457,7 +3457,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q193877</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4399130-0</idno>
                </place>
-               <place xml:id="hsl_place_id_285" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_285" resp="#awilfing" cert="high">
                   <settlement type="L">
                      <placeName type="main">Berry</placeName>
                   </settlement>
@@ -8195,6 +8195,26 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2969679/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q621</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4063142-4</idno>
+               </place>
+               <place xml:id="hsl_place_id_734" resp="#awilfing" cert="high">
+                  <placeName type="main">Brighton</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2654710/</idno>
+               </place>
+               <place xml:id="hsl_place_id_735" resp="#awilfing" cert="high">
+                  <placeName type="main">Fontanello</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/8952620/</idno>
+               </place>
+               <place xml:id="hsl_place_id_736" resp="#awilfing" cert="high">
+                  <placeName type="main">Rue Richelieu, Paris</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12494823/</idno>
+               </place>
+               <place xml:id="hsl_place_id_737" resp="#awilfing" cert="high">
+                  <placeName type="main">Rue Le Peletier, Paris</placeName>
+                     <placeName type="alternative">Rue Lepelletier</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12522867/</idno>
+               </place>
+               <place xml:id="hsl_place_id_738" resp="#awilfing" cert="medium">
+                  <placeName type="main"/>
                </place>
             </listPlace>
          </div>
