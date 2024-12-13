@@ -10393,6 +10393,13 @@
                <author ref="#hsl_person_id_1670">
                   <persName>Bülow, Marie von</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/briefeundschrift01bl/page/n5/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/briefeundschrift02blow/page/n5/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/briefeundschrift04bl/page/n5/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/briefeundschrift05blow/page/n5/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/briefeundschrift06blow/page/n5/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/briefeundschrift07bl/page/n5/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/briefeundschrift08bl/page/n1/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1076" resp="#awilfing" cert="high">
                <title type="main">Sonate für Klavier in h-Moll, S178</title>
@@ -16141,6 +16148,7 @@
                <author ref="#hsl_person_id_287">
                   <persName>Shakespeare, William</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6184">Petruchio</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4316949-1</idno>
                <idno type="URL" subtype="Digitalisat">https://www.folger.edu/explore/shakespeares-works/the-taming-of-the-shrew/read/</idno>
             </bibl>
@@ -23358,7 +23366,11 @@
                <title type="alternative">Volkslied</title>
             </bibl>
             <bibl xml:id="hsl_work_id_2522" resp="#awilfing" cert="high">
-               <title type="main">Iphigenia in Aulis, Bearbeitung von Christoph Willibald Glucks Tragédie-opéra, WWV77</title>
+               <title type="main">Iphigénie en Aulide (Bearbeitung, WWV77)</title>
+               <title type="alternative">Iphigenia in Aulis</title>
+               <author ref="#hsl_person_id_99">
+                  <persName>Gluck, Christoph Willibald</persName>
+               </author>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
                </author>
@@ -36983,8 +36995,9 @@
                   <persName>Offenbach, Jacques</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4094" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4094" resp="#awilfing" cert="high">
                <title type="main">Le beau Dunois</title>
+               <title type="alternative">Der schöne Ritter Dunois</title>
                <author ref="#hsl_person_id_3633">
                   <persName>Lecocq, Charles</persName>
                </author>
@@ -36994,6 +37007,7 @@
                <author ref="#hsl_person_id_5950">
                   <persName>Duru, Alfred</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_beau_Dunois_(Lecocq%2C_Charles)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4095" resp="#awilfing" cert="high">
                <title type="main">Symphonie Nr. 2 in Es-Dur, op. 35</title>
@@ -37024,30 +37038,35 @@
                   <persName>Schenk, Eduard von</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4099" resp="#awilfing" cert="medium">
-               <title type="main">Concerto symphonique Nr.3 in Es-Dur, op.45</title>
+            <bibl xml:id="hsl_work_id_4099" resp="#awilfing" cert="high">
+               <title type="main">Concerto symphonique Nr. 3 in Es-Dur, op.45</title>
+               <title type="alternative">Symphonie nationale hollandaise</title>
                <author ref="#hsl_person_id_5951">
                   <persName>Litolff, Henry</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1071676814</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Concerto_Symphonique_No.3,_Op.45_(Litolff,_Henry_Charles)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4100" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4100" resp="#awilfing" cert="high">
                <title type="main">Symphonisches Konzert für Violine und Orchester, op. 42</title>
                <title type="alternative">Eroica</title>
                <author ref="#hsl_person_id_5951">
                   <persName>Litolff, Henry</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4101" resp="#awilfing" cert="medium">
-               <title type="main">Concerto Symphonique Nr. 2 in h-Moll, op. 22</title>
+            <bibl xml:id="hsl_work_id_4101" resp="#awilfing" cert="high">
+               <title type="main">Concerto symphonique Nr. 2 in h-Moll, op. 22</title>
                <author ref="#hsl_person_id_5951">
                   <persName>Litolff, Henry</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4102" resp="#awilfing" cert="medium">
-               <title type="main">Scherzo Nr. 2 in b-Moll, op. 31</title>
+            <bibl xml:id="hsl_work_id_4102" resp="#awilfing" cert="high">
+               <title type="main">Scherzo für Klavier Nr. 2 in b-Moll, op. 31</title>
                <author ref="#hsl_person_id_48">
                   <persName>Chopin, Frédéric</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300037813</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Scherzo_No.2%2C_Op.31_(Chopin%2C_Fr%C3%A9d%C3%A9ric)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4103" resp="#awilfing" cert="high">
                <title type="main">Franz Grillparzers sämtliche Werke (4. Ausgabe in 16 Bänden)</title>
@@ -37095,43 +37114,43 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/smmtlichewerke05grilgoog/page/n203/</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4110" resp="#awilfing" cert="medium">
-               <title type="main">Klavierkonzert Nr. 2 in Es-Dur, J155</title>
+            <bibl xml:id="hsl_work_id_4110" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Klavier und Orchester Nr. 2 in Es-Dur, J155</title>
                <author ref="#hsl_person_id_321">
                   <persName>Weber, Carl Maria von</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300171633</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Concerto_No.2_in_E-flat_major%2C_Op.32_(Weber%2C_Carl_Maria_von)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4111" resp="#awilfing" cert="medium">
-               <title type="main">Scherzo</title>
+            <bibl xml:id="hsl_work_id_4111" resp="#awilfing" cert="high">
+               <title type="main">Scherzo für Klavier in gis-Moll, op. 115</title>
                <author ref="#hsl_person_id_5951">
                   <persName>Litolff, Henry</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Scherzo%2C_Op.115_(Litolff%2C_Henry_Charles)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4112" resp="#awilfing" cert="medium">
-               <title type="main">Aven</title>
+            <bibl xml:id="hsl_work_id_4112" resp="#awilfing" cert="high">
+               <title type="main">L'aveu für Klavier, op. 31 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4304">2 Morceaux für Klavier, op. 31</note>
+               </noteGrp>
                <author ref="#hsl_person_id_5544">
-                  <persName>Leschetitzkiy, Theodor</persName>
+                  <persName>Leschetizky, Theodor</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/2_Piano_Pieces,_Op.31_(Leschetizky,_Theodor)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4113" resp="#awilfing" cert="high">
+               <title type="main">Mazurka für Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_5544">
+                  <persName>Leschetizky, Theodor</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4113" resp="#awilfing" cert="medium">
-               <title type="main">Mazurka</title>
-               <author ref="#hsl_person_id_5544">
-                  <persName>Leschetitzkiy, Theodor</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_4114" resp="#awilfing" cert="medium">
-               <title type="main">Gavotte</title>
+            <bibl xml:id="hsl_work_id_4114" resp="#awilfing" cert="high">
+               <title type="main">Gavotte für Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_5953">
                   <persName>Silas, Edouard</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_4115" resp="#awilfing" cert="medium">
-               <title type="main">Romanze des Siébel</title>
-               <noteGrp type="Werkbezug">
-                  <note type="Werkbezug" target="hsl_work_id_199">Faust, CG4</note>
-               </noteGrp>
-               <author ref="#hsl_person_id_102">
-                  <persName>Gounod, Charles</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_4116" resp="#awilfing" cert="medium">
@@ -37140,20 +37159,24 @@
                   <persName>Lewy, Karl</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4117" resp="#awilfing" cert="medium">
-               <title type="main">Russisches Wiegenlied</title>
+            <bibl xml:id="hsl_work_id_4117" resp="#awilfing" cert="high">
+               <title type="main">Wiegenlied</title>
+               <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_5914">
                   <persName>Lewy, Karl</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4118" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4118" resp="#awilfing" cert="high">
                <title type="main">Die Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates und ihr Conservatorium</title>
+               <title type="alternative">Die Gesellschaft der Musikfreunde und ihr Conservatorium</title>
                <author ref="#hsl_person_id_3866">
                   <persName>Pohl, Carl Ferdinand</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011703?page=4,5</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4119" resp="#awilfing" cert="medium">
-               <title type="main">Allegro</title>
+               <title type="main">Allegro für Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_321">
                   <persName>Weber, Carl Maria von</persName>
                </author>
@@ -38710,10 +38733,18 @@
                <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k64894595/f7.item</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4289" resp="#awilfing" cert="high">
-               <title type="main"/>
+               <title type="main">Sørgemarsch ved Thorvaldsens Bisættelse</title>
+               <author ref="#hsl_person_id_6169">
+                  <persName>Hartmann, Johan Peter Emilius</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Trauermarsch_zu_Thorwaldsens_Beisetzung_(Hartmann%2C_Johan_Peter_Emilius)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4290" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_4290" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Violine und Orchester</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_1042">
+                  <persName>Grieg, Edvard</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_4291" resp="#awilfing" cert="high">
                <title type="main">Diamantkorset</title>
@@ -38730,6 +38761,110 @@
                <title type="alternative">Die Rose der Karpathen</title>
                <author ref="#hsl_person_id_6047">
                   <persName>Saloman, Siegfried</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4293" resp="#awilfing" cert="high">
+               <title type="main">Symphonie Nr. 2 in E-Dur, op. 10</title>
+               <author ref="#hsl_person_id_94">
+                  <persName>Gade, Niels Wilhelm</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300600690</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.2%2C_Op.10_(Gade%2C_Niels)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4294" resp="#awilfing" cert="high">
+               <title type="main">Den Bergtagna</title>
+               <title type="alternative">Der Bergkönig</title>
+               <author ref="#hsl_person_id_6046">
+                  <persName>Hallström, Ivar</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4295" resp="#awilfing" cert="high">
+               <title type="main">Kühl, nicht lau, WoO191</title>
+               <title type="alternative">Sei kuhl, nicht lau</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4297" resp="#awilfing" cert="high">
+               <title type="main">Elverhøj, op. 100</title>
+               <title type="alternative">Elverhoye; Elfenhügel</title>
+               <author ref="#hsl_person_id_6164">
+                  <persName>Kuhlau, Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_6178">
+                  <persName>Heiberg, Johan L.</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300564945</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Elverh%C3%B8j%2C_Op.100_(Kuhlau%2C_Friedrich)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4298" resp="#awilfing" cert="high">
+               <title type="main">Kong Christian stod ved højen mast</title>
+               <title type="alternative">Held Christian stand am hohen Mast</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4299" resp="#awilfing" cert="high">
+               <title type="main">Der var engang</title>
+               <title type="alternative">Es war einmal</title>
+               <author ref="#hsl_person_id_1821">
+                  <persName>Drachmann, Holger</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_6182">Prinsessen</name>
+               <name type="character" ref="#hsl_person_id_6183">Prinsen</name>
+               <idno type="URL" subtype="Digitalisat">https://www.kb.dk/e-mat/dod/130023567475_bw.pdf</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4300" resp="#awilfing" cert="medium">
+               <title type="main">Skandinavische Concertreiseskizzen</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_1075">Briefe und Schriften</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_44">
+                  <persName>Bülow, Hans von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://books.google.at/books?id=OHTXIdRzCr4C&amp;hl=de&amp;pg=PA408</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4302" resp="#awilfing" cert="high">
+               <title type="main">Les amours champêtres, Wq. 55</title>
+               <author ref="#hsl_person_id_99">
+                  <persName>Gluck, Christoph Willibald</persName>
+               </author>
+               <author ref="#hsl_person_id_3850">
+                  <persName>Favart, Charles Simon</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_6185">Helene</name>
+               <name type="character" ref="#hsl_person_id_6186">Richard</name>
+               <name type="character" ref="#hsl_person_id_6187">Damon</name>
+               <name type="character" ref="#hsl_person_id_6188">Lisette</name>
+               <name type="character" ref="#hsl_person_id_6189">Philint</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4303" resp="#awilfing" cert="medium">
+               <title type="main">Die Maienkönigin</title>
+               <title type="alternative">Bearbeitung von Les amours champêtres</title>
+               <author ref="#hsl_person_id_1065">
+                  <persName>Kalbeck, Max</persName>
+               </author>
+               <author ref="#hsl_person_id_2405">
+                  <persName>Fuchs, Johann Nepomuk</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4304" resp="#awilfing" cert="high">
+               <title type="main">2 Morceaux für Klavier, op. 31</title>
+               <author ref="#hsl_person_id_5544">
+                  <persName>Leschetizky, Theodor</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/2_Piano_Pieces,_Op.31_(Leschetizky,_Theodor)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4305" resp="#awilfing" cert="high">
+               <title type="main">Zwiegesang, op. 28 Nr. 2</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4306">2 Lieder für Singstimme und Klavier, op. 28</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_5544">
+                  <persName>Leschetizky, Theodor</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4306" resp="#awilfing" cert="high">
+               <title type="main">2 Lieder für Singstimme und Klavier, op. 28</title>
+               <author ref="#hsl_person_id_5544">
+                  <persName>Leschetizky, Theodor</persName>
                </author>
             </bibl>
       </listBibl>
