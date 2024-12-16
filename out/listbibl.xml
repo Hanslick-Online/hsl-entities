@@ -21826,7 +21826,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2331" resp="#awilfing" cert="high">
                <title type="main">Die Presse</title>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4393498-5</idno>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4456990-7</idno>
                <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=apr</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2332" resp="#awilfing" cert="high">
@@ -24004,6 +24004,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2593" resp="#awilfing" cert="high">
                <title type="main">Liederkreis, op. 39</title>
+               <title type="alternative">Eichendorff'scher Liederkreis</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
@@ -24015,6 +24016,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2594" resp="#awilfing" cert="high">
                <title type="main">Liederkreis nach Heinrich Heine, op. 24</title>
+               <title type="alternative">Heine'scher Liederkreis</title>
                <author ref="#hsl_person_id_116">
                   <persName>Heine, Heinrich</persName>
                </author>
@@ -28910,6 +28912,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3133" resp="#awilfing" cert="high">
                <title type="main">La fille mal gardée</title>
+               <title type="alternative">Übelgehütetes Mädchen</title>
                <author ref="#hsl_person_id_122">
                   <persName>Hérold, Ferdinand</persName>
                </author>
@@ -36144,6 +36147,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3977" resp="#awilfing" cert="high">
                <title type="main">Symphonie in C-Dur, Hob. I:48</title>
+               <title type="alternative">Maria Theresia</title>
                <author ref="#hsl_person_id_114">
                   <persName>Haydn, Joseph</persName>
                </author>
@@ -36462,10 +36466,6 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1252297963</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Concerto_No.1,_Op.10_(Br%C3%BCll,_Ignaz)</idno>
-            </bibl>
-            <bibl xml:id="hsl_work_id_4015" resp="#awilfing" cert="medium">
-               <title type="main">Übergehütetes Mädchen</title>
-               <title type="alternative">unklarer Bezug</title>
             </bibl>
             <bibl xml:id="hsl_work_id_4016" resp="#awilfing" cert="medium">
                <title type="main">Etude für Klavier in f-Moll, op. 25 Nr. 2</title>
@@ -38914,6 +38914,54 @@
                </author>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4313" resp="#awilfing" cert="high">
+               <title type="main">L’infedeltà delusa, Hob. XXVIII:5</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <author ref="#hsl_person_id_4289">
+                  <persName>Coltellini, Marco</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300069138</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4314" resp="#awilfing" cert="high">
+               <title type="main">Philemon und Baucis, oder Jupiters Reise auf die Erde, Hob. XXIXa:1</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300989245</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4315" resp="#awilfing" cert="high">
+               <title type="main">Der Schmied, op. 145 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3429">5 Romanzen und Balladen für gemischten Chor, op. 145</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_310">
+                  <persName>Uhland, Ludwig</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30014637X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Romanzen_und_Balladen%2C_Op.145_(Schumann%2C_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4316" resp="#awilfing" cert="high">
+               <title type="main">Minnespiel, op. 101</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_1824">
+                  <persName>Rückert, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300263457</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Minnespiel%2C_Op.101_(Schumann%2C_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4317" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Klavier und Orchester in A-Dur</title>
+               <author ref="#hsl_person_id_6205">
+                  <persName>Rosenhain, Jakob</persName>
                </author>
             </bibl>
       </listBibl>
