@@ -499,6 +499,7 @@
                <author ref="#hsl_person_id_287">
                   <persName>Shakespeare, William</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6212">Sir John Falstaff</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099364-4</idno>
                <idno type="URL" subtype="Digitalisat">https://www.folger.edu/explore/shakespeares-works/the-merry-wives-of-windsor/read/</idno>
             </bibl>
@@ -18112,7 +18113,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1914" resp="#awilfing" cert="high">
-               <title type="main">Fugen</title>
+               <title type="main">Fuge</title>
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
@@ -26121,7 +26122,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2829" resp="#awilfing" cert="high">
-               <title type="main">Sonate für Cello und Klavier in F-Dur, op. 99</title>
+               <title type="main">Sonate für Cello und Klavier Nr. 2 in F-Dur, op. 99</title>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
@@ -37180,18 +37181,24 @@
                   <persName>Weber, Carl Maria von</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4120" resp="#awilfing" cert="medium">
-               <title type="main">Der blonde Eckbert</title>
+            <bibl xml:id="hsl_work_id_4120" resp="#awilfing" cert="high">
+               <title type="main">Der blonde Ekbert</title>
+               <title type="alternative">Der blonde Eckbert / Eckhart</title>
                <author ref="#hsl_person_id_306">
                   <persName>Tieck, Ludwig</persName>
                </author>
                <name type="character" ref="#hsl_person_id_5969">Bertha</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4132902-8</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/kpbc.umk.pl.Magazyn_448_07_270880/page/18/mode/2up</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4121" resp="#awilfing" cert="medium">
-               <title type="main">Ouvertüre zu Ludwig Tiecks Märchen Der blonde Eckbert, op. 8</title>
+            <bibl xml:id="hsl_work_id_4121" resp="#awilfing" cert="high">
+               <title type="main">Ouvertüre zu Ludwig Tiecks Märchen "Der blonde Ekbert", op. 8</title>
+               <title type="alternative">Der blonde Eckbert / Eckhart</title>
                <author ref="#hsl_person_id_2040">
                   <persName>Rudorff, Ernst</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1204389349</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ouverture_zu_'Der_blonde_Ekbert'%2C_Op.8_(Rudorff%2C_Ernst)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4122" resp="#awilfing" cert="high">
                <title type="main">Konzert für Violine und Orchester in D-Dur</title>
@@ -38963,6 +38970,141 @@
                <author ref="#hsl_person_id_6205">
                   <persName>Rosenhain, Jakob</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4318" resp="#awilfing" cert="high">
+               <title type="main">Trio für Violine, Cello und Klavier Nr. 2 in C-Dur, op. 87</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300027192</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Trio_No.2,_Op.87_(Brahms,_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4319" resp="#awilfing" cert="high">
+               <title type="main">Variationen über ein Thema von Haydn für Orchester, op. 56</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300027311</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Variations_on_a_Theme_by_Haydn,_Op.56_(Brahms,_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4320" resp="#awilfing" cert="high">
+               <title type="main">Nachtwache</title>
+               <author ref="#hsl_person_id_1824">
+                  <persName>Rückert, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://www.digitale-sammlungen.de/de/view/bsb10117425?page=294,295</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4321" resp="#awilfing" cert="high">
+               <title type="main">Robert Schumann's Briefe. Neue Folge</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_6207">
+                  <persName>Jansen, Friedrich Gustav</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://digital.ub.uni-duesseldorf.de/ihd/content/titleinfo/2401782</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4322" resp="#awilfing" cert="high">
+               <title type="main">Sonate für Violine und Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4323" resp="#awilfing" cert="high">
+               <title type="main">Trio</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4324" resp="#awilfing" cert="high">
+               <title type="main">Quartett</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4325" resp="#awilfing" cert="high">
+               <title type="main">Variationen für Violine</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_6209">
+                  <persName>Artót, Alexandre Joseph Montaguey</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4326" resp="#awilfing" cert="high">
+               <title type="main">Das Schwabenmädchen</title>
+               <title type="alternative">unklarer Bezug</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4327" resp="#awilfing" cert="high">
+               <title type="main">Grande fantaisie et variations sur des thêmes favoris de l'opéra Guillaume Tell de Rossini, op. 28</title>
+               <title type="alternative">Phantasie über Rossini's "Tell"</title>
+               <author ref="#hsl_person_id_5917">
+                  <persName>Döhler, Theodor</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1188639161</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Grande_fantaisie_et_variations_sur_des_th%C3%AAmes_favoris_de_'Guillaume_Tell'%2C_Op.28_(D%C3%B6hler%2C_Theodor)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4328" resp="#awilfing" cert="high">
+               <title type="main">Variationen für Klarinette</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_6210">
+                  <persName>Herzog, ?</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4329" resp="#awilfing" cert="high">
+               <title type="main">Der Tanz</title>
+               <title type="alternative">unklarer Bezug</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4330" resp="#awilfing" cert="high">
+               <title type="main">Der Fischer</title>
+               <title type="alternative">unklarer Bezug</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4331" resp="#awilfing" cert="high">
+               <title type="main">Etüde für Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_3137">
+                  <persName>Herz, Henri</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4332" resp="#awilfing" cert="high">
+               <title type="main">Serenade für die linke Hand für Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_2693">
+                  <persName>Marxsen, Eduard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4333" resp="#awilfing" cert="high">
+               <title type="main">Phantasie für Cello</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_6196">
+                  <persName>Arien, Gustav Adolph d'</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4334" resp="#awilfing" cert="high">
+               <title type="main">Thematisches Verzeichniss im Druck erschienener Compositionen von Felix Mendelssohn Bartholdy</title>
+               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Thematisches_Verzeichnis_im_Druck_erschi/o6QqLvA4IgoC?hl=de&amp;gbpv=1&amp;pg=PP5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4335" resp="#awilfing" cert="high">
+               <title type="main">Thematisches Verzeichniss sämmtlicher im Druck erschienen Werke Robert Schumann's</title>
+               <idno type="URL" subtype="Digitalisat">https://www.google.com/books/edition/Thematisches_Verzeichniss_s%C3%A4mmtlicher_i/bCJDAAAAcAAJ?hl=de&amp;gbpv=1&amp;pg=PP11</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4336" resp="#awilfing" cert="high">
+               <title type="main">Bücher Moses (Genesis, Exodus, Leviticus, Numeri, Deuteronomium)</title>
+               <title type="alternative">Bücher Mosis</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_820">Bibel</note>
+                  <note type="Werkbezug" target="hsl_work_id_1028">Altes Testament</note>
+               </noteGrp>
+               <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/gen1.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4337" resp="#awilfing" cert="high">
+               <title type="main">Athalie</title>
+               <author ref="#hsl_person_id_223">
+                  <persName>Racine, Jean</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4264373-9</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k5543079m</idno>
             </bibl>
       </listBibl>
       </body>
