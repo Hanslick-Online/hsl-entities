@@ -3112,6 +3112,7 @@
                <name type="character" ref="#hsl_person_id_2957">Bassi</name>
                <name type="character" ref="#hsl_person_id_6074">Malvolio</name>
                <name type="character" ref="#hsl_person_id_6075">Barbarino</name>
+               <name type="character" ref="#hsl_person_id_6220">Leonore</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300442602</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Alessandro_Stradella_(Flotow,_Friedrich_von)</idno>
             </bibl>
@@ -20735,6 +20736,7 @@
                <author ref="#hsl_person_id_3658">
                   <persName>Hassreiter, Josef</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6221">Puppenfee</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300014430</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Puppenfee_(Bayer%2C_Josef)</idno>
             </bibl>
@@ -26669,7 +26671,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2891" resp="#awilfing" cert="high">
                <title type="main">Des Teutschen Vaterland</title>
-               <title type="alternative">Was ist des deutschen Vaterland?</title>
+               <title type="alternative">Des Deutschen Vaterland; Was ist des deutschen Vaterland?</title>
                <author ref="#hsl_person_id_4569">
                   <persName>Arndt, Ernst Moritz</persName>
                </author>
@@ -35136,7 +35138,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3868" resp="#awilfing" cert="high">
                <title type="main">Des Teutschen Vaterland</title>
-               <title type="alternative">Deutsches Vaterland</title>
+               <title type="alternative">Des Deutschen Vaterland; Deutsches Vaterland</title>
                <author ref="#hsl_person_id_556">
                   <persName>Zelter, Carl Friedrich</persName>
                </author>
@@ -36836,29 +36838,31 @@
                <author ref="#hsl_person_id_5899">
                   <persName>Wilhelm, Carl</persName>
                </author>
+               <author ref="#hsl_person_id_6223">
+                  <persName>Schneckenburger, Max</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4532036-6</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Wacht_am_Rhein_(Wilhelm,_Karl)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4069" resp="#awilfing" cert="medium">
-               <title type="main">Duftige Jugendzeit, o wie so weit!</title>
+            <bibl xml:id="hsl_work_id_4069" resp="#awilfing" cert="high">
+               <title type="main">Bächlein am Wiesenrand, rinnst du noch immer?</title>
+               <author ref="#hsl_person_id_238">
+                  <persName>Rodenberg, Julius</persName>
+               </author>
                <author ref="#hsl_person_id_274">
                   <persName>Schön, Eduard</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4070" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4070" resp="#awilfing" cert="high">
                <title type="main">Weißenburger Sturmmarsch</title>
-               <author ref="#hsl_person_id_5901">
-                  <persName>Kern, Carl August</persName>
-               </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4071" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4071" resp="#awilfing" cert="high">
                <title type="main">Hurrah Germania</title>
-               <author ref="#hsl_person_id_5902">
-                  <persName>Mertke, Eduard</persName>
-               </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4072" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4072" resp="#awilfing" cert="high">
                <title type="main">Wörther Siegesmarsch</title>
             </bibl>
-            <bibl xml:id="hsl_work_id_4073" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4073" resp="#awilfing" cert="high">
                <title type="main">Der Sieg von Saarbrücken</title>
             </bibl>
             <bibl xml:id="hsl_work_id_4074" resp="#awilfing" cert="high">
@@ -39105,6 +39109,29 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4264373-9</idno>
                <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k5543079m</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4338" resp="#awilfing" cert="high">
+               <title type="main">Il Barcheggio</title>
+               <author ref="#hsl_person_id_424">
+                  <persName>Stradella, Alessandro</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300555954</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Il_Barcheggio_(Stradella%2C_Alessandro)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4339" resp="#awilfing" cert="high">
+               <title type="main">La poupée de Nuremberg</title>
+               <title type="alternative">Die Nürnberger Puppe</title>
+               <author ref="#hsl_person_id_12">
+                  <persName>Adam, Adolphe</persName>
+               </author>
+               <author ref="#hsl_person_id_2074">
+                  <persName>Leuven, Adolphe de</persName>
+               </author>
+               <author ref="#hsl_person_id_6222">
+                  <persName>Beauplan, Arthur de</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300915640</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_poup%C3%A9e_de_Nuremberg_(Adam,_Adolphe)</idno>
             </bibl>
       </listBibl>
       </body>
