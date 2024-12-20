@@ -14346,6 +14346,7 @@
                <name type="character" ref="#hsl_person_id_5945">Belisario</name>
                <name type="character" ref="#hsl_person_id_5988">Alamiro</name>
                <name type="character" ref="#hsl_person_id_5989">Irene</name>
+               <name type="character" ref="#hsl_person_id_5990">Antonina</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300694342</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Belisario_(Donizetti,_Gaetano)</idno>
             </bibl>
@@ -36899,6 +36900,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4078" resp="#awilfing" cert="high">
                <title type="main">Robert Schumann und seine Cantate "Das Paradies und die Peri"</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4341">Ost und West. Blätter für Kunst, Literatur und geselliges Leben</note>
+               </noteGrp>
                <author ref="#hsl_person_id_1">
                   <persName>Hanslick, Eduard</persName>
                </author>
@@ -36906,6 +36910,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4079" resp="#awilfing" cert="high">
                <title type="main">Ouvertüre zu Grillparzers Esther, op. 8</title>
+               <title type="alternative">Ouvertüre zu Grillparzer's Esther; Dramatische Ouvertüre</title>
                <author ref="#hsl_person_id_2417">
                   <persName>Albert, Eugen d'</persName>
                </author>
@@ -37030,7 +37035,7 @@
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10108987?page=104,105</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4097" resp="#awilfing" cert="high">
-               <title type="main">Faust, op, 40</title>
+               <title type="main">Faust, op. 40</title>
                <author ref="#hsl_person_id_5954">
                   <persName>Zöllner, Heinrich</persName>
                </author>
@@ -39142,6 +39147,36 @@
                   <persName>Liszt, Franz</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k448378b/f1.item</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4341" resp="#awilfing" cert="high">
+               <title type="main">Ost und West. Blätter für Kunst, Literatur und geselliges Leben</title>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4172919-5</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/static_tables/ouw.htm</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4342" resp="#awilfing" cert="high">
+               <title type="main">Marsch nach Motiven der Oper Zampa</title>
+               <author ref="#hsl_person_id_1150">
+                  <persName>Strauss senior, Johann</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Marsch_nach_Motiven_der_Oper:_Zampa_(Strauss_Sr.,_Johann)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4343" resp="#awilfing" cert="high">
+               <title type="main">Zampa-Walzer, op. 57</title>
+               <author ref="#hsl_person_id_1150">
+                  <persName>Strauss senior, Johann</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1099350166</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zampa-Walzer,_Op.57_(Strauss_Sr.,_Johann)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4344" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4345" resp="#awilfing" cert="high">
+               <title type="main">Zampa-Galopp, op 62</title>
+               <author ref="#hsl_person_id_1150">
+                  <persName>Strauss senior, Johann</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zampa-Galopp,_Op.62_(Strauss_Sr.,_Johann)</idno>
             </bibl>
       </listBibl>
       </body>
