@@ -38874,9 +38874,12 @@
                <name type="character" ref="#hsl_person_id_6188">Lisette</name>
                <name type="character" ref="#hsl_person_id_6189">Philint</name>
             </bibl>
-            <bibl xml:id="hsl_work_id_4303" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4303" resp="#awilfing" cert="high">
                <title type="main">Die Maienkönigin</title>
                <title type="alternative">Bearbeitung von Les amours champêtres</title>
+               <author ref="#hsl_person_id_99">
+                  <persName>Gluck, Christoph Willibald</persName>
+               </author>
                <author ref="#hsl_person_id_1065">
                   <persName>Kalbeck, Max</persName>
                </author>
@@ -38908,6 +38911,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4308" resp="#awilfing" cert="high">
                <title type="main">L'île de Merlin, ou Le monde renversé</title>
+               <title type="alternative">L’isle de Merlin</title>
                <author ref="#hsl_person_id_99">
                   <persName>Gluck, Christoph Willibald</persName>
                </author>
@@ -39218,6 +39222,13 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1333037759</idno>
                <idno type="URL" subtype="Digitalisat">https://www.deutschestextarchiv.de/book/view/uhland_gedichte_1815?p=45</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4347" resp="#awilfing" cert="high">
+               <title type="main">Prinz Eugen, der edle Ritter</title>
+               <author ref="#hsl_person_id_970">
+                  <persName>Freiligrath, Ferdinand</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1189450755</idno>
             </bibl>
       </listBibl>
       </body>
