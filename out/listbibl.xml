@@ -36227,7 +36227,8 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.9_in_C_major,_K.73_(Mozart,_Wolfgang_Amadeus)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3986" resp="#awilfing" cert="high">
-               <title type="main">Biographische Notizen über Ludwig von Beethoven</title>
+               <title type="main">Biographische Notizen über Ludwig van Beethoven</title>
+               <title type="alternative">Biographischen Notizen über L. von Beethoven</title>
                <author ref="#hsl_person_id_1206">
                   <persName>Ries, Ferdinand</persName>
                </author>
@@ -37987,6 +37988,9 @@
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_4204">Neue Beethoveniana</note>
                </noteGrp>
+               <author ref="#hsl_person_id_6084">
+                  <persName>Frimmel, Theodor von</persName>
+               </author>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/neuebeethovenian0000unse/page/170/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4207" resp="#awilfing" cert="high">
@@ -38018,6 +38022,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4210" resp="#awilfing" cert="high">
                <title type="main">Händel's Instrumentalkompositionen für grosses Orchester</title>
+               <title type="alternative">Händel’s Instrumental-Compositionen für großes Orchester</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_3900">Vierteljahrsschrift für Musikwissenschaft</note>
                </noteGrp>
@@ -38053,7 +38058,8 @@
                <author ref="#hsl_person_id_2619">
                   <persName>Bulthaupt, Heinrich</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://www.google.com/books/edition/Dramaturgie_der_Oper/ndQxAAAAMAAJ?hl=de&amp;gbpv=1&amp;pg=PR1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.google.de/books/edition/Dramaturgie_der_Oper/jAEw2lZ5FrQC?hl=de&amp;gbpv=1&amp;pg=PR1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.google.de/books/edition/Dramaturgie_der_oper_Meyerbear_Richard_W/vABSAQAAMAAJ?hl=de&amp;gbpv=1&amp;pg=PP7</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4214" resp="#awilfing" cert="high">
                <title type="main">Briefe von Felix Mendelssohn-Bartholdy an Ignaz und Charlotte Moscheles</title>
@@ -39254,6 +39260,14 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300903995</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.3_'The_Scandinavian'_(Cowen%2C_Frederic_Hymen)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4351" resp="#awilfing" cert="high">
+               <title type="main">Dramaturgie der Classiker</title>
+               <author ref="#hsl_person_id_2619">
+                  <persName>Bulthaupt, Heinrich</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.google.de/books/edition/Dramaturgie_der_classiker/z0Y4AAAAYAAJ?hl=de&amp;gbpv=1&amp;pg=PR1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.google.de/books/edition/Dramaturgie_der_classiker_Shakespeare_18/QkQ4AAAAYAAJ?hl=de&amp;gbpv=1&amp;pg=PR3</idno>
             </bibl>
       </listBibl>
       </body>
