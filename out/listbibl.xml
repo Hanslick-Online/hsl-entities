@@ -11108,6 +11108,7 @@
                <author ref="#hsl_person_id_165">
                   <persName>Lortzing, Albert</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6114">Georg</name>
                <name type="character" ref="#hsl_person_id_6118">Marie</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30009650X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Waffenschmied_(Lortzing%2C_Albert)</idno>
@@ -15819,7 +15820,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1654" resp="#awilfing" cert="high">
                <title type="main">15 Romanzen aus Ludwig Tiecks Magelone für Singstimme und Klavier, op. 33</title>
-               <title type="alternative">Magelonenlieder; Magellonen-Lieder</title>
+               <title type="alternative">Magelonenlieder; Magellonen-Lieder; Magellone-Romanzen</title>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
@@ -38259,6 +38260,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4235" resp="#awilfing" cert="high">
                <title type="main">Maienkätzchen, op. 107 Nr. 4</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_1587">5 Lieder für Singstimme und Klavier, op. 107</note>
+               </noteGrp>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
@@ -38295,6 +38299,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4238" resp="#awilfing" cert="high">
                <title type="main">Auf dem Kirchhofe, op. 105 Nr. 4</title>
+               <title type="alternative">Auf dem Kirchhof</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_1585">5 Lieder für Singstimme und Klavier, op. 105</note>
                </noteGrp>
@@ -38564,6 +38569,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4263" resp="#awilfing" cert="high">
                <title type="main">Röslein dreie in der Reihe blühn so rot, op. 103 Nr. 6</title>
+               <title type="alternative">Lied vom schönsten Städtchen Kecskemet</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_624">11 Zigeunerlieder für 4 Singstimmen und Klavier, op. 103</note>
                </noteGrp>
@@ -38578,6 +38584,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4264" resp="#awilfing" cert="high">
                <title type="main">Kommt dir manchmal in den Sinn, op. 103 Nr. 7</title>
+               <title type="alternative">Täusch' mich nicht, verlass' mich nicht</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_624">11 Zigeunerlieder für 4 Singstimmen und Klavier, op. 103</note>
                </noteGrp>
