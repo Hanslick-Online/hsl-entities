@@ -797,7 +797,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_66" resp="#awilfing" cert="high">
                <title type="main">Phantasie über ungarische Volksmelodien für Klavier und Orchester, S123</title>
-               <title type="alternative">Fantasie über ungarische National-Melodien</title>
+               <title type="alternative">Fantasie über ungarische National-Melodien; Ungarische Phantasie</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -9890,6 +9890,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1028" resp="#awilfing" cert="high">
                <title type="main">Altes Testament</title>
+               <title type="alternative">Alter Bund</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_820">Bibel</note>
                </noteGrp>
@@ -18248,7 +18249,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1934" resp="#awilfing" cert="high">
                <title type="main">Jan Hus, op. 82</title>
-               <title type="alternative">Johannes Huß; Jan Huß</title>
+               <title type="alternative">Johannes Huß; Johann Huß; Jan Huß</title>
                <author ref="#hsl_person_id_1122">
                   <persName>Loewe, Carl</persName>
                </author>
@@ -36476,38 +36477,52 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1252297963</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Concerto_No.1,_Op.10_(Br%C3%BCll,_Ignaz)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4016" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4016" resp="#awilfing" cert="high">
                <title type="main">Etude für Klavier in f-Moll, op. 25 Nr. 2</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3420">12 Études für Klavier, op. 25</note>
+               </noteGrp>
                <author ref="#hsl_person_id_48">
                   <persName>Chopin, Frédéric</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300763654</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/%C3%89tudes,_Op.25_(Chopin,_Fr%C3%A9d%C3%A9ric)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4017" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4017" resp="#awilfing" cert="high">
                <title type="main">Der geblendete Stieglitz</title>
                <author ref="#hsl_person_id_3807">
                   <persName>Hamerling, Robert</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4018" resp="#awilfing" cert="medium">
-               <title type="main">Neugriechisches Lied</title>
+            <bibl xml:id="hsl_work_id_4018" resp="#awilfing" cert="high">
+               <title type="main">Novogrecheskaja pesnja, op. 78 Nr. 7</title>
+               <title type="alternative">Neugriechisches Lied</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4352">12 Russische Volkslieder, op. 78</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1270664883</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/12_Russian_Folksongs,_Op.78_(Rubinstein,_Anton)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4019" resp="#awilfing" cert="high">
+               <title type="main">Phantasie für Klavier und Orchester in C-Dur, op. 84</title>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1189756536</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4020" resp="#awilfing" cert="high">
+               <title type="main">Mazurka für Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4019" resp="#awilfing" cert="medium">
-               <title type="main">Klavierphantasie mit Orchester in C-Dur, op. 84</title>
-               <author ref="#hsl_person_id_244">
-                  <persName>Rubinštejn, Anton G.</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_4020" resp="#awilfing" cert="medium">
-               <title type="main">Mazurka-Fantasie in G-Dur, op. 4</title>
-               <author ref="#hsl_person_id_244">
-                  <persName>Rubinštejn, Anton G.</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_4021" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4021" resp="#awilfing" cert="high">
                <title type="main">Les brigands</title>
+               <title type="alternative">Die Banditen</title>
                <author ref="#hsl_person_id_202">
                   <persName>Offenbach, Jacques</persName>
                </author>
@@ -36519,51 +36534,55 @@
                </author>
                <name type="character" ref="#hsl_person_id_5867">Fiorella</name>
                <name type="character" ref="#hsl_person_id_5868">Falsacappa</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300115342</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Les_brigands_(Offenbach,_Jacques)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4022" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4022" resp="#awilfing" cert="high">
                <title type="main">Symphonie in A-Dur, op. 15</title>
                <author ref="#hsl_person_id_1246">
                   <persName>Schläger, Hans</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_4023" resp="#awilfing" cert="medium">
-               <title type="main">Adagio für 5 Violoncelle, Contrabaß und Pauken</title>
+               <title type="main">Adagio für 5 Celli, Kontrabass und Pauken</title>
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_5859">
-                  <persName>Schwenke, ?</persName>
+                  <persName>Schwencke, Christian Friedrich Gottlieb</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4024" resp="#awilfing" cert="medium">
-               <title type="main">Serenade and Allegro giocoso, op.43</title>
+            <bibl xml:id="hsl_work_id_4024" resp="#awilfing" cert="high">
+               <title type="main">Serenade und Allegro giojoso, MWV O 12</title>
+               <title type="alternative">Serenade und Allegro giocoso</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300204515</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Serenade_und_Allegro_giojoso%2C_Op.43_(Mendelssohn%2C_Felix)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4025" resp="#awilfing" cert="medium">
-               <title type="main">Zemire und Azor</title>
+            <bibl xml:id="hsl_work_id_4025" resp="#awilfing" cert="high">
+               <title type="main">Zemire und Azor, WoO52</title>
                <author ref="#hsl_person_id_293">
                   <persName>Spohr, Louis</persName>
                </author>
                <author ref="#hsl_person_id_5860">
                   <persName>Ihlée, Johann Jakob</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30052739X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zemire_und_Azor,_WoO_52_(Spohr,_Louis)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4026" resp="#awilfing" cert="medium">
-               <title type="main">Konzert für Streichinstrumente mit 2 obligaten Violinen und Violoncello</title>
+            <bibl xml:id="hsl_work_id_4026" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Streichorchester</title>
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4027" resp="#awilfing" cert="medium">
-               <title type="main">Tanzmomente, op. 14</title>
+            <bibl xml:id="hsl_work_id_4027" resp="#awilfing" cert="high">
+               <title type="main">Tanzmomente für Orchester, op. 14</title>
                <author ref="#hsl_person_id_121">
                   <persName>Herbeck, Johann von</persName>
                </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_4028" resp="#awilfing" cert="medium">
-               <title type="main">Konzert in a-Moll</title>
-               <title type="alternative">unklarer Bezug</title>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Tanzmomente,_Op.14_(Herbeck,_Johann_von)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4029" resp="#awilfing" cert="medium">
                <title type="main">Bei nächtlicher Weil, WoO 34,3</title>
@@ -39277,6 +39296,25 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.google.de/books/edition/Dramaturgie_der_classiker/z0Y4AAAAYAAJ?hl=de&amp;gbpv=1&amp;pg=PR1</idno>
                <idno type="URL" subtype="Digitalisat">https://www.google.de/books/edition/Dramaturgie_der_classiker_Shakespeare_18/QkQ4AAAAYAAJ?hl=de&amp;gbpv=1&amp;pg=PR3</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4352" resp="#awilfing" cert="high">
+               <title type="main">12 Russische Volkslieder, op. 78</title>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1270656503</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/12_Russian_Folksongs,_Op.78_(Rubinstein,_Anton)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4353" resp="#awilfing" cert="high">
+               <title type="main">Tanzmomente für Klavier, S492</title>
+               <author ref="#hsl_person_id_121">
+                  <persName>Herbeck, Johann von</persName>
+               </author>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1189758784</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Tanzmomente,_Op.14_(Herbeck,_Johann_von)</idno>
             </bibl>
       </listBibl>
       </body>
