@@ -802,7 +802,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q656</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4267026-3</idno>
                </place>
-               <place xml:id="hsl_place_id_51" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_51" resp="#awilfing" cert="high">
                   <settlement type="L">
                      <placeName type="main">Tauris</placeName>
                   </settlement>
@@ -1528,7 +1528,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q118137589</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4030875-3</idno>
                </place>
-               <place xml:id="hsl_place_id_118" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_118" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Saint-Cloud</placeName>
                      <placeName type="alternative">St. Cloud</placeName>
@@ -8926,6 +8926,22 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/1605651/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1081620</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/120375-7</idno>
+               </place>
+               <place xml:id="hsl_place_id_744" resp="#awilfing" cert="high">
+                  <placeName type="main">Rue Rossini, Paris</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3449781</idno>
+               </place>
+               <place xml:id="hsl_place_id_745" resp="#awilfing" cert="high">
+                  <placeName type="main">Rue Meyerbeer, Paris</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3449154</idno>
+               </place>
+               <place xml:id="hsl_place_id_746" resp="#awilfing" cert="high">
+                  <placeName type="main">Rue Halévy, Paris</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3448259</idno>
+               </place>
+               <place xml:id="hsl_place_id_747" resp="#awilfing" cert="high">
+                  <placeName type="main">Rue Auber, Paris</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3447004</idno>
                </place>
             </listPlace>
          </div>
