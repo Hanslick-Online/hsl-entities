@@ -5282,6 +5282,7 @@
                      <geo>48.27617, 16.33255</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3333525/</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q697119</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4109954-0</idno>
                </place>
                <place xml:id="hsl_place_id_421" resp="#awilfing" cert="medium">
@@ -7724,8 +7725,15 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4095923-5</idno>
                </place>
                <place xml:id="hsl_place_id_639" resp="#awilfing" cert="high">
-                  <placeName type="main">Kranjska</placeName>
+                  <settlement type="L">
+                     <placeName type="main">Kranjska</placeName>
                      <placeName type="alternative">Krain</placeName>
+                  </settlement>
+                  <desc type="entity_type">parks,area, ...</desc>
+                  <country>SI, Slovenia</country>
+                  <location type="coords">
+                     <geo>46.33333, 14.16667</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3200345/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q193474</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4032741-3</idno>
@@ -8199,6 +8207,7 @@
                      <geo>54.1522, 19.40884</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3099759/</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q104712</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4014177-9</idno>
                </place>
                <place xml:id="hsl_place_id_682" resp="#awilfing" cert="high">
@@ -8908,8 +8917,15 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4090940-2</idno>
                </place>
                <place xml:id="hsl_place_id_739" resp="#awilfing" cert="high">
-                  <placeName type="main">Slovensko</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Slovensko</placeName>
                      <placeName type="alternative">Slowakei; Slovakei</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>SK, Slovakia</country>
+                  <location type="coords">
+                     <geo>48.66667, 19.5</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3057568/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q214</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4055297-4</idno>
@@ -8921,8 +8937,15 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1054631026</idno>
                </place>
                <place xml:id="hsl_place_id_743" resp="#awilfing" cert="high">
-                  <placeName type="main">Thai</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Thai</placeName>
                      <placeName type="alternative">Siam</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>TH, Thailand</country>
+                  <location type="coords">
+                     <geo>15.5, 101</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/1605651/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1081620</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/120375-7</idno>
