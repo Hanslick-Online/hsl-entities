@@ -22132,13 +22132,16 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2370" resp="#awilfing" cert="high">
                <title type="main">Richard Wagner an Eliza Wille. Fünfzehn Briefe des Meisters nebst Erinnerungen und Erläuterungen</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_1415">Deutsche Rundschau</note>
+               </noteGrp>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
                </author>
                <author ref="#hsl_person_id_2879">
                   <persName>Wille, Eliza</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://archive.org/details/richardwagnereli00wagn/page/n5/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/deutscherundscha50stutuoft/deutscherundscha50stutuoft/page/250/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2371" resp="#awilfing" cert="high">
                <title type="main">Briefe an August Röckel von Richard Wagner</title>
@@ -36874,11 +36877,14 @@
                <title type="main">Der Sieg von Saarbrücken</title>
             </bibl>
             <bibl xml:id="hsl_work_id_4074" resp="#awilfing" cert="high">
-               <title type="main">Ein Brief von Richard Wagner über Franz Liszt's symphonische Dichtungen</title>
+               <title type="main">Ein Brief von Richard Wagner über Franz Liszt</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_553">Neue Zeitschrift für Musik</note>
+               </noteGrp>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10599691?page=8,9</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527903?page=202,203</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4075" resp="#awilfing" cert="high">
                <title type="main">Misero! O sogno!, KV431</title>
@@ -39344,6 +39350,65 @@
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11277836?page=2,3</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11277837?page=2,3</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10425213?page=4,5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4358" resp="#awilfing" cert="high">
+               <title type="main">Aus dem Tonleben unserer Zeit. Gelegentliches. Neue Folge</title>
+               <author ref="#hsl_person_id_124">
+                  <persName>Hiller, Ferdinand von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011667?page=12,13</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4359" resp="#awilfing" cert="high">
+               <title type="main">Nachruf an Rossini</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4358">Aus dem Tonleben unserer Zeit. Gelegentliches. Neue Folge</note>
+               </noteGrp>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011667?page=104,105</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4360" resp="#awilfing" cert="high">
+               <title type="main">Nachruf an Moritz Hauptmann</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4358">Aus dem Tonleben unserer Zeit. Gelegentliches. Neue Folge</note>
+               </noteGrp>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011667?page=96,97</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4361" resp="#awilfing" cert="high">
+               <title type="main">Musikalische Briefe</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4358">Aus dem Tonleben unserer Zeit. Gelegentliches. Neue Folge</note>
+               </noteGrp>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011667?page=36,37</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4362" resp="#awilfing" cert="high">
+               <title type="main">Zukunftsmusik</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_482">Aus dem Tonleben unserer Zeit. Gelegentliches</note>
+               </noteGrp>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb00013304?page=262,263</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4363" resp="#awilfing" cert="high">
+               <title type="main">Biographische Skizze</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4358">Aus dem Tonleben unserer Zeit. Gelegentliches. Neue Folge</note>
+               </noteGrp>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011667?page=142,143</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4364" resp="#awilfing" cert="high">
+               <title type="main">Aus den letzten Tagen L. van Beethoven's</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4358">Aus dem Tonleben unserer Zeit. Gelegentliches. Neue Folge</note>
+               </noteGrp>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011667?page=186,187</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4365" resp="#awilfing" cert="high">
+               <title type="main">Zum 17. December 1870</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4358">Aus dem Tonleben unserer Zeit. Gelegentliches. Neue Folge</note>
+               </noteGrp>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011667?page=114,115</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4366" resp="#awilfing" cert="medium">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>
