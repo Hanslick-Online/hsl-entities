@@ -36131,6 +36131,11 @@
                <author ref="#hsl_person_id_188">
                   <persName>Mosenthal, Salomon Hermann von</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6243">Joakim</name>
+               <name type="character" ref="#hsl_person_id_6244">Judith</name>
+               <name type="character" ref="#hsl_person_id_6245">Ataniel</name>
+               <name type="character" ref="#hsl_person_id_6246">Holofernes</name>
+               <name type="character" ref="#hsl_person_id_6247">Abra</name>
             </bibl>
             <bibl xml:id="hsl_work_id_3974" resp="#awilfing" cert="high">
                <title type="main">Der Haideschacht, op. 22</title>
@@ -39407,8 +39412,16 @@
                </noteGrp>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011667?page=114,115</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4366" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_4366" resp="#awilfing" cert="high">
+               <title type="main">Judith</title>
+               <author ref="#hsl_person_id_115">
+                  <persName>Hebbel, Friedrich</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_6248">Judith</name>
+               <name type="character" ref="#hsl_person_id_6249">Holofernes</name>
+               <name type="character" ref="#hsl_person_id_6250">Ephraim</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4127187-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10110578?page=4,5</idno>
             </bibl>
       </listBibl>
       </body>
