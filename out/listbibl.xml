@@ -10076,12 +10076,19 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1045" resp="#awilfing" cert="high">
                <title type="main">Indigo und die 40 Räuber</title>
+               <title type="alternative">Indigo und die vierzig Räuber</title>
                <author ref="#hsl_person_id_299">
                   <persName>Strauss junior, Johann</persName>
                </author>
                <author ref="#hsl_person_id_5145">
                   <persName>Steiner, Maximilian</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6261">Ali Baba</name>
+               <name type="character" ref="#hsl_person_id_6264">Fantasca</name>
+               <name type="character" ref="#hsl_person_id_6265">Indigo</name>
+               <name type="character" ref="#hsl_person_id_6266">Romadour</name>
+               <name type="character" ref="#hsl_person_id_6267">Janio</name>
+               <name type="character" ref="#hsl_person_id_6268">Tossana</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1022113380</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Indigo_und_die_vierzig_R%C3%A4uber_(Strauss_Jr.,_Johann)</idno>
             </bibl>
@@ -39492,6 +39499,49 @@
                <title type="main">Judith</title>
                <author ref="#hsl_person_id_6241">
                   <persName>Naumann, Emil</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4374" resp="#awilfing" cert="high">
+               <title type="main">Die Beethoven-Feier in Wien</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18701222</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4375" resp="#awilfing" cert="high">
+               <title type="main">Versuch einer Statistik der Gesangvereine und Concertinstitute Deutschlands und der Schweiz</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3842">Jahrbücher für musikalische Wissenschaft</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1444">
+                  <persName>Chrysander, Friedrich</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://digitale-sammlungen.de/de/view/bsb10598420?page=362,363</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4376" resp="#awilfing" cert="high">
+               <title type="main">Lied</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_1066">
+                  <persName>Gumbert, Ferdinand</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4377" resp="#awilfing" cert="high">
+               <title type="main">Johannis-Käferln Walzer, op. 82</title>
+               <title type="alternative">Johanneskäfer</title>
+               <author ref="#hsl_person_id_299">
+                  <persName>Strauss junior, Johann</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1053813759</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Johannis-K%C3%A4ferln_Walzer%2C_Op.82_(Strauss_Jr.%2C_Johann)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4378" resp="#awilfing" cert="high">
+               <title type="main">Pechpolka</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_299">
+                  <persName>Strauss junior, Johann</persName>
                </author>
             </bibl>
       </listBibl>
