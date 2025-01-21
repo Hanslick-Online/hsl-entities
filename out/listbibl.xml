@@ -736,6 +736,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_1127">Duca di Mantova</name>
                <name type="character" ref="#hsl_person_id_4065">Rigoletto</name>
+               <name type="character" ref="#hsl_person_id_6274">Gilda</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300166222</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Rigoletto_(Verdi,_Giuseppe)</idno>
             </bibl>
@@ -1421,6 +1422,8 @@
                <name type="character" ref="#hsl_person_id_593">Horace</name>
                <name type="character" ref="#hsl_person_id_602">Juliano</name>
                <name type="character" ref="#hsl_person_id_617">Lord Elfort</name>
+               <name type="character" ref="#hsl_person_id_6280">Ursule</name>
+               <name type="character" ref="#hsl_person_id_6281">Tourière</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30000320X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_domino_noir_(Auber%2C_Daniel_Fran%C3%A7ois_Esprit)</idno>
             </bibl>
@@ -4744,6 +4747,7 @@
                <name type="character" ref="#hsl_person_id_2584">Peter I.</name>
                <name type="character" ref="#hsl_person_id_5105">Bett, van</name>
                <name type="character" ref="#hsl_person_id_5608">Peter Iwanow</name>
+               <name type="character" ref="#hsl_person_id_6276">Marie</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300096615</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zar_und_Zimmermann_(Lortzing,_Albert)</idno>
             </bibl>
@@ -13144,6 +13148,7 @@
                   <persName>Scribe, Eugène</persName>
                </author>
                <name type="character" ref="#hsl_person_id_2277">Georges Brown</name>
+               <name type="character" ref="#hsl_person_id_6275">Jenny</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300022794</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_dame_blanche_(Boieldieu%2C_Fran%C3%A7ois_Adrien)</idno>
             </bibl>
@@ -39543,6 +39548,21 @@
                <author ref="#hsl_person_id_299">
                   <persName>Strauss junior, Johann</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4379" resp="#awilfing" cert="high">
+               <title type="main">Le Télégraphe</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4380" resp="#awilfing" cert="high">
+               <title type="main">Chanson de printemps, CG359</title>
+               <title type="alternative">Frühlingslied</title>
+               <author ref="#hsl_person_id_102">
+                  <persName>Gounod, Charles</persName>
+               </author>
+               <author ref="#hsl_person_id_6278">
+                  <persName>Tourneux, Eugène</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300061080</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Chanson_de_printemps%2C_CG_359_(Gounod%2C_Charles)</idno>
             </bibl>
       </listBibl>
       </body>
