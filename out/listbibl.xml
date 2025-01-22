@@ -8851,7 +8851,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_915" resp="#awilfing" cert="high">
                <title type="main">La princesse de Trébizonde</title>
-               <title type="alternative">Die Prinzessin von Trapezunt</title>
+               <title type="alternative">Die Prinzessin von Trapezunt; Princesse de Trébisonde</title>
                <author ref="#hsl_person_id_202">
                   <persName>Offenbach, Jacques</persName>
                </author>
@@ -8861,6 +8861,14 @@
                <author ref="#hsl_person_id_2193">
                   <persName>Tréfeu, Etienne</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6282">Tremolini</name>
+               <name type="character" ref="#hsl_person_id_6283">Regina</name>
+               <name type="character" ref="#hsl_person_id_6284">Paola</name>
+               <name type="character" ref="#hsl_person_id_6285">Cabriolo</name>
+               <name type="character" ref="#hsl_person_id_6286">Zanetta</name>
+               <name type="character" ref="#hsl_person_id_6287">Prince Raphael</name>
+               <name type="character" ref="#hsl_person_id_6288">Saradrap</name>
+               <name type="character" ref="#hsl_person_id_6289">Prince Casimir</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300704437</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_princesse_de_Tr%C3%A9bizonde_(Offenbach%2C_Jacques)</idno>
             </bibl>
@@ -34619,6 +34627,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3801" resp="#awilfing" cert="high">
                <title type="main">Geschichte des Concertwesens in Wien</title>
+               <title type="alternative">Geschichte des Wiener Concertwesens</title>
                <author ref="#hsl_person_id_1">
                   <persName>Hanslick, Eduard</persName>
                </author>
@@ -39563,6 +39572,44 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300061080</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Chanson_de_printemps%2C_CG_359_(Gounod%2C_Charles)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4381" resp="#awilfing" cert="high">
+               <title type="main">La Betulia liberata</title>
+               <author ref="#hsl_person_id_753">
+                  <persName>Gassmann, Florian Leopold</persName>
+               </author>
+               <author ref="#hsl_person_id_2118">
+                  <persName>Metastasio, Pietro</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4512496-6</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_Betulia_liberata_(Gassmann%2C_Florian_Leopold)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4382" resp="#awilfing" cert="high">
+               <title type="main">Symphonie</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_6295">
+                  <persName>Aspelmayr, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4383" resp="#awilfing" cert="high">
+               <title type="main">Symphonie</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_1204">
+                  <persName>Starzer, Josef</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4384" resp="#awilfing" cert="high">
+               <title type="main">Denkschrift aus Anlass des hundertjährigen Bestehens der Tonkünstler-Societät, im Jahre 1862 reorganisirt als "Haydn", Witwen- und Waisen-Versorgungs-Verein der Tonkünstler in Wien</title>
+               <author ref="#hsl_person_id_3866">
+                  <persName>Pohl, Carl Ferdinand</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://digitale-sammlungen.de/de/details/bsb11011704</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4385" resp="#awilfing" cert="high">
+               <title type="main">Prolog</title>
+               <author ref="#hsl_person_id_2097">
+                  <persName>Silberstein, August</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
