@@ -39619,8 +39619,9 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://books.google.at/books?id=GgtDAAAAcAAJ&amp;hl=de&amp;pg=PP5</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4387" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_4387" resp="#awilfing" cert="high">
+               <title type="main">Galignani's Messenger</title>
+               <title type="alternative">Galignani Messenger</title>
             </bibl>
             <bibl xml:id="hsl_work_id_4388" resp="#awilfing" cert="high">
                <title type="main">Choral</title>
@@ -39645,6 +39646,39 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300647042</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lukaspassion,_BWV_246_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4391" resp="#awilfing" cert="high">
+               <title type="main">Messe in f-Moll, op. 18</title>
+               <author ref="#hsl_person_id_687">
+                  <persName>Hauptmann, Moritz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300194137</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4392" resp="#awilfing" cert="high">
+               <title type="main">Briefe aus den Jahren 1830 bis 1847 von Felix Mendelssohn Bartholdy</title>
+               <author ref="#hsl_person_id_21">
+                  <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11556989</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11556990</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4393" resp="#awilfing" cert="high">
+               <title type="main">Konzert</title>
+               <author ref="#hsl_person_id_21">
+                  <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4394" resp="#awilfing" cert="high">
+               <title type="main">La Mandolinata</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4395" resp="#awilfing" cert="high">
+               <title type="main">La vedova scaltra</title>
+               <title type="alternative">Die listige Witwe</title>
+               <author ref="#hsl_person_id_771">
+                  <persName>Goldoni, Carlo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7641948-4</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.google.com/books/edition/La_vedova_scaltra/o3A9AAAAYAAJ?hl=de&amp;gbpv=1&amp;pg=PP7</idno>
             </bibl>
       </listBibl>
       </body>
