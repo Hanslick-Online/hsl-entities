@@ -10392,6 +10392,7 @@
                <name type="character" ref="#hsl_person_id_3928">Grande-Duchesse</name>
                <name type="character" ref="#hsl_person_id_3929">Wanda</name>
                <name type="character" ref="#hsl_person_id_3934">Grog</name>
+               <name type="character" ref="#hsl_person_id_6359">Général Boum</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300115474</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_grande-duchesse_de_G%C3%A9rolstein_(Offenbach,_Jacques)</idno>
             </bibl>
@@ -24303,6 +24304,12 @@
                   <persName>Salsa, Francesco Maria Berio di</persName>
                </author>
                <name type="character" ref="#hsl_person_id_4669">Otello</name>
+               <name type="character" ref="#hsl_person_id_6345">Jago</name>
+               <name type="character" ref="#hsl_person_id_6346">Desdemona</name>
+               <name type="character" ref="#hsl_person_id_6348">Emilia</name>
+               <name type="character" ref="#hsl_person_id_6349">Elmiro</name>
+               <name type="character" ref="#hsl_person_id_6350">Rodrigo</name>
+               <name type="character" ref="#hsl_person_id_6354">Gondoliere</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300220332</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Otello_(Rossini,_Gioacchino)</idno>
             </bibl>
@@ -39826,6 +39833,9 @@
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_4408">Rheinische Musik-Zeitung für Kunstfreunde und Künstler</note>
                </noteGrp>
+               <author ref="#hsl_person_id_6344">
+                  <persName>Uhlemann, ?</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_4416" resp="#awilfing" cert="medium">
                <title type="main">Dedication der Alceste</title>
@@ -39868,6 +39878,9 @@
                <author ref="#hsl_person_id_699">
                   <persName>Florian, Jean-Pierre Claris de</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4422" resp="#awilfing" cert="medium">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>
