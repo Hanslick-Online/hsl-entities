@@ -5139,7 +5139,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q171852</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4469931-1</idno>
                </place>
-               <place xml:id="hsl_place_id_410" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_410" resp="#awilfing" cert="high">
                   <settlement type="H">
                      <placeName type="main">Schwarzes Meer</placeName>
                      <placeName type="alternative">Pontus Euxinus</placeName>
@@ -8997,6 +8997,12 @@
                      <placeName type="alternative">Mirabell-Garten</placeName>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q250852</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4256148-6</idno>
+               </place>
+               <place xml:id="hsl_place_id_755" resp="#awilfing" cert="high">
+                  <placeName type="main">Schwarzwald</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2834688/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4204</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4053807-2</idno>
                </place>
             </listPlace>
          </div>
