@@ -6444,7 +6444,7 @@
                   <persName>Köchel, Ludwig von</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7683429-3</idno>
-               <idno type="URL" subtype="Digitalisat">https://archive.org/details/chronologischth01kcgoog/page/n9/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10271259</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_659" resp="#awilfing" cert="high">
                <title type="main">Das verlorene Paradies, op. 54</title>
@@ -36202,6 +36202,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3976" resp="#awilfing" cert="high">
                <title type="main">Ludwig van Beethoven's Leben</title>
+               <author ref="#hsl_person_id_2796">
+                  <persName>Deiters, Hermann</persName>
+               </author>
                <author ref="#hsl_person_id_2857">
                   <persName>Thayer, Alexander Wheelock</persName>
                </author>
@@ -39979,6 +39982,27 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300169949</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Kaisermarsch,_WWV_104_(Wagner,_Richard)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4433" resp="#awilfing" cert="high">
+               <title type="main">Johann Joseph Fux. Hofcompositor und Hofkapellmeister der Kaiser Leopold I., Josef I. und Karl VI. von 1698 bis 1740</title>
+               <author ref="#hsl_person_id_145">
+                  <persName>Köchel, Ludwig von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11007476</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4434" resp="#awilfing" cert="high">
+               <title type="main">Werke des Herrn Ludwig van Beethoven</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_156">Wiener Zeitung</note>
+               </noteGrp>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18050130&amp;seite=44&amp;zoom=33</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4435" resp="#awilfing" cert="high">
+               <title type="main">Die Kaiserliche Hof-Musikkapelle in Wien von 1543 bis 1867</title>
+               <author ref="#hsl_person_id_145">
+                  <persName>Köchel, Ludwig von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10271117</idno>
             </bibl>
       </listBibl>
       </body>
