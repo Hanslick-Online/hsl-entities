@@ -2123,6 +2123,9 @@
                <name type="character" ref="#hsl_person_id_1045">Anna</name>
                <name type="character" ref="#hsl_person_id_1046">Hans Heiling</name>
                <name type="character" ref="#hsl_person_id_1048">Königin der Erdgeister</name>
+               <name type="character" ref="#hsl_person_id_6378">Stephan</name>
+               <name type="character" ref="#hsl_person_id_6379">Gertrude</name>
+               <name type="character" ref="#hsl_person_id_6380">Niklas</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300098901</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Hans_Heiling%2C_Op.80_(Marschner%2C_Heinrich)</idno>
             </bibl>
@@ -11521,6 +11524,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1187" resp="#awilfing" cert="high">
                <title type="main">Ein feste Burg ist unser Gott, BWV80</title>
+               <title type="alternative">Reformations-Cantate</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -40057,6 +40061,50 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4443" resp="#awilfing" cert="high">
                <title type="main">Der Kinderarzt</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4444" resp="#awilfing" cert="high">
+               <title type="main">Trio für Violine, Cello und Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4445" resp="#awilfing" cert="high">
+               <title type="main">Genoveva, op. 81 (Ouvertüre)</title>
+               <title type="alternative">Genovefa; Genofeva</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145071</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Genoveva,_Op.81_(Schumann,_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4446" resp="#awilfing" cert="high">
+               <title type="main">Joseph, lieber Joseph mein</title>
+               <title type="alternative">Weihnachtslied</title>
+               <author ref="#hsl_person_id_6384">
+                  <persName>Calvisius, Sethus</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/129657377X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Joseph%2C_lieber_Joseph_mein_(Calvisius%2C_Seth)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4447" resp="#awilfing" cert="high">
+               <title type="main">Non nobis Domine, Hob.XXIIIa:1</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300069758</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Non_nobis_Domine,_Hob.XXIIIa:1_(Haydn,_Joseph)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4448" resp="#awilfing" cert="high">
+               <title type="main">Sancta Maria</title>
+               <title type="alternative">Santa Maria</title>
+               <author ref="#hsl_person_id_3979">
+                  <persName>Fauré, Jean-Baptiste</persName>
+               </author>
+               <author ref="#hsl_person_id_6385">
+                  <persName>Bertrand, Jules</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Sancta_Maria_(Faure%2C_Jean-Baptiste)</idno>
             </bibl>
       </listBibl>
       </body>
