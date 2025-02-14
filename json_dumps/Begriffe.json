@@ -1,0 +1,743 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "Name": "Aesthetik",
+    "Schreibvariante": "Ästhetik",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "Name": "Gefühl",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "Name": "Gefühlsästhetik",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [
+      {
+        "id": 1,
+        "value": "Aesthetik",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "Gefühl",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "Synonym": null
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "Name": "Gefühlsregung",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 2,
+        "value": "Gefühl",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "Name": "Wissenschaft",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "Name": "wissenschaftlich",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 5,
+        "value": "Wissenschaft",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "Name": "unwissenschaftlich",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 5,
+        "value": "Wissenschaft",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "Name": "Musik",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "Name": "musikalisch",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 8,
+        "value": "Musik",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "Name": "Tonkunst",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "Name": "Kritik",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "Name": "kritisch",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 11,
+        "value": "Kritik",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "Name": "ästhetisch",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 1,
+        "value": "Aesthetik",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "Name": "Genuß",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "Name": "Erkenntniß",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "Name": "Schöne",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "Name": "Zweck",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "Name": "System",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "Name": "Empfindung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "Name": "Object",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "Name": "objectiv",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 20,
+        "value": "Object",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "Name": "Forschung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "Name": "Methode",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "Name": "Subject",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "Name": "subjectiv",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 24,
+        "value": "Subject",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "Name": "Phänomen",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "Name": "Leib",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "Name": "Eindruck",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "Name": "Mensch",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "Name": "Erforschung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "Name": "Philosophie",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "Name": "philosophisch",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 31,
+        "value": "Philosophie",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "Name": "Metaphysik",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "Name": "metaphysisch",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 33,
+        "value": "Metaphysik",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "Name": "Wesen",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "Name": "Element",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "Name": "Princip",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "Name": "inductiv",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "Name": "naturwissenschaftlich",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 5,
+        "value": "Wissenschaft",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "Name": "Methode",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "Name": "Empfindungs-Aesthetik",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [
+      {
+        "id": 1,
+        "value": "Aesthetik",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 19,
+        "value": "Empfindung",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "Synonym": null
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "Name": "Allgemeinheit",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "Name": "specifisch",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "Name": "Kunst",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "Name": "Malerei",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "Name": "Architektur",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "Name": "Special-Aesthetik",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [
+      {
+        "id": 1,
+        "value": "Aesthetik",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 43,
+        "value": "specifisch",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "Synonym": null
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "Name": "allgemein",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 42,
+        "value": "Allgemeinheit",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "Name": "Begriff",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "Name": "Schönheit",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "Name": "Schönheitsbegriff",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [
+      {
+        "id": 49,
+        "value": "Begriff",
+        "order": "49.00000000000000000000"
+      },
+      {
+        "id": 50,
+        "value": "Schönheit",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "Synonym": null
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "Name": "Technik",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "Name": "technisch",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 52,
+        "value": "Technik",
+        "order": "52.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "Name": "praktisch",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "Name": "Kunstkritik",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [
+      {
+        "id": 11,
+        "value": "Kritik",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "Kunst",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "Synonym": null
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "Name": "empfindend",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 19,
+        "value": "Empfindung",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "Name": "künstlerisch",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 44,
+        "value": "Kunst",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "Name": "modern",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "Name": "Poet",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "Name": "Maler",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": null
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "Name": "Publikum",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": ""
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "Name": "Kunstwerk",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [
+      {
+        "id": 44,
+        "value": "Kunst",
+        "order": "44.00000000000000000000"
+      },
+      {
+        "id": 63,
+        "value": "Werk",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "Synonym": ""
+  },
+  "63": {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "Name": "Werk",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": ""
+  },
+  "64": {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "Name": "Wohlgefallen",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": ""
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "Name": "Literatur",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": ""
+  }
+}
