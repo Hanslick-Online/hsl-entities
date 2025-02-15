@@ -6,7 +6,11 @@
     "Schreibvariante": "Ästhetik",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": "ästhetisch",
+    "Antonym": "außerästhetisch",
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "2": {
     "id": 2,
@@ -15,7 +19,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": "",
+    "Antonym": null,
+    "Verb": "fühlen",
+    "Löschen (Christoph)": false
   },
   "3": {
     "id": 3,
@@ -35,7 +43,11 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "4": {
     "id": 4,
@@ -49,8 +61,23 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "Komponenten": [],
-    "Synonym": null
+    "Komponenten": [
+      {
+        "id": 2,
+        "value": "Gefühl",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 139,
+        "value": "Regung",
+        "order": "134.00000000000000000000"
+      }
+    ],
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "5": {
     "id": 5,
@@ -59,61 +86,30 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
-  },
-  "6": {
-    "id": 6,
-    "order": "6.00000000000000000000",
-    "Name": "wissenschaftlich",
-    "Schreibvariante": "",
-    "Derivatbezug": [
-      {
-        "id": 5,
-        "value": "Wissenschaft",
-        "order": "5.00000000000000000000"
-      }
-    ],
-    "Komponenten": [],
-    "Synonym": null
-  },
-  "7": {
-    "id": 7,
-    "order": "7.00000000000000000000",
-    "Name": "unwissenschaftlich",
-    "Schreibvariante": "",
-    "Derivatbezug": [
-      {
-        "id": 5,
-        "value": "Wissenschaft",
-        "order": "5.00000000000000000000"
-      }
-    ],
-    "Komponenten": [],
-    "Synonym": null
+    "Synonym": "",
+    "Adjektiv": "wissenschaftlich",
+    "Antonym": "unwissenschaftlich",
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
     "Name": "Musik",
     "Schreibvariante": "",
-    "Derivatbezug": [],
-    "Komponenten": [],
-    "Synonym": null
-  },
-  "9": {
-    "id": 9,
-    "order": "9.00000000000000000000",
-    "Name": "musikalisch",
-    "Schreibvariante": "",
     "Derivatbezug": [
       {
-        "id": 8,
-        "value": "Musik",
-        "order": "8.00000000000000000000"
+        "id": 116,
+        "value": "Musiker",
+        "order": "115.00000000000000000000"
       }
     ],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": "musikalisch",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "10": {
     "id": 10,
@@ -121,8 +117,23 @@
     "Name": "Tonkunst",
     "Schreibvariante": "",
     "Derivatbezug": [],
-    "Komponenten": [],
-    "Synonym": null
+    "Komponenten": [
+      {
+        "id": 44,
+        "value": "Kunst",
+        "order": "44.00000000000000000000"
+      },
+      {
+        "id": 66,
+        "value": "Ton",
+        "order": "66.00000000000000000000"
+      }
+    ],
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "11": {
     "id": 11,
@@ -131,37 +142,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
-  },
-  "12": {
-    "id": 12,
-    "order": "12.00000000000000000000",
-    "Name": "kritisch",
-    "Schreibvariante": "",
-    "Derivatbezug": [
-      {
-        "id": 11,
-        "value": "Kritik",
-        "order": "11.00000000000000000000"
-      }
-    ],
-    "Komponenten": [],
-    "Synonym": null
-  },
-  "13": {
-    "id": 13,
-    "order": "13.00000000000000000000",
-    "Name": "ästhetisch",
-    "Schreibvariante": "",
-    "Derivatbezug": [
-      {
-        "id": 1,
-        "value": "Aesthetik",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": "kritisch",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "14": {
     "id": 14,
@@ -170,7 +155,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "15": {
     "id": 15,
@@ -179,7 +168,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "16": {
     "id": 16,
@@ -188,7 +181,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": "schön",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "17": {
     "id": 17,
@@ -197,7 +194,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "18": {
     "id": 18,
@@ -206,7 +207,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "19": {
     "id": 19,
@@ -215,7 +220,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": "empfinden",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "20": {
     "id": 20,
@@ -224,22 +233,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
-  },
-  "21": {
-    "id": 21,
-    "order": "21.00000000000000000000",
-    "Name": "objectiv",
-    "Schreibvariante": "",
-    "Derivatbezug": [
-      {
-        "id": 20,
-        "value": "Object",
-        "order": "20.00000000000000000000"
-      }
-    ],
-    "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": "objectiv",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "22": {
     "id": 22,
@@ -248,7 +246,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "23": {
     "id": 23,
@@ -257,31 +259,30 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "24": {
     "id": 24,
     "order": "24.00000000000000000000",
     "Name": "Subject",
     "Schreibvariante": "",
-    "Derivatbezug": [],
-    "Komponenten": [],
-    "Synonym": null
-  },
-  "25": {
-    "id": 25,
-    "order": "25.00000000000000000000",
-    "Name": "subjectiv",
-    "Schreibvariante": "",
     "Derivatbezug": [
       {
-        "id": 24,
-        "value": "Subject",
-        "order": "24.00000000000000000000"
+        "id": 128,
+        "value": "Subjectivität",
+        "order": "123.00000000000000000000"
       }
     ],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": "subjectiv",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "26": {
     "id": 26,
@@ -290,7 +291,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "27": {
     "id": 27,
@@ -299,7 +304,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "28": {
     "id": 28,
@@ -308,7 +317,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "29": {
     "id": 29,
@@ -317,7 +330,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": "menschlich",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "30": {
     "id": 30,
@@ -326,7 +343,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "31": {
     "id": 31,
@@ -335,22 +356,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
-  },
-  "32": {
-    "id": 32,
-    "order": "32.00000000000000000000",
-    "Name": "philosophisch",
-    "Schreibvariante": "",
-    "Derivatbezug": [
-      {
-        "id": 31,
-        "value": "Philosophie",
-        "order": "31.00000000000000000000"
-      }
-    ],
-    "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": "philosophisch",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "33": {
     "id": 33,
@@ -359,22 +369,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
-  },
-  "34": {
-    "id": 34,
-    "order": "34.00000000000000000000",
-    "Name": "metaphysisch",
-    "Schreibvariante": "",
-    "Derivatbezug": [
-      {
-        "id": 33,
-        "value": "Metaphysik",
-        "order": "33.00000000000000000000"
-      }
-    ],
-    "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": "metaphysisch",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "35": {
     "id": 35,
@@ -383,7 +382,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "36": {
     "id": 36,
@@ -392,7 +395,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "37": {
     "id": 37,
@@ -401,7 +408,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "38": {
     "id": 38,
@@ -410,31 +421,35 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "39": {
     "id": 39,
     "order": "39.00000000000000000000",
-    "Name": "naturwissenschaftlich",
+    "Name": "Naturwissenschaft",
     "Schreibvariante": "",
-    "Derivatbezug": [
+    "Derivatbezug": [],
+    "Komponenten": [
       {
         "id": 5,
         "value": "Wissenschaft",
         "order": "5.00000000000000000000"
+      },
+      {
+        "id": 81,
+        "value": "Natur",
+        "order": "81.00000000000000000000"
       }
     ],
-    "Komponenten": [],
-    "Synonym": null
-  },
-  "40": {
-    "id": 40,
-    "order": "40.00000000000000000000",
-    "Name": "Methode",
-    "Schreibvariante": "",
-    "Derivatbezug": [],
-    "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": "naturwissenschaftlich",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "41": {
     "id": 41,
@@ -454,7 +469,11 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "42": {
     "id": 42,
@@ -463,43 +482,81 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": "allgemein",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "43": {
     "id": 43,
     "order": "43.00000000000000000000",
-    "Name": "specifisch",
+    "Name": "Spezifik",
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": "Specialität",
+    "Adjektiv": "specifisch",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "44": {
     "id": 44,
     "order": "44.00000000000000000000",
     "Name": "Kunst",
     "Schreibvariante": "",
-    "Derivatbezug": [],
+    "Derivatbezug": [
+      {
+        "id": 173,
+        "value": "Künstler",
+        "order": "167.00000000000000000000"
+      }
+    ],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": "künstlerisch",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "45": {
     "id": 45,
     "order": "45.00000000000000000000",
     "Name": "Malerei",
     "Schreibvariante": "",
-    "Derivatbezug": [],
+    "Derivatbezug": [
+      {
+        "id": 60,
+        "value": "Maler",
+        "order": "60.00000000000000000000"
+      }
+    ],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": "malen",
+    "Löschen (Christoph)": false
   },
   "46": {
     "id": 46,
     "order": "46.00000000000000000000",
     "Name": "Architektur",
     "Schreibvariante": "",
-    "Derivatbezug": [],
+    "Derivatbezug": [
+      {
+        "id": 124,
+        "value": "Architekt",
+        "order": "119.00000000000000000000"
+      }
+    ],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": "Baukunst",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "47": {
     "id": 47,
@@ -515,26 +572,15 @@
       },
       {
         "id": 43,
-        "value": "specifisch",
+        "value": "Spezifik",
         "order": "43.00000000000000000000"
       }
     ],
-    "Synonym": null
-  },
-  "48": {
-    "id": 48,
-    "order": "48.00000000000000000000",
-    "Name": "allgemein",
-    "Schreibvariante": "",
-    "Derivatbezug": [
-      {
-        "id": 42,
-        "value": "Allgemeinheit",
-        "order": "42.00000000000000000000"
-      }
-    ],
-    "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "49": {
     "id": 49,
@@ -543,7 +589,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "50": {
     "id": 50,
@@ -552,7 +602,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "51": {
     "id": 51,
@@ -572,7 +626,11 @@
         "order": "50.00000000000000000000"
       }
     ],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "52": {
     "id": 52,
@@ -581,31 +639,24 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
-  },
-  "53": {
-    "id": 53,
-    "order": "53.00000000000000000000",
-    "Name": "technisch",
-    "Schreibvariante": "",
-    "Derivatbezug": [
-      {
-        "id": 52,
-        "value": "Technik",
-        "order": "52.00000000000000000000"
-      }
-    ],
-    "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": "technisch",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "54": {
     "id": 54,
     "order": "54.00000000000000000000",
-    "Name": "praktisch",
+    "Name": "Praxis",
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": "praktisch",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "55": {
     "id": 55,
@@ -625,64 +676,62 @@
         "order": "44.00000000000000000000"
       }
     ],
-    "Synonym": null
-  },
-  "56": {
-    "id": 56,
-    "order": "56.00000000000000000000",
-    "Name": "empfindend",
-    "Schreibvariante": "",
-    "Derivatbezug": [
-      {
-        "id": 19,
-        "value": "Empfindung",
-        "order": "19.00000000000000000000"
-      }
-    ],
-    "Komponenten": [],
-    "Synonym": null
-  },
-  "57": {
-    "id": 57,
-    "order": "57.00000000000000000000",
-    "Name": "künstlerisch",
-    "Schreibvariante": "",
-    "Derivatbezug": [
-      {
-        "id": 44,
-        "value": "Kunst",
-        "order": "44.00000000000000000000"
-      }
-    ],
-    "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "58": {
     "id": 58,
     "order": "58.00000000000000000000",
-    "Name": "modern",
+    "Name": "Moderne",
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": "modern",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "59": {
     "id": 59,
     "order": "59.00000000000000000000",
-    "Name": "Poet",
+    "Name": "Dichter",
     "Schreibvariante": "",
-    "Derivatbezug": [],
+    "Derivatbezug": [
+      {
+        "id": 73,
+        "value": "Dichtung",
+        "order": "73.00000000000000000000"
+      }
+    ],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": "Poet",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "60": {
     "id": 60,
     "order": "60.00000000000000000000",
     "Name": "Maler",
     "Schreibvariante": "",
-    "Derivatbezug": [],
+    "Derivatbezug": [
+      {
+        "id": 45,
+        "value": "Malerei",
+        "order": "45.00000000000000000000"
+      }
+    ],
     "Komponenten": [],
-    "Synonym": null
+    "Synonym": null,
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "61": {
     "id": 61,
@@ -691,7 +740,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": ""
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "62": {
     "id": 62,
@@ -711,7 +764,11 @@
         "order": "63.00000000000000000000"
       }
     ],
-    "Synonym": ""
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "63": {
     "id": 63,
@@ -720,7 +777,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": ""
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "64": {
     "id": 64,
@@ -729,7 +790,11 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": ""
+    "Synonym": "Gefallen",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
   },
   "65": {
     "id": 65,
@@ -738,6 +803,1537 @@
     "Schreibvariante": "",
     "Derivatbezug": [],
     "Komponenten": [],
-    "Synonym": ""
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "Name": "Ton",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "tönend",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "Name": "Ideal",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "Name": "Wirkung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "Einwirkung",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "Name": "Urtheil",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "70": {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "Name": "Verstand",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "71": {
+    "id": 71,
+    "order": "71.00000000000000000000",
+    "Name": "Vernunft",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "72": {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "Name": "Dichtkunst",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [
+      {
+        "id": 44,
+        "value": "Kunst",
+        "order": "44.00000000000000000000"
+      },
+      {
+        "id": 73,
+        "value": "Dichtung",
+        "order": "73.00000000000000000000"
+      }
+    ],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "73": {
+    "id": 73,
+    "order": "73.00000000000000000000",
+    "Name": "Dichtung",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 59,
+        "value": "Dichter",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": "Poesie",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "74": {
+    "id": 74,
+    "order": "74.00000000000000000000",
+    "Name": "Form",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "75": {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "Name": "Auge",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "76": {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "Name": "Bildende Künste",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [
+      {
+        "id": 44,
+        "value": "Kunst",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "78": {
+    "id": 78,
+    "order": "78.00000000000000000000",
+    "Name": "Naturgesetz",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [
+      {
+        "id": 79,
+        "value": "Gesetz",
+        "order": "79.00000000000000000000"
+      },
+      {
+        "id": 81,
+        "value": "Natur",
+        "order": "81.00000000000000000000"
+      }
+    ],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "79": {
+    "id": 79,
+    "order": "79.00000000000000000000",
+    "Name": "Gesetz",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "80": {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "Name": "Kunstgesetz",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [
+      {
+        "id": 44,
+        "value": "Kunst",
+        "order": "44.00000000000000000000"
+      },
+      {
+        "id": 79,
+        "value": "Gesetz",
+        "order": "79.00000000000000000000"
+      }
+    ],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "81": {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "Name": "Natur",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "natürlich",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "82": {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "Name": "Inhalt",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "84": {
+    "id": 84,
+    "order": "84.00000000000000000000",
+    "Name": "Bedeutung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "86": {
+    "id": 86,
+    "order": "86.00000000000000000000",
+    "Name": "Wahrnehmen",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "87": {
+    "id": 87,
+    "order": "87.00000000000000000000",
+    "Name": "Sinn",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "sinnlich",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "88": {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "Name": "Qualität",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "89": {
+    "id": 89,
+    "order": "89.00000000000000000000",
+    "Name": "Sinnesqualität",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [
+      {
+        "id": 87,
+        "value": "Sinn",
+        "order": "87.00000000000000000000"
+      },
+      {
+        "id": 88,
+        "value": "Qualität",
+        "order": "88.00000000000000000000"
+      }
+    ],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "90": {
+    "id": 90,
+    "order": "90.00000000000000000000",
+    "Name": "Farbe",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "91": {
+    "id": 91,
+    "order": "91.00000000000000000000",
+    "Name": "Seele",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "93": {
+    "id": 93,
+    "order": "92.00000000000000000000",
+    "Name": "Geruch",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "94": {
+    "id": 94,
+    "order": "93.00000000000000000000",
+    "Name": "Geschmack",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "95": {
+    "id": 95,
+    "order": "94.00000000000000000000",
+    "Name": "Organ",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 132,
+        "value": "Organismus",
+        "order": "127.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "organisch",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "96": {
+    "id": 96,
+    "order": "95.00000000000000000000",
+    "Name": "Phantasie",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "97": {
+    "id": 97,
+    "order": "96.00000000000000000000",
+    "Name": "Musikstück",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "Tonstück",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "98": {
+    "id": 98,
+    "order": "97.00000000000000000000",
+    "Name": "Schauen",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "99": {
+    "id": 99,
+    "order": "98.00000000000000000000",
+    "Name": "Vorstellen",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": "vorstellen",
+    "Löschen (Christoph)": false
+  },
+  "100": {
+    "id": 100,
+    "order": "99.00000000000000000000",
+    "Name": "Bewußtsein",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "101": {
+    "id": 101,
+    "order": "100.00000000000000000000",
+    "Name": "Anschauung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "anschauen",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "102": {
+    "id": 102,
+    "order": "101.00000000000000000000",
+    "Name": "Hören",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 148,
+        "value": "Hörer",
+        "order": "143.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "103": {
+    "id": 103,
+    "order": "102.00000000000000000000",
+    "Name": "Betrachten",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "104": {
+    "id": 104,
+    "order": "103.00000000000000000000",
+    "Name": "Tonform",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [
+      {
+        "id": 66,
+        "value": "Ton",
+        "order": "66.00000000000000000000"
+      },
+      {
+        "id": 74,
+        "value": "Form",
+        "order": "74.00000000000000000000"
+      }
+    ],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "105": {
+    "id": 105,
+    "order": "104.00000000000000000000",
+    "Name": "Sinnesempfindung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [
+      {
+        "id": 19,
+        "value": "Empfindung",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 87,
+        "value": "Sinn",
+        "order": "87.00000000000000000000"
+      }
+    ],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "106": {
+    "id": 106,
+    "order": "105.00000000000000000000",
+    "Name": "Interesse",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "107": {
+    "id": 107,
+    "order": "106.00000000000000000000",
+    "Name": "Affect",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": null,
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "108": {
+    "id": 108,
+    "order": "107.00000000000000000000",
+    "Name": "Logik",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "logisch",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "109": {
+    "id": 109,
+    "order": "108.00000000000000000000",
+    "Name": "Pathologie",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "pathologisch",
+    "Antonym": null,
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "111": {
+    "id": 111,
+    "order": "110.00000000000000000000",
+    "Name": "Leidenschaft",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "112": {
+    "id": 112,
+    "order": "111.00000000000000000000",
+    "Name": "Medicin",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "medicinisch",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "113": {
+    "id": 113,
+    "order": "112.00000000000000000000",
+    "Name": "Intellect",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "intellectuell",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "114": {
+    "id": 114,
+    "order": "113.00000000000000000000",
+    "Name": "Stimmung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "115": {
+    "id": 115,
+    "order": "114.00000000000000000000",
+    "Name": "Neigung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "116": {
+    "id": 116,
+    "order": "115.00000000000000000000",
+    "Name": "Musiker",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 8,
+        "value": "Musik",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "118": {
+    "id": 118,
+    "order": "116.00000000000000000000",
+    "Name": "Färbung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "120": {
+    "id": 120,
+    "order": "117.00000000000000000000",
+    "Name": "Religion",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "religiös",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "124": {
+    "id": 124,
+    "order": "119.00000000000000000000",
+    "Name": "Architekt",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 46,
+        "value": "Architektur",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "125": {
+    "id": 125,
+    "order": "120.00000000000000000000",
+    "Name": "Gefühlszustand",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 2,
+        "value": "Gefühl",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "126": {
+    "id": 126,
+    "order": "121.00000000000000000000",
+    "Name": "Psychologie",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "psychologisch",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "127": {
+    "id": 127,
+    "order": "122.00000000000000000000",
+    "Name": "Abstraction",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "abstract",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "128": {
+    "id": 128,
+    "order": "123.00000000000000000000",
+    "Name": "Subjectivität",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 24,
+        "value": "Subject",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "129": {
+    "id": 129,
+    "order": "124.00000000000000000000",
+    "Name": "Ursache",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "ursächlich",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "130": {
+    "id": 130,
+    "order": "125.00000000000000000000",
+    "Name": "Gefühlsaffection",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 2,
+        "value": "Gefühl",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "131": {
+    "id": 131,
+    "order": "126.00000000000000000000",
+    "Name": "Erscheinung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "132": {
+    "id": 132,
+    "order": "127.00000000000000000000",
+    "Name": "Organismus",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 95,
+        "value": "Organ",
+        "order": "94.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "133": {
+    "id": 133,
+    "order": "128.00000000000000000000",
+    "Name": "Bewegung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "134": {
+    "id": 134,
+    "order": "129.00000000000000000000",
+    "Name": "Gefühlsbewegung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [
+      {
+        "id": 2,
+        "value": "Gefühl",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 133,
+        "value": "Bewegung",
+        "order": "128.00000000000000000000"
+      }
+    ],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "135": {
+    "id": 135,
+    "order": "130.00000000000000000000",
+    "Name": "Nothwendigkeit",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "nothwendig",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "136": {
+    "id": 136,
+    "order": "131.00000000000000000000",
+    "Name": "Causalität",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "causal",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "137": {
+    "id": 137,
+    "order": "132.00000000000000000000",
+    "Name": "Individuum",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "138": {
+    "id": 138,
+    "order": "133.00000000000000000000",
+    "Name": "Concert",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "139": {
+    "id": 139,
+    "order": "134.00000000000000000000",
+    "Name": "Regung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "140": {
+    "id": 140,
+    "order": "135.00000000000000000000",
+    "Name": "Concertpublikum",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [
+      {
+        "id": 61,
+        "value": "Publikum",
+        "order": "61.00000000000000000000"
+      },
+      {
+        "id": 138,
+        "value": "Concert",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "141": {
+    "id": 141,
+    "order": "136.00000000000000000000",
+    "Name": "Verstandesmusik",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [
+      {
+        "id": 8,
+        "value": "Musik",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 70,
+        "value": "Verstand",
+        "order": "70.00000000000000000000"
+      }
+    ],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "142": {
+    "id": 142,
+    "order": "137.00000000000000000000",
+    "Name": "Convention",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "conventionell",
+    "Antonym": "",
+    "Verb": null,
+    "Löschen (Christoph)": false
+  },
+  "143": {
+    "id": 143,
+    "order": "138.00000000000000000000",
+    "Name": "Denken",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "denken",
+    "Löschen (Christoph)": false
+  },
+  "144": {
+    "id": 144,
+    "order": "139.00000000000000000000",
+    "Name": "Zeit",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "145": {
+    "id": 145,
+    "order": "140.00000000000000000000",
+    "Name": "Musikgattung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "146": {
+    "id": 146,
+    "order": "141.00000000000000000000",
+    "Name": "Composition",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 147,
+        "value": "Componist",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "componiren",
+    "Löschen (Christoph)": false
+  },
+  "147": {
+    "id": 147,
+    "order": "142.00000000000000000000",
+    "Name": "Componist",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 146,
+        "value": "Composition",
+        "order": "141.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "148": {
+    "id": 148,
+    "order": "143.00000000000000000000",
+    "Name": "Hörer",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 102,
+        "value": "Hören",
+        "order": "101.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": "Zuhörer",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "149": {
+    "id": 149,
+    "order": "144.00000000000000000000",
+    "Name": "Tonreihe",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 66,
+        "value": "Ton",
+        "order": "66.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "150": {
+    "id": 150,
+    "order": "145.00000000000000000000",
+    "Name": "Ausdruck",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "ausdrücken",
+    "Löschen (Christoph)": false
+  },
+  "151": {
+    "id": 151,
+    "order": "146.00000000000000000000",
+    "Name": "Charakter",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "152": {
+    "id": 152,
+    "order": "147.00000000000000000000",
+    "Name": "Symphonie",
+    "Schreibvariante": "Sinfonie",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "153": {
+    "id": 153,
+    "order": "148.00000000000000000000",
+    "Name": "Ouvertüre",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "154": {
+    "id": 154,
+    "order": "149.00000000000000000000",
+    "Name": "Fact",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "factisch",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "155": {
+    "id": 155,
+    "order": "150.00000000000000000000",
+    "Name": "Positivum",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "positiv",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "156": {
+    "id": 156,
+    "order": "151.00000000000000000000",
+    "Name": "Negativum",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "negativ",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "157": {
+    "id": 157,
+    "order": "152.00000000000000000000",
+    "Name": "Melodie",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "melodisch",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "158": {
+    "id": 158,
+    "order": "153.00000000000000000000",
+    "Name": "Rhythmus",
+    "Schreibvariante": "Rhytmus",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "159": {
+    "id": 159,
+    "order": "154.00000000000000000000",
+    "Name": "Harmonie",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "harmonisch",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "161": {
+    "id": 161,
+    "order": "155.00000000000000000000",
+    "Name": "Rhetorik",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "Redekunst",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "162": {
+    "id": 162,
+    "order": "156.00000000000000000000",
+    "Name": "Modulation",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "163": {
+    "id": 163,
+    "order": "157.00000000000000000000",
+    "Name": "Sprache",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "164": {
+    "id": 164,
+    "order": "158.00000000000000000000",
+    "Name": "Nachahmung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "165": {
+    "id": 165,
+    "order": "159.00000000000000000000",
+    "Name": "Erregung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "erregen",
+    "Löschen (Christoph)": false
+  },
+  "166": {
+    "id": 166,
+    "order": "160.00000000000000000000",
+    "Name": "Sonate",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "167": {
+    "id": 167,
+    "order": "161.00000000000000000000",
+    "Name": "Thema",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "168": {
+    "id": 168,
+    "order": "162.00000000000000000000",
+    "Name": "Satz",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "169": {
+    "id": 169,
+    "order": "163.00000000000000000000",
+    "Name": "Gemüth",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "170": {
+    "id": 170,
+    "order": "164.00000000000000000000",
+    "Name": "Wort",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "171": {
+    "id": 171,
+    "order": "165.00000000000000000000",
+    "Name": "Darstellung",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 176,
+        "value": "Darsteller",
+        "order": "170.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "darstellen",
+    "Löschen (Christoph)": false
+  },
+  "173": {
+    "id": 173,
+    "order": "167.00000000000000000000",
+    "Name": "Künstler",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 44,
+        "value": "Kunst",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "174": {
+    "id": 174,
+    "order": "168.00000000000000000000",
+    "Name": "Zeichnung",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "zeichnen",
+    "Löschen (Christoph)": false
+  },
+  "175": {
+    "id": 175,
+    "order": "169.00000000000000000000",
+    "Name": "Mimik",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "mimisch",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "176": {
+    "id": 176,
+    "order": "170.00000000000000000000",
+    "Name": "Darsteller",
+    "Schreibvariante": "",
+    "Derivatbezug": [
+      {
+        "id": 171,
+        "value": "Darstellung",
+        "order": "165.00000000000000000000"
+      }
+    ],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "177": {
+    "id": 177,
+    "order": "171.00000000000000000000",
+    "Name": "Welt",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "178": {
+    "id": 178,
+    "order": "172.00000000000000000000",
+    "Name": "Geist",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "geistig",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
+  },
+  "179": {
+    "id": 179,
+    "order": "173.00000000000000000000",
+    "Name": "Mittel",
+    "Schreibvariante": "",
+    "Derivatbezug": [],
+    "Komponenten": [],
+    "Synonym": "",
+    "Adjektiv": "",
+    "Antonym": "",
+    "Verb": "",
+    "Löschen (Christoph)": false
   }
 }
