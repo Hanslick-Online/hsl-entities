@@ -8880,6 +8880,8 @@
                <name type="character" ref="#hsl_person_id_6287">Prince Raphael</name>
                <name type="character" ref="#hsl_person_id_6288">Saradrap</name>
                <name type="character" ref="#hsl_person_id_6289">Prince Casimir</name>
+               <name type="character" ref="#hsl_person_id_6424">Sparadrap</name>
+               <name type="character" ref="#hsl_person_id_6426">Alte</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300704437</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_princesse_de_Tr%C3%A9bizonde_(Offenbach%2C_Jacques)</idno>
             </bibl>
@@ -8967,6 +8969,11 @@
                <author ref="#hsl_person_id_2062">
                   <persName>Meilhac, Henri</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6418">Gabrielle</name>
+               <name type="character" ref="#hsl_person_id_6419">Bobinet</name>
+               <name type="character" ref="#hsl_person_id_6422">Brésilien</name>
+               <name type="character" ref="#hsl_person_id_6423">Baron de Gondremarck</name>
+               <name type="character" ref="#hsl_person_id_6425">Raoul de Gardefeu</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300115695</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_vie_parisienne_(Offenbach%2C_Jacques)</idno>
             </bibl>
@@ -40300,6 +40307,38 @@
                   <persName>Nohl, Ludwig</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://books.google.at/books/about/Die_Beethoven_Feier_und_die_Kunst_der_Ge.html?id=8x9XAAAAcAAJ</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4468" resp="#awilfing" cert="high">
+               <title type="main">Mignonne, WWV57</title>
+               <title type="alternative">Die Rose</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <author ref="#hsl_person_id_6412">
+                  <persName>Ronsard, Pierre de</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300389582</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11176031</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4469" resp="#awilfing" cert="high">
+               <title type="main">L'attente, WWV55</title>
+               <title type="alternative">Die Erwartung</title>
+               <author ref="#hsl_person_id_131">
+                  <persName>Hugo, Victor</persName>
+               </author>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300389590</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11176031</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4470" resp="#awilfing" cert="high">
+               <title type="main">Dors, mon enfant, WWV53</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300389574</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11176031</idno>
             </bibl>
       </listBibl>
       </body>
