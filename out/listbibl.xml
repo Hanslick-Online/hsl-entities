@@ -2469,6 +2469,9 @@
                <name type="character" ref="#hsl_person_id_468">Corentin</name>
                <name type="character" ref="#hsl_person_id_473">Dinorah</name>
                <name type="character" ref="#hsl_person_id_592">Hoël</name>
+               <name type="character" ref="#hsl_person_id_6429">Chasseur</name>
+               <name type="character" ref="#hsl_person_id_6430">Chevrière</name>
+               <name type="character" ref="#hsl_person_id_6431">Faucheur</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300425902</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_pardon_de_Plo%C3%ABrmel_(Meyerbeer%2C_Giacomo)</idno>
             </bibl>
@@ -7242,7 +7245,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_752" resp="#awilfing" cert="high">
                <title type="main">Studien für den Pedal-Flügel. 6 Stücke in kanonischer Form, op. 56</title>
-               <title type="alternative">Canons für den Pedalflügel</title>
+               <title type="alternative">Canons für den Pedalflügel; Studien für den Pedalflügel</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
@@ -16250,6 +16253,7 @@
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6432">Jesus Christus</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300093098</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Christus,_S.3_(Liszt,_Franz)</idno>
             </bibl>
@@ -21900,7 +21904,7 @@
                <author ref="#hsl_person_id_1">
                   <persName>Hanslick, Eduard</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18690309&amp;seite=1&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1869.03.09.html</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2334" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 1 in D-Dur, TH111</title>
@@ -21911,7 +21915,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_No.1%2C_Op.11_(Tchaikovsky%2C_Pyotr)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2335" resp="#awilfing" cert="high">
-               <title type="main">Bayreuther Festspiele I-IV</title>
+               <title type="main">R. Wagner's Bühnenfestspiel in Bayreuth I-IV</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
                </noteGrp>
@@ -39576,10 +39580,11 @@
                <author ref="#hsl_person_id_1">
                   <persName>Hanslick, Eduard</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18701222</idno>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1870.12.22.html</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4375" resp="#awilfing" cert="high">
                <title type="main">Versuch einer Statistik der Gesangvereine und Concertinstitute Deutschlands und der Schweiz</title>
+               <title type="alternative">Statistik der Gesangvereine und Concert-Institute Deutschlands; Statistik der Concert-Institute Deutschlands</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_3842">Jahrbücher für musikalische Wissenschaft</note>
                </noteGrp>
@@ -40342,6 +40347,79 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300389574</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11176031</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4471" resp="#awilfing" cert="high">
+               <title type="main">Weihnachts-Oratorium, S3</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_1697">Christus, S3</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_6434">Engel</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300093098</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Christus,_S.3_(Liszt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4472" resp="#awilfing" cert="high">
+               <title type="main">Stabat mater</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_927">
+                  <persName>Palestrina, Giovanni Pierluigi da</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4473" resp="#awilfing" cert="high">
+               <title type="main">Lamentatio</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_927">
+                  <persName>Palestrina, Giovanni Pierluigi da</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4474" resp="#awilfing" cert="high">
+               <title type="main">Bunte Blätter. Skizzen und Studien für Freunde der Musik und der bildenden Kunst</title>
+               <author ref="#hsl_person_id_717">
+                  <persName>Ambros, August Wilhelm</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11011618</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4475" resp="#awilfing" cert="high">
+               <title type="main">Thema und Variationen für Klavier in G-Dur, op. 88</title>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1355411467</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Theme_and_Variations,_Op.88_(Rubinstein,_Anton)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4476" resp="#awilfing" cert="high">
+               <title type="main">Johannes der Täufer</title>
+               <author ref="#hsl_person_id_909">
+                  <persName>Hager, Johannes</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4477" resp="#awilfing" cert="high">
+               <title type="main">Willst du dein Herz mir schenken, BWV518</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Willst_du_dein_Herz_mir_schenken,_BWV_518_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4478" resp="#awilfing" cert="high">
+               <title type="main">Friedemann Bach</title>
+               <author ref="#hsl_person_id_4651">
+                  <persName>Brachvogel, Albert Emil</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10106139</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10106140</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10106141</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4479" resp="#awilfing" cert="high">
+               <title type="main">Musik. (Concerte. — "Figaro's Hochzeit." — "Der Prophet." — Ein Wort an Herrn Chrysander.)</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1869.12.15.html</idno>
             </bibl>
       </listBibl>
       </body>
