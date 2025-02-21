@@ -7867,6 +7867,7 @@
                <name type="character" ref="#hsl_person_id_5591">Achsa</name>
                <name type="character" ref="#hsl_person_id_5592">Kaleb</name>
                <name type="character" ref="#hsl_person_id_5654">Benjamin</name>
+               <name type="character" ref="#hsl_person_id_6443">Antichrist</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4006406-2</idno>
                <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/</idno>
             </bibl>
@@ -8880,11 +8881,9 @@
                <name type="character" ref="#hsl_person_id_6284">Paola</name>
                <name type="character" ref="#hsl_person_id_6285">Cabriolo</name>
                <name type="character" ref="#hsl_person_id_6286">Zanetta</name>
-               <name type="character" ref="#hsl_person_id_6287">Prince Raphael</name>
+               <name type="character" ref="#hsl_person_id_6287">Raphael</name>
                <name type="character" ref="#hsl_person_id_6288">Saradrap</name>
-               <name type="character" ref="#hsl_person_id_6289">Prince Casimir</name>
-               <name type="character" ref="#hsl_person_id_6424">Sparadrap</name>
-               <name type="character" ref="#hsl_person_id_6426">Alte</name>
+               <name type="character" ref="#hsl_person_id_6289">Casimir</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300704437</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_princesse_de_Tr%C3%A9bizonde_(Offenbach%2C_Jacques)</idno>
             </bibl>
@@ -40420,6 +40419,136 @@
                   <persName>Hanslick, Eduard</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1869.12.15.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4481" resp="#awilfing" cert="high">
+               <title type="main">Hector Berlioz</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4474">Bunte Blätter. Skizzen und Studien für Freunde der Musik und der bildenden Kunst</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_717">
+                  <persName>Ambros, August Wilhelm</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4482" resp="#awilfing" cert="high">
+               <title type="main">Sigismund Thalberg</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4474">Bunte Blätter. Skizzen und Studien für Freunde der Musik und der bildenden Kunst</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_717">
+                  <persName>Ambros, August Wilhelm</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011618?page=132,133</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4483" resp="#awilfing" cert="high">
+               <title type="main">Fétis</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4474">Bunte Blätter. Skizzen und Studien für Freunde der Musik und der bildenden Kunst</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_717">
+                  <persName>Ambros, August Wilhelm</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011618?page=166,167</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4484" resp="#awilfing" cert="high">
+               <title type="main">Alessandro Stradella</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4474">Bunte Blätter. Skizzen und Studien für Freunde der Musik und der bildenden Kunst</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_717">
+                  <persName>Ambros, August Wilhelm</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011618?page=300,301</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4485" resp="#awilfing" cert="high">
+               <title type="main">Robert Franz</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4474">Bunte Blätter. Skizzen und Studien für Freunde der Musik und der bildenden Kunst</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_717">
+                  <persName>Ambros, August Wilhelm</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011618?page=320,321</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4486" resp="#awilfing" cert="high">
+               <title type="main">Schwind's und Mendelssohn's "Melusina"</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4474">Bunte Blätter. Skizzen und Studien für Freunde der Musik und der bildenden Kunst</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_717">
+                  <persName>Ambros, August Wilhelm</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011618?page=144,145</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4487" resp="#awilfing" cert="high">
+               <title type="main">Märchen von der schönen Melusine</title>
+               <author ref="#hsl_person_id_283">
+                  <persName>Schwind, Moritz Ludwig von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4743486-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://sammlung.belvedere.at/objects/7905/die-schone-melusine-i-fontes-melusinae</idno>
+               <idno type="URL" subtype="Digitalisat">https://sammlung.belvedere.at/objects/12525/die-schone-melusine-ii-am-waldbrunnen</idno>
+               <idno type="URL" subtype="Digitalisat">https://sammlung.belvedere.at/objects/12526/die-schone-melusine-iii-die-braut</idno>
+               <idno type="URL" subtype="Digitalisat">https://sammlung.belvedere.at/objects/12527/die-schone-melusine-iv-der-eidschwur</idno>
+               <idno type="URL" subtype="Digitalisat">https://sammlung.belvedere.at/objects/12528/die-schone-melusine-v-das-heiligtum</idno>
+               <idno type="URL" subtype="Digitalisat">https://sammlung.belvedere.at/objects/12529/die-schone-melusine-vi-die-bosen-zungen</idno>
+               <idno type="URL" subtype="Digitalisat">https://sammlung.belvedere.at/objects/12530/die-schone-melusine-vii-das-liebesgluck</idno>
+               <idno type="URL" subtype="Digitalisat">https://sammlung.belvedere.at/objects/12531/die-schone-melusine-viii-der-eidbruch</idno>
+               <idno type="URL" subtype="Digitalisat">https://sammlung.belvedere.at/objects/12532/die-schone-melusine-ix-melusines-mutterschmerz</idno>
+               <idno type="URL" subtype="Digitalisat">https://sammlung.belvedere.at/objects/12533/die-schone-melusine-x-das-wiederfinden</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4488" resp="#awilfing" cert="high">
+               <title type="main">Von der Holbein-Ausstellung in Dresden 1871</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4474">Bunte Blätter. Skizzen und Studien für Freunde der Musik und der bildenden Kunst</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_717">
+                  <persName>Ambros, August Wilhelm</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011618?page=268,269</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4489" resp="#awilfing" cert="high">
+               <title type="main">Dresdener Madonna</title>
+               <author ref="#hsl_person_id_6442">
+                  <persName>Sarburgh, Bartholomäus</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://skd-online-collection.skd.museum/Details/Index/357840</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4490" resp="#awilfing" cert="high">
+               <title type="main">Musikalisches aus Italien</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4474">Bunte Blätter. Skizzen und Studien für Freunde der Musik und der bildenden Kunst</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_717">
+                  <persName>Ambros, August Wilhelm</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011618?page=50,51</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4491" resp="#awilfing" cert="high">
+               <title type="main">Giotto</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4474">Bunte Blätter. Skizzen und Studien für Freunde der Musik und der bildenden Kunst</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_717">
+                  <persName>Ambros, August Wilhelm</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011618?page=242,243</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4492" resp="#awilfing" cert="high">
+               <title type="main">Die Geschichte des Antichrist</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4474">Bunte Blätter. Skizzen und Studien für Freunde der Musik und der bildenden Kunst</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_717">
+                  <persName>Ambros, August Wilhelm</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011618?page=260,261</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4493" resp="#awilfing" cert="high">
+               <title type="main">Der Taschenspieler in der Scheune</title>
+               <author ref="#hsl_person_id_6290">
+                  <persName>Knaus, Ludwig</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://de.wikipedia.org/wiki/Der_Taschenspieler_in_der_Scheune#/media/Datei:Ludwig_Knaus_-_Der_Taschenspieler_in_der_Scheune_(1862).jpg</idno>
             </bibl>
       </listBibl>
       </body>
