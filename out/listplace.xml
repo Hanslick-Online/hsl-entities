@@ -4072,7 +4072,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3852</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4066942-7</idno>
                </place>
-               <place xml:id="hsl_place_id_324" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_324" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Szczecin</placeName>
                      <placeName type="alternative">Stettin</placeName>
@@ -4705,7 +4705,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q445500</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4023025-9</idno>
                </place>
-               <place xml:id="hsl_place_id_375" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_375" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Löbejün</placeName>
                   </settlement>
@@ -9039,8 +9039,11 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q43048</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4049859-1</idno>
                </place>
-               <place xml:id="hsl_place_id_764" resp="#awilfing" cert="medium">
-                  <placeName type="main"/>
+               <place xml:id="hsl_place_id_764" resp="#awilfing" cert="high">
+                  <placeName type="main">Arco</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3182910/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q138473</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4085891-1</idno>
                </place>
                <place xml:id="hsl_place_id_765" resp="#awilfing" cert="high">
                   <placeName type="main">Piazza San Marco</placeName>
@@ -9048,6 +9051,18 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3229870/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q217527</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4252349-7</idno>
+               </place>
+               <place xml:id="hsl_place_id_766" resp="#awilfing" cert="high">
+                  <placeName type="main">Kärntner Straße, Wien</placeName>
+                     <placeName type="alternative">Kärntnerstraße</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q699947</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4363985-9</idno>
+               </place>
+               <place xml:id="hsl_place_id_767" resp="#awilfing" cert="high">
+                  <placeName type="main">Pillnitz</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2853707/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q8946</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4306696-3</idno>
                </place>
             </listPlace>
          </div>
