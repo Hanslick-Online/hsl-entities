@@ -9951,7 +9951,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1030" resp="#awilfing" cert="high">
                <title type="main">Così fan tutte, ossia La scuola degli amanti, KV588</title>
-               <title type="alternative">Cosi fan tutte; So machen es Alle; Mädchentreue</title>
+               <title type="alternative">Cosi fan tutte; So machen es Alle; Mädchentreue; Weibertreue</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
@@ -9963,6 +9963,7 @@
                <name type="character" ref="#hsl_person_id_1887">Ferrando</name>
                <name type="character" ref="#hsl_person_id_1888">Guglielmo</name>
                <name type="character" ref="#hsl_person_id_1889">Don Alfonso</name>
+               <name type="character" ref="#hsl_person_id_6446">Dorabella</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300107331</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Cos%C3%AC_fan_tutte,_K.588_(Mozart,_Wolfgang_Amadeus)</idno>
             </bibl>
@@ -40549,6 +40550,19 @@
                   <persName>Knaus, Ludwig</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://de.wikipedia.org/wiki/Der_Taschenspieler_in_der_Scheune#/media/Datei:Ludwig_Knaus_-_Der_Taschenspieler_in_der_Scheune_(1862).jpg</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4494" resp="#awilfing" cert="medium">
+               <title type="main">Die Geschöpfe des Prometheus op. 43</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015348</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4495" resp="#awilfing" cert="medium">
+               <title type="main">Die Musik der Gegenwart und die Gesamtkunst der Zukunft</title>
+               <author ref="#hsl_person_id_1745">
+                  <persName>Brendel, Franz</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
