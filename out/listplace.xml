@@ -581,10 +581,10 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q2079</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4035206-7</idno>
                </place>
-               <place xml:id="hsl_place_id_33" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_33" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Lisboa</placeName>
-                     <placeName type="alternative">Lissabon</placeName>
+                     <placeName type="alternative">Lissabon; Lisbonne</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>PT, Portugal</country>
@@ -9091,6 +9091,19 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2975349/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q184371</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4054074-1</idno>
+               </place>
+               <place xml:id="hsl_place_id_774" resp="#awilfing" cert="high">
+                  <placeName type="main">al-Qaṣr al-Kabīr</placeName>
+                     <placeName type="alternative">Alcazar</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2544001/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q52603</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4472496-2</idno>
+               </place>
+               <place xml:id="hsl_place_id_775" resp="#awilfing" cert="high">
+                  <placeName type="main">Marburg</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2873759/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3869</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4037446-4</idno>
                </place>
             </listPlace>
          </div>
