@@ -1160,6 +1160,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_1510">Linda</name>
                <name type="character" ref="#hsl_person_id_2565">Antonio</name>
+               <name type="character" ref="#hsl_person_id_6470">Pierotto</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300045700</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Linda_di_Chamounix_(Donizetti,_Gaetano)</idno>
             </bibl>
@@ -8098,6 +8099,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_842" resp="#awilfing" cert="high">
                <title type="main">Abu Hassan, J106</title>
+               <title type="alternative">Abu-Hassan</title>
                <author ref="#hsl_person_id_321">
                   <persName>Weber, Carl Maria von</persName>
                </author>
@@ -8105,6 +8107,7 @@
                   <persName>Hiemer, Franz Karl</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1349">Abu Hassan</name>
+               <name type="character" ref="#hsl_person_id_6460">Fatime</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300171374</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Abu_Hassan,_J.106_(Weber,_Carl_Maria_von)</idno>
             </bibl>
@@ -11160,6 +11163,10 @@
                </author>
                <name type="character" ref="#hsl_person_id_6114">Georg</name>
                <name type="character" ref="#hsl_person_id_6118">Marie</name>
+               <name type="character" ref="#hsl_person_id_6465">Hans Stadinger</name>
+               <name type="character" ref="#hsl_person_id_6466">Graf von Liebenau</name>
+               <name type="character" ref="#hsl_person_id_6467">Irmentraut</name>
+               <name type="character" ref="#hsl_person_id_6468">Adelhof aus Schwaben</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30009650X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Waffenschmied_(Lortzing%2C_Albert)</idno>
             </bibl>
@@ -11769,6 +11776,9 @@
                <title type="main">Regenlied, op. 10</title>
                <author ref="#hsl_person_id_101">
                   <persName>Goldmark, Karl</persName>
+               </author>
+               <author ref="#hsl_person_id_1603">
+                  <persName>Groth, Klaus</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_1214" resp="#awilfing" cert="high">
@@ -15614,6 +15624,9 @@
                <author ref="#hsl_person_id_2759">
                   <persName>Rimskij-Korsakov, Nikolaj</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6462">Sadko</name>
+               <name type="character" ref="#hsl_person_id_6463">Carju Morskomu</name>
+               <name type="character" ref="#hsl_person_id_6464">Doch'</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300130872</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Sadko_(musical_tableau)%2C_Op.5_(Rimsky-Korsakov%2C_Nikolay)</idno>
             </bibl>
@@ -29998,8 +30011,7 @@
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10036677</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3251" resp="#awilfing" cert="high">
-               <title type="main">Beethoven-Biographie</title>
-               <title type="alternative">unvollendet</title>
+               <title type="main">Beethoven-Biographie (Fragment)</title>
                <author ref="#hsl_person_id_135">
                   <persName>Jahn, Otto</persName>
                </author>
@@ -39694,7 +39706,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4390" resp="#awilfing" cert="high">
                <title type="main">Lukas-Passion, BWV246</title>
-               <title type="alternative">vermutlich fälschlich Bach zugeschrieben</title>
+               <title type="alternative">Passion St. Lucas; vermutlich fälschlich Bach zugeschrieben</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -39717,7 +39729,8 @@
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11556990</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4393" resp="#awilfing" cert="high">
-               <title type="main">Konzert</title>
+               <title type="main">Concert / Konzert</title>
+               <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
@@ -40573,6 +40586,44 @@
                <author ref="#hsl_person_id_1891">
                   <persName>Schneider, Louis</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6455">Mozart</name>
+               <name type="character" ref="#hsl_person_id_6456">Schikaneder</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4497" resp="#awilfing" cert="high">
+               <title type="main">Peter Schmoll und seine Nachbarn, J8</title>
+               <author ref="#hsl_person_id_321">
+                  <persName>Weber, Carl Maria von</persName>
+               </author>
+               <author ref="#hsl_person_id_6461">
+                  <persName>Türk, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300407645</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Peter_Schmoll_und_seine_Nachbarn%2C_J.8_(Weber%2C_Carl_Maria_von)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4498" resp="#awilfing" cert="high">
+               <title type="main">Hamlet, op. 37</title>
+               <author ref="#hsl_person_id_94">
+                  <persName>Gade, Niels Wilhelm</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300333188</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Hamlet%2C_Op.37_(Gade%2C_Niels)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4499" resp="#awilfing" cert="high">
+               <title type="main">Rondo a capriccio, op. 129</title>
+               <title type="alternative">Wuth über einen verlorenen Groschen</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300016158</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Rondo_a_capriccio,_Op.129_(Beethoven,_Ludwig_van)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4500" resp="#awilfing" cert="high">
+               <title type="main">Nakanune</title>
+               <title type="alternative">Helene; Am Vorabend</title>
+               <author ref="#hsl_person_id_1705">
+                  <persName>Turgenev, Ivan Sergeevič</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://babel.hathitrust.org/cgi/pt?id=uc1.$b320587&amp;seq=71</idno>
             </bibl>
       </listBibl>
       </body>
