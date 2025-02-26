@@ -2259,6 +2259,12 @@
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6477">Lalla Roukh</name>
+               <name type="character" ref="#hsl_person_id_6478">Feramors</name>
+               <name type="character" ref="#hsl_person_id_6479">Hafisa</name>
+               <name type="character" ref="#hsl_person_id_6480">Fadladin</name>
+               <name type="character" ref="#hsl_person_id_6481">Chosru</name>
+               <name type="character" ref="#hsl_person_id_6485">Muezzin</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300427379</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Feramors_(Rubinstein,_Anton)</idno>
             </bibl>
@@ -6362,6 +6368,9 @@
                <author ref="#hsl_person_id_2111">
                   <persName>Lucas, Hippolyte</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6476">Nourreddin</name>
+               <name type="character" ref="#hsl_person_id_6482">Mirza</name>
+               <name type="character" ref="#hsl_person_id_6483">Baskir</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1070736996</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lalla-Roukh_(David,_F%C3%A9licien)</idno>
             </bibl>
@@ -40624,6 +40633,39 @@
                   <persName>Turgenev, Ivan Sergeevič</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://babel.hathitrust.org/cgi/pt?id=uc1.$b320587&amp;seq=71</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4501" resp="#awilfing" cert="high">
+               <title type="main">Lalla Rookh. An Oriental Romance</title>
+               <author ref="#hsl_person_id_4584">
+                  <persName>Moore, Thomas</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_6473">Lalla Rookh</name>
+               <name type="character" ref="#hsl_person_id_6475">Feramorz</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4582161-6</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/orientlallarookh00moorrich/page/n5/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4502" resp="#awilfing" cert="high">
+               <title type="main">Gelb rollt mir zu Füssen, op. 34 Nr. 9</title>
+               <title type="alternative">Ach, wenn es nur immer so bliebe!</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_2494">12 Lieder des Mirza-Schaffy für Singstimme und Klavier, op. 34</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+               <author ref="#hsl_person_id_3702">
+                  <persName>Bodenstedt, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1184445176</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/12_Lieder_des_Mirza-Schaffy,_Op.34_(Rubinstein,_Anton)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4503" resp="#awilfing" cert="high">
+               <title type="main">Penthesilea</title>
+               <author ref="#hsl_person_id_918">
+                  <persName>Kleist, Heinrich von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099271-8</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10861936</idno>
             </bibl>
       </listBibl>
       </body>
