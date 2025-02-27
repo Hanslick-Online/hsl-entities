@@ -1369,7 +1369,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_115" resp="#awilfing" cert="high">
                <title type="main">Le maçon, AWV13</title>
-               <title type="alternative">Maurer und Schlosser</title>
+               <title type="alternative">Maurer und Schlosser; Der Maurer</title>
                <author ref="#hsl_person_id_16">
                   <persName>Auber, Daniel-François-Esprit</persName>
                </author>
@@ -1592,7 +1592,6 @@
                <author ref="#hsl_person_id_284">
                   <persName>Scribe, Eugène</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_6328">Julie</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1058119737</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_fianc%C3%A9e_(Auber,_Daniel_Fran%C3%A7ois_Esprit)</idno>
             </bibl>
@@ -5650,6 +5649,8 @@
                   <persName>Bouilly, Jean Nicolas</persName>
                </author>
                <name type="character" ref="#hsl_person_id_5888">Mikeli</name>
+               <name type="character" ref="#hsl_person_id_6494">Constance</name>
+               <name type="character" ref="#hsl_person_id_6495">Armand</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300207875</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Les_deux_journ%C3%A9es_(Cherubini%2C_Luigi)</idno>
             </bibl>
@@ -17931,7 +17932,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gedichte_aus_%27Liebesfr%C3%BChling%27,_Op.37_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1885" resp="#awilfing" cert="high">
-               <title type="main">Gesang der Geister über den Wassern, D538 (Chorfassung)</title>
+               <title type="main">Gesang der Geister über den Wassern, D538</title>
                <author ref="#hsl_person_id_100">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
@@ -17939,7 +17940,7 @@
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300503091</idno>
-               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gesang_der_Geister_%C3%BCber_den_Wassern,_D.538_(Schubert,_Franz)</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gesang_der_Geister_%C3%BCber_den_Wassern%2C_D.538_(Schubert%2C_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1884" resp="#awilfing" cert="high">
                <title type="main">Liebesfrühling</title>
@@ -39771,6 +39772,7 @@
                <author ref="#hsl_person_id_16">
                   <persName>Auber, Daniel-François-Esprit</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6496">Julie</name>
             </bibl>
             <bibl xml:id="hsl_work_id_4399" resp="#awilfing" cert="high">
                <title type="main">Zanetta, ou Jouer avec le feu, AWV33</title>
@@ -39785,6 +39787,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4400" resp="#awilfing" cert="high">
                <title type="main">Zerline, ou La corbeille d'oranges</title>
+               <title type="alternative">Zerline, oder: Der Orangenkorb</title>
                <author ref="#hsl_person_id_16">
                   <persName>Auber, Daniel-François-Esprit</persName>
                </author>
@@ -40666,6 +40669,40 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099271-8</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10861936</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4505" resp="#awilfing" cert="high">
+               <title type="main">Gesang der Geister über den Wassern, D705</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300140444</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gesang_der_Geister_%C3%BCber_den_Wassern%2C_D.705_(Schubert%2C_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4506" resp="#awilfing" cert="high">
+               <title type="main">Gesang der Geister über den Wassern, D714</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300140452</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gesang_der_Geister_%C3%BCber_den_Wassern%2C_D.714_(Schubert%2C_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4507" resp="#awilfing" cert="high">
+               <title type="main">Eliza</title>
+               <title type="alternative">Elisa</title>
+               <author ref="#hsl_person_id_47">
+                  <persName>Cherubini, Luigi</persName>
+               </author>
+               <author ref="#hsl_person_id_6493">
+                  <persName>Révéroni Saint-Cyr, Jacques Antoine de</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300311869</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Eliza_(Cherubini%2C_Luigi)</idno>
             </bibl>
       </listBibl>
       </body>
