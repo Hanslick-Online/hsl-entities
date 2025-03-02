@@ -9547,6 +9547,7 @@
                <name type="character" ref="#hsl_person_id_1743">Amneris</name>
                <name type="character" ref="#hsl_person_id_4432">Radamès</name>
                <name type="character" ref="#hsl_person_id_4649">Amonasro</name>
+               <name type="character" ref="#hsl_person_id_6513">Aida</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300164971</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/A%C3%AFda_(Verdi,_Giuseppe)</idno>
             </bibl>
@@ -14457,6 +14458,8 @@
                <name type="character" ref="#hsl_person_id_6448">Dom Sébastien</name>
                <name type="character" ref="#hsl_person_id_6449">Dom Antonio</name>
                <name type="character" ref="#hsl_person_id_6450">Ben-Selim</name>
+               <name type="character" ref="#hsl_person_id_6514">Abayaldos</name>
+               <name type="character" ref="#hsl_person_id_6515">Juam de Sylva</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300214170</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Dom_S%C3%A9bastien_(Donizetti,_Gaetano)</idno>
             </bibl>
@@ -40844,6 +40847,35 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300673469</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Heimkehr%2C_88_Heine_Gedichte_(P%C3%BCttlingen%2C_Johann_Vesque_von)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4521" resp="#awilfing" cert="high">
+               <title type="main">Catarina Cornaro</title>
+               <author ref="#hsl_person_id_63">
+                  <persName>Donizetti, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_2119">
+                  <persName>Sacchero, Giacomo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/112456392X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Caterina_Cornaro_(Donizetti,_Gaetano)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4522" resp="#awilfing" cert="high">
+               <title type="main">Über Schauspieler und Sänger</title>
+               <title type="alternative">Ueber Schauspieler und Sänger</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11011726</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4523" resp="#awilfing" cert="high">
+               <title type="main">Virgils Aeneis travestirt</title>
+               <author ref="#hsl_person_id_6517">
+                  <persName>Blumauer, Alois</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1152334190</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10105883</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10105884</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10105885</idno>
             </bibl>
       </listBibl>
       </body>
