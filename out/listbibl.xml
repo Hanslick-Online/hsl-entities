@@ -40801,6 +40801,50 @@
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10600010</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10600011</idno>
             </bibl>
+            <bibl xml:id="hsl_work_id_4517" resp="#awilfing" cert="high">
+               <title type="main">Verzeichniß sämmtlicher Werke Dr. Carl Loewe's</title>
+               <author ref="#hsl_person_id_1122">
+                  <persName>Loewe, Carl</persName>
+               </author>
+               <author ref="#hsl_person_id_6510">
+                  <persName>Espagne, Franz</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10999265?page=550,551</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4518" resp="#awilfing" cert="high">
+               <title type="main">Hochzeitslied, op. 20 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4519">Drei Balladen, op. 20</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <author ref="#hsl_person_id_1122">
+                  <persName>Loewe, Carl</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300584067</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4519" resp="#awilfing" cert="high">
+               <title type="main">Drei Balladen, op. 20</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <author ref="#hsl_person_id_1122">
+                  <persName>Loewe, Carl</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://d-nb.info/gnd/300320485</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4520" resp="#awilfing" cert="high">
+               <title type="main">Die Heimkehr. Achtundachtzig Gedichte aus Heinrich Heine's Reisebildern</title>
+               <author ref="#hsl_person_id_116">
+                  <persName>Heine, Heinrich</persName>
+               </author>
+               <author ref="#hsl_person_id_1172">
+                  <persName>Vesque von Püttlingen, Johann</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300673469</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Heimkehr%2C_88_Heine_Gedichte_(P%C3%BCttlingen%2C_Johann_Vesque_von)</idno>
+            </bibl>
       </listBibl>
       </body>
    </text>
