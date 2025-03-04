@@ -3202,6 +3202,7 @@
                <author ref="#hsl_person_id_2072">
                   <persName>Piave, Francesco Maria</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6524">Donna Leonora</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300165587</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_forza_del_destino_(Verdi,_Giuseppe)</idno>
             </bibl>
@@ -26044,6 +26045,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2805" resp="#awilfing" cert="high">
                <title type="main">Carnaval. Scènes mignonnes sur quatre notes für Klavier, op. 9</title>
+               <title type="alternative">Carneval</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
@@ -39704,7 +39706,12 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_4394" resp="#awilfing" cert="high">
-               <title type="main">La Mandolinata</title>
+               <title type="main">Mandolinata für Singstimme und Klavier</title>
+               <author ref="#hsl_person_id_2687">
+                  <persName>Paladilhe, Emile</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1144525330</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Mandolinata_(Paladilhe,_%C3%89mile)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4395" resp="#awilfing" cert="high">
                <title type="main">La vedova scaltra</title>
@@ -41028,6 +41035,161 @@
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://search.onb.ac.at/permalink/f/sb7jht/ONB_alma21389215160003338</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4547" resp="#awilfing" cert="high">
+               <title type="main">Gruß, MWV K 71</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3449">6 Gesänge für Singstimme und Klavier, op. 19a</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_21">
+                  <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+               <author ref="#hsl_person_id_116">
+                  <persName>Heine, Heinrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300364792</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Ges%C3%A4nge%2C_Op.19a_(Mendelssohn%2C_Felix)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4548" resp="#awilfing" cert="high">
+               <title type="main">Gavotte von Christ. W. Gluck in A-Dur für Klavier</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_99">
+                  <persName>Gluck, Christoph Willibald</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1066541035</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gavotte_von_Christ._W._Gluck_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4549" resp="#awilfing" cert="high">
+               <title type="main">Präludium und Fuge für Orgel in e-Moll, BWV533</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300010575</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Prelude_and_Fugue_in_E_minor,_BWV_533_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4550" resp="#awilfing" cert="high">
+               <title type="main">Präludium und Fuge für Orgel in e-Moll, BWV548</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300010737</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Prelude_and_Fugue_in_E_minor,_BWV_548_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4551" resp="#awilfing" cert="high">
+               <title type="main">Präludium und Fuge für Orgel in e-Moll, BWV555</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30001080X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Prelude_and_Fugue_in_E_minor,_BWV_555_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4552" resp="#awilfing" cert="high">
+               <title type="main">Marche de Rákóczy, H109</title>
+               <title type="alternative">Rakoczy-Marsch</title>
+               <author ref="#hsl_person_id_28">
+                  <persName>Berlioz, Hector</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4553" resp="#awilfing" cert="high">
+               <title type="main">Sonate für Orgel in B-Dur, MWV W 59</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4554">6 Sonaten für Orgel, op. 65</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_21">
+                  <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30010281X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Organ_Sonata_No.4,_MWV_W_59_(Mendelssohn,_Felix)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4554" resp="#awilfing" cert="high">
+               <title type="main">6 Sonaten für Orgel, op. 65</title>
+               <author ref="#hsl_person_id_21">
+                  <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300102771</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Organ_Sonatas,_Op.65_(Mendelssohn,_Felix)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4555" resp="#awilfing" cert="high">
+               <title type="main">Te Deum in D-Dur, HWV283</title>
+               <title type="alternative">Dettinger Tedeum</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300066295</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Te_Deum_in_D_major,_HWV_283_(Handel,_George_Frideric)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4556" resp="#awilfing" cert="high">
+               <title type="main">Toccata für Orgel</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4557" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Orgel in d-Moll, BWV596</title>
+               <title type="alternative">langzeitig Wilhelm Friedemann Bach zugeschrieben</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300009585</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Organ_Concerto_in_D_minor%2C_BWV_596_(Bach%2C_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4558" resp="#awilfing" cert="high">
+               <title type="main">Präludium und Fuge über den Namen BACH, S260</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300094396</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Pr%C3%A4ludium_und_Fuge_%C3%BCber_den_Namen_BACH,_S.260_(Liszt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4559" resp="#awilfing" cert="high">
+               <title type="main">Die Orgel</title>
+               <author ref="#hsl_person_id_5847">
+                  <persName>Weilen, Joseph von</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_6533">Cäcilius</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4560" resp="#awilfing" cert="high">
+               <title type="main">Insprugk, ich muß dich lassen</title>
+               <author ref="#hsl_person_id_4087">
+                  <persName>Isaac, Heinrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/114194345X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Innsbruck_ich_muss_dich_lassen_(Isaac%2C_Heinrich)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4561" resp="#awilfing" cert="high">
+               <title type="main">Übers Gebirg Maria geht</title>
+               <author ref="#hsl_person_id_6532">
+                  <persName>Eccard, Johannes</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300048866</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/%C3%9Cbers_Gebirg_Maria_geht_(Eccard%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4562" resp="#awilfing" cert="high">
+               <title type="main">7 Charakterstücke für Klavier, op. 7</title>
+               <author ref="#hsl_person_id_21">
+                  <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300196261</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/7_Charakterst%C3%BCcke%2C_Op.7_(Mendelssohn%2C_Felix)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4563" resp="#awilfing" cert="high">
+               <title type="main">Capriccio für Klavier in fis-Moll, MWV U 50</title>
+               <author ref="#hsl_person_id_21">
+                  <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300101325</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Capriccio%2C_Op.5_(Mendelssohn%2C_Felix)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4564" resp="#awilfing" cert="high">
+               <title type="main">Serenade für Streichorchester Nr. 2 in F-Dur, op. 63</title>
+               <author ref="#hsl_person_id_317">
+                  <persName>Volkmann, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30033138X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Serenade_No.2%2C_Op.63_(Volkmann%2C_Robert)</idno>
             </bibl>
       </listBibl>
       </body>
