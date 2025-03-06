@@ -1115,6 +1115,8 @@
                <author ref="#hsl_person_id_2072">
                   <persName>Piave, Francesco Maria</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6557">Macbeth</name>
+               <name type="character" ref="#hsl_person_id_6558">Lady Macbeth</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300165838</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Macbeth_(Verdi%2C_Giuseppe)</idno>
             </bibl>
@@ -2787,6 +2789,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_236" resp="#awilfing" cert="high">
                <title type="main">Der Freischütz, J277</title>
+               <title type="alternative">II franco-arciero; II franco-cacciatore; Robin des Bois</title>
                <author ref="#hsl_person_id_321">
                   <persName>Weber, Carl Maria von</persName>
                </author>
@@ -3632,7 +3635,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Overture_'King_Lear'%2C_H_53_(Berlioz%2C_Hector)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_319" resp="#awilfing" cert="high">
-               <title type="main">Aesthetik oder Wissenschaft des Schönen</title>
+               <title type="main">Aesthetik oder Wissenschaft des Schönen. Zum Gebrauche für Vorlesungen</title>
                <author ref="#hsl_person_id_379">
                   <persName>Vischer, Friedrich Theodor</persName>
                </author>
@@ -25260,7 +25263,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2710" resp="#awilfing" cert="high">
                <title type="main">L'ombre</title>
-               <title type="alternative">Sein Schatten</title>
+               <title type="alternative">L'ombra; Sein Schatten</title>
                <author ref="#hsl_person_id_81">
                   <persName>Flotow, Friedrich von</persName>
                </author>
@@ -38498,6 +38501,7 @@
                <author ref="#hsl_person_id_6126">
                   <persName>Zeising, Adolf</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10574905</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4247" resp="#awilfing" cert="medium">
                <title type="main">Die Grenzen der Musik und Poesie: Eine Studie zur Aesthetik der Tonkunst</title>
@@ -38853,29 +38857,43 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Viotti_et_l_%C3%A9cole_moderne_de_violon/upw5AAAAIAAJ</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4280" resp="#awilfing" cert="medium">
-               <title type="main">Geschichte der Seelengefühle vom naturhistorischrationellen Standpunkt mit Berücksichtigung ihrer ästhetischen Seite</title>
+            <bibl xml:id="hsl_work_id_4280" resp="#awilfing" cert="high">
+               <title type="main">Geschichte der Seelengefühle vom naturhistorisch-rationellen Standpunkt mit Berücksichtigung ihrer ästhetischen Seite</title>
                <author ref="#hsl_person_id_6146">
                   <persName>Wittmaack, Theodor</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Geschichte_der_Seelengef%C3%BChle_vom_naturh/43RZAAAAcAAJ</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4281" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4281" resp="#awilfing" cert="high">
                <title type="main">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</title>
+               <title type="alternative">Niederrheinische Zeitung</title>
                <author ref="#hsl_person_id_4880">
                   <persName>Bischoff, Ludwig</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4376964-0</idno>
+               <idno type="URL" subtype="Digitalisat">https://de.wikisource.org/wiki/Niederrheinische_Musik-Zeitung</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4282" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4282" resp="#awilfing" cert="high">
                <title type="main">Die Tonkunst und ihre Factoren</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_553">Neue Zeitschrift für Musik</note>
+               </noteGrp>
                <author ref="#hsl_person_id_6142">
                   <persName>Kullak, Adolph</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527934?page=213</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527934?page=225</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527902?page=182,183</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527902?page=194,195</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527902?page=206,207</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527902?page=218,219</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4283" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4283" resp="#awilfing" cert="high">
                <title type="main">Die Musik und die musikalischen Instrumente in ihrer Beziehung zu den Gesetzen der Akustik</title>
                <author ref="#hsl_person_id_6147">
                   <persName>Zamminer, Friedrich</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10599799</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4284" resp="#awilfing" cert="high">
                <title type="main">Elegische Ouvertüre für Orchester, op. 13</title>
@@ -40068,6 +40086,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4443" resp="#awilfing" cert="high">
                <title type="main">Der Kinderarzt</title>
+               <title type="alternative">unklarer Bezug</title>
             </bibl>
             <bibl xml:id="hsl_work_id_4444" resp="#awilfing" cert="high">
                <title type="main">Trio für Violine, Cello und Klavier</title>
@@ -41290,9 +41309,46 @@
                <author ref="#hsl_person_id_6538">
                   <persName>Usiglio, Emilio</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6539">Luigia</name>
+               <name type="character" ref="#hsl_person_id_6542">Placida</name>
+               <name type="character" ref="#hsl_person_id_6543">Procolo</name>
+               <name type="character" ref="#hsl_person_id_6547">Rodolfo</name>
+               <name type="character" ref="#hsl_person_id_6548">Augusto</name>
             </bibl>
-            <bibl xml:id="hsl_work_id_4574" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_4574" resp="#awilfing" cert="high">
+               <title type="main">Gute Nacht!</title>
+               <title type="alternative">unklarer Bezug</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4575" resp="#awilfing" cert="high">
+               <title type="main">Bianca di Nevers</title>
+               <author ref="#hsl_person_id_6554">
+                  <persName>Pratesi, Ferdinando</persName>
+               </author>
+               <author ref="#hsl_person_id_6555">
+                  <persName>Marenco, Romualdo</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4576" resp="#awilfing" cert="high">
+               <title type="main">Ankunft der Schnitter in den Pontinischen Sümpfen</title>
+               <author ref="#hsl_person_id_6556">
+                  <persName>Robert, Léopold</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://commons.wikimedia.org/wiki/File:L%C3%A9opold_Robert_-_Summer_Reapers_Arriving_in_the_Pontine_Marshes.jpg</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4577" resp="#awilfing" cert="high">
+               <title type="main">Aesthetik oder Wissenschaft des Schönen. Zum Gebrauche für Vorlesungen. Dritter Theil: Die Kunstlehre. Zweiter Abschnitt: Die Künste. Viertes Heft: Die Musik.</title>
+               <author ref="#hsl_person_id_379">
+                  <persName>Vischer, Friedrich Theodor</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1170204384</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.deutschestextarchiv.de/book/show/vischer_aesthetik030204_1857</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4578" resp="#awilfing" cert="high">
+               <title type="main">Das Musikalisch-Schöne. Ein Beitrag zur Aesthetik der Tonkunst</title>
+               <author ref="#hsl_person_id_6142">
+                  <persName>Kullak, Adolph</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb10598859</idno>
             </bibl>
       </listBibl>
       </body>
