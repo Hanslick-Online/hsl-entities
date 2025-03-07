@@ -737,6 +737,7 @@
                <name type="character" ref="#hsl_person_id_1127">Duca di Mantova</name>
                <name type="character" ref="#hsl_person_id_4065">Rigoletto</name>
                <name type="character" ref="#hsl_person_id_6274">Gilda</name>
+               <name type="character" ref="#hsl_person_id_6570">Maddalena</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300166222</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Rigoletto_(Verdi,_Giuseppe)</idno>
             </bibl>
@@ -39883,11 +39884,13 @@
                   <persName>Uhlemann, ?</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4416" resp="#awilfing" cert="medium">
-               <title type="main">Dedication der Alceste</title>
+            <bibl xml:id="hsl_work_id_4416" resp="#awilfing" cert="high">
+               <title type="main">Altezza Reale!</title>
+               <title type="alternative">Dedication der Alceste</title>
                <author ref="#hsl_person_id_99">
                   <persName>Gluck, Christoph Willibald</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://vmirror.imslp.org/files/imglnks/usimg/b/b6/IMSLP511234-PMLP6514-Alceste,_Wq.44_(Gluck,_Christoph_Willibald)_1769_$.pdf</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4417" resp="#awilfing" cert="medium">
                <title type="main">Die Melodie der Sprache</title>
@@ -41351,8 +41354,75 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb10598859</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4579" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_4579" resp="#awilfing" cert="high">
+               <title type="main">Bericht über eine neue Pariser Oper. ("La Reine de Chypre" von Halévy)</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11015432?page=318,319</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4580" resp="#awilfing" cert="high">
+               <title type="main">Cuor di Donna</title>
+               <title type="alternative">Frauenherz</title>
+               <author ref="#hsl_person_id_6566">
+                  <persName>Asti, Tito d'</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4581" resp="#awilfing" cert="high">
+               <title type="main">Der Freischütz in Paris. (1841.)</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11015432?page=276,277</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4582" resp="#awilfing" cert="high">
+               <title type="main">Bericht über die Heimbringung der sterblichen Überreste Karl Maria von Weber's aus London nach Dresden</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11015433?page=56,57</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4583" resp="#awilfing" cert="high">
+               <title type="main">Der Nibelungen-Mythus. Als Entwurf zu einem Drama</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11015433?page=204,205</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4584" resp="#awilfing" cert="high">
+               <title type="main">Trinkspruch am Gedenktage des 300jährigen Bestehens der königlichen musikalischen Kapelle in Dresden</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11015433?page=304,305</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4585" resp="#awilfing" cert="high">
+               <title type="main">Die Aufführung von Beethoven's Neunter Symphonie unter Richard Wagner in Bayreuth</title>
+               <author ref="#hsl_person_id_6571">
+                  <persName>Porges, Heinrich</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11011705</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4586" resp="#awilfing" cert="high">
+               <title type="main">Kann Richard Wagner's Musik Zukunfts-Musik werden? Eine musikalische Studie</title>
+               <author ref="#hsl_person_id_6572">
+                  <persName>Settenhofer, Berthold</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11162083</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4587" resp="#awilfing" cert="high">
+               <title type="main">Richard Wagner und Jacob Offenbach; ein Wort im Harnisch von einem Freunde der Tonkunst</title>
+               <author ref="#hsl_person_id_6573">
+                  <persName>Anonym</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Richard_Wagner_und_Jacob_Offenbach/I5dTAAAAcAAJ</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4588" resp="#awilfing" cert="high">
+               <title type="main">Das Gründerthum in der Musik. Ein Epilog zur Bayreuther Grundsteinlegung</title>
+               <author ref="#hsl_person_id_6575">
+                  <persName>Mohr, Wilhelm</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://books.google.at/books/about/Das_Gr%C3%BCnderthum_in_der_Musik.html?id=nYpHh6oxdjcC</idno>
             </bibl>
       </listBibl>
       </body>
