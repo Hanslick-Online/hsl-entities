@@ -441,6 +441,7 @@
                <author ref="#hsl_person_id_714">
                   <persName>Geibel, Emanuel</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6608">Meermann</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146868</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Vom_Pagen_und_der_K%C3%B6nigstochter%2C_Op.140_(Schumann%2C_Robert)</idno>
             </bibl>
@@ -23070,6 +23071,8 @@
                <author ref="#hsl_person_id_2724">
                   <persName>Labiche, Eugène</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6601">Pompéry</name>
+               <name type="character" ref="#hsl_person_id_6602">Martial</name>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_voyage_en_Chine_(Bazin%2C_Fran%C3%A7ois)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2468" resp="#awilfing" cert="high">
@@ -41668,6 +41671,79 @@
                   <persName>Grädener, Hermann</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Octet%2C_Op.12_(Gr%C3%A4dener%2C_Hermann)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4618" resp="#awilfing" cert="high">
+               <title type="main">Fantasio</title>
+               <author ref="#hsl_person_id_202">
+                  <persName>Offenbach, Jacques</persName>
+               </author>
+               <author ref="#hsl_person_id_2752">
+                  <persName>Musset, Alfred de</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_6596">Fantasio</name>
+               <name type="character" ref="#hsl_person_id_6597">Prinz von Mantua</name>
+               <name type="character" ref="#hsl_person_id_6598">Elsbeth</name>
+               <name type="character" ref="#hsl_person_id_6607">Marinoni</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4420477-2</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Fantasio_(Offenbach,_Jacques)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4619" resp="#awilfing" cert="medium">
+               <title type="main">Des Sängers Wiederkehr</title>
+               <title type="alternative">Wiederkehr</title>
+               <author ref="#hsl_person_id_310">
+                  <persName>Uhland, Ludwig</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/1002578353</idno>
+               <idno type="URL" subtype="Digitalisat">https://books.google.rs/books?id=WbQ5AAAAMAAJ&amp;pg=PR9&amp;hl=es&amp;source=gbs_selected_pages&amp;cad=1#v=snippet&amp;q=des%20s%C3%A4nger&amp;f=false</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4620" resp="#awilfing" cert="high">
+               <title type="main">Des Löwen Erwachen</title>
+               <author ref="#hsl_person_id_6604">
+                  <persName>Brandl, Johann</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4621" resp="#awilfing" cert="high">
+               <title type="main">Le moulin joli</title>
+               <author ref="#hsl_person_id_3223">
+                  <persName>Nicolaie, Louis François</persName>
+               </author>
+               <author ref="#hsl_person_id_6605">
+                  <persName>Varney, Pierre Joseph Alphonse</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_moulin_joli_(Varney%2C_Alphonse)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4622" resp="#awilfing" cert="high">
+               <title type="main">Fleurette</title>
+               <author ref="#hsl_person_id_202">
+                  <persName>Offenbach, Jacques</persName>
+               </author>
+               <author ref="#hsl_person_id_5020">
+                  <persName>Pittaud de Forges, Philippe Auguste Alfred</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1220051845</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Fleurette_(Offenbach%2C_Jacques)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4623" resp="#awilfing" cert="high">
+               <title type="main">Boule de neige</title>
+               <title type="alternative">Schneeball</title>
+               <author ref="#hsl_person_id_202">
+                  <persName>Offenbach, Jacques</persName>
+               </author>
+               <author ref="#hsl_person_id_1410">
+                  <persName>Nuitter, Charles</persName>
+               </author>
+               <author ref="#hsl_person_id_2193">
+                  <persName>Tréfeu, Etienne</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300704402</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Boule_de_neige_(Offenbach%2C_Jacques)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4624" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4625" resp="#awilfing" cert="medium">
+               <title type="main"/>
+               <title type="alternative">Provençalische Lied</title>
             </bibl>
       </listBibl>
       </body>
