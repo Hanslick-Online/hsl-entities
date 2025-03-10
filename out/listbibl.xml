@@ -2467,7 +2467,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_211" resp="#awilfing" cert="high">
                <title type="main">Dinorah ou Le pardon de Ploërmel</title>
-               <title type="alternative">Dinorah oder Die Wallfahrt nach Ploërmel</title>
+               <title type="alternative">Dinorah oder Die Wallfahrt nach Ploërmel; Dinorah, oder: Die Wallfahrt nach Ploërmel</title>
                <author ref="#hsl_person_id_84">
                   <persName>Carré, Michel</persName>
                </author>
@@ -6987,7 +6987,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_726" resp="#awilfing" cert="high">
                <title type="main">L'Enfance du Christ, H130</title>
-               <title type="alternative">Enfance de Jésus Christ; Enfance de Jésus Christ Jésus-Christ</title>
+               <title type="alternative">Enfance de Jésus Christ; Enfance de Jésus-Christ</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
                </author>
@@ -40372,11 +40372,12 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Christus,_S.3_(Liszt,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4472" resp="#awilfing" cert="high">
-               <title type="main">Stabat mater</title>
-               <title type="alternative">unklarer Bezug</title>
+               <title type="main">Stabat mater dolorosa</title>
                <author ref="#hsl_person_id_927">
                   <persName>Palestrina, Giovanni Pierluigi da</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1069644870</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Motettorum_I_(Palestrina,_Giovanni_Pierluigi_da)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4473" resp="#awilfing" cert="high">
                <title type="main">Lamentatio</title>
@@ -40418,6 +40419,7 @@
                <author ref="#hsl_person_id_4651">
                   <persName>Brachvogel, Albert Emil</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1209755858</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10106139</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10106140</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10106141</idno>
@@ -41790,6 +41792,9 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300410654</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Modern_Suite,_Op.144_(Hiller,_Ferdinand)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4631" resp="#awilfing" cert="medium">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>
