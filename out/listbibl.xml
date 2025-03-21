@@ -41418,6 +41418,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4586" resp="#awilfing" cert="high">
                <title type="main">Kann Richard Wagner's Musik Zukunfts-Musik werden? Eine musikalische Studie</title>
+               <title type="alternative">Kann Wagner’s Musik Zukunftsmusik werden?</title>
                <author ref="#hsl_person_id_6572">
                   <persName>Settenhofer, Berthold</persName>
                </author>
@@ -41609,15 +41610,6 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1235084418</idno>
                <idno type="URL" subtype="Digitalisat">https://www.deutschestextarchiv.de/book/view/uhland_gedichte_1815?p=199</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4608" resp="#awilfing" cert="medium">
-               <title type="main"/>
-            </bibl>
-            <bibl xml:id="hsl_work_id_4609" resp="#awilfing" cert="medium">
-               <title type="main"/>
-            </bibl>
-            <bibl xml:id="hsl_work_id_4610" resp="#awilfing" cert="medium">
-               <title type="main"/>
-            </bibl>
             <bibl xml:id="hsl_work_id_4611" resp="#awilfing" cert="medium">
                <title type="main">Sängerliebe</title>
                <author ref="#hsl_person_id_310">
@@ -41742,9 +41734,6 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300704402</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Boule_de_neige_(Offenbach%2C_Jacques)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4624" resp="#awilfing" cert="medium">
-               <title type="main"/>
-            </bibl>
             <bibl xml:id="hsl_work_id_4625" resp="#awilfing" cert="medium">
                <title type="main">Provenzalisches Lied op.139, No. 4</title>
                <title type="alternative">Provençalische Lied</title>
@@ -41795,9 +41784,6 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300410654</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Modern_Suite,_Op.144_(Hiller,_Ferdinand)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4631" resp="#awilfing" cert="medium">
-               <title type="main"/>
-            </bibl>
             <bibl xml:id="hsl_work_id_4632" resp="#awilfing" cert="high">
                <title type="main">Johann Sebastian Bach</title>
                <author ref="#hsl_person_id_3318">
@@ -41813,6 +41799,16 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099360-7</idno>
                <idno type="URL" subtype="Digitalisat">https://www.folger.edu/explore/shakespeares-works/loves-labors-lost/read/</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4634" resp="#awilfing" cert="high">
+               <title type="main">Der Botschafter</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4635" resp="#awilfing" cert="high">
+               <title type="main">Das Wiener Hof-Operntheater</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4634">Der Botschafter</note>
+               </noteGrp>
+               <idno type="URL" subtype="Digitalisat">https://books.google.at/books/about/Das_Wiener_Hof_Operntheater.html?id=8UVDAAAAcAAJ</idno>
             </bibl>
       </listBibl>
       </body>
