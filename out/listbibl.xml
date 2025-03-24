@@ -2459,6 +2459,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_210" resp="#awilfing" cert="high">
                <title type="main">Doctor Heine. Ein Rigorosum im Sommer</title>
+               <title type="alternative">Das Rigorosum im Sommer</title>
                <author ref="#hsl_person_id_274">
                   <persName>Schön, Eduard</persName>
                </author>
@@ -3552,7 +3553,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_310" resp="#awilfing" cert="high">
                <title type="main">Frithjof, op. 23</title>
-               <title type="alternative">Scenen aus der Frithjofssage; Frithjofsscenen; Frithjof-Scenen</title>
+               <title type="alternative">Frithjofssage; Frithjof-Scenen; Frithjofsscenen; Scenen aus der Frithjofssage</title>
                <author ref="#hsl_person_id_371">
                   <persName>Bruch, Max</persName>
                </author>
@@ -41809,6 +41810,34 @@
                   <note type="Werkbezug" target="hsl_work_id_4634">Der Botschafter</note>
                </noteGrp>
                <idno type="URL" subtype="Digitalisat">https://books.google.at/books/about/Das_Wiener_Hof_Operntheater.html?id=8UVDAAAAcAAJ</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4636" resp="#awilfing" cert="high">
+               <title type="main">Du Ring an meinem Finger, op. 42 Nr. 4</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_944">Frauenliebe und -leben, op. 42</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_2232">
+                  <persName>Chamisso, Adelbert von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300144830</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Frauenliebe_und_Leben,_Op.42_(Schumann,_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4637" resp="#awilfing" cert="high">
+               <title type="main">Helft mir, ihr Schwestern, op. 42 Nr. 5</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_944">Frauenliebe und -leben, op. 42</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_2232">
+                  <persName>Chamisso, Adelbert von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/120917376X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Frauenliebe_und_Leben,_Op.42_(Schumann,_Robert)</idno>
             </bibl>
       </listBibl>
       </body>
