@@ -26441,6 +26441,9 @@
                <author ref="#hsl_person_id_890">
                   <persName>Scarlatti, Alessandro</persName>
                </author>
+               <author ref="#hsl_person_id_6611">
+                  <persName>Scarlatti, Domenico</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2850" resp="#awilfing" cert="high">
                <title type="main">Capriccio für Klavier in d-Moll, op. 116 Nr. 1</title>
@@ -26945,6 +26948,9 @@
                <author ref="#hsl_person_id_890">
                   <persName>Scarlatti, Alessandro</persName>
                </author>
+               <author ref="#hsl_person_id_6611">
+                  <persName>Scarlatti, Domenico</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2909" resp="#awilfing" cert="high">
                <title type="main">Plaisir d'amour</title>
@@ -27138,6 +27144,9 @@
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_890">
                   <persName>Scarlatti, Alessandro</persName>
+               </author>
+               <author ref="#hsl_person_id_6611">
+                  <persName>Scarlatti, Domenico</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2929" resp="#awilfing" cert="high">
@@ -31643,6 +31652,9 @@
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_890">
                   <persName>Scarlatti, Alessandro</persName>
+               </author>
+               <author ref="#hsl_person_id_6611">
+                  <persName>Scarlatti, Domenico</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3419" resp="#awilfing" cert="high">
@@ -38483,31 +38495,42 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10598325</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4242" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4242" resp="#awilfing" cert="high">
                <title type="main">Erwin und Elmire</title>
                <author ref="#hsl_person_id_100">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
                <name type="character" ref="#hsl_person_id_6129">Erwin</name>
                <name type="character" ref="#hsl_person_id_6130">Elmire</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4448159-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10118156</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4243" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4243" resp="#awilfing" cert="high">
                <title type="main">Critik der reinen Vernunft</title>
+               <title type="alternative">Kritik der reinen Vernunft</title>
                <author ref="#hsl_person_id_142">
                   <persName>Kant, Immanuel</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099256-1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10044863</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10044864</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4244" resp="#awilfing" cert="medium">
                <title type="main">Madonna di San Sisto</title>
+               <title type="alternative">Sixtinische Madonna</title>
                <author ref="#hsl_person_id_380">
                   <persName>Raffael</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4115691-2</idno>
+               <idno type="URL" subtype="Digitalisat">https://commons.wikimedia.org/wiki/File:Raphael_-_The_Sistine_Madonna_-_Google_Art_Project.jpg</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4245" resp="#awilfing" cert="medium">
-               <title type="main">Aesthetik in Umrissen</title>
+            <bibl xml:id="hsl_work_id_4245" resp="#awilfing" cert="high">
+               <title type="main">Aesthetik in Umrissen. Zur allgemeineren philosophischen Orientierung auf dem Gebiete der Kunst</title>
                <author ref="#hsl_person_id_4660">
                   <persName>Bayer, Josef</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10573281</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10573282</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4246" resp="#awilfing" cert="medium">
                <title type="main">Aesthetische Forschungen</title>
@@ -38516,11 +38539,13 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10574905</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4247" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4247" resp="#awilfing" cert="high">
                <title type="main">Die Grenzen der Musik und Poesie: Eine Studie zur Aesthetik der Tonkunst</title>
                <author ref="#hsl_person_id_717">
                   <persName>Ambros, August Wilhelm</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1104966425</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11727319</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4248" resp="#awilfing" cert="high">
                <title type="main">1. Buch Samuel</title>
@@ -38809,44 +38834,57 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1324076380</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10108097?page=506,507</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4270" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4270" resp="#awilfing" cert="high">
                <title type="main">A-B-C der Aesthetik</title>
                <author ref="#hsl_person_id_6127">
                   <persName>Grün, Albert</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10573956</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4271" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4271" resp="#awilfing" cert="high">
                <title type="main">Zur Reform der modernen Kunst. Eine Studie zur neuesten Kunstgeschichte</title>
+               <author ref="#hsl_person_id_6613">
+                  <persName>Anonym</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.google.sk/books/edition/Zur_Reform_der_modernen_Kunst/SnNaAAAAcAAJ</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4272" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4272" resp="#awilfing" cert="high">
                <title type="main">Über die ästhetische Erziehung des Menschen</title>
                <author ref="#hsl_person_id_248">
                   <persName>Schiller, Friedrich</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4126654-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.deutschestextarchiv.de/book/show/schiller_erziehung01_1795</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.deutschestextarchiv.de/book/show/schiller_erziehung02_1795</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.deutschestextarchiv.de/book/show/schiller_erziehung03_1795</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4273" resp="#awilfing" cert="medium">
-               <title type="main">Neue Lehre von den Proportionen des menschlichen Körpers</title>
+               <title type="main">Neue Lehre von den Proportionen des menschlichen Körpers. Aus einem bisher unerkannt gebliebenen, die ganze Natur und Kunst durchdringenden morphologischen Grundgesetze entwickelt und mit einer vollständigen historischen Uebersicht der bisherigen Systeme begleitet</title>
                <author ref="#hsl_person_id_6126">
                   <persName>Zeising, Adolf</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10255661</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4274" resp="#awilfing" cert="medium">
-               <title type="main">Poetik</title>
+            <bibl xml:id="hsl_work_id_4274" resp="#awilfing" cert="high">
+               <title type="main">Das Wesen und die Formen der Poesie. Ein Beitrag zur Philosophie des Schönen und der Kunst. Mit literarhistorischen Erläuterungen</title>
+               <title type="alternative">Poetik</title>
                <author ref="#hsl_person_id_6123">
                   <persName>Carriere, Moritz</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://books.google.sk/books?id=7FpIAAAAYAAJ</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4275" resp="#awilfing" cert="medium">
-               <title type="main">Philosophisches Journal einer Gesellschaft Teutscher Gelehrten</title>
-               <author ref="#hsl_person_id_6140">
-                  <persName>Fichte, Johann Gottlieb</persName>
-               </author>
-               <author ref="#hsl_person_id_6141">
-                  <persName>Niethammer, Friedrich Immanuel</persName>
+            <bibl xml:id="hsl_work_id_4275" resp="#awilfing" cert="high">
+               <title type="main">Zeitschrift für Philosophie und philosophische Kritik</title>
+               <author ref="#hsl_person_id_6614">
+                  <persName>Fichte, Immanuel Hermann</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4276" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4276" resp="#awilfing" cert="high">
                <title type="main">L'avant d'homme</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_969">
+                  <persName>David, Félicien</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_4277" resp="#awilfing" cert="high">
                <title type="main">Hector Berlioz, sa vie et ses oeuvres</title>

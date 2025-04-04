@@ -409,7 +409,7 @@
                <place xml:id="hsl_place_id_23" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Elláda</placeName>
-                     <placeName type="alternative">Griechenland</placeName>
+                     <placeName type="alternative">Griechenland; Hellas</placeName>
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>GR, Greece</country>
@@ -7124,7 +7124,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q54955</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4059540-7</idno>
                </place>
-               <place xml:id="hsl_place_id_578" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_578" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Athênai</placeName>
                      <placeName type="alternative">Athen</placeName>
@@ -9121,6 +9121,9 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2525468/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1458</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4029278-2</idno>
+               </place>
+               <place xml:id="hsl_place_id_779" resp="#awilfing" cert="medium">
+                  <placeName type="main"/>
                </place>
             </listPlace>
          </div>
