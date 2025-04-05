@@ -40606,12 +40606,16 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://de.wikipedia.org/wiki/Der_Taschenspieler_in_der_Scheune#/media/Datei:Ludwig_Knaus_-_Der_Taschenspieler_in_der_Scheune_(1862).jpg</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4494" resp="#awilfing" cert="medium">
-               <title type="main">Die Geschöpfe des Prometheus op. 43</title>
+            <bibl xml:id="hsl_work_id_4494" resp="#awilfing" cert="high">
+               <title type="main">Die Geschöpfe des Prometheus, op. 43</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
+               <author ref="#hsl_person_id_2087">
+                  <persName>Viganò, Salvatore</persName>
+               </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015348</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Gesch%C3%B6pfe_des_Prometheus,_Op.43_(Beethoven,_Ludwig_van)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4495" resp="#awilfing" cert="medium">
                <title type="main">Die Musik der Gegenwart und die Gesamtkunst der Zukunft</title>
@@ -41879,6 +41883,16 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/120917376X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Frauenliebe_und_Leben,_Op.42_(Schumann,_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4638" resp="#awilfing" cert="high">
+               <title type="main">Zur Einleitung</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_553">Neue Zeitschrift für Musik</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1745">
+                  <persName>Brendel, Franz</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18450101</idno>
             </bibl>
       </listBibl>
       </body>
