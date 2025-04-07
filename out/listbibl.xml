@@ -7209,7 +7209,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_745" resp="#awilfing" cert="high">
                <title type="main">Luisa Miller, H51</title>
-               <title type="alternative">Luise Miller; Louise Miller</title>
+               <title type="alternative">Louise Miller; Luise Miller</title>
                <author ref="#hsl_person_id_312">
                   <persName>Verdi, Giuseppe</persName>
                </author>
@@ -39878,26 +39878,30 @@
                   <persName>Bischoff, Ludwig</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4408" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4408" resp="#awilfing" cert="high">
                <title type="main">Rheinische Musik-Zeitung für Kunstfreunde und Künstler</title>
                <author ref="#hsl_person_id_4880">
                   <persName>Bischoff, Ludwig</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4376964-0</idno>
+               <idno type="URL" subtype="Digitalisat">https://de.wikisource.org/wiki/Rheinische_Musik-Zeitung</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4409" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4409" resp="#awilfing" cert="high">
                <title type="main">Plastische Musik</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_4408">Rheinische Musik-Zeitung für Kunstfreunde und Künstler</note>
                </noteGrp>
                <author ref="#hsl_person_id_6333">
-                  <persName>Anonym</persName>
+                  <persName>Anonymus</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/bub_gb_B-wqAAAAYAAJ/page/n369/mode/2up</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4410" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4410" resp="#awilfing" cert="high">
                <title type="main">Stoppellese</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_4281">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</note>
                </noteGrp>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527497?page=330,331</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4411" resp="#awilfing" cert="medium">
                <title type="main">Lohengrin, Oper von Richard Wagner</title>
@@ -39955,16 +39959,17 @@
             <bibl xml:id="hsl_work_id_4418" resp="#awilfing" cert="medium">
                <title type="main">Egmont</title>
             </bibl>
-            <bibl xml:id="hsl_work_id_4419" resp="#awilfing" cert="medium">
-               <title type="main">Joseph Haydn's Musik</title>
+            <bibl xml:id="hsl_work_id_4419" resp="#awilfing" cert="high">
+               <title type="main">Joseph Haydn's Musik II.</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_4408">Rheinische Musik-Zeitung für Kunstfreunde und Künstler</note>
                </noteGrp>
                <author ref="#hsl_person_id_4880">
                   <persName>Bischoff, Ludwig</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527495?page=242,243</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4420" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4420" resp="#awilfing" cert="high">
                <title type="main">Moderne Kritik</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_4281">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</note>
@@ -39972,12 +39977,7 @@
                <author ref="#hsl_person_id_6335">
                   <persName>Anonym</persName>
                </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_4421" resp="#awilfing" cert="medium">
-               <title type="main">Guillaume Tell</title>
-               <author ref="#hsl_person_id_699">
-                  <persName>Florian, Jean-Pierre Claris de</persName>
-               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10527506?page=46</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4422" resp="#awilfing" cert="high">
                <title type="main">36 Arien aus Kantaten und Messen</title>
@@ -40617,11 +40617,12 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015348</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Gesch%C3%B6pfe_des_Prometheus,_Op.43_(Beethoven,_Ludwig_van)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4495" resp="#awilfing" cert="medium">
-               <title type="main">Die Musik der Gegenwart und die Gesamtkunst der Zukunft</title>
+            <bibl xml:id="hsl_work_id_4495" resp="#awilfing" cert="high">
+               <title type="main">Die Musik der Gegenwart und die Gesammtkunst der Zukunft</title>
                <author ref="#hsl_person_id_1745">
                   <persName>Brendel, Franz</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10598331</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4496" resp="#awilfing" cert="high">
                <title type="main">Der Schauspieldirektor, oder: Mozart und Schikaneder, KV486</title>
@@ -41893,6 +41894,26 @@
                   <persName>Brendel, Franz</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18450101</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4639" resp="#awilfing" cert="high">
+               <title type="main">Eduard Hanslick</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4281">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_4880">
+                  <persName>Bischoff, Ludwig</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10527506?page=59</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4640" resp="#awilfing" cert="high">
+               <title type="main">An unsere Leser</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4408">Rheinische Musik-Zeitung für Kunstfreunde und Künstler</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_4880">
+                  <persName>Bischoff, Ludwig</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527497?page=8,9</idno>
             </bibl>
       </listBibl>
       </body>
