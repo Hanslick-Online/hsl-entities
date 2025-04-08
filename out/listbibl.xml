@@ -39863,13 +39863,18 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10573924</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4405" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4405" resp="#awilfing" cert="high">
                <title type="main">Kunst und Kunststyl</title>
-               <author ref="#hsl_person_id_6332">
-                  <persName>Helfferich, Adolph</persName>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4281">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_4880">
+                  <persName>Bischoff, Ludwig</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527504?page=66,67</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527504?page=74,75</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4407" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4407" resp="#awilfing" cert="high">
                <title type="main">Nichts Neues</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_4281">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</note>
@@ -39877,6 +39882,7 @@
                <author ref="#hsl_person_id_4880">
                   <persName>Bischoff, Ludwig</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527505?page=2,3</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4408" resp="#awilfing" cert="high">
                <title type="main">Rheinische Musik-Zeitung für Kunstfreunde und Künstler</title>
@@ -39891,8 +39897,8 @@
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_4408">Rheinische Musik-Zeitung für Kunstfreunde und Künstler</note>
                </noteGrp>
-               <author ref="#hsl_person_id_6333">
-                  <persName>Anonymus</persName>
+               <author ref="#hsl_person_id_4880">
+                  <persName>Bischoff, Ludwig</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/bub_gb_B-wqAAAAYAAJ/page/n369/mode/2up</idno>
             </bibl>
@@ -39901,9 +39907,15 @@
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_4281">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</note>
                </noteGrp>
+               <author ref="#hsl_person_id_6615">
+                  <persName>Anonym</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527497?page=308,309</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527497?page=314,315</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527497?page=330,331</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527497?page=398,399</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4411" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4411" resp="#awilfing" cert="high">
                <title type="main">Lohengrin, Oper von Richard Wagner</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_465">Die Grenzboten</note>
@@ -39911,26 +39923,33 @@
                <author ref="#hsl_person_id_135">
                   <persName>Jahn, Otto</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://brema.suub.uni-bremen.de/grenzboten/periodical/zoom/97335</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4412" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4412" resp="#awilfing" cert="high">
                <title type="main">Leda mit dem Schwan</title>
                <author ref="#hsl_person_id_1109">
                   <persName>Vinci, Leonardo da</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1212466551</idno>
+               <idno type="URL" subtype="Digitalisat">https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_%281452-1519%29_-_Leda_mit_dem_Schwan_und_zwei_Zwillingspaaren_-_1747_-_F%C3%BChrermuseum.jpg</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4413" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4413" resp="#awilfing" cert="high">
                <title type="main">Jupiter und Io</title>
                <author ref="#hsl_person_id_3718">
                   <persName>Correggio, Antonio Allegri da</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4744944-5</idno>
+               <idno type="URL" subtype="Digitalisat">https://commons.wikimedia.org/wiki/Category:Jupiter_and_Io_(Correggio)?uselang=de</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4414" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4414" resp="#awilfing" cert="high">
                <title type="main">Ariadne auf dem Panther</title>
                <author ref="#hsl_person_id_6334">
                   <persName>Dannecker, Johann Heinrich von</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4333845-8</idno>
+               <idno type="URL" subtype="Digitalisat">https://commons.wikimedia.org/wiki/File:Dannecker_Ariadne_auf_dem_Panther_Liebieghaus_1569_image02.jpg</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4415" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4415" resp="#awilfing" cert="high">
                <title type="main">Die Tonkunst für Alle</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_4408">Rheinische Musik-Zeitung für Kunstfreunde und Künstler</note>
@@ -39938,6 +39957,9 @@
                <author ref="#hsl_person_id_6344">
                   <persName>Uhlemann, ?</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527495?page=330,331</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527495?page=338,339</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527495?page=354,355</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4416" resp="#awilfing" cert="high">
                <title type="main">Altezza Reale!</title>
@@ -39947,7 +39969,7 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://vmirror.imslp.org/files/imglnks/usimg/b/b6/IMSLP511234-PMLP6514-Alceste,_Wq.44_(Gluck,_Christoph_Willibald)_1769_$.pdf</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4417" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4417" resp="#awilfing" cert="high">
                <title type="main">Die Melodie der Sprache</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_4281">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</note>
@@ -39955,18 +39977,17 @@
                <author ref="#hsl_person_id_4880">
                   <persName>Bischoff, Ludwig</persName>
                </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_4418" resp="#awilfing" cert="medium">
-               <title type="main">Egmont</title>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527504?page=106,107</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4419" resp="#awilfing" cert="high">
-               <title type="main">Joseph Haydn's Musik II.</title>
+               <title type="main">Joseph Haydn's Musik</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_4408">Rheinische Musik-Zeitung für Kunstfreunde und Künstler</note>
                </noteGrp>
                <author ref="#hsl_person_id_4880">
                   <persName>Bischoff, Ludwig</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527495?page=162,163</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527495?page=242,243</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4420" resp="#awilfing" cert="high">
@@ -41914,6 +41935,40 @@
                   <persName>Bischoff, Ludwig</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527497?page=8,9</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4641" resp="#awilfing" cert="high">
+               <title type="main">Kunst und Kunststil, mit einem Sendschreiben an W. von Kaulbach</title>
+               <author ref="#hsl_person_id_6332">
+                  <persName>Helfferich, Adolph</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://books.google.at/books/about/Kunst_und_Kunststyl.html?id=y2-ESWCuAGAC</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4642" resp="#awilfing" cert="high">
+               <title type="main">Tannhäuser und der Sängerkrieg auf Wartburg. Romantische Oper in drei Akten von Richard Wagner</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4408">Rheinische Musik-Zeitung für Kunstfreunde und Künstler</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_4880">
+                  <persName>Bischoff, Ludwig</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527497?page=176,177</idno>
+               <idno type="URL" subtype="Digitalisat"> https://www.digitale-sammlungen.de/de/view/bsb10527497?page=184,185</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527497?page=192,193</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527497?page=208,209</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527497?page=216,217</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527497?page=232,233</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527497?page=240,241</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527497?page=264,265</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527497?page=272,273</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527497?page=288,289</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527497?page=320,321</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4643" resp="#awilfing" cert="high">
+               <title type="main">Die Melodie der Sprache in ihrer Anwendung besonders auf das Lied und die Oper. Mit Berührung verwandter Kunstfragen dargelegt</title>
+               <author ref="#hsl_person_id_5995">
+                  <persName>Köhler, Louis</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10271118</idno>
             </bibl>
       </listBibl>
       </body>
