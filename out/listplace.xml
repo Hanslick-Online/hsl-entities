@@ -540,7 +540,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q1040</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4029713-5</idno>
                </place>
-               <place xml:id="hsl_place_id_30" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_30" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Kärnten</placeName>
                   </settlement>
@@ -9124,6 +9124,17 @@
                </place>
                <place xml:id="hsl_place_id_779" resp="#awilfing" cert="medium">
                   <placeName type="main"/>
+               </place>
+               <place xml:id="hsl_place_id_780" resp="#awilfing" cert="high">
+                  <placeName type="main">Herrengasse, Wien</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/11808356/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q697103</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4802115-5</idno>
+               </place>
+               <place xml:id="hsl_place_id_781" resp="#awilfing" cert="high">
+                  <placeName type="main">Elisabethstraße, Wien</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12216645/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q19279071</idno>
                </place>
             </listPlace>
          </div>
