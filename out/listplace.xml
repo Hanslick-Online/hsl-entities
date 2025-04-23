@@ -3359,7 +3359,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q781595</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4224633-7</idno>
                </place>
-               <place xml:id="hsl_place_id_267" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_267" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Wiesbaden</placeName>
                   </settlement>
@@ -7550,7 +7550,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q150907</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4018093-1</idno>
                </place>
-               <place xml:id="hsl_place_id_618" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_618" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Schleswig-Holstein</placeName>
                   </settlement>
@@ -9122,8 +9122,11 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1458</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4029278-2</idno>
                </place>
-               <place xml:id="hsl_place_id_779" resp="#awilfing" cert="medium">
-                  <placeName type="main"/>
+               <place xml:id="hsl_place_id_779" resp="#awilfing" cert="high">
+                  <placeName type="main">Homburg</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2899449/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q7040</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4025772-1</idno>
                </place>
                <place xml:id="hsl_place_id_780" resp="#awilfing" cert="high">
                   <placeName type="main">Herrengasse, Wien</placeName>
