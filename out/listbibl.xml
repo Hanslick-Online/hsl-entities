@@ -627,6 +627,7 @@
                   <persName>Rossi, Gaetano</persName>
                </author>
                <name type="character" ref="#hsl_person_id_5839">Arsace</name>
+               <name type="character" ref="#hsl_person_id_6652">Semiramide</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300214197</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Semiramide_(Rossini%2C_Gioacchino)</idno>
             </bibl>
@@ -1985,6 +1986,7 @@
                <name type="character" ref="#hsl_person_id_2956">Ferrando</name>
                <name type="character" ref="#hsl_person_id_3378">Leonora</name>
                <name type="character" ref="#hsl_person_id_5686">Conte di Luna</name>
+               <name type="character" ref="#hsl_person_id_6656">Ines</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300166508</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Il_trovatore_(Verdi,_Giuseppe)</idno>
             </bibl>
@@ -2065,6 +2067,7 @@
                   <persName>Pepoli, Carlo</persName>
                </author>
                <name type="character" ref="#hsl_person_id_524">Elvira</name>
+               <name type="character" ref="#hsl_person_id_6669">Riccardo Forth</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300017928</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/I_puritani_(Bellini,_Vincenzo)</idno>
             </bibl>
@@ -2077,6 +2080,7 @@
                <author ref="#hsl_person_id_2243">
                   <persName>Maffei, Andrea</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6649">Amalia</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300165927</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/I_masnadieri_(Verdi,_Giuseppe)</idno>
             </bibl>
@@ -12781,7 +12785,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1312" resp="#awilfing" cert="high">
                <title type="main">An die entfernte Geliebte, op. 98</title>
-               <title type="alternative">Liederkreis an die Geliebte</title>
+               <title type="alternative">Liederkreis an die Geliebte; Liederkreis an die entfernte Geliebte</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -29454,6 +29458,8 @@
                <author ref="#hsl_person_id_375">
                   <persName>Lenau, Nikolaus</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6670">Mephistopheles</name>
+               <name type="character" ref="#hsl_person_id_6671">Faust</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4434846-0</idno>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/bub_gb_YZUnAAAAMAAJ/page/n3/mode/2up</idno>
             </bibl>
@@ -42337,6 +42343,77 @@
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4682" resp="#awilfing" cert="high">
+               <title type="main">Hochzeitslied</title>
+               <title type="alternative">unklarer Bezug</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4683" resp="#awilfing" cert="high">
+               <title type="main">Aufforderung zum Tanze (Bearbeitung)</title>
+               <author ref="#hsl_person_id_303">
+                  <persName>Tausig, Carl</persName>
+               </author>
+               <author ref="#hsl_person_id_321">
+                  <persName>Weber, Carl Maria von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4684" resp="#awilfing" cert="high">
+               <title type="main">Ungarisches Volkslied</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_6665">
+                  <persName>Festetics, Leó Graf von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4685" resp="#awilfing" cert="high">
+               <title type="main">An Diana</title>
+               <author ref="#hsl_person_id_115">
+                  <persName>Hebbel, Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_274">
+                  <persName>Schön, Eduard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4686" resp="#awilfing" cert="high">
+               <title type="main">Ein armer Mann, ein braver Mann</title>
+               <author ref="#hsl_person_id_101">
+                  <persName>Goldmark, Karl</persName>
+               </author>
+               <author ref="#hsl_person_id_4994">
+                  <persName>Burns, Robert</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4687" resp="#awilfing" cert="high">
+               <title type="main">Christ lag in Todesbanden, BWV4</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <author ref="#hsl_person_id_169">
+                  <persName>Luther, Martin</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Christ_lag_in_Todes_Banden%2C_BWV_4_(Bach%2C_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4688" resp="#awilfing" cert="high">
+               <title type="main">Christ lag in Todesbanden</title>
+               <author ref="#hsl_person_id_169">
+                  <persName>Luther, Martin</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10591592?page=30,31</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4689" resp="#awilfing" cert="high">
+               <title type="main">In stiller Nacht</title>
+               <title type="alternative">Volkslied</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4690" resp="#awilfing" cert="high">
+               <title type="main">Der schönste Bursch am ganzen Rhein</title>
+               <title type="alternative">Volkslied</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4691" resp="#awilfing" cert="high">
+               <title type="main">Symphonie in C-Dur, Hob.I:97</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300851219</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.97_in_C_major,_Hob.I:97_(Haydn,_Joseph)</idno>
             </bibl>
       </listBibl>
       </body>
