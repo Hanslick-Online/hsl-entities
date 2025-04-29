@@ -5361,6 +5361,12 @@
                <name type="character" ref="#hsl_person_id_551">Hamlet</name>
                <name type="character" ref="#hsl_person_id_1004">Ophelia</name>
                <name type="character" ref="#hsl_person_id_2826">Polonius</name>
+               <name type="character" ref="#hsl_person_id_6698">Guildenstern</name>
+               <name type="character" ref="#hsl_person_id_6699">Rosencrantz</name>
+               <name type="character" ref="#hsl_person_id_6704">Claudius</name>
+               <name type="character" ref="#hsl_person_id_6705">Gertrude</name>
+               <name type="character" ref="#hsl_person_id_6706">Polonius</name>
+               <name type="character" ref="#hsl_person_id_6707">Laertes</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099350-4</idno>
                <idno type="URL" subtype="Digitalisat">https://www.folger.edu/explore/shakespeares-works/hamlet/read/</idno>
             </bibl>
@@ -7160,6 +7166,8 @@
                <author ref="#hsl_person_id_248">
                   <persName>Schiller, Friedrich</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6715">Franz Moor</name>
+               <name type="character" ref="#hsl_person_id_6716">Karl Moor</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099339-5</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10713758</idno>
             </bibl>
@@ -8683,6 +8691,10 @@
                </author>
                <name type="character" ref="#hsl_person_id_4095">Hamlet</name>
                <name type="character" ref="#hsl_person_id_4096">Ophélie</name>
+               <name type="character" ref="#hsl_person_id_6709">Laërte</name>
+               <name type="character" ref="#hsl_person_id_6710">Spectre du Roi</name>
+               <name type="character" ref="#hsl_person_id_6711">Gertrude</name>
+               <name type="character" ref="#hsl_person_id_6712">Claudius</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300162634</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Hamlet_(Thomas,_Ambroise)</idno>
             </bibl>
@@ -30491,7 +30503,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3295" resp="#awilfing" cert="high">
                <title type="main">Alexander’s Feast; or, the Power of Music, HWV75</title>
-               <title type="alternative">Das Alexanderfest oder die Macht der Tonkunst; Timotheus</title>
+               <title type="alternative">Das Alexanderfest oder die Macht der Tonkunst; Alexander’s Fest; Timotheus</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
@@ -33256,7 +33268,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Grande_polonaise%2C_Op.21_(Weber%2C_Carl_Maria_von)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3622" resp="#awilfing" cert="high">
-               <title type="main">Quartett für Violine, Viola, Cello und Klavier Nr. 3 in cMoll, op. 60</title>
+               <title type="main">Quartett für Violine, Viola, Cello und Klavier Nr. 3 in c-Moll, op. 60</title>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
@@ -42521,6 +42533,93 @@
                <author ref="#hsl_person_id_1008">
                   <persName>Paganini, Niccolò</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4707" resp="#awilfing" cert="high">
+               <title type="main">Festgruß zum Schuber-Fest 1873</title>
+               <author ref="#hsl_person_id_188">
+                  <persName>Mosenthal, Salomon Hermann von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4708" resp="#awilfing" cert="high">
+               <title type="main">Le roman d'Elvire</title>
+               <author ref="#hsl_person_id_305">
+                  <persName>Thomas, Ambroise</persName>
+               </author>
+               <author ref="#hsl_person_id_2074">
+                  <persName>Leuven, Adolphe de</persName>
+               </author>
+               <author ref="#hsl_person_id_2940">
+                  <persName>Dumas der Ältere, Alexandre</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_roman_d'Elvire_(Thomas%2C_Ambroise)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4709" resp="#awilfing" cert="high">
+               <title type="main">Le guerillero</title>
+               <author ref="#hsl_person_id_305">
+                  <persName>Thomas, Ambroise</persName>
+               </author>
+               <author ref="#hsl_person_id_6708">
+                  <persName>Anne, Théodore</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_guerillero_(Thomas%2C_Ambroise)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4710" resp="#awilfing" cert="high">
+               <title type="main">Le comte de Carmagnola</title>
+               <author ref="#hsl_person_id_284">
+                  <persName>Scribe, Eugène</persName>
+               </author>
+               <author ref="#hsl_person_id_305">
+                  <persName>Thomas, Ambroise</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Carmagnola_(Thomas%2C_Ambroise)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4711" resp="#awilfing" cert="high">
+               <title type="main">Les compositeurs - Chefs d'orchestre</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_2310">Le Ménestrel</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_102">
+                  <persName>Gounod, Charles</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k5794893t/f2.item</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k57948947/f3.item</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k5794895n/f3.item</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k57948962/f3.item</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4712" resp="#awilfing" cert="high">
+               <title type="main">Le chef d'orchestre. Théorie de son art</title>
+               <author ref="#hsl_person_id_28">
+                  <persName>Berlioz, Hector</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k103064k.image</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4713" resp="#awilfing" cert="high">
+               <title type="main">Wallensteins Lager, op. 10 Nr. 3</title>
+               <title type="alternative">Wallenstein's Lager</title>
+               <author ref="#hsl_person_id_1757">
+                  <persName>Rheinberger, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300412053</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.1,_Op.10_(Rheinberger,_Josef_Gabriel)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4714" resp="#awilfing" cert="high">
+               <title type="main">Ellinor oder Träumen und Erwachen</title>
+               <author ref="#hsl_person_id_64">
+                  <persName>Doppler, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_836">
+                  <persName>Taglioni, Paul</persName>
+               </author>
+               <author ref="#hsl_person_id_865">
+                  <persName>Hertel, Peter Ludwig</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4715" resp="#awilfing" cert="high">
+               <title type="main">L'accoglienza, J221</title>
+               <author ref="#hsl_person_id_321">
+                  <persName>Weber, Carl Maria von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1044565659</idno>
             </bibl>
       </listBibl>
       </body>
