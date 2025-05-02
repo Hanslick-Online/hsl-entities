@@ -42036,7 +42036,7 @@
                <author ref="#hsl_person_id_2096">
                   <persName>Lingg, Hermann</persName>
                </author>
-               <idno type="URI" subtype="GND">https://www.digitale-sammlungen.de/de/view/bsb10114029?page=70,71</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10114029?page=70,71</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4648" resp="#awilfing" cert="high">
                <title type="main">Sonate für Violine und Klavier Nr. 2 in a-Moll, op. 19</title>
@@ -42772,9 +42772,12 @@
                   <persName>Arditi, Luigi</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4734" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4734" resp="#awilfing" cert="high">
                <title type="main">Liebesglück</title>
                <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_6617">
+                  <persName>Sucher, Joseph</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_4735" resp="#awilfing" cert="high">
                <title type="main">Die böse Farbe, D795 Nr. 17</title>
@@ -42802,6 +42805,34 @@
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_5210">
                   <persName>Rust, Friedrich Wilhelm</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4738" resp="#awilfing" cert="high">
+               <title type="main">Aus alten Märchen</title>
+               <author ref="#hsl_person_id_116">
+                  <persName>Heine, Heinrich</persName>
+               </author>
+               <author ref="#hsl_person_id_6617">
+                  <persName>Sucher, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1122992815</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4739" resp="#awilfing" cert="high">
+               <title type="main">Die Seeschlacht bei Lepanto</title>
+               <author ref="#hsl_person_id_2096">
+                  <persName>Lingg, Hermann</persName>
+               </author>
+               <author ref="#hsl_person_id_6617">
+                  <persName>Sucher, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4740" resp="#awilfing" cert="high">
+               <title type="main">Waldfräulein</title>
+               <author ref="#hsl_person_id_332">
+                  <persName>Zedlitz, Joseph Christian von</persName>
+               </author>
+               <author ref="#hsl_person_id_6617">
+                  <persName>Sucher, Joseph</persName>
                </author>
             </bibl>
       </listBibl>
