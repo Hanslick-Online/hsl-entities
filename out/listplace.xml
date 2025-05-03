@@ -872,7 +872,7 @@
                <place xml:id="hsl_place_id_55" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Wien</placeName>
-                     <placeName type="alternative">Vindobona</placeName>
+                     <placeName type="alternative">Vienna; Vindobona</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
@@ -3666,7 +3666,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q384403</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1085229823</idno>
                </place>
-               <place xml:id="hsl_place_id_291" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_291" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Birmingham</placeName>
                   </settlement>
@@ -9168,6 +9168,12 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3023645/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q841957</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/7540451-5</idno>
+               </place>
+               <place xml:id="hsl_place_id_787" resp="#awilfing" cert="high">
+                  <placeName type="main">Monte Pincio, Rom</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/8015111/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q550215</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4337875-4</idno>
                </place>
             </listPlace>
          </div>
