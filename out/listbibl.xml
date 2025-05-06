@@ -926,16 +926,16 @@
                <author ref="#hsl_person_id_2070">
                   <persName>Planché, James R.</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_1727">Hüon von Bordeaux</name>
+               <name type="character" ref="#hsl_person_id_1727">Huon of Bordeaux</name>
                <name type="character" ref="#hsl_person_id_2363">Reiza</name>
                <name type="character" ref="#hsl_person_id_4676">Titania</name>
-               <name type="character" ref="#hsl_person_id_4677">Scherasmin</name>
+               <name type="character" ref="#hsl_person_id_4677">Sherasmin</name>
                <name type="character" ref="#hsl_person_id_4678">Fatima</name>
                <name type="character" ref="#hsl_person_id_4679">Puck</name>
                <name type="character" ref="#hsl_person_id_4680">Oberon</name>
-               <name type="character" ref="#hsl_person_id_4681">Roschana</name>
+               <name type="character" ref="#hsl_person_id_4681">Roshana</name>
                <name type="character" ref="#hsl_person_id_4682">Babekan</name>
-               <name type="character" ref="#hsl_person_id_4683">Almansor</name>
+               <name type="character" ref="#hsl_person_id_4683">Almanzor</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300171765</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Oberon,_J.306_(Weber,_Carl_Maria_von)</idno>
             </bibl>
@@ -2220,6 +2220,9 @@
                </author>
                <name type="character" ref="#hsl_person_id_2716">Siegfried</name>
                <name type="character" ref="#hsl_person_id_3192">Golo</name>
+               <name type="character" ref="#hsl_person_id_6740">Genovefa</name>
+               <name type="character" ref="#hsl_person_id_6742">Margaretha</name>
+               <name type="character" ref="#hsl_person_id_6745">Drago</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145055</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Genoveva,_Op.81_(Schumann,_Robert)</idno>
             </bibl>
@@ -6862,10 +6865,13 @@
             </bibl>
             <bibl xml:id="hsl_work_id_703" resp="#awilfing" cert="high">
                <title type="main">Leben und Tod der heiligen Genoveva</title>
+               <title type="alternative">Genovefa</title>
                <author ref="#hsl_person_id_306">
                   <persName>Tieck, Ludwig</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1208">Bonifacius</name>
+               <name type="character" ref="#hsl_person_id_6739">Golo</name>
+               <name type="character" ref="#hsl_person_id_6741">Gertrud</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4519244-3</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11262641</idno>
             </bibl>
@@ -42835,6 +42841,20 @@
                <author ref="#hsl_person_id_6617">
                   <persName>Sucher, Joseph</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4741" resp="#awilfing" cert="high">
+               <title type="main">Genoveva</title>
+               <title type="alternative">Genovefa</title>
+               <author ref="#hsl_person_id_115">
+                  <persName>Hebbel, Friedrich</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_6743">Katharina</name>
+               <name type="character" ref="#hsl_person_id_6744">Margaretha</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4127182-8</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb10125518</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4742" resp="#awilfing" cert="medium">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>
