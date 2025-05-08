@@ -2220,7 +2220,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_2716">Siegfried</name>
                <name type="character" ref="#hsl_person_id_3192">Golo</name>
-               <name type="character" ref="#hsl_person_id_6740">Genovefa</name>
+               <name type="character" ref="#hsl_person_id_6740">Genoveva</name>
                <name type="character" ref="#hsl_person_id_6742">Margaretha</name>
                <name type="character" ref="#hsl_person_id_6745">Drago</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145055</idno>
@@ -2326,7 +2326,7 @@
                <name type="character" ref="#hsl_person_id_549">Marguerite</name>
                <name type="character" ref="#hsl_person_id_657">Siebel</name>
                <name type="character" ref="#hsl_person_id_665">Valentin</name>
-               <name type="character" ref="#hsl_person_id_1111">Docteur Faust</name>
+               <name type="character" ref="#hsl_person_id_1111">Faust</name>
                <name type="character" ref="#hsl_person_id_3170">Méphistophélès</name>
                <name type="character" ref="#hsl_person_id_4111">Marthe</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300061099</idno>
@@ -4790,6 +4790,9 @@
                <name type="character" ref="#hsl_person_id_5105">Bett, van</name>
                <name type="character" ref="#hsl_person_id_5608">Peter Iwanow</name>
                <name type="character" ref="#hsl_person_id_6276">Marie</name>
+               <name type="character" ref="#hsl_person_id_6759">Marquis von Chateauneuf</name>
+               <name type="character" ref="#hsl_person_id_6760">Admiral Lefort</name>
+               <name type="character" ref="#hsl_person_id_6761">Lord Syndham</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300096615</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zar_und_Zimmermann_(Lortzing,_Albert)</idno>
             </bibl>
@@ -12545,6 +12548,9 @@
                </author>
                <name type="character" ref="#hsl_person_id_2549">Marie</name>
                <name type="character" ref="#hsl_person_id_2942">Tonio</name>
+               <name type="character" ref="#hsl_person_id_6752">Sulpice</name>
+               <name type="character" ref="#hsl_person_id_6754">Marquise de Berkenfield</name>
+               <name type="character" ref="#hsl_person_id_6755">Hortensius</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300045638</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_fille_du_r%C3%A9giment_(Donizetti,_Gaetano)</idno>
             </bibl>
@@ -42853,8 +42859,46 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4127182-8</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb10125518</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4742" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4742" resp="#awilfing" cert="high">
+               <title type="main">Briefe aus Paris</title>
+               <author ref="#hsl_person_id_848">
+                  <persName>Gutzkow, Karl</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1312093447</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11299793</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10422173</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4743" resp="#awilfing" cert="high">
+               <title type="main">Le bourgmestre de Saardam ou Les deux Pierre</title>
+               <title type="alternative">Peter der Große in Saardam</title>
+               <author ref="#hsl_person_id_2079">
+                  <persName>Duveyrier, Anne-Honoré Joseph</persName>
+               </author>
+               <author ref="#hsl_person_id_6757">
+                  <persName>Boirie, Eugène Cantiran de</persName>
+               </author>
+               <author ref="#hsl_person_id_6758">
+                  <persName>Merle, Jean Toussaint</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4744" resp="#awilfing" cert="high">
+               <title type="main">Casanova, LoWV50</title>
+               <author ref="#hsl_person_id_165">
+                  <persName>Lortzing, Albert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1269927752</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Casanova_(Lortzing%2C_Albert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4745" resp="#awilfing" cert="medium">
                <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4746" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Klavier und Orchester in c-Moll, op. 185</title>
+               <author ref="#hsl_person_id_1674">
+                  <persName>Raff, Joseph Joachim</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300201613</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Concerto%2C_Op.185_(Raff%2C_Joachim)</idno>
             </bibl>
       </listBibl>
       </body>
