@@ -1489,6 +1489,7 @@
                <name type="character" ref="#hsl_person_id_2597">Violetta Valery</name>
                <name type="character" ref="#hsl_person_id_4427">Alfredo Germont</name>
                <name type="character" ref="#hsl_person_id_5687">Giorgio Germont</name>
+               <name type="character" ref="#hsl_person_id_6771">Barone Douphol</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300166400</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_traviata_(Verdi,_Giuseppe)</idno>
             </bibl>
@@ -9940,7 +9941,9 @@
                <author ref="#hsl_person_id_1625">
                   <persName>Lytton, Edward Bulwer Lytton</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://archive.org/details/rienzilastroman00bartgoog/page/n10/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10713937</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10713938</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10713939</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1023" resp="#awilfing" cert="high">
                <title type="main">Symphonie Nr. 4 in A-Dur, MWV N 16</title>
@@ -42290,6 +42293,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4671" resp="#awilfing" cert="high">
                <title type="main">Toskanische Lieder, op. 23</title>
+               <title type="alternative">Toscanische Lieder</title>
                <author ref="#hsl_person_id_323">
                   <persName>Weinwurm, Rudolf</persName>
                </author>
@@ -42322,6 +42326,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4675" resp="#awilfing" cert="high">
                <title type="main">Lieder Jung Werner's und Margaretha's aus Scheffel's "Trompeter von Säkkingen"</title>
+               <author ref="#hsl_person_id_1018">
+                  <persName>Scheffel, Joseph Victor von</persName>
+               </author>
                <author ref="#hsl_person_id_5149">
                   <persName>Riedel, Hermann</persName>
                </author>
@@ -42358,7 +42365,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Capriccio%2C_Op.4_(Gr%C3%A4dener%2C_Hermann)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4680" resp="#awilfing" cert="high">
-               <title type="main">Marsch für Klavier zu 4 Händen in Es-Moll, D819 Nr. 5</title>
+               <title type="main">Marsch für Klavier zu 4 Händen in es-Moll, D819 Nr. 5</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_3425">6 Grandes Marches für Klavier zu 4 Händen, D819</note>
                </noteGrp>
@@ -42889,8 +42896,12 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1269927752</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Casanova_(Lortzing%2C_Albert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4745" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_4745" resp="#awilfing" cert="high">
+               <title type="main">Mitrane</title>
+               <author ref="#hsl_person_id_6762">
+                  <persName>Rossi, Francesco</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1321934041</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4746" resp="#awilfing" cert="high">
                <title type="main">Konzert für Klavier und Orchester in c-Moll, op. 185</title>
@@ -42899,6 +42910,127 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300201613</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Concerto%2C_Op.185_(Raff%2C_Joachim)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4747" resp="#awilfing" cert="high">
+               <title type="main">Die sieben Raben, op. 20</title>
+               <author ref="#hsl_person_id_1757">
+                  <persName>Rheinberger, Joseph</persName>
+               </author>
+               <author ref="#hsl_person_id_6763">
+                  <persName>Bonn, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30083554X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_sieben_Raben,_Op.20_(Rheinberger,_Josef_Gabriel)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4748" resp="#awilfing" cert="high">
+               <title type="main">Miserere für gemischten Doppelchor</title>
+               <author ref="#hsl_person_id_6766">
+                  <persName>Bai, Tommaso</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1078639183</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Miserere_(Bai%2C_Tommaso)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4749" resp="#awilfing" cert="high">
+               <title type="main">Jeremia (Buch der Bibel)</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_820">Bibel</note>
+               </noteGrp>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4073016-5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/jer1.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4750" resp="#awilfing" cert="high">
+               <title type="main">I Goti</title>
+               <author ref="#hsl_person_id_6767">
+                  <persName>Gobatti, Stefano</persName>
+               </author>
+               <author ref="#hsl_person_id_6768">
+                  <persName>Interdonato, Stefano</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1025731506</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/I_goti_(Gobatti,_Stefano)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4751" resp="#awilfing" cert="high">
+               <title type="main">Djellah</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4752" resp="#awilfing" cert="high">
+               <title type="main">Ilda</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4753" resp="#awilfing" cert="high">
+               <title type="main">Bianca Orsini</title>
+               <author ref="#hsl_person_id_6730">
+                  <persName>Petrella, Errico</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Bianca_Orsini_(Petrella%2C_Errico)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4754" resp="#awilfing" cert="high">
+               <title type="main">Marco Visconti</title>
+               <author ref="#hsl_person_id_6730">
+                  <persName>Petrella, Errico</persName>
+               </author>
+               <author ref="#hsl_person_id_6770">
+                  <persName>Bolognese, Domenico</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Marco_Visconti_(Petrella%2C_Errico)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4755" resp="#awilfing" cert="high">
+               <title type="main">Jone</title>
+               <title type="alternative">Ione</title>
+               <author ref="#hsl_person_id_6255">
+                  <persName>Peruzzini, Giovanni</persName>
+               </author>
+               <author ref="#hsl_person_id_6730">
+                  <persName>Petrella, Errico</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1218631988</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Jone_(Petrella%2C_Errico)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4756" resp="#awilfing" cert="high">
+               <title type="main">The Last Days of Pompeii</title>
+               <author ref="#hsl_person_id_1625">
+                  <persName>Lytton, Edward Bulwer Lytton</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4393363-4</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10745087</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4757" resp="#awilfing" cert="high">
+               <title type="main">Felix Mendelssohn-Bartholdy. Briefe und Erinnerungen</title>
+               <author ref="#hsl_person_id_124">
+                  <persName>Hiller, Ferdinand von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11187952</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4758" resp="#awilfing" cert="high">
+               <title type="main">Les confessions</title>
+               <author ref="#hsl_person_id_415">
+                  <persName>Rousseau, Jean-Jacques</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4280233-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k58133309</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4759" resp="#awilfing" cert="high">
+               <title type="main">Hunnenschlacht</title>
+               <author ref="#hsl_person_id_812">
+                  <persName>Kaulbach, Wilhelm von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7670635-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.staatsgalerie.de/de/sammlung-digital/hunnenschlacht-den-katalaunischen-feldern</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4760" resp="#awilfing" cert="high">
+               <title type="main">O lieb’, so lang du lieben kannst</title>
+               <author ref="#hsl_person_id_970">
+                  <persName>Freiligrath, Ferdinand</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1210959658</idno>
+               <idno type="URL" subtype="Digitalisat">https://quod.lib.umich.edu/m/moa/ahq7211.0001.001/408</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4761" resp="#awilfing" cert="high">
+               <title type="main">Marsch für Klavier zu 4 Händen in es-Moll, D819 Nr. 5 (Bearbeitung)</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
