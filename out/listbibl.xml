@@ -6457,6 +6457,7 @@
                <name type="character" ref="#hsl_person_id_1683">Brünnhilde</name>
                <name type="character" ref="#hsl_person_id_1690">Siegmund</name>
                <name type="character" ref="#hsl_person_id_1691">Sieglinde</name>
+               <name type="character" ref="#hsl_person_id_6799">Hunding</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300170548</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Walk%C3%BCre,_WWV_86B_(Wagner,_Richard)</idno>
             </bibl>
@@ -7921,6 +7922,7 @@
                <name type="character" ref="#hsl_person_id_5654">Benjamin</name>
                <name type="character" ref="#hsl_person_id_6443">Antichrist</name>
                <name type="character" ref="#hsl_person_id_6631">Goliat</name>
+               <name type="character" ref="#hsl_person_id_6803">Abraham</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4006406-2</idno>
                <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/</idno>
             </bibl>
@@ -16374,6 +16376,9 @@
                <author ref="#hsl_person_id_2948">
                   <persName>Braun von Braunthal, Karl Johann</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6791">Jäger</name>
+               <name type="character" ref="#hsl_person_id_6796">Gabriele</name>
+               <name type="character" ref="#hsl_person_id_6797">Gomez</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300384181</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Das_Nachtlager_in_Granada_(Kreutzer,_Conradin)</idno>
             </bibl>
@@ -40011,7 +40016,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4416" resp="#awilfing" cert="high">
                <title type="main">Altezza Reale!</title>
-               <title type="alternative">Dedication der Alceste</title>
+               <title type="alternative">Dedication der Alceste; Vorrede zur Alceste</title>
                <author ref="#hsl_person_id_99">
                   <persName>Gluck, Christoph Willibald</persName>
                </author>
@@ -43178,6 +43183,62 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1082527904</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Concerto_No.2%2C_Op.206_(Raff%2C_Joachim)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4778" resp="#awilfing" cert="high">
+               <title type="main">Bonsoir, Voisine</title>
+               <title type="alternative">Gute Nacht, Nachbar</title>
+               <author ref="#hsl_person_id_3202">
+                  <persName>Brunswick, Léon-Lévy</persName>
+               </author>
+               <author ref="#hsl_person_id_6222">
+                  <persName>Beauplan, Arthur de</persName>
+               </author>
+               <author ref="#hsl_person_id_6783">
+                  <persName>Poise, Ferdinand</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_6784">Charlot</name>
+               <name type="character" ref="#hsl_person_id_6785">Louisette</name>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k11888337/f3.item</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4779" resp="#awilfing" cert="high">
+               <title type="main">Gretna-Green</title>
+               <author ref="#hsl_person_id_1410">
+                  <persName>Nuitter, Charles</persName>
+               </author>
+               <author ref="#hsl_person_id_6786">
+                  <persName>Opfermann, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_6787">
+                  <persName>Guiraud, Ernest</persName>
+               </author>
+               <author ref="#hsl_person_id_6788">
+                  <persName>Mérante, Louis</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gretna-Green_(Guiraud,_Ernest)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4780" resp="#awilfing" cert="high">
+               <title type="main">Melusina</title>
+               <author ref="#hsl_person_id_721">
+                  <persName>Grillparzer, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_908">
+                  <persName>Kreutzer, Conradin</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1178028895</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Melusina_(Kreutzer%2C_Conradin)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4781" resp="#awilfing" cert="high">
+               <title type="main">Das Nachtlager von Granada</title>
+               <author ref="#hsl_person_id_2063">
+                  <persName>Kind, Johann Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4782" resp="#awilfing" cert="high">
+               <title type="main">Richard Wagner und sein Bühnenfestspiel: "Der Ring des Nibelungen". Eine kritische Studie</title>
+               <author ref="#hsl_person_id_5018">
+                  <persName>Gumprecht, Otto</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11157261</idno>
             </bibl>
       </listBibl>
       </body>
