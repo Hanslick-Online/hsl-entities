@@ -7923,6 +7923,7 @@
                <name type="character" ref="#hsl_person_id_6443">Antichrist</name>
                <name type="character" ref="#hsl_person_id_6631">Goliat</name>
                <name type="character" ref="#hsl_person_id_6803">Abraham</name>
+               <name type="character" ref="#hsl_person_id_6806">Jeremias</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4006406-2</idno>
                <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/</idno>
             </bibl>
@@ -13264,6 +13265,8 @@
                <name type="character" ref="#hsl_person_id_6364">Dikson</name>
                <name type="character" ref="#hsl_person_id_6365">Gaveston</name>
                <name type="character" ref="#hsl_person_id_6366">Marguerite</name>
+               <name type="character" ref="#hsl_person_id_6805">Mac Irton</name>
+               <name type="character" ref="#hsl_person_id_6807">Comtesse d’Avenel</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300022794</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_dame_blanche_(Boieldieu%2C_Fran%C3%A7ois_Adrien)</idno>
             </bibl>
@@ -43239,6 +43242,145 @@
                   <persName>Gumprecht, Otto</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11157261</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4783" resp="#awilfing" cert="high">
+               <title type="main">Sonate in D-Dur</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_5210">
+                  <persName>Rust, Friedrich Wilhelm</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4784" resp="#awilfing" cert="high">
+               <title type="main">Suite für Cello und Klavier, op. 16</title>
+               <author ref="#hsl_person_id_1658">
+                  <persName>Saint-Saëns, Camille</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Suite_for_Cello_and_Piano,_Op.16_(Saint-Sa%C3%ABns,_Camille)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4785" resp="#awilfing" cert="high">
+               <title type="main">Trio für Violine, Cello und Klavier in f-Moll, op. 36</title>
+               <author ref="#hsl_person_id_6809">
+                  <persName>Speidel, Wilhelm</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4786" resp="#awilfing" cert="high">
+               <title type="main">Venni Amore</title>
+               <author ref="#hsl_person_id_6810">
+                  <persName>Righini, Vincenzo</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Venni_Amore_(Righini,_Vincenzo)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4787" resp="#awilfing" cert="high">
+               <title type="main">Sonate für Klavier in Es-Dur, D568</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300220073</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Sonata_in_E-flat_major,_D.568_(Schubert,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4788" resp="#awilfing" cert="high">
+               <title type="main">24 Variationen über "Venni Amore" von Vincenzio Righini für Klavier, WoO65</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4563370-8</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/24_Variations_on_'Venni_Amore'%2C_WoO_65_(Beethoven%2C_Ludwig_van)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4789" resp="#awilfing" cert="high">
+               <title type="main">Piosenka litewska, op. 74 Nr. 16</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4790">17 Polnische Lieder für Singstimme und Klavier, op. 74</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_48">
+                  <persName>Chopin, Frédéric</persName>
+               </author>
+               <author ref="#hsl_person_id_6813">
+                  <persName>Osiński, Ludwik</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/118671851X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Polish_Songs,_Op.74_(Chopin,_Fr%C3%A9d%C3%A9ric)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4790" resp="#awilfing" cert="high">
+               <title type="main">17 Polnische Lieder für Singstimme und Klavier, op. 74</title>
+               <author ref="#hsl_person_id_48">
+                  <persName>Chopin, Frédéric</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300037147</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Polish_Songs,_Op.74_(Chopin,_Fr%C3%A9d%C3%A9ric)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4791" resp="#awilfing" cert="high">
+               <title type="main">Alinde, D904</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_822">
+                  <persName>Rochlitz, Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1123314195</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Alinde%2C_D.904_(Schubert%2C_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4792" resp="#awilfing" cert="high">
+               <title type="main">Wiegenlied, op. 27 Nr. 5</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4793">12 Gesänge für Singstimme und Klavier, op. 27</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1078">
+                  <persName>Schütze, Stephan</persName>
+               </author>
+               <author ref="#hsl_person_id_4855">
+                  <persName>Taubert, Wilhelm</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1122227701</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/12_Ges%C3%A4nge%2C_Op.27_(Taubert%2C_Wilhelm)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4793" resp="#awilfing" cert="high">
+               <title type="main">12 Gesänge für Singstimme und Klavier, op. 27</title>
+               <author ref="#hsl_person_id_4855">
+                  <persName>Taubert, Wilhelm</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1122226780</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/12_Ges%C3%A4nge%2C_Op.27_(Taubert%2C_Wilhelm)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4794" resp="#awilfing" cert="high">
+               <title type="main">Quintett für Klavier, 2 Violinen, Viola und Cello in g-Moll, op. 19</title>
+               <author ref="#hsl_person_id_6620">
+                  <persName>Grammann, Carl</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Quintet,_Op.19_(Grammann,_Carl)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4795" resp="#awilfing" cert="medium">
+               <title type="main">Alarkos</title>
+               <author ref="#hsl_person_id_2429">
+                  <persName>Schlegel, Friedrich von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4796" resp="#awilfing" cert="medium">
+               <title type="main">Krambambuli</title>
+               <author ref="#hsl_person_id_6815">
+                  <persName>Wedekind, Christoph Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4797" resp="#awilfing" cert="medium">
+               <title type="main">Blätter für literarische Unterhaltung</title>
+               <author ref="#hsl_person_id_6124">
+                  <persName>Marggraff, Hermann</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4145798-5</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4798" resp="#awilfing" cert="medium">
+               <title type="main">Oesterreichische Blätter für Literatur und Kunst</title>
+               <author ref="#hsl_person_id_6731">
+                  <persName>Schweitzer, Leopold</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4799" resp="#awilfing" cert="medium">
+               <title type="main">Die spekulative Aesthetik und Kritik</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4798">Oesterreichische Blätter für Literatur und Kunst</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_705">
+                  <persName>Zimmermann, Robert von</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
