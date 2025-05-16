@@ -1386,6 +1386,12 @@
                <author ref="#hsl_person_id_1881">
                   <persName>Delavigne, Germain</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6847">Henriette</name>
+               <name type="character" ref="#hsl_person_id_6848">Madame Bertrand</name>
+               <name type="character" ref="#hsl_person_id_6849">Baptiste</name>
+               <name type="character" ref="#hsl_person_id_6850">Léon de Merinville</name>
+               <name type="character" ref="#hsl_person_id_6851">Irma</name>
+               <name type="character" ref="#hsl_person_id_6855">Roger</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4667404-4</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_ma%C3%A7on_(Auber%2C_Daniel_Fran%C3%A7ois_Esprit)</idno>
             </bibl>
@@ -5279,7 +5285,7 @@
                   <persName>Pohl, Richard</persName>
                </author>
                <name type="character" ref="#hsl_person_id_6585">Erzählerin</name>
-               <name type="character" ref="#hsl_person_id_6586">Harnfer</name>
+               <name type="character" ref="#hsl_person_id_6586">Harfner</name>
                <name type="character" ref="#hsl_person_id_6587">Sohn des Harfners</name>
                <name type="character" ref="#hsl_person_id_6588">König</name>
                <name type="character" ref="#hsl_person_id_6590">Königin</name>
@@ -7274,6 +7280,9 @@
                <author ref="#hsl_person_id_131">
                   <persName>Hugo, Victor</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6833">Don Salluste de Bazan</name>
+               <name type="character" ref="#hsl_person_id_6834">Don César de Bazan</name>
+               <name type="character" ref="#hsl_person_id_6835">Ruy Blas</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4361633-1</idno>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/bnf-bpt6k65112421/page/n7/mode/2up</idno>
             </bibl>
@@ -9541,6 +9550,11 @@
                   <persName>Chantepie, Jules</persName>
                </author>
                <name type="character" ref="#hsl_person_id_3313">Don César</name>
+               <name type="character" ref="#hsl_person_id_6832">Don José de Santarem</name>
+               <name type="character" ref="#hsl_person_id_6840">Charles II. Roi d'Espagne</name>
+               <name type="character" ref="#hsl_person_id_6841">Maritana</name>
+               <name type="character" ref="#hsl_person_id_6842">Lazarille</name>
+               <name type="character" ref="#hsl_person_id_6843">Le Capitaine des Gardes</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1120344522</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Don_C%C3%A9sar_de_Bazan_(Massenet,_Jules)</idno>
             </bibl>
@@ -41182,7 +41196,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4545" resp="#awilfing" cert="high">
                <title type="main">Die Offenbarung des Johannes</title>
-               <title type="alternative">Offenbarung Johannes</title>
+               <title type="alternative">Offenbarung Johannis</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_820">Bibel</note>
                   <note type="Werkbezug" target="hsl_work_id_826">Neues Testament</note>
@@ -41852,7 +41866,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4625" resp="#awilfing" cert="high">
                <title type="main">Provenzalisches Lied, op. 139 No. 4</title>
-               <title type="alternative">Provençalische Lied</title>
+               <title type="alternative">Provençalisches Lied</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_508">Des Sängers Fluch, op. 139</note>
                </noteGrp>
@@ -41866,7 +41880,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Des_S%C3%A4ngers_Fluch,_Op.139_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4626" resp="#awilfing" cert="high">
-               <title type="main">Ballade, op. 139 n. 7</title>
+               <title type="main">Ballade, op. 139 Nr. 7</title>
                <title type="alternative">Ballade vom König Siegfried</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_508">Des Sängers Fluch, op. 139</note>
@@ -42721,6 +42735,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4724" resp="#awilfing" cert="high">
                <title type="main">Wartburg-Lieder, S345</title>
+               <title type="alternative">Wartburglieder</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -43445,6 +43460,35 @@
                <author ref="#hsl_person_id_6823">
                   <persName>Guglielmi, Pietro Alessandro</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4808" resp="#awilfing" cert="high">
+               <title type="main">Die Räuberbraut, op. 156</title>
+               <author ref="#hsl_person_id_1206">
+                  <persName>Ries, Ferdinand</persName>
+               </author>
+               <author ref="#hsl_person_id_3233">
+                  <persName>Döring, Georg</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300712693</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_R%C3%A4uberbraut,_Op.156_(Ries,_Ferdinand)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4809" resp="#awilfing" cert="high">
+               <title type="main">Was wir von Frankreich lernen können</title>
+               <author ref="#hsl_person_id_2517">
+                  <persName>Sybel, Heinrich von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11009065</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4810" resp="#awilfing" cert="high">
+               <title type="main">Maritana</title>
+               <author ref="#hsl_person_id_6838">
+                  <persName>Wallace, William Vincent</persName>
+               </author>
+               <author ref="#hsl_person_id_6839">
+                  <persName>Fitzball, Edward</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1132832160</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Maritana_(Wallace%2C_William_Vincent)</idno>
             </bibl>
       </listBibl>
       </body>
