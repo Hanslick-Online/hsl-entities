@@ -15598,6 +15598,11 @@
                <author ref="#hsl_person_id_2157">
                   <persName>Ennery, Adolphe d'</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6861">Gaston de Maillepre</name>
+               <name type="character" ref="#hsl_person_id_6862">Hélène</name>
+               <name type="character" ref="#hsl_person_id_6863">Gouverneur de Madras</name>
+               <name type="character" ref="#hsl_person_id_6864">John Littlepol</name>
+               <name type="character" ref="#hsl_person_id_6866">Djelma</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1223000524</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_premier_jour_de_bonheur_(Auber,_Daniel_Fran%C3%A7ois_Esprit)</idno>
             </bibl>
@@ -39495,7 +39500,7 @@
                <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18870413&amp;zoom=33</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4345" resp="#awilfing" cert="high">
-               <title type="main">Zampa-Galopp, op 62</title>
+               <title type="main">Zampa-Galopp, op. 62</title>
                <author ref="#hsl_person_id_1150">
                   <persName>Strauss senior, Johann</persName>
                </author>
@@ -43504,6 +43509,66 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4813" resp="#awilfing" cert="medium">
                <title type="main">Wiener Musikzeitung</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4814" resp="#awilfing" cert="high">
+               <title type="main">La jolie parfumeuse</title>
+               <title type="alternative">Schönröschen</title>
+               <author ref="#hsl_person_id_202">
+                  <persName>Offenbach, Jacques</persName>
+               </author>
+               <author ref="#hsl_person_id_2060">
+                  <persName>Crémieux, Hector Jonathan</persName>
+               </author>
+               <author ref="#hsl_person_id_6860">
+                  <persName>Blum, Ernest</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_6868">Rose Michon</name>
+               <name type="character" ref="#hsl_person_id_6870">Persiflage</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1048304116</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_jolie_parfumeuse_(Offenbach%2C_Jacques)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4815" resp="#awilfing" cert="high">
+               <title type="main">Dein Herzlein mild, op. 62 Nr. 4</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4126">7 Lieder für gemischten Chor, op. 62</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_1278">
+                  <persName>Heyse, Paul</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300025890</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/7_Lieder,_Op.62_(Brahms,_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4816" resp="#awilfing" cert="high">
+               <title type="main">Waldesnacht, op. 62 Nr. 3</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4126">7 Lieder für gemischten Chor, op. 62</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_1278">
+                  <persName>Heyse, Paul</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300025904</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/7_Lieder,_Op.62_(Brahms,_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4817" resp="#awilfing" cert="high">
+               <title type="main">Der Jungbrunnen</title>
+               <author ref="#hsl_person_id_1278">
+                  <persName>Heyse, Paul</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb10129384</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4818" resp="#awilfing" cert="high">
+               <title type="main">Serenade für Streichorchester Nr. 1 in D-Dur, op. 9</title>
+               <author ref="#hsl_person_id_1017">
+                  <persName>Fuchs, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300780893</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Serenade_No.1%2C_Op.9_(Fuchs%2C_Robert)</idno>
             </bibl>
       </listBibl>
       </body>
