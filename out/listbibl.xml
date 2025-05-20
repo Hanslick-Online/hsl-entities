@@ -9567,6 +9567,7 @@
                <author ref="#hsl_person_id_2114">
                   <persName>Gondinet, Edmond</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6882">Marquis de Moncontour</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300834497</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_roi_l'a_dit_(Delibes%2C_L%C3%A9o)</idno>
             </bibl>
@@ -43569,6 +43570,73 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300780893</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Serenade_No.1%2C_Op.9_(Fuchs%2C_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4819" resp="#awilfing" cert="high">
+               <title type="main">Die Hagestolzen</title>
+               <author ref="#hsl_person_id_2993">
+                  <persName>Iffland, August Wilhelm</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_6876">Margrete</name>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10111954?page=224,225</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4820" resp="#awilfing" cert="high">
+               <title type="main">Mein Lied!, op. 108</title>
+               <author ref="#hsl_person_id_1066">
+                  <persName>Gumbert, Ferdinand</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Mein_Lied!%2C_Op.108_(Gumbert%2C_Ferdinand)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4821" resp="#awilfing" cert="high">
+               <title type="main">Das Norddeutsche Theater. Ein Beitrag zur deutschen Theatergeschichte</title>
+               <author ref="#hsl_person_id_153">
+                  <persName>Laube, Heinrich</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11009594</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4822" resp="#awilfing" cert="high">
+               <title type="main">Das Veilchen, KV476</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300111924</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Das_Veilchen,_K.476_(Mozart,_Wolfgang_Amadeus)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4823" resp="#awilfing" cert="high">
+               <title type="main">O Santissima Vergine Maria</title>
+               <author ref="#hsl_person_id_6879">
+                  <persName>Gordigiani, Luigi</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4824" resp="#awilfing" cert="high">
+               <title type="main">Gute Nacht, du herziges Kind!, op. 137 Nr. 2</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4825">3 Lieder für Singstimme und Klavier op. 137</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_201">
+                  <persName>Abt, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_6880">
+                  <persName>Seyffardt, J. L. K. F.</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1214197019</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11153547</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4825" resp="#awilfing" cert="high">
+               <title type="main">3 Lieder für Singstimme und Klavier op. 137</title>
+               <author ref="#hsl_person_id_201">
+                  <persName>Abt, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_5116">
+                  <persName>Löwenstein, Rudolf</persName>
+               </author>
+               <author ref="#hsl_person_id_6880">
+                  <persName>Seyffardt, J. L. K. F.</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1050939883</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Lieder,_Op.137_(Abt,_Franz)</idno>
             </bibl>
       </listBibl>
       </body>
