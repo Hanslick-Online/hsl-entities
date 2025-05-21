@@ -1895,6 +1895,7 @@
                <name type="character" ref="#hsl_person_id_632">Nadori</name>
                <name type="character" ref="#hsl_person_id_1589">Jessonda</name>
                <name type="character" ref="#hsl_person_id_6520">Amazili</name>
+               <name type="character" ref="#hsl_person_id_6902">Dandau</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300269382</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Jessonda_(Spohr,_Louis)</idno>
             </bibl>
@@ -2302,6 +2303,8 @@
                <name type="character" ref="#hsl_person_id_629">Mephistopheles</name>
                <name type="character" ref="#hsl_person_id_709">Faust</name>
                <name type="character" ref="#hsl_person_id_710">Margarete</name>
+               <name type="character" ref="#hsl_person_id_6898">Valentin</name>
+               <name type="character" ref="#hsl_person_id_6899">Marthe Schwerdtlein</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099197-0</idno>
                <idno type="URL" subtype="Digitalisat">https://www.deutschestextarchiv.de/book/show/goethe_faust01_1808</idno>
             </bibl>
@@ -9978,6 +9981,10 @@
                   <persName>Byron, Baron George Gordon Byron</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1637">Manfred</name>
+               <name type="character" ref="#hsl_person_id_6894">Chamois Hunter</name>
+               <name type="character" ref="#hsl_person_id_6895">Abbot of St. Maurice</name>
+               <name type="character" ref="#hsl_person_id_6896">Herman</name>
+               <name type="character" ref="#hsl_person_id_6897">Manuel</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4210339-3</idno>
                <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Manfred/8G5bAAAAQAAJ</idno>
             </bibl>
@@ -12816,6 +12823,7 @@
                <author ref="#hsl_person_id_3224">
                   <persName>Vaulabelle, Éléonore Tenaille de</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6892">Cloé</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4692276-3</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Daphnis_et_Chlo%C3%A9_(Offenbach%2C_Jacques)</idno>
             </bibl>
@@ -43637,6 +43645,64 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1050939883</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Lieder,_Op.137_(Abt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4826" resp="#awilfing" cert="high">
+               <title type="main">Cantate Domino</title>
+               <author ref="#hsl_person_id_1793">
+                  <persName>Bach, Wilhelm Friedemann</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4827" resp="#awilfing" cert="high">
+               <title type="main">12 Polonaisen für Klavier, WFB A 27-38</title>
+               <author ref="#hsl_person_id_1793">
+                  <persName>Bach, Wilhelm Friedemann</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300012136</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/12_Polonaises%2C_F.12_(Bach%2C_Wilhelm_Friedemann)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4828" resp="#awilfing" cert="high">
+               <title type="main">Bald wenn die Biene, op. 81 Nr. 3</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4829">5 Lieder für Singstimme und Klavier, op. 81</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_970">
+                  <persName>Freiligrath, Ferdinand</persName>
+               </author>
+               <author ref="#hsl_person_id_1122">
+                  <persName>Loewe, Carl</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300299222</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4829" resp="#awilfing" cert="high">
+               <title type="main">5 Lieder für Singstimme und Klavier, op. 81</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <author ref="#hsl_person_id_375">
+                  <persName>Lenau, Nikolaus</persName>
+               </author>
+               <author ref="#hsl_person_id_970">
+                  <persName>Freiligrath, Ferdinand</persName>
+               </author>
+               <author ref="#hsl_person_id_1122">
+                  <persName>Loewe, Carl</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300299222</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4830" resp="#awilfing" cert="high">
+               <title type="main">Weihnachts-Cantate</title>
+               <author ref="#hsl_person_id_6733">
+                  <persName>Adaïewsky, Ella</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1171835361</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4831" resp="#awilfing" cert="high">
+               <title type="main">Melancholie</title>
+               <title type="alternative">An die Melancholie</title>
+               <author ref="#hsl_person_id_2514">
+                  <persName>Keller, Gottfried</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.gottfriedkeller.ch/allgemein/lyrik/index.php</idno>
             </bibl>
       </listBibl>
       </body>
