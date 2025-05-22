@@ -41924,7 +41924,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4224466-3</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10114345</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4629" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4629" resp="#awilfing" cert="high">
                <title type="main">Festrede</title>
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_124">
@@ -43703,6 +43703,23 @@
                   <persName>Keller, Gottfried</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.gottfriedkeller.ch/allgemein/lyrik/index.php</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4832" resp="#awilfing" cert="high">
+               <title type="main">Phantasie für Klavier in C-Dur, D760 (Bearbeitung)</title>
+               <title type="alternative">Wanderer-Phantasie; Wanderer-Fantasie</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4833" resp="#awilfing" cert="high">
+               <title type="main">Fuge für Doppelchor, Orchester und Orgel</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
