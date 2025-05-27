@@ -1521,6 +1521,7 @@
                <author ref="#hsl_person_id_2197">
                   <persName>Federico, Gennaro Antonio</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6906">Serpina</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300118465</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_serva_padrona_(Pergolesi,_Giovanni_Battista)</idno>
             </bibl>
@@ -42997,6 +42998,9 @@
                <author ref="#hsl_person_id_6730">
                   <persName>Petrella, Errico</persName>
                </author>
+               <author ref="#hsl_person_id_6905">
+                  <persName>Cimino, G. T.</persName>
+               </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Bianca_Orsini_(Petrella%2C_Errico)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4754" resp="#awilfing" cert="high">
@@ -43733,6 +43737,20 @@
                <author ref="#hsl_person_id_48">
                   <persName>Chopin, Frédéric</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4837" resp="#awilfing" cert="high">
+               <title type="main">L'Italie</title>
+               <title type="alternative">unklarer Bezug</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4838" resp="#awilfing" cert="high">
+               <title type="main">Reisebriefe aus den Jahren 1830 bis 1832</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4392">Briefe aus den Jahren 1830 bis 1847 von Felix Mendelssohn Bartholdy</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_21">
+                  <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11174979</idno>
             </bibl>
       </listBibl>
       </body>
