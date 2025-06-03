@@ -4189,7 +4189,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q275635</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4575042-7</idno>
                </place>
-               <place xml:id="hsl_place_id_334" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_334" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Città del Vaticano</placeName>
                      <placeName type="alternative">Vatican; Vatikan</placeName>
@@ -9205,6 +9205,11 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2647909/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1026315</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4086798-5</idno>
+               </place>
+               <place xml:id="hsl_place_id_793" resp="#awilfing" cert="high">
+                  <placeName type="main">Kirchenstaat</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q170174</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4114201-9</idno>
                </place>
             </listPlace>
          </div>
