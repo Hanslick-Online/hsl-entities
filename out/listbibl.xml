@@ -43384,11 +43384,13 @@
                   <persName>Schlegel, Friedrich von</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4796" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4796" resp="#awilfing" cert="high">
                <title type="main">Krambambuli</title>
+               <title type="alternative">Crambambuli</title>
                <author ref="#hsl_person_id_6815">
                   <persName>Wedekind, Christoph Friedrich</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.lieder-archiv.de/gedichte-der_krambambulist-aid125.html</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4797" resp="#awilfing" cert="medium">
                <title type="main">Blätter für literarische Unterhaltung</title>
@@ -43418,8 +43420,8 @@
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4801" resp="#awilfing" cert="medium">
-               <title type="main">Vokalmesse</title>
+            <bibl xml:id="hsl_work_id_4801" resp="#awilfing" cert="high">
+               <title type="main">Messe in C-Dur</title>
                <author ref="#hsl_person_id_74">
                   <persName>Esser, Heinrich</persName>
                </author>
@@ -43509,14 +43511,16 @@
                   <persName>Gersdorf, Ernst Gotthelf</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_4812" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4812" resp="#awilfing" cert="high">
                <title type="main">Neue Wiener Musik-Zeitung</title>
                <author ref="#hsl_person_id_6452">
                   <persName>Glöggl, Franz</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://alex.onb.ac.at/cgi-content/anno?aid=nwm</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4813" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4813" resp="#awilfing" cert="high">
                <title type="main">Wiener Musikzeitung</title>
+               <title type="alternative">unklarer Bezug</title>
             </bibl>
             <bibl xml:id="hsl_work_id_4814" resp="#awilfing" cert="high">
                <title type="main">La jolie parfumeuse</title>
@@ -43752,6 +43756,9 @@
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11174979</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4839" resp="#awilfing" cert="medium">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>
