@@ -43378,11 +43378,14 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Quintet,_Op.19_(Grammann,_Carl)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4795" resp="#awilfing" cert="medium">
-               <title type="main">Alarkos</title>
+            <bibl xml:id="hsl_work_id_4795" resp="#awilfing" cert="high">
+               <title type="main">Alarcos</title>
+               <title type="alternative">Alarkos</title>
                <author ref="#hsl_person_id_2429">
                   <persName>Schlegel, Friedrich von</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1031408428</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10119482</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4796" resp="#awilfing" cert="high">
                <title type="main">Krambambuli</title>
@@ -43399,26 +43402,29 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4145798-5</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4798" resp="#awilfing" cert="medium">
-               <title type="main">Oesterreichische Blätter für Literatur und Kunst</title>
+            <bibl xml:id="hsl_work_id_4798" resp="#awilfing" cert="high">
+               <title type="main">Oesterreichische Blätter für Literatur und Kunst. Beilage zur Oesterreichisch-Kaiserlichen Wiener Zeitung</title>
                <author ref="#hsl_person_id_6731">
                   <persName>Schweitzer, Leopold</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=wrz</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4799" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4799" resp="#awilfing" cert="high">
                <title type="main">Die spekulative Aesthetik und die Kritik</title>
                <noteGrp type="Werkbezug">
-                  <note type="Werkbezug" target="hsl_work_id_4798">Oesterreichische Blätter für Literatur und Kunst</note>
+                  <note type="Werkbezug" target="hsl_work_id_4798">Oesterreichische Blätter für Literatur und Kunst. Beilage zur Oesterreichisch-Kaiserlichen Wiener Zeitung</note>
                </noteGrp>
                <author ref="#hsl_person_id_705">
                   <persName>Zimmermann, Robert von</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18540206</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4800" resp="#awilfing" cert="medium">
-               <title type="main">Goethe's Werke: Unter des durchlauchtigsten deutschen Bundes schützenden Privilegien. Achtzehnter Band</title>
+            <bibl xml:id="hsl_work_id_4800" resp="#awilfing" cert="high">
+               <title type="main">Goethe's Werke. Unter des durchlauchtigsten deutschen Bundes schützenden Privilegien. 18. Band [Wilhelm Meisters Lehrjahre, 1.-3. Buch]]</title>
                <author ref="#hsl_person_id_100">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10109022</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4801" resp="#awilfing" cert="high">
                <title type="main">Messe in C-Dur</title>
