@@ -7589,6 +7589,7 @@
                   <persName>Goetz, Hermann</persName>
                </author>
                <name type="character" ref="#hsl_person_id_5768">Katharine</name>
+               <name type="character" ref="#hsl_person_id_6927">Petruchio</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300646909</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Widerspenstigen_Z%C3%A4hmung_(Goetz%2C_Hermann)</idno>
             </bibl>
@@ -16319,6 +16320,15 @@
                   <persName>Shakespeare, William</persName>
                </author>
                <name type="character" ref="#hsl_person_id_6184">Petruchio</name>
+               <name type="character" ref="#hsl_person_id_6918">Katherine</name>
+               <name type="character" ref="#hsl_person_id_6919">Bianca</name>
+               <name type="character" ref="#hsl_person_id_6920">Lucentio</name>
+               <name type="character" ref="#hsl_person_id_6921">Baptista Minola</name>
+               <name type="character" ref="#hsl_person_id_6922">Hortensio</name>
+               <name type="character" ref="#hsl_person_id_6923">Grumio</name>
+               <name type="character" ref="#hsl_person_id_6924">Tailor</name>
+               <name type="character" ref="#hsl_person_id_6925">Tranio</name>
+               <name type="character" ref="#hsl_person_id_6926">Vincentio</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4316949-1</idno>
                <idno type="URL" subtype="Digitalisat">https://www.folger.edu/explore/shakespeares-works/the-taming-of-the-shrew/read/</idno>
             </bibl>
@@ -43792,6 +43802,46 @@
                <author ref="#hsl_person_id_287">
                   <persName>Shakespeare, William</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4844" resp="#awilfing" cert="high">
+               <title type="main">Ueber das Wiener Hofoperntheater</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4845" resp="#awilfing" cert="medium">
+               <title type="main">Ludwig XI.</title>
+               <title type="alternative">unklarer Bezug</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4846" resp="#awilfing" cert="high">
+               <title type="main">Giroflé-Girofla</title>
+               <author ref="#hsl_person_id_3633">
+                  <persName>Lecocq, Charles</persName>
+               </author>
+               <author ref="#hsl_person_id_5563">
+                  <persName>Leterrier, Eugène</persName>
+               </author>
+               <author ref="#hsl_person_id_5564">
+                  <persName>Vanloo, Albert</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_6912">Giroflé</name>
+               <name type="character" ref="#hsl_person_id_6913">Girofla</name>
+               <name type="character" ref="#hsl_person_id_6915">Don Bolero</name>
+               <name type="character" ref="#hsl_person_id_6916">Mourzouk</name>
+               <name type="character" ref="#hsl_person_id_6917">Marasquin</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1033534323</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Girofl%C3%A9-Girofla_(Lecocq,_Charles)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4847" resp="#awilfing" cert="high">
+               <title type="main">Shakespeare-Splitter</title>
+               <title type="alternative">Shakspeare-Splitter</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_1415">Deutsche Rundschau</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_153">
+                  <persName>Laube, Heinrich</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11320476?page=306,307</idno>
             </bibl>
       </listBibl>
       </body>
