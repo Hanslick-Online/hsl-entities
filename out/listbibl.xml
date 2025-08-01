@@ -7244,6 +7244,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_1797">Nathan</name>
                <name type="character" ref="#hsl_person_id_1798">Saladin</name>
+               <name type="character" ref="#hsl_person_id_6970">Al-Hafi</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099292-5</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11245315</idno>
             </bibl>
@@ -7590,6 +7591,10 @@
                </author>
                <name type="character" ref="#hsl_person_id_5768">Katharine</name>
                <name type="character" ref="#hsl_person_id_6927">Petruchio</name>
+               <name type="character" ref="#hsl_person_id_6928">Lucentio</name>
+               <name type="character" ref="#hsl_person_id_6929">Baptista</name>
+               <name type="character" ref="#hsl_person_id_6930">Bianka</name>
+               <name type="character" ref="#hsl_person_id_6931">Hortensio</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300646909</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Widerspenstigen_Z%C3%A4hmung_(Goetz%2C_Hermann)</idno>
             </bibl>
@@ -7931,6 +7936,7 @@
                <name type="character" ref="#hsl_person_id_6631">Goliat</name>
                <name type="character" ref="#hsl_person_id_6803">Abraham</name>
                <name type="character" ref="#hsl_person_id_6806">Jeremias</name>
+               <name type="character" ref="#hsl_person_id_6966">Königin von Saba</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4006406-2</idno>
                <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/</idno>
             </bibl>
@@ -10878,6 +10884,9 @@
                <name type="character" ref="#hsl_person_id_1863">Königin von Saba</name>
                <name type="character" ref="#hsl_person_id_1864">Sulamith</name>
                <name type="character" ref="#hsl_person_id_1865">König Salomon</name>
+               <name type="character" ref="#hsl_person_id_6968">Hohepriester</name>
+               <name type="character" ref="#hsl_person_id_6971">Baal-Hanan</name>
+               <name type="character" ref="#hsl_person_id_6972">Astaroth</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300488602</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_K%C3%B6nigin_von_Saba%2C_Op.27_(Goldmark%2C_Carl)</idno>
             </bibl>
@@ -22138,7 +22147,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2346" resp="#awilfing" cert="high">
                <title type="main">Cantica canticorum</title>
-               <title type="alternative">Hohes Lied; Hoheslied</title>
+               <title type="alternative">Hohes Lied;  Hoheslied</title>
                <author ref="#hsl_person_id_927">
                   <persName>Palestrina, Giovanni Pierluigi da</persName>
                </author>
@@ -23983,6 +23992,9 @@
             <bibl xml:id="hsl_work_id_2571" resp="#awilfing" cert="high">
                <title type="main">Wallensteins Lager</title>
                <title type="alternative">Wallenstein's Lager</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_742">Wallenstein</note>
+               </noteGrp>
                <author ref="#hsl_person_id_248">
                   <persName>Schiller, Friedrich</persName>
                </author>
@@ -23991,6 +24003,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2572" resp="#awilfing" cert="high">
                <title type="main">Die Piccolomini</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_742">Wallenstein</note>
+               </noteGrp>
                <author ref="#hsl_person_id_248">
                   <persName>Schiller, Friedrich</persName>
                </author>
@@ -24000,6 +24015,9 @@
             <bibl xml:id="hsl_work_id_2573" resp="#awilfing" cert="high">
                <title type="main">Wallensteins Tod</title>
                <title type="alternative">Wallenstein's Tod</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_742">Wallenstein</note>
+               </noteGrp>
                <author ref="#hsl_person_id_248">
                   <persName>Schiller, Friedrich</persName>
                </author>
@@ -41202,7 +41220,7 @@
                   <persName>Bach, Johann Sebastian</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30001077X</idno>
-               <idno type="URL" subtype="Digitalisat">^https://imslp.org/wiki/Prelude_and_Fugue_in_E-flat_major%2C_BWV_552_(Bach%2C_Johann_Sebastian)</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Prelude_and_Fugue_in_E-flat_major%2C_BWV_552_(Bach%2C_Johann_Sebastian)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4544" resp="#awilfing" cert="high">
                <title type="main">Venite populi, KV260/KV248a</title>
@@ -43773,8 +43791,17 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11174979</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4839" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_4839" resp="#awilfing" cert="high">
+               <title type="main">Die Folkunger</title>
+               <title type="alternative">Die Volkunger</title>
+               <author ref="#hsl_person_id_188">
+                  <persName>Mosenthal, Salomon Hermann von</persName>
+               </author>
+               <author ref="#hsl_person_id_6964">
+                  <persName>Kretschmer, Edmund</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1063079853</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Folkunger_(Kretschmer,_Edmund)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4840" resp="#awilfing" cert="medium">
                <title type="main">Die Grundsätze der musikalischen Komposition. Buch 1: Die richtige Folge der Grundharmonien, oder vom Fundamental-bass und dessen Umkehrungen und Stellvertreten</title>
@@ -43842,6 +43869,52 @@
                   <persName>Laube, Heinrich</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11320476?page=306,307</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4848" resp="#awilfing" cert="high">
+               <title type="main">Medea</title>
+               <author ref="#hsl_person_id_721">
+                  <persName>Grillparzer, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4501137-0</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/grillparzerssmm12laubgoog/page/n165/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4849" resp="#awilfing" cert="high">
+               <title type="main">Präludium und Fuge für Orgel in Es-Dur, BWV552 (Bearbeitung)</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <author ref="#hsl_person_id_1608">
+                  <persName>Scholz, Bernhard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Prelude_and_Fugue_in_E-flat_major%2C_BWV_552_(Bach%2C_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4850" resp="#awilfing" cert="high">
+               <title type="main">Histoire de la reine du matin et de Soliman, prince des génies</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4851">Voyage en Orient</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_192">
+                  <persName>Nerval, Gérard de</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1088018653</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/voyageenorient03nervgoog/page/n242/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4851" resp="#awilfing" cert="high">
+               <title type="main">Voyage en Orient</title>
+               <author ref="#hsl_person_id_192">
+                  <persName>Nerval, Gérard de</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4366385-0</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/voyageenorient03nervgoog/page/n8/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4852" resp="#awilfing" cert="high">
+               <title type="main">Hoheslied</title>
+               <title type="alternative">Hohenlied</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_820">Bibel</note>
+               </noteGrp>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4072593-5</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/hld1.html</idno>
             </bibl>
       </listBibl>
       </body>
