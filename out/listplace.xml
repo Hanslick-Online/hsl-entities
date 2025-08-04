@@ -3049,6 +3049,7 @@
                <place xml:id="hsl_place_id_243" resp="#awilfing" cert="high">
                   <settlement type="H">
                      <placeName type="main">Donau; Dunaj; Duna; Dunav; Dunărea; Dunai</placeName>
+                     <placeName type="alternative">Danube</placeName>
                   </settlement>
                   <desc type="entity_type">stream, lake, ...</desc>
                   <country>RO, Romania</country>
@@ -9241,6 +9242,17 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2519240/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5818</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4010558-1</idno>
+               </place>
+               <place xml:id="hsl_place_id_799" resp="#awilfing" cert="high">
+                  <placeName type="main">Montmorency</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2992229/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q316891</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4115218-9</idno>
+               </place>
+               <place xml:id="hsl_place_id_800" resp="#awilfing" cert="high">
+                  <placeName type="main">Rue Bergère, Paris</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12513989/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3447129</idno>
                </place>
             </listPlace>
          </div>

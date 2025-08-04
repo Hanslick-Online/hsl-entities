@@ -19535,6 +19535,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2061" resp="#awilfing" cert="high">
                <title type="main">Raoul Barbe-Bleue</title>
+               <title type="alternative">Blaubart</title>
                <author ref="#hsl_person_id_103">
                   <persName>Grétry, André-Ernest-Modeste</persName>
                </author>
@@ -29089,6 +29090,8 @@
                <author ref="#hsl_person_id_3455">
                   <persName>Sedaine, Michel-Jean</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_6985">Richard Cœur-de-Lion</name>
+               <name type="character" ref="#hsl_person_id_6986">Blondel</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300747373</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Richard_C%C5%93ur-de-Lion_(Gr%C3%A9try%2C_Andr%C3%A9_Ernest_Modeste)</idno>
             </bibl>
@@ -43916,6 +43919,75 @@
                </noteGrp>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4072593-5</idno>
                <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/hld1.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4853" resp="#awilfing" cert="high">
+               <title type="main">Joconde</title>
+               <author ref="#hsl_person_id_133">
+                  <persName>Isouard, Niccolò</persName>
+               </author>
+               <author ref="#hsl_person_id_780">
+                  <persName>Etienne, Charles Guillaume</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_6987">Joconde</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1031701923</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Joconde_(Isouard,_Nicolo)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4854" resp="#awilfing" cert="high">
+               <title type="main">L'arbre enchanté</title>
+               <author ref="#hsl_person_id_99">
+                  <persName>Gluck, Christoph Willibald</persName>
+               </author>
+               <author ref="#hsl_person_id_6982">
+                  <persName>Vadé, Jean Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300978960</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/L'arbre_enchant%C3%A9%2C_Wq.42_(Gluck%2C_Christoph_Willibald)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4855" resp="#awilfing" cert="high">
+               <title type="main">Le Calife de Bagdad</title>
+               <author ref="#hsl_person_id_36">
+                  <persName>Boieldieu, François Adrien</persName>
+               </author>
+               <author ref="#hsl_person_id_2069">
+                  <persName>Godard d'Aucourt de Saint-Just, Claude</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300022786</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_calife_de_Bagdad_(Boieldieu%2C_Fran%C3%A7ois_Adrien)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4856" resp="#awilfing" cert="high">
+               <title type="main">Le Sorcier</title>
+               <author ref="#hsl_person_id_214">
+                  <persName>Philidor, François-André</persName>
+               </author>
+               <author ref="#hsl_person_id_6983">
+                  <persName>Poinsinet, Antoine Alexandre Henri</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_sorcier_(Philidor,_Fran%C3%A7ois_Danican)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4857" resp="#awilfing" cert="high">
+               <title type="main">Hommage à Boieldieu</title>
+               <author ref="#hsl_person_id_305">
+                  <persName>Thomas, Ambroise</persName>
+               </author>
+               <author ref="#hsl_person_id_1761">
+                  <persName>Pougin, Arthur</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4858" resp="#awilfing" cert="high">
+               <title type="main">L'amour africain</title>
+               <author ref="#hsl_person_id_156">
+                  <persName>Legouvé, Ernest</persName>
+               </author>
+               <author ref="#hsl_person_id_2687">
+                  <persName>Paladilhe, Emile</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/L'amour_africain_(Paladilhe%2C_%C3%89mile)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4859" resp="#awilfing" cert="high">
+               <title type="main">Messe solennelle</title>
+               <author ref="#hsl_person_id_6989">
+                  <persName>Boïeldieu, Adrien Louis Victor</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
