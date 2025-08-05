@@ -9053,6 +9053,7 @@
                <name type="character" ref="#hsl_person_id_6422">Brésilien</name>
                <name type="character" ref="#hsl_person_id_6423">Baron de Gondremarck</name>
                <name type="character" ref="#hsl_person_id_6425">Raoul de Gardefeu</name>
+               <name type="character" ref="#hsl_person_id_6995">Metella</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300115695</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_vie_parisienne_(Offenbach%2C_Jacques)</idno>
             </bibl>
@@ -43981,6 +43982,14 @@
                <author ref="#hsl_person_id_2687">
                   <persName>Paladilhe, Emile</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_7000">Le Comte</name>
+               <name type="character" ref="#hsl_person_id_7001">La Comtesse</name>
+               <name type="character" ref="#hsl_person_id_7002">Margarita</name>
+               <name type="character" ref="#hsl_person_id_7003">Paul</name>
+               <name type="character" ref="#hsl_person_id_7004">Raymond</name>
+               <name type="character" ref="#hsl_person_id_7005">Nouman</name>
+               <name type="character" ref="#hsl_person_id_7006">Moiana</name>
+               <name type="character" ref="#hsl_person_id_7007">Zein</name>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/L'amour_africain_(Paladilhe%2C_%C3%89mile)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4859" resp="#awilfing" cert="high">
@@ -43988,6 +43997,65 @@
                <author ref="#hsl_person_id_6989">
                   <persName>Boïeldieu, Adrien Louis Victor</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4860" resp="#awilfing" cert="high">
+               <title type="main">La reine Indigo</title>
+               <author ref="#hsl_person_id_299">
+                  <persName>Strauss junior, Johann</persName>
+               </author>
+               <author ref="#hsl_person_id_2403">
+                  <persName>Wilder, Victor van</persName>
+               </author>
+               <author ref="#hsl_person_id_3226">
+                  <persName>Jaime, Adolphe</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_6991">Montada Ire</name>
+               <name type="character" ref="#hsl_person_id_6992">Fantasca</name>
+               <name type="character" ref="#hsl_person_id_6993">Romadour</name>
+               <name type="character" ref="#hsl_person_id_6994">Janio</name>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_reine_Indigo_(Strauss_Jr.%2C_Johann)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4861" resp="#awilfing" cert="high">
+               <title type="main">Cagliostro in Wien</title>
+               <author ref="#hsl_person_id_299">
+                  <persName>Strauss junior, Johann</persName>
+               </author>
+               <author ref="#hsl_person_id_353">
+                  <persName>Walzel, Camillo</persName>
+               </author>
+               <author ref="#hsl_person_id_2020">
+                  <persName>Genée, Richard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300154917</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Cagliostro_in_Wien_(Strauss_Jr.%2C_Johann)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4862" resp="#awilfing" cert="high">
+               <title type="main">Théâtre de Clara Gazul</title>
+               <author ref="#hsl_person_id_3026">
+                  <persName>Mérimée, Prosper</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k123125c/f4.item</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4863" resp="#awilfing" cert="high">
+               <title type="main">Faynète</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_3026">
+                  <persName>Mérimée, Prosper</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4864" resp="#awilfing" cert="high">
+               <title type="main">L'amour africain</title>
+               <author ref="#hsl_person_id_3026">
+                  <persName>Mérimée, Prosper</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_6997">Zein-Ben-Humeida</name>
+               <name type="character" ref="#hsl_person_id_6998">Sidi Nouman</name>
+               <name type="character" ref="#hsl_person_id_6999">Mojana</name>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k123125c/f176.item</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4865" resp="#awilfing" cert="high">
+               <title type="main">Les hannetons</title>
+               <title type="alternative">Revue aus Stücken von Jacques Offenbach</title>
             </bibl>
       </listBibl>
       </body>
