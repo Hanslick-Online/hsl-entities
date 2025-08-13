@@ -12016,6 +12016,9 @@
                <name type="character" ref="#hsl_person_id_4646">Don José</name>
                <name type="character" ref="#hsl_person_id_6117">Lillas Pastia</name>
                <name type="character" ref="#hsl_person_id_6979">Escamillo</name>
+               <name type="character" ref="#hsl_person_id_7044">Micaëla</name>
+               <name type="character" ref="#hsl_person_id_7045">Moralès</name>
+               <name type="character" ref="#hsl_person_id_7047">Mercédès</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300020724</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Carmen_(Bizet,_Georges)</idno>
             </bibl>
@@ -44139,6 +44142,62 @@
                   <persName>Hutt, Johann</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10118738</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4876" resp="#awilfing" cert="high">
+               <title type="main">Sonate für Violine und Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <author ref="#hsl_person_id_1290">
+                  <persName>David, Ferdinand</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4877" resp="#awilfing" cert="high">
+               <title type="main">Wider die feurigen Dirigenten</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_361">Allgemeine Zeitung (Augsburg)</note>
+               </noteGrp>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4878" resp="#awilfing" cert="high">
+               <title type="main">Adrast, D137</title>
+               <author ref="#hsl_person_id_184">
+                  <persName>Mayrhofer, Johann</persName>
+               </author>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300910460</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Adrast,_D.137_(Schubert,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4879" resp="#awilfing" cert="high">
+               <title type="main">Glockentöne</title>
+               <author ref="#hsl_person_id_121">
+                  <persName>Herbeck, Johann von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4880" resp="#awilfing" cert="high">
+               <title type="main">Lieb' und Traum</title>
+               <author ref="#hsl_person_id_121">
+                  <persName>Herbeck, Johann von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4881" resp="#awilfing" cert="high">
+               <title type="main">Camen</title>
+               <author ref="#hsl_person_id_3026">
+                  <persName>Mérimée, Prosper</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4240523-3</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4882" resp="#awilfing" cert="high">
+               <title type="main">Carmen</title>
+               <author ref="#hsl_person_id_3026">
+                  <persName>Mérimée, Prosper</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_7042">Don José</name>
+               <name type="character" ref="#hsl_person_id_7043">Carmen</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4240523-3</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b86267256/f9.item</idno>
             </bibl>
       </listBibl>
       </body>
