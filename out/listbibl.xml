@@ -44240,8 +44240,12 @@
                <idno type="URL" subtype="Digitalisat">https://digitale-sammlungen.de/de/details/bsb10858627</idno>
                <idno type="URL" subtype="Digitalisat">https://digitale-sammlungen.de/de/details/bsb10713420</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4886" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_4886" resp="#awilfing" cert="high">
+               <title type="main">Boieldieu: sa vie, ses oeuvres, son caractère, sa correspondance</title>
+               <author ref="#hsl_person_id_1761">
+                  <persName>Pougin, Arthur</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11318819</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4887" resp="#awilfing" cert="high">
                <title type="main">Les spectateurs sur le théâtre: Établissement et suppression des bancs sur les scènes de la Comédie-Française et de l'Opéra</title>
@@ -44327,6 +44331,24 @@
                   <persName>Morand, Pierre de</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k5462126t</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4899" resp="#awilfing" cert="high">
+               <title type="main">La fille coupable</title>
+               <author ref="#hsl_person_id_36">
+                  <persName>Boieldieu, François Adrien</persName>
+               </author>
+               <author ref="#hsl_person_id_7077">
+                  <persName>Boieldieu, Jacques François</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4900" resp="#awilfing" cert="high">
+               <title type="main">Rosalie et Myrza</title>
+               <author ref="#hsl_person_id_36">
+                  <persName>Boieldieu, François Adrien</persName>
+               </author>
+               <author ref="#hsl_person_id_7077">
+                  <persName>Boieldieu, Jacques François</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
