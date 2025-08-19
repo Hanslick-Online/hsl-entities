@@ -9621,6 +9621,7 @@
                <name type="character" ref="#hsl_person_id_4432">Radamès</name>
                <name type="character" ref="#hsl_person_id_4649">Amonasro</name>
                <name type="character" ref="#hsl_person_id_6513">Aida</name>
+               <name type="character" ref="#hsl_person_id_7113">Ramfis</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300164971</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/A%C3%AFda_(Verdi,_Giuseppe)</idno>
             </bibl>
@@ -10622,7 +10623,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1083" resp="#awilfing" cert="high">
                <title type="main">Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Ästhetik der Tonkunst</title>
-               <title type="alternative">Vom musikalisch Schönen; Ueber das musikalisch Schöne</title>
+               <title type="alternative">Ueber das musikalisch Schöne; Vom Musicalisch-Schönen; Vom musikalisch Schönen</title>
                <author ref="#hsl_person_id_1">
                   <persName>Hanslick, Eduard</persName>
                </author>
@@ -40231,6 +40232,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4437" resp="#awilfing" cert="high">
                <title type="main">Christoph Willibald Ritter von Gluck. Dessen Leben und tonkünstlerisches Wirken. Ein biographisch-ästhetischer Versuch und ein Beitrag zur Geschichte der dramatischen Musik in der zweiten Hälfte des siebzehnten Jahrhunderts</title>
+               <title type="alternative">Leben Glucks</title>
                <author ref="#hsl_person_id_6373">
                   <persName>Schmid, Anton</persName>
                </author>
@@ -43815,10 +43817,12 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Folkunger_(Kretschmer,_Edmund)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4840" resp="#awilfing" cert="medium">
-               <title type="main">Die Grundsätze der musikalischen Komposition. Buch 1: Die richtige Folge der Grundharmonien, oder vom Fundamental-bass und dessen Umkehrungen und Stellvertreten</title>
+               <title type="main">Die Grundsätze der musikalischen Komposition</title>
+               <title type="alternative">Generalbaß- und Harmonielehre</title>
                <author ref="#hsl_person_id_5136">
                   <persName>Sechter, Simon</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Grunds%C3%A4tze_der_musikalischen_Komposition_(Sechter%2C_Simon)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4841" resp="#awilfing" cert="medium">
                <title type="main">Dies Bildnis ist bezaubernd schön</title>
@@ -43867,6 +43871,7 @@
                <name type="character" ref="#hsl_person_id_6915">Don Bolero</name>
                <name type="character" ref="#hsl_person_id_6916">Mourzouk</name>
                <name type="character" ref="#hsl_person_id_6917">Marasquin</name>
+               <name type="character" ref="#hsl_person_id_7116">Matamoros</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1033534323</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Girofl%C3%A9-Girofla_(Lecocq,_Charles)</idno>
             </bibl>
@@ -44136,6 +44141,10 @@
                <author ref="#hsl_person_id_153">
                   <persName>Laube, Heinrich</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_7093">Franziska von Hohenheim</name>
+               <name type="character" ref="#hsl_person_id_7094">Karl von Würtemberg</name>
+               <name type="character" ref="#hsl_person_id_7097">Laura</name>
+               <name type="character" ref="#hsl_person_id_7098">Rieger</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1201780098</idno>
                <idno type="URL" subtype="Digitalisat">https://books.google.de/books?id=R36f971iLfIC</idno>
             </bibl>
@@ -44184,13 +44193,6 @@
                <author ref="#hsl_person_id_121">
                   <persName>Herbeck, Johann von</persName>
                </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_4881" resp="#awilfing" cert="high">
-               <title type="main">Camen</title>
-               <author ref="#hsl_person_id_3026">
-                  <persName>Mérimée, Prosper</persName>
-               </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4240523-3</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4882" resp="#awilfing" cert="high">
                <title type="main">Carmen</title>
@@ -44356,6 +44358,81 @@
                   <persName>Bornier, Henri de</persName>
                </author>
                <idno type="URI" subtype="GND">https://gallica.bnf.fr/ark:/12148/bpt6k8630884b.texteImage</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4902" resp="#awilfing" cert="high">
+               <title type="main">Volkslied, MWV K 102</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4903">6 Gesänge für Singstimme und Klavier, op. 47</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_21">
+                  <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+               <author ref="#hsl_person_id_7105">
+                  <persName>Feuchtersleben, Ernst von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300101562</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Ges%C3%A4nge%2C_Op.47_(Mendelssohn%2C_Felix)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4903" resp="#awilfing" cert="medium">
+               <title type="main">6 Gesänge für Singstimme und Klavier, op. 47</title>
+               <author ref="#hsl_person_id_21">
+                  <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300404042</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Ges%C3%A4nge%2C_Op.47_(Mendelssohn%2C_Felix)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4904" resp="#awilfing" cert="high">
+               <title type="main">De officiis</title>
+               <author ref="#hsl_person_id_7112">
+                  <persName>Cicero, Marcus Tullius</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4140400-2</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10171745</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4905" resp="#awilfing" cert="high">
+               <title type="main">Amphitruo</title>
+               <title type="alternative">Amphytruo</title>
+               <author ref="#hsl_person_id_6914">
+                  <persName>Plautus, Titus Maccius</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4295288-8</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb10242612</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4906" resp="#awilfing" cert="high">
+               <title type="main">Menaechmi</title>
+               <title type="alternative">Menächmen</title>
+               <author ref="#hsl_person_id_6914">
+                  <persName>Plautus, Titus Maccius</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4212465-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb10242595</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4907" resp="#awilfing" cert="high">
+               <title type="main">The Comedie of Errors</title>
+               <title type="alternative">Die Komödie der Irrungen</title>
+               <author ref="#hsl_person_id_287">
+                  <persName>Shakespeare, William</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099347-4</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.folger.edu/explore/shakespeares-works/the-comedy-of-errors/</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4908" resp="#awilfing" cert="high">
+               <title type="main">Der Doppelgänger</title>
+               <author ref="#hsl_person_id_128">
+                  <persName>Holbein, Franz Ignaz von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://books.google.at/books/about/Der_Doppelg%C3%A4nger.html?id=t9SBhBQWyykC</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4909" resp="#awilfing" cert="high">
+               <title type="main">Ouvertüre für großes Orchester</title>
+               <title type="alternative">Concert-Ouvertüre</title>
+               <author ref="#hsl_person_id_7117">
+                  <persName>Grill, Leo</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4910" resp="#awilfing" cert="high">
+               <title type="main">Der Wanderer</title>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=wan</idno>
             </bibl>
       </listBibl>
       </body>
