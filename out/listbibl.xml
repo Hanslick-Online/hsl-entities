@@ -7557,7 +7557,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_782" resp="#awilfing" cert="high">
                <title type="main">Françoise de Rimini</title>
-               <title type="alternative">Francesca di Rimini</title>
+               <title type="alternative">Francesca da Rimini; Francesca di Rimini</title>
                <author ref="#hsl_person_id_84">
                   <persName>Carré, Michel</persName>
                </author>
@@ -7567,6 +7567,9 @@
                <author ref="#hsl_person_id_305">
                   <persName>Thomas, Ambroise</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_7133">Françoise</name>
+               <name type="character" ref="#hsl_person_id_7134">Dante</name>
+               <name type="character" ref="#hsl_person_id_7135">Virgile</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/102417431X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Fran%C3%A7oise_de_Rimini_(Thomas%2C_Ambroise)</idno>
             </bibl>
@@ -8702,6 +8705,7 @@
                <name type="character" ref="#hsl_person_id_3965">Lothario</name>
                <name type="character" ref="#hsl_person_id_4022">Baron</name>
                <name type="character" ref="#hsl_person_id_5198">Jarno</name>
+               <name type="character" ref="#hsl_person_id_7122">Cipriani</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300162677</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Mignon_(Thomas%2C_Ambroise)</idno>
             </bibl>
@@ -8974,6 +8978,8 @@
                <author ref="#hsl_person_id_1447">
                   <persName>Delibes, Léo</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_7130">Coppélius</name>
+               <name type="character" ref="#hsl_person_id_7131">Coppélia</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300042728</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Copp%C3%A9lia_(Delibes,_L%C3%A9o)</idno>
             </bibl>
@@ -11946,6 +11952,8 @@
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_7137">Pauline</name>
+               <name type="character" ref="#hsl_person_id_7138">Polyeucte</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1304031780</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Polyeucte,_CG_11_(Gounod,_Charles)</idno>
             </bibl>
@@ -35063,6 +35071,7 @@
                <author ref="#hsl_person_id_5891">
                   <persName>Broughton, Thomas</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_7121">Dejanira</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300064705</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Hercules%2C_HWV_60_(Handel%2C_George_Frideric)</idno>
             </bibl>
@@ -43012,9 +43021,10 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Miserere_(Bai%2C_Tommaso)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4749" resp="#awilfing" cert="high">
-               <title type="main">Jeremia (Buch der Bibel)</title>
+               <title type="main">Jeremia</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_820">Bibel</note>
+                  <note type="Werkbezug" target="hsl_work_id_1028">Altes Testament</note>
                </noteGrp>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4073016-5</idno>
                <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/jer1.html</idno>
@@ -43923,6 +43933,7 @@
                <title type="alternative">Hohenlied</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_820">Bibel</note>
+                  <note type="Werkbezug" target="hsl_work_id_1028">Altes Testament</note>
                </noteGrp>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4072593-5</idno>
                <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/hld1.html</idno>
@@ -44442,6 +44453,594 @@
                   <persName>Hanslick, Eduard</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/d__Hanslick_DieTonkunstinihrenBeziehungenzurNatur_1.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4913" resp="#awilfing" cert="high">
+               <title type="main">Präludium und Fuge für Klavier in cis-Moll, BWV873</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/102835438X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Das_wohltemperierte_Klavier_II,_BWV_870-893_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4914" resp="#awilfing" cert="high">
+               <title type="main">Choral</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_1019">
+                  <persName>Abert, Johann Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4915" resp="#awilfing" cert="high">
+               <title type="main">Fuge für Orgel in g-Moll</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4916" resp="#awilfing" cert="high">
+               <title type="main">Harzreise im Winter</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099200-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10924778?page=204,205</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4917" resp="#awilfing" cert="high">
+               <title type="main">O ewiges Feuer, o Ursprung der Liebe, BWV34</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300007159</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/O_ewiges_Feuer,_o_Ursprung_der_Liebe,_BWV_34_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4918" resp="#awilfing" cert="high">
+               <title type="main">Madame l'archiduc</title>
+               <title type="alternative">Frau Herzog</title>
+               <author ref="#hsl_person_id_202">
+                  <persName>Offenbach, Jacques</persName>
+               </author>
+               <author ref="#hsl_person_id_1748">
+                  <persName>Millaud, Albert</persName>
+               </author>
+               <author ref="#hsl_person_id_2061">
+                  <persName>Halévy, Ludovic</persName>
+               </author>
+               <author ref="#hsl_person_id_2062">
+                  <persName>Meilhac, Henri</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_7123">Ernest</name>
+               <name type="character" ref="#hsl_person_id_7124">Marietta</name>
+               <name type="character" ref="#hsl_person_id_7125">Fortunato</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7728637-6</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Madame_l'archiduc_(Offenbach%2C_Jacques)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4919" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Violine und Orchester Nr. 7 in e-Moll, op. 38</title>
+               <author ref="#hsl_person_id_293">
+                  <persName>Spohr, Louis</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300299966</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Concerto_No.7%2C_Op.38_(Spohr%2C_Louis)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4920" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Violine und Orchester Nr. 15 in e-Moll, op. 128</title>
+               <author ref="#hsl_person_id_293">
+                  <persName>Spohr, Louis</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300542585</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Concerto_No.15%2C_Op.128_(Spohr%2C_Louis)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4921" resp="#awilfing" cert="high">
+               <title type="main">Notturno für Violine in A-Dur, op. 12</title>
+               <author ref="#hsl_person_id_140">
+                  <persName>Joachim, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300079559</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Notturno%2C_Op.12_(Joachim%2C_Joseph)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4922" resp="#awilfing" cert="high">
+               <title type="main">Tambourin für Violine und Klavier in C-Dur</title>
+               <author ref="#hsl_person_id_4823">
+                  <persName>Leclair, Jean-Marie</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Tambourin_in_C_major_(Leclair%2C_Jean-Marie)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4923" resp="#awilfing" cert="high">
+               <title type="main">21 Ungarische Tänze für Klavier, WoO1 (Bearbeitung)</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_140">
+                  <persName>Joachim, Joseph</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/21_Hungarian_Dances_(Piano),_WoO_1_(Brahms,_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4924" resp="#awilfing" cert="high">
+               <title type="main">Lust der Sturmnacht, op. 35 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4925">12 Gedichte für Singstimme und Klavier, op. 35</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_3483">
+                  <persName>Kerner, Justinus</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1051745756</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/12_Gedichte,_Op.35_(Schumann,_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4925" resp="#awilfing" cert="high">
+               <title type="main">12 Gedichte für Singstimme und Klavier, op. 35</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_3483">
+                  <persName>Kerner, Justinus</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300144938</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/12_Gedichte,_Op.35_(Schumann,_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4926" resp="#awilfing" cert="high">
+               <title type="main">15 Volkskinderlieder für Singstimme und Klavier, WoO31</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300027362</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/15_Volkskinderlieder%2C_WoO_31_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4927" resp="#awilfing" cert="high">
+               <title type="main">Sandmännchen, WoO31 Nr. 4</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4926">15 Volkskinderlieder für Singstimme und Klavier, WoO31</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300027370</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/15_Volkskinderlieder%2C_WoO_31_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4928" resp="#awilfing" cert="high">
+               <title type="main">Agnes, op. 59 Nr. 5</title>
+               <title type="alternative">Rosenzeit, wie schnell vorbei</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3386">8 Lieder und Gesänge für Singstimme und Klavier, op. 59</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_2230">
+                  <persName>Mörike, Eduard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1197943625</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/8_Lieder_and_Songs%2C_Op.59_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4929" resp="#awilfing" cert="high">
+               <title type="main">Agnes</title>
+               <title type="alternative">Rosenzeit, wie schnell vorbei</title>
+               <author ref="#hsl_person_id_2230">
+                  <persName>Mörike, Eduard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1206888318</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.deutschestextarchiv.de/book/view/moerike_gedichte_1838?p=92</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4930" resp="#awilfing" cert="high">
+               <title type="main">Frühlingstrost, op. 63 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3329">9 Lieder und Gesänge für Singstimme und Klavier, op. 63</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_3249">
+                  <persName>Schenkendorf, Max von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1058573675</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/9_Lieder_and_Songs%2C_Op.63_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4931" resp="#awilfing" cert="high">
+               <title type="main">Heimweh II, op. 63 Nr. 8</title>
+               <title type="alternative">O wüßt' ich doch den Weg zurück</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3329">9 Lieder und Gesänge für Singstimme und Klavier, op. 63</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_1603">
+                  <persName>Groth, Klaus</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300274262</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/9_Lieder_and_Songs%2C_Op.63_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4932" resp="#awilfing" cert="high">
+               <title type="main">Heimweh III, op. 63 Nr. 9</title>
+               <title type="alternative">Ich sah als Knabe Blumen blüh'n</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3329">9 Lieder und Gesänge für Singstimme und Klavier, op. 63</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_1603">
+                  <persName>Groth, Klaus</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1198286482</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/9_Lieder_and_Songs%2C_Op.63_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4933" resp="#awilfing" cert="high">
+               <title type="main">Vom Königssee</title>
+               <author ref="#hsl_person_id_274">
+                  <persName>Schön, Eduard</persName>
+               </author>
+               <author ref="#hsl_person_id_1278">
+                  <persName>Heyse, Paul</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4934" resp="#awilfing" cert="high">
+               <title type="main">Annabell Lee</title>
+               <author ref="#hsl_person_id_274">
+                  <persName>Schön, Eduard</persName>
+               </author>
+               <author ref="#hsl_person_id_6973">
+                  <persName>Poe, Edgar Allan</persName>
+               </author>
+               <author ref="#hsl_person_id_7127">
+                  <persName>Spielhagen, Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4935" resp="#awilfing" cert="high">
+               <title type="main">Grab und Mond, D893</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_2226">
+                  <persName>Seidl, Johann Gabriel</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300276591</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Grab_und_Mond,_D.893_(Schubert,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4936" resp="#awilfing" cert="high">
+               <title type="main">Frühlingsnahen</title>
+               <author ref="#hsl_person_id_908">
+                  <persName>Kreutzer, Conradin</persName>
+               </author>
+               <author ref="#hsl_person_id_7128">
+                  <persName>Stieglitz, Heinrich Wilhelm August</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4937" resp="#awilfing" cert="high">
+               <title type="main">Jung Volker, op. 167 Nr. 3</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4938">3 Chöre für Männerchor, op. 167</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_151">
+                  <persName>Lachner, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_2230">
+                  <persName>Mörike, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Ch%C3%B6re%2C_Op.167_(Lachner%2C_Franz_Paul)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4938" resp="#awilfing" cert="high">
+               <title type="main">3 Chöre für Männerchor, op. 167</title>
+               <author ref="#hsl_person_id_151">
+                  <persName>Lachner, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_2230">
+                  <persName>Mörike, Eduard</persName>
+               </author>
+               <author ref="#hsl_person_id_2419">
+                  <persName>Prutz, Robert Eduard</persName>
+               </author>
+               <author ref="#hsl_person_id_7129">
+                  <persName>Krone, Hermann</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Ch%C3%B6re%2C_Op.167_(Lachner%2C_Franz_Paul)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4939" resp="#awilfing" cert="high">
+               <title type="main">Jagdbrevier</title>
+               <author ref="#hsl_person_id_153">
+                  <persName>Laube, Heinrich</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb10113548</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4940" resp="#awilfing" cert="high">
+               <title type="main">5 Gesänge aus Heinrich Laubes Jagdbrevier für vierstimmigen Männerchor, op. 137</title>
+               <author ref="#hsl_person_id_153">
+                  <persName>Laube, Heinrich</persName>
+               </author>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145225</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Jagdlieder,_Op.137_(Schumann,_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4941" resp="#awilfing" cert="high">
+               <title type="main">Frühe, op. 137 Nr. 4</title>
+               <title type="alternative">Früh steht der Jäger auf</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4940">5 Gesänge aus Heinrich Laubes Jagdbrevier für vierstimmigen Männerchor, op. 137</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_153">
+                  <persName>Laube, Heinrich</persName>
+               </author>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Jagdlieder,_Op.137_(Schumann,_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4942" resp="#awilfing" cert="high">
+               <title type="main">Das Lied der Begeisterung, S91</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_3015">
+                  <persName>Ábrányi, Kornél</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4943" resp="#awilfing" cert="high">
+               <title type="main">Hymne à Sainte Cécile für Violine und Orchester, CG557</title>
+               <author ref="#hsl_person_id_102">
+                  <persName>Gounod, Charles</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1156958962</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Hymne_%C3%A0_Sainte_C%C3%A9cile%2C_CG_557_(Gounod%2C_Charles)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4944" resp="#awilfing" cert="high">
+               <title type="main">Hymne à Sainte Cécile für Violine und Orchester, CG557 (Bearbeitung)</title>
+               <author ref="#hsl_person_id_102">
+                  <persName>Gounod, Charles</persName>
+               </author>
+               <author ref="#hsl_person_id_120">
+                  <persName>Hellmesberger, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4945" resp="#awilfing" cert="high">
+               <title type="main">Märzveilchen, op. 40 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4946">5 Lieder für Singstimme und Klavier, op. 40</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_2232">
+                  <persName>Chamisso, Adelbert von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1287078117</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/5_Lieder,_Op.40_(Schumann,_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4946" resp="#awilfing" cert="high">
+               <title type="main">5 Lieder für Singstimme und Klavier, op. 40</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_2232">
+                  <persName>Chamisso, Adelbert von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145578</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/5_Lieder,_Op.40_(Schumann,_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4947" resp="#awilfing" cert="high">
+               <title type="main">Maid of Athens, Ere We Part</title>
+               <author ref="#hsl_person_id_1635">
+                  <persName>Byron, Baron George Gordon Byron</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/childeharoldspil12byro/page/180/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4948" resp="#awilfing" cert="high">
+               <title type="main">Maid of Athens, CG406</title>
+               <author ref="#hsl_person_id_102">
+                  <persName>Gounod, Charles</persName>
+               </author>
+               <author ref="#hsl_person_id_1635">
+                  <persName>Byron, Baron George Gordon Byron</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300329474</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Maid_of_Athens%2C_CG_406_(Gounod%2C_Charles)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4949" resp="#awilfing" cert="high">
+               <title type="main">Sonate für Klavier in D-Dur, D850</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141882</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Sonata_in_D_major,_D.850_(Schubert,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4950" resp="#awilfing" cert="high">
+               <title type="main">Neue Davidsbündlertänze, op. 17</title>
+               <title type="alternative">12 Charakterstücke für Klavier</title>
+               <author ref="#hsl_person_id_144">
+                  <persName>Kirchner, Theodor</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300423764</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Neue_Davidsb%C3%BCndlert%C3%A4nze,_Op.17_(Kirchner,_Theodor)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4951" resp="#awilfing" cert="high">
+               <title type="main">Duo für Cello und Klavier</title>
+               <author ref="#hsl_person_id_53">
+                  <persName>Derffel, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4952" resp="#awilfing" cert="high">
+               <title type="main">24 Stücke für Klavier in 9 Notizbüchern, op. 93</title>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4953" resp="#awilfing" cert="high">
+               <title type="main">Variationen über die Melodie "Yankee Doodle" für Klavier, op. 93 Nr. 12</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4952">24 Stücke für Klavier in 9 Notizbüchern, op. 93</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4954" resp="#awilfing" cert="high">
+               <title type="main">Menuett für Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4955" resp="#awilfing" cert="high">
+               <title type="main">Serenade für Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4956" resp="#awilfing" cert="high">
+               <title type="main">Sylvia</title>
+               <author ref="#hsl_person_id_90">
+                  <persName>Barbier, Jules</persName>
+               </author>
+               <author ref="#hsl_person_id_1447">
+                  <persName>Delibes, Léo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300042795</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Sylvia_(Delibes,_L%C3%A9o)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4957" resp="#awilfing" cert="high">
+               <title type="main">Aminta</title>
+               <author ref="#hsl_person_id_302">
+                  <persName>Tasso, Torquato</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4221302-2</idno>
+               <idno type="URL" subtype="Digitalisat">https://digitale-sammlungen.de/de/details/bsb10758226</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4958" resp="#awilfing" cert="high">
+               <title type="main">Prolégomènes du Messianisme</title>
+               <author ref="#hsl_person_id_7136">
+                  <persName>Hoene-Wroński, Józef Maria</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4959" resp="#awilfing" cert="high">
+               <title type="main">Physiologie der Heiligen</title>
+               <title type="alternative">unklarer Bezug</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4960" resp="#awilfing" cert="high">
+               <title type="main">Gallia, CG40</title>
+               <author ref="#hsl_person_id_102">
+                  <persName>Gounod, Charles</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1201669049</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gallia,_CG_40_(Gounod,_Charles)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4961" resp="#awilfing" cert="high">
+               <title type="main">Die Klagelieder</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_820">Bibel</note>
+                  <note type="Werkbezug" target="hsl_work_id_1028">Altes Testament</note>
+               </noteGrp>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4073466-3</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/klgl1.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4962" resp="#awilfing" cert="high">
+               <title type="main">Alice de Nevers</title>
+               <author ref="#hsl_person_id_4723">
+                  <persName>Hervé</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Alice_de_Nevers_(Herv%C3%A9)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4963" resp="#awilfing" cert="high">
+               <title type="main">La timbale d'argent</title>
+               <author ref="#hsl_person_id_3226">
+                  <persName>Jaime, Adolphe</persName>
+               </author>
+               <author ref="#hsl_person_id_7141">
+                  <persName>Vasseur, Léon</persName>
+               </author>
+               <author ref="#hsl_person_id_7142">
+                  <persName>Cairon, Claude Antoine Jules</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1162286199</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_timbale_d'argent_(Vasseur%2C_L%C3%A9on)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4964" resp="#awilfing" cert="high">
+               <title type="main">Héloïse et Abélard</title>
+               <title type="alternative">Abélard et Héloïse</title>
+               <author ref="#hsl_person_id_3223">
+                  <persName>Nicolaie, Louis François</persName>
+               </author>
+               <author ref="#hsl_person_id_5951">
+                  <persName>Litolff, Henry</persName>
+               </author>
+               <author ref="#hsl_person_id_7143">
+                  <persName>Busnach, William</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/H%C3%A9lo%C3%AFse_et_Ab%C3%A9lard_(Litolff%2C_Henry_Charles)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4965" resp="#awilfing" cert="high">
+               <title type="main">Don Quichotte</title>
+               <title type="alternative">Don Quixote</title>
+               <author ref="#hsl_person_id_202">
+                  <persName>Offenbach, Jacques</persName>
+               </author>
+               <author ref="#hsl_person_id_3375">
+                  <persName>Sardou, Victorien</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4966" resp="#awilfing" cert="high">
+               <title type="main">La créole</title>
+               <author ref="#hsl_person_id_202">
+                  <persName>Offenbach, Jacques</persName>
+               </author>
+               <author ref="#hsl_person_id_1748">
+                  <persName>Millaud, Albert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300219849</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_cr%C3%A9ole_(Offenbach%2C_Jacques)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4967" resp="#awilfing" cert="high">
+               <title type="main">La boulangère a des écus</title>
+               <author ref="#hsl_person_id_202">
+                  <persName>Offenbach, Jacques</persName>
+               </author>
+               <author ref="#hsl_person_id_2061">
+                  <persName>Halévy, Ludovic</persName>
+               </author>
+               <author ref="#hsl_person_id_2062">
+                  <persName>Meilhac, Henri</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1069600970</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_boulang%C3%A8re_a_des_%C3%A9cus_(Offenbach%2C_Jacques)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4968" resp="#awilfing" cert="high">
+               <title type="main">Der Frau von Ziegesar geb. von Stein, um Geburtstage</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10713359?page=216,217</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4969" resp="#awilfing" cert="high">
+               <title type="main">In das Stammbuch meinem lieben Enkel Walther von Goethe</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10713411?page=86,87</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4970" resp="#awilfing" cert="high">
+               <title type="main">Sonate für zwei Klaviere in f-Moll, op. 34b</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300026951</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Sonata_for_2_Pianos,_Op.34b_(Brahms,_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4971" resp="#awilfing" cert="high">
+               <title type="main">Quartett für 2 Violinen, Viola und Cello in G-Dur, op. 20</title>
+               <author ref="#hsl_person_id_144">
+                  <persName>Kirchner, Theodor</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300516037</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet%2C_Op.20_(Kirchner%2C_Theodor)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4972" resp="#awilfing" cert="high">
+               <title type="main">Berceuse für Klavier, op. 15 Nr. 5</title>
+               <author ref="#hsl_person_id_4144">
+                  <persName>Reber, Napoléon Henri</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Pieces,_Op.15_(Reber,_Napol%C3%A9on_Henri)</idno>
             </bibl>
       </listBibl>
       </body>
