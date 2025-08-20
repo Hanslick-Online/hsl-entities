@@ -34004,6 +34004,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_5834">Posa</name>
                <name type="character" ref="#hsl_person_id_5836">Mondekar</name>
+               <name type="character" ref="#hsl_person_id_7118">Alba</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4130120-1</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11722527</idno>
             </bibl>
@@ -38634,7 +38635,7 @@
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10044863</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10044864</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4244" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4244" resp="#awilfing" cert="high">
                <title type="main">Madonna di San Sisto</title>
                <title type="alternative">Sixtinische Madonna</title>
                <author ref="#hsl_person_id_380">
@@ -43824,26 +43825,20 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Grunds%C3%A4tze_der_musikalischen_Komposition_(Sechter%2C_Simon)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4841" resp="#awilfing" cert="medium">
-               <title type="main">Dies Bildnis ist bezaubernd schön</title>
-               <noteGrp type="Werkbezug">
-                  <note type="Werkbezug" target="hsl_work_id_350">Die Zauberflöte, KV620</note>
-               </noteGrp>
-               <author ref="#hsl_person_id_189">
-                  <persName>Mozart, Wolfgang Amadeus</persName>
-               </author>
-            </bibl>
-            <bibl xml:id="hsl_work_id_4842" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4842" resp="#awilfing" cert="high">
                <title type="main">Fliegende Blätter für Musik. Wahrheit über Tonkunst und Tonkünstler</title>
                <author ref="#hsl_person_id_789">
                   <persName>Lobe, Johann Christian</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb10271121</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4843" resp="#awilfing" cert="medium">
-               <title type="main">The Tragedy of Macbeth</title>
+            <bibl xml:id="hsl_work_id_4843" resp="#awilfing" cert="high">
+               <title type="main">Macbeth</title>
                <author ref="#hsl_person_id_287">
                   <persName>Shakespeare, William</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099361-9</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.folger.edu/explore/shakespeares-works/macbeth/read/</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4844" resp="#awilfing" cert="high">
                <title type="main">Ueber das Wiener Hofoperntheater</title>
@@ -44414,7 +44409,7 @@
                   <persName>Shakespeare, William</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099347-4</idno>
-               <idno type="URL" subtype="Digitalisat">https://www.folger.edu/explore/shakespeares-works/the-comedy-of-errors/</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.folger.edu/explore/shakespeares-works/the-comedy-of-errors/read/</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4908" resp="#awilfing" cert="high">
                <title type="main">Der Doppelgänger</title>
@@ -44433,6 +44428,20 @@
             <bibl xml:id="hsl_work_id_4910" resp="#awilfing" cert="high">
                <title type="main">Der Wanderer</title>
                <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=wan</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4911" resp="#awilfing" cert="high">
+               <title type="main">Ueber den subjektiven Eindruck der Musik und seine Stellung in der Aesthetik</title>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/d__Hanslick_UeberdensubjektivenEindruckderMusik_1.html ; https://hanslick.acdh.oeaw.ac.at/d__Hanslick_UeberdensubjektivenEindruckderMusik_2.html ; https://hanslick.acdh.oeaw.ac.at/d__Hanslick_UeberdensubjektivenEindruckderMusik_3.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_4912" resp="#awilfing" cert="high">
+               <title type="main">Die Tonkunst in ihren Beziehungen zur Natur</title>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/d__Hanslick_DieTonkunstinihrenBeziehungenzurNatur_1.html</idno>
             </bibl>
       </listBibl>
       </body>
