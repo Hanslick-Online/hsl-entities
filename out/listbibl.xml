@@ -4606,6 +4606,7 @@
                <name type="character" ref="#hsl_person_id_5000">Woglinde</name>
                <name type="character" ref="#hsl_person_id_5001">Wellgunde</name>
                <name type="character" ref="#hsl_person_id_5002">Floßhilde</name>
+               <name type="character" ref="#hsl_person_id_7172">Gutrune</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300170319</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Ring_des_Nibelungen,_WWV_86_(Wagner,_Richard)</idno>
             </bibl>
@@ -12926,6 +12927,7 @@
                <name type="character" ref="#hsl_person_id_5939">Erste Norn</name>
                <name type="character" ref="#hsl_person_id_5940">Zweite Norn</name>
                <name type="character" ref="#hsl_person_id_5941">Dritte Norn</name>
+               <name type="character" ref="#hsl_person_id_7172">Gutrune</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300169868</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/G%C3%B6tterd%C3%A4mmerung,_WWV_86D_(Wagner,_Richard)</idno>
             </bibl>
@@ -13295,7 +13297,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1361" resp="#awilfing" cert="high">
                <title type="main">La dame blanche</title>
-               <title type="alternative">Die weiße Frau</title>
+               <title type="alternative">Die weiße Frau; Dame d’Avenel</title>
                <author ref="#hsl_person_id_36">
                   <persName>Boieldieu, François Adrien</persName>
                </author>
@@ -22942,6 +22944,8 @@
                <author ref="#hsl_person_id_115">
                   <persName>Hebbel, Friedrich</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_7176">Siegfried</name>
+               <name type="character" ref="#hsl_person_id_7177">Kriemhild</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4331538-0</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10110610</idno>
             </bibl>
@@ -45173,8 +45177,12 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300024789</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ave_Maria,_Op.12_(Brahms,_Johannes)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4991" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_4991" resp="#awilfing" cert="high">
+               <title type="main">Brunhilde</title>
+               <author ref="#hsl_person_id_714">
+                  <persName>Geibel, Emanuel</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.projekt-gutenberg.org/geibel/brunhild/brunhil1.html</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4992" resp="#awilfing" cert="high">
                <title type="main">Rosen steckt mir an die Mutter, op. 65 Nr. 6</title>
@@ -45319,6 +45327,47 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/124354435X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_f%C3%AAte_du_village_voisin_(Boieldieu%2C_Fran%C3%A7ois_Adrien)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5005" resp="#awilfing" cert="high">
+               <title type="main">Les voitures versées</title>
+               <title type="alternative">Die umgeworfenen Kutschen</title>
+               <author ref="#hsl_person_id_36">
+                  <persName>Boieldieu, François Adrien</persName>
+               </author>
+               <author ref="#hsl_person_id_7168">
+                  <persName>Dupaty, Emmanuel</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1047129434</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Les_voitures_vers%C3%A9es_(Boieldieu%2C_Fran%C3%A7ois_Adrien)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5007" resp="#awilfing" cert="high">
+               <title type="main">Les Deux Nuits</title>
+               <title type="alternative">Die beiden Nächte</title>
+               <author ref="#hsl_person_id_36">
+                  <persName>Boieldieu, François Adrien</persName>
+               </author>
+               <author ref="#hsl_person_id_284">
+                  <persName>Scribe, Eugène</persName>
+               </author>
+               <author ref="#hsl_person_id_2105">
+                  <persName>Bouilly, Jean Nicolas</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1070474177</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Les_deux_nuits_(Boieldieu%2C_Fran%C3%A7ois_Adrien)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5008" resp="#awilfing" cert="high">
+               <title type="main">Der Nibelungen-Hort</title>
+               <author ref="#hsl_person_id_3265">
+                  <persName>Raupach, Ernst Benjamin Salomo</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11261452</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5009" resp="#awilfing" cert="high">
+               <title type="main">Goethes Faust. Neue Beiträge zur Kritik des Gedichts</title>
+               <author ref="#hsl_person_id_379">
+                  <persName>Vischer, Friedrich Theodor</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb11319545</idno>
             </bibl>
       </listBibl>
       </body>
