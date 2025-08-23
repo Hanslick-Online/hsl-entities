@@ -688,7 +688,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q32067990</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4065105-8</idno>
                </place>
-               <place xml:id="hsl_place_id_42" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_42" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Oberösterreich</placeName>
                   </settlement>
@@ -1433,7 +1433,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q64011</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099108-8</idno>
                </place>
-               <place xml:id="hsl_place_id_110" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_110" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Thüringen</placeName>
                   </settlement>
@@ -2925,7 +2925,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q45</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4046843-4</idno>
                </place>
-               <place xml:id="hsl_place_id_233" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_233" resp="#awilfing" cert="high">
                   <settlement type="L">
                      <placeName type="main">Afrika</placeName>
                   </settlement>
@@ -4399,7 +4399,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q117751653</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4065243-9</idno>
                </place>
-               <place xml:id="hsl_place_id_350" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_350" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Thurgau</placeName>
                   </settlement>
@@ -4800,9 +4800,10 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q180139</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4031522-8</idno>
                </place>
-               <place xml:id="hsl_place_id_382" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_382" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Kraslice</placeName>
+                     <placeName type="alternative">Graslitz</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>CZ, Czechia</country>
@@ -6486,7 +6487,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q171393</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4118956-5</idno>
                </place>
-               <place xml:id="hsl_place_id_521" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_521" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Pfalz</placeName>
                   </settlement>
@@ -9329,8 +9330,12 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q189</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4027754-9</idno>
                </place>
-               <place xml:id="hsl_place_id_813" resp="#awilfing" cert="medium">
-                  <placeName type="main"/>
+               <place xml:id="hsl_place_id_813" resp="#awilfing" cert="high">
+                  <placeName type="main">Schonen</placeName>
+                     <placeName type="alternative">Schoonen</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2678287/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q103659</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4053191-0</idno>
                </place>
                <place xml:id="hsl_place_id_814" resp="#awilfing" cert="high">
                   <placeName type="main">Rotes Meer</placeName>
@@ -9338,6 +9343,66 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/350155/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q23406</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4050664-2</idno>
+               </place>
+               <place xml:id="hsl_place_id_815" resp="#awilfing" cert="high">
+                  <placeName type="main">Luby</placeName>
+                     <placeName type="alternative">Schönbach</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3071448/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q946789</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4118503-1</idno>
+               </place>
+               <place xml:id="hsl_place_id_816" resp="#awilfing" cert="high">
+                  <placeName type="main">České Budějovice</placeName>
+                     <placeName type="alternative">Budweis</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3077916/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q16506</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4008698-7</idno>
+               </place>
+               <place xml:id="hsl_place_id_817" resp="#awilfing" cert="high">
+                  <placeName type="main">Gotland</placeName>
+                     <placeName type="alternative">Gothland</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2711511/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1027830</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4021658-5</idno>
+               </place>
+               <place xml:id="hsl_place_id_818" resp="#awilfing" cert="high">
+                  <placeName type="main">Mittenwalde</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2870481/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q574811</idno>
+               </place>
+               <place xml:id="hsl_place_id_819" resp="#awilfing" cert="high">
+                  <placeName type="main">Markneukirchen</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2873340/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q32123045</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4037605-9</idno>
+               </place>
+               <place xml:id="hsl_place_id_820" resp="#awilfing" cert="high">
+                  <placeName type="main">Maximilianstraße</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q315853</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4468374-1</idno>
+               </place>
+               <place xml:id="hsl_place_id_821" resp="#awilfing" cert="high">
+                  <placeName type="main">Sahara</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2212709/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q6583</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4051293-9</idno>
+               </place>
+               <place xml:id="hsl_place_id_822" resp="#awilfing" cert="high">
+                  <placeName type="main">San Marino</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3168068/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q238</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4051524-2</idno>
+               </place>
+               <place xml:id="hsl_place_id_824" resp="#awilfing" cert="high">
+                  <placeName type="main">Klingenthal</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/7602487/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q46866</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4031187-9</idno>
+               </place>
+               <place xml:id="hsl_place_id_825" resp="#awilfing" cert="high">
+                  <placeName type="main">Pfalz, Bayern</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2147860</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/35801-0</idno>
                </place>
             </listPlace>
          </div>
