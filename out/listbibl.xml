@@ -2153,6 +2153,7 @@
                <name type="character" ref="#hsl_person_id_6378">Stephan</name>
                <name type="character" ref="#hsl_person_id_6379">Gertrude</name>
                <name type="character" ref="#hsl_person_id_6380">Niklas</name>
+               <name type="character" ref="#hsl_person_id_7190">Anna</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300098901</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Hans_Heiling%2C_Op.80_(Marschner%2C_Heinrich)</idno>
             </bibl>
@@ -13272,7 +13273,9 @@
                <author ref="#hsl_person_id_3270">
                   <persName>Roquette, Otto</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_3882">Elisabeth</name>
+               <name type="character" ref="#hsl_person_id_3882">Heilige Elisabeth</name>
+               <name type="character" ref="#hsl_person_id_7191">Landgräfin Sophie</name>
+               <name type="character" ref="#hsl_person_id_7192">Landgraf Ludwig</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300426453</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Legende_von_der_Heiligen_Elisabeth,_S.2_(Liszt,_Franz)</idno>
             </bibl>
@@ -45370,6 +45373,22 @@
                   <persName>Vischer, Friedrich Theodor</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb11319545</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5010" resp="#awilfing" cert="high">
+               <title type="main">Großer Festmarsch zur Eröffnung der hundertjährigen Gedenkfeier der Unabhängigkeitserklärung der Vereinigten Staaten von Nordamerika, WWV110</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300169744</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gro%C3%9Fer_Festmarsch%2C_WWV_110_(Wagner%2C_Richard)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5011" resp="#awilfing" cert="high">
+               <title type="main">Les préludes, S97</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30009440X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Les_pr%C3%A9ludes,_S.97_(Liszt,_Franz)</idno>
             </bibl>
       </listBibl>
       </body>
