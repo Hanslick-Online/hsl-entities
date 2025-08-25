@@ -1242,6 +1242,7 @@
                <name type="character" ref="#hsl_person_id_4962">Marguerite de Valois</name>
                <name type="character" ref="#hsl_person_id_4982">Comte de Nevers</name>
                <name type="character" ref="#hsl_person_id_5814">Nachtwächter</name>
+               <name type="character" ref="#hsl_person_id_7195">Comte de Saint-Bris</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300245637</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Les_Huguenots_(Meyerbeer,_Giacomo)</idno>
             </bibl>
@@ -33961,7 +33962,8 @@
                <author ref="#hsl_person_id_3150">
                   <persName>Uhlig, Theodor</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18510221&amp;seite=6&amp;zoom=33 ; https://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18510228&amp;seite=8&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18510221&amp;seite=6&amp;zoom=33</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18510228&amp;seite=8&amp;zoom=33</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3696" resp="#awilfing" cert="high">
                <title type="main">Die Kunst und die Revolution</title>
@@ -37357,7 +37359,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_4099" resp="#awilfing" cert="high">
-               <title type="main">Concerto symphonique Nr. 3 in Es-Dur, op.45</title>
+               <title type="main">Concerto symphonique Nr. 3 in Es-Dur, op. 45</title>
                <title type="alternative">Symphonie nationale hollandaise</title>
                <author ref="#hsl_person_id_5951">
                   <persName>Litolff, Henry</persName>
@@ -37377,6 +37379,7 @@
                <author ref="#hsl_person_id_5951">
                   <persName>Litolff, Henry</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30052563X</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4102" resp="#awilfing" cert="high">
                <title type="main">Scherzo für Klavier Nr. 2 in b-Moll, op. 31</title>
@@ -40615,7 +40618,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4477" resp="#awilfing" cert="high">
                <title type="main">Willst du dein Herz mir schenken, BWV518</title>
-               <title type="alternative">unsichere Zuschreibung</title>
+               <title type="alternative">unsichere Zuschreibung; Aria di Giovannini</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -44252,6 +44255,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4885" resp="#awilfing" cert="high">
                <title type="main">Aus meinem Leben: Dichtung und Wahrheit</title>
+               <title type="alternative">Wahrheit und Dichtung</title>
                <author ref="#hsl_person_id_100">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
@@ -44457,7 +44461,9 @@
                <author ref="#hsl_person_id_1">
                   <persName>Hanslick, Eduard</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/d__Hanslick_UeberdensubjektivenEindruckderMusik_1.html ; https://hanslick.acdh.oeaw.ac.at/d__Hanslick_UeberdensubjektivenEindruckderMusik_2.html ; https://hanslick.acdh.oeaw.ac.at/d__Hanslick_UeberdensubjektivenEindruckderMusik_3.html</idno>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/d__Hanslick_UeberdensubjektivenEindruckderMusik_1.html</idno>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/d__Hanslick_UeberdensubjektivenEindruckderMusik_2.html</idno>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/d__Hanslick_UeberdensubjektivenEindruckderMusik_3.html</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4912" resp="#awilfing" cert="high">
                <title type="main">Die Tonkunst in ihren Beziehungen zur Natur</title>
@@ -45389,6 +45395,112 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30009440X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Les_pr%C3%A9ludes,_S.97_(Liszt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5012" resp="#awilfing" cert="high">
+               <title type="main">L' Académie impériale de musique: histoire littéraire, musicale, chorégraphique, pittoresque, morale, critique, facétieuse, politique et galante de ce théatre</title>
+               <author ref="#hsl_person_id_811">
+                  <persName>Castil-Blaze, François Henri Joseph</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10598282</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10598283</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5013" resp="#awilfing" cert="high">
+               <title type="main">Tarantella für 2 Klaviere in a-Moll, op. 6</title>
+               <author ref="#hsl_person_id_1085">
+                  <persName>Brüll, Ignaz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1299858759</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Tarantella%2C_Op.6_(Br%C3%BCll%2C_Ignaz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5014" resp="#awilfing" cert="high">
+               <title type="main">Improvisationen für Klavier, op. 11</title>
+               <author ref="#hsl_person_id_1017">
+                  <persName>Fuchs, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1063112540</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Improvisations%2C_Op.11_(Fuchs%2C_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5015" resp="#awilfing" cert="high">
+               <title type="main">11 Capriccietti für Klavier, op. 12</title>
+               <author ref="#hsl_person_id_1017">
+                  <persName>Fuchs, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1063111846</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/11_Capriccietti%2C_Op.12_(Fuchs%2C_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5016" resp="#awilfing" cert="high">
+               <title type="main">Variations sur un thème de Beethoven, op. 35</title>
+               <author ref="#hsl_person_id_1658">
+                  <persName>Saint-Saëns, Camille</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300134088</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Variations_on_a_Theme_of_Beethoven%2C_Op.35_(Saint-Sa%C3%ABns%2C_Camille)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5017" resp="#awilfing" cert="high">
+               <title type="main">Der Beherrscher der Geister, J122</title>
+               <author ref="#hsl_person_id_321">
+                  <persName>Weber, Carl Maria von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300272987</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Beherrscher_der_Geister,_Op.27_(Weber,_Carl_Maria_von)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5018" resp="#awilfing" cert="high">
+               <title type="main">Trio</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5019" resp="#awilfing" cert="high">
+               <title type="main">Chant de mai</title>
+               <title type="alternative">Mailied</title>
+               <author ref="#hsl_person_id_182">
+                  <persName>Meyerbeer, Giacomo</persName>
+               </author>
+               <author ref="#hsl_person_id_809">
+                  <persName>Blaze, Henri</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1052607497</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Chant_de_mai_(Meyerbeer%2C_Giacomo)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5021" resp="#awilfing" cert="high">
+               <title type="main">Sonate für Violine und Klavier Nr. 2 in A-Dur, BWV1015</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300715870</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Sonata_in_A_major,_BWV_1015_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5022" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Klavier und Orchester Nr. 2 in g-Moll, op. 22</title>
+               <author ref="#hsl_person_id_1658">
+                  <persName>Saint-Saëns, Camille</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300133758</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Concerto_No.2%2C_Op.22_(Saint-Sa%C3%ABns%2C_Camille)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5023" resp="#awilfing" cert="high">
+               <title type="main">Trio für Violine, Cello und Klavier in F-Dur, op. 18</title>
+               <author ref="#hsl_person_id_1658">
+                  <persName>Saint-Saëns, Camille</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300334885</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Trio_No.1%2C_Op.18_(Saint-Sa%C3%ABns%2C_Camille)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5024" resp="#awilfing" cert="high">
+               <title type="main">Concerto symphonique Nr. 4 in g-Moll, op. 102</title>
+               <author ref="#hsl_person_id_5951">
+                  <persName>Litolff, Henry</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300525648</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Concerto_symphonique_No.4%2C_Op.102_(Litolff%2C_Henry_Charles)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5025" resp="#awilfing" cert="high">
+               <title type="main">7 Album mit populären Tänzen verschiedener Länder für Klavier, op. 82</title>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/7_National_Dances,_Op.82_(Rubinstein,_Anton)</idno>
             </bibl>
       </listBibl>
       </body>
