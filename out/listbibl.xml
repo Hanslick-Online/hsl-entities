@@ -2413,6 +2413,8 @@
                </author>
                <name type="character" ref="#hsl_person_id_516">Ernani</name>
                <name type="character" ref="#hsl_person_id_523">Elvira</name>
+               <name type="character" ref="#hsl_person_id_7265">Don Carlo</name>
+               <name type="character" ref="#hsl_person_id_7266">Don Ruy Gomez de Silva</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300165447</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ernani_(Verdi,_Giuseppe)</idno>
             </bibl>
@@ -7375,7 +7377,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_759" resp="#awilfing" cert="high">
                <title type="main">Konzertstück für Klavier und Orchester in c-Moll, op. 42</title>
-               <title type="alternative">Clavierconcert; Klavierkonzert</title>
+               <title type="alternative">Clavierconcert; Klavierkonzert; Concertstück</title>
                <author ref="#hsl_person_id_317">
                   <persName>Volkmann, Robert</persName>
                </author>
@@ -45562,6 +45564,119 @@
                <author ref="#hsl_person_id_151">
                   <persName>Lachner, Franz</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5064" resp="#awilfing" cert="high">
+               <title type="main">Ich zog mir einen Falken</title>
+               <title type="alternative">Lied vom Falken</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5065">2 Männerchöre</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_150">
+                  <persName>Kremser, Eduard</persName>
+               </author>
+               <author ref="#hsl_person_id_7250">
+                  <persName>Haug, Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5065" resp="#awilfing" cert="high">
+               <title type="main">2 Männerchöre</title>
+               <author ref="#hsl_person_id_150">
+                  <persName>Kremser, Eduard</persName>
+               </author>
+               <author ref="#hsl_person_id_7250">
+                  <persName>Haug, Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5066" resp="#awilfing" cert="high">
+               <title type="main">Schifferständchen</title>
+               <author ref="#hsl_person_id_64">
+                  <persName>Doppler, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5067" resp="#awilfing" cert="high">
+               <title type="main">Das Traumbild, KV530</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+               <author ref="#hsl_person_id_2382">
+                  <persName>Hölty, Ludwig Christoph Heinrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300285205</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Das_Traumbild,_K.530_(Mozart,_Wolfgang_Amadeus)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5068" resp="#awilfing" cert="high">
+               <title type="main">Im Walde</title>
+               <title type="alternative">unklarer Bezug</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5069" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Klavier und Orchester Nr. 3 in Es-Dur, op. 29</title>
+               <author ref="#hsl_person_id_1658">
+                  <persName>Saint-Saëns, Camille</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300178697</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Concerto_No.3,_Op.29_(Saint-Sa%C3%ABns,_Camille)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5070" resp="#awilfing" cert="high">
+               <title type="main">3 Rhapsodies sur des cantiques bretons, op. 7</title>
+               <title type="alternative">Rhapsodie über bretonische Volkslieder</title>
+               <author ref="#hsl_person_id_1658">
+                  <persName>Saint-Saëns, Camille</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30030823X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Rhapsodies%2C_Op.7_(Saint-Sa%C3%ABns%2C_Camille)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5071" resp="#awilfing" cert="high">
+               <title type="main">Quintett für 2 Violinen, Viola, Cello und Klavier in a-Moll, op. 14</title>
+               <author ref="#hsl_person_id_1658">
+                  <persName>Saint-Saëns, Camille</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300326505</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Quintet_Op.14_(Saint-Sa%C3%ABns,_Camille)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5072" resp="#awilfing" cert="high">
+               <title type="main">Sieben Legenden</title>
+               <author ref="#hsl_person_id_2514">
+                  <persName>Keller, Gottfried</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4286746-0</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.deutschestextarchiv.de/book/show/keller_legenden_1872</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5073" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Klavier und Orchester Nr. 1 in D-Dur, op. 17</title>
+               <author ref="#hsl_person_id_1658">
+                  <persName>Saint-Saëns, Camille</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300202504</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Concerto_No.1%2C_Op.17_(Saint-Sa%C3%ABns%2C_Camille)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5074" resp="#awilfing" cert="high">
+               <title type="main">Abendlied zu Gott, Hob. XXVc:9</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <author ref="#hsl_person_id_732">
+                  <persName>Gellert, Christian Fürchtegott</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300069030</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Abendlied_zu_Gott,_Hob.XXVc:9_(Haydn,_Joseph)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5075" resp="#awilfing" cert="high">
+               <title type="main">Beethoven</title>
+               <author ref="#hsl_person_id_5847">
+                  <persName>Weilen, Joseph von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11011803?page=258,259</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5076" resp="#awilfing" cert="high">
+               <title type="main">Lass, Fürstin, lass noch einen Strahl, BWV198</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <author ref="#hsl_person_id_3842">
+                  <persName>Gottsched, Johann Christoph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300009062</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lass,_F%C3%BCrstin,_lass_noch_einen_Strahl,_BWV_198_(Bach,_Johann_Sebastian)</idno>
             </bibl>
       </listBibl>
       </body>
