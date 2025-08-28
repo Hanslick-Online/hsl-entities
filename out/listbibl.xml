@@ -1538,7 +1538,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_126" resp="#awilfing" cert="high">
                <title type="main">La part du diable</title>
-               <title type="alternative">Des Teufels Antheil</title>
+               <title type="alternative">Des Teufels Antheil; Antheil des Teufels</title>
                <author ref="#hsl_person_id_16">
                   <persName>Auber, Daniel-François-Esprit</persName>
                </author>
@@ -1547,6 +1547,8 @@
                </author>
                <name type="character" ref="#hsl_person_id_4084">Carlo Broschi</name>
                <name type="character" ref="#hsl_person_id_4085">Casilda</name>
+               <name type="character" ref="#hsl_person_id_7270">Roi</name>
+               <name type="character" ref="#hsl_person_id_7271">Rafaël d'Estuniga</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1034788477</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_part_du_diable_(Auber,_Daniel_Fran%C3%A7ois_Esprit)</idno>
             </bibl>
@@ -45677,6 +45679,144 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300009062</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lass,_F%C3%BCrstin,_lass_noch_einen_Strahl,_BWV_198_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5077" resp="#awilfing" cert="high">
+               <title type="main">Musikalisches und Persönliches</title>
+               <author ref="#hsl_person_id_124">
+                  <persName>Hiller, Ferdinand von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11335529</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5078" resp="#awilfing" cert="high">
+               <title type="main">L'Abbaye-aux-Bois</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5077">Musikalisches und Persönliches</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_124">
+                  <persName>Hiller, Ferdinand von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11335529?page=236,237</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5079" resp="#awilfing" cert="high">
+               <title type="main">Nach Skandinavien</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5077">Musikalisches und Persönliches</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_124">
+                  <persName>Hiller, Ferdinand von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11335529?page=172,173</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5080" resp="#awilfing" cert="high">
+               <title type="main">Beim Prinzen Louis Napoleon</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5077">Musikalisches und Persönliches</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_124">
+                  <persName>Hiller, Ferdinand von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11335529?page=248,249</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5081" resp="#awilfing" cert="high">
+               <title type="main">Luigi Cherubini</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5077">Musikalisches und Persönliches</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_124">
+                  <persName>Hiller, Ferdinand von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11335529?page=14,15</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5082" resp="#awilfing" cert="high">
+               <title type="main">Dramen als Opern</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5077">Musikalisches und Persönliches</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_124">
+                  <persName>Hiller, Ferdinand von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11335529?page=58,59</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5083" resp="#awilfing" cert="high">
+               <title type="main">Ueber das Auswendig-Dirigiren</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5077">Musikalisches und Persönliches</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_124">
+                  <persName>Hiller, Ferdinand von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11335529?page=146,147</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5084" resp="#awilfing" cert="high">
+               <title type="main">Moritz Hartmann</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5077">Musikalisches und Persönliches</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_124">
+                  <persName>Hiller, Ferdinand von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11335529?page=166,167</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5085" resp="#awilfing" cert="high">
+               <title type="main">Concertmeister Ferdinand David</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5077">Musikalisches und Persönliches</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_124">
+                  <persName>Hiller, Ferdinand von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11335529?page=156,157</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5086" resp="#awilfing" cert="high">
+               <title type="main">Sir William Sterndale Bennett</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5077">Musikalisches und Persönliches</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_124">
+                  <persName>Hiller, Ferdinand von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11335529?page=170,171</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5087" resp="#awilfing" cert="high">
+               <title type="main">W. A. Mozart's Werke. Erste kritisch durchgesehene Gesammt-Ausgabe</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5077">Musikalisches und Persönliches</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_124">
+                  <persName>Hiller, Ferdinand von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11335529?page=298,299</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5088" resp="#awilfing" cert="high">
+               <title type="main">W. A. Mozart's Werke. Kritisch durchgesehene Gesammtausgabe</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Wolfgang_Amadeus_Mozarts_Werke_(Mozart,_Wolfgang_Amadeus)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5089" resp="#awilfing" cert="high">
+               <title type="main">Drei Operndichtungen nebst einer Mittheilung an seine Freunde als Vorwort</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1077574819</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10122637</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5090" resp="#awilfing" cert="high">
+               <title type="main">Die Fabrikation musikalischer Instrumente und einzelner Bestandtheile derselben im Königl. Sächsischen Vogtlande</title>
+               <author ref="#hsl_person_id_86">
+                  <persName>Fürstenau, Moritz</persName>
+               </author>
+               <author ref="#hsl_person_id_7268">
+                  <persName>Berthold, Carl Friedrich Theodor</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://books.google.at/books/about/Die_Fabrikation_musikalischer_Instrument.html?id=JusPAAAAYAAJ</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5091" resp="#awilfing" cert="high">
+               <title type="main">Die Tänzerin auf Reisen</title>
+               <author ref="#hsl_person_id_7272">
+                  <persName>Hoguet, Michel François</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
