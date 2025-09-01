@@ -5918,6 +5918,7 @@
                <name type="character" ref="#hsl_person_id_5584">Chapelou</name>
                <name type="character" ref="#hsl_person_id_5813">Bijou</name>
                <name type="character" ref="#hsl_person_id_6260">Madeleine</name>
+               <name type="character" ref="#hsl_person_id_7321">Marquis de Corcy</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300000448</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_postillon_de_Lonjumeau_(Adam%2C_Adolphe)</idno>
             </bibl>
@@ -7204,6 +7205,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_6715">Franz Moor</name>
                <name type="character" ref="#hsl_person_id_6716">Karl Moor</name>
+               <name type="character" ref="#hsl_person_id_7320">Maximilian Moor</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099339-5</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10713758</idno>
             </bibl>
@@ -44557,14 +44559,6 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300299966</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Concerto_No.7%2C_Op.38_(Spohr%2C_Louis)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4920" resp="#awilfing" cert="high">
-               <title type="main">Konzert für Violine und Orchester Nr. 15 in e-Moll, op. 128</title>
-               <author ref="#hsl_person_id_293">
-                  <persName>Spohr, Louis</persName>
-               </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300542585</idno>
-               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Concerto_No.15%2C_Op.128_(Spohr%2C_Louis)</idno>
-            </bibl>
             <bibl xml:id="hsl_work_id_4921" resp="#awilfing" cert="high">
                <title type="main">Notturno für Violine in A-Dur, op. 12</title>
                <author ref="#hsl_person_id_140">
@@ -44581,7 +44575,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Tambourin_in_C_major_(Leclair%2C_Jean-Marie)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4923" resp="#awilfing" cert="high">
-               <title type="main">21 Ungarische Tänze für Klavier, WoO1 (Bearbeitung)</title>
+               <title type="main">21 Ungarische Tänze für Violine, WoO1 (Bearbeitung)</title>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
@@ -45118,7 +45112,10 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Flute_and_Harp_Concerto_in_C_major%2C_K.299%2F297c_(Mozart%2C_Wolfgang_Amadeus)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4979" resp="#awilfing" cert="high">
-               <title type="main">Partita für Violone in d-Moll, BWV1004</title>
+               <title type="main">Partita für Violine in d-Moll,  BWV1004</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300011148</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Partita_No.2_in_D_minor%2C_BWV_1004_(Bach%2C_Johann_Sebastian)</idno>
             </bibl>
@@ -46007,6 +46004,58 @@
                <author ref="#hsl_person_id_717">
                   <persName>Ambros, August Wilhelm</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5116" resp="#awilfing" cert="high">
+               <title type="main">Die Lyranten oder das lustige Elend</title>
+               <author ref="#hsl_person_id_1981">
+                  <persName>Schikaneder, Emanuel</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4725907-3</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.e-rara.ch/zuz/content/titleinfo/7978182</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5117" resp="#awilfing" cert="high">
+               <title type="main">Heimann Levi auf der Alm</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5118" resp="#awilfing" cert="high">
+               <title type="main">Le toréador</title>
+               <title type="alternative">Der Torreador</title>
+               <author ref="#hsl_person_id_12">
+                  <persName>Adam, Adolphe</persName>
+               </author>
+               <author ref="#hsl_person_id_2749">
+                  <persName>Sauvage, Thomas</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300895844</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_tor%C3%A9ador_(Adam%2C_Adolphe)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5119" resp="#awilfing" cert="high">
+               <title type="main">La fille du Danube</title>
+               <author ref="#hsl_person_id_12">
+                  <persName>Adam, Adolphe</persName>
+               </author>
+               <author ref="#hsl_person_id_7322">
+                  <persName>Taglioni, Filippo</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_fille_du_Danube_(Adam%2C_Adolphe)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5120" resp="#awilfing" cert="high">
+               <title type="main">Quartett für 2 Violinen, Viola und Cello in e-Moll, H36</title>
+               <author ref="#hsl_person_id_312">
+                  <persName>Verdi, Giuseppe</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300166184</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_(Verdi%2C_Giuseppe)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5121" resp="#awilfing" cert="high">
+               <title type="main">Chaconne für Violine und Orchester in d-Moll, BWV1004 Nr. 5 (Bearbeitung)</title>
+               <title type="alternative">Toccata</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <author ref="#hsl_person_id_1674">
+                  <persName>Raff, Joseph Joachim</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Partita_No.2_in_D_minor%2C_BWV_1004_(Bach%2C_Johann_Sebastian)</idno>
             </bibl>
       </listBibl>
       </body>
