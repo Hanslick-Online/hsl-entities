@@ -6386,7 +6386,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_643" resp="#awilfing" cert="high">
                <title type="main">Joseph</title>
-               <title type="alternative">Joseph und seine Brüder</title>
+               <title type="alternative">Joseph in Egypten; Joseph und seine Brüder</title>
                <author ref="#hsl_person_id_179">
                   <persName>Méhul, Étienne Nicolas</persName>
                </author>
@@ -9996,6 +9996,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1023" resp="#awilfing" cert="high">
                <title type="main">Symphonie Nr. 4 in A-Dur, MWV N 16</title>
+               <title type="alternative">Italienische Symphonie</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
@@ -10909,7 +10910,7 @@
                <name type="character" ref="#hsl_person_id_1860">Assad</name>
                <name type="character" ref="#hsl_person_id_1863">Königin von Saba</name>
                <name type="character" ref="#hsl_person_id_1864">Sulamith</name>
-               <name type="character" ref="#hsl_person_id_1865">König Salomon</name>
+               <name type="character" ref="#hsl_person_id_1865">Salomon</name>
                <name type="character" ref="#hsl_person_id_6968">Hohepriester</name>
                <name type="character" ref="#hsl_person_id_6971">Baal-Hanan</name>
                <name type="character" ref="#hsl_person_id_6972">Astaroth</name>
@@ -19517,7 +19518,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2053" resp="#awilfing" cert="high">
                <title type="main">Davide penitente, KV469</title>
-               <title type="alternative">Davidde penitente; Der büßende David</title>
+               <title type="alternative">Il Davidde penitente; Der büßende David</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
@@ -44858,6 +44859,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4948" resp="#awilfing" cert="high">
                <title type="main">Maid of Athens, CG406</title>
+               <title type="alternative">Maid von Athen</title>
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
                </author>
@@ -46056,6 +46058,42 @@
                   <persName>Raff, Joseph Joachim</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Partita_No.2_in_D_minor%2C_BWV_1004_(Bach%2C_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5122" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Cello und Orchester in d-Moll Nr. 1, op. 32</title>
+               <author ref="#hsl_person_id_7329">
+                  <persName>De Swert, Jules</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://imslp.org/wiki/Cello_Concerto_No.1%2C_Op.32_(Swert%2C_Jules_de)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5123" resp="#awilfing" cert="high">
+               <title type="main">Das Volkslied</title>
+               <author ref="#hsl_person_id_64">
+                  <persName>Doppler, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_188">
+                  <persName>Mosenthal, Salomon Hermann von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5124" resp="#awilfing" cert="high">
+               <title type="main">Prinz Eugen, der edle Ritter</title>
+               <idno type="URL" subtype="Digitalisat">https://www.volksliederarchiv.de/prinz-eugen-der-edle-ritter/</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5125" resp="#awilfing" cert="high">
+               <title type="main">Gaudeamus igitur</title>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4563545-6</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.volksliederarchiv.de/gaudeamus-igitur/</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5126" resp="#awilfing" cert="high">
+               <title type="main">Variationen für Streichinstrumente und 2 Hörner</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_2679">Ein musikalischer Spaß, KV522</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300109768</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ein_musikalischer_Spa%C3%9F%2C_K.522_(Mozart%2C_Wolfgang_Amadeus)</idno>
             </bibl>
       </listBibl>
       </body>
