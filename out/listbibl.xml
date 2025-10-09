@@ -38694,7 +38694,7 @@
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10573281</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10573282</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4246" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4246" resp="#awilfing" cert="high">
                <title type="main">Aesthetische Forschungen</title>
                <author ref="#hsl_person_id_6126">
                   <persName>Zeising, Adolf</persName>
@@ -39020,7 +39020,7 @@
                <idno type="URL" subtype="Digitalisat">https://www.deutschestextarchiv.de/book/show/schiller_erziehung02_1795</idno>
                <idno type="URL" subtype="Digitalisat">https://www.deutschestextarchiv.de/book/show/schiller_erziehung03_1795</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4273" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_4273" resp="#awilfing" cert="high">
                <title type="main">Neue Lehre von den Proportionen des menschlichen Körpers. Aus einem bisher unerkannt gebliebenen, die ganze Natur und Kunst durchdringenden morphologischen Grundgesetze entwickelt und mit einer vollständigen historischen Uebersicht der bisherigen Systeme begleitet</title>
                <author ref="#hsl_person_id_6126">
                   <persName>Zeising, Adolf</persName>
@@ -46165,7 +46165,17 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://books.google.at/books?id=XsuJzRj_nVIC</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_5166" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_5166" resp="#awilfing" cert="high">
+               <title type="main">Zur Aesthetik der Tonkunst</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4798">Oesterreichische Blätter für Literatur und Kunst. Beilage zur Oesterreichisch-Kaiserlichen Wiener Zeitung</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_705">
+                  <persName>Zimmermann, Robert von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/v__1854OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5167" resp="#awilfing" cert="medium">
                <title type="main"/>
             </bibl>
       </listBibl>
