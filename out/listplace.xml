@@ -4101,7 +4101,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q118464900</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4067037-5</idno>
                </place>
-               <place xml:id="hsl_place_id_326" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_326" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Calais</placeName>
                   </settlement>
@@ -4648,7 +4648,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q3621</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4098629-9</idno>
                </place>
-               <place xml:id="hsl_place_id_370" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_370" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Orléans</placeName>
                      <placeName type="alternative">Orleans</placeName>
@@ -5983,7 +5983,7 @@
                <place xml:id="hsl_place_id_478" resp="#awilfing" cert="high">
                   <placeName type="main">Ananasberg, Düsseldorf</placeName>
                </place>
-               <place xml:id="hsl_place_id_479" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_479" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Dijon</placeName>
                   </settlement>
@@ -9437,8 +9437,36 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3874</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4020989-1</idno>
                </place>
-               <place xml:id="hsl_place_id_863" resp="#awilfing" cert="medium">
-                  <placeName type="main"/>
+               <place xml:id="hsl_place_id_863" resp="#awilfing" cert="high">
+                  <placeName type="main">Äthiopien</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/337996/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q115</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4000639-6</idno>
+               </place>
+               <place xml:id="hsl_place_id_896" resp="#awilfing" cert="high">
+                  <placeName type="main">Währinger Friedhof</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12059944/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q38103979</idno>
+               </place>
+               <place xml:id="hsl_place_id_897" resp="#awilfing" cert="high">
+                  <placeName type="main">Kapuzinerberg</placeName>
+                     <placeName type="alternative">Capuzinerberg</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2774753/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q873917</idno>
+                  <idno type="URI" subtype="GND">http://d-nb.info/gnd/4527393-5</idno>
+               </place>
+               <place xml:id="hsl_place_id_898" resp="#awilfing" cert="high">
+                  <placeName type="main">Loreto</placeName>
+                     <placeName type="alternative">Loretto</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3174567/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q124110</idno>
+                  <idno type="URI" subtype="GND">http://d-nb.info/gnd/4111391-3</idno>
+               </place>
+               <place xml:id="hsl_place_id_899" resp="#awilfing" cert="high">
+                  <placeName type="main">Getreidegasse, Salzburg</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6956622/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q688477</idno>
+                  <idno type="URI" subtype="GND">http://d-nb.info/gnd/4338565-5</idno>
                </place>
             </listPlace>
          </div>
