@@ -10547,6 +10547,8 @@
                <author ref="#hsl_person_id_309">
                   <persName>Treumann, Karl</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_7429">Prinz Methusalem</name>
+               <name type="character" ref="#hsl_person_id_7430">Trombonius</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1022579959</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Prinz_Methusalem_(Strauss_Jr.,_Johann)</idno>
             </bibl>
@@ -46234,8 +46236,15 @@
                   <persName>Laskovskij, Ivan Fedorovič</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_5205" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_5205" resp="#awilfing" cert="high">
+               <title type="main">Der Geist des Wojwoden</title>
+               <author ref="#hsl_person_id_7420">
+                  <persName>Grossman, Ludwik</persName>
+               </author>
+               <author ref="#hsl_person_id_7421">
+                  <persName>Langer, Anton</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Geist_des_Woiwoden_(Grossman%2C_Ludwik)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5206" resp="#awilfing" cert="high">
                <title type="main">Eclogue für Klavier in C-Dur</title>
