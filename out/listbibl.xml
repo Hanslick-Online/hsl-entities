@@ -478,7 +478,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_35" resp="#awilfing" cert="high">
                <title type="main">Un ballo in maschera, H59</title>
-               <title type="alternative">Ein Maskenball</title>
+               <title type="alternative">Ein Maskenball; Il ballo in maschera</title>
                <author ref="#hsl_person_id_312">
                   <persName>Verdi, Giuseppe</persName>
                </author>
@@ -2169,6 +2169,12 @@
                <author ref="#hsl_person_id_284">
                   <persName>Scribe, Eugène</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_7435">Ankastrom</name>
+               <name type="character" ref="#hsl_person_id_7436">Gustave III</name>
+               <name type="character" ref="#hsl_person_id_7437">Oscar</name>
+               <name type="character" ref="#hsl_person_id_7438">Amélie</name>
+               <name type="character" ref="#hsl_person_id_7439">Dehorn</name>
+               <name type="character" ref="#hsl_person_id_7440">Ribbing</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30046360X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gustave_III_(Auber,_Daniel_Fran%C3%A7ois_Esprit)</idno>
             </bibl>
@@ -21464,6 +21470,7 @@
                <author ref="#hsl_person_id_685">
                   <persName>Oehlenschläger, Adam Gottlob</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_7432">Rafael</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1198958022</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10115715</idno>
             </bibl>
@@ -46275,6 +46282,107 @@
                   <persName>Brüll, Ignaz</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/7_Phantasiest%C3%BCcke%2C_Op.8_(Br%C3%BCll%2C_Ignaz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5210" resp="#awilfing" cert="high">
+               <title type="main">Künstlerfahrt</title>
+               <author ref="#hsl_person_id_121">
+                  <persName>Herbeck, Johann von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5211" resp="#awilfing" cert="high">
+               <title type="main">Madonna</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_3718">
+                  <persName>Correggio, Antonio Allegri da</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5212" resp="#awilfing" cert="high">
+               <title type="main">Um Mitternacht, op. 4 Nr. 2</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5213">3 Frauenchöre, op. 4</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1327">
+                  <persName>Heuberger, Richard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5213" resp="#awilfing" cert="high">
+               <title type="main">3 Frauenchöre, op. 4</title>
+               <author ref="#hsl_person_id_1327">
+                  <persName>Heuberger, Richard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5214" resp="#awilfing" cert="high">
+               <title type="main">Herbstlied, op. 4 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5213">3 Frauenchöre, op. 4</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1327">
+                  <persName>Heuberger, Richard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5215" resp="#awilfing" cert="high">
+               <title type="main">Sommermorgen, op. 1</title>
+               <author ref="#hsl_person_id_1327">
+                  <persName>Heuberger, Richard</persName>
+               </author>
+               <author ref="#hsl_person_id_7434">
+                  <persName>Fischer, Johann Georg</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5216" resp="#awilfing" cert="high">
+               <title type="main">Lied fahrender Schüler, op. 2</title>
+               <author ref="#hsl_person_id_1327">
+                  <persName>Heuberger, Richard</persName>
+               </author>
+               <author ref="#hsl_person_id_3835">
+                  <persName>Wolff, Julius</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5217" resp="#awilfing" cert="high">
+               <title type="main">An die Heimat, op. 64 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5218">3 Quartette für Sopran, Alt, Tenor, Bass und Klavier, op. 64</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_7441">
+                  <persName>Sternau, C. O.</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/300775032</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Quartets,_Op.64_(Brahms,_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5218" resp="#awilfing" cert="high">
+               <title type="main">3 Quartette für Sopran, Alt, Tenor, Bass und Klavier, op. 64</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_2692">
+                  <persName>Daumer, Georg Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_7441">
+                  <persName>Sternau, C. O.</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/300026455</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Quartets,_Op.64_(Brahms,_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5219" resp="#awilfing" cert="high">
+               <title type="main">Maienthau</title>
+               <author ref="#hsl_person_id_310">
+                  <persName>Uhland, Ludwig</persName>
+               </author>
+               <author ref="#hsl_person_id_1757">
+                  <persName>Rheinberger, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5220" resp="#awilfing" cert="high">
+               <title type="main">Des Sängers Harfe</title>
+               <author ref="#hsl_person_id_1033">
+                  <persName>Grädener, Hermann</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
