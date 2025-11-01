@@ -46441,8 +46441,13 @@
                <idno type="URI" subtype="GND">http://d-nb.info/gnd/300111320</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Sonata_No.11_in_A_major%2C_K.331%2F300i_(Mozart%2C_Wolfgang_Amadeus)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_5227" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_5227" resp="#awilfing" cert="high">
+               <title type="main">Serenade für Streichorchester Nr. 3 in d-Moll, op. 69</title>
+               <author ref="#hsl_person_id_317">
+                  <persName>Volkmann, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/300425937</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Serenade_No.3%2C_Op.69_(Volkmann%2C_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5228" resp="#awilfing" cert="high">
                <title type="main">Lied und Reigen</title>
@@ -46481,6 +46486,24 @@
                </author>
                <idno type="URI" subtype="GND">http://d-nb.info/gnd/1050327373</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_Carnaval_de_Venise,_Op.18_(Ernst,_Heinrich_Wilhelm)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5233" resp="#awilfing" cert="high">
+               <title type="main">Valse de l'opéra Faust für Klavier, S407</title>
+               <author ref="#hsl_person_id_102">
+                  <persName>Gounod, Charles</persName>
+               </author>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/300213395</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Valse_de_l%27op%C3%A9ra_Faust,_S.407_(Liszt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5234" resp="#awilfing" cert="high">
+               <title type="main">Persai</title>
+               <author ref="#hsl_person_id_902">
+                  <persName>Aeschylus</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/4261086-2</idno>
             </bibl>
       </listBibl>
       </body>
