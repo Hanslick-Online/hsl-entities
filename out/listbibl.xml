@@ -628,6 +628,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_5839">Arsace</name>
                <name type="character" ref="#hsl_person_id_6652">Semiramide</name>
+               <name type="character" ref="#hsl_person_id_7477">Nino</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300214197</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Semiramide_(Rossini%2C_Gioacchino)</idno>
             </bibl>
@@ -46504,6 +46505,110 @@
                   <persName>Aeschylus</persName>
                </author>
                <idno type="URI" subtype="GND">http://d-nb.info/gnd/4261086-2</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5235" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5236" resp="#awilfing" cert="high">
+               <title type="main">Frühlingsbild</title>
+               <author ref="#hsl_person_id_274">
+                  <persName>Schön, Eduard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5237" resp="#awilfing" cert="high">
+               <title type="main">Sonntags am Rhein, op. 36 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5238">6 Gedichte aus Robert Reinicks Lieder eines Malers für Singstimme und Klavier, op. 36</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_2174">
+                  <persName>Reinick, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/300144997</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Gedichte,_Op.36_(Schumann,_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5238" resp="#awilfing" cert="high">
+               <title type="main">6 Gedichte aus Robert Reinicks Lieder eines Malers für Singstimme und Klavier, op. 36</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_2174">
+                  <persName>Reinick, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/300144970</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Gedichte,_Op.36_(Schumann,_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5239" resp="#awilfing" cert="high">
+               <title type="main">Es muß was Wunderbares sein, S314</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_1369">
+                  <persName>Redwitz, Oskar von</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/300093330</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Es_muss_ein_Wunderbares_sein,_S.314_(Liszt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5240" resp="#awilfing" cert="high">
+               <title type="main">Maienzeit</title>
+               <author ref="#hsl_person_id_121">
+                  <persName>Herbeck, Johann von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5241" resp="#awilfing" cert="high">
+               <title type="main">3 Lieder aus Scheffel's Trompeter von Säkkingen</title>
+               <author ref="#hsl_person_id_121">
+                  <persName>Herbeck, Johann von</persName>
+               </author>
+               <author ref="#hsl_person_id_1018">
+                  <persName>Scheffel, Joseph Victor von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5242" resp="#awilfing" cert="high">
+               <title type="main">Werner's Lied</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5241">3 Lieder aus Scheffel's Trompeter von Säkkingen</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_121">
+                  <persName>Herbeck, Johann von</persName>
+               </author>
+               <author ref="#hsl_person_id_1018">
+                  <persName>Scheffel, Joseph Victor von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5243" resp="#awilfing" cert="high">
+               <title type="main">Marie vom Oberlande, op. 8 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5244">4 Männerchöre, op. 8</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_238">
+                  <persName>Rodenberg, Julius</persName>
+               </author>
+               <author ref="#hsl_person_id_3517">
+                  <persName>Gericke, Wilhelm</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/4_M%C3%A4nnerch%C3%B6re%2C_Op.8_(Gericke%2C_Wilhelm)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5244" resp="#awilfing" cert="high">
+               <title type="main">4 Männerchöre, op. 8</title>
+               <author ref="#hsl_person_id_238">
+                  <persName>Rodenberg, Julius</persName>
+               </author>
+               <author ref="#hsl_person_id_3517">
+                  <persName>Gericke, Wilhelm</persName>
+               </author>
+               <author ref="#hsl_person_id_3702">
+                  <persName>Bodenstedt, Friedrich</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/4_M%C3%A4nnerch%C3%B6re%2C_Op.8_(Gericke%2C_Wilhelm)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5245" resp="#awilfing" cert="high">
+               <title type="main">Russisches Volkslied</title>
+               <author ref="#hsl_person_id_150">
+                  <persName>Kremser, Eduard</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
