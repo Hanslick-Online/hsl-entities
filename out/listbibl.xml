@@ -46506,8 +46506,14 @@
                </author>
                <idno type="URI" subtype="GND">http://d-nb.info/gnd/4261086-2</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_5235" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_5235" resp="#awilfing" cert="high">
+               <title type="main">Lettres d'un voyageur</title>
+               <title type="alternative">Briefe einer Reisenden</title>
+               <author ref="#hsl_person_id_2960">
+                  <persName>Sand, George</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/7712608-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k6138582b.texteImage</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5236" resp="#awilfing" cert="high">
                <title type="main">Frühlingsbild</title>
@@ -46609,6 +46615,58 @@
                <author ref="#hsl_person_id_150">
                   <persName>Kremser, Eduard</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5246" resp="#awilfing" cert="high">
+               <title type="main">Histoire de ma vie</title>
+               <author ref="#hsl_person_id_2960">
+                  <persName>Sand, George</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/4380877-3</idno>
+               <idno type="URL" subtype="Digitalisat">https://fr.wikisource.org/wiki/Histoire_de_ma_vie_(Sand,_%C3%A9dition_Gerhard)/Texte_entier</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5247" resp="#awilfing" cert="high">
+               <title type="main">Lucrezia Floriani</title>
+               <author ref="#hsl_person_id_2960">
+                  <persName>Sand, George</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_7492">Lucrezia</name>
+               <name type="character" ref="#hsl_person_id_7493">Karol</name>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10100297</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5248" resp="#awilfing" cert="high">
+               <title type="main">Kirchenmusik, MWV B 19-21</title>
+               <title type="alternative">Aus tiefer Noth schrei' ich zu dir</title>
+               <author ref="#hsl_person_id_21">
+                  <persName>Mendelssohn Bartholdy, Felix</persName>
+               </author>
+               <author ref="#hsl_person_id_169">
+                  <persName>Luther, Martin</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/300101716</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Kirchenmusik%2C_Op.23_(Mendelssohn%2C_Felix)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5249" resp="#awilfing" cert="high">
+               <title type="main">Der König in Thule, op. 151 Nr. 6</title>
+               <title type="alternative">König von Thule</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <author ref="#hsl_person_id_4855">
+                  <persName>Taubert, Wilhelm</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/120741557X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Ges%C3%A4nge%2C_Op.151_(Taubert%2C_Wilhelm)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5250" resp="#awilfing" cert="high">
+               <title type="main">6 Lieder für tiefe Stimme und Klavier, op. 151</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5250">6 Lieder für tiefe Stimme und Klavier, op. 151</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_4855">
+                  <persName>Taubert, Wilhelm</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/120741557X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Ges%C3%A4nge%2C_Op.151_(Taubert%2C_Wilhelm)</idno>
             </bibl>
       </listBibl>
       </body>
