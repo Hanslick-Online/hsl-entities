@@ -6541,7 +6541,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_658" resp="#awilfing" cert="high">
                <title type="main">Chronologisch-thematisches Verzeichniss sämmtlicher Tonwerke Wolfgang Amade Mozart's</title>
-               <title type="alternative">Köchel; Köchel-Verzeichnis; Köchel-Katalog; Mozart-Katalog; Chronologisch-thematischer Katalog von Mozart's sämmtlichen Werken</title>
+               <title type="alternative">Köchel; Köchel-Verzeichnis; Köchel-Katalog; Mozart-Katalog; Catalogue raisonné; Chronologisch-thematischer Katalog von Mozart's sämmtlichen Werken</title>
                <author ref="#hsl_person_id_145">
                   <persName>Köchel, Ludwig von</persName>
                </author>
@@ -46874,6 +46874,56 @@
                   <persName>Freisauff von Neudeck, Rudolf von</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://books.google.at/books/about/Das_erste_Salzburger_Musikfest.html?id=37sbFKWNVgYC</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5276" resp="#awilfing" cert="high">
+               <title type="main">Allgemeine Deutsche Musik-Zeitung. Wochenschrift für das gesammte musikalische Leben der Gegenwart</title>
+               <title type="alternative">Allgemeine deutsche Musikzeitung. Wochenschrift für die Reform des Musiklebens der Gegenwart</title>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/search?filter=volumes%3A%22bsb11179871%2FBV002599826%22</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5277" resp="#awilfing" cert="high">
+               <title type="main">Integer vitae scelerisque purus</title>
+               <author ref="#hsl_person_id_5733">
+                  <persName>Horatius Flaccus, Quintus</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.gottwein.de/Lat/hor/horc122.php</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5278" resp="#awilfing" cert="high">
+               <title type="main">Du schönes Fischermädchen</title>
+               <author ref="#hsl_person_id_116">
+                  <persName>Heine, Heinrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1245872729</idno>
+               <idno type="URL" subtype="Digitalisat">https://de.wikisource.org/wiki/Du_sch%C3%B6nes_Fischerm%C3%A4dchen</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5279" resp="#awilfing" cert="high">
+               <title type="main">Steter Kampf</title>
+               <title type="alternative">Kampf ist das Leben,
+immerwährender Streit</title>
+               <author ref="#hsl_person_id_1460">
+                  <persName>Ludwig I., König von Bayern</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.lieder.net/lieder/get_text.html?TextId=32141</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5280" resp="#awilfing" cert="high">
+               <title type="main">Der König in Thule</title>
+               <title type="alternative">König von Thule</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_197">Faust. Der Tragödie erster Theil</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7681783-0</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.deutschestextarchiv.de/book/view/goethe_faust01_1808?p=183</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5281" resp="#awilfing" cert="high">
+               <title type="main">Der arme Spielmann</title>
+               <author ref="#hsl_person_id_721">
+                  <persName>Grillparzer, Franz</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_7547">Jakob</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4123310-4</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11939945?page=46,47</idno>
             </bibl>
       </listBibl>
       </body>
