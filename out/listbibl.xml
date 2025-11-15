@@ -20786,6 +20786,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2194" resp="#awilfing" cert="high">
                <title type="main">Geheimnis, op. 71 Nr. 3</title>
+               <title type="alternative">Geheimniß</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_2185">5 Lieder für Singstimme und Klavier, op. 71</note>
                </noteGrp>
@@ -22075,6 +22076,18 @@
                <author ref="#hsl_person_id_3807">
                   <persName>Hamerling, Robert</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_7598">Dämon der Trägheit</name>
+               <name type="character" ref="#hsl_person_id_7599">Dämon der Hoffarth</name>
+               <name type="character" ref="#hsl_person_id_7600">Dämon der Habsucht</name>
+               <name type="character" ref="#hsl_person_id_7601">Dämon des Neides</name>
+               <name type="character" ref="#hsl_person_id_7602">Dämon der Völlerei</name>
+               <name type="character" ref="#hsl_person_id_7603">Dämon der Bösen Lust</name>
+               <name type="character" ref="#hsl_person_id_7604">Dämon des Zornes</name>
+               <name type="character" ref="#hsl_person_id_7605">Fürst der Finsterniß</name>
+               <name type="character" ref="#hsl_person_id_7606">Jüngling</name>
+               <name type="character" ref="#hsl_person_id_7607">Jungfrau</name>
+               <name type="character" ref="#hsl_person_id_7608">Held</name>
+               <name type="character" ref="#hsl_person_id_7609">Sänger</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1209552361</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_sieben_Tods%C3%BCnden_(Goldschmidt%2C_Adalbert_von)</idno>
             </bibl>
@@ -23220,7 +23233,11 @@
                   <persName>Piave, Francesco Maria</persName>
                </author>
                <name type="character" ref="#hsl_person_id_6404">Annetta</name>
+               <name type="character" ref="#hsl_person_id_7595">Crispino Tacchetto</name>
+               <name type="character" ref="#hsl_person_id_7596">Fabrizio</name>
+               <name type="character" ref="#hsl_person_id_7597">Mirabolano</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1100926917</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Crispino_e_la_comare_(Ricci,_Federico)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2465" resp="#awilfing" cert="high">
                <title type="main">Le voyage en chine</title>
@@ -47344,6 +47361,58 @@ immerwährender Streit</title>
                   <persName>Ehlert, Louis</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://books.google.at/books?id=UjNsurfPkX8C&amp;hl=de&amp;pg=PA189</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5326" resp="#awilfing" cert="high">
+               <title type="main">Le astuzie femminili</title>
+               <author ref="#hsl_person_id_928">
+                  <persName>Cimarosa, Domenico</persName>
+               </author>
+               <author ref="#hsl_person_id_2216">
+                  <persName>Palomba, Giuseppe</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4733262-1</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_astuzie_femminili_(Cimarosa,_Domenico)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5327" resp="#awilfing" cert="high">
+               <title type="main">Quintett für 2 Violinen, Viola, Cello und Klavier Nr. 2 in B-Dur, op. 5</title>
+               <author ref="#hsl_person_id_1702">
+                  <persName>Sgambati, Giovanni</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1217203796</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Quintet_No.2%2C_Op.5_(Sgambati%2C_Giovanni)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5328" resp="#awilfing" cert="high">
+               <title type="main">Ahasver in Rom</title>
+               <author ref="#hsl_person_id_3807">
+                  <persName>Hamerling, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1225845319</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11319561</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5329" resp="#awilfing" cert="high">
+               <title type="main">Quintett für 2 Violinen, Viola, Cell und Klavier in g-Moll, op. 99</title>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300516665</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Quintet%2C_Op.99_(Rubinstein%2C_Anton)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5331" resp="#awilfing" cert="high">
+               <title type="main">Giudizio universale</title>
+               <title type="alternative">Das Jüngste Gericht</title>
+               <author ref="#hsl_person_id_815">
+                  <persName>Michelangelo, Buonarroti</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4128871-3</idno>
+               <idno type="URL" subtype="Digitalisat">https://de.wikipedia.org/wiki/J%C3%BCngstes_Gericht#/media/Datei:Last_Judgement_(Michelangelo).jpg</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5332" resp="#awilfing" cert="high">
+               <title type="main">Die sieben Todsünden</title>
+               <author ref="#hsl_person_id_3807">
+                  <persName>Hamerling, Robert</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1282424238</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11163236</idno>
             </bibl>
       </listBibl>
       </body>
