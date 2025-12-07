@@ -12944,6 +12944,7 @@
                <name type="character" ref="#hsl_person_id_1686">Alberich</name>
                <name type="character" ref="#hsl_person_id_1687">Mime</name>
                <name type="character" ref="#hsl_person_id_3167">Fafner</name>
+               <name type="character" ref="#hsl_person_id_7756">Waldvogel</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300170327</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Siegfried,_WWV_86C_(Wagner,_Richard)</idno>
             </bibl>
@@ -47611,6 +47612,22 @@ immerwährender Streit</title>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30017036X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Siegfried-Idyll,_WWV_103_(Wagner,_Richard)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5482" resp="#awilfing" cert="high">
+               <title type="main">Der Diamant des Geisterkönigs</title>
+               <author ref="#hsl_person_id_3684">
+                  <persName>Raimund, Ferdinand</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_7757">Zephises</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4575109-2</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.projekt-gutenberg.org/raimund/geistkng/geistkng.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5483" resp="#awilfing" cert="high">
+               <title type="main">Les grotesques de la musique</title>
+               <author ref="#hsl_person_id_28">
+                  <persName>Berlioz, Hector</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k1030683</idno>
             </bibl>
       </listBibl>
       </body>
