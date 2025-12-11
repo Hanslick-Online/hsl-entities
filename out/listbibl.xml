@@ -492,6 +492,7 @@
                <name type="character" ref="#hsl_person_id_2328">Oscar</name>
                <name type="character" ref="#hsl_person_id_3466">Samuel</name>
                <name type="character" ref="#hsl_person_id_3467">Tom</name>
+               <name type="character" ref="#hsl_person_id_7803">Gustavo</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300165145</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Un_ballo_in_maschera_(Verdi%2C_Giuseppe)</idno>
             </bibl>
@@ -732,6 +733,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_59" resp="#awilfing" cert="high">
                <title type="main">Rigoletto, H53</title>
+               <title type="alternative">La Maledizione; Der Fluch</title>
                <author ref="#hsl_person_id_312">
                   <persName>Verdi, Giuseppe</persName>
                </author>
@@ -4697,7 +4699,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_433" resp="#awilfing" cert="high">
                <title type="main">Sinfonia concertante für Violine, Bratsche und Orchester in Es-Dur, KV364</title>
-               <title type="alternative">Doppelkonzert</title>
+               <title type="alternative">Doppelkonzert; Concert für Violine und Viola</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
@@ -29939,7 +29941,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3212" resp="#awilfing" cert="high">
                <title type="main">Les vêpres siciliennes</title>
-               <title type="alternative">Die Sicilianische Vesper</title>
+               <title type="alternative">Die Sicilianische Vesper; Giovanna di Guzman</title>
                <author ref="#hsl_person_id_284">
                   <persName>Scribe, Eugène</persName>
                </author>
@@ -46923,6 +46925,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_5275" resp="#awilfing" cert="high">
                <title type="main">Das erste Salzburger Musikfest</title>
+               <title type="alternative">Das Salzburger Musikfest</title>
                <author ref="#hsl_person_id_7526">
                   <persName>Freisauff von Neudeck, Rudolf von</persName>
                </author>
@@ -46942,6 +46945,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_5278" resp="#awilfing" cert="high">
                <title type="main">Du schönes Fischermädchen</title>
+               <title type="alternative">Du schönes Schiffermädchen</title>
                <author ref="#hsl_person_id_116">
                   <persName>Heine, Heinrich</persName>
                </author>
@@ -47789,6 +47793,90 @@ immerwährender Streit</title>
                   <persName>Castil-Blaze, François Henri Joseph</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Freisch%C3%BCtz%2C_Op.77_(Weber%2C_Carl_Maria_von)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5501" resp="#awilfing" cert="high">
+               <title type="main">Alzira</title>
+               <author ref="#hsl_person_id_312">
+                  <persName>Verdi, Giuseppe</persName>
+               </author>
+               <author ref="#hsl_person_id_2125">
+                  <persName>Cammarano, Salvatore</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300165064</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Alzira_(Verdi,_Giuseppe)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5502" resp="#awilfing" cert="high">
+               <title type="main">Il corsaro</title>
+               <author ref="#hsl_person_id_312">
+                  <persName>Verdi, Giuseppe</persName>
+               </author>
+               <author ref="#hsl_person_id_2072">
+                  <persName>Piave, Francesco Maria</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300165277</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Il_corsaro_(Verdi%2C_Giuseppe)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5503" resp="#awilfing" cert="high">
+               <title type="main">The Corsair</title>
+               <author ref="#hsl_person_id_1635">
+                  <persName>Byron, Baron George Gordon Byron</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7737669-9</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/corsair01byro/page/n5/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5504" resp="#awilfing" cert="high">
+               <title type="main">La Battaglia di Legnano</title>
+               <author ref="#hsl_person_id_312">
+                  <persName>Verdi, Giuseppe</persName>
+               </author>
+               <author ref="#hsl_person_id_2125">
+                  <persName>Cammarano, Salvatore</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7599028-3</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_battaglia_di_Legnano_(Verdi%2C_Giuseppe)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5505" resp="#awilfing" cert="high">
+               <title type="main">Stiffelio</title>
+               <author ref="#hsl_person_id_312">
+                  <persName>Verdi, Giuseppe</persName>
+               </author>
+               <author ref="#hsl_person_id_2072">
+                  <persName>Piave, Francesco Maria</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300211333</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Stiffelio_(Verdi,_Giuseppe)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5506" resp="#awilfing" cert="high">
+               <title type="main">Aroldo</title>
+               <title type="alternative">Aroleto</title>
+               <author ref="#hsl_person_id_312">
+                  <persName>Verdi, Giuseppe</persName>
+               </author>
+               <author ref="#hsl_person_id_2072">
+                  <persName>Piave, Francesco Maria</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300165072</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Aroldo_(Verdi%2C_Giuseppe)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5507" resp="#awilfing" cert="high">
+               <title type="main">El trovador</title>
+               <title type="alternative">El trobador</title>
+               <author ref="#hsl_person_id_7798">
+                  <persName>García Gutiérrez, Antonio</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4676727-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/eltrovadordramac00garc/page/n1/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5509" resp="#awilfing" cert="high">
+               <title type="main">Simon Boccanegra</title>
+               <author ref="#hsl_person_id_312">
+                  <persName>Verdi, Giuseppe</persName>
+               </author>
+               <author ref="#hsl_person_id_2072">
+                  <persName>Piave, Francesco Maria</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300166354</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Simon_Boccanegra_(Verdi%2C_Giuseppe)</idno>
             </bibl>
       </listBibl>
       </body>
