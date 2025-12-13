@@ -9672,6 +9672,7 @@
                <name type="character" ref="#hsl_person_id_4649">Amonasro</name>
                <name type="character" ref="#hsl_person_id_6513">Aida</name>
                <name type="character" ref="#hsl_person_id_7113">Ramfis</name>
+               <name type="character" ref="#hsl_person_id_7814">Il Faraone, Re d'Egitto</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300164971</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/A%C3%AFda_(Verdi,_Giuseppe)</idno>
             </bibl>
@@ -48025,6 +48026,39 @@ immerwährender Streit</title>
                   <persName>Bock, Woldemar von</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://books.google.at/books/about/Goethe_in_seinem_Verh%C3%A4ltnisse_zur_Musik.html?id=dY1TAAAAcAAJ</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5528" resp="#awilfing" cert="high">
+               <title type="main">Les noces de Prométhée, op. 19</title>
+               <title type="alternative">Hochzeit des Prometheus; Prometheus-Cantate</title>
+               <author ref="#hsl_person_id_1658">
+                  <persName>Saint-Saëns, Camille</persName>
+               </author>
+               <author ref="#hsl_person_id_7822">
+                  <persName>Cornut, Romain</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1033867403</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Les_noces_de_Prom%C3%A9th%C3%A9e%2C_Op.19_(Saint-Sa%C3%ABns%2C_Camille)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5529" resp="#awilfing" cert="high">
+               <title type="main">Sapho</title>
+               <title type="alternative">Sappho</title>
+               <author ref="#hsl_person_id_2959">
+                  <persName>Lamartine, Alphonse de</persName>
+               </author>
+               <author ref="#hsl_person_id_7823">
+                  <persName>Lacombe, Louis</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Sapho_(Lacombe%2C_Louis)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5530" resp="#awilfing" cert="high">
+               <title type="main">La déesse et le berger</title>
+               <author ref="#hsl_person_id_2241">
+                  <persName>Du Locle, Camille</persName>
+               </author>
+               <author ref="#hsl_person_id_7824">
+                  <persName>Duprato, Jules</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_d%C3%A9esse_et_le_berger_(Duprato%2C_Jules)</idno>
             </bibl>
       </listBibl>
       </body>
