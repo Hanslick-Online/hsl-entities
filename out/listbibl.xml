@@ -23737,6 +23737,12 @@
                   <persName>Thomas, Ambroise</persName>
                </author>
                <name type="character" ref="#hsl_person_id_4105">Éros</name>
+               <name type="character" ref="#hsl_person_id_7880">Psyché</name>
+               <name type="character" ref="#hsl_person_id_7882">Mercure</name>
+               <name type="character" ref="#hsl_person_id_7890">Antinoüs</name>
+               <name type="character" ref="#hsl_person_id_7891">Gorgias</name>
+               <name type="character" ref="#hsl_person_id_7892">Dafné</name>
+               <name type="character" ref="#hsl_person_id_7893">Bérénice</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1128656809</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Psych%C3%A9_(Thomas%2C_Ambroise)</idno>
             </bibl>
@@ -42751,6 +42757,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4708" resp="#awilfing" cert="high">
                <title type="main">Le roman d'Elvire</title>
+               <title type="alternative">Der Roman Elvira's</title>
                <author ref="#hsl_person_id_305">
                   <persName>Thomas, Ambroise</persName>
                </author>
@@ -47211,12 +47218,6 @@ immerwährender Streit</title>
                <name type="character" ref="#hsl_person_id_7578">Suzanne</name>
                <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k318845s.image</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_5307" resp="#awilfing" cert="high">
-               <title type="main">Symphonie Nr. 2 in C-Dur</title>
-               <author ref="#hsl_person_id_121">
-                  <persName>Herbeck, Johann von</persName>
-               </author>
-            </bibl>
             <bibl xml:id="hsl_work_id_5308" resp="#awilfing" cert="high">
                <title type="main">Le docteur Miracle, WD2</title>
                <title type="alternative">Mirabolan</title>
@@ -48175,6 +48176,59 @@ immerwährender Streit</title>
                <author ref="#hsl_person_id_1261">
                   <persName>Horn, Eduard</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5574" resp="#awilfing" cert="high">
+               <title type="main">Les amours de Psyché et de Cupidon</title>
+               <author ref="#hsl_person_id_7878">
+                  <persName>La Fontaine, Jean de</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4404607-8</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b8623311v/f5.item.r=la%20fontaine%20les%20amours%20de%20psych%C3%A9</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5575" resp="#awilfing" cert="high">
+               <title type="main">Psyché, LWV45</title>
+               <author ref="#hsl_person_id_51">
+                  <persName>Corneille, Pierre</persName>
+               </author>
+               <author ref="#hsl_person_id_168">
+                  <persName>Lully, Jean-Baptiste</persName>
+               </author>
+               <author ref="#hsl_person_id_222">
+                  <persName>Quinault, Philippe</persName>
+               </author>
+               <author ref="#hsl_person_id_864">
+                  <persName>Molière</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300898258</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Psych%C3%A9%2C_LWV_45_(Lully%2C_Jean-Baptiste)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5576" resp="#awilfing" cert="high">
+               <title type="main">Psyché, LWV56</title>
+               <author ref="#hsl_person_id_168">
+                  <persName>Lully, Jean-Baptiste</persName>
+               </author>
+               <author ref="#hsl_person_id_7879">
+                  <persName>Corneille, Thomas</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/136702465X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Psych%C3%A9%2C_LWV_56_(Lully%2C_Jean-Baptiste)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5577" resp="#awilfing" cert="high">
+               <title type="main">Loggia di Amore e Psiche (Villa Farnesina)</title>
+               <author ref="#hsl_person_id_380">
+                  <persName>Raffael</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.villafarnesina.it/percorso-di-visita/la-loggia-di-amore-e-psiche/</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5578" resp="#awilfing" cert="high">
+               <title type="main">Metamorphoses</title>
+               <author ref="#hsl_person_id_7883">
+                  <persName>Apuleius, Madaurensis</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4139053-2</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10243687</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10243688</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10243689</idno>
             </bibl>
       </listBibl>
       </body>
