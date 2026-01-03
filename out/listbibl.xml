@@ -4698,7 +4698,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_433" resp="#awilfing" cert="high">
-               <title type="main">Sinfonia concertante für Violine, Bratsche und Orchester in Es-Dur, KV364</title>
+               <title type="main">Sinfonia concertante für Violine, Viola und Orchester in Es-Dur, KV364</title>
                <title type="alternative">Doppelkonzert; Concert für Violine und Viola</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
@@ -7078,7 +7078,7 @@
             <bibl xml:id="hsl_work_id_727" resp="#awilfing" cert="high">
                <title type="main">Geistliches Wiegenlied, op. 91 Nr. 2</title>
                <noteGrp type="Werkbezug">
-                  <note type="Werkbezug" target="hsl_work_id_3391">2 Gesänge für eine Altstimme mit Bratsche und Klavier, op. 91</note>
+                  <note type="Werkbezug" target="hsl_work_id_3391">2 Gesänge für eine Altstimme mit Viola und Klavier, op. 91</note>
                </noteGrp>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
@@ -17006,6 +17006,10 @@
                <author ref="#hsl_person_id_1999">
                   <persName>Gallet, Louis</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_7902">Sita</name>
+               <name type="character" ref="#hsl_person_id_7903">Alim</name>
+               <name type="character" ref="#hsl_person_id_7904">Scindia</name>
+               <name type="character" ref="#hsl_person_id_7905">Indra</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4650992-6</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_roi_de_Lahore_(Massenet,_Jules)</idno>
             </bibl>
@@ -31614,7 +31618,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Psalms,_Op.78_(Mendelssohn,_Felix)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3391" resp="#awilfing" cert="high">
-               <title type="main">2 Gesänge für eine Altstimme mit Bratsche und Klavier, op. 91</title>
+               <title type="main">2 Gesänge für eine Altstimme mit Viola und Klavier, op. 91</title>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
@@ -48229,6 +48233,46 @@ immerwährender Streit</title>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10243687</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10243688</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10243689</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5579" resp="#awilfing" cert="high">
+               <title type="main">Fiesque</title>
+               <title type="alternative">Fiesko</title>
+               <author ref="#hsl_person_id_1755">
+                  <persName>Lalo, Edouard</persName>
+               </author>
+               <author ref="#hsl_person_id_7895">
+                  <persName>Beauquier, Charles</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/102291748X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Fiesque_(Lalo%2C_%C3%89douard)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5580" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Viola und Orchester, op. 19</title>
+               <author ref="#hsl_person_id_7896">
+                  <persName>Garcin, Jules</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Viola_Concertino%2C_Op.19_(Garcin%2C_Jules_Auguste_Salomon)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5581" resp="#awilfing" cert="high">
+               <title type="main">Quintett</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_204">
+                  <persName>Onslow, Georges</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5582" resp="#awilfing" cert="high">
+               <title type="main">Ouvertüre</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_1755">
+                  <persName>Lalo, Edouard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5583" resp="#awilfing" cert="high">
+               <title type="main">Symphonie</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_4541">
+                  <persName>Gouvy, Théodore</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
