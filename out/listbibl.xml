@@ -3051,7 +3051,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_255" resp="#awilfing" cert="high">
                <title type="main">Béatrice et Bénédict, H138</title>
-               <title type="alternative">Beatrice und Benedict</title>
+               <title type="alternative">Beatrice und Benedict; Benedict und Beatrice</title>
                <author ref="#hsl_person_id_28">
                   <persName>Berlioz, Hector</persName>
                </author>
@@ -10068,6 +10068,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1027" resp="#awilfing" cert="high">
                <title type="main">Marseillaise</title>
+               <title type="alternative">Chant de guerre de l’armée du Rhin</title>
                <author ref="#hsl_person_id_1643">
                   <persName>Rouget de Lisle, Claude Joseph</persName>
                </author>
@@ -12047,6 +12048,11 @@
                <author ref="#hsl_person_id_102">
                   <persName>Gounod, Charles</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_7936">Jupiter</name>
+               <name type="character" ref="#hsl_person_id_7937">Philémon</name>
+               <name type="character" ref="#hsl_person_id_7938">Baucis</name>
+               <name type="character" ref="#hsl_person_id_7939">Vulcain</name>
+               <name type="character" ref="#hsl_person_id_7940">Bacchante</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/104383883X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Phil%C3%A9mon_et_Baucis,_CG_5_(Gounod,_Charles)</idno>
             </bibl>
@@ -44200,6 +44206,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4866" resp="#awilfing" cert="high">
                <title type="main">La source</title>
+               <title type="alternative">Naïla, die Quellenfee</title>
                <author ref="#hsl_person_id_906">
                   <persName>Saint-Léon, Arthur</persName>
                </author>
@@ -44212,6 +44219,11 @@
                <author ref="#hsl_person_id_5239">
                   <persName>Minkus, Ludwig</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_7943">Naïla</name>
+               <name type="character" ref="#hsl_person_id_7944">Djémil</name>
+               <name type="character" ref="#hsl_person_id_7945">Morgab</name>
+               <name type="character" ref="#hsl_person_id_7946">Khan de Ghendjib</name>
+               <name type="character" ref="#hsl_person_id_7947">Nouredda</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1064745954</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_source_(Delibes,_L%C3%A9o)</idno>
             </bibl>
@@ -48313,7 +48325,182 @@ immerwährender Streit</title>
                <author ref="#hsl_person_id_415">
                   <persName>Rousseau, Jean-Jacques</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k9617985x</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.e-rara.ch/gep_r/content/zoom/3354203</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5588" resp="#awilfing" cert="high">
+               <title type="main">Essai sur l'origine des langues</title>
+               <author ref="#hsl_person_id_415">
+                  <persName>Rousseau, Jean-Jacques</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4199518-1</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.e-rara.ch/gep_r/content/zoom/3354559</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5589" resp="#awilfing" cert="high">
+               <title type="main">Émile ou De l’éducation</title>
+               <title type="alternative">Emil</title>
+               <author ref="#hsl_person_id_415">
+                  <persName>Rousseau, Jean-Jacques</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4192551-8</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b8614553x</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b8614554b</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b8614596p</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b86145973</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5590" resp="#awilfing" cert="high">
+               <title type="main">Discours qui a remporté le prix à l’Académie de Dijon. En l’année 1750. Sur cette question proposée par la même Académie: Si le rétablissement des Sciences &amp; des Arts a contribué à épurer les mœurs</title>
+               <author ref="#hsl_person_id_415">
+                  <persName>Rousseau, Jean-Jacques</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4395422-4</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.e-rara.ch/gep_r/content/zoom/3358423</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5591" resp="#awilfing" cert="high">
+               <title type="main">La musique et les philosophes au dix-huitième siècle</title>
+               <title type="alternative">La musique et les
+philosophes du 18 siècle</title>
+               <author ref="#hsl_person_id_2898">
+                  <persName>Jullien, Adolphe</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://babel.hathitrust.org/cgi/pt?id=uc1.b3209486&amp;seq=11</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5592" resp="#awilfing" cert="high">
+               <title type="main">Fragmens d’observations sur l’Alceste italien de M. le Chevalier Gluck</title>
+               <author ref="#hsl_person_id_415">
+                  <persName>Rousseau, Jean-Jacques</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.e-rara.ch/gep_r/content/zoom/3354742</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5593" resp="#awilfing" cert="high">
+               <title type="main">Mémoires secrets pour servir à l'histoire de la République des Lettres en France depuis 1762 jusqu'à nos jours</title>
+               <author ref="#hsl_person_id_7920">
+                  <persName>Bachaumont, Louis Petit de</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4601879-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://fr.wikisource.org/wiki/M%C3%A9moires_secrets_de_Bachaumont</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5594" resp="#awilfing" cert="high">
+               <title type="main">Vive la France, CG216</title>
+               <author ref="#hsl_person_id_102">
+                  <persName>Gounod, Charles</persName>
+               </author>
+               <author ref="#hsl_person_id_7922">
+                  <persName>Déroulède, Paul</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Vive_la_France,_CG_216_(Gounod,_Charles)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5595" resp="#awilfing" cert="high">
+               <title type="main">Souvenirs d'un musicien</title>
+               <author ref="#hsl_person_id_12">
+                  <persName>Adam, Adolphe</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k202830f</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5596" resp="#awilfing" cert="high">
+               <title type="main">Hymne des Marseillais, H51a</title>
+               <author ref="#hsl_person_id_28">
+                  <persName>Berlioz, Hector</persName>
+               </author>
+               <author ref="#hsl_person_id_1643">
+                  <persName>Rouget de Lisle, Claude Joseph</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Hymne_des_Marseillais,_H_51A_(Berlioz,_Hector)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5597" resp="#awilfing" cert="high">
+               <title type="main">Volkshymne</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_12">
+                  <persName>Adam, Adolphe</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5598" resp="#awilfing" cert="high">
+               <title type="main">Partant pour la Syrie</title>
+               <author ref="#hsl_person_id_7924">
+                  <persName>Hortense, Königin der Niederlande</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_7927">Dunois</name>
+               <name type="character" ref="#hsl_person_id_7928">Isabelle</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1331526922</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Partant_pour_la_Syrie_(Beauharnais%2C_Hortense_de)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5599" resp="#awilfing" cert="high">
+               <title type="main">Essais en vers et en prose</title>
+               <author ref="#hsl_person_id_1643">
+                  <persName>Rouget de Lisle, Claude Joseph</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b10861630k</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5600" resp="#awilfing" cert="high">
+               <title type="main">Hymne dithyrambique sur la conjuration de Robespierre et la révolution du 9. thermidor</title>
+               <title type="alternative">Hymne du 9 Thermidor</title>
+               <author ref="#hsl_person_id_1643">
+                  <persName>Rouget de Lisle, Claude Joseph</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b9067386p/f2.item</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5601" resp="#awilfing" cert="high">
+               <title type="main">Hymne à la paix</title>
+               <title type="alternative">Friedenshymne</title>
+               <author ref="#hsl_person_id_1643">
+                  <persName>Rouget de Lisle, Claude Joseph</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b108644247/f145.item</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5602" resp="#awilfing" cert="high">
+               <title type="main">Le chant des vengeances</title>
+               <title type="alternative">Kriegslied für die egyptische Armee</title>
+               <author ref="#hsl_person_id_1643">
+                  <persName>Rouget de Lisle, Claude Joseph</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b90673873</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5603" resp="#awilfing" cert="high">
+               <title type="main">Le chant du combat</title>
+               <author ref="#hsl_person_id_1643">
+                  <persName>Rouget de Lisle, Claude Joseph</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b108644247/f135.item</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5604" resp="#awilfing" cert="high">
+               <title type="main">Almanzor et Féline</title>
+               <title type="alternative">Almansor et Féline</title>
+               <author ref="#hsl_person_id_1643">
+                  <persName>Rouget de Lisle, Claude Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5605" resp="#awilfing" cert="high">
+               <title type="main">L'Aurore d'un beau jour, ou Henri de Navarre</title>
+               <author ref="#hsl_person_id_1643">
+                  <persName>Rouget de Lisle, Claude Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5606" resp="#awilfing" cert="high">
+               <title type="main">Bayard en Bresse</title>
+               <author ref="#hsl_person_id_1643">
+                  <persName>Rouget de Lisle, Claude Joseph</persName>
+               </author>
+               <author ref="#hsl_person_id_7932">
+                  <persName>Champein, Stanislas de</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/btv1b84000306/f5.item</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5607" resp="#awilfing" cert="high">
+               <title type="main">48 chants français. Paroles de différens auteurs</title>
+               <author ref="#hsl_person_id_1643">
+                  <persName>Rouget de Lisle, Claude Joseph</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark%3A/12148/btv1b10874510q?utm_source=chatgpt.com</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5608" resp="#awilfing" cert="high">
+               <title type="main">Vierge d'Athènes, CG406a</title>
+               <title type="alternative">Das Mädchen von Athen</title>
+               <author ref="#hsl_person_id_102">
+                  <persName>Gounod, Charles</persName>
+               </author>
+               <author ref="#hsl_person_id_7941">
+                  <persName>Ruelle, Jules</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Vierge_d'Ath%C3%A8nes%2C_CG_406a_(Gounod%2C_Charles)</idno>
             </bibl>
       </listBibl>
       </body>
