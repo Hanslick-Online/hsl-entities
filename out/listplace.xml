@@ -8972,7 +8972,14 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4898113</idno>
                </place>
                <place xml:id="hsl_place_id_750" resp="#awilfing" cert="high">
-                  <placeName type="main">Longjumeau</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Longjumeau</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>48.69307, 2.29431</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2997712/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q219045</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4342049-7</idno>
@@ -8983,14 +8990,27 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4119686-7</idno>
                </place>
                <place xml:id="hsl_place_id_752" resp="#awilfing" cert="high">
-                  <placeName type="main">București</placeName>
+                  <settlement type="P">
+                     <placeName type="main">București</placeName>
                      <placeName type="alternative">Bukarest</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>RO, Romania</country>
+                  <location type="coords">
+                     <geo>44.43225, 26.10626</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/683506/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q19660</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4008858-3</idno>
                </place>
                <place xml:id="hsl_place_id_753" resp="#awilfing" cert="high">
-                  <placeName type="main">Nordpol</placeName>
+                  <settlement type="T">
+                     <placeName type="main">Nordpol</placeName>
+                  </settlement>
+                  <desc type="entity_type">mountain,hill,rock,...</desc>
+                  <location type="coords">
+                     <geo>90, 0</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6942237/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q934</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4117914-6</idno>
@@ -9002,17 +9022,38 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4256148-6</idno>
                </place>
                <place xml:id="hsl_place_id_755" resp="#awilfing" cert="high">
-                  <placeName type="main">Schwarzwald</placeName>
+                  <settlement type="T">
+                     <placeName type="main">Schwarzwald</placeName>
+                  </settlement>
+                  <desc type="entity_type">mountain,hill,rock,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>48, 8.25</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2834688/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4204</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4053807-2</idno>
                </place>
                <place xml:id="hsl_place_id_758" resp="#awilfing" cert="high">
-                  <placeName type="main">Hirtenfeld</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Hirtenfeld</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>47.05, 15.63333</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2776160/</idno>
                </place>
                <place xml:id="hsl_place_id_759" resp="#awilfing" cert="high">
-                  <placeName type="main">Sankt Marein bei Graz</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Sankt Marein bei Graz</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>47.01583, 15.68389</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2766565/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q672265</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4652232-3</idno>
@@ -9023,34 +9064,69 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/10040416-9</idno>
                </place>
                <place xml:id="hsl_place_id_761" resp="#awilfing" cert="high">
-                  <placeName type="main">Normandie</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Normandie</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>49.19906, 0.49988</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/11071621/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15878</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4042617-8</idno>
                </place>
                <place xml:id="hsl_place_id_762" resp="#awilfing" cert="high">
-                  <placeName type="main">Imārat-i Buxārā</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Imārat-i Buxārā</placeName>
                      <placeName type="alternative">Bucharei</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>UZ, Uzbekistan</country>
+                  <location type="coords">
+                     <geo>40, 64</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/1114929/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/https://www.wikidata.org/wiki/Q746558</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4088511-2</idno>
                </place>
                <place xml:id="hsl_place_id_763" resp="#awilfing" cert="high">
-                  <placeName type="main">Ródos</placeName>
+                  <settlement type="T">
+                     <placeName type="main">Ródos</placeName>
                      <placeName type="alternative">Rhodos; Rhodus</placeName>
+                  </settlement>
+                  <desc type="entity_type">mountain,hill,rock,...</desc>
+                  <country>GR, Greece</country>
+                  <location type="coords">
+                     <geo>36.19613, 27.96081</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/400665/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q43048</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4049859-1</idno>
                </place>
                <place xml:id="hsl_place_id_764" resp="#awilfing" cert="high">
-                  <placeName type="main">Arco</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Arco</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>IT, Italy</country>
+                  <location type="coords">
+                     <geo>45.91772, 10.88672</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3182910/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q138473</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4085891-1</idno>
                </place>
                <place xml:id="hsl_place_id_765" resp="#awilfing" cert="high">
-                  <placeName type="main">Piazza San Marco</placeName>
+                  <settlement type="S">
+                     <placeName type="main">Piazza San Marco</placeName>
                      <placeName type="alternative">Marcusplatz</placeName>
+                  </settlement>
+                  <desc type="entity_type">spot, building, farm</desc>
+                  <country>IT, Italy</country>
+                  <location type="coords">
+                     <geo>45.43411, 12.33835</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3229870/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q217527</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4252349-7</idno>
@@ -9062,7 +9138,14 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4363985-9</idno>
                </place>
                <place xml:id="hsl_place_id_767" resp="#awilfing" cert="high">
-                  <placeName type="main">Pillnitz</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Pillnitz</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>51.0073, 13.87565</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2853707/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q8946</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4306696-3</idno>
@@ -9073,7 +9156,14 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4216959-8</idno>
                </place>
                <place xml:id="hsl_place_id_769" resp="#awilfing" cert="high">
-                  <placeName type="main">Le Cascine</placeName>
+                  <settlement type="L">
+                     <placeName type="main">Le Cascine</placeName>
+                  </settlement>
+                  <desc type="entity_type">parks,area, ...</desc>
+                  <country>IT, Italy</country>
+                  <location type="coords">
+                     <geo>43.78333, 11.21667</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3174960/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q18503211</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4353721-2</idno>
@@ -9084,32 +9174,66 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3966679</idno>
                </place>
                <place xml:id="hsl_place_id_772" resp="#awilfing" cert="high">
-                  <placeName type="main">Altona</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Altona</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>53.55, 9.93333</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2911296/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1630</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4085080-8</idno>
                </place>
                <place xml:id="hsl_place_id_773" resp="#awilfing" cert="high">
-                  <placeName type="main">Sedan</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Sedan</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>49.70187, 4.94028</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2975349/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q184371</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4054074-1</idno>
                </place>
                <place xml:id="hsl_place_id_774" resp="#awilfing" cert="high">
-                  <placeName type="main">al-Qaṣr al-Kabīr</placeName>
+                  <settlement type="P">
+                     <placeName type="main">al-Qaṣr al-Kabīr</placeName>
                      <placeName type="alternative">Alcazar</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>MA, Morocco</country>
+                  <location type="coords">
+                     <geo>35.00044, -5.90378</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2544001/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q52603</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4472496-2</idno>
                </place>
                <place xml:id="hsl_place_id_775" resp="#awilfing" cert="high">
-                  <placeName type="main">Marburg</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Marburg</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>50.80904, 8.77069</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2873759/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3869</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4037446-4</idno>
                </place>
                <place xml:id="hsl_place_id_776" resp="#awilfing" cert="high">
-                  <placeName type="main">Südsee</placeName>
+                  <settlement type="L">
+                     <placeName type="main">Südsee</placeName>
+                  </settlement>
+                  <desc type="entity_type">parks,area, ...</desc>
+                  <location type="coords">
+                     <geo>-18.31281, 138.51562</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6255151/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q55643</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4044257-3</idno>
@@ -9119,26 +9243,54 @@
                      <placeName type="alternative">unklarer Bezug</placeName>
                </place>
                <place xml:id="hsl_place_id_778" resp="#awilfing" cert="high">
-                  <placeName type="main">Calabria; Calàbbria</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Calabria; Calàbbria</placeName>
                      <placeName type="alternative">Kalabrien</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>IT, Italy</country>
+                  <location type="coords">
+                     <geo>39, 16.5</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2525468/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1458</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4029278-2</idno>
                </place>
                <place xml:id="hsl_place_id_779" resp="#awilfing" cert="high">
-                  <placeName type="main">Homburg</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Homburg</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>49.32637, 7.33867</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2899449/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q7040</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4025772-1</idno>
                </place>
                <place xml:id="hsl_place_id_780" resp="#awilfing" cert="high">
-                  <placeName type="main">Herrengasse, Wien</placeName>
+                  <settlement type="R">
+                     <placeName type="main">Herrengasse, Wien</placeName>
+                  </settlement>
+                  <desc type="entity_type">road, railroad</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>48.21021, 16.36543</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/11808356/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q697103</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4802115-5</idno>
                </place>
                <place xml:id="hsl_place_id_781" resp="#awilfing" cert="high">
-                  <placeName type="main">Elisabethstraße, Wien</placeName>
+                  <settlement type="R">
+                     <placeName type="main">Elisabethstraße, Wien</placeName>
+                  </settlement>
+                  <desc type="entity_type">road, railroad</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>48.20226, 16.36621</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12216645/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q19279071</idno>
                </place>
@@ -9154,57 +9306,120 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4041265-9</idno>
                </place>
                <place xml:id="hsl_place_id_784" resp="#awilfing" cert="high">
-                  <placeName type="main">Rouen</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Rouen</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>49.44313, 1.09932</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2982652/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q30974</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4050751-8</idno>
                </place>
                <place xml:id="hsl_place_id_785" resp="#awilfing" cert="high">
-                  <placeName type="main">Zaandam</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Zaandam</placeName>
                      <placeName type="alternative">Saardam</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>NL, The Netherlands</country>
+                  <location type="coords">
+                     <geo>52.43854, 4.82643</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2744118/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q211260</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4258495-4</idno>
                </place>
                <place xml:id="hsl_place_id_786" resp="#awilfing" cert="high">
-                  <placeName type="main">Cormeilles-en-Parisis</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Cormeilles-en-Parisis</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>48.97111, 2.20491</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3023645/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q841957</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/7540451-5</idno>
                </place>
                <place xml:id="hsl_place_id_787" resp="#awilfing" cert="high">
-                  <placeName type="main">Monte Pincio, Rom</placeName>
+                  <settlement type="T">
+                     <placeName type="main">Monte Pincio, Rom</placeName>
+                  </settlement>
+                  <desc type="entity_type">mountain,hill,rock,...</desc>
+                  <country>IT, Italy</country>
+                  <location type="coords">
+                     <geo>41.91071, 12.48025</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/8015111/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q550215</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4337875-4</idno>
                </place>
                <place xml:id="hsl_place_id_788" resp="#awilfing" cert="high">
-                  <placeName type="main">Aranjuez</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Aranjuez</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>ES, Spain</country>
+                  <location type="coords">
+                     <geo>40.03108, -3.60246</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3129857/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q486792</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4321015-6</idno>
                </place>
                <place xml:id="hsl_place_id_789" resp="#awilfing" cert="high">
-                  <placeName type="main">Granada</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Granada</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>ES, Spain</country>
+                  <location type="coords">
+                     <geo>37.18817, -3.60667</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2517117/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q8810</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4021815-6</idno>
                </place>
                <place xml:id="hsl_place_id_790" resp="#awilfing" cert="high">
-                  <placeName type="main">Chennai</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Chennai</placeName>
                      <placeName type="alternative">Madras</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>IN, India</country>
+                  <location type="coords">
+                     <geo>13.08784, 80.27847</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/1264527/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1352</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/5351481-6</idno>
                </place>
                <place xml:id="hsl_place_id_791" resp="#awilfing" cert="high">
-                  <placeName type="main">Provence</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Provence</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>43.91667, 6.08333</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2985244/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q101081</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4047564-5</idno>
                </place>
                <place xml:id="hsl_place_id_792" resp="#awilfing" cert="high">
-                  <placeName type="main">Gretna Green</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Gretna Green</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>GB, United Kingdom</country>
+                  <location type="coords">
+                     <geo>55.00279, -3.06618</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2647909/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1026315</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4086798-5</idno>
@@ -9215,167 +9430,348 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4114201-9</idno>
                </place>
                <place xml:id="hsl_place_id_794" resp="#awilfing" cert="high">
-                  <placeName type="main">Duisburg</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Duisburg</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>51.43247, 6.76516</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2934691/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2100</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4013284-5</idno>
                </place>
                <place xml:id="hsl_place_id_795" resp="#awilfing" cert="high">
-                  <placeName type="main">Wernigerode</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Wernigerode</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>51.83652, 10.78216</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2810808/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15982</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4065649-4</idno>
                </place>
                <place xml:id="hsl_place_id_796" resp="#awilfing" cert="high">
-                  <placeName type="main">Saba</placeName>
+                  <settlement type="L">
+                     <placeName type="main">Saba</placeName>
+                  </settlement>
+                  <desc type="entity_type">parks,area, ...</desc>
+                  <country>YE, Yemen</country>
+                  <location type="coords">
+                     <geo>15.37954, 44.70886</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/8504929/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q216068</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4076921-5</idno>
                </place>
                <place xml:id="hsl_place_id_797" resp="#awilfing" cert="high">
-                  <placeName type="main">Saint-Denis</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Saint-Denis</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>48.93564, 2.35387</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2980916/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q160506</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4051311-7</idno>
                </place>
                <place xml:id="hsl_place_id_798" resp="#awilfing" cert="high">
-                  <placeName type="main">Córdoba</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Córdoba</placeName>
                      <placeName type="alternative">Cordova</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>ES, Spain</country>
+                  <location type="coords">
+                     <geo>37.89155, -4.77275</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2519240/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5818</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4010558-1</idno>
                </place>
                <place xml:id="hsl_place_id_799" resp="#awilfing" cert="high">
-                  <placeName type="main">Montmorency</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Montmorency</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>48.98826, 2.3434</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2992229/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q316891</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4115218-9</idno>
                </place>
                <place xml:id="hsl_place_id_800" resp="#awilfing" cert="high">
-                  <placeName type="main">Rue Bergère, Paris</placeName>
+                  <settlement type="R">
+                     <placeName type="main">Rue Bergère, Paris</placeName>
+                  </settlement>
+                  <desc type="entity_type">road, railroad</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>48.87242, 2.3451</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12513989/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3447129</idno>
                </place>
                <place xml:id="hsl_place_id_801" resp="#awilfing" cert="high">
-                  <placeName type="main">Rue Le Peletier, Paris</placeName>
+                  <settlement type="R">
+                     <placeName type="main">Rue Le Peletier, Paris</placeName>
                      <placeName type="alternative">Rue Le Pelletier</placeName>
+                  </settlement>
+                  <desc type="entity_type">road, railroad</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>48.87374, 2.33897</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12522867/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3448793</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1052680380</idno>
                </place>
                <place xml:id="hsl_place_id_802" resp="#awilfing" cert="high">
-                  <placeName type="main">Chenonceaux</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Chenonceaux</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>47.33166, 1.06718</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3025501/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q274619</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4085233-7</idno>
                </place>
                <place xml:id="hsl_place_id_803" resp="#awilfing" cert="high">
-                  <placeName type="main">Hernals, Wien</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Hernals, Wien</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>48.22544, 16.30871</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2776488/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1613671</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4095100-5</idno>
                </place>
                <place xml:id="hsl_place_id_804" resp="#awilfing" cert="high">
-                  <placeName type="main">Toulouse</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Toulouse</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>43.60426, 1.44367</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2972315/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q7880</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4060518-8</idno>
                </place>
                <place xml:id="hsl_place_id_805" resp="#awilfing" cert="high">
-                  <placeName type="main">Philippopolis</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Philippopolis</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>BG, Bulgaria</country>
+                  <location type="coords">
+                     <geo>42.15, 24.75</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/728193/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q27047924</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4076178-2</idno>
                </place>
                <place xml:id="hsl_place_id_806" resp="#awilfing" cert="medium">
-                  <placeName type="main">Euskal Herria; País Vasco; Pays Basque</placeName>
+                  <settlement type="L">
+                     <placeName type="main">Euskal Herria; País Vasco; Pays Basque</placeName>
                      <placeName type="alternative">Baskenland</placeName>
+                  </settlement>
+                  <desc type="entity_type">parks,area, ...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>43.32168, -1.73309</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6269422/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q47588</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4256908-4</idno>
                </place>
                <place xml:id="hsl_place_id_807" resp="#awilfing" cert="high">
-                  <placeName type="main">Andalucía</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Andalucía</placeName>
                      <placeName type="alternative">Andalusien</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>ES, Spain</country>
+                  <location type="coords">
+                     <geo>37.5, -4.58333</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2593109/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5783</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4001909-3</idno>
                </place>
                <place xml:id="hsl_place_id_808" resp="#awilfing" cert="high">
-                  <placeName type="main">Marseille</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Marseille</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>43.29695, 5.38107</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2995469/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q23482</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4037694-1</idno>
                </place>
                <place xml:id="hsl_place_id_809" resp="#awilfing" cert="high">
-                  <placeName type="main">Varennes-Jarcy</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Varennes-Jarcy</placeName>
                      <placeName type="alternative">Tarcy</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>48.67914, 2.56152</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2970693/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q696041</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4535214-8</idno>
                </place>
                <place xml:id="hsl_place_id_810" resp="#awilfing" cert="high">
-                  <placeName type="main">Îles d'Hyères</placeName>
+                  <settlement type="T">
+                     <placeName type="main">Îles d'Hyères</placeName>
                      <placeName type="alternative">Hyerische Inseln</placeName>
+                  </settlement>
+                  <desc type="entity_type">mountain,hill,rock,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>43.00118, 6.3773</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3012936/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q292728</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4210393-9</idno>
                </place>
                <place xml:id="hsl_place_id_811" resp="#awilfing" cert="high">
-                  <placeName type="main">Sèvres</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Sèvres</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>48.82292, 2.21757</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2974678/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q206493</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4118613-8</idno>
                </place>
                <place xml:id="hsl_place_id_812" resp="#awilfing" cert="high">
-                  <placeName type="main">Ísland</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Ísland</placeName>
                      <placeName type="alternative">Island; Isenland</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>IS, Iceland</country>
+                  <location type="coords">
+                     <geo>65, -18</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2629691/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q189</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4027754-9</idno>
                </place>
                <place xml:id="hsl_place_id_813" resp="#awilfing" cert="high">
-                  <placeName type="main">Schonen</placeName>
+                  <settlement type="L">
+                     <placeName type="main">Schonen</placeName>
                      <placeName type="alternative">Schoonen</placeName>
+                  </settlement>
+                  <desc type="entity_type">parks,area, ...</desc>
+                  <country>SE, Sweden</country>
+                  <location type="coords">
+                     <geo>55.98333, 13.5</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2678287/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q103659</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4053191-0</idno>
                </place>
                <place xml:id="hsl_place_id_814" resp="#awilfing" cert="high">
-                  <placeName type="main">Rotes Meer</placeName>
+                  <settlement type="H">
+                     <placeName type="main">Rotes Meer</placeName>
                      <placeName type="alternative">Rothes Meer</placeName>
+                  </settlement>
+                  <desc type="entity_type">stream, lake, ...</desc>
+                  <location type="coords">
+                     <geo>20.26735, 38.53455</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/350155/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q23406</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4050664-2</idno>
                </place>
                <place xml:id="hsl_place_id_815" resp="#awilfing" cert="high">
-                  <placeName type="main">Luby</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Luby</placeName>
                      <placeName type="alternative">Schönbach</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>CZ, Czechia</country>
+                  <location type="coords">
+                     <geo>50.25248, 12.40595</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3071448/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q946789</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4118503-1</idno>
                </place>
                <place xml:id="hsl_place_id_816" resp="#awilfing" cert="high">
-                  <placeName type="main">České Budějovice</placeName>
+                  <settlement type="P">
+                     <placeName type="main">České Budějovice</placeName>
                      <placeName type="alternative">Budweis</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>CZ, Czechia</country>
+                  <location type="coords">
+                     <geo>48.97447, 14.47434</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3077916/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q16506</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4008698-7</idno>
                </place>
                <place xml:id="hsl_place_id_817" resp="#awilfing" cert="high">
-                  <placeName type="main">Gotland</placeName>
+                  <settlement type="T">
+                     <placeName type="main">Gotland</placeName>
                      <placeName type="alternative">Gothland</placeName>
+                  </settlement>
+                  <desc type="entity_type">mountain,hill,rock,...</desc>
+                  <country>SE, Sweden</country>
+                  <location type="coords">
+                     <geo>57.5, 18.55</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2711511/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1027830</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4021658-5</idno>
                </place>
                <place xml:id="hsl_place_id_818" resp="#awilfing" cert="high">
-                  <placeName type="main">Mittenwalde</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Mittenwalde</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>52.26007, 13.53945</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2870481/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q574811</idno>
                </place>
                <place xml:id="hsl_place_id_819" resp="#awilfing" cert="high">
-                  <placeName type="main">Markneukirchen</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Markneukirchen</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>50.31144, 12.32951</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2873340/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q32123045</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4037605-9</idno>
@@ -9387,19 +9783,39 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4468374-1</idno>
                </place>
                <place xml:id="hsl_place_id_821" resp="#awilfing" cert="high">
-                  <placeName type="main">Sahara</placeName>
+                  <settlement type="T">
+                     <placeName type="main">Sahara</placeName>
+                  </settlement>
+                  <desc type="entity_type">mountain,hill,rock,...</desc>
+                  <location type="coords">
+                     <geo>26, 13</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2212709/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q6583</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4051293-9</idno>
                </place>
                <place xml:id="hsl_place_id_822" resp="#awilfing" cert="high">
-                  <placeName type="main">San Marino</placeName>
+                  <settlement type="A">
+                     <placeName type="main">San Marino</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>SM, San Marino</country>
+                  <location type="coords">
+                     <geo>43.9367, 12.4463</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3168068/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q238</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4051524-2</idno>
                </place>
                <place xml:id="hsl_place_id_824" resp="#awilfing" cert="high">
-                  <placeName type="main">Klingenthal</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Klingenthal</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>50.36667, 12.46667</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/7602487/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q46866</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4031187-9</idno>
@@ -9410,67 +9826,145 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/35801-0</idno>
                </place>
                <place xml:id="hsl_place_id_858" resp="#awilfing" cert="high">
-                  <placeName type="main">Langbathseen</placeName>
+                  <settlement type="H">
+                     <placeName type="main">Langbathseen</placeName>
+                  </settlement>
+                  <desc type="entity_type">stream, lake, ...</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>47.83333, 13.68333</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2773031/</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q877303</idno>
                </place>
                <place xml:id="hsl_place_id_859" resp="#awilfing" cert="high">
-                  <placeName type="main">Niederrhein</placeName>
+                  <settlement type="L">
+                     <placeName type="main">Niederrhein</placeName>
+                  </settlement>
+                  <desc type="entity_type">parks,area, ...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>51.43436, 6.61158</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12076814/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q445609</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4115388-1</idno>
                </place>
                <place xml:id="hsl_place_id_860" resp="#awilfing" cert="high">
-                  <placeName type="main">Bad Gleichenberg</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Bad Gleichenberg</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>46.88742, 15.90373</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/7872283/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q693550</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4363511-8</idno>
                </place>
                <place xml:id="hsl_place_id_861" resp="#awilfing" cert="high">
-                  <placeName type="main">Dornbach, Wien</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Dornbach, Wien</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>48.23123, 16.29337</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2780745/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q13400194</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4808564-9</idno>
                </place>
                <place xml:id="hsl_place_id_862" resp="#awilfing" cert="high">
-                  <placeName type="main">Gießen</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Gießen</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>50.58485, 8.67417</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6559130/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3874</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4020989-1</idno>
                </place>
                <place xml:id="hsl_place_id_863" resp="#awilfing" cert="high">
-                  <placeName type="main">Äthiopien</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Äthiopien</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>ET, Ethiopia</country>
+                  <location type="coords">
+                     <geo>9, 39.5</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/337996/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q115</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4000639-6</idno>
                </place>
                <place xml:id="hsl_place_id_896" resp="#awilfing" cert="high">
-                  <placeName type="main">Währinger Friedhof</placeName>
+                  <settlement type="S">
+                     <placeName type="main">Währinger Friedhof</placeName>
+                  </settlement>
+                  <desc type="entity_type">spot, building, farm</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>48.23245, 16.35199</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12059944/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q38103979</idno>
                </place>
                <place xml:id="hsl_place_id_897" resp="#awilfing" cert="high">
-                  <placeName type="main">Kapuzinerberg</placeName>
+                  <settlement type="T">
+                     <placeName type="main">Kapuzinerberg</placeName>
                      <placeName type="alternative">Capuzinerberg</placeName>
+                  </settlement>
+                  <desc type="entity_type">mountain,hill,rock,...</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>47.80399, 13.05734</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2774753/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q873917</idno>
                   <idno type="URI" subtype="GND">http://d-nb.info/gnd/4527393-5</idno>
                </place>
                <place xml:id="hsl_place_id_898" resp="#awilfing" cert="high">
-                  <placeName type="main">Loreto</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Loreto</placeName>
                      <placeName type="alternative">Loretto</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>IT, Italy</country>
+                  <location type="coords">
+                     <geo>43.43617, 13.61232</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3174567/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q124110</idno>
                   <idno type="URI" subtype="GND">http://d-nb.info/gnd/4111391-3</idno>
                </place>
                <place xml:id="hsl_place_id_899" resp="#awilfing" cert="high">
-                  <placeName type="main">Getreidegasse, Salzburg</placeName>
+                  <settlement type="R">
+                     <placeName type="main">Getreidegasse, Salzburg</placeName>
+                  </settlement>
+                  <desc type="entity_type">road, railroad</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>47.8, 13.0439</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6956622/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q688477</idno>
                   <idno type="URI" subtype="GND">http://d-nb.info/gnd/4338565-5</idno>
                </place>
                <place xml:id="hsl_place_id_900" resp="#awilfing" cert="high">
-                  <placeName type="main">Småland</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Småland</placeName>
                      <placeName type="alternative">Smaland</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>SE, Sweden</country>
+                  <location type="coords">
+                     <geo>56.96744, 15.68298</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6692538/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q199957</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4118697-7</idno>
@@ -9480,49 +9974,105 @@
                      <placeName type="alternative">unklarer Bezug</placeName>
                </place>
                <place xml:id="hsl_place_id_902" resp="#awilfing" cert="high">
-                  <placeName type="main">Ljungby</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Ljungby</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>SE, Sweden</country>
+                  <location type="coords">
+                     <geo>56.83324, 13.94082</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2694560/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q744491</idno>
                   <idno type="URI" subtype="GND">http://d-nb.info/gnd/4314933-9</idno>
                </place>
                <place xml:id="hsl_place_id_903" resp="#awilfing" cert="high">
-                  <placeName type="main">Żelazowa Wola</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Żelazowa Wola</placeName>
                      <placeName type="alternative">Zelajowa-Wola</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>PL, Poland</country>
+                  <location type="coords">
+                     <geo>52.25747, 20.32509</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/753401/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q393087</idno>
                   <idno type="URI" subtype="GND">http://d-nb.info/gnd/4067527-0</idno>
                </place>
                <place xml:id="hsl_place_id_904" resp="#awilfing" cert="high">
-                  <placeName type="main">Wola</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Wola</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>PL, Poland</country>
+                  <location type="coords">
+                     <geo>52.23477, 20.96004</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/755330/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1020136</idno>
                   <idno type="URI" subtype="GND">http://d-nb.info/gnd/4119155-9</idno>
                </place>
                <place xml:id="hsl_place_id_905" resp="#awilfing" cert="high">
-                  <placeName type="main">Nohant-Vic</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Nohant-Vic</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>46.63333, 1.98333</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2990253/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q656447</idno>
                   <idno type="URI" subtype="GND">http://d-nb.info/gnd/4212868-7</idno>
                </place>
                <place xml:id="hsl_place_id_906" resp="#awilfing" cert="high">
-                  <placeName type="main">Quai d’Orléans, Paris</placeName>
+                  <settlement type="S">
+                     <placeName type="main">Quai d’Orléans, Paris</placeName>
+                  </settlement>
+                  <desc type="entity_type">spot, building, farm</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>48.8516, 2.35433</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12746727/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3412676</idno>
                </place>
                <place xml:id="hsl_place_id_907" resp="#awilfing" cert="high">
-                  <placeName type="main">Watzmann</placeName>
+                  <settlement type="T">
+                     <placeName type="main">Watzmann</placeName>
+                  </settlement>
+                  <desc type="entity_type">mountain,hill,rock,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>47.5545, 12.9221</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2813594/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q163919</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4064863-1</idno>
                </place>
                <place xml:id="hsl_place_id_908" resp="#awilfing" cert="high">
-                  <placeName type="main">Untersberg</placeName>
+                  <settlement type="T">
+                     <placeName type="main">Untersberg</placeName>
+                  </settlement>
+                  <desc type="entity_type">mountain,hill,rock,...</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>47.7, 12.98333</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2818796/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q369269</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4227456-4</idno>
                </place>
                <place xml:id="hsl_place_id_909" resp="#awilfing" cert="high">
-                  <placeName type="main">Gneixendorf</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Gneixendorf</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>48.43751, 15.6181</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2778425/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5574207</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4527193-8</idno>
@@ -9533,32 +10083,67 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2068091</idno>
                </place>
                <place xml:id="hsl_place_id_975" resp="#awilfing" cert="high">
-                  <placeName type="main">Lesbos</placeName>
+                  <settlement type="T">
+                     <placeName type="main">Lesbos</placeName>
+                  </settlement>
+                  <desc type="entity_type">mountain,hill,rock,...</desc>
+                  <country>GR, Greece</country>
+                  <location type="coords">
+                     <geo>39.20353, 26.27655</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/258466/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q128087</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4035433-7</idno>
                </place>
                <place xml:id="hsl_place_id_976" resp="#awilfing" cert="high">
-                  <placeName type="main">Lāhaur</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Lāhaur</placeName>
                      <placeName type="alternative">Lahore</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>PK, Pakistan</country>
+                  <location type="coords">
+                     <geo>31.558, 74.35071</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/1172451/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q11739</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4034107-0</idno>
                </place>
                <place xml:id="hsl_place_id_977" resp="#awilfing" cert="high">
-                  <placeName type="main">Erfurt</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Erfurt</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>50.9787, 11.03283</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2929670/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1729</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4015240-6</idno>
                </place>
                <place xml:id="hsl_place_id_978" resp="#awilfing" cert="high">
-                  <placeName type="main">Elbe</placeName>
+                  <settlement type="H">
+                     <placeName type="main">Elbe</placeName>
+                  </settlement>
+                  <desc type="entity_type">stream, lake, ...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>53.92222, 8.72222</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2931271/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1644</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4014170-6</idno>
                </place>
                <place xml:id="hsl_place_id_979" resp="#awilfing" cert="high">
-                  <placeName type="main">Blankenese</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Blankenese</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>53.55698, 9.8059</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2948066/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1607</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/5009845-7</idno>
@@ -9569,7 +10154,14 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4002074-5</idno>
                </place>
                <place xml:id="hsl_place_id_981" resp="#awilfing" cert="high">
-                  <placeName type="main">Alster</placeName>
+                  <settlement type="H">
+                     <placeName type="main">Alster</placeName>
+                  </settlement>
+                  <desc type="entity_type">stream, lake, ...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>53.58126, 9.99731</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2958108/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2651481</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4001368-6</idno>
@@ -9579,21 +10171,42 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2874010</idno>
                </place>
                <place xml:id="hsl_place_id_983" resp="#awilfing" cert="high">
-                  <placeName type="main">Tyssa; Tisa; Tisza;</placeName>
+                  <settlement type="H">
+                     <placeName type="main">Tyssa; Tisa; Tisza;</placeName>
                      <placeName type="alternative">Theiß</placeName>
+                  </settlement>
+                  <desc type="entity_type">stream, lake, ...</desc>
+                  <country>RS, Serbia</country>
+                  <location type="coords">
+                     <geo>45.13806, 20.2775</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/691517/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q134350</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4106223-1</idno>
                </place>
                <place xml:id="hsl_place_id_984" resp="#awilfing" cert="high">
-                  <placeName type="main">Bragança</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Bragança</placeName>
                      <placeName type="alternative">Braganza</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>PT, Portugal</country>
+                  <location type="coords">
+                     <geo>41.83615, -6.76346</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2742026/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q768261</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4462124-3</idno>
                </place>
                <place xml:id="hsl_place_id_985" resp="#awilfing" cert="high">
-                  <placeName type="main">Choisy-le-Roi</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Choisy-le-Roi</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>48.76846, 2.41874</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3025055/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q212987</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4383787-6</idno>
@@ -9609,20 +10222,41 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4654364-8</idno>
                </place>
                <place xml:id="hsl_place_id_988" resp="#awilfing" cert="high">
-                  <placeName type="main">Krnov</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Krnov</placeName>
                      <placeName type="alternative">Jägerndorf</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>CZ, Czechia</country>
+                  <location type="coords">
+                     <geo>50.08967, 17.70385</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3072656/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1789604</idno>
                </place>
                <place xml:id="hsl_place_id_989" resp="#awilfing" cert="high">
-                  <placeName type="main">Montpellier</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Montpellier</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>43.61093, 3.87635</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2992166/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q6441</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4040185-6</idno>
                </place>
                <place xml:id="hsl_place_id_990" resp="#awilfing" cert="high">
-                  <placeName type="main">Champ de Mars</placeName>
+                  <settlement type="L">
+                     <placeName type="main">Champ de Mars</placeName>
                      <placeName type="alternative">Marsfeld</placeName>
+                  </settlement>
+                  <desc type="entity_type">parks,area, ...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>48.85613, 2.29803</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6269529/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q217925</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4634936-4</idno>
@@ -9632,20 +10266,41 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q114829454</idno>
                </place>
                <place xml:id="hsl_place_id_992" resp="#awilfing" cert="high">
-                  <placeName type="main">Mureș</placeName>
+                  <settlement type="H">
+                     <placeName type="main">Mureș</placeName>
                      <placeName type="alternative">Maros</placeName>
+                  </settlement>
+                  <desc type="entity_type">stream, lake, ...</desc>
+                  <country>HU, Hungary</country>
+                  <location type="coords">
+                     <geo>46.25, 20.2</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/672629/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q207493</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4244057-9</idno>
                </place>
                <place xml:id="hsl_place_id_993" resp="#awilfing" cert="high">
-                  <placeName type="main">Montreuil</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Montreuil</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>48.86415, 2.44322</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2992090/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q193370</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4341625-1</idno>
                </place>
                <place xml:id="hsl_place_id_994" resp="#awilfing" cert="high">
-                  <placeName type="main">Nantes</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Nantes</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>47.21725, -1.55336</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2990969/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q12191</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4041204-0</idno>
@@ -9657,20 +10312,41 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4042547-2</idno>
                </place>
                <place xml:id="hsl_place_id_1027" resp="#awilfing" cert="high">
-                  <placeName type="main">Scharon</placeName>
+                  <settlement type="T">
+                     <placeName type="main">Scharon</placeName>
                      <placeName type="alternative">Saaron</placeName>
+                  </settlement>
+                  <desc type="entity_type">mountain,hill,rock,...</desc>
+                  <country>IL, Israel</country>
+                  <location type="coords">
+                     <geo>32.28333, 34.91667</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/294853/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q218907</idno>
                   <idno type="URI" subtype="GND">ttp://d-nb.info/gnd/1054531463</idno>
                </place>
                <place xml:id="hsl_place_id_1028" resp="#awilfing" cert="high">
-                  <placeName type="main">Tiber</placeName>
+                  <settlement type="H">
+                     <placeName type="main">Tiber</placeName>
+                  </settlement>
+                  <desc type="entity_type">stream, lake, ...</desc>
+                  <country>IT, Italy</country>
+                  <location type="coords">
+                     <geo>41.74032, 12.23371</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3165709/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q13712</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4119609-0</idno>
                </place>
                <place xml:id="hsl_place_id_1029" resp="#awilfing" cert="high">
-                  <placeName type="main">Sydenham, London</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Sydenham, London</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>GB, United Kingdom</country>
+                  <location type="coords">
+                     <geo>51.42624, -0.0545</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6693031/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2104233</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/145461-4</idno>
@@ -9681,7 +10357,14 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4788006-5</idno>
                </place>
                <place xml:id="hsl_place_id_1063" resp="#awilfing" cert="high">
-                  <placeName type="main">Place du Trocadéro-et-du-11-Novembre, Paris</placeName>
+                  <settlement type="R">
+                     <placeName type="main">Place du Trocadéro-et-du-11-Novembre, Paris</placeName>
+                  </settlement>
+                  <desc type="entity_type">road, railroad</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>48.86241, 2.28208</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12909400/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1759903</idno>
                </place>
@@ -9690,26 +10373,54 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3389821</idno>
                </place>
                <place xml:id="hsl_place_id_1065" resp="#awilfing" cert="high">
-                  <placeName type="main">Jardin des Tuileries, Paris</placeName>
+                  <settlement type="L">
+                     <placeName type="main">Jardin des Tuileries, Paris</placeName>
+                  </settlement>
+                  <desc type="entity_type">parks,area, ...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>48.86308, 2.32841</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6452747/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q818517</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1086093070</idno>
                </place>
                <place xml:id="hsl_place_id_1066" resp="#awilfing" cert="high">
-                  <placeName type="main">Saint-Germain-en-Laye</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Saint-Germain-en-Laye</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>48.89643, 2.0904</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2979783/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q60847808</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4116311-4</idno>
                </place>
                <place xml:id="hsl_place_id_1067" resp="#awilfing" cert="high">
-                  <placeName type="main">Phrygien</placeName>
+                  <settlement type="L">
+                     <placeName type="main">Phrygien</placeName>
+                  </settlement>
+                  <desc type="entity_type">parks,area, ...</desc>
+                  <country>TR, Türkiye</country>
+                  <location type="coords">
+                     <geo>39.36828, 30.71777</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/8261122/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q32579</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4045945-7</idno>
                </place>
                <place xml:id="hsl_place_id_1068" resp="#awilfing" cert="high">
-                  <placeName type="main">Pardubice</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Pardubice</placeName>
                      <placeName type="alternative">Pardubitz</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>CZ, Czechia</country>
+                  <location type="coords">
+                     <geo>50.04075, 15.77659</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3068582/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q36989</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/504754-7</idno>
