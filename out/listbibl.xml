@@ -8467,6 +8467,8 @@
                </author>
                <name type="character" ref="#hsl_person_id_1385">Ilia</name>
                <name type="character" ref="#hsl_person_id_3989">Idomeneo</name>
+               <name type="character" ref="#hsl_person_id_8065">Idamante</name>
+               <name type="character" ref="#hsl_person_id_8066">Gran Sacerdote di Nettuno</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30010829X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Idomeneo,_K.366_(Mozart,_Wolfgang_Amadeus)</idno>
             </bibl>
@@ -12719,7 +12721,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1290" resp="#awilfing" cert="high">
                <title type="main">Zaide, KV344</title>
-               <title type="alternative">Zaïde; Das Serail</title>
+               <title type="alternative">Zaida; Zaïde; Das Serail</title>
                <author ref="#hsl_person_id_189">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
@@ -46273,6 +46275,7 @@
                <author ref="#hsl_person_id_7333">
                   <persName>Lott, Franz Carl</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/d__1856_Lott_Gutachten_Habilitation</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5165" resp="#awilfing" cert="high">
                <title type="main">Memoirs of George Anne Bellamy, Including All Her Intrigues; with Genuine Anecdotes of All Her Public and Private Connections</title>
@@ -48870,6 +48873,26 @@ philosophes du 18 siècle</title>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5773" resp="#awilfing" cert="high">
+               <title type="main">Dyellah</title>
+               <author ref="#hsl_person_id_1972">
+                  <persName>Borri, Pasquale</persName>
+               </author>
+               <author ref="#hsl_person_id_8063">
+                  <persName>Baur, Antonio</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5774" resp="#awilfing" cert="high">
+               <title type="main">Ännchen von Tharau, op. 44</title>
+               <author ref="#hsl_person_id_2917">
+                  <persName>Hofmann, Heinrich</persName>
+               </author>
+               <author ref="#hsl_person_id_8064">
+                  <persName>Fels, Roderich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300636636</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/%C3%84nnchen_von_Tharau%2C_Op.44_(Hofmann%2C_Heinrich)</idno>
             </bibl>
       </listBibl>
       </body>
