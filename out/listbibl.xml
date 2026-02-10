@@ -10661,6 +10661,9 @@
                <name type="character" ref="#hsl_person_id_2273">Jean de Paris</name>
                <name type="character" ref="#hsl_person_id_2279">Olivier</name>
                <name type="character" ref="#hsl_person_id_2281">Grand Sénéchal</name>
+               <name type="character" ref="#hsl_person_id_8067">Pédrigo</name>
+               <name type="character" ref="#hsl_person_id_8068">Lorezza</name>
+               <name type="character" ref="#hsl_person_id_8069">Princesse de Navarre</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300781407</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Jean_de_Paris_(Boieldieu,_Fran%C3%A7ois_Adrien)</idno>
             </bibl>
@@ -14488,12 +14491,12 @@
                <author ref="#hsl_person_id_1">
                   <persName>Hanslick, Eduard</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1894.05.13.html?</idno>
-               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1894.05.24.html?</idno>
-               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1894.05.29.html?</idno>
-               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1894.05.30.html?</idno>
-               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1894.06.02.html?</idno>
-               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1894.06.09.html?</idno>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1894.05.13.html</idno>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1894.05.24.html</idno>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1894.05.29.html</idno>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1894.05.30.html</idno>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1894.06.02.html</idno>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1894.06.09.html</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1488" resp="#awilfing" cert="high">
                <title type="main">Aus Robert Schumann's letzten Tagen. Mit ungedruckten Briefen von ihm</title>
@@ -14503,8 +14506,8 @@
                <author ref="#hsl_person_id_1">
                   <persName>Hanslick, Eduard</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1896.10.27.html?</idno>
-               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1896.10.29.html?</idno>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1896.10.27.html</idno>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1896.10.29.html</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1489" resp="#awilfing" cert="high">
                <title type="main">Jenseits des Gotthard. Menschen, Städte und Landschaften in Ober- und Mittelitalien</title>
@@ -40552,6 +40555,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4458" resp="#awilfing" cert="high">
                <title type="main">Aus dem Leben und der Correspondenz von Franz Hauser</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
                <author ref="#hsl_person_id_1">
                   <persName>Hanslick, Eduard</persName>
                </author>
@@ -47523,6 +47529,9 @@ immerwährender Streit</title>
             </bibl>
             <bibl xml:id="hsl_work_id_5401" resp="#awilfing" cert="high">
                <title type="main">Friedrich Chopin</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
                <author ref="#hsl_person_id_1">
                   <persName>Hanslick, Eduard</persName>
                </author>
@@ -48893,6 +48902,76 @@ philosophes du 18 siècle</title>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300636636</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/%C3%84nnchen_von_Tharau%2C_Op.44_(Hofmann%2C_Heinrich)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5775" resp="#awilfing" cert="high">
+               <title type="main">Musikalische Neuigkeiten. III. („Beethoven’s Leben“, von Thayer. „Johann Joseph Fux“, von Köchel.)</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1871.10.31.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5776" resp="#awilfing" cert="high">
+               <title type="main">Concerte.</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1865.01.31.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5777" resp="#awilfing" cert="high">
+               <title type="main">Richard Wagnerʼs „Meistersinger von Nürnberg“.</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1868.06.24.html; https://hanslick.acdh.oeaw.ac.at/c__1868.06.25.html; https://hanslick.acdh.oeaw.ac.at/c__1868.06.26.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5778" resp="#awilfing" cert="high">
+               <title type="main">„Das Rheingold“ von Richard Wagner.</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1869.09.05.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5779" resp="#awilfing" cert="high">
+               <title type="main">Musikalische Briefe aus Paris. III. (Opéra Comique. — Aeltere Opern von Grétry, Isouard und Boieldieu. — Der Nachwuchs.)</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1875.05.14.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5780" resp="#awilfing" cert="high">
+               <title type="main">Oesterreichische Monarchen als Tondichter.</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1892.04.17.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5781" resp="#awilfing" cert="high">
+               <title type="main">Zum Strauß-Jubliäum.</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18841015</idno>
             </bibl>
       </listBibl>
       </body>
