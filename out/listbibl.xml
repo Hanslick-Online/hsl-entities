@@ -35544,7 +35544,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3869" resp="#awilfing" cert="high">
                <title type="main">Phaéton, op. 39</title>
-               <title type="alternative">Phaëton</title>
+               <title type="alternative">Phaëton; Sturz des Phaëton</title>
                <author ref="#hsl_person_id_1658">
                   <persName>Saint-Saëns, Camille</persName>
                </author>
@@ -49003,8 +49003,16 @@ philosophes du 18 siècle</title>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb11747374</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb11448381</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_5849" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_5849" resp="#awilfing" cert="high">
+               <title type="main">Le déluge, op. 45</title>
+               <author ref="#hsl_person_id_1658">
+                  <persName>Saint-Saëns, Camille</persName>
+               </author>
+               <author ref="#hsl_person_id_1999">
+                  <persName>Gallet, Louis</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300386982</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_d%C3%A9luge%2C_Op.45_(Saint-Sa%C3%ABns%2C_Camille)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5850" resp="#awilfing" cert="high">
                <title type="main">Quintett für 2 Violinen, 2 Bratschen und Cello in C-Dur, op. 26</title>
@@ -49045,6 +49053,67 @@ philosophes du 18 siècle</title>
             <bibl xml:id="hsl_work_id_5855" resp="#awilfing" cert="high">
                <title type="main">Der Freimüthige</title>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4345476-8</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5856" resp="#awilfing" cert="high">
+               <title type="main">Musik und Musiker in Paris. (Erinnerungen aus dem Weltausstellungs-Sommer 1878.)</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_1826">Nord und Süd. Eine deutsche Monatsschrift</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11378017?page=120,121</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5857" resp="#awilfing" cert="high">
+               <title type="main">Grande symphonie funèbre et triomphale, H80</title>
+               <author ref="#hsl_person_id_28">
+                  <persName>Berlioz, Hector</persName>
+               </author>
+               <author ref="#hsl_person_id_8165">
+                  <persName>Deschamps, Antony</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1027981933</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Grande_symphonie_fun%C3%A8bre_et_triomphale,_H_80_(Berlioz,_Hector)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5858" resp="#awilfing" cert="high">
+               <title type="main">La jeunesse d'Hercule, op. 50</title>
+               <author ref="#hsl_person_id_1658">
+                  <persName>Saint-Saëns, Camille</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300297416</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_jeunesse_d%27Hercule%2C_Op.50_(Saint-Sa%C3%ABns%2C_Camille)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5859" resp="#awilfing" cert="high">
+               <title type="main">Étienne Marcel</title>
+               <author ref="#hsl_person_id_1658">
+                  <persName>Saint-Saëns, Camille</persName>
+               </author>
+               <author ref="#hsl_person_id_1999">
+                  <persName>Gallet, Louis</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/110055081X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/%C3%89tienne_Marcel_(Saint-Sa%C3%ABns%2C_Camille)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5860" resp="#awilfing" cert="high">
+               <title type="main">Le paradis perdu</title>
+               <title type="alternative">Das verlorene Paradies</title>
+               <author ref="#hsl_person_id_1754">
+                  <persName>Dubois, Théodore</persName>
+               </author>
+               <author ref="#hsl_person_id_2019">
+                  <persName>Blau, Edouard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_paradis_perdu_(Dubois%2C_Th%C3%A9odore)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5861" resp="#awilfing" cert="high">
+               <title type="main">Judith, op. 31</title>
+               <author ref="#hsl_person_id_8166">
+                  <persName>Lefebvre, Charles</persName>
+               </author>
+               <author ref="#hsl_person_id_8168">
+                  <persName>Collin, Paul</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Judith%2C_Op.31_(Lefebvre%2C_Charles)</idno>
             </bibl>
       </listBibl>
       </body>
