@@ -45467,6 +45467,8 @@
                <author ref="#hsl_person_id_5233">
                   <persName>Dercy, P.</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_8234">Calypso</name>
+               <idno type="URL" subtype="Digitalisat">https://cyfrowe.mnk.pl/dlibra/publication/26076/edition/25756/</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5003" resp="#awilfing" cert="high">
                <title type="main">Le nouveau seigneur de village</title>
@@ -49663,6 +49665,42 @@ philosophes du 18 siècle</title>
                   <persName>Guldener, Bernard</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300512384</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5928" resp="#awilfing" cert="high">
+               <title type="main">Nationalzeitung (Berlin)</title>
+               <title type="alternative">National-Zeitung</title>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4735095-7</idno>
+               <idno type="URL" subtype="Digitalisat">https://zefys.staatsbibliothek-berlin.de/list/title/zdb/24340492/</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5929" resp="#awilfing" cert="high">
+               <title type="main">Die Heimkehr</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3142">Buch der Lieder</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_116">
+                  <persName>Heine, Heinrich</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.deutschestextarchiv.de/book/view/heine_lieder_1827?p=244</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5930" resp="#awilfing" cert="high">
+               <title type="main">Der Tod und das Mädchen, D531</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_2099">
+                  <persName>Claudius, Matthias</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300142110</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Tod_und_das_M%C3%A4dchen,_D.531_(Schubert,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_5931" resp="#awilfing" cert="high">
+               <title type="main">Tarantelle für Klavier in h-Moll, op. 6</title>
+               <title type="alternative">Tarantella</title>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1226102573</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Tarantelle%2C_Op.6_(Rubinstein%2C_Anton)</idno>
             </bibl>
       </listBibl>
       </body>
