@@ -46664,17 +46664,6 @@
                <idno type="URI" subtype="GND">http://d-nb.info/gnd/300144970</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Gedichte,_Op.36_(Schumann,_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_5239" resp="#awilfing" cert="high">
-               <title type="main">Es muß was Wunderbares sein, S314</title>
-               <author ref="#hsl_person_id_164">
-                  <persName>Liszt, Franz</persName>
-               </author>
-               <author ref="#hsl_person_id_1369">
-                  <persName>Redwitz, Oskar von</persName>
-               </author>
-               <idno type="URI" subtype="GND">http://d-nb.info/gnd/300093330</idno>
-               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Es_muss_ein_Wunderbares_sein,_S.314_(Liszt,_Franz)</idno>
-            </bibl>
             <bibl xml:id="hsl_work_id_5240" resp="#awilfing" cert="high">
                <title type="main">Maienzeit</title>
                <author ref="#hsl_person_id_121">
@@ -49377,6 +49366,7 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_5891" resp="#awilfing" cert="high">
                <title type="main">New-Yorker Musikzeitung</title>
+               <title type="alternative">Newyorker Musik-Zeitung</title>
             </bibl>
             <bibl xml:id="hsl_work_id_5892" resp="#awilfing" cert="high">
                <title type="main">Mignons Lied, S275</title>
@@ -49409,6 +49399,7 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_5895" resp="#awilfing" cert="high">
                <title type="main">Es war ein König in Thule, S278</title>
+               <title type="alternative">Der König von Thule</title>
                <author ref="#hsl_person_id_100">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
@@ -49809,8 +49800,11 @@ philosophes du 18 siècle</title>
                   <persName>Fischer, Jacob</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_5943" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_5943" resp="#awilfing" cert="high">
+               <title type="main">Régi magyar zene gyöngyei</title>
+               <author ref="#hsl_person_id_8193">
+                  <persName>Fáÿ, István</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_5944" resp="#awilfing" cert="high">
                <title type="main">Volkslied</title>
