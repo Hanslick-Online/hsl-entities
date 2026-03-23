@@ -2042,6 +2042,7 @@
                <name type="character" ref="#hsl_person_id_1475">Donna Elvira</name>
                <name type="character" ref="#hsl_person_id_1476">Il Commendatore</name>
                <name type="character" ref="#hsl_person_id_1479">Masetto</name>
+               <name type="character" ref="#hsl_person_id_8330">Gerichtsdiener</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30010782X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Don_Giovanni,_K.527_(Mozart,_Wolfgang_Amadeus)</idno>
             </bibl>
@@ -3324,7 +3325,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_275" resp="#awilfing" cert="high">
                <title type="main">Parsifal, WWV111</title>
-               <title type="alternative">Parzifal</title>
+               <title type="alternative">Parcifal; Parzifal</title>
                <author ref="#hsl_person_id_319">
                   <persName>Wagner, Richard</persName>
                </author>
@@ -3975,6 +3976,7 @@
                <name type="character" ref="#hsl_person_id_4077">Dritte Dame</name>
                <name type="character" ref="#hsl_person_id_4080">Monostatos</name>
                <name type="character" ref="#hsl_person_id_5008">Erster Priester</name>
+               <name type="character" ref="#hsl_person_id_8327">Sprecher</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300112068</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Zauberfl%C3%B6te,_K.620_(Mozart,_Wolfgang_Amadeus)</idno>
             </bibl>
@@ -8473,6 +8475,7 @@
                <name type="character" ref="#hsl_person_id_3989">Idomeneo</name>
                <name type="character" ref="#hsl_person_id_8065">Idamante</name>
                <name type="character" ref="#hsl_person_id_8066">Gran Sacerdote di Nettuno</name>
+               <name type="character" ref="#hsl_person_id_8329">Elettra</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30010829X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Idomeneo,_K.366_(Mozart,_Wolfgang_Amadeus)</idno>
             </bibl>
@@ -9226,6 +9229,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_2969">Tito Vespasiano</name>
                <name type="character" ref="#hsl_person_id_5045">Sesto</name>
+               <name type="character" ref="#hsl_person_id_8328">Vitellia</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300107242</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_clemenza_di_Tito,_K.621_(Mozart,_Wolfgang_Amadeus)</idno>
             </bibl>
@@ -27434,6 +27438,7 @@
                <author ref="#hsl_person_id_4607">
                   <persName>Auerbach, Berthold</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_8332">Irma</name>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/aufderhheromani01auergoog/page/n7/mode/2up</idno>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/aufderhheromani00auergoog/page/n7/mode/2up</idno>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/bub_gb_0gQ8AQAAMAAJ/page/n5/mode/2up</idno>
@@ -50188,6 +50193,65 @@ philosophes du 18 siècle</title>
                   <persName>Chopin, Frédéric</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Chanson_boh%C3%A9mienne,_S.250/2_(Liszt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6016" resp="#awilfing" cert="high">
+               <title type="main">Quartett für 2 Violinen, Viola und Cello</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_8324">
+                  <persName>Dont, Jakob</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6017" resp="#awilfing" cert="high">
+               <title type="main">Gradus ad Parnassum, op. 52</title>
+               <author ref="#hsl_person_id_8324">
+                  <persName>Dont, Jakob</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gradus_ad_Parnassum%2C_Op.52_(Dont%2C_Jakob)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6018" resp="#awilfing" cert="high">
+               <title type="main">Mitridate, rè di Ponto, KV87</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+               <author ref="#hsl_person_id_8325">
+                  <persName>Cigna-Santi, Vittorio Amedeo</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300109717</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Mitridate,_r%C3%A8_di_Ponto,_K.87/74a_(Mozart,_Wolfgang_Amadeus)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6019" resp="#awilfing" cert="high">
+               <title type="main">Lucio Silla, KV135</title>
+               <title type="alternative">Lucio Sylla</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+               <author ref="#hsl_person_id_4207">
+                  <persName>De Gamerra, Giovanni</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300109296</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lucio_Silla,_K.135_(Mozart,_Wolfgang_Amadeus)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6020" resp="#awilfing" cert="high">
+               <title type="main">Dramaturgische Blätter nebst einem Anhange noch ungedruckter Aufsätze über das deutsche Theater und Berichten über die englische Bühne geschrieben auf einer Reise im Jahre 1817</title>
+               <author ref="#hsl_person_id_306">
+                  <persName>Tieck, Ludwig</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10574782</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10574783</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6021" resp="#awilfing" cert="high">
+               <title type="main">Salzburgs größter Sohn</title>
+               <author ref="#hsl_person_id_5847">
+                  <persName>Weilen, Joseph von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6022" resp="#awilfing" cert="high">
+               <title type="main">Edelweiß</title>
+               <author ref="#hsl_person_id_4607">
+                  <persName>Auerbach, Berthold</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_8333">Lenz</name>
+               <idno type="URL" subtype="Digitalisat">https://books.google.at/books?id=N8QFAAAAQAAJ</idno>
             </bibl>
       </listBibl>
       </body>
