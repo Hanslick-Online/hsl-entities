@@ -24597,11 +24597,11 @@
             <bibl xml:id="hsl_work_id_2615" resp="#awilfing" cert="high">
                <title type="main">Lodoiska</title>
                <title type="alternative">Lodoïska</title>
-               <author ref="#hsl_person_id_2529">
-                  <persName>Mayr, Johann Simon</persName>
-               </author>
                <author ref="#hsl_person_id_4208">
                   <persName>Gonella, Francesco</persName>
+               </author>
+               <author ref="#hsl_person_id_6491">
+                  <persName>Mayr, Johann Simon</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/301019991</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lodoiska_(Mayr%2C_Giovanni_Simone)</idno>
@@ -29971,7 +29971,7 @@
                <author ref="#hsl_person_id_239">
                   <persName>Roger, Gustave-Hippolyte</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://archive.org/details/lecarnetduntno00roge/page/n7/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k6536438x</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3211" resp="#awilfing" cert="high">
                <title type="main">Verdeutschungen</title>
@@ -50501,6 +50501,24 @@ philosophes du 18 siècle</title>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30014069X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/4_Impromptus,_D.899_(Schubert,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6053" resp="#awilfing" cert="high">
+               <title type="main">Souvenirs d'un chanteu</title>
+               <author ref="#hsl_person_id_3980">
+                  <persName>Duprez, Gilbrecht-Louis</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k9600767v</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6054" resp="#awilfing" cert="high">
+               <title type="main">L'amor coniugale</title>
+               <title type="alternative">L’amour conjugale</title>
+               <author ref="#hsl_person_id_2124">
+                  <persName>Rossi, Gaetano</persName>
+               </author>
+               <author ref="#hsl_person_id_6491">
+                  <persName>Mayr, Johann Simon</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/L%27amor_coniugale_(Mayr,_Giovanni_Simone)</idno>
             </bibl>
       </listBibl>
       </body>
