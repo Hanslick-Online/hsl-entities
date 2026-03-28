@@ -16542,9 +16542,17 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1702" resp="#awilfing" cert="high">
                <title type="main">Dom Juan ou le Festin de Pierre</title>
+               <title type="alternative">Don Juan, ou: Le festin de pierre; Steinernes Gastmal</title>
                <author ref="#hsl_person_id_864">
                   <persName>Molière</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_8422">Sganarelle</name>
+               <name type="character" ref="#hsl_person_id_8423">Dom Juan</name>
+               <name type="character" ref="#hsl_person_id_8425">Elvire</name>
+               <name type="character" ref="#hsl_person_id_8426">Charlotte</name>
+               <name type="character" ref="#hsl_person_id_8427">Mathurine</name>
+               <name type="character" ref="#hsl_person_id_8429">Dom Alonse</name>
+               <name type="character" ref="#hsl_person_id_8430">Dom Carlos</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099316-4</idno>
                <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Oeuvres_de_Moli%C3%A8re_Dom_Juan_ou_Le_festi/hz3uAAAAMAAJ</idno>
             </bibl>
@@ -50689,6 +50697,26 @@ philosophes du 18 siècle</title>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/115123625X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Fest-Ouverture%2C_Op.42_(Leutner%2C_Albert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6106" resp="#awilfing" cert="high">
+               <title type="main">Beethovens Zwischenacte zu Göthe's Egmont mit declamatorischer Begleitung</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_669">Allgemeine musikalische Zeitung</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_8431">
+                  <persName>Mosengeil, Friedrich</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/view/bsb10527971?page=218%2C219</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6107" resp="#awilfing" cert="high">
+               <title type="main">Beethovens Musik zu Göthe's Trauerspiel Egmont durch Declamation verbunden. Die Dichtung von Mosengeil ergänzt und für diese Aufführung eingerichtet</title>
+               <author ref="#hsl_person_id_721">
+                  <persName>Grillparzer, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_8431">
+                  <persName>Mosengeil, Friedrich</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">http://www.zeno.org/Literatur/M/Grillparzer,+Franz/Gedichte/Gedichte/Beethovens+Musik+zu+Goethes+Trauerspiel+Egmont</idno>
             </bibl>
       </listBibl>
       </body>
