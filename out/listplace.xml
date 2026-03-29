@@ -5276,7 +5276,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1602062</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4499114-9</idno>
                </place>
-               <place xml:id="hsl_place_id_420" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_420" resp="#awilfing" cert="high">
                   <settlement type="T">
                      <placeName type="main">Kahlenberg</placeName>
                   </settlement>
@@ -8470,6 +8470,7 @@
                </place>
                <place xml:id="hsl_place_id_703" resp="#awilfing" cert="high">
                   <placeName type="main">Schönbrunner Schloßgarten, Wien</placeName>
+                     <placeName type="alternative">Schönbrunner Park</placeName>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q21167264</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1068900687</idno>
                </place>
@@ -10630,6 +10631,51 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3063907/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q320950</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1038329-3</idno>
+               </place>
+               <place xml:id="hsl_place_id_1230" resp="#awilfing" cert="high">
+                  <placeName type="main">Aš</placeName>
+                     <placeName type="alternative">Asch</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3079751/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q583910</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4003190-1</idno>
+               </place>
+               <place xml:id="hsl_place_id_1231" resp="#awilfing" cert="high">
+                  <placeName type="main">Bruntál</placeName>
+                     <placeName type="alternative">Freudenthal</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3078545/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q994280</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/5023028-1</idno>
+               </place>
+               <place xml:id="hsl_place_id_1232" resp="#awilfing" cert="high">
+                  <placeName type="main">Jihlava</placeName>
+                     <placeName type="alternative">Iglau</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3074199/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q183111</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4026515-8</idno>
+               </place>
+               <place xml:id="hsl_place_id_1233" resp="#awilfing" cert="high">
+                  <placeName type="main">Varnsdorf</placeName>
+                     <placeName type="alternative">Warnsdorf</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3063375/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q158275</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4220547-5</idno>
+               </place>
+               <place xml:id="hsl_place_id_1234" resp="#awilfing" cert="high">
+                  <placeName type="main">Freyung, Wien</placeName>
+                     <placeName type="alternative">Freiung</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/10346419/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q457381</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4079272-9</idno>
+               </place>
+               <place xml:id="hsl_place_id_1235" resp="#awilfing" cert="high">
+                  <placeName type="main">Kahlengebirge</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1721185</idno>
+               </place>
+               <place xml:id="hsl_place_id_1237" resp="#awilfing" cert="high">
+                  <placeName type="main">Merkenstein</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/7288440/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q873087</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4812565-9</idno>
                </place>
             </listPlace>
          </div>
