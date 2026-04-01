@@ -5211,6 +5211,7 @@
                   <persName>Wolff, Pius Alexander</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1961">Preciosa</name>
+               <name type="character" ref="#hsl_person_id_8500">Pedro</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4838708-3</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Preciosa,_Op.78_(Weber,_Carl_Maria_von)</idno>
             </bibl>
@@ -9608,7 +9609,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_977" resp="#awilfing" cert="high">
                <title type="main">Don César de Bazan</title>
-               <title type="alternative">Don Cäsar von Bazan</title>
+               <title type="alternative">Don Cäsar von Bazan; Don Cesar de Bazan</title>
                <author ref="#hsl_person_id_1302">
                   <persName>Massenet, Jules</persName>
                </author>
@@ -9623,7 +9624,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_3313">Don César</name>
                <name type="character" ref="#hsl_person_id_6832">Don José de Santarem</name>
-               <name type="character" ref="#hsl_person_id_6840">Charles II. Roi d'Espagne</name>
+               <name type="character" ref="#hsl_person_id_6840">Charles II, roi d'Espagne</name>
                <name type="character" ref="#hsl_person_id_6841">Maritana</name>
                <name type="character" ref="#hsl_person_id_6842">Lazarille</name>
                <name type="character" ref="#hsl_person_id_6843">Capitaine des Gardes</name>
@@ -12646,7 +12647,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1276" resp="#awilfing" cert="high">
                <title type="main">La gitanilla</title>
-               <title type="alternative">Gitana</title>
+               <title type="alternative">La Gitana</title>
                <author ref="#hsl_person_id_1950">
                   <persName>Cervantes Saavedra, Miguel de</persName>
                </author>
@@ -33384,7 +33385,7 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300939094</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Adelson_e_Salvini_(Bellini%2C_Vincenzo)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_3606" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_3606" resp="#awilfing" cert="high">
                <title type="main">Bianca e Fernando</title>
                <author ref="#hsl_person_id_26">
                   <persName>Bellini, Vincenzo</persName>
@@ -41040,6 +41041,9 @@
                <author ref="#hsl_person_id_918">
                   <persName>Kleist, Heinrich von</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_8503">Penthesilea</name>
+               <name type="character" ref="#hsl_person_id_8505">Achilles</name>
+               <name type="character" ref="#hsl_person_id_8506">Diomedes</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099271-8</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10861936</idno>
             </bibl>
@@ -51177,6 +51181,49 @@ philosophes du 18 siècle</title>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1205626158</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Bergsturz_(Weigl%2C_Joseph)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6156" resp="#awilfing" cert="high">
+               <title type="main">Bianca</title>
+               <author ref="#hsl_person_id_1085">
+                  <persName>Brüll, Ignaz</persName>
+               </author>
+               <author ref="#hsl_person_id_8507">
+                  <persName>Schirmer, Adolf</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_8508">Bianca</name>
+               <name type="character" ref="#hsl_person_id_8509">Ardori</name>
+               <name type="character" ref="#hsl_person_id_8510">Pietro Bottone</name>
+               <name type="character" ref="#hsl_person_id_8511">Claudia Bottone</name>
+               <name type="character" ref="#hsl_person_id_8512">Roland de Volage</name>
+               <name type="character" ref="#hsl_person_id_8513">Fanfaron</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6157" resp="#awilfing" cert="high">
+               <title type="main">Preciosa</title>
+               <author ref="#hsl_person_id_2311">
+                  <persName>Wolff, Pius Alexander</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://books.google.at/books/about/Preciosa.html?id=_YszzitsfiUC</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6158" resp="#awilfing" cert="high">
+               <title type="main">Supplément et complément</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4509">Biographie universelle des musiciens et bibliographie générale de la musique</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1761">
+                  <persName>Pougin, Arthur</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k697260</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6159" resp="#awilfing" cert="high">
+               <title type="main">A Dictionary of Music and Musicians</title>
+               <author ref="#hsl_person_id_2386">
+                  <persName>Grove, George</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1137291168</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/dictionaryofmusi01grovuoft/page/n3/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/dictionaryofmusi02grovuoft/page/n5/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/dictionaryofmusi03grovuoft/page/n5/mode/2up</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/dictionaryofmusi04grovuoft/page/n5/mode/2up</idno>
             </bibl>
       </listBibl>
       </body>
