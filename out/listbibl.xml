@@ -50323,7 +50323,7 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_6025" resp="#awilfing" cert="high">
                <title type="main">Musikalisches Taschenbuch auf das Jahr 1803</title>
-               <idno type="URI" subtype="GND">https://www.digitale-sammlungen.de/de/details/bsb10599590</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10599590</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_6026" resp="#awilfing" cert="high">
                <title type="main">Phantasie für Flöte</title>
@@ -50370,6 +50370,9 @@ philosophes du 18 siècle</title>
             <bibl xml:id="hsl_work_id_6031" resp="#awilfing" cert="high">
                <title type="main">Serenade für Orchester Nr. 9 in D-Dur, KV320</title>
                <title type="alternative">Symphonie</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300110758</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Serenade_in_D_major,_K.320_(Mozart,_Wolfgang_Amadeus)</idno>
             </bibl>
@@ -51499,6 +51502,17 @@ philosophes du 18 siècle</title>
                   <persName>Dubreuil, Alphonse Ducongé</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Paul_et_Virginie_(Le_Sueur%2C_Jean-Fran%C3%A7ois)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6221" resp="#awilfing" cert="high">
+               <title type="main">Abendreih’n, WoO40</title>
+               <author ref="#hsl_person_id_234">
+                  <persName>Reinecke, Carl</persName>
+               </author>
+               <author ref="#hsl_person_id_1387">
+                  <persName>Müller, Wilhelm</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1329473027</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/2_Lieder_(Reinecke%2C_Carl)</idno>
             </bibl>
       </listBibl>
       </body>
