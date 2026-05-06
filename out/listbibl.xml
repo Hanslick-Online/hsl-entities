@@ -939,6 +939,7 @@
                <name type="character" ref="#hsl_person_id_4681">Roshana</name>
                <name type="character" ref="#hsl_person_id_4682">Babekan</name>
                <name type="character" ref="#hsl_person_id_4683">Almanzor</name>
+               <name type="character" ref="#hsl_person_id_8655">Karl der Große</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300171765</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Oberon,_J.306_(Weber,_Carl_Maria_von)</idno>
             </bibl>
@@ -2640,7 +2641,6 @@
                   <persName>Geibel, Emanuel</persName>
                </author>
                <name type="character" ref="#hsl_person_id_2364">Leonore</name>
-               <name type="character" ref="#hsl_person_id_5730">Loreley</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300102216</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Loreley,_Op.98_(Mendelssohn,_Felix)</idno>
             </bibl>
@@ -3567,6 +3567,11 @@
                <author ref="#hsl_person_id_714">
                   <persName>Geibel, Emanuel</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_8645">Leonore</name>
+               <name type="character" ref="#hsl_person_id_8646">Hubert</name>
+               <name type="character" ref="#hsl_person_id_8647">Otto</name>
+               <name type="character" ref="#hsl_person_id_8648">Bertha</name>
+               <name type="character" ref="#hsl_person_id_8649">Erzbischof von Mainz</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1191720136</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb10125972</idno>
             </bibl>
@@ -4082,6 +4087,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_691">King Lear</name>
                <name type="character" ref="#hsl_person_id_5218">Earl of Gloucester</name>
+               <name type="character" ref="#hsl_person_id_8652">Cordelia</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099357-7</idno>
                <idno type="URL" subtype="Digitalisat">https://www.folger.edu/explore/shakespeares-works/king-lear/read/</idno>
             </bibl>
@@ -32274,6 +32280,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3450" resp="#awilfing" cert="high">
                <title type="main">Le Bal für Klavier, op. 14</title>
+               <title type="alternative">Der Ball</title>
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
@@ -36206,7 +36213,7 @@
                <title type="main">Sposalizio</title>
                <title type="alternative">Il sposalizio; nach Rafael</title>
                <noteGrp type="Werkbezug">
-                  <note type="Werkbezug" target="hsl_work_id_3935">Années de pèlerinage. Deuxième Année</note>
+                  <note type="Werkbezug" target="hsl_work_id_3935">Années de pèlerinage. Deuxième Année (Italie), S161</note>
                </noteGrp>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
@@ -36233,7 +36240,7 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_3935" resp="#awilfing" cert="high">
-               <title type="main">Années de pèlerinage. Deuxième Année</title>
+               <title type="main">Années de pèlerinage. Deuxième Année (Italie), S161</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -49002,7 +49009,7 @@ philosophes du 18 siècle</title>
                <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1871.10.31.html</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5776" resp="#awilfing" cert="high">
-               <title type="main">Concerte.</title>
+               <title type="main">Concerte</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
                </noteGrp>
@@ -49012,7 +49019,7 @@ philosophes du 18 siècle</title>
                <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1865.01.31.html</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5777" resp="#awilfing" cert="high">
-               <title type="main">Richard Wagnerʼs „Meistersinger von Nürnberg“.</title>
+               <title type="main">Richard Wagnerʼs „Meistersinger von Nürnberg“</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
                </noteGrp>
@@ -49022,7 +49029,7 @@ philosophes du 18 siècle</title>
                <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1868.06.24.html; https://hanslick.acdh.oeaw.ac.at/c__1868.06.25.html; https://hanslick.acdh.oeaw.ac.at/c__1868.06.26.html</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5778" resp="#awilfing" cert="high">
-               <title type="main">„Das Rheingold“ von Richard Wagner.</title>
+               <title type="main">„Das Rheingold“ von Richard Wagner</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
                </noteGrp>
@@ -49042,7 +49049,7 @@ philosophes du 18 siècle</title>
                <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1875.05.14.html</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5780" resp="#awilfing" cert="high">
-               <title type="main">Oesterreichische Monarchen als Tondichter.</title>
+               <title type="main">Oesterreichische Monarchen als Tondichter</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
                </noteGrp>
@@ -49052,7 +49059,7 @@ philosophes du 18 siècle</title>
                <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1892.04.17.html</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5781" resp="#awilfing" cert="high">
-               <title type="main">Zum Strauß-Jubliäum.</title>
+               <title type="main">Zum Strauß-Jubliäum</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
                </noteGrp>
@@ -51785,6 +51792,367 @@ philosophes du 18 siècle</title>
                   <persName>Laube, Heinrich</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/bub_gb_zCUQAAAAYAAJ/page/n3/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6277" resp="#awilfing" cert="high">
+               <title type="main">Beethoven's Werke für Pianoforte solo von op. 53 an in kritischer und instructiver Ausgabe mit erläuternden Bemerkungen für Lehrende und Lernende</title>
+               <author ref="#hsl_person_id_25">
+                  <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://digitale-sammlungen.de/en/details/bsb11895271</idno>
+               <idno type="URL" subtype="Digitalisat">https://digitale-sammlungen.de/en/details/bsb11463174</idno>
+               <idno type="URL" subtype="Digitalisat">https://digitale-sammlungen.de/en/details/bsb11463175</idno>
+               <idno type="URL" subtype="Digitalisat">https://digitale-sammlungen.de/en/details/bsb11363586 ,https://digitale-sammlungen.de/en/details/bsb11310590</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6278" resp="#awilfing" cert="high">
+               <title type="main">Etüde für Klavier in cis-Moll, op. 10 Nr. 4</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3470">12 Études für Klavier, op. 10</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_48">
+                  <persName>Chopin, Frédéric</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300605528</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/%C3%89tudes%2C_Op.10_(Chopin%2C_Fr%C3%A9d%C3%A9ric)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6279" resp="#awilfing" cert="high">
+               <title type="main">Etüde für Klavier in cis-Moll, op. 25 Nr. 7</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3420">12 Études für Klavier, op. 25</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_48">
+                  <persName>Chopin, Frédéric</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300036957</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/%C3%89tudes%2C_Op.25_(Chopin%2C_Fr%C3%A9d%C3%A9ric)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6280" resp="#awilfing" cert="high">
+               <title type="main">Když mne stará matka, B104 Nr. 4</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6284">Cigánské melodie, B104</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+               <author ref="#hsl_person_id_8651">
+                  <persName>Heyduk, Adolf</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30004724X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gypsy_Songs,_Op.55_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6281" resp="#awilfing" cert="high">
+               <title type="main">Années de pèlerinage. Première année (Suisse), S160</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300092709</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ann%C3%A9es_de_p%C3%A8lerinage_I%2C_S.160_(Liszt%2C_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6282" resp="#awilfing" cert="high">
+               <title type="main">Années de pèlerinage. Troisiéme Année, S163</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300092776</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ann%C3%A9es_de_p%C3%A8lerinage_III%2C_S.163_(Liszt%)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6283" resp="#awilfing" cert="high">
+               <title type="main">Má píseň zas mi láskou zní, B104 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6284">Cigánské melodie, B104</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+               <author ref="#hsl_person_id_8651">
+                  <persName>Heyduk, Adolf</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1218555041</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gypsy_Songs,_Op.55_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6284" resp="#awilfing" cert="high">
+               <title type="main">Cigánské melodie, B104</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+               <author ref="#hsl_person_id_8651">
+                  <persName>Heyduk, Adolf</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gypsy_Songs,_Op.55_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6285" resp="#awilfing" cert="high">
+               <title type="main">Grandes Etudes für Klavier, S137</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300466803</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Grandes_%C3%A9tudes%2C_S.137_(Liszt%2C_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6286" resp="#awilfing" cert="high">
+               <title type="main">Au lac de Wallenstadt, S160 Nr. 2</title>
+               <title type="alternative">Etüde am Wallenstädter See</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6281">Années de pèlerinage. Première année (Suisse), S160</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300228759</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ann%C3%A9es_de_p%C3%A8lerinage_I%2C_S.160_(Liszt%2C_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6287" resp="#awilfing" cert="high">
+               <title type="main">Wandrers Nachtlied</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4451929-1</idno>
+               <idno type="URL" subtype="Digitalisat">https://de.wikisource.org/wiki/Ein_Gleiches</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6288" resp="#awilfing" cert="high">
+               <title type="main">Les cloches de Genève, S160 Nr. 9</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6281">Années de pèlerinage. Première année (Suisse), S160</note>
+               </noteGrp>
+               <idno type="URI" subtype="GND">https://imslp.org/wiki/Ann%C3%A9es_de_p%C3%A8lerinage_I%2C_S.160_(Liszt%2C_Franz)</idno>
+               <idno type="URL" subtype="Digitalisat">https://d-nb.info/gnd/300841248</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6289" resp="#awilfing" cert="high">
+               <title type="main">Au bord d’une source, S160 Nr. 4</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6281">Années de pèlerinage. Première année (Suisse), S160</note>
+               </noteGrp>
+               <idno type="URI" subtype="GND">https://imslp.org/wiki/Ann%C3%A9es_de_p%C3%A8lerinage_I%2C_S.160_(Liszt%2C_Franz)</idno>
+               <idno type="URL" subtype="Digitalisat">https://d-nb.info/gnd/300092717</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6290" resp="#awilfing" cert="high">
+               <title type="main">2 Konzertetüden für Klavier, S145</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300093497</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/2_Konzertet%C3%BCden,_S.145_(Liszt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6291" resp="#awilfing" cert="high">
+               <title type="main">Gnomenreigen, S145 Nr. 2</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6290">2 Konzertetüden für Klavier, S145</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300353642</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/2_Konzertet%C3%BCden,_S.145_(Liszt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6292" resp="#awilfing" cert="high">
+               <title type="main">Waldesrauschen, S145 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6290">2 Konzertetüden für Klavier, S145</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300279507</idno>
+               <idno type="URL" subtype="Digitalisat">imslp.org/wiki/2_Konzertetüden,_S.145_(Liszt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6293" resp="#awilfing" cert="high">
+               <title type="main">Ballade nach Uhlands Dichtung "Des Sängers Fluch", op. 16</title>
+               <author ref="#hsl_person_id_44">
+                  <persName>Bülow, Hans von</persName>
+               </author>
+               <author ref="#hsl_person_id_310">
+                  <persName>Uhland, Ludwig</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300646208</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ballade%2C_Op.16_(B%C3%BClow%2C_Hans_von)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6294" resp="#awilfing" cert="high">
+               <title type="main">Le cadi dupé</title>
+               <author ref="#hsl_person_id_187">
+                  <persName>Monsigny, Pierre-Alexandre</persName>
+               </author>
+               <author ref="#hsl_person_id_5521">
+                  <persName>Lemonnier, Pierre-René</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_cadi_dup%C3%A9_(Monsigny%2C_Pierre-Alexandre)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6295" resp="#awilfing" cert="high">
+               <title type="main">Jenny Lind. I</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1891.05.26.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6296" resp="#awilfing" cert="high">
+               <title type="main">Jenny Lind. II</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1891.05.27.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6297" resp="#awilfing" cert="high">
+               <title type="main">Vom Théâtre Français. I. Regnier und Talma</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1892.07.17.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6298" resp="#awilfing" cert="high">
+               <title type="main">Aus Briefen von Billroth. I</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1894.05.13.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6299" resp="#awilfing" cert="high">
+               <title type="main">Aus Briefen von Billroth. II</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1894.05.24.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6300" resp="#awilfing" cert="high">
+               <title type="main">Aus Briefen von Billroth. III</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1894.05.29.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6301" resp="#awilfing" cert="high">
+               <title type="main">Aus Briefen von Billroth. IV</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1894.05.30.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6302" resp="#awilfing" cert="high">
+               <title type="main">Aus Briefen von Billroth. V</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1894.05.29.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6303" resp="#awilfing" cert="high">
+               <title type="main">Zur Biographie Franz Liszt’s</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1895.12.28.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6304" resp="#awilfing" cert="high">
+               <title type="main">Billroth in seinen Briefen. I</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1896.05.24.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6305" resp="#awilfing" cert="high">
+               <title type="main">Billroth in seinen Briefen. II</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1896.06.16.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6306" resp="#awilfing" cert="high">
+               <title type="main">Billroth in seinen Briefen. III</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1896.07.02.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6307" resp="#awilfing" cert="high">
+               <title type="main">Aus Robert Schumann’s letzten Tagen. Mit ungedruckten Briefen von ihm. I</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1896.10.27.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6308" resp="#awilfing" cert="high">
+               <title type="main">Johannes Brahms. (Erinnerungen und Briefe.) I</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1897.06.27.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6309" resp="#awilfing" cert="high">
+               <title type="main">Johannes Brahms. (Erinnerungen und Briefe.) II</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1897.06.29.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6310" resp="#awilfing" cert="high">
+               <title type="main">Johannes Brahms. (Erinnerungen und Briefe.) III</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1897.07.01.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6311" resp="#awilfing" cert="high">
+               <title type="main">Zur Donizetti-Feier in Bergamo. I</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1897.09.08.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6312" resp="#awilfing" cert="high">
+               <title type="main">Neue Bücher über Musik. (I. Kalbeck. Tschaikowsky.)</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1899.06.28.html</idno>
             </bibl>
       </listBibl>
       </body>
