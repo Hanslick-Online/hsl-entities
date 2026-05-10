@@ -1491,6 +1491,9 @@
                   <persName>Jouy, Étienne de</persName>
                </author>
                <name type="character" ref="#hsl_person_id_4908">Julia</name>
+               <name type="character" ref="#hsl_person_id_8703">Licinius</name>
+               <name type="character" ref="#hsl_person_id_8705">Cinna</name>
+               <name type="character" ref="#hsl_person_id_8706">Grande Vestale</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300331339</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_vestale_(Spontini%2C_Gaspare)</idno>
             </bibl>
@@ -1706,6 +1709,8 @@
                </author>
                <name type="character" ref="#hsl_person_id_1812">Lionel</name>
                <name type="character" ref="#hsl_person_id_8358">George</name>
+               <name type="character" ref="#hsl_person_id_8700">Darbel</name>
+               <name type="character" ref="#hsl_person_id_8701">Henriette</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30026304X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/L'%C3%A9clair_(Hal%C3%A9vy%2C_Fromental)</idno>
             </bibl>
@@ -6624,7 +6629,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_junge_Nonne,_D.828_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_663" resp="#awilfing" cert="high">
-               <title type="main">Mazurka</title>
+               <title type="main">Mazurka für Klavier</title>
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_48">
                   <persName>Chopin, Frédéric</persName>
@@ -52385,6 +52390,52 @@ philosophes du 18 siècle</title>
                   <persName>Chouquet, Gustave</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://cnum.cnam.fr/pgi/redir.php?ident=8XAE277-1.7</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6340" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Cello und Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_2848">
+                  <persName>Romberg, Bernhard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6341" resp="#awilfing" cert="high">
+               <title type="main">Die Waise</title>
+               <author ref="#hsl_person_id_5666">
+                  <persName>Sulzer, Julius</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6342" resp="#awilfing" cert="high">
+               <title type="main">Prolog</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_1065">
+                  <persName>Kalbeck, Max</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6343" resp="#awilfing" cert="high">
+               <title type="main">Bravour-Variationen über ein Thema von Mozart</title>
+               <title type="alternative">Variationen über ein Mozart'sches Thema</title>
+               <author ref="#hsl_person_id_12">
+                  <persName>Adam, Adolphe</persName>
+               </author>
+               <author ref="#hsl_person_id_8698">
+                  <persName>Schmidt, Gustav</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Bravour-Variationen_%C3%BCber_ein_Thema_von_Mozart_(Adam%2C_Adolphe)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6344" resp="#awilfing" cert="high">
+               <title type="main">Le fidèle berger</title>
+               <title type="alternative">Der treue Schäfer</title>
+               <author ref="#hsl_person_id_12">
+                  <persName>Adam, Adolphe</persName>
+               </author>
+               <author ref="#hsl_person_id_284">
+                  <persName>Scribe, Eugène</persName>
+               </author>
+               <author ref="#hsl_person_id_1809">
+                  <persName>Saint-Georges, Henri de</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4849587-6</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_fid%C3%A8le_berger_(Adam,_Adolphe)</idno>
             </bibl>
       </listBibl>
       </body>
