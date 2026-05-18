@@ -1494,6 +1494,7 @@
                <name type="character" ref="#hsl_person_id_8703">Licinius</name>
                <name type="character" ref="#hsl_person_id_8705">Cinna</name>
                <name type="character" ref="#hsl_person_id_8706">Grand Pontife</name>
+               <name type="character" ref="#hsl_person_id_8740">Grand Vestale</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300331339</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_vestale_(Spontini%2C_Gaspare)</idno>
             </bibl>
@@ -50734,7 +50735,7 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_6100" resp="#awilfing" cert="high">
                <title type="main">Die Glocken des Strassburger Münsters, S6</title>
-               <title type="alternative">Die Glocken des Straßburger Münsters; Die Glocken vom Straßburger Münster</title>
+               <title type="alternative">Die Glocken des Straßburger Münsters; Die Glocken vom Straßburger Münster; Straßburger Glocken</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -52443,6 +52444,46 @@ philosophes du 18 siècle</title>
                   <persName>Dubois-Fontanelle, Joseph Gaspard</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bd6t54202214m</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6378" resp="#awilfing" cert="high">
+               <title type="main">Die Brandenburgischen Konzerte, BWV1046-1051</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300005350</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Brandenburg_Concertos,_BWV_1046-51_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6379" resp="#awilfing" cert="high">
+               <title type="main">Brandenburgisches Konzert Nr. 1 in F-Dur, BWV1046</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300005369</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Brandenburg_Concerto_No.1_in_F_major,_BWV_1046_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6380" resp="#awilfing" cert="high">
+               <title type="main">Brandenburgisches Konzert Nr. 6 in B-Dur, BWV1051</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300005423</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Brandenburg_Concerto_No.6_in_B-flat_major,_BWV_1051_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6381" resp="#awilfing" cert="high">
+               <title type="main">Quartett für Violine, Viola, Cello und Klavier in D-Dur, op. 17</title>
+               <author ref="#hsl_person_id_6172">
+                  <persName>Winding, August</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/131504689X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Quartet%2C_Op.17_(Winding%2C_August)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6382" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Violine und Orchester in a-Moll, op. 41</title>
+               <author ref="#hsl_person_id_1085">
+                  <persName>Brüll, Ignaz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1252296398</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Concerto%2C_Op.41_(Br%C3%BCll%2C_Ignaz)</idno>
             </bibl>
       </listBibl>
       </body>
