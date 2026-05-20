@@ -4175,12 +4175,13 @@
             </bibl>
             <bibl xml:id="hsl_work_id_369" resp="#awilfing" cert="high">
                <title type="main">La Divina Commedia</title>
-               <title type="alternative">Divina Comedia; Göttliche Komödie</title>
+               <title type="alternative">Divina Comedia; Göttliche Comödie; Göttliche Komödie</title>
                <author ref="#hsl_person_id_419">
                   <persName>Dante, Alighieri</persName>
                </author>
                <name type="character" ref="#hsl_person_id_1274">Francesca da Rimini</name>
                <name type="character" ref="#hsl_person_id_1279">Paolo Malatesta</name>
+               <name type="character" ref="#hsl_person_id_8754">Beatrice Portinari</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4113270-1</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10755334</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10755335</idno>
@@ -5378,6 +5379,9 @@
                <name type="character" ref="#hsl_person_id_889">Hermann Geßler</name>
                <name type="character" ref="#hsl_person_id_3454">Rudolf von Harras</name>
                <name type="character" ref="#hsl_person_id_4640">Wilhelm Tell</name>
+               <name type="character" ref="#hsl_person_id_8756">Werner Stauffacher</name>
+               <name type="character" ref="#hsl_person_id_8757">Ulrich von Rudenz</name>
+               <name type="character" ref="#hsl_person_id_8758">Arnold von Melchthal</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099341-3</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10713760</idno>
             </bibl>
@@ -12626,7 +12630,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1271" resp="#awilfing" cert="high">
                <title type="main">Des Bohémiens et de leur musique en Hongrie</title>
-               <title type="alternative">Les Bohémiens</title>
+               <title type="alternative">Les Bohémiens et leur musique</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
@@ -46618,12 +46622,15 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Danses_brillantes%2C_Op.24_(Bargiel%2C_Woldemar)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5222" resp="#awilfing" cert="high">
-               <title type="main">F. Chopin</title>
+               <title type="main">Friedrich Chopin</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6179">Gesammelte Schriften</note>
+               </noteGrp>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">http://d-nb.info/gnd/7741444-5</idno>
-               <idno type="URL" subtype="Digitalisat">https://hdl.handle.net/2027/hvd.ml19aj</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/friedrichchopin00lisz</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5223" resp="#awilfing" cert="high">
                <title type="main">Variationen über "Là ci darem la mano" für Klavier und Orchester, op. 2</title>
@@ -51472,16 +51479,6 @@ philosophes du 18 siècle</title>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/LisztGesammelteSchriftenB5</idno>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/LisztGesammelteSchriftenB6</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_6180" resp="#awilfing" cert="high">
-               <title type="main">Friedrich Chopin</title>
-               <noteGrp type="Werkbezug">
-                  <note type="Werkbezug" target="hsl_work_id_6179">Gesammelte Schriften</note>
-               </noteGrp>
-               <author ref="#hsl_person_id_164">
-                  <persName>Liszt, Franz</persName>
-               </author>
-               <idno type="URL" subtype="Digitalisat">https://archive.org/details/friedrichchopin00lisz</idno>
-            </bibl>
             <bibl xml:id="hsl_work_id_6181" resp="#awilfing" cert="high">
                <title type="main">Zur Stellung der Künstler. Sechs Artikel</title>
                <title type="alternative">Die Stellung des Künstlers</title>
@@ -52484,6 +52481,103 @@ philosophes du 18 siècle</title>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1252296398</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Concerto%2C_Op.41_(Br%C3%BCll%2C_Ignaz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6383" resp="#awilfing" cert="high">
+               <title type="main">Etüde für Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_1085">
+                  <persName>Brüll, Ignaz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6384" resp="#awilfing" cert="high">
+               <title type="main">Idylle für Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_1085">
+                  <persName>Brüll, Ignaz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6385" resp="#awilfing" cert="high">
+               <title type="main">Die Zigeuner und ihre Musik in Ungarn</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6179">Gesammelte Schriften</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/LisztGesammelteSchriftenB6</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6386" resp="#awilfing" cert="high">
+               <title type="main">Pester Lloyd</title>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4451114-0</idno>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=pel</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6387" resp="#awilfing" cert="high">
+               <title type="main">Franz Liszt über die Juden</title>
+               <author ref="#hsl_person_id_8748">
+                  <persName>Schütz, Max</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6388" resp="#awilfing" cert="high">
+               <title type="main">Am Springbrunnen, op. 20 Nr. 2</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6389">4 Stücke für Cello und Klavier, op. 20</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_4729">
+                  <persName>Davydov, Karl Jul'evič</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1105772357</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/4_Pieces,_Op.20_(Davydov,_Karl)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6389" resp="#awilfing" cert="high">
+               <title type="main">4 Stücke für Cello und Klavier, op. 20</title>
+               <author ref="#hsl_person_id_4729">
+                  <persName>Davydov, Karl Jul'evič</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300794339</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/4_Pieces,_Op.20_(Davydov,_Karl)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6390" resp="#awilfing" cert="high">
+               <title type="main">Serbisches Liederspiel, op. 32</title>
+               <author ref="#hsl_person_id_3325">
+                  <persName>Henschel, George</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1183015879</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Serbisches_Liederspiel%2C_Op.32_(Henschel%2C_George)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6391" resp="#awilfing" cert="high">
+               <title type="main">Jemand, op. 25 Nr. 4</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_2595">Myrthen, op. 25</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <author ref="#hsl_person_id_5125">
+                  <persName>Gerhard, Wilhelm</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1051649927</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Myrthen,_Op.25_(Schumann,_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6392" resp="#awilfing" cert="high">
+               <title type="main">An Goethe</title>
+               <author ref="#hsl_person_id_1253">
+                  <persName>Herder, Johann Gottfried von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">http://www.zeno.org/Literatur/M/Herder,+Johann+Gottfried/Gedichte/Gedichte/F%C3%BCnftes+Buch/An+Goethe</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6393" resp="#awilfing" cert="high">
+               <title type="main">Einleitung zu Liszt's Dante-Symphonie</title>
+               <author ref="#hsl_person_id_1027">
+                  <persName>Pohl, Richard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Dante_Symphony_%28Liszt%2C_Franz%29</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6394" resp="#awilfing" cert="high">
+               <title type="main">Sprechen und Singen</title>
+               <author ref="#hsl_person_id_4108">
+                  <persName>Stoerk, Carl</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Sprechen_und_Singen/okQTAAAAYAAJ</idno>
             </bibl>
       </listBibl>
       </body>
