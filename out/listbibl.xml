@@ -10380,6 +10380,7 @@
                <name type="character" ref="#hsl_person_id_8566">Marchese Sebastiano</name>
                <name type="character" ref="#hsl_person_id_8567">Balthasar Groot</name>
                <name type="character" ref="#hsl_person_id_8568">Else Groot</name>
+               <name type="character" ref="#hsl_person_id_8881">Artemisia</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4592323-1</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_lustige_Krieg_(Strauss_Jr.%2C_Johann)</idno>
             </bibl>
@@ -52990,6 +52991,93 @@ philosophes du 18 siècle</title>
                <author ref="#hsl_person_id_979">
                   <persName>Jahn, Wilhelm</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6473" resp="#awilfing" cert="high">
+               <title type="main">Chöre zu Herders Entfesseltem Prometheus, S69</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_1027">
+                  <persName>Pohl, Richard</persName>
+               </author>
+               <author ref="#hsl_person_id_1253">
+                  <persName>Herder, Johann Gottfried von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4700911-1</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ch%C3%B6re_zu_Herders_Entfesseltem_Prometheus,_S.69_(Liszt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6474" resp="#awilfing" cert="high">
+               <title type="main">Der entfesselte Prometheus</title>
+               <author ref="#hsl_person_id_1253">
+                  <persName>Herder, Johann Gottfried von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1338195271</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/herderssmmtlich03steigoog/page/329/mode/1up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6475" resp="#awilfing" cert="high">
+               <title type="main">Apajune der Wassermann</title>
+               <author ref="#hsl_person_id_353">
+                  <persName>Walzel, Camillo</persName>
+               </author>
+               <author ref="#hsl_person_id_2020">
+                  <persName>Genée, Richard</persName>
+               </author>
+               <author ref="#hsl_person_id_8885">
+                  <persName>Millöcker, Carl</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_8886">Alamir Prutschesko</name>
+               <name type="character" ref="#hsl_person_id_8887">Natalitza</name>
+               <name type="character" ref="#hsl_person_id_8888">Marcu</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1127654756</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Apajune,_der_Wassermann_(Mill%C3%B6cker,_Carl)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6476" resp="#awilfing" cert="high">
+               <title type="main">Maiglöckchen</title>
+               <author ref="#hsl_person_id_3517">
+                  <persName>Gericke, Wilhelm</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6477" resp="#awilfing" cert="high">
+               <title type="main">Nacht und Träume, D827 (Bearbeitung)</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_3459">
+                  <persName>Collin, Matthäus von</persName>
+               </author>
+               <author ref="#hsl_person_id_3517">
+                  <persName>Gericke, Wilhelm</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141203</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Nacht_und_Tr%C3%A4ume%2C_D.827_(Schubert%2C_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6478" resp="#awilfing" cert="high">
+               <title type="main">Liebesbotschaft, D957 Nr. 1 (Bearbeitung)</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3285">Schwanengesang, D957</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_2186">
+                  <persName>Rellstab, Ludwig</persName>
+               </author>
+               <author ref="#hsl_person_id_3517">
+                  <persName>Gericke, Wilhelm</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300283873</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Schwanengesang,_D.957_(Schubert,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6479" resp="#awilfing" cert="high">
+               <title type="main">Slovanské rapsodie für Orchester in g-Moll, B86 Nr. 2</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3624">Slovanské rapsodie für Orchester, B86</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300048165</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Slavonic_Rhapsodies%2C_Op.45_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
             </bibl>
       </listBibl>
       </body>
