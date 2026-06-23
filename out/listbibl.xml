@@ -3345,6 +3345,7 @@
                <name type="character" ref="#hsl_person_id_3627">Parsifal</name>
                <name type="character" ref="#hsl_person_id_3628">Kundry</name>
                <name type="character" ref="#hsl_person_id_3629">Gurnemanz</name>
+               <name type="character" ref="#hsl_person_id_8991">Klingsor</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300170165</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Parsifal,_WWV_111_(Wagner,_Richard)</idno>
             </bibl>
@@ -29419,6 +29420,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_4815">Faust</name>
                <name type="character" ref="#hsl_person_id_4816">Margherita</name>
+               <name type="character" ref="#hsl_person_id_8990">Helen</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1106565770</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Mefistofele_(Boito%2C_Arrigo)</idno>
             </bibl>
@@ -43884,14 +43886,6 @@
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb10129384</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_4818" resp="#awilfing" cert="high">
-               <title type="main">Serenade für Streichorchester Nr. 1 in D-Dur, op. 9</title>
-               <author ref="#hsl_person_id_1017">
-                  <persName>Fuchs, Robert</persName>
-               </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300780893</idno>
-               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Serenade_No.1%2C_Op.9_(Fuchs%2C_Robert)</idno>
-            </bibl>
             <bibl xml:id="hsl_work_id_4819" resp="#awilfing" cert="high">
                <title type="main">Die Hagestolzen</title>
                <author ref="#hsl_person_id_2993">
@@ -53090,6 +53084,14 @@ philosophes du 18 siècle</title>
                <title type="alternative">Luzerner Zeitung</title>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1289263922</idno>
                <idno type="URL" subtype="Digitalisat">https://zentralgut.ch/calendar/991297440105505/</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6513" resp="#awilfing" cert="high">
+               <title type="main">Asgaardsreien, op. 10</title>
+               <author ref="#hsl_person_id_8989">
+                  <persName>Olsen, Ole</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1169259979</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Asgaardsreien,_Op.10_(Olsen,_Ole)</idno>
             </bibl>
       </listBibl>
       </body>
