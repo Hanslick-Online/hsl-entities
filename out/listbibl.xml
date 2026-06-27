@@ -8112,7 +8112,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_827" resp="#awilfing" cert="high">
                <title type="main">Die sieben letzten Worte unseres Erlösers am Kreuze, Hob. XX/2</title>
-               <title type="alternative">Sieben Worte des Heilands am Kreuz</title>
+               <title type="alternative">Sieben Worte am Kreuz; Sieben Worte des Heilands am Kreuz</title>
                <author ref="#hsl_person_id_114">
                   <persName>Haydn, Joseph</persName>
                </author>
@@ -17202,7 +17202,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1767" resp="#awilfing" cert="high">
                <title type="main">Symphonie in fis-Moll, Hob. I:45</title>
-               <title type="alternative">Abschiedssymphonie</title>
+               <title type="alternative">Abschiedssymphonie; Abschieds-Symphonie</title>
                <author ref="#hsl_person_id_114">
                   <persName>Haydn, Joseph</persName>
                </author>
@@ -24096,6 +24096,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2558" resp="#awilfing" cert="high">
                <title type="main">Mozart und Haydn in London</title>
+               <title type="alternative">Haydn und Mozart in London</title>
                <author ref="#hsl_person_id_3866">
                   <persName>Pohl, Carl Ferdinand</persName>
                </author>
@@ -53166,6 +53167,43 @@ philosophes du 18 siècle</title>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6523" resp="#awilfing" cert="high">
+               <title type="main">Faust</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_414">Eine Faust-Symphonie in drei Charakterbildern, S108</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Faust_Symphony,_S.108_(Liszt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6524" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6525" resp="#awilfing" cert="high">
+               <title type="main">Gretchen</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_414">Eine Faust-Symphonie in drei Charakterbildern, S108</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300259034</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Faust_Symphony,_S.108_(Liszt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6526" resp="#awilfing" cert="high">
+               <title type="main">Mephistopheles</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_414">Eine Faust-Symphonie in drei Charakterbildern, S108</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Faust_Symphony,_S.108_(Liszt,_Franz)</idno>
             </bibl>
       </listBibl>
       </body>
