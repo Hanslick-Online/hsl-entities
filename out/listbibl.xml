@@ -18609,6 +18609,7 @@
                <author ref="#hsl_person_id_3011">
                   <persName>Grimm, Wilhelm</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4197314-8</idno>
                <idno type="URL" subtype="Digitalisat">https://www.grimmstories.com/de/grimm_maerchen/dornroschen</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1933" resp="#awilfing" cert="high">
@@ -26879,6 +26880,7 @@
                <author ref="#hsl_person_id_3011">
                   <persName>Grimm, Wilhelm</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4068885-9</idno>
                <idno type="URL" subtype="Digitalisat">https://www.grimmstories.com/de/grimm_maerchen/aschenputtel</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2861" resp="#awilfing" cert="high">
@@ -47245,6 +47247,9 @@ immerwährender Streit</title>
                <name type="character" ref="#hsl_person_id_7549">Melusina</name>
                <name type="character" ref="#hsl_person_id_7550">Troll</name>
                <name type="character" ref="#hsl_person_id_7551">Raimund</name>
+               <name type="character" ref="#hsl_person_id_9127">Plantina</name>
+               <name type="character" ref="#hsl_person_id_9128">Meliora</name>
+               <name type="character" ref="#hsl_person_id_9164">Bertha</name>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/grillparzerssmm00laubgoog/page/n297/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5294" resp="#awilfing" cert="high">
@@ -54418,6 +54423,73 @@ philosophes du 18 siècle</title>
                <author ref="#hsl_person_id_5780">
                   <persName>Schmitt, Hans</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6671" resp="#awilfing" cert="high">
+               <title type="main">Zwischenaktmusik zu dem Drama "Hamlet"</title>
+               <title type="alternative">zweifelhaft / verschollen</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6672" resp="#awilfing" cert="high">
+               <title type="main">Der junge Gelehrte</title>
+               <author ref="#hsl_person_id_697">
+                  <persName>Lessing, Gotthold Ephraim</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4554340-9</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10113742?page=11</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6673" resp="#awilfing" cert="high">
+               <title type="main">Der schlaue Pudel, Hob.XXVIa:38</title>
+               <title type="alternative">Pudel-Romanze</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1350734772</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6674" resp="#awilfing" cert="high">
+               <title type="main">Melusine, op. 10</title>
+               <title type="alternative">Melusina</title>
+               <author ref="#hsl_person_id_2300">
+                  <persName>Zellner, Julius</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Melusine,_Op.10_(Zellner,_Julius)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6675" resp="#awilfing" cert="high">
+               <title type="main">Melusine, op. 24</title>
+               <author ref="#hsl_person_id_6620">
+                  <persName>Grammann, Carl</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Melusine%2C_Op.24_(Grammann%2C_Carl)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6676" resp="#awilfing" cert="high">
+               <title type="main">Melusina</title>
+               <author ref="#hsl_person_id_9129">
+                  <persName>Mayrberger, Karl</persName>
+               </author>
+               <author ref="#hsl_person_id_9162">
+                  <persName>Marbach, Ernst</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6708" resp="#awilfing" cert="high">
+               <title type="main">Raimondin</title>
+               <title type="alternative">Melusine</title>
+               <author ref="#hsl_person_id_2864">
+                  <persName>Perfall, Karl von</persName>
+               </author>
+               <author ref="#hsl_person_id_9163">
+                  <persName>Schmid, Hermann von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6709" resp="#awilfing" cert="high">
+               <title type="main">La Belle au bois dormant</title>
+               <author ref="#hsl_person_id_122">
+                  <persName>Hérold, Ferdinand</persName>
+               </author>
+               <author ref="#hsl_person_id_3365">
+                  <persName>Aumer, Jean Pierre</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_belle_au_bois_dormant_(H%C3%A9rold%2C_Ferdinand)</idno>
             </bibl>
       </listBibl>
       </body>
