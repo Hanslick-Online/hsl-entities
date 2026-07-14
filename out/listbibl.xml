@@ -53726,10 +53726,14 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_6589" resp="#awilfing" cert="high">
                <title type="main">Intermezzo scherzoso für Orchester, op. 29</title>
+               <author ref="#hsl_person_id_2487">
+                  <persName>Reinhold, Hugo</persName>
+               </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Category:Reinhold,_Hugo</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_6590" resp="#awilfing" cert="high">
                <title type="main">Singet dem Herrn ein neues Lied, MWV A 23</title>
+               <title type="alternative">Der 98. Psalm</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
@@ -53806,13 +53810,6 @@ philosophes du 18 siècle</title>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1190602628</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Kanzonetten_und_Lieder_(Haydn,_Joseph)</idno>
-            </bibl>
-            <bibl xml:id="hsl_work_id_6600" resp="#awilfing" cert="high">
-               <title type="main">Sonate</title>
-               <title type="alternative">unklarer Bezug</title>
-               <author ref="#hsl_person_id_1033">
-                  <persName>Grädener, Hermann</persName>
-               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_6601" resp="#awilfing" cert="high">
                <title type="main">Lieblingsplätzchen, MWV K 61</title>
@@ -54641,6 +54638,38 @@ philosophes du 18 siècle</title>
                <author ref="#hsl_person_id_5885">
                   <persName>Pruckner, Caroline</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6760" resp="#awilfing" cert="high">
+               <title type="main">Orpheus und Eurydike</title>
+               <author ref="#hsl_person_id_1067">
+                  <persName>Feuerbach, Anselm</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://de.wikipedia.org/wiki/Datei:Anselm_Feuerbach_-_Orpheus_und_Eurydike_-_1719_-_%C3%96sterreichische_Galerie_Belvedere.jpg</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6761" resp="#awilfing" cert="high">
+               <title type="main">Le violette</title>
+               <title type="alternative">Das Veilchen (Arie aus "Pirro e Demetrio, ovvero La forza della fedeltà"</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6762">Pirro e Demetrio, ovvero La forza della fedeltà</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_890">
+                  <persName>Scarlatti, Alessandro</persName>
+               </author>
+               <author ref="#hsl_person_id_9240">
+                  <persName>Morselli, Adriano</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Pirro_e_Demetrio%2C_R.342.23_(Scarlatti%2C_Alessandro)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6762" resp="#awilfing" cert="high">
+               <title type="main">Pirro e Demetrio, ovvero La forza della fedeltà</title>
+               <author ref="#hsl_person_id_890">
+                  <persName>Scarlatti, Alessandro</persName>
+               </author>
+               <author ref="#hsl_person_id_9240">
+                  <persName>Morselli, Adriano</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7749384-9</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Pirro_e_Demetrio%2C_R.342.23_(Scarlatti%2C_Alessandro)</idno>
             </bibl>
       </listBibl>
       </body>
