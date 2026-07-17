@@ -4041,15 +4041,13 @@
                <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/cb344724208/date</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_355" resp="#awilfing" cert="high">
-               <title type="main">Geschichte der deutschen Literatur seit Lessing's Tod</title>
-               <title type="alternative">Geschichte der deutschen Nationalliteratur</title>
+               <title type="main">Geschichte der deutschen Nationalliteratur im neunzehnten Jahrhundert</title>
                <author ref="#hsl_person_id_408">
                   <persName>Schmidt, Julian</persName>
                </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4456656-6</idno>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10734976</idno>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11687576</idno>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb10734973</idno>
+               <idno type="URL" subtype="Digitalisat">https://digitale-sammlungen.de/en/details/bsb10814308</idno>
+               <idno type="URL" subtype="Digitalisat">https://digitale-sammlungen.de/en/details/bsb10814307</idno>
+               <idno type="URL" subtype="Digitalisat">https://digitale-sammlungen.de/en/details/bsb10734974</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_356" resp="#awilfing" cert="high">
                <title type="main">Coriolan, op. 62</title>
@@ -29440,6 +29438,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3138" resp="#awilfing" cert="high">
                <title type="main">Mefistofele</title>
+               <title type="alternative">Mephistopheles</title>
                <author ref="#hsl_person_id_37">
                   <persName>Boito, Arrigo</persName>
                </author>
@@ -54205,6 +54204,9 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_6644" resp="#awilfing" cert="high">
                <title type="main">Mephisto in Italien</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_1649">Die Gegenwart. Wochenschrift für Literatur, Kunst und öffentliches Leben</note>
+               </noteGrp>
                <author ref="#hsl_person_id_3129">
                   <persName>Lübke, Wilhelm</persName>
                </author>
@@ -54672,6 +54674,21 @@ philosophes du 18 siècle</title>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7749384-9</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Pirro_e_Demetrio%2C_R.342.23_(Scarlatti%2C_Alessandro)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6763" resp="#awilfing" cert="high">
+               <title type="main">"Aus dem Leben eines Künstlers." Phantastische Symphonie in 5 Abtheilungen von Hector Berlioz</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_553">Neue Zeitschrift für Musik</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527859?page=3</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527859?page=35</idno>
+               <idno type="URL" subtype="Digitalisat"> https://www.digitale-sammlungen.de/de/view/bsb10527859?page=39</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527859?page=43</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527859?page=47</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527859?page=51</idno>
             </bibl>
       </listBibl>
       </body>
