@@ -53631,6 +53631,7 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_6575" resp="#awilfing" cert="high">
                <title type="main">Die Bedeutung des Morgenweckrufes in Richard Wagner's Bühnenweihfestspiele "Parsifal"</title>
+               <title type="alternative">Die Bedeutung des Morgenweckrufes in R. Wagner’s Parsifal</title>
                <author ref="#hsl_person_id_6072">
                   <persName>Hagen, Edmund von</persName>
                </author>
@@ -53644,8 +53645,16 @@ philosophes du 18 siècle</title>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_6577" resp="#awilfing" cert="high">
-               <title type="main">Erik in seinem Verhältnisse zum Holländer und zur Senta</title>
-               <title type="alternative">unklarer Bezug</title>
+               <title type="main">Senta's Verhältniss zu Erik und zum Holländer. Eine psychologische Studie</title>
+               <title type="alternative">Erik in seinem Verhältnisse zum Holländer und zur Senta</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_1982">Bayreuther Blätter</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_4738">
+                  <persName>Stade, Friedrich Wilhelm</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hdl.handle.net/2027/mdp.39015023339792?urlappend=%3Bseq=333%3Bownerid=13510798883522037-329</idno>
+               <idno type="URL" subtype="Digitalisat">https://hdl.handle.net/2027/mdp.39015023339792?urlappend=%3Bseq=381%3Bownerid=1104760-559</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_6578" resp="#awilfing" cert="high">
                <title type="main">Lohengrin. Instrumentation et philosophie</title>
@@ -54710,6 +54719,13 @@ philosophes du 18 siècle</title>
                <author ref="#hsl_person_id_3470">
                   <persName>Pasqué, Ernst</persName>
                </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6767" resp="#awilfing" cert="high">
+               <title type="main">König Marke. Aesthetisch-kritische Streifzüge durch Wagners "Tristan und Isolde"</title>
+               <author ref="#hsl_person_id_1678">
+                  <persName>Wirth, Moritz</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://books.google.at/books/about/K%C3%B6nig_Marke.html?id=Yj4dJwX6Ux0C</idno>
             </bibl>
       </listBibl>
       </body>
