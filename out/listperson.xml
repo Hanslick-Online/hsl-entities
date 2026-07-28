@@ -11947,6 +11947,10 @@
                      <forename/>
                      <surname>Judas</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Judas Maccabäus</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_158">Judas Maccabaeus, HWV63</bibl>
                   </listBibl>
@@ -21251,7 +21255,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Judas Maccäbus</surname>
+                     <surname>Judas Maccabäus</surname>
                   </persName>
                   <birth>unbekannt (2. Jhdt. v.u.Z.)</birth>
                   <death>unbekannt (2. Jhdt. v.u.Z.)</death>
@@ -108161,8 +108165,8 @@
                      <surname>Boccanegra</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
-                     <surname>Boccanera; Boccanigra</surname>
+                     <forename>Simon</forename>
+                     <surname>Boccanera / Boccanigra</surname>
                   </persName>
                   <birth>?-1363</birth>
                   <death>?-1363</death>
@@ -108174,6 +108178,10 @@
                   <persName type="main">
                      <forename>König von Frankreich</forename>
                      <surname>Philipp VI.</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Philipp von Valois</surname>
                   </persName>
                   <birth notBefore="1293-01-01" notAfter="1293-12-31">1293-1350</birth>
                   <death notBefore="1350-01-01" notAfter="1350-12-31">1293-1350</death>
@@ -109792,6 +109800,15 @@
                   <birth>unbekannt (18. Jhdt.)</birth>
                   <death>unbekannt (18. Jhdt.)</death>
                   <occupation style="background-color: dark-orange;">Mediziner</occupation>
+               </person>
+               <person xml:id="hsl_person_id_9243" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Israelitin</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_158">Judas Maccabaeus, HWV63</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
