@@ -5203,6 +5203,7 @@
                      <bibl n="hsl_work_id_5299">Der Landfriede, op. 30</bibl>
                      <bibl n="hsl_work_id_5881">Ein Abenteuer Carl des Zweiten</bibl>
                      <bibl n="hsl_work_id_6043">Der Ritterschlag</bibl>
+                     <bibl n="hsl_work_id_6768">Die erste Falte</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_189" resp="#awilfing" cert="high">
@@ -40601,6 +40602,7 @@
                      <bibl n="hsl_work_id_1278">La Giocoliera e Un'avventura di Carnevale</bibl>
                      <bibl n="hsl_work_id_2024">Fiammella oder: die Macht der Hölle</bibl>
                      <bibl n="hsl_work_id_3097">Gräfin Egmont</bibl>
+                     <bibl n="hsl_work_id_6769">An der Beresina</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2715" resp="#awilfing" cert="medium">
@@ -76014,6 +76016,7 @@
                      <bibl n="hsl_work_id_4304">2 Morceaux für Klavier, op. 31</bibl>
                      <bibl n="hsl_work_id_4305">Zwiegesang, op. 28 Nr. 2</bibl>
                      <bibl n="hsl_work_id_4306">2 Lieder für Singstimme und Klavier, op. 28</bibl>
+                     <bibl n="hsl_work_id_6768">Die erste Falte</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_5546" role="fictional" resp="#awilfing" cert="high">
@@ -85604,6 +85607,7 @@
                      <bibl n="hsl_work_id_846">Der Spielmann</bibl>
                      <bibl n="hsl_work_id_6041">Aus der Heimat, op. 39</bibl>
                      <bibl n="hsl_work_id_6711">Melusine</bibl>
+                     <bibl n="hsl_work_id_6769">An der Beresina</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_6340" resp="#awilfing" cert="high">
@@ -93919,6 +93923,9 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q98908056</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_R/Rota_Giuseppe_2.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_R/Rota_Giuseppe_1833_1911.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_6769">An der Beresina</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_7104" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -109961,6 +109968,42 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_158">Judas Maccabaeus, HWV63</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9244" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Marquise von Sombreuil</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_6768">Die erste Falte</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9245" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Vicomte d'Etiolles</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_6768">Die erste Falte</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9246" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Juliette</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_6768">Die erste Falte</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9247" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Firmin</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_6768">Die erste Falte</bibl>
                   </listBibl>
                </person>
             </listPerson>
