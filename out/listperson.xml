@@ -137,6 +137,7 @@
                      <bibl n="hsl_work_id_6310">Johannes Brahms. (Erinnerungen und Briefe.) III</bibl>
                      <bibl n="hsl_work_id_6311">Zur Donizetti-Feier in Bergamo. I</bibl>
                      <bibl n="hsl_work_id_6312">Neue Bücher über Musik. (I. Kalbeck. Tschaikowsky.)</bibl>
+                     <bibl n="hsl_work_id_6770">Zwei französische Tenoristen. Duprez und Roger.</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2" resp="#awilfing" cert="high">
@@ -110005,6 +110006,90 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_6768">Die erste Falte</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9248" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Napoleon I.</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_6769">An der Beresina</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9249" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Armand Durand</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_6769">An der Beresina</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9250" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Louise</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_6769">An der Beresina</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9251" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Charles Duval</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_6769">An der Beresina</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9252" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Vasilij Vasilʹevič</forename>
+                     <surname>Vereščagin</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Vereschagin</surname>
+                  </persName>
+                  <birth notBefore="1842-01-01" notAfter="1842-12-31">1842-1904</birth>
+                  <death notBefore="1904-01-01" notAfter="1904-12-31">1842-1904</death>
+                  <occupation style="background-color: darker-cyan;">Maler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119268353</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q127017</idno>
+               </person>
+               <person xml:id="hsl_person_id_9253" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Józef Antoni</forename>
+                     <surname>Poniatowski</surname>
+                  </persName>
+                  <birth notBefore="1763-01-01" notAfter="1763-12-31">1763-1813</birth>
+                  <death notBefore="1813-01-01" notAfter="1813-12-31">1763-1813</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <occupation style="background-color: light-gray;">Offizier</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118792822</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q154382</idno>
+               </person>
+               <person xml:id="hsl_person_id_9254" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Michel</forename>
+                     <surname>Ney</surname>
+                  </persName>
+                  <birth notBefore="1769-01-01" notAfter="1769-12-31">1769-1815</birth>
+                  <death notBefore="1815-01-01" notAfter="1815-12-31">1769-1815</death>
+                  <occupation style="background-color: light-gray;">Offizier</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118734725</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q40756</idno>
+               </person>
+               <person xml:id="hsl_person_id_9255" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Adolf</forename>
+                     <surname>Peschier</surname>
+                  </persName>
+                  <birth>1849-?</birth>
+                  <death>1849-?</death>
+                  <occupation style="background-color: darker-orange;">Sänger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1329540654</idno>
                </person>
             </listPerson>
          </div>
