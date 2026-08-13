@@ -75484,7 +75484,7 @@
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Strakosch_Familie.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Strakosch_Max_1835_1892.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_5500" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_5500" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Mathilde</forename>
                      <surname>Jacobi</surname>
@@ -110149,6 +110149,35 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_2976">Le tribut de Zamora, CG12</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9262" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Vilma</forename>
+                     <surname>Goldstein</surname>
+                  </persName>
+                  <birth notBefore="1860-01-01" notAfter="1860-12-31">1860-1934</birth>
+                  <death notBefore="1934-01-01" notAfter="1934-12-31">1860-1934</death>
+                  <occupation style="background-color: dark-blue;">Pianistin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11676029X</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q95662075</idno>
+               </person>
+               <person xml:id="hsl_person_id_9263" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Jacobi</surname>
+                  </persName>
+                  <birth>unbekannt (19. Jhdt.)</birth>
+                  <death>unbekannt (19. Jhdt.)</death>
+                  <occupation style="background-color: gray;">Sängerin</occupation>
+               </person>
+               <person xml:id="hsl_person_id_9264" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Macbeth</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_4843">Macbeth</bibl>
                   </listBibl>
                </person>
             </listPerson>
