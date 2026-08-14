@@ -20180,6 +20180,7 @@
                      <bibl n="hsl_work_id_3765">Konzert für Oboe und Orchester in g-Moll, HWV287 (Bearbeitung)</bibl>
                      <bibl n="hsl_work_id_3972">Quartett für 2 Violinen, Viola und Cello</bibl>
                      <bibl n="hsl_work_id_5625">Präludium, Andante und Gavotte für Streichorchester</bibl>
+                     <bibl n="hsl_work_id_6772">Muzzedin</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1251" resp="#awilfing" cert="high">
@@ -20515,6 +20516,7 @@
                      <bibl n="hsl_work_id_6596">Trio für Violine, Cello und Klavier Nr. 1 in B-Dur, B51</bibl>
                      <bibl n="hsl_work_id_6597">Trio für Violine, Cello und Klavier Nr. 2 in g-Moll, B56</bibl>
                      <bibl n="hsl_work_id_6771">Romanze für Violine und Klavier in f-Moll, B38</bibl>
+                     <bibl n="hsl_work_id_6773">Quartett für 2 Violinen, Viola und Cello Nr. 9 in d-Moll, B75</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1266" resp="#awilfing" cert="high">
@@ -26426,6 +26428,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1047">Der Zigeunerbaron</bibl>
                      <bibl n="hsl_work_id_3901">Die Königsbraut, op. 46</bibl>
+                     <bibl n="hsl_work_id_6772">Muzzedin</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1694" resp="#awilfing" cert="high">
@@ -110101,12 +110104,6 @@
                      <bibl n="hsl_work_id_2976">Le tribut de Zamora, CG12</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_9257" role="fictional" resp="#awilfing" cert="medium">
-                  <persName type="main">
-                     <forename/>
-                     <surname/>
-                  </persName>
-               </person>
                <person xml:id="hsl_person_id_9258" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -110178,6 +110175,42 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_4843">Macbeth</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9265" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Abbas</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_6772">Muzzedin</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9266" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Muzzedin</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_6772">Muzzedin</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9267" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Zenobia</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_6772">Muzzedin</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9268" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Khan</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_6772">Muzzedin</bibl>
                   </listBibl>
                </person>
             </listPerson>
