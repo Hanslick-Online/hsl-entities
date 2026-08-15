@@ -35533,6 +35533,10 @@
                      <forename/>
                      <surname>Oscar</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Oskar</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_35">Un ballo in maschera, H59</bibl>
                   </listBibl>
@@ -110211,6 +110215,82 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_6772">Muzzedin</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9269" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>König von Sachsen</forename>
+                     <surname>Albert</surname>
+                  </persName>
+                  <birth notBefore="1828-01-01" notAfter="1828-12-31">1828-1902</birth>
+                  <death notBefore="1902-01-01" notAfter="1902-12-31">1828-1902</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119193132</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q168657</idno>
+               </person>
+               <person xml:id="hsl_person_id_9270" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Henri Smith</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Harry Smith</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1616">La jolie fille de Perth, WD15</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9271" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Catherine Glover</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Katharina Glover</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1616">La jolie fille de Perth, WD15</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9272" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Simon Glover</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1616">La jolie fille de Perth, WD15</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9273" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Mab</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1616">La jolie fille de Perth, WD15</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9274" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Duc de Rothsay</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Herzog von Rothsay</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1616">La jolie fille de Perth, WD15</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9275" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ralph</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1616">La jolie fille de Perth, WD15</bibl>
                   </listBibl>
                </person>
             </listPerson>
