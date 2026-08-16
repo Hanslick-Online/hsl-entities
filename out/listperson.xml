@@ -788,7 +788,6 @@
                      <bibl n="hsl_work_id_3417">Fuge für Orgel in a-Moll</bibl>
                      <bibl n="hsl_work_id_3520">Gloria in excelsis Deo, BWV191</bibl>
                      <bibl n="hsl_work_id_3547">Konzert für Flöte, Violine und Klavier in a-Moll, BWV1044</bibl>
-                     <bibl n="hsl_work_id_3727">Magnificat</bibl>
                      <bibl n="hsl_work_id_3767">Präludium und Fuge in g-Moll</bibl>
                      <bibl n="hsl_work_id_3892">O Jesu Christ, mein's Lebens Licht, BWV118</bibl>
                      <bibl n="hsl_work_id_3952">Suite für Orchester Nr. 2 in h-Moll, BWV1067</bibl>
@@ -51736,6 +51735,10 @@
                <person xml:id="hsl_person_id_3570" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Josef</forename>
+                     <surname>Weyl</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Joseph</forename>
                      <surname>Weyl</surname>
                   </persName>
                   <birth notBefore="1821-01-01" notAfter="1821-12-31">1821-1895</birth>
@@ -110303,6 +110306,45 @@
                   <death notBefore="1952-01-01" notAfter="1952-12-31">1864-1952</death>
                   <occupation style="background-color: dark-blue;">Pianistin</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q75392629</idno>
+               </person>
+               <person xml:id="hsl_person_id_9277" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Marie</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Maria</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_910">La Rédemption, CG32</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9278" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Christ</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Christus</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_910">La Rédemption, CG32</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9279" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ange</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Engel</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_910">La Rédemption, CG32</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
