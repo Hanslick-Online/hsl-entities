@@ -11620,14 +11620,28 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4115159-8</idno>
                </place>
                <place xml:id="hsl_place_id_1486" resp="#awilfing" cert="high">
-                  <placeName type="main">Bjaresina</placeName>
+                  <settlement type="H">
+                     <placeName type="main">Bjaresina</placeName>
                      <placeName type="alternative">Beresina</placeName>
+                  </settlement>
+                  <desc type="entity_type">stream, lake, ...</desc>
+                  <country>BY, Belarus</country>
+                  <location type="coords">
+                     <geo>52.5501, 30.2495</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/629457/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q207927</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4005593-0</idno>
                </place>
                <place xml:id="hsl_place_id_1487" resp="#awilfing" cert="high">
-                  <placeName type="main">Canossa</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Canossa</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>IT, Italy</country>
+                  <location type="coords">
+                     <geo>44.59737, 10.41023</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6536351/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q111144</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4085140-0</idno>
@@ -11637,28 +11651,70 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q115773902</idno>
                </place>
                <place xml:id="hsl_place_id_1489" resp="#awilfing" cert="high">
-                  <placeName type="main">Perth</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Perth</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>GB, United Kingdom</country>
+                  <location type="coords">
+                     <geo>56.39522, -3.43139</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2640358/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q203000</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4198041-4</idno>
                </place>
                <place xml:id="hsl_place_id_1490" resp="#awilfing" cert="high">
-                  <placeName type="main">Penzig, Wien</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Penzig, Wien</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>48.2, 16.3</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2769121/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q690335</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4108811-6</idno>
                </place>
                <place xml:id="hsl_place_id_1491" resp="#awilfing" cert="high">
-                  <placeName type="main">Zamora</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Zamora</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>ES, Spain</country>
+                  <location type="coords">
+                     <geo>41.52259, -5.80054</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6362695/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15696</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4216370-5</idno>
                </place>
                <place xml:id="hsl_place_id_1492" resp="#awilfing" cert="high">
-                  <placeName type="main">Oviedo</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Oviedo</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>ES, Spain</country>
+                  <location type="coords">
+                     <geo>43.35796, -5.87339</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6359947/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q14317</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4116850-1</idno>
+               </place>
+               <place xml:id="hsl_place_id_1493" resp="#awilfing" cert="high">
+                  <settlement type="P">
+                     <placeName type="main">Qusanṭīna</placeName>
+                     <placeName type="alternative">Constantine</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DZ, Algeria</country>
+                  <location type="coords">
+                     <geo>36.365, 6.61472</geo>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2501152/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q187346</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4090536-6</idno>
                </place>
             </listPlace>
          </div>

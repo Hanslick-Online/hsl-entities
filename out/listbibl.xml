@@ -22104,8 +22104,8 @@
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/bub_gb__TAFAQAAIAAJ/page/n7/mode/2up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2238" resp="#awilfing" cert="high">
-               <title type="main">Der Tanz in der Dorfschenke, S110 Nr. 2</title>
-               <title type="alternative">Mephisto-Walzer</title>
+               <title type="main">Der Tanz in der Dorfschenke, S110 Nr. 2 (Orchesterfassung)</title>
+               <title type="alternative">Erster Mephisto-Walzer</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_3399">2 Episoden aus Lenau's Faust, S110</note>
                </noteGrp>
@@ -26610,6 +26610,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_4349">Charles IX.</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1238571816</idno>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q140939314</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb10093238</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2726" resp="#awilfing" cert="high">
@@ -46961,11 +46962,12 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/7_National_Dances,_Op.82_(Rubinstein,_Anton)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5058" resp="#awilfing" cert="high">
-               <title type="main">I promessi sposi</title>
+               <title type="main">I promessi sposi, op. 2</title>
                <author ref="#hsl_person_id_7242">
                   <persName>Ponchielli, Amilcare</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/111255890X</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3791176</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/I_promessi_sposi%2C_Op.2_(Ponchielli%2C_Amilcare)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5059" resp="#awilfing" cert="high">
@@ -55312,7 +55314,7 @@ philosophes du 18 siècle</title>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Romance_oubli%C3%A9e%2C_S.527_(Liszt%2C_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_6623" resp="#awilfing" cert="high">
-               <title type="main">Mephisto Waltzer Nr.2</title>
+               <title type="main">Mephisto Waltzer Nr. 2, S515</title>
                <title type="alternative">Zweiter Mephisto-Walzer</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
@@ -56187,7 +56189,7 @@ philosophes du 18 siècle</title>
                   <persName>Bruckner, Anton</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300029993</idno>
-               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q246450</idno>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q246450</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.6_in_A_major%2C_WAB_106_(Bruckner%2C_Anton)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_6787" resp="#awilfing" cert="high">
@@ -56196,6 +56198,152 @@ philosophes du 18 siècle</title>
                   <persName>Eckert, Karl Florian Anton</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Cello_Concerto%2C_Op.26_(Eckert%2C_Karl_Anton_Florian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6788" resp="#awilfing" cert="high">
+               <title type="main">Serenade für Orchester Nr. 1 in F-Dur, op. 29</title>
+               <author ref="#hsl_person_id_1085">
+                  <persName>Brüll, Ignaz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1252297505</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Serenade_No.1%2C_Op.29_(Br%C3%BCll%2C_Ignaz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6789" resp="#awilfing" cert="high">
+               <title type="main">Trio für Violine, Cello und Klavier in Es-Dur, op. 14</title>
+               <author ref="#hsl_person_id_1085">
+                  <persName>Brüll, Ignaz</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Trio%2C_Op.14_(Br%C3%BCll%2C_Ignaz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6790" resp="#awilfing" cert="high">
+               <title type="main">Nachtwandler, op. 86 Nr. 3</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3272">6 Lieder für Singstimme und Klavier, op. 86</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_1065">
+                  <persName>Kalbeck, Max</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300879423</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Lieder,_Op.86_(Brahms,_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6791" resp="#awilfing" cert="high">
+               <title type="main">Suite für Klavier in d-Moll</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6792" resp="#awilfing" cert="high">
+               <title type="main">Nachtwandler</title>
+               <author ref="#hsl_person_id_1065">
+                  <persName>Kalbeck, Max</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/131760010X</idno>
+               <idno type="URL" subtype="Digitalisat">https://books.google.at/books?id=PRyr6ktqtbgC&amp;hl=de&amp;pg=PA6</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6793" resp="#awilfing" cert="high">
+               <title type="main">In Waldeseinsamkeit, op. 85 Nr. 6</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3268">6 Lieder für Singstimme und Klavier, op. 85</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_3266">
+                  <persName>Lemcke, Carl von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300879415</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Lieder%2C_Op.85_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6794" resp="#awilfing" cert="high">
+               <title type="main">Sonntag, op. 47 Nr. 3</title>
+               <title type="alternative">Sonntags</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6626">5 Lieder für Singstimme und Klavier, op. 47</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_310">
+                  <persName>Uhland, Ludwig</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300193548</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/5_Lieder%2C_Op.47_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6795" resp="#awilfing" cert="high">
+               <title type="main">Die Trauernde, op. 7 Nr. 5</title>
+               <title type="alternative">Mei' Mutter mag mich nit</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6796">6 Lieder für Singstimme und Klavier, op. 7</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300453183</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Songs%2C_Op.7_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6796" resp="#awilfing" cert="high">
+               <title type="main">6 Lieder für Singstimme und Klavier, op. 7</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300025270</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Songs%2C_Op.7_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6797" resp="#awilfing" cert="high">
+               <title type="main">Sommerabend, op. 85 Nr. 1</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3268">6 Lieder für Singstimme und Klavier, op. 85</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_116">
+                  <persName>Heine, Heinrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300472951</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Lieder%2C_Op.85_(Brahms%2C_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6798" resp="#awilfing" cert="high">
+               <title type="main">Therese</title>
+               <author ref="#hsl_person_id_2514">
+                  <persName>Keller, Gottfried</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1317595254</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.gottfriedkeller.ch/GG/EG/NG_02.htm</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6799" resp="#awilfing" cert="high">
+               <title type="main">Chant du premier vendémiaire an IX</title>
+               <author ref="#hsl_person_id_160">
+                  <persName>Le Sueur, Jean-François</persName>
+               </author>
+               <author ref="#hsl_person_id_5783">
+                  <persName>Esménard, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6800" resp="#awilfing" cert="high">
+               <title type="main">La Gioconda, op. 9</title>
+               <author ref="#hsl_person_id_37">
+                  <persName>Boito, Arrigo</persName>
+               </author>
+               <author ref="#hsl_person_id_7242">
+                  <persName>Ponchielli, Amilcare</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300120249</idno>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q748840</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_Gioconda%2C_Op.9_(Ponchielli%2C_Amilcare)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6801" resp="#awilfing" cert="high">
+               <title type="main">Der Tanz in der Dorfschenke, S514 (Klavierfassung)</title>
+               <title type="alternative">Erster Mephisto-Walzer</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300094140</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q920193</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Mephisto_Waltz_No.1,_S.514_(Liszt,_Franz)</idno>
             </bibl>
       </listBibl>
       </body>
