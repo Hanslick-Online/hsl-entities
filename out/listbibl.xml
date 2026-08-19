@@ -1337,6 +1337,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_537">Franz Waldung</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4842212-5</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1215785</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_108" resp="#awilfing" cert="high">
                <title type="main">Les diamants de la couronne, AWV34</title>
@@ -19281,7 +19282,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Trio_in_D_major,_Op.70_No.1_(Beethoven,_Ludwig_van)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1929" resp="#awilfing" cert="high">
-               <title type="main">Quartett für 4 Violinen, 2 Violas und 2 Celli Nr. 3 in e-Moll, op. 87</title>
+               <title type="main">Quartett für 4 Violinen, 2 Violen und 2 Celli Nr. 3 in e-Moll, op. 87</title>
                <author ref="#hsl_person_id_293">
                   <persName>Spohr, Louis</persName>
                </author>
@@ -52092,7 +52093,7 @@ philosophes du 18 siècle</title>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_6109" resp="#awilfing" cert="high">
-               <title type="main">Fuge für 2 Violinen, 2 Violas und Cello in D-Dur, op. 137</title>
+               <title type="main">Fuge für 2 Violinen, 2 Violen und Cello in D-Dur, op. 137</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
@@ -56346,6 +56347,60 @@ philosophes du 18 siècle</title>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300094140</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q920193</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Mephisto_Waltz_No.1,_S.514_(Liszt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6802" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Violine und Orchester in a-Moll, B108</title>
+               <author ref="#hsl_person_id_1265">
+                  <persName>Dvořák, Antonín</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30004741X</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q25609</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Concerto%2C_Op.53_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6803" resp="#awilfing" cert="high">
+               <title type="main">Die Epigonen</title>
+               <author ref="#hsl_person_id_2365">
+                  <persName>Immermann, Karl Leberecht</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4244176-6</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q42189465</idno>
+               <idno type="URL" subtype="Digitalisat">http://www.zeno.org/Literatur/M/Immermann,+Karl/Romane/Die+Epigonen</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6805" resp="#awilfing" cert="high">
+               <title type="main">Nachtmusik für Streichorchester, op. 7</title>
+               <author ref="#hsl_person_id_1327">
+                  <persName>Heuberger, Richard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300073895</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Nachtmusik,_Op.7_(Heuberger,_Richard)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6806" resp="#awilfing" cert="high">
+               <title type="main">Sonate für Violine und Klavier Nr. 1 in h-Moll, op. 48</title>
+               <author ref="#hsl_person_id_1085">
+                  <persName>Brüll, Ignaz</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Sonata_No.1%2C_Op.48_(Br%C3%BCll%2C_Ignaz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6807" resp="#awilfing" cert="high">
+               <title type="main">Zur Geschichte des Concertwesens in Wien</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_77">Oesterreichische Revue</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10011029?page=425</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10011030?page=160</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10011030?page=399</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/view/bsb10011031?page=415</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6808" resp="#awilfing" cert="high">
+               <title type="main">Ueber geistliche Musik</title>
+               <title type="alternative">Vorschlag zur Organisation der Musik im ganzen Lande</title>
+               <author ref="#hsl_person_id_132">
+                  <persName>Humboldt, Wilhelm von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/wilhelmvonhumbol05humb/page/319/mode/1up</idno>
             </bibl>
       </listBibl>
       </body>
