@@ -1324,6 +1324,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_633">Nani</name>
                <name type="character" ref="#hsl_person_id_5769">Féroza</name>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15990916</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Les_g%C3%A9orgiennes_(Offenbach%2C_Jacques)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_107" resp="#awilfing" cert="high">
@@ -2121,6 +2122,7 @@
                   <persName>Tréfeu, Etienne</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300929323</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5996788</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Il_signor_Fagotto_(Offenbach%2C_Jacques)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_174" resp="#awilfing" cert="high">
@@ -2380,7 +2382,7 @@
                <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Franz_Schubert/iEIQlCnMNUoC</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_194" resp="#awilfing" cert="high">
-               <title type="main">Fra Diavolo, AWV18</title>
+               <title type="main">Fra Diavolo, ou L'hôtellerie de Terracine, AWV18</title>
                <author ref="#hsl_person_id_16">
                   <persName>Auber, Daniel-François-Esprit</persName>
                </author>
@@ -17151,6 +17153,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1693" resp="#awilfing" cert="high">
                <title type="main">L'Arlésienne, WD28</title>
+               <title type="alternative">L’Arlesienne</title>
                <author ref="#hsl_person_id_1298">
                   <persName>Bizet, Georges</persName>
                </author>
@@ -22951,6 +22954,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2326" resp="#awilfing" cert="high">
                <title type="main">L'Arlésienne. Suite für Orchester Nr. 2, WD40</title>
+               <title type="alternative">L’Arlesienne</title>
                <author ref="#hsl_person_id_1298">
                   <persName>Bizet, Georges</persName>
                </author>
@@ -50231,6 +50235,7 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_5739" resp="#awilfing" cert="high">
                <title type="main">L'Arlésienne. Suite für Orchester Nr. 1, WD40</title>
+               <title type="alternative">L’Arlesienne</title>
                <author ref="#hsl_person_id_1298">
                   <persName>Bizet, Georges</persName>
                </author>
@@ -56401,6 +56406,84 @@ philosophes du 18 siècle</title>
                   <persName>Humboldt, Wilhelm von</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/wilhelmvonhumbol05humb/page/319/mode/1up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6809" resp="#awilfing" cert="high">
+               <title type="main">Quintett für 2 Violinen, Viola, Cello und Klavier in c-Moll, op. 53</title>
+               <author ref="#hsl_person_id_293">
+                  <persName>Spohr, Louis</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1265222681</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Quintet_No.1%2C_Op.53_(Spohr%2C_Louis)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6810" resp="#awilfing" cert="high">
+               <title type="main">Prometheus</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099203-2</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2112787</idno>
+               <idno type="URL" subtype="Digitalisat">https://de.wikisource.org/wiki/Prometheus_%28Gedicht%2C_fr%C3%BChe_Fassung%29?utm_source=chatgpt.com</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6811" resp="#awilfing" cert="high">
+               <title type="main">The Fair Maid of Perth</title>
+               <author ref="#hsl_person_id_5360">
+                  <persName>Scott, Walter</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4829774-4</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3209885</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/dli.ministry.12728/page/n1/mode/1up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6812" resp="#awilfing" cert="high">
+               <title type="main">Polonaise für Klavier in cis-Moll, op. 26 Nr. 1</title>
+               <author ref="#hsl_person_id_48">
+                  <persName>Chopin, Frédéric</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300037597</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Polonaises,_Op.26_(Chopin,_Fr%C3%A9d%C3%A9ric)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6813" resp="#awilfing" cert="high">
+               <title type="main">Richard Wagner in Venedig. Mosaikbilder aus seinem letzten Lebenstagen</title>
+               <author ref="#hsl_person_id_9303">
+                  <persName>Perl, Henry</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Richard_Wagner_in_Venedig/BTMrAAAAIAAJ</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6814" resp="#awilfing" cert="high">
+               <title type="main">Richard Wagner. [Autobiographische Skizze]</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4180">Zeitung für die elegante Welt</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.wagner-schriften.de/synopsis?source=schriften_S_430201_Autobiographische-Skizze</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6815" resp="#awilfing" cert="high">
+               <title type="main">12 Ländler für Klavier zu 4 Händen, D790 (Bearbeitung)</title>
+               <author ref="#hsl_person_id_70">
+                  <persName>Epstein, Julius</persName>
+               </author>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6816" resp="#awilfing" cert="high">
+               <title type="main">Wagner</title>
+               <author ref="#hsl_person_id_195">
+                  <persName>Nohl, Ludwig</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11535509</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6817" resp="#awilfing" cert="high">
+               <title type="main">Wagner-Catalog. Chronologisches Verzeichniss der von und über Richard Wagner erschienenen Schriften, Musikwerke etc. etc., nebst biographischen Notizen</title>
+               <author ref="#hsl_person_id_9308">
+                  <persName>Kastner, Emerich</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://books.google.at/books/about/Wagner_Catalog.html?id=c9C2AAAAIAAJ</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6818" resp="#awilfing" cert="high">
+               <title type="main">Oesterreichische Zeitung</title>
+               <title type="alternative">Constitutionelle österreichische Zeitung</title>
             </bibl>
       </listBibl>
       </body>
