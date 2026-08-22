@@ -1963,6 +1963,7 @@
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300201419</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q18160850</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Julius_Caesar_Ouverture,_Op.128_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_158" resp="#awilfing" cert="high">
@@ -2396,7 +2397,7 @@
                <author ref="#hsl_person_id_149">
                   <persName>Kreissle von Hellborn, Heinrich</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Franz_Schubert/iEIQlCnMNUoC</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11426217</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_194" resp="#awilfing" cert="high">
                <title type="main">Fra Diavolo, ou L'hôtellerie de Terracine, AWV18</title>
@@ -2860,7 +2861,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_erste_Walpurgisnacht,_Op.60_(Mendelssohn,_Felix)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_224" resp="#awilfing" cert="high">
-               <title type="main">Die Braut von Messina</title>
+               <title type="main">Die Braut von Messina oder die feindlichen Brüder</title>
                <author ref="#hsl_person_id_248">
                   <persName>Schiller, Friedrich</persName>
                </author>
@@ -3212,7 +3213,7 @@
                <name type="character" ref="#hsl_person_id_451">Belshazzar</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300064233</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q816183</idno>
-               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Deborah,_HWV_51_(Handel,_George_Frideric)</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Belshazzar%2C_HWV_61_(Handel%2C_George_Frideric)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_254" resp="#awilfing" cert="high">
                <title type="main">Beethovens Leben, Bd. 1, Beethoven's Jugend</title>
@@ -6726,7 +6727,7 @@
                <author ref="#hsl_person_id_149">
                   <persName>Kreissle von Hellborn, Heinrich</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Franz_Schubert/t0FDAAAAcAAJ</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10600266</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_642" resp="#awilfing" cert="high">
                <title type="main">Konzert für Klavier und Orchester in a-Moll, op. 54</title>
@@ -56599,6 +56600,283 @@ philosophes du 18 siècle</title>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300010648</idno>
                <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1567650</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Toccata_and_Fugue_in_F_major%2C_BWV_540_(Bach%2C_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6831" resp="#awilfing" cert="high">
+               <title type="main">12 Mazourkes de Frédéric Chopin</title>
+               <author ref="#hsl_person_id_48">
+                  <persName>Chopin, Frédéric</persName>
+               </author>
+               <author ref="#hsl_person_id_313">
+                  <persName>Viardot-García, Pauline</persName>
+               </author>
+               <author ref="#hsl_person_id_9328">
+                  <persName>Pomey, Louis</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/12_Mazurkas_de_Fr%C3%A9d%C3%A9ric_Chopin_(Viardot%2C_Pauline)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6832" resp="#awilfing" cert="high">
+               <title type="main">Anton Notenquetscher. Ein satirisches Gedicht</title>
+               <author ref="#hsl_person_id_1675">
+                  <persName>Moszkowski, Alexander</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hdl.handle.net/2027/wu.89056742364</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6833" resp="#awilfing" cert="high">
+               <title type="main">Faust. Der Tragödie dritter Theil</title>
+               <author ref="#hsl_person_id_379">
+                  <persName>Vischer, Friedrich Theodor</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4691904-1</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1398532</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10121905</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6834" resp="#awilfing" cert="high">
+               <title type="main">Ich will hinaus, ich muss zu dir, op. 7 Nr. 2</title>
+               <title type="alternative">Ich will zu dir</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6835">4 Lieder für Singstimme und Klavier, op. 7</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_9330">
+                  <persName>Maurice, Alphonse</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6835" resp="#awilfing" cert="high">
+               <title type="main">4 Lieder für Singstimme und Klavier, op. 7</title>
+               <author ref="#hsl_person_id_9330">
+                  <persName>Maurice, Alphonse</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6836" resp="#awilfing" cert="high">
+               <title type="main">Między nami nic nie było, op. 13 Nr. 4</title>
+               <title type="alternative">Zwischen uns ist nichts geschehen</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6837">Śpiewnik na jeden głos No.1, op. 13</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_4543">
+                  <persName>Zarzycki, Aleksander</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/%C5%9Apiewnik_na_jeden_g%C5%82os_No.1%2C_Op.13_(Zarzycki%2C_Aleksander)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6837" resp="#awilfing" cert="high">
+               <title type="main">Śpiewnik na jeden głos No.1, op. 13</title>
+               <author ref="#hsl_person_id_4543">
+                  <persName>Zarzycki, Aleksander</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/%C5%9Apiewnik_na_jeden_g%C5%82os_No.1%2C_Op.13_(Zarzycki%2C_Aleksander)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6838" resp="#awilfing" cert="high">
+               <title type="main">Blessed are They that Considereth the Poor, HWV268</title>
+               <title type="alternative">Anthem Nr. 17; Selig ist, wer des Armen gedenkt</title>
+               <author ref="#hsl_person_id_108">
+                  <persName>Händel, Georg Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300064276</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q36649452</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Blessed_are_They_that_Considereth_the_Poor%2C_HWV_268_(Handel%2C_George_Frideric)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6839" resp="#awilfing" cert="high">
+               <title type="main">Englische Suite Nr. 4 in F-Dur, BWV809</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/30082629X</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q20645328</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/English_Suite_No.4_in_F_major,_BWV_809_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6840" resp="#awilfing" cert="high">
+               <title type="main">12 Lieder von Franz Schubert, S558</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300094051</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/12_Lieder_von_Franz_Schubert,_S.558_(Liszt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6841" resp="#awilfing" cert="high">
+               <title type="main">Erlkönig, S558 Nr. 4</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6840">12 Lieder von Franz Schubert, S558</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1192475623</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/12_Lieder_von_Franz_Schubert,_S.558_(Liszt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6842" resp="#awilfing" cert="high">
+               <title type="main">Ueber Franz Schubert</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_1353">Wiener Zeitschrift für Kunst, Literatur, Theater und Mode</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_22">
+                  <persName>Bauernfeld, Eduard von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6843" resp="#awilfing" cert="high">
+               <title type="main">Erinnerungen an Franz Schubert</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_4281">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_249">
+                  <persName>Schindler, Anton</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527508?page=75</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10527508?page=83</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6844" resp="#awilfing" cert="high">
+               <title type="main">Erinnerungen an Franz Schubert</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6845">Archiv für Geographie, Historie, Staats- und Kriegskunde</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_184">
+                  <persName>Mayrhofer, Johann</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno-plus?aid=hsk&amp;datum=1829&amp;pos=135</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6845" resp="#awilfing" cert="high">
+               <title type="main">Archiv für Geographie, Historie, Staats- und Kriegskunde</title>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno-plus?aid=hsk</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6846" resp="#awilfing" cert="high">
+               <title type="main">Tönet, ihr Pauken! Erschallet, Trompeten! BWV214</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300223560</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1969369</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/T%C3%B6net,_ihr_Pauken!_Erschallet,_Trompeten!,_BWV_214_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6847" resp="#awilfing" cert="high">
+               <title type="main">Laßt uns sorgen, laßt uns wachen, BWV213</title>
+               <title type="alternative">Die Wahl des Herkules</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <author ref="#hsl_person_id_2082">
+                  <persName>Henrici, Christian Friedrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300009240</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3220082</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La%C3%9Ft_uns_sorgen,_la%C3%9Ft_uns_wachen,_BWV_213_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6848" resp="#awilfing" cert="high">
+               <title type="main">Preise dein Glücke, gesegnetes Sachsen, BWV215</title>
+               <title type="alternative">Gratulations-Cantate zur Ankunft des Königs</title>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300009267</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2108473</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Preise_dein_Gl%C3%BCcke,_gesegnetes_Sachsen,_BWV_215_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6849" resp="#awilfing" cert="high">
+               <title type="main">Weihnachts-Oratorium, BWV248 (Bearbeitung)</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <author ref="#hsl_person_id_1708">
+                  <persName>Franz, Robert</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Weihnachtsoratorium,_BWV_248_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6850" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Violine und Orchester in d-Moll, op. 21</title>
+               <title type="alternative">Symphonie espagnole</title>
+               <author ref="#hsl_person_id_1755">
+                  <persName>Lalo, Edouard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300088981</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1071972</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphonie_espagnole,_Op.21_(Lalo,_%C3%89douard)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6851" resp="#awilfing" cert="high">
+               <title type="main">Georg Friedrich Händels Werke</title>
+               <author ref="#hsl_person_id_1444">
+                  <persName>Chrysander, Friedrich</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Georg_Friedrich_H%C3%A4ndels_Werke_(Handel,_George_Frideric)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6852" resp="#awilfing" cert="high">
+               <title type="main">Johanna d’Arc</title>
+               <author ref="#hsl_person_id_1172">
+                  <persName>Vesque von Püttlingen, Johann</persName>
+               </author>
+               <author ref="#hsl_person_id_2115">
+                  <persName>Prechtler, Otto</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1073337421</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6853" resp="#awilfing" cert="high">
+               <title type="main">Turandot, Prinzessin von Schiras</title>
+               <author ref="#hsl_person_id_1172">
+                  <persName>Vesque von Püttlingen, Johann</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1195558430</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6854" resp="#awilfing" cert="high">
+               <title type="main">Liebeszauber</title>
+               <title type="alternative">Käthchen von Heilbronn</title>
+               <author ref="#hsl_person_id_1172">
+                  <persName>Vesque von Püttlingen, Johann</persName>
+               </author>
+               <author ref="#hsl_person_id_2115">
+                  <persName>Prechtler, Otto</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1224846222</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6855" resp="#awilfing" cert="high">
+               <title type="main">Klänge aus Osten, op. 109</title>
+               <author ref="#hsl_person_id_174">
+                  <persName>Marschner, Heinrich</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1145205402</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Kl%C3%A4nge_aus_Osten%2C_Op.109_(Marschner%2C_Heinrich)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6856" resp="#awilfing" cert="high">
+               <title type="main">Hebräische Gesänge I, op. 4</title>
+               <author ref="#hsl_person_id_1122">
+                  <persName>Loewe, Carl</persName>
+               </author>
+               <author ref="#hsl_person_id_1635">
+                  <persName>Byron, Baron George Gordon Byron</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300707703</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6857" resp="#awilfing" cert="high">
+               <title type="main">Hebräische Gesänge II, op. 5</title>
+               <author ref="#hsl_person_id_1122">
+                  <persName>Loewe, Carl</persName>
+               </author>
+               <author ref="#hsl_person_id_1635">
+                  <persName>Byron, Baron George Gordon Byron</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1053533543</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6858" resp="#awilfing" cert="high">
+               <title type="main">Hebräische Gesänge III, op. 13</title>
+               <author ref="#hsl_person_id_1122">
+                  <persName>Loewe, Carl</persName>
+               </author>
+               <author ref="#hsl_person_id_1635">
+                  <persName>Byron, Baron George Gordon Byron</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Hebr%C3%A4ische_Ges%C3%A4nge_III,_Op.13_(Loewe,_Carl)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6859" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6860" resp="#awilfing" cert="high">
+               <title type="main">Hebräische Gesänge IV, op. 14</title>
+               <author ref="#hsl_person_id_1122">
+                  <persName>Loewe, Carl</persName>
+               </author>
+               <author ref="#hsl_person_id_1635">
+                  <persName>Byron, Baron George Gordon Byron</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300867107</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Hebr%C3%A4ische_Ges%C3%A4nge_IV%2C_Op.14_(Loewe%2C_Carl)</idno>
             </bibl>
       </listBibl>
       </body>
