@@ -3028,6 +3028,9 @@
                      <bibl n="hsl_work_id_6664">West-Oestlicher Divan</bibl>
                      <bibl n="hsl_work_id_6712">Jery und Bätely</bibl>
                      <bibl n="hsl_work_id_6810">Prometheus</bibl>
+                     <bibl n="hsl_work_id_6886">Rinaldo</bibl>
+                     <bibl n="hsl_work_id_6887">Idylle</bibl>
+                     <bibl n="hsl_work_id_6888">Tages- und Jahres-Hefte als Ergänzung meiner sonstigen Bekenntnisse</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_101" resp="#awilfing" cert="high">
@@ -111254,6 +111257,65 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_6874">An die Nacht, op. 45</bibl>
                      <bibl n="hsl_work_id_6875">To Night</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9344" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Herzog von Sachsen-Gotha-Altenburg</forename>
+                     <surname>Friedrich IV.</surname>
+                  </persName>
+                  <birth notBefore="1774-01-01" notAfter="1774-12-31">1774-1825</birth>
+                  <death notBefore="1825-01-01" notAfter="1825-12-31">1774-1825</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/136026257</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q649856</idno>
+               </person>
+               <person xml:id="hsl_person_id_9345" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Rinaldo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_130">La Gerusalemme liberata</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9346" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Carl</forename>
+                     <surname>Eberwein</surname>
+                  </persName>
+                  <birth notBefore="1786-01-01" notAfter="1786-12-31">1786-1868</birth>
+                  <death notBefore="1868-01-01" notAfter="1868-12-31">1786-1868</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116332603</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q216234</idno>
+               </person>
+               <person xml:id="hsl_person_id_9347" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Armida</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_130">La Gerusalemme liberata</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9348" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Rinaldo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3617">Rinaldo, op. 50</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9349" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Adelaide</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_599">Adelaide, op. 46</bibl>
                   </listBibl>
                </person>
             </listPerson>

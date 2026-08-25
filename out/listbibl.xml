@@ -1696,6 +1696,8 @@
                <author ref="#hsl_person_id_302">
                   <persName>Tasso, Torquato</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_9345">Rinaldo</name>
+               <name type="character" ref="#hsl_person_id_9347">Armida</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4210503-1</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1053313</idno>
                <idno type="URL" subtype="Digitalisat">https://digi.ub.uni-heidelberg.de/fwhb/tasso1745</idno>
@@ -6364,6 +6366,7 @@
                <author ref="#hsl_person_id_1039">
                   <persName>Matthisson, Friedrich von</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_9349">Adelaide</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30001483X</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Adelaide,_Op.46_(Beethoven,_Ludwig_van)</idno>
             </bibl>
@@ -34583,6 +34586,7 @@
                <author ref="#hsl_person_id_100">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_9348">Rinaldo</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300026706</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7334559</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Rinaldo,_Op.50_(Brahms,_Johannes)</idno>
@@ -41238,7 +41242,7 @@
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1075256496</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q110977689</idno>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10108982?page=274,275</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10108982?page=275</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4390" resp="#awilfing" cert="high">
                <title type="main">Lukas-Passion, BWV246</title>
@@ -57121,6 +57125,30 @@ philosophes du 18 siècle</title>
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gruppe_aus_dem_Tartarus,_D.583_(Schubert,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6886" resp="#awilfing" cert="high">
+               <title type="main">Rinaldo</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1199397008</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q110976815</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11413602?page=322</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6887" resp="#awilfing" cert="high">
+               <title type="main">Idylle</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11413602?page=326</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6888" resp="#awilfing" cert="high">
+               <title type="main">Tages- und Jahres-Hefte als Ergänzung meiner sonstigen Bekenntnisse</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10128340</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10128339</idno>
             </bibl>
       </listBibl>
       </body>
