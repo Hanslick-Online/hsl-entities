@@ -827,8 +827,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.5,_Op.52_(Lachner,_Franz_Paul)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_64" resp="#awilfing" cert="high">
-               <title type="main">16 Preludes für Klavier, op. 9</title>
-               <title type="alternative">Präludien</title>
+               <title type="main">16 Präludien für Klavier, op. 9</title>
                <author ref="#hsl_person_id_144">
                   <persName>Kirchner, Theodor</persName>
                </author>
@@ -2813,8 +2812,8 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Jahreszeiten,_Hob.XXI:3_(Haydn,_Joseph)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_220" resp="#awilfing" cert="high">
-               <title type="main">Die Kinder der Heide</title>
-               <title type="alternative">Die Kinder der Haide</title>
+               <title type="main">Die Kinder der Haide</title>
+               <title type="alternative">Die Kinder der Heide</title>
                <author ref="#hsl_person_id_188">
                   <persName>Mosenthal, Salomon Hermann von</persName>
                </author>
@@ -2823,6 +2822,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_598">Wanja</name>
                <name type="character" ref="#hsl_person_id_7783">Isbrana</name>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5274389</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Kinder_der_Heide_(Rubinstein%2C_Anton)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_221" resp="#awilfing" cert="high">
@@ -3102,6 +3102,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_241" resp="#awilfing" cert="high">
                <title type="main">Das Glück von Edenhall, op. 143</title>
+               <author ref="#hsl_person_id_109">
+                  <persName>Hasenclever, Richard</persName>
+               </author>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
@@ -3251,6 +3254,7 @@
                   <persName>Chopin, Frédéric</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300036795</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4467040</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ballade_No.4,_Op.52_(Chopin,_Fr%C3%A9d%C3%A9ric)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_257" resp="#awilfing" cert="high">
@@ -3413,7 +3417,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Alceste,_Wq.44_(Gluck,_Christoph_Willibald)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_268" resp="#awilfing" cert="high">
-               <title type="main">Albumblätter für Klavier, op. 7</title>
+               <title type="main">Albumblätter. Neun kleine Stücke für Klavier, op. 7</title>
                <author ref="#hsl_person_id_144">
                   <persName>Kirchner, Theodor</persName>
                </author>
@@ -3492,6 +3496,9 @@
                <title type="main">Symphonie Nr. 9 in d-Moll, op. 125</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300016433</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q11989</idno>
@@ -12609,6 +12616,7 @@
                <name type="character" ref="#hsl_person_id_7137">Pauline</name>
                <name type="character" ref="#hsl_person_id_7138">Polyeucte</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1304031780</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q7226316</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Polyeucte,_CG_11_(Gounod,_Charles)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1221" resp="#awilfing" cert="high">
@@ -12633,6 +12641,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_5767">Sapho</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7715541-5</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q264671</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Sapho,_CG_1_(Gounod,_Charles)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1223" resp="#awilfing" cert="high">
@@ -12669,6 +12678,7 @@
                   <persName>Delavigne, Germain</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300613555</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3211103</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_nonne_sanglante,_CG_2_(Gounod,_Charles)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1225" resp="#awilfing" cert="high">
@@ -17253,6 +17263,7 @@
                   <persName>Gounod, Charles</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1180630424</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1314372</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_reine_de_Saba,_CG_7_(Gounod,_Charles)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1699" resp="#awilfing" cert="high">
@@ -28901,6 +28912,7 @@
                   <persName>Gounod, Charles</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30038470X</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q115181737</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Requiem%2C_CG_80_(Gounod%2C_Charles)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2979" resp="#awilfing" cert="high">
@@ -37002,7 +37014,7 @@
                <author ref="#hsl_person_id_310">
                   <persName>Uhland, Ludwig</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10121838?page=334,335</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10121838?page=334</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3899" resp="#awilfing" cert="high">
                <title type="main">Der Königssohn, op. 8</title>
@@ -46345,6 +46357,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4951" resp="#awilfing" cert="high">
                <title type="main">Duo für Cello und Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_53">
                   <persName>Derffel, Joseph</persName>
                </author>
@@ -57158,6 +57171,44 @@ philosophes du 18 siècle</title>
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10128340</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10128339</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6890" resp="#awilfing" cert="high">
+               <title type="main">Das Glück von Edenhall</title>
+               <author ref="#hsl_person_id_310">
+                  <persName>Uhland, Ludwig</persName>
+               </author>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1168520</idno>
+               <idno type="URL" subtype="Digitalisat">https://de.wikisource.org/wiki/Das_Gl%C3%BCck_von_Edenhall_(Uhland)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6891" resp="#awilfing" cert="high">
+               <title type="main">Konzert für Cembalo in F-Dur, BWV1057</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300256418</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q11915167</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Harpsichord_Concerto_No.6_in_F_major,_BWV_1057_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6892" resp="#awilfing" cert="high">
+               <title type="main">Nun der Lenz im Forste wieder</title>
+               <author ref="#hsl_person_id_714">
+                  <persName>Geibel, Emanuel</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb10108558?page=69</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6893" resp="#awilfing" cert="high">
+               <title type="main">Etüde für Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_53">
+                  <persName>Derffel, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6894" resp="#awilfing" cert="high">
+               <title type="main">Lied für Singstimme und Klavier</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_144">
+                  <persName>Kirchner, Theodor</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
