@@ -1945,7 +1945,7 @@
                      <bibl n="hsl_work_id_1447">Etude für Klavier in c-Moll, op. 10 Nr. 12</bibl>
                      <bibl n="hsl_work_id_1448">Etude für Klavier in c-Moll, op. 25 Nr. 12</bibl>
                      <bibl n="hsl_work_id_1757">Nocturne für Klavier in G-Dur, op. 37 Nr. 2</bibl>
-                     <bibl n="hsl_work_id_1859">Etüde</bibl>
+                     <bibl n="hsl_work_id_1859">Etüde für Klavier</bibl>
                      <bibl n="hsl_work_id_1989">Konzert für Klavier und Orchester Nr. 1 in e-Moll, op. 11</bibl>
                      <bibl n="hsl_work_id_2031">Grande Polonaise brillante für Klavier in Es-Dur, op. 22</bibl>
                      <bibl n="hsl_work_id_2497">Polonaise für Klavier in As-Dur, op. 53</bibl>
@@ -2257,7 +2257,6 @@
                      <bibl n="hsl_work_id_95">Lucia di Lammermoor</bibl>
                      <bibl n="hsl_work_id_98">Linda di Chamounix</bibl>
                      <bibl n="hsl_work_id_207">Don Pasquale</bibl>
-                     <bibl n="hsl_work_id_249">Caterina Cornaro ossia La regina di Cipro</bibl>
                      <bibl n="hsl_work_id_377">Il Canto XXXIII dalla Divina Commedia di Dante Alighieri (Il conte Ugolino)</bibl>
                      <bibl n="hsl_work_id_380">La Favorite</bibl>
                      <bibl n="hsl_work_id_386">Lucrezia Borgia</bibl>
@@ -4619,7 +4618,7 @@
                      <bibl n="hsl_work_id_1358">2 Légendes für Klavier, S175</bibl>
                      <bibl n="hsl_work_id_1453">Orpheus, S98</bibl>
                      <bibl n="hsl_work_id_1627">Die Ideale, S106</bibl>
-                     <bibl n="hsl_work_id_1673">Etüde</bibl>
+                     <bibl n="hsl_work_id_1673">Etüde für Klavier</bibl>
                      <bibl n="hsl_work_id_1674">Apparitions für Klavier, S155</bibl>
                      <bibl n="hsl_work_id_1675">Réminiscences de Robert le diable für Klavier, S413</bibl>
                      <bibl n="hsl_work_id_1697">Christus, S3</bibl>
@@ -5408,6 +5407,7 @@
                      <bibl n="hsl_work_id_6619">Fantasie für Violine und Klavier in c-Moll KV396</bibl>
                      <bibl n="hsl_work_id_6880">Quintett für 2 Violinen, 2 Violen und Cello Nr. 2 in c-Moll, KV406</bibl>
                      <bibl n="hsl_work_id_6881">Serenade für 2 Oboen, 2 Klarinetten, 2 Fagotte und 2 Hörner Nr. 12 in c-Moll, KV388</bibl>
+                     <bibl n="hsl_work_id_6898">Sonate für Violine und Klavier</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_190" resp="#awilfing" cert="high">
@@ -7166,6 +7166,7 @@
                      <bibl n="hsl_work_id_6840">12 Lieder von Franz Schubert, S558</bibl>
                      <bibl n="hsl_work_id_6841">Erlkönig, S558 Nr. 4</bibl>
                      <bibl n="hsl_work_id_6885">Gruppe aus dem Tartarus, D583 (Bearbeitung)</bibl>
+                     <bibl n="hsl_work_id_6897">Quartett für 2 Violinen, Viola und Cello</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_280" resp="#awilfing" cert="high">
@@ -13357,6 +13358,7 @@
                      <bibl n="hsl_work_id_6633">Neue Liebe</bibl>
                      <bibl n="hsl_work_id_6634">Neue Liebe</bibl>
                      <bibl n="hsl_work_id_6892">Nun der Lenz im Forste wieder</bibl>
+                     <bibl n="hsl_work_id_6896">Gedichte und Gedenkblätter</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_715" resp="#awilfing" cert="high">
@@ -32559,7 +32561,6 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/115453717</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3762259</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_249">Caterina Cornaro ossia La regina di Cipro</bibl>
                      <bibl n="hsl_work_id_4521">Catarina Cornaro</bibl>
                   </listBibl>
                </person>
@@ -75486,6 +75487,10 @@
                      <forename>Paula</forename>
                      <surname>Dürnberger</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Pauline</forename>
+                     <surname>Dürnberger</surname>
+                  </persName>
                   <birth notBefore="1845-01-01" notAfter="1845-12-31">1845-1915</birth>
                   <death notBefore="1915-01-01" notAfter="1915-12-31">1845-1915</death>
                   <occupation style="background-color: dark-blue;">Pianistin</occupation>
@@ -110529,6 +110534,10 @@
                   <persName type="main">
                      <forename>Marie Nicole Simonin</forename>
                      <surname>Pollet</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Simonin-Pollet</surname>
                   </persName>
                   <birth notBefore="1787-01-01" notAfter="1787-12-31">1787-1864</birth>
                   <death notBefore="1864-01-01" notAfter="1864-12-31">1787-1864</death>
