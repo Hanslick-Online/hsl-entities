@@ -42460,6 +42460,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4509" resp="#awilfing" cert="high">
                <title type="main">Biographie universelle des musiciens et bibliographie générale de la musique</title>
+               <title type="alternative">Biographie des Musiciens</title>
                <author ref="#hsl_person_id_78">
                   <persName>Fétis, François-Joseph</persName>
                </author>
@@ -57402,6 +57403,19 @@ philosophes du 18 siècle</title>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1189746468</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/In_der_M%C3%A4rznacht%2C_Op.190_(Taubert%2C_Wilhelm)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6967" resp="#awilfing" cert="high">
+               <title type="main">Hofoperntheater. („Die Zwillingsbrüder.“ — „Der Widerspenstigen Zähmung.“ — „Don Juan.“ — Auber’s hundertjähriges Jubiläum.)</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_82">Neue Freie Presse</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1">
+                  <persName>Hanslick, Eduard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://hanslick.acdh.oeaw.ac.at/c__1882.01.31.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6968" resp="#awilfing" cert="medium">
+               <title type="main">(„Die Zwillingsbrüder.“ — „Der Widerspenstigen Zähmung.“ — „Don Juan.“ — Auber’s hundertjähriges Jubiläum.)</title>
             </bibl>
       </listBibl>
       </body>
