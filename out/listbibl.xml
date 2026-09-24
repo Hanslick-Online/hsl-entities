@@ -5608,8 +5608,8 @@
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
-               <author ref="#hsl_person_id_1027">
-                  <persName>Pohl, Richard</persName>
+               <author ref="#hsl_person_id_310">
+                  <persName>Uhland, Ludwig</persName>
                </author>
                <name type="character" ref="#hsl_person_id_6585">Erzählerin</name>
                <name type="character" ref="#hsl_person_id_6586">Harfner</name>
@@ -9591,7 +9591,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_923" resp="#awilfing" cert="high">
                <title type="main">Bonsoir, Monsieur Pantalon!</title>
-               <title type="alternative">Gute Nacht, Herr Pantalon</title>
+               <title type="alternative">Bon soir, Monsieur Pantalon!; Gute Nacht, Herr Pantalon!</title>
                <author ref="#hsl_person_id_1461">
                   <persName>Grisar, Albert</persName>
                </author>
@@ -14812,7 +14812,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1440" resp="#awilfing" cert="high">
                <title type="main">L'Allegro, il Penseroso ed il Moderato, HWV55</title>
-               <title type="alternative">Allegro und Pensieroso; Frohsinn und Schwermuth</title>
+               <title type="alternative">Allegro e Pensieroso; Allegro und Pensieroso; Frohsinn und Schwermuth</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
@@ -57416,6 +57416,60 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_6968" resp="#awilfing" cert="medium">
                <title type="main">(„Die Zwillingsbrüder.“ — „Der Widerspenstigen Zähmung.“ — „Don Juan.“ — Auber’s hundertjähriges Jubiläum.)</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6969" resp="#awilfing" cert="high">
+               <title type="main">Der Zauberflöte zweyter Theil</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_9416">Papageno</name>
+               <name type="character" ref="#hsl_person_id_9417">Papagena</name>
+               <name type="character" ref="#hsl_person_id_9418">Tamino</name>
+               <name type="character" ref="#hsl_person_id_9419">Pamina</name>
+               <name type="character" ref="#hsl_person_id_9420">Königin der Nacht</name>
+               <name type="character" ref="#hsl_person_id_9421">Monostatos</name>
+               <name type="character" ref="#hsl_person_id_9422">Sarastro</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4544695-7</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1198170</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/view/bsb11090539?page=199</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6970" resp="#awilfing" cert="high">
+               <title type="main">Der Zauberflöte zweyter Theil. Das Labyrinth oder Der Kampf mit den Elementen</title>
+               <author ref="#hsl_person_id_1981">
+                  <persName>Schikaneder, Emanuel</persName>
+               </author>
+               <author ref="#hsl_person_id_2198">
+                  <persName>Winter, Peter von</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6971" resp="#awilfing" cert="high">
+               <title type="main">Guillaume Tell</title>
+               <author ref="#hsl_person_id_103">
+                  <persName>Grétry, André-Ernest-Modeste</persName>
+               </author>
+               <author ref="#hsl_person_id_3455">
+                  <persName>Sedaine, Michel-Jean</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7610989-6</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5616076</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Guillaume_Tell_(Gr%C3%A9try%2C_Andr%C3%A9_Ernest_Modeste)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_6972" resp="#awilfing" cert="high">
+               <title type="main">Heini von Steier</title>
+               <author ref="#hsl_person_id_1250">
+                  <persName>Bachrich, Siegmund</persName>
+               </author>
+               <author ref="#hsl_person_id_2756">
+                  <persName>Wittmann, Hugo</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_9425">Heini von Steier</name>
+               <name type="character" ref="#hsl_person_id_9426">Herzog Otto der Fröhliche</name>
+               <name type="character" ref="#hsl_person_id_9427">Ritter Manhart</name>
+               <name type="character" ref="#hsl_person_id_9428">Irene</name>
+               <name type="character" ref="#hsl_person_id_9429">Ritter Zirbing</name>
+               <name type="character" ref="#hsl_person_id_9430">Gertrude</name>
+               <name type="character" ref="#hsl_person_id_9431">Brigitte</name>
+               <name type="character" ref="#hsl_person_id_9432">Stoffel</name>
             </bibl>
       </listBibl>
       </body>
