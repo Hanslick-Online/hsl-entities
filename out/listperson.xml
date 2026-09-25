@@ -1311,6 +1311,7 @@
                      <bibl n="hsl_work_id_5902">Potpourri concertant sur des thèmes italiens, H1</bibl>
                      <bibl n="hsl_work_id_5904">Théatre de l'Opéra.  Première représentation de la Rose de Florence, opéra en deux actes, de M. de Saint-Georges, musique de M. Emanuele Billetta.</bibl>
                      <bibl n="hsl_work_id_5905">Théâtre-Italien. Concerts de Richard Wagner. La musique de l’avenir</bibl>
+                     <bibl n="hsl_work_id_7014">Te Deum, H118</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_29" resp="#awilfing" cert="high">
@@ -53519,6 +53520,10 @@
                      <forename>Lina</forename>
                      <surname>Ramann</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Louise</forename>
+                     <surname>Ramann</surname>
+                  </persName>
                   <birth notBefore="1833-01-01" notAfter="1833-12-31">1833-1912</birth>
                   <death notBefore="1912-01-01" notAfter="1912-12-31">1833-1912</death>
                   <occupation style="background-color: light-blue;">Musiklehrerin</occupation>
@@ -83177,6 +83182,10 @@
                      <forename>Moritz</forename>
                      <surname>Carriere</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Carrière</surname>
+                  </persName>
                   <birth notBefore="1817-01-01" notAfter="1817-12-31">1817-1895</birth>
                   <death notBefore="1895-01-01" notAfter="1895-12-31">1817-1895</death>
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
@@ -111864,6 +111873,17 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_606">Der Vampyr, op. 42</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9463" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Herzog von Sachsen-Meiningen</forename>
+                     <surname>Georg II.</surname>
+                  </persName>
+                  <birth notBefore="1826-01-01" notAfter="1826-12-31">1826-1914</birth>
+                  <death notBefore="1914-01-01" notAfter="1914-12-31">1826-1914</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/102425639</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q702749</idno>
                </person>
             </listPerson>
          </div>
