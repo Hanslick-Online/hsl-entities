@@ -4860,6 +4860,7 @@
                <name type="character" ref="#hsl_person_id_2875">Kurwenal</name>
                <name type="character" ref="#hsl_person_id_2876">König Marke</name>
                <name type="character" ref="#hsl_person_id_4618">Brangäne</name>
+               <name type="character" ref="#hsl_person_id_9495">Morold</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300170483</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1324254</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Tristan_und_Isolde,_WWV_90_(Wagner,_Richard)</idno>
@@ -58187,6 +58188,63 @@ philosophes du 18 siècle</title>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7584053-4</idno>
                <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q10857152</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_chien_du_jardinier_(Grisar%2C_Albert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7085" resp="#awilfing" cert="high">
+               <title type="main">"Zukunftsmusik." Brief an einen französischen Freund als Vorwort zu einer Prosa-Uebersetzung seiner Operndichtungen</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.wagner-schriften.de/synopsis?source=schriften_S_601124_Zukunftsmusik-Brief-an-einen-franzoesischen-Freund</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7086" resp="#awilfing" cert="high">
+               <title type="main">Tristan und Isolde</title>
+               <author ref="#hsl_person_id_9496">
+                  <persName>Gottfried, von Straßburg</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_9497">Tristan</name>
+               <name type="character" ref="#hsl_person_id_9498">Isolde</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4071969-8</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2454177</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11941665</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7087" resp="#awilfing" cert="high">
+               <title type="main">Ritter Toggenburg</title>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_9499">Toggenburg</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1220113573</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2155094</idno>
+               <idno type="URL" subtype="Digitalisat">https://de.wikisource.org/wiki/Ritter_Toggenburg</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7088" resp="#awilfing" cert="high">
+               <title type="main">Maître Pathelin</title>
+               <author ref="#hsl_person_id_1815">
+                  <persName>Bazin, François</persName>
+               </author>
+               <author ref="#hsl_person_id_2074">
+                  <persName>Leuven, Adolphe de</persName>
+               </author>
+               <author ref="#hsl_person_id_9500">
+                  <persName>Langlois, Joseph Adolphe Ferdinand</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_9502">Maître Pathelin</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1216129096</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ma%C3%AEtre_Pathelin_(Bazin%2C_Fran%C3%A7ois)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7089" resp="#awilfing" cert="high">
+               <title type="main">Meister Pathelin. Altfranzösischer Schwank</title>
+               <title type="alternative">Maître Pathelin</title>
+               <author ref="#hsl_person_id_9501">
+                  <persName>Wickenburg, Albrecht von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.google.com.br/books/edition/Meister_Pathelin/6-0KSPuygJsC</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7090" resp="#awilfing" cert="high">
+               <title type="main">La Farce de maître Pathelin</title>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4168644-5</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2606213</idno>
+               <idno type="URL" subtype="Digitalisat">https://fr.wikisource.org/wiki/Maistre_Pierre_Pathelin,_reproduction_en_facsimil%C3%A9_de_1485</idno>
             </bibl>
       </listBibl>
       </body>
