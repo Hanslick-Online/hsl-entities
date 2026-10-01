@@ -2338,6 +2338,8 @@
                <name type="character" ref="#hsl_person_id_4763">Mathilde</name>
                <name type="character" ref="#hsl_person_id_4973">Ruodi</name>
                <name type="character" ref="#hsl_person_id_6307">Jemmy</name>
+               <name type="character" ref="#hsl_person_id_9520">Leuthold</name>
+               <name type="character" ref="#hsl_person_id_9521">Walter Furst</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300132514</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q729659</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Guillaume_Tell_(Rossini%2C_Gioacchino)</idno>
@@ -5956,6 +5958,8 @@
                <name type="character" ref="#hsl_person_id_1557">Paolino</name>
                <name type="character" ref="#hsl_person_id_1558">Fidalma</name>
                <name type="character" ref="#hsl_person_id_1565">Conte Robinson</name>
+               <name type="character" ref="#hsl_person_id_9515">Carolina</name>
+               <name type="character" ref="#hsl_person_id_9517">Elisetta</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300358369</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q428319</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Il_matrimonio_segreto_(Cimarosa%2C_Domenico)</idno>
@@ -29118,6 +29122,7 @@
                <author ref="#hsl_person_id_3234">
                   <persName>Bayard, Jean-François-Alfred</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_9525">Gaspard</name>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10096938</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2995" resp="#awilfing" cert="high">
@@ -58258,6 +58263,119 @@ philosophes du 18 siècle</title>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1237697514</idno>
                <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2717528</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_princesse_jaune,_Op.30_(Saint-Sa%C3%ABns,_Camille)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7092" resp="#awilfing" cert="high">
+               <title type="main">Serenade für Orchester Nr. 1 in G-Dur, op. 18</title>
+               <author ref="#hsl_person_id_2624">
+                  <persName>Stanford, Charles Villiers</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7093" resp="#awilfing" cert="high">
+               <title type="main">Sonate für Klavier in f-Moll, op. 20</title>
+               <author ref="#hsl_person_id_1701">
+                  <persName>Busoni, Ferruccio</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300031211</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Sonata_in_F_minor%2C_BV_204_(Busoni%2C_Ferruccio)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7094" resp="#awilfing" cert="high">
+               <title type="main">Präludium und Fuge für Klavier, op. 5</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_7095">3 Morceaux für Klavier</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1701">
+                  <persName>Busoni, Ferruccio</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Morceaux,_BV_197_(Busoni,_Ferruccio)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7095" resp="#awilfing" cert="high">
+               <title type="main">3 Morceaux für Klavier</title>
+               <author ref="#hsl_person_id_1701">
+                  <persName>Busoni, Ferruccio</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/104717376X</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Morceaux,_BV_197_(Busoni,_Ferruccio)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7096" resp="#awilfing" cert="high">
+               <title type="main">Scène de ballet für Klavier, op. 6</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3452">3 Morceaux für Klavier, op. 71</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1701">
+                  <persName>Busoni, Ferruccio</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Morceaux,_BV_197_(Busoni,_Ferruccio)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7097" resp="#awilfing" cert="high">
+               <title type="main">Eunuchus</title>
+               <title type="alternative">Der Eunuch</title>
+               <author ref="#hsl_person_id_9510">
+                  <persName>Terentius Afer, Publius</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4361757-8</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1233598</idno>
+               <idno type="URL" subtype="Digitalisat">https://books.google.com.br/books?id=fJd8A_uP8g8C&amp;hl=de&amp;pg=PA99</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7098" resp="#awilfing" cert="high">
+               <title type="main">Laodicèa</title>
+               <title type="alternative">Laodicea</title>
+               <author ref="#hsl_person_id_1166">
+                  <persName>Paër, Ferdinando</persName>
+               </author>
+               <author ref="#hsl_person_id_3240">
+                  <persName>Foppa, Giuseppe</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1180407571</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7100" resp="#awilfing" cert="high">
+               <title type="main">The Clandestine Marriage</title>
+               <author ref="#hsl_person_id_4332">
+                  <persName>Garrick, David</persName>
+               </author>
+               <author ref="#hsl_person_id_9513">
+                  <persName>Colman, George</persName>
+               </author>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q7723256</idno>
+               <idno type="URL" subtype="Digitalisat">https://books.google.com.br/books?id=SQ9EAQAAMAAJ</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7101" resp="#awilfing" cert="high">
+               <title type="main">Sophie, ou le Mariage caché</title>
+               <author ref="#hsl_person_id_9512">
+                  <persName>Kohaut, Joseph</persName>
+               </author>
+               <author ref="#hsl_person_id_9514">
+                  <persName>Riccoboni, Marie Jeanne de Heurles Laboras de Mezières</persName>
+               </author>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q118247811</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7102" resp="#awilfing" cert="high">
+               <title type="main">Le stravaganze del conte</title>
+               <author ref="#hsl_person_id_928">
+                  <persName>Cimarosa, Domenico</persName>
+               </author>
+               <author ref="#hsl_person_id_2118">
+                  <persName>Metastasio, Pietro</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/120975407X</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q6508122</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_stravaganze_del_conte_(Cimarosa%2C_Domenico)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7103" resp="#awilfing" cert="high">
+               <title type="main">Der Vater der Debütantin</title>
+               <author ref="#hsl_person_id_2004">
+                  <persName>Willner, Alfred Maria</persName>
+               </author>
+               <author ref="#hsl_person_id_6339">
+                  <persName>Telle, Karl</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_9524">Windmüller</name>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7104" resp="#awilfing" cert="high">
+               <title type="main">Erinnerungen an Auber</title>
+               <author ref="#hsl_person_id_319">
+                  <persName>Wagner, Richard</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.wagner-schriften.de/synopsis?source=schriften_S_711110_Erinnerungen-an-Auber</idno>
             </bibl>
       </listBibl>
       </body>

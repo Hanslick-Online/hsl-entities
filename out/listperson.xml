@@ -8376,6 +8376,7 @@
                      <bibl n="hsl_work_id_6814">Richard Wagner. [Autobiographische Skizze]</bibl>
                      <bibl n="hsl_work_id_7037">Bianca und Giuseppe oder: Die Franzosen vor Nizza</bibl>
                      <bibl n="hsl_work_id_7085">"Zukunftsmusik." Brief an einen französischen Freund als Vorwort zu einer Prosa-Uebersetzung seiner Operndichtungen</bibl>
+                     <bibl n="hsl_work_id_7104">Erinnerungen an Auber</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_361" resp="#awilfing" cert="high">
@@ -15867,6 +15868,7 @@
                      <bibl n="hsl_work_id_2013">Gli Orazi e i Curiazi</bibl>
                      <bibl n="hsl_work_id_4369">Giuditta. La Betulia liberata, o sia La morte di Oloferne</bibl>
                      <bibl n="hsl_work_id_5326">Le astuzie femminili</bibl>
+                     <bibl n="hsl_work_id_7102">Le stravaganze del conte</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_929" resp="#awilfing" cert="high">
@@ -19184,6 +19186,7 @@
                      <bibl n="hsl_work_id_2614">Achille</bibl>
                      <bibl n="hsl_work_id_5225">Agnese</bibl>
                      <bibl n="hsl_work_id_5888">La biondina in gondoletta</bibl>
+                     <bibl n="hsl_work_id_7098">Laodicèa</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1167" resp="#awilfing" cert="high">
@@ -26757,6 +26760,12 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q219551</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/6539</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_B/Busoni_Ferruccio.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7093">Sonate für Klavier in f-Moll, op. 20</bibl>
+                     <bibl n="hsl_work_id_7094">Präludium und Fuge für Klavier, op. 5</bibl>
+                     <bibl n="hsl_work_id_7095">3 Morceaux für Klavier</bibl>
+                     <bibl n="hsl_work_id_7096">Scène de ballet für Klavier, op. 6</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1702" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -30848,6 +30857,7 @@
                      <bibl n="hsl_work_id_1459">Die Göttin der Vernunft</bibl>
                      <bibl n="hsl_work_id_2227">Rund um Wien</bibl>
                      <bibl n="hsl_work_id_2386">Amor auf Reisen</bibl>
+                     <bibl n="hsl_work_id_7103">Der Vater der Debütantin</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2005" resp="#awilfing" cert="medium">
@@ -32462,6 +32472,10 @@
                      <forename>Giovanni</forename>
                      <surname>Bertati</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Bertatti</surname>
+                  </persName>
                   <birth notBefore="1735-01-01" notAfter="1735-12-31">1735-1815</birth>
                   <death notBefore="1815-01-01" notAfter="1815-12-31">1735-1815</death>
                   <occupation style="background-color: light-orange;">Librettist</occupation>
@@ -32632,6 +32646,7 @@
                      <bibl n="hsl_work_id_4535">Alessandro nell'Indie (Fassung 1758)</bibl>
                      <bibl n="hsl_work_id_4536">Alessandro nell'Indie (Fassung 1774)</bibl>
                      <bibl n="hsl_work_id_5400">Semiramide riconosciuta</bibl>
+                     <bibl n="hsl_work_id_7102">Le stravaganze del conte</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2119" resp="#awilfing" cert="medium">
@@ -37303,7 +37318,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q980702</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_K/Kelly_Michael.xml</idno>
                </person>
-               <person xml:id="hsl_person_id_2442" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_2442" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Samuel</forename>
                      <surname>Harrison</surname>
@@ -39632,6 +39647,9 @@
                   <occupation style="background-color: red;">Dirigent</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119032406</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q368264</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7092">Serenade für Orchester Nr. 1 in G-Dur, op. 18</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_2625" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -45330,6 +45348,10 @@
                      <forename>Willibald</forename>
                      <surname>Horwitz</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Horowitz</surname>
+                  </persName>
                   <birth notBefore="1843-01-01" notAfter="1843-12-31">1843-1903</birth>
                   <death notBefore="1903-01-01" notAfter="1903-12-31">1843-1903</death>
                   <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
@@ -47603,6 +47625,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1373">L'inganno felice</bibl>
                      <bibl n="hsl_work_id_3407">Giulietta e Romeo</bibl>
+                     <bibl n="hsl_work_id_7098">Laodicèa</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3241" resp="#awilfing" cert="medium">
@@ -61669,6 +61692,9 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118716425</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q222390</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/114101</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7100">The Clandestine Marriage</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_4333" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -85903,6 +85929,7 @@
                      <bibl n="hsl_work_id_6711">Melusine</bibl>
                      <bibl n="hsl_work_id_6769">An der Beresina</bibl>
                      <bibl n="hsl_work_id_6976">Sakuntala</bibl>
+                     <bibl n="hsl_work_id_7103">Der Vater der Debütantin</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_6340" resp="#awilfing" cert="high">
@@ -112473,6 +112500,306 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_7088">Maître Pathelin</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9503" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Franklin</forename>
+                     <surname>Taylor</surname>
+                  </persName>
+                  <birth notBefore="1843-01-01" notAfter="1843-12-31">1843-1919</birth>
+                  <death notBefore="1919-01-01" notAfter="1919-12-31">1843-1919</death>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/104026332</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4453756</idno>
+               </person>
+               <person xml:id="hsl_person_id_9504" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>John Francis</forename>
+                     <surname>Barnett</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Burnett</surname>
+                  </persName>
+                  <birth notBefore="1837-01-01" notAfter="1837-12-31">1837-1916</birth>
+                  <death notBefore="1916-01-01" notAfter="1916-12-31">1837-1916</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: dark-orange;">Pianist</occupation>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116059028</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4078429</idno>
+               </person>
+               <person xml:id="hsl_person_id_9505" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Wolker</surname>
+                  </persName>
+                  <birth>unbekannt (19. Jhdt.)</birth>
+                  <death>unbekannt (19. Jhdt.)</death>
+                  <occupation style="background-color: gray;">Sängerin</occupation>
+               </person>
+               <person xml:id="hsl_person_id_9506" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>?</forename>
+                     <surname>Virag</surname>
+                  </persName>
+                  <birth>unbekannt (19. Jhdt.)</birth>
+                  <death>unbekannt (19. Jhdt.)</death>
+                  <occupation style="background-color: gray;">Sängerin</occupation>
+               </person>
+               <person xml:id="hsl_person_id_9507" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Irene</forename>
+                     <surname>Pewny</surname>
+                  </persName>
+                  <birth notBefore="1865-01-01" notAfter="1865-12-31">1865-1915</birth>
+                  <death notBefore="1915-01-01" notAfter="1915-12-31">1865-1915</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/133612163</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q71990389</idno>
+               </person>
+               <person xml:id="hsl_person_id_9508" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Juan</forename>
+                     <surname>Luria</surname>
+                  </persName>
+                  <birth notBefore="1862-01-01" notAfter="1862-12-31">1862-1943</birth>
+                  <death notBefore="1943-01-01" notAfter="1943-12-31">1862-1943</death>
+                  <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/133045110</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3205027</idno>
+               </person>
+               <person xml:id="hsl_person_id_9509" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Wilhelm</forename>
+                     <surname>Stigler-Staeven</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Stiegler</surname>
+                  </persName>
+                  <birth notBefore="1846-01-01" notAfter="1846-12-31">1846-1918</birth>
+                  <death notBefore="1918-01-01" notAfter="1918-12-31">1846-1918</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <occupation style="background-color: darker-blue;">Apotheker</occupation>
+                  <occupation style="background-color: dark-gray;">Chemiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1329915674</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q94846637</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Stigler_Wilhelm_1846_1918.xml</idno>
+               </person>
+               <person xml:id="hsl_person_id_9510" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Publius</forename>
+                     <surname>Terentius Afer</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Terenz</surname>
+                  </persName>
+                  <birth>unbekannt (2. Jhdt. v.u.Z.)</birth>
+                  <death>unbekannt (2. Jhdt. v.u.Z.)</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118621335</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q172048</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7097">Eunuchus</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9511" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Adele</forename>
+                     <surname>Percy</surname>
+                  </persName>
+                  <birth>unbekannt (19. Jhdt.)</birth>
+                  <death>unbekannt (19. Jhdt.)</death>
+                  <occupation style="background-color: gray;">Sängerin</occupation>
+               </person>
+               <person xml:id="hsl_person_id_9512" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Joseph</forename>
+                     <surname>Kohaut</surname>
+                  </persName>
+                  <birth notBefore="1736-01-01" notAfter="1736-12-31">1736-1793</birth>
+                  <death notBefore="1793-01-01" notAfter="1793-12-31">1736-1793</death>
+                  <occupation style="background-color: light-gray;">Beamter</occupation>
+                  <occupation style="background-color: darker-green;">Lautist</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/121366316</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1705009</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_K/Kohaut_Karl.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7101">Sophie, ou le Mariage caché</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9513" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>George</forename>
+                     <surname>Colman</surname>
+                  </persName>
+                  <birth notBefore="1732-01-01" notAfter="1732-12-31">1732-1794</birth>
+                  <death notBefore="1794-01-01" notAfter="1794-12-31">1732-1794</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118669796</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q898147</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7100">The Clandestine Marriage</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9514" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Marie Jeanne de Heurles Laboras de Mezières</forename>
+                     <surname>Riccoboni</surname>
+                  </persName>
+                  <birth notBefore="1713-01-01" notAfter="1713-12-31">1713-1792</birth>
+                  <death notBefore="1792-01-01" notAfter="1792-12-31">1713-1792</death>
+                  <occupation style="background-color: dark-red;">Schauspielerin</occupation>
+                  <occupation style="background-color: gray;">Schriftstellerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119500582</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3087936</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7101">Sophie, ou le Mariage caché</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9515" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Carolina</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Caroline</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_546">Il matrimonio segreto</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9516" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Emma</forename>
+                     <surname>Albertazzi</surname>
+                  </persName>
+                  <birth notBefore="1814-01-01" notAfter="1814-12-31">1814-1847</birth>
+                  <death notBefore="1847-01-01" notAfter="1847-12-31">1814-1847</death>
+                  <occupation style="background-color: dark-gray;">Sängerin (Alt)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116276452</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5372716</idno>
+               </person>
+               <person xml:id="hsl_person_id_9517" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Elisetta</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Lisette</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_546">Il matrimonio segreto</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9518" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Gaspare</forename>
+                     <surname>Pacchierotti</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Pachiarotti</surname>
+                  </persName>
+                  <birth notBefore="1740-01-01" notAfter="1740-12-31">1740-1821</birth>
+                  <death notBefore="1821-01-01" notAfter="1821-12-31">1740-1821</death>
+                  <occupation style="background-color: dark-orange;">Sänger (Kastrat)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/101536375X</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q589048</idno>
+               </person>
+               <person xml:id="hsl_person_id_9519" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Oreste</forename>
+                     <surname>Bimboni</surname>
+                  </persName>
+                  <birth notBefore="1846-01-01" notAfter="1846-12-31">1846-1905</birth>
+                  <death notBefore="1905-01-01" notAfter="1905-12-31">1846-1905</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: red;">Dirigent</occupation>
+                  <occupation style="background-color: light-red;">Musiklehrer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/142970530</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q55225669</idno>
+               </person>
+               <person xml:id="hsl_person_id_9520" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Leuthold</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Conrad Baumgarten; Leutoldo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_186">Guillaume Tell</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9521" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Walter Furst</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Walther Fürst</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_186">Guillaume Tell</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9522" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Enrico</forename>
+                     <surname>Gasperini</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Gasparini</surname>
+                  </persName>
+                  <birth>unbekannt (19. Jhdt.)</birth>
+                  <death>unbekannt (19. Jhdt.)</death>
+                  <occupation style="background-color: dark-gray;">Sänger (Bassist)</occupation>
+               </person>
+               <person xml:id="hsl_person_id_9523" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Ersilia</forename>
+                     <surname>Malvezzi</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Malvazzi</surname>
+                  </persName>
+                  <birth>unbekannt (19. Jhdt.)</birth>
+                  <death>unbekannt (19. Jhdt.)</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+               </person>
+               <person xml:id="hsl_person_id_9524" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Windmüller</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_7103">Der Vater der Debütantin</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9525" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Gaspard</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Windmüller</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2994">Le Père de la débutante</bibl>
                   </listBibl>
                </person>
             </listPerson>
