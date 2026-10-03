@@ -7341,6 +7341,7 @@
                <place xml:id="hsl_place_id_596" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Konstanz</placeName>
+                     <placeName type="alternative">Constanz</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
@@ -7348,7 +7349,7 @@
                      <geo>47.66033, 9.17582</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2885679/</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q32066622</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3834</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4032215-4</idno>
                </place>
                <place xml:id="hsl_place_id_598" resp="#awilfing" cert="high">
@@ -11841,6 +11842,29 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2652355/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q23148</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4010579-9</idno>
+               </place>
+               <place xml:id="hsl_place_id_1545" resp="#awilfing" cert="high">
+                  <placeName type="main">Rhume</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2847549/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q521276</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4103777-7</idno>
+               </place>
+               <place xml:id="hsl_place_id_1546" resp="#awilfing" cert="high">
+                  <placeName type="main">Schaffhausen</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/7287070/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q9009</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4051993-4</idno>
+               </place>
+               <place xml:id="hsl_place_id_1547" resp="#awilfing" cert="high">
+                  <placeName type="main">Rigi</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2659027/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15291</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4050044-5</idno>
+               </place>
+               <place xml:id="hsl_place_id_1548" resp="#awilfing" cert="high">
+                  <placeName type="main">Faulhorn</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2660813/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q674769</idno>
                </place>
             </listPlace>
          </div>

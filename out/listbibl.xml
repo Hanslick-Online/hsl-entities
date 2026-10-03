@@ -1469,9 +1469,10 @@
                <name type="character" ref="#hsl_person_id_6847">Henriette</name>
                <name type="character" ref="#hsl_person_id_6848">Madame Bertrand</name>
                <name type="character" ref="#hsl_person_id_6849">Baptiste</name>
-               <name type="character" ref="#hsl_person_id_6850">Léon de Merinville</name>
+               <name type="character" ref="#hsl_person_id_6850">Léon de Mérinville</name>
                <name type="character" ref="#hsl_person_id_6851">Irma</name>
                <name type="character" ref="#hsl_person_id_6855">Roger</name>
+               <name type="character" ref="#hsl_person_id_9528">Usbeck</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4667404-4</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1809978</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_ma%C3%A7on_(Auber%2C_Daniel_Fran%C3%A7ois_Esprit)</idno>
@@ -40888,12 +40889,13 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Trio_No.2,_Op.87_(Brahms,_Johannes)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4319" resp="#awilfing" cert="high">
-               <title type="main">Variationen über ein Thema von Haydn für Orchester, op. 56</title>
+               <title type="main">Variationen über ein Thema von Haydn für Orchester, op. 56a</title>
                <title type="alternative">Orchester-Variationen über ein Haydn'sches Thema</title>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300027311</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1358378</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Variations_on_a_Theme_by_Haydn,_Op.56_(Brahms,_Johannes)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4320" resp="#awilfing" cert="high">
@@ -51671,7 +51673,7 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_5968" resp="#awilfing" cert="high">
                <title type="main">Les noces de Jeannette</title>
-               <title type="alternative">Hochzeit Jeannettens; Jeannettens Hochzeit; Nachtigallen-Arie</title>
+               <title type="alternative">Hochzeit Jeannettens; Jeanettens Hochzeit; Jeannettens Hochzeit</title>
                <author ref="#hsl_person_id_84">
                   <persName>Carré, Michel</persName>
                </author>
@@ -58376,6 +58378,147 @@ philosophes du 18 siècle</title>
                   <persName>Wagner, Richard</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.wagner-schriften.de/synopsis?source=schriften_S_711110_Erinnerungen-an-Auber</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7105" resp="#awilfing" cert="high">
+               <title type="main">Habanera, op. 21 Nr. 2</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_7106">Spanische Tänze für Violine und Klavier, op. 21</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_3505">
+                  <persName>Sarasate, Pablo de</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300468059</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Spanish_Dances,_Op.21_(Sarasate,_Pablo_de)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7106" resp="#awilfing" cert="high">
+               <title type="main">Spanische Tänze für Violine und Klavier, op. 21</title>
+               <author ref="#hsl_person_id_3505">
+                  <persName>Sarasate, Pablo de</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://imslp.org/wiki/Spanish_Dances,_Op.21_(Sarasate,_Pablo_de)</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Spanish_Dances,_Op.21_(Sarasate,_Pablo_de)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7107" resp="#awilfing" cert="high">
+               <title type="main">Aus hohen Bergen, op. 110</title>
+               <author ref="#hsl_person_id_9526">
+                  <persName>Möhring, Ferdinand</persName>
+               </author>
+               <author ref="#hsl_person_id_9527">
+                  <persName>Mäurer, German</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1355361958</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7109" resp="#awilfing" cert="high">
+               <title type="main">Die einsame Mühle, op. 68</title>
+               <author ref="#hsl_person_id_4243">
+                  <persName>Mair, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7110" resp="#awilfing" cert="high">
+               <title type="main">Ouvertüre zu Byron's Kain, op. 16</title>
+               <author ref="#hsl_person_id_1327">
+                  <persName>Heuberger, Richard</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1265588538</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7111" resp="#awilfing" cert="high">
+               <title type="main">4 Gesänge für Singstimme und Klavier, op. 13</title>
+               <author ref="#hsl_person_id_1278">
+                  <persName>Heyse, Paul</persName>
+               </author>
+               <author ref="#hsl_person_id_1327">
+                  <persName>Heuberger, Richard</persName>
+               </author>
+               <author ref="#hsl_person_id_3621">
+                  <persName>Kapper, Siegfried</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7112" resp="#awilfing" cert="high">
+               <title type="main">Bitt' ihn, o Mutter, op. 13. Nr. 2</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_7111">4 Gesänge für Singstimme und Klavier, op. 13</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1278">
+                  <persName>Heyse, Paul</persName>
+               </author>
+               <author ref="#hsl_person_id_1327">
+                  <persName>Heuberger, Richard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7113" resp="#awilfing" cert="high">
+               <title type="main">Sagt, seid Ihr es, feiner Herr, op. 13 Nr. 3</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_7111">4 Gesänge für Singstimme und Klavier, op. 13</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1278">
+                  <persName>Heyse, Paul</persName>
+               </author>
+               <author ref="#hsl_person_id_1327">
+                  <persName>Heuberger, Richard</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7114" resp="#awilfing" cert="high">
+               <title type="main">Geht dir’s wohl, so denk’ du an mich</title>
+               <title type="alternative">Geht dir’s wohl, so denk’ an mich</title>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1398188352</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7115" resp="#awilfing" cert="high">
+               <title type="main">Der Erbe von Morley, op. 30</title>
+               <author ref="#hsl_person_id_5803">
+                  <persName>Holstein, Franz von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1223213986</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Erbe_von_Morley%2C_Op.30_(Holstein%2C_Franz_von)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7116" resp="#awilfing" cert="high">
+               <title type="main">Bühnenfestspiele zu Bayreuth 1884. Ein Handbüchlein für Parsifal-Pilger</title>
+               <author ref="#hsl_person_id_9308">
+                  <persName>Kastner, Emerich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7117" resp="#awilfing" cert="high">
+               <title type="main">Professor Dr. G. Jägers Monatsblatt. Zeitschrift für Gesundheitspflege u. Lebenslehre</title>
+               <author ref="#hsl_person_id_9447">
+                  <persName>Jaeger, Gustav</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/en/details/bsb11874160</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7118" resp="#awilfing" cert="high">
+               <title type="main">Biographische Notizen über die geistige Entwicklung des Philosophen Edmund von Hagen bis zum 34. Lebensjahre. 10. August 1850 bis 10. August 1884</title>
+               <author ref="#hsl_person_id_6072">
+                  <persName>Hagen, Edmund von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10983507</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7119" resp="#awilfing" cert="high">
+               <title type="main">Es giebt so bange Zeiten, op. 63</title>
+               <author ref="#hsl_person_id_9531">
+                  <persName>Kiel, Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_9532">
+                  <persName>Novalis</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7120" resp="#awilfing" cert="high">
+               <title type="main">Die Rebe</title>
+               <title type="alternative">La Vigue</title>
+               <author ref="#hsl_person_id_244">
+                  <persName>Rubinštejn, Anton G.</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1189756226</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Rebe_(Rubinstein%2C_Anton)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7121" resp="#awilfing" cert="high">
+               <title type="main">Excelsior</title>
+               <author ref="#hsl_person_id_6555">
+                  <persName>Marenco, Romualdo</persName>
+               </author>
+               <author ref="#hsl_person_id_9533">
+                  <persName>Manzotti, Luigi</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7839905-1</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3061796</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Excelsior_(Marenco,_Romualdo)</idno>
             </bibl>
       </listBibl>
       </body>
