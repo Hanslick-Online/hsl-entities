@@ -3050,6 +3050,7 @@
                      <bibl n="hsl_work_id_6969">Der Zauberflöte zweyter Theil</bibl>
                      <bibl n="hsl_work_id_7072">Wer kauft Liebesgötter?, D261</bibl>
                      <bibl n="hsl_work_id_7081">Die Liebesgötter auf dem Markte</bibl>
+                     <bibl n="hsl_work_id_7151">Sakontola</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_101" resp="#awilfing" cert="high">
@@ -3965,6 +3966,7 @@
                      <bibl n="hsl_work_id_3942">Gastibelza, l'homme à la carabine</bibl>
                      <bibl n="hsl_work_id_4469">L'attente, WWV55</bibl>
                      <bibl n="hsl_work_id_6973">Angelo, tyran de Padoue</bibl>
+                     <bibl n="hsl_work_id_7146">Mazeppa</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_132" resp="#awilfing" cert="high">
@@ -16932,7 +16934,9 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q161145</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/153096</idno>
                   <listBibl type="authorOf">
-                     <bibl n="hsl_work_id_4401">Die Beichte des Räubers</bibl>
+                     <bibl n="hsl_work_id_4401">La Confession d'un brigand</bibl>
+                     <bibl n="hsl_work_id_7152">Mazeppa aux chevaux</bibl>
+                     <bibl n="hsl_work_id_7153">Mazeppa aux loups</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1006" resp="#awilfing" cert="high">
@@ -25857,6 +25861,7 @@
                      <bibl n="hsl_work_id_6857">Hebräische Gesänge II, op. 5</bibl>
                      <bibl n="hsl_work_id_6858">Hebräische Gesänge III, op. 13</bibl>
                      <bibl n="hsl_work_id_6860">Hebräische Gesänge IV, op. 14</bibl>
+                     <bibl n="hsl_work_id_7156">Mazeppa</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1636" role="fictional" resp="#awilfing" cert="high">
@@ -109164,6 +109169,10 @@
                      <forename>Rosine</forename>
                      <surname>Menzel</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Rosina</forename>
+                     <surname>Menzel</surname>
+                  </persName>
                   <birth notBefore="1863-01-01" notAfter="1863-12-31">1863-1920</birth>
                   <death notBefore="1920-01-01" notAfter="1920-12-31">1863-1920</death>
                   <occupation style="background-color: dark-blue;">Pianistin</occupation>
@@ -113185,6 +113194,46 @@
                   <birth>unbekannt (18. Jhdt.)</birth>
                   <death>unbekannt (18. Jhdt.)</death>
                   <occupation style="background-color: dark-brown;">Bratschist</occupation>
+               </person>
+               <person xml:id="hsl_person_id_9552" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Duṣyanta</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Duschmanta</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1413">Abhijñānaśākuntala</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9553" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Durvāsas</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1413">Abhijñānaśākuntala</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9554" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Indra</surname>
+                  </persName>
+                  <occupation style="background-color: dark-gray;">Gottheit</occupation>
+                  <idno type="URI" subtype="GND">ttps://d-nb.info/gnd/119224402</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q128335</idno>
+               </person>
+               <person xml:id="hsl_person_id_9555" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Stanisław</forename>
+                     <surname>Falibowski</surname>
+                  </persName>
+                  <birth>unbekannt (17. Jhdt.)</birth>
+                  <death>unbekannt (17. Jhdt.)</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
                </person>
             </listPerson>
          </div>

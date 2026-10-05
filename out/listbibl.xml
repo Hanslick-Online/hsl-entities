@@ -10069,6 +10069,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_970" resp="#awilfing" cert="high">
                <title type="main">Serenade für 2 Oboen, 2 Klarinetten, 2 Fagotte, Kontrafagott, 3 Hörner, Cello und Kontrabass in d-Moll, B77</title>
+               <title type="alternative">Serenade für Blas-Instrumente</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
@@ -14554,9 +14555,11 @@
                   <persName>Kalidasa</persName>
                </author>
                <name type="character" ref="#hsl_person_id_9449">Sakuntala</name>
+               <name type="character" ref="#hsl_person_id_9552">Duṣyanta</name>
+               <name type="character" ref="#hsl_person_id_9553">Durvāsas</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4401799-6</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q320594</idno>
-               <idno type="URL" subtype="Digitalisat">http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/1_sanskr/5_poetry/3_drama/ksakunxu.htm</idno>
+               <idno type="URL" subtype="Digitalisat">https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/5_poetry/3_drama/ksakunxu.htm ; https://www.digitale-sammlungen.de/de/view/bsb10603884?page=163</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1414" resp="#awilfing" cert="high">
                <title type="main">Franz Schubert. Zu seinem hundertsten Geburtstage</title>
@@ -41503,10 +41506,12 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Zerline_(Auber%2C_Daniel_Fran%C3%A7ois_Esprit)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4401" resp="#awilfing" cert="high">
-               <title type="main">Die Beichte des Räubers</title>
+               <title type="main">La Confession d'un brigand</title>
+               <title type="alternative">Die Beichte des Räubers</title>
                <author ref="#hsl_person_id_1005">
                   <persName>Vernet, Horace</persName>
                </author>
+               <idno type="URL" subtype="Digitalisat">https://commons.wikimedia.org/wiki/File:Confession_d%27un_brigand_-_(estampe)_(%C3%89tat_sans_la_lettre)_-_Grav%C3%A9_par_Jazet_;_Peint_%C3%A0_Rome_par_H._Vernet_-_btv1b53293178f.jpg</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4402" resp="#awilfing" cert="high">
                <title type="main">Marco Spada, AWV43</title>
@@ -57223,6 +57228,7 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_6873" resp="#awilfing" cert="medium">
                <title type="main">Serenade für Streicher in E-Dur, B52</title>
+               <title type="alternative">Serenade für Streich-Instrumente</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
@@ -57232,6 +57238,7 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_6874" resp="#awilfing" cert="high">
                <title type="main">An die Nacht, op. 45</title>
+               <title type="alternative">Die Nacht</title>
                <author ref="#hsl_person_id_317">
                   <persName>Volkmann, Robert</persName>
                </author>
@@ -58761,7 +58768,13 @@ philosophes du 18 siècle</title>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_7146" resp="#awilfing" cert="high">
-               <title type="main"/>
+               <title type="main">Mazeppa</title>
+               <author ref="#hsl_person_id_131">
+                  <persName>Hugo, Victor</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1143874218</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q28039155</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k37473k/f185.item</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_7147" resp="#awilfing" cert="high">
                <title type="main">Johannes Brahms</title>
@@ -58794,6 +58807,45 @@ philosophes du 18 siècle</title>
                   <persName>Thieriot, Ferdinand</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Trio,_Op.14_(Thieriot,_Ferdinand)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7151" resp="#awilfing" cert="high">
+               <title type="main">Sakontola</title>
+               <title type="alternative">Sakuntala</title>
+               <author ref="#hsl_person_id_100">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7862659-6</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.e-rara.ch/zuz/doi/10.3931/e-rara-78527</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7152" resp="#awilfing" cert="high">
+               <title type="main">Mazeppa aux chevaux</title>
+               <author ref="#hsl_person_id_1005">
+                  <persName>Vernet, Horace</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://collections.louvre.fr/en/ark:/53355/cl010056354</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7153" resp="#awilfing" cert="high">
+               <title type="main">Mazeppa aux loups</title>
+               <author ref="#hsl_person_id_1005">
+                  <persName>Vernet, Horace</persName>
+               </author>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q28820684</idno>
+               <idno type="URL" subtype="Digitalisat">https://commons.wikimedia.org/wiki/File:Vernet,_Horace_-_Mazeppa_and_the_Wolves_-_1826.jpg</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7154" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7155" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7156" resp="#awilfing" cert="medium">
+               <title type="main">Mazeppa</title>
+               <author ref="#hsl_person_id_1635">
+                  <persName>Byron, Baron George Gordon Byron</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4483981-9</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2028190</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/mazeppapoem00byrorich/page/n4/mode/1up</idno>
             </bibl>
       </listBibl>
       </body>
