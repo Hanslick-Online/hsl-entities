@@ -7479,6 +7479,7 @@
                      <bibl n="hsl_work_id_7054">Stirb, Lieb' und Freud', op. 35 Nr. 2</bibl>
                      <bibl n="hsl_work_id_7055">Stille Thränen, op. 35 Nr. 10</bibl>
                      <bibl n="hsl_work_id_7056">Schöne Wiege meiner Leiden, op. 24 Nr. 5</bibl>
+                     <bibl n="hsl_work_id_7148">Novellette für Klavier in fis-Moll, op. 21 Nr. 8</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_283" resp="#awilfing" cert="high">
@@ -41953,6 +41954,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1546466</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3976">Ludwig van Beethoven's Leben</bibl>
+                     <bibl n="hsl_work_id_7147">Johannes Brahms</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2797" resp="#awilfing" cert="high">
@@ -64406,6 +64408,10 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117338311</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q90721</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_T/Thieriot_Ferdinand.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7149">Trio für Violine, Cello und Klavier in D-Dur, op. 1</bibl>
+                     <bibl n="hsl_work_id_7150">Trio für Violine, Cello und Klavier in f-Moll, op. 14</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_4558" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -113119,6 +113125,66 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_7145">Serenade für Bläser</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9546" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Otto</forename>
+                     <surname>Forberg</surname>
+                  </persName>
+                  <birth>unbekannt (19. Jhdt.)</birth>
+                  <death>unbekannt (19. Jhdt.)</death>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+                  <occupation style="background-color: dark-brown;">Bratschist</occupation>
+               </person>
+               <person xml:id="hsl_person_id_9547" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Theodor</forename>
+                     <surname>Allekotte</surname>
+                  </persName>
+                  <birth>unbekannt (19. Jhdt.)</birth>
+                  <death>unbekannt (19. Jhdt.)</death>
+                  <occupation style="background-color: light-gray;">Violinist</occupation>
+                  <occupation style="background-color: dark-brown;">Bratschist</occupation>
+               </person>
+               <person xml:id="hsl_person_id_9548" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Richard</forename>
+                     <surname>Bellmann</surname>
+                  </persName>
+                  <birth>1844-?</birth>
+                  <death>1844-?</death>
+                  <occupation style="background-color: light-purple;">Cellist</occupation>
+               </person>
+               <person xml:id="hsl_person_id_9549" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Henriette</forename>
+                     <surname>Fritsch-Estrangin</surname>
+                  </persName>
+                  <birth notBefore="1852-01-01" notAfter="1852-12-31">1852-1943</birth>
+                  <death notBefore="1943-01-01" notAfter="1943-12-31">1852-1943</death>
+                  <occupation style="background-color: dark-blue;">Pianistin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1265142459</idno>
+               </person>
+               <person xml:id="hsl_person_id_9550" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Anton</forename>
+                     <surname>Kraft</surname>
+                  </persName>
+                  <birth notBefore="1749-01-01" notAfter="1749-12-31">1749-1820</birth>
+                  <death notBefore="1820-01-01" notAfter="1820-12-31">1749-1820</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-purple;">Cellist</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/129988863</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q591251</idno>
+               </person>
+               <person xml:id="hsl_person_id_9551" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Anton</forename>
+                     <surname>Schreiber</surname>
+                  </persName>
+                  <birth>unbekannt (18. Jhdt.)</birth>
+                  <death>unbekannt (18. Jhdt.)</death>
+                  <occupation style="background-color: dark-brown;">Bratschist</occupation>
                </person>
             </listPerson>
          </div>
