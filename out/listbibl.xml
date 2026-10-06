@@ -8694,6 +8694,9 @@
             </bibl>
             <bibl xml:id="hsl_work_id_846" resp="#awilfing" cert="high">
                <title type="main">Der Spielmann</title>
+               <author ref="#hsl_person_id_1024">
+                  <persName>Uhl, Friedrich</persName>
+               </author>
                <author ref="#hsl_person_id_1266">
                   <persName>Forster, Josef</persName>
                </author>
@@ -14557,6 +14560,7 @@
                <name type="character" ref="#hsl_person_id_9449">Sakuntala</name>
                <name type="character" ref="#hsl_person_id_9552">Duṣyanta</name>
                <name type="character" ref="#hsl_person_id_9553">Durvāsas</name>
+               <name type="character" ref="#hsl_person_id_9556">Bharata</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4401799-6</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q320594</idno>
                <idno type="URL" subtype="Digitalisat">https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/5_poetry/3_drama/ksakunxu.htm ; https://www.digitale-sammlungen.de/de/view/bsb10603884?page=163</idno>
@@ -56056,6 +56060,9 @@ philosophes du 18 siècle</title>
                <author ref="#hsl_person_id_64">
                   <persName>Doppler, Franz</persName>
                </author>
+               <author ref="#hsl_person_id_1024">
+                  <persName>Uhl, Friedrich</persName>
+               </author>
                <author ref="#hsl_person_id_6339">
                   <persName>Telle, Karl</persName>
                </author>
@@ -57522,6 +57529,9 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_6976" resp="#awilfing" cert="high">
                <title type="main">Sakuntala</title>
+               <author ref="#hsl_person_id_1024">
+                  <persName>Uhl, Friedrich</persName>
+               </author>
                <author ref="#hsl_person_id_1250">
                   <persName>Bachrich, Siegmund</persName>
                </author>
@@ -57534,6 +57544,8 @@ philosophes du 18 siècle</title>
                <name type="character" ref="#hsl_person_id_9453">Duschanta</name>
                <name type="character" ref="#hsl_person_id_9454">Mathavja</name>
                <name type="character" ref="#hsl_person_id_9455">Fischer</name>
+               <name type="character" ref="#hsl_person_id_9557">Durwasa</name>
+               <name type="character" ref="#hsl_person_id_9558">Nymphe</name>
             </bibl>
             <bibl xml:id="hsl_work_id_7014" resp="#awilfing" cert="high">
                <title type="main">Te Deum, H118</title>
@@ -57659,8 +57671,10 @@ philosophes du 18 siècle</title>
                <author ref="#hsl_person_id_9468">
                   <persName>Polidori, John William</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_9560">Lord Ruthven</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1131100492</idno>
                <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q509070</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/thevampyretale00poliuoft/page/n6/mode/1up</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_7029" resp="#awilfing" cert="high">
                <title type="main">Sinngedichte, op. 1</title>
@@ -58832,11 +58846,26 @@ philosophes du 18 siècle</title>
                <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q28820684</idno>
                <idno type="URL" subtype="Digitalisat">https://commons.wikimedia.org/wiki/File:Vernet,_Horace_-_Mazeppa_and_the_Wolves_-_1826.jpg</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_7154" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_7154" resp="#awilfing" cert="high">
+               <title type="main">Sakuntala, op. 9</title>
+               <author ref="#hsl_person_id_2760">
+                  <persName>Weingartner, Felix</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Sakuntala%2C_Op.9_(Weingartner%2C_Felix)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_7155" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_7155" resp="#awilfing" cert="high">
+               <title type="main">Sacountalâ</title>
+               <title type="alternative">Sacountala</title>
+               <author ref="#hsl_person_id_1312">
+                  <persName>Reyer, Ernest</persName>
+               </author>
+               <author ref="#hsl_person_id_2249">
+                  <persName>Petipa, Marius</persName>
+               </author>
+               <author ref="#hsl_person_id_5790">
+                  <persName>Gautier, Théophile</persName>
+               </author>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q21057278</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_7156" resp="#awilfing" cert="medium">
                <title type="main">Mazeppa</title>
@@ -58846,6 +58875,13 @@ philosophes du 18 siècle</title>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4483981-9</idno>
                <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2028190</idno>
                <idno type="URL" subtype="Digitalisat">https://archive.org/details/mazeppapoem00byrorich/page/n4/mode/1up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7157" resp="#awilfing" cert="high">
+               <title type="main">Sakuntala, frei nach Kalidasa's altindischen Drama</title>
+               <author ref="#hsl_person_id_1411">
+                  <persName>Wolzogen, Alfred von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10251011</idno>
             </bibl>
       </listBibl>
       </body>

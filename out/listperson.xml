@@ -17281,6 +17281,9 @@
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_U/Uhl_Friedrich_1825_1906.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_159">Jolanthe</bibl>
+                     <bibl n="hsl_work_id_846">Der Spielmann</bibl>
+                     <bibl n="hsl_work_id_6711">Melusine</bibl>
+                     <bibl n="hsl_work_id_6976">Sakuntala</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1025" role="fictional" resp="#awilfing" cert="high">
@@ -21419,6 +21422,7 @@
                      <bibl n="hsl_work_id_3198">La statue</bibl>
                      <bibl n="hsl_work_id_5922">Erostrate</bibl>
                      <bibl n="hsl_work_id_5923">Sigurd</bibl>
+                     <bibl n="hsl_work_id_7155">Sacountalâ</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1313" role="fictional" resp="#awilfing" cert="high">
@@ -22964,6 +22968,9 @@
                   <occupation style="background-color: dark-blue;">Theaterdirektor</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117435325</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1487508</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7157">Sakuntala, frei nach Kalidasa's altindischen Drama</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1412" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -34930,6 +34937,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q312320</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_1196">Ščelkunčik, TH14</bibl>
+                     <bibl n="hsl_work_id_7155">Sacountalâ</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2250" resp="#awilfing" cert="medium">
@@ -41480,6 +41488,7 @@
                      <bibl n="hsl_work_id_1626">Die Symphonie nach Beethoven</bibl>
                      <bibl n="hsl_work_id_1813">Über das Dirigieren</bibl>
                      <bibl n="hsl_work_id_1814">Genesius, op. 14</bibl>
+                     <bibl n="hsl_work_id_7154">Sakuntala, op. 9</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2761" role="fictional" resp="#awilfing" cert="high">
@@ -79229,6 +79238,7 @@
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/52643</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3969">Giselle</bibl>
+                     <bibl n="hsl_work_id_7155">Sacountalâ</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_5791" resp="#awilfing" cert="high">
@@ -113068,11 +113078,17 @@
                   <death>unbekannt (19. Jhdt.)</death>
                   <occupation style="background-color: dark-gray;">Sängerin (Alt)</occupation>
                </person>
-               <person xml:id="hsl_person_id_9541" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_9541" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Georg</forename>
+                     <surname>Ebers</surname>
                   </persName>
+                  <birth notBefore="1837-01-01" notAfter="1837-12-31">1837-1898</birth>
+                  <death notBefore="1898-01-01" notAfter="1898-12-31">1837-1898</death>
+                  <occupation style="background-color: light-cyan;">Ägyptologe</occupation>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118681559</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q62765</idno>
                </person>
                <person xml:id="hsl_person_id_9542" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -113234,6 +113250,59 @@
                   <birth>unbekannt (17. Jhdt.)</birth>
                   <death>unbekannt (17. Jhdt.)</death>
                   <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+               </person>
+               <person xml:id="hsl_person_id_9556" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Bharata</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1413">Abhijñānaśākuntala</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9557" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Durwasa</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_6976">Sakuntala</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9558" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Nymphe</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_6976">Sakuntala</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9559" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Viśvāmitra</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Wismaritra</surname>
+                  </persName>
+                  <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/120569051</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2773345</idno>
+               </person>
+               <person xml:id="hsl_person_id_9560" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Lord Ruthven</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Lord Ruthwen</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_7028">The Vampyre</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
