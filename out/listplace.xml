@@ -11718,8 +11718,15 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4090536-6</idno>
                </place>
                <place xml:id="hsl_place_id_1494" resp="#awilfing" cert="high">
-                  <placeName type="main">Rothesay</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Rothesay</placeName>
                      <placeName type="alternative">Rothsay</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>GB, United Kingdom</country>
+                  <location type="coords">
+                     <geo>55.83648, -5.05508</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2639083/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1818828</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4236747-5</idno>
@@ -11731,8 +11738,15 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4123754-7</idno>
                </place>
                <place xml:id="hsl_place_id_1496" resp="#awilfing" cert="high">
-                  <placeName type="main">Buenos Aires</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Buenos Aires</placeName>
                      <placeName type="alternative">Buenos-Ayres</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>AR, Argentina</country>
+                  <location type="coords">
+                     <geo>-34.61315, -58.37723</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3435910/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1486</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4008756-6</idno>
@@ -11770,33 +11784,68 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/7600171-4</idno>
                </place>
                <place xml:id="hsl_place_id_1533" resp="#awilfing" cert="high">
-                  <placeName type="main">Dublin</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Dublin</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>IE, Ireland</country>
+                  <location type="coords">
+                     <geo>53.33306, -6.24889</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2964574/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1761</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4013170-1</idno>
                </place>
                <place xml:id="hsl_place_id_1534" resp="#awilfing" cert="high">
-                  <placeName type="main">Cambridge</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Cambridge</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>GB, United Kingdom</country>
+                  <location type="coords">
+                     <geo>52.2, 0.11667</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2653941/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q350</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4009351-7</idno>
                </place>
                <place xml:id="hsl_place_id_1535" resp="#awilfing" cert="high">
-                  <placeName type="main">Padua</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Padua</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>IT, Italy</country>
+                  <location type="coords">
+                     <geo>45.41519, 11.88181</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6542281/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q617</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4044295-0</idno>
                </place>
                <place xml:id="hsl_place_id_1536" resp="#awilfing" cert="high">
-                  <placeName type="main">Caen</placeName>
+                  <settlement type="P">
+                     <placeName type="main">Caen</placeName>
                      <placeName type="alternative">Caën</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>49.18585, -0.35912</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3029241/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q41185</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4009282-3</idno>
                </place>
                <place xml:id="hsl_place_id_1537" resp="#awilfing" cert="high">
-                  <placeName type="main">Ganga</placeName>
+                  <settlement type="H">
+                     <placeName type="main">Ganga</placeName>
                      <placeName type="alternative">Ganges</placeName>
+                  </settlement>
+                  <desc type="entity_type">stream, lake, ...</desc>
+                  <country>BD, Bangladesh</country>
+                  <location type="coords">
+                     <geo>23.36667, 90.53333</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/1202950/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5089</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4019227-1</idno>
@@ -11813,8 +11862,15 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4038709-4</idno>
                </place>
                <place xml:id="hsl_place_id_1540" resp="#awilfing" cert="high">
-                  <placeName type="main">Paderno Ponchielli</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Paderno Ponchielli</placeName>
                      <placeName type="alternative">Paderno Cremonese</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>IT, Italy</country>
+                  <location type="coords">
+                     <geo>45.23887, 9.93027</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6542208/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q42833</idno>
                </place>
@@ -11844,7 +11900,14 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4010579-9</idno>
                </place>
                <place xml:id="hsl_place_id_1545" resp="#awilfing" cert="high">
-                  <placeName type="main">Rhume</placeName>
+                  <settlement type="H">
+                     <placeName type="main">Rhume</placeName>
+                  </settlement>
+                  <desc type="entity_type">stream, lake, ...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>51.72793, 9.95076</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2847549/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q521276</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4103777-7</idno>
@@ -11862,13 +11925,27 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4050044-5</idno>
                </place>
                <place xml:id="hsl_place_id_1548" resp="#awilfing" cert="high">
-                  <placeName type="main">Faulhorn</placeName>
+                  <settlement type="T">
+                     <placeName type="main">Faulhorn</placeName>
+                  </settlement>
+                  <desc type="entity_type">mountain,hill,rock,...</desc>
+                  <country>CH, Switzerland</country>
+                  <location type="coords">
+                     <geo>46.67484, 7.99908</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2660813/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q674769</idno>
                </place>
                <place xml:id="hsl_place_id_1549" resp="#awilfing" cert="high">
-                  <placeName type="main">Aragón; Aragó</placeName>
+                  <settlement type="A">
+                     <placeName type="main">Aragón; Aragó</placeName>
                      <placeName type="alternative">Aragonien</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>ES, Spain</country>
+                  <location type="coords">
+                     <geo>41.5, -0.66667</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3336899/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4040</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4068794-6</idno>
