@@ -3548,6 +3548,7 @@
                      <bibl n="hsl_work_id_5485">Gyges und sein Ring</bibl>
                      <bibl n="hsl_work_id_5510">Nachtlied, op. 108</bibl>
                      <bibl n="hsl_work_id_5511">Nachtlied</bibl>
+                     <bibl n="hsl_work_id_7161">Agnes Bernauer</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_116" resp="#awilfing" cert="high">
@@ -8737,7 +8738,7 @@
                      <surname>Friedberg</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename>Kathinka; Westphalen</forename>
+                     <forename>Kathinka</forename>
                      <surname>Friedberg</surname>
                   </persName>
                   <birth notBefore="1838-01-01" notAfter="1838-12-31">1838-1901</birth>
@@ -113366,6 +113367,24 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_7028">The Vampyre</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9564" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Lorenzo</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_128">La muette de Portici, AWV16</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9565" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Agnes Bernauer</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_7161">Agnes Bernauer</bibl>
                   </listBibl>
                </person>
             </listPerson>
