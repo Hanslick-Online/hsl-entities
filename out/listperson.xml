@@ -112496,7 +112496,7 @@
                      <bibl n="hsl_work_id_7084">Le chien du jardinier</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_9493" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_9493" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
                      <surname>Catherine</surname>
@@ -113387,6 +113387,17 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_7161">Agnes Bernauer</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9568" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Johannes</forename>
+                     <surname>Buridan</surname>
+                  </persName>
+                  <birth notBefore="1300-01-01" notAfter="1300-12-31">ca. 1300- ca. 1360</birth>
+                  <death notBefore="1360-01-01" notAfter="1360-12-31">ca. 1300- ca. 1360</death>
+                  <occupation style="background-color: light-orange;">Philosoph</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118818864</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q275500</idno>
                </person>
             </listPerson>
          </div>
