@@ -113403,6 +113403,55 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118818864</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q275500</idno>
                </person>
+               <person xml:id="hsl_person_id_9601" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Charles Léon François</forename>
+                     <surname>Kreutzer</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Leon</forename>
+                     <surname>Kreuzer</surname>
+                  </persName>
+                  <birth notBefore="1817-01-01" notAfter="1817-12-31">1817-1868</birth>
+                  <death notBefore="1868-01-01" notAfter="1868-12-31">1817-1868</death>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
+                  <occupation style="background-color: light-yellow;">Musikkritiker</occupation>
+                  <occupation style="background-color: red;">Historiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116533579</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q20202265</idno>
+               </person>
+               <person xml:id="hsl_person_id_9602" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Pierre</forename>
+                     <surname>Ducré</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Pierre</forename>
+                     <surname>Dueré</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_726">L'Enfance du Christ, H130</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_9603" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Raoul</forename>
+                     <surname>Walter</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Raoul</forename>
+                     <surname>Walther</surname>
+                  </persName>
+                  <birth notBefore="1865-01-01" notAfter="1865-12-31">1865-1917</birth>
+                  <death notBefore="1917-01-01" notAfter="1917-12-31">1865-1917</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117131369</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q38158766</idno>
+                  <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/10435/</idno>
+                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_W/Walter_Familie.xml</idno>
+                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_W/Walter_Raoul_1863_1917.xml</idno>
+               </person>
             </listPerson>
          </div>
       </body>
