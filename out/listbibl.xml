@@ -1294,7 +1294,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_105" resp="#awilfing" cert="high">
                <title type="main">Les Huguenots</title>
-               <title type="alternative">Die Hugenotten</title>
+               <title type="alternative">Die Hugenotten; Die Ghibellinen in Pisa</title>
                <author ref="#hsl_person_id_182">
                   <persName>Meyerbeer, Giacomo</persName>
                </author>
@@ -3553,9 +3553,12 @@
             </bibl>
             <bibl xml:id="hsl_work_id_277" resp="#awilfing" cert="high">
                <title type="main">Phantasie für Klavier, Chor und Orchester in c-Moll, op. 80</title>
-               <title type="alternative">Fantasie</title>
+               <title type="alternative">Chorphantasie; Clavierphantasie; Fantasie, Klavierphantasie</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
+               </author>
+               <author ref="#hsl_person_id_9651">
+                  <persName>Kuffner, Christoph</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015186</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1122361</idno>
@@ -3937,6 +3940,7 @@
                   <persName>Mattheson, Johann</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4686125-7</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3705790</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10212373</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_322" resp="#awilfing" cert="high">
@@ -3962,6 +3966,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_325" resp="#awilfing" cert="high">
                <title type="main">Des critischen Musicus an der Spree erster Band</title>
+               <title type="alternative">Krit. Musikus</title>
                <author ref="#hsl_person_id_388">
                   <persName>Marpurg, Friedrich Wilhelm</persName>
                </author>
@@ -3970,6 +3975,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_326" resp="#awilfing" cert="high">
                <title type="main">Musikalische Dialogen. Oder: Philosophische Unterredungen berühmter Gelehrten, Dichter und Tonkünstler über den Kunstgeschmack in der Musik. Ein Nachlaß</title>
+               <title type="alternative">Musik. Dialoge</title>
                <author ref="#hsl_person_id_389">
                   <persName>Heinse, Wilhelm</persName>
                </author>
@@ -3977,6 +3983,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_327" resp="#awilfing" cert="high">
                <title type="main">Ueber die musikalische Malerey. An den Königl. Kapell-Meister, Herrn Reichardt</title>
+               <title type="alternative">Ueber mus. Malerei</title>
                <author ref="#hsl_person_id_390">
                   <persName>Engel, Johann Jakob</persName>
                </author>
@@ -4006,6 +4013,9 @@
                <title type="alternative">Universallexikon</title>
                <author ref="#hsl_person_id_393">
                   <persName>Schilling, Gustav</persName>
+               </author>
+               <author ref="#hsl_person_id_3867">
+                  <persName>Fink, Gottfried Wilhelm</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10600488</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10810229</idno>
@@ -4076,7 +4086,7 @@
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10598200</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_339" resp="#awilfing" cert="high">
-               <title type="main">Manuale della musica ovvero Introduzione alla scienza ragionate</title>
+               <title type="main">Manuale della musica ovvero Introduzione alla scienza ragionata di quest’arte</title>
                <title type="alternative">Manuale alla Musica</title>
                <author ref="#hsl_person_id_401">
                   <persName>Bellini, Fermo</persName>
@@ -4236,7 +4246,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/La_sonnambula_(Bellini,_Vincenzo)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_353" resp="#awilfing" cert="high">
-               <title type="main">Mémoires pour servir à l'historie de la révolution opérée dans la musique par M. le chevalier Gluck</title>
+               <title type="main">Mémoires pour servir à l'histoire de la révolution opérée dans la musique par M. le chevalier Gluck</title>
                <author ref="#hsl_person_id_242">
                   <persName>Du Roullet, François Louis Gaud Lebland</persName>
                </author>
@@ -4245,6 +4255,7 @@
             <bibl xml:id="hsl_work_id_354" resp="#awilfing" cert="high">
                <title type="main">Journal de politique et de littérature</title>
                <title type="alternative">Journal de politique et de litérature</title>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q139120488</idno>
                <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/cb344724208/date</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_355" resp="#awilfing" cert="high">
@@ -4296,12 +4307,15 @@
                <author ref="#hsl_person_id_412">
                   <persName>Ørsted, Hans Christian</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10134406</idno>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb10134407</idno>
+               <author ref="#hsl_person_id_413">
+                  <persName>Kannegießer, Karl Ludwig</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.e-rara.ch/zut/content/titleinfo/27700446</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_361" resp="#awilfing" cert="high">
                <title type="main">Allgemeine Zeitung (Augsburg)</title>
                <title type="alternative">Augsburger Allgemeine Zeitung; A. Allgemeinen Zeitung; A. A. Z.; A. A. Ztg.</title>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1432339</idno>
                <idno type="URL" subtype="Digitalisat">https://digipress.digitale-sammlungen.de/calendar/newspaper/bsbmult00000002</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_362" resp="#awilfing" cert="high">
@@ -14679,7 +14693,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1427" resp="#awilfing" cert="high">
                <title type="main">Mirjams Siegesgesang, D942</title>
-               <title type="alternative">Mirjam's Siegesgesang</title>
+               <title type="alternative">Mirjam's Siegesgesang; Siegesgesang Mirjam's</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -26410,7 +26424,7 @@
             <bibl xml:id="hsl_work_id_2693" resp="#awilfing" cert="high">
                <title type="main">Zauberflöte</title>
                <author ref="#hsl_person_id_283">
-                  <persName>Schwind, Moritz Ludwig von</persName>
+                  <persName>Schwind, Moritz von</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4847061-2</idno>
             </bibl>
@@ -26425,7 +26439,7 @@
                <title type="main">Schubertiade</title>
                <title type="alternative">unklarer Bezug</title>
                <author ref="#hsl_person_id_283">
-                  <persName>Schwind, Moritz Ludwig von</persName>
+                  <persName>Schwind, Moritz von</persName>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2696" resp="#awilfing" cert="high">
@@ -28420,6 +28434,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2919" resp="#awilfing" cert="high">
                <title type="main">Sieben Worte unseres lieben Erlösers und Seeligmachers Jesu Christi so Er am Stamm des Heil: Creutzes gesprochen, SWV478</title>
+               <title type="alternative">Die sieben Worte unseres lieben Erlösers und Seligmachers Jesu Christi, so er am Stamme des heiligen Kreuzes gesprochen</title>
                <author ref="#hsl_person_id_1827">
                   <persName>Schütz, Heinrich</persName>
                </author>
@@ -42282,7 +42297,7 @@
             <bibl xml:id="hsl_work_id_4487" resp="#awilfing" cert="high">
                <title type="main">Märchen von der schönen Melusine</title>
                <author ref="#hsl_person_id_283">
-                  <persName>Schwind, Moritz Ludwig von</persName>
+                  <persName>Schwind, Moritz von</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4743486-7</idno>
                <idno type="URL" subtype="Digitalisat">https://sammlung.belvedere.at/objects/7905/die-schone-melusine-i-fontes-melusinae</idno>
@@ -52951,7 +52966,7 @@ philosophes du 18 siècle</title>
                   <persName>Hanslick, Eduard</persName>
                </author>
                <author ref="#hsl_person_id_283">
-                  <persName>Schwind, Moritz Ludwig von</persName>
+                  <persName>Schwind, Moritz von</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://books.google.de/books?id=coRrbfeIiOkC</idno>
             </bibl>
@@ -59010,11 +59025,23 @@ philosophes du 18 siècle</title>
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Davidsbündlertänze%2C_Op.6_(Schumann%2C_Robert)</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_7200" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_7200" resp="#awilfing" cert="high">
+               <title type="main">Eine Symphonie</title>
+               <author ref="#hsl_person_id_283">
+                  <persName>Schwind, Moritz von</persName>
+               </author>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q30063124</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.sammlung.pinakothek.de/de/artwork/y7GEJ5v4PV</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_7201" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_7201" resp="#awilfing" cert="high">
+               <title type="main">Konzerte. Filharmonische Akademie.</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_695">Sonntagsblätter</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_414">
+                  <persName>Becher, Alfred Julius</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=stb&amp;datum=18430326</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_7202" resp="#awilfing" cert="medium">
                <title type="main">Etwas hahnbüchen, op. 6 Nr. 3</title>
@@ -59530,6 +59557,18 @@ philosophes du 18 siècle</title>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4099155-6</idno>
                <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q637787</idno>
                <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k5458631f.texteImage</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7362" resp="#awilfing" cert="high">
+               <title type="main">Beethoven's Neunte Symphonie und ihre Bewunderer. Musikalischer Brief eines beschränkten Kopfes</title>
+               <title type="alternative">Nachdruck "Allgemeine musikalische Zeitung" 1877</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_361">Allgemeine Zeitung (Augsburg)</note>
+                  <note type="Werkbezug" target="hsl_work_id_669">Allgemeine musikalische Zeitung</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_711">
+                  <persName>Strauß, David Friedrich</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://digipress.digitale-sammlungen.de/view/bsb11353059_00077_u001?page=%2C1</idno>
             </bibl>
       </listBibl>
       </body>
