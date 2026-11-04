@@ -14,18 +14,12 @@ jobs:
       GEONAMES_USER: ${{secrets.GEONAMES_USER}}
     steps:
       - name: Perfom Checkout
-        uses: actions/checkout@v4
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-      - name: Install Python Packages
-        run: |
-          pip install -U pip
-          pip install -r scripts/python/requirements.txt
+        uses: actions/checkout@v5
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v8.2.0
       - name: enrich data uri
         run: |
-          python scripts/python/enrich_data.py
+          uv run scripts/python/enrich_data.py
       - name: enrich data location
         run: |
-          python scripts/python/geonames.py
+          uv run scripts/python/geonames.py
