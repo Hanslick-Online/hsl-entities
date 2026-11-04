@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from baserow_utils import enrich_data
 
 

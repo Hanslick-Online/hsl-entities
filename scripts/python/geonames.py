@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from config import GEONAMES_USER
 from baserow_utils import geonames_to_location
 

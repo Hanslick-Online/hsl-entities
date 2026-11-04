@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from baserow_utils import make_xml, make_geojson
 
 

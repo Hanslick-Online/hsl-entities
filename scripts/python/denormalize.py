@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from baserow_utils import denormalize_json
 from config import (MAPPING_PERSONS, MAPPING_WORKS)
 
