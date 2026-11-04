@@ -173,6 +173,14 @@ def make_xml(input, fn, clmn, temp):
     return tei
 
 
+def _geojson_coordinates(value):
+    try:
+        latitude, longitude = (float(part.strip()) for part in value.split(","))
+    except (AttributeError, ValueError):
+        return None
+    return [longitude, latitude]
+
+
 def make_geojson(input, fn, clmn1, clmn2, clm3):
     geojson = {
         "type": "FeatureCollection",
@@ -188,14 +196,13 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
             print(err)
             loc = False
         if loc:
-            if len(loc) != 0:
-                coords = loc
-                coords = coords.split(", ")
+            coords = _geojson_coordinates(loc)
+            if coords is not None:
                 feature_point = {
                     "type": "Feature",
                     "geometry": {
                         "type": "Point",
-                        "coordinates": [float(coords[1]), float(coords[0])]
+                        "coordinates": coords
                     },
                     "properties": {
                         "title": obj["ortsname"],
@@ -210,14 +217,13 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
             print(err)
             loc = False
         if loc:
-            if len(loc) != 0:
-                coords = loc
-                coords = coords.split(", ")
+            coords = _geojson_coordinates(loc)
+            if coords is not None:
                 feature_point = {
                     "type": "Feature",
                     "geometry": {
                         "type": "Point",
-                        "coordinates": [float(coords[1]), float(coords[0])]
+                        "coordinates": coords
                     },
                     "properties": {
                         "title": obj["ortsname"],
@@ -235,17 +241,13 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
             nm = obj["ortsname"]
             o_id = obj["hsl_id"]
             for x in loc:
-                try:
-                    coords = x["data"][clmn1]
-                except KeyError:
-                    coords = {}
+                coords = _geojson_coordinates(x["data"].get(clmn1))
                 if coords:
-                    coords = coords.split(", ")
                     feature_point = {
                         "type": "Feature",
                         "geometry": {
                             "type": "Point",
-                            "coordinates": [float(coords[1]), float(coords[0])]
+                            "coordinates": coords
                         },
                         "properties": {
                             "title": nm,
@@ -257,17 +259,13 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
                     }
                     geojson["features"].append(feature_point)
                 else:
-                    try:
-                        coords = x["data"][clmn2]
-                    except KeyError:
-                        coords = {}
-                    if len(coords) > 0:
-                        coords = coords.split(", ")
+                    coords = _geojson_coordinates(x["data"].get(clmn2))
+                    if coords is not None:
                         feature_point = {
                             "type": "Feature",
                             "geometry": {
                                 "type": "Point",
-                                "coordinates": [float(coords[1]), float(coords[0])]
+                                "coordinates": coords
                             },
                             "properties": {
                                 "title": nm,
