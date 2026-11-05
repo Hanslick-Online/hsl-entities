@@ -9,8 +9,20 @@ from acdh_obj2xml_pyutils import ObjectToXml
 from config import (BASEROW_URL, BASEROW_TOKEN, br_client)
 
 
+def _load_table_rows(br_table_id, attempts=3):
+    for attempt in range(attempts):
+        try:
+            return list(br_client.yield_rows(br_table_id=br_table_id))
+        except requests.exceptions.RequestException:
+            if attempt == attempts - 1:
+                raise
+            delay = 2 ** attempt
+            print(f"Failed to load Baserow table {br_table_id}; retrying in {delay}s.")
+            sleep(delay)
+
+
 def enrich_data(br_table_id, uri, field_name_input, field_name_update):
-    table = [x for x in br_client.yield_rows(br_table_id=br_table_id)]
+    table = _load_table_rows(br_table_id)
     br_rows_url = f"{BASEROW_URL}database/rows/table/{br_table_id}/"
     v_wd = 0
     v_geo = 0
