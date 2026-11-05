@@ -20,7 +20,15 @@ jobs:
         uses: astral-sh/setup-uv@v8.2.0
       - name: dump and denormalize data
         run: |
-          uv run scripts/python/dump_data.py
+          for attempt in 1 2 3; do
+            if uv run scripts/python/dump_data.py; then
+              break
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              exit 1
+            fi
+            sleep $((attempt * 15))
+          done
           uv run scripts/python/denormalize.py
       - name: data dump to xml
         run: |
