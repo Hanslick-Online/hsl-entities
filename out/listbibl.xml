@@ -26194,7 +26194,10 @@
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_2660" resp="#awilfing" cert="high">
-               <title type="main">Erinnerung, op. 4</title>
+               <title type="main">Erinnerung, op. 4 Nr. 4</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_7672">8 Lieder für Männerstimmen, op. 4</note>
+               </noteGrp>
                <author ref="#hsl_person_id_2391">
                   <persName>Mandyczewski, Eusebius</persName>
                </author>
@@ -60724,8 +60727,85 @@ philosophes du 18 siècle</title>
                <title type="main">Gott mit dir!</title>
                <title type="alternative">unklarer Bezug</title>
             </bibl>
-            <bibl xml:id="hsl_work_id_7668" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_7668" resp="#awilfing" cert="high">
+               <title type="main">Ich möchte gern dein eigen sein</title>
+               <title type="alternative">unklarer Bezug</title>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7669" resp="#awilfing" cert="high">
+               <title type="main">Frühlingslied</title>
+               <author ref="#hsl_person_id_979">
+                  <persName>Jahn, Wilhelm</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7670" resp="#awilfing" cert="high">
+               <title type="main">Wenn Zweie sich gut sind</title>
+               <title type="alternative">Wenn Zwei sich gut sind</title>
+               <author ref="#hsl_person_id_150">
+                  <persName>Kremser, Eduard</persName>
+               </author>
+               <author ref="#hsl_person_id_1603">
+                  <persName>Groth, Klaus</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/1386275417</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7671" resp="#awilfing" cert="high">
+               <title type="main">Marie, op. 4 Nr. 3</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_7672">8 Lieder für Männerstimmen, op. 4</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_970">
+                  <persName>Freiligrath, Ferdinand</persName>
+               </author>
+               <author ref="#hsl_person_id_2391">
+                  <persName>Mandyczewski, Eusebius</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7672" resp="#awilfing" cert="high">
+               <title type="main">8 Lieder für Männerstimmen, op. 4</title>
+               <author ref="#hsl_person_id_2391">
+                  <persName>Mandyczewski, Eusebius</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7673" resp="#awilfing" cert="high">
+               <title type="main">Spinn! Spinn!</title>
+               <title type="alternative">Spinn’, spinn’</title>
+               <author ref="#hsl_person_id_10038">
+                  <persName>Jüngst, Hugo</persName>
+               </author>
+               <author ref="#hsl_person_id_10039">
+                  <persName>Gräser, Hermann</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7674" resp="#awilfing" cert="high">
+               <title type="main">Hymne an den Unendlichen, D232</title>
+               <author ref="#hsl_person_id_248">
+                  <persName>Schiller, Friedrich</persName>
+               </author>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/300140592</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q19211866</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Hymne_an_den_Unendlichen,_D.232_(Schubert,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7675" resp="#awilfing" cert="high">
+               <title type="main">Motette</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_9531">
+                  <persName>Kiel, Friedrich</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7676" resp="#awilfing" cert="high">
+               <title type="main">Gott ist mein König, BWV71</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <author ref="#hsl_person_id_10041">
+                  <persName>Heermann, Johann</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/300007590</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q179241</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gott_ist_mein_K%C3%B6nig,_BWV_71_(Bach,_Johann_Sebastian)</idno>
             </bibl>
       </listBibl>
       </body>
