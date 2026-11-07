@@ -25548,6 +25548,8 @@
                   <persName>Ennery, Adolphe d'</persName>
                </author>
                <name type="character" ref="#hsl_person_id_4642">Chimène</name>
+               <name type="character" ref="#hsl_person_id_10052">Gormas</name>
+               <name type="character" ref="#hsl_person_id_10053">Rodrigue</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300216084</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q899440</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_Cid_(Massenet,_Jules)</idno>
@@ -60890,6 +60892,21 @@ philosophes du 18 siècle</title>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/1296583848</idno>
                <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/view/bsb11657831?page=%2C1</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7686" resp="#awilfing" cert="medium">
+               <title type="main">Vaterländischer Künstlerverein</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_6621">Veränderungen über einen Walzer für Klavier, op. 120</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_59">
+                  <persName>Diabelli, Anton</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/6107105-5</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q509440</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Vaterländischer_Künstlerverein_%28Diabelli%2C_Anton%29</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7687" resp="#awilfing" cert="medium">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>

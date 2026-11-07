@@ -2217,6 +2217,9 @@
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/117001</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_D/Diabelli_Anton.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_D/Diabelli_Anton_1781_1858.xml</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7686">Vaterländischer Künstlerverein</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_60" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -116458,6 +116461,47 @@
                   <occupation style="background-color: cyan;">Anatom</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/100125670</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q364278</idno>
+               </person>
+               <person xml:id="hsl_person_id_10051" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Jan August</forename>
+                     <surname>Vitásek</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Wittassek</surname>
+                  </persName>
+                  <birth notBefore="1770-01-01" notAfter="1770-12-31">1770-1839</birth>
+                  <death notBefore="1839-01-01" notAfter="1839-12-31">1770-1839</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/103958274</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1681585</idno>
+                  <idno type="URI" subtype="OEML">https://dx.doi.org/10.1553/0x0001e720</idno>
+               </person>
+               <person xml:id="hsl_person_id_10052" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Gormas</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>der Graf von Gormas</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2598">Le Cid</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10053" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Rodrigue</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Rodrigo Díaz de Vivar; El Cid</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2598">Le Cid</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
