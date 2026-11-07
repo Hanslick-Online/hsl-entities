@@ -858,6 +858,7 @@
                      <bibl n="hsl_work_id_7492">Konzert für drei Cembali, Streicher und Basso continuo in C-Dur, BWV1064</bibl>
                      <bibl n="hsl_work_id_7646">Suite für Orchester Nr. 1 in C-Dur, BWV1066</bibl>
                      <bibl n="hsl_work_id_7676">Gott ist mein König, BWV71</bibl>
+                     <bibl n="hsl_work_id_7697">Geschwinde, ihr wirbelnden Winde, BWV201</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_19" resp="#awilfing" cert="high">
@@ -3554,6 +3555,7 @@
                      <bibl n="hsl_work_id_6829">Symphonie in C-Dur, Hob.I:60</bibl>
                      <bibl n="hsl_work_id_7162">Symphonie in G-Dur, Hob. I:100</bibl>
                      <bibl n="hsl_work_id_7548">Symphonie in c-Moll, Hob. I:95</bibl>
+                     <bibl n="hsl_work_id_7690">Quartett für 2 Violinen, Viola und Cello in F-Dur</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_115" resp="#awilfing" cert="high">
@@ -4167,7 +4169,7 @@
                      <bibl n="hsl_work_id_2516">Konzert für Violine und Orchester Nr. 3 in G-Dur</bibl>
                      <bibl n="hsl_work_id_3951">Romanze für Violine und Klavier in C-Dur</bibl>
                      <bibl n="hsl_work_id_4284">Elegische Ouvertüre für Orchester, op. 13</bibl>
-                     <bibl n="hsl_work_id_4921">Notturno für Violine in A-Dur, op. 12</bibl>
+                     <bibl n="hsl_work_id_4921">Notturno für Violine und Orchester in A-Dur, op. 12</bibl>
                      <bibl n="hsl_work_id_4923">21 Ungarische Tänze für Violine, WoO1 (Bearbeitung)</bibl>
                   </listBibl>
                </person>
@@ -4798,6 +4800,7 @@
                      <bibl n="hsl_work_id_6879">Études d'exécution transcendante für Klavier, S139 Nr. 4</bibl>
                      <bibl n="hsl_work_id_7375">Festkantate zur Enthüllung des Beethoven-Denkmals in Bonn, S67</bibl>
                      <bibl n="hsl_work_id_7594">Ungarische Rhapsodie für Orchester Nr. 1 in f-Moll, S359 Nr. 1</bibl>
+                     <bibl n="hsl_work_id_7688">Symphonie Nr. 1 in D-Dur, D82</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_165" resp="#awilfing" cert="high">
@@ -7259,6 +7262,7 @@
                      <bibl n="hsl_work_id_7650">3 Gesänge des Harfners für Singstimme und Klavier, D478</bibl>
                      <bibl n="hsl_work_id_7651">Wer nie sein Brot mit Thränen aß, D478 Nr. 2</bibl>
                      <bibl n="hsl_work_id_7674">Hymne an den Unendlichen, D232</bibl>
+                     <bibl n="hsl_work_id_7689">Symphonie Nr. 3 in D-Dur, D200</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_280" resp="#awilfing" cert="high">
@@ -25797,6 +25801,9 @@
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117184195</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q325295</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7698">Quartett für 2 Violinen, Viola und Cello in d-Moll</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_1617" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -32245,6 +32252,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_294">Matthäus-Passion, BWV244</bibl>
                      <bibl n="hsl_work_id_6847">Laßt uns sorgen, laßt uns wachen, BWV213</bibl>
+                     <bibl n="hsl_work_id_7697">Geschwinde, ihr wirbelnden Winde, BWV201</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2083" resp="#awilfing" cert="medium">
@@ -116434,6 +116442,9 @@
                   <occupation style="background-color: light-red;">Musiklehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117032727</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3121215</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7687">Romanze</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_10048" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -116444,11 +116455,17 @@
                   <death>unbekannt (19. Jhdt.)</death>
                   <occupation style="background-color: light-gray;">Musikautor</occupation>
                </person>
-               <person xml:id="hsl_person_id_10049" role="fictional" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_10049" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename/>
-                     <surname/>
+                     <forename>Louis Alexandre</forename>
+                     <surname>Foucher de Careil</surname>
                   </persName>
+                  <birth notBefore="1826-01-01" notAfter="1826-12-31">1826-1891</birth>
+                  <death notBefore="1891-01-01" notAfter="1891-12-31">1826-1891</death>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <occupation style="background-color: dark-red;">Diplomat</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117528307</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3260296</idno>
                </person>
                <person xml:id="hsl_person_id_10050" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -116501,6 +116518,36 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_2598">Le Cid</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10054" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Momus</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_7697">Geschwinde, ihr wirbelnden Winde, BWV201</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10055" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Erzherzog von Österreich</forename>
+                     <surname>Eugen</surname>
+                  </persName>
+                  <birth notBefore="1863-01-01" notAfter="1863-12-31">1863-1954</birth>
+                  <death notBefore="1954-01-01" notAfter="1954-12-31">1863-1954</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <occupation style="background-color: light-gray;">Offizier</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118685546</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q78578</idno>
+               </person>
+               <person xml:id="hsl_person_id_10056" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Edward</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_3146">Edward, op. 1 Nr. 1</bibl>
                   </listBibl>
                </person>
             </listPerson>

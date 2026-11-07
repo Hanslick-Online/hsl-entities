@@ -12351,7 +12351,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1184" resp="#awilfing" cert="high">
                <title type="main">Johann Sebastian Bach's Werke</title>
-               <title type="alternative">Bach-Gesellschaft Ausgabe</title>
+               <title type="alternative">Bach-Ausgabe; Bach-Gesellschaft Ausgabe</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -30714,6 +30714,7 @@
                <author ref="#hsl_person_id_1253">
                   <persName>Herder, Johann Gottfried von</persName>
                </author>
+               <name type="character" ref="#hsl_person_id_10056">Edward</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300320302</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Balladen%2C_Op.1_(Loewe%2C_Carl)</idno>
             </bibl>
@@ -46322,7 +46323,7 @@
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Concerto_No.7%2C_Op.38_(Spohr%2C_Louis)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4921" resp="#awilfing" cert="high">
-               <title type="main">Notturno für Violine in A-Dur, op. 12</title>
+               <title type="main">Notturno für Violine und Orchester in A-Dur, op. 12</title>
                <author ref="#hsl_person_id_140">
                   <persName>Joachim, Joseph</persName>
                </author>
@@ -60905,8 +60906,63 @@ philosophes du 18 siècle</title>
                <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q509440</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Vaterländischer_Künstlerverein_%28Diabelli%2C_Anton%29</idno>
             </bibl>
-            <bibl xml:id="hsl_work_id_7687" resp="#awilfing" cert="medium">
+            <bibl xml:id="hsl_work_id_7687" resp="#awilfing" cert="high">
+               <title type="main">Romanze</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_10047">
+                  <persName>Huberti, Gustave</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7688" resp="#awilfing" cert="high">
+               <title type="main">Symphonie Nr. 1 in D-Dur, D82</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141718</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q163587</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.1%2C_D.82_(Schubert%2C_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7689" resp="#awilfing" cert="high">
+               <title type="main">Symphonie Nr. 3 in D-Dur, D200</title>
+               <author ref="#hsl_person_id_279">
+                  <persName>Schubert, Franz</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141734</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q223534</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.3%2C_D.200_(Schubert%2C_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7690" resp="#awilfing" cert="high">
+               <title type="main">Quartett für 2 Violinen, Viola und Cello in F-Dur</title>
+               <title type="alternative">unklarer Bezug</title>
+               <author ref="#hsl_person_id_114">
+                  <persName>Haydn, Joseph</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7691" resp="#awilfing" cert="medium">
                <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7694" resp="#awilfing" cert="medium">
+               <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7697" resp="#awilfing" cert="high">
+               <title type="main">Geschwinde, ihr wirbelnden Winde, BWV201</title>
+               <title type="alternative">Der Streit zwischen Phöbus und Pan</title>
+               <author ref="#hsl_person_id_18">
+                  <persName>Bach, Johann Sebastian</persName>
+               </author>
+               <author ref="#hsl_person_id_2082">
+                  <persName>Henrici, Christian Friedrich</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_10054">Momus</name>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300009097</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1518000</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Geschwinde,_ihr_wirbelnden_Winde,_BWV_201_(Bach,_Johann_Sebastian)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7698" resp="#awilfing" cert="high">
+               <title type="main">Quartett für 2 Violinen, Viola und Cello in d-Moll</title>
+               <author ref="#hsl_person_id_1616">
+                  <persName>Buths, Julius</persName>
+               </author>
             </bibl>
       </listBibl>
       </body>
