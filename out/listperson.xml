@@ -1000,6 +1000,7 @@
                      <bibl n="hsl_work_id_6601">Lieblingsplätzchen, MWV K 61</bibl>
                      <bibl n="hsl_work_id_6602">6 Gesänge für Singstimme und Klavier, op. 99</bibl>
                      <bibl n="hsl_work_id_7021">Felix Mendelssohn-Bartholdys Werke. Kritische durchgesehene Ausgabe</bibl>
+                     <bibl n="hsl_work_id_7706">Konzert für Violine und Orchester in e-Moll, MWV O 14 (Klavierfassung)</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_22" resp="#awilfing" cert="high">
@@ -8355,7 +8356,7 @@
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_V/Volkmann_Robert_1815_1883.xml</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_291">Symphonie Nr. 1 in d-Moll, op. 44</bibl>
-                     <bibl n="hsl_work_id_631">Overtüre zu William Shakespears "Richard III", op. 68</bibl>
+                     <bibl n="hsl_work_id_631">Overtüre zu William Shakespeares "Richard III", op. 68</bibl>
                      <bibl n="hsl_work_id_672">Symphonie Nr. 2 in B-Dur, op. 53</bibl>
                      <bibl n="hsl_work_id_759">Konzertstück für Klavier und Orchester in c-Moll, op. 42</bibl>
                      <bibl n="hsl_work_id_1304">Quartett für 2 Violinen, Viola und Cello Nr. 2 in g-Moll, op. 14</bibl>
@@ -8462,7 +8463,6 @@
                      <bibl n="hsl_work_id_4844">Ueber das Wiener Hofoperntheater</bibl>
                      <bibl n="hsl_work_id_4870">Brief an einen italienischen Freund über die Aufführung des "Lohengrin" in Bologna</bibl>
                      <bibl n="hsl_work_id_5010">Großer Festmarsch zur Eröffnung der hundertjährigen Gedenkfeier der Unabhängigkeitserklärung der Vereinigten Staaten von Nordamerika, WWV110</bibl>
-                     <bibl n="hsl_work_id_5089">Drei Operndichtungen nebst einer Mittheilung an seine Freunde als Vorwort</bibl>
                      <bibl n="hsl_work_id_5481">Siegfried-Idyll, WWV103</bibl>
                      <bibl n="hsl_work_id_5493">Eine Sonate für das Album von Frau M.W. in As-Dur, WWV85</bibl>
                      <bibl n="hsl_work_id_5772">Siegfried's Tod</bibl>
@@ -8549,7 +8549,7 @@
                      <bibl n="hsl_work_id_3128">Konzert für Klavier und Orchester Nr. 1 in C-Dur, J98</bibl>
                      <bibl n="hsl_work_id_3620">Polacca brillante für Klavier in E-Dur, J268</bibl>
                      <bibl n="hsl_work_id_3621">Grande polonaise für Klavier in Es-Dur, J59</bibl>
-                     <bibl n="hsl_work_id_3748">Unbefangenheit, op. 30 Nr. 3</bibl>
+                     <bibl n="hsl_work_id_3748">Unbefangenheit, J157</bibl>
                      <bibl n="hsl_work_id_3749">6 Lieder für Singstimme und Klavier, op. 30</bibl>
                      <bibl n="hsl_work_id_3750">Volkslied, J234 Nr. 1</bibl>
                      <bibl n="hsl_work_id_3751">8 Volkslieder für Singstimme und Klavier, J234</bibl>
@@ -8570,6 +8570,7 @@
                      <bibl n="hsl_work_id_7661">Silvana, J87 (Bearbeitung)</bibl>
                      <bibl n="hsl_work_id_7662">6 Lieder für Singstimme und Klavier, op. 15</bibl>
                      <bibl n="hsl_work_id_7663">Er an Sie, J57</bibl>
+                     <bibl n="hsl_work_id_7710">"Johann von Paris", Oper von Boieldieu</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_322" resp="#awilfing" cert="high">
@@ -13123,6 +13124,10 @@
                      <forename>Jacob</forename>
                      <surname>Grimm</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Jakob</forename>
+                     <surname>Grimm</surname>
+                  </persName>
                   <birth notBefore="1785-01-01" notAfter="1785-12-31">1785-1863</birth>
                   <death notBefore="1863-01-01" notAfter="1863-12-31">1785-1863</death>
                   <occupation style="background-color: brown;">Philologe</occupation>
@@ -13145,6 +13150,10 @@
                <person xml:id="hsl_person_id_689" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johanna</forename>
+                     <surname>Kinkel</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Johann</forename>
                      <surname>Kinkel</surname>
                   </persName>
                   <birth notBefore="1810-01-01" notAfter="1810-12-31">1810-1858</birth>
@@ -17248,6 +17257,7 @@
                      <bibl n="hsl_work_id_6268">Quartett für 2 Violinen, Viola und Cello Nr. 3 in es-Moll, TH113</bibl>
                      <bibl n="hsl_work_id_7159">12 Morceaux de difficulté moyenne für Klavier, TH138</bibl>
                      <bibl n="hsl_work_id_7160">Chant sans paroles, TH138 Nr. 6</bibl>
+                     <bibl n="hsl_work_id_7707">Sérénade mélancolique in b-Moll für Violine und Orchester, TH56</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1015" resp="#awilfing" cert="high">
@@ -26658,7 +26668,6 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_238">Das Rheingold, WWV86A</bibl>
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_649">Die Walküre, WWV86B</bibl>
                      <bibl n="hsl_work_id_1315">Siegfried, WWV86C</bibl>
                   </listBibl>
@@ -26674,7 +26683,6 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_238">Das Rheingold, WWV86A</bibl>
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_1682" role="fictional" resp="#awilfing" cert="high">
@@ -26684,7 +26692,6 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_238">Das Rheingold, WWV86A</bibl>
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_1315">Siegfried, WWV86C</bibl>
                   </listBibl>
                </person>
@@ -26698,7 +26705,6 @@
                      <surname>Brunhild</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_649">Die Walküre, WWV86B</bibl>
                      <bibl n="hsl_work_id_1315">Siegfried, WWV86C</bibl>
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
@@ -26710,7 +26716,6 @@
                      <surname>Siegfried</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_1315">Siegfried, WWV86C</bibl>
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
@@ -26737,7 +26742,6 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_238">Das Rheingold, WWV86A</bibl>
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_1315">Siegfried, WWV86C</bibl>
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
@@ -26749,7 +26753,6 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_238">Das Rheingold, WWV86A</bibl>
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_1315">Siegfried, WWV86C</bibl>
                   </listBibl>
                </person>
@@ -26759,7 +26762,6 @@
                      <surname>Hagen</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
                </person>
@@ -26769,7 +26771,6 @@
                      <surname>Gunther</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
                </person>
@@ -26783,7 +26784,6 @@
                      <surname>Sigmund</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_649">Die Walküre, WWV86B</bibl>
                   </listBibl>
                </person>
@@ -26793,7 +26793,6 @@
                      <surname>Sieglinde</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_649">Die Walküre, WWV86B</bibl>
                   </listBibl>
                </person>
@@ -37218,7 +37217,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_2111">Konzert für Klavier und Orchester Nr. 2 in E-Dur, op. 12</bibl>
                      <bibl n="hsl_work_id_2112">Sonate für Klavier in fis-Moll, op. 10</bibl>
-                     <bibl n="hsl_work_id_2114">Suiten in 5 Sätzen für Klavier in d-Moll, op. 1</bibl>
+                     <bibl n="hsl_work_id_2114">Suite in 5 Sätzen für Klavier in d-Moll, op. 1</bibl>
                      <bibl n="hsl_work_id_2263">Der Rubin</bibl>
                      <bibl n="hsl_work_id_2264">Der Mensch und das Leben, op. 14</bibl>
                      <bibl n="hsl_work_id_2267">Quartett für 2 Violinen, Viola und Cello Nr. 2 in Es-Dur, op. 11</bibl>
@@ -46895,7 +46894,6 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_238">Das Rheingold, WWV86A</bibl>
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_1315">Siegfried, WWV86C</bibl>
                   </listBibl>
                </person>
@@ -46906,7 +46904,6 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_238">Das Rheingold, WWV86A</bibl>
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3169" role="fictional" resp="#awilfing" cert="high">
@@ -48393,6 +48390,7 @@
                      <bibl n="hsl_work_id_3549">Souvenir de Moscou. Deux airs Russes für Violine und Orchester, op. 6</bibl>
                      <bibl n="hsl_work_id_3766">Konzert für Violine und Orchester Nr. 2 in d-Moll, op. 22</bibl>
                      <bibl n="hsl_work_id_6618">Stück für Cello</bibl>
+                     <bibl n="hsl_work_id_7708">Mazurka</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3278" resp="#awilfing" cert="medium">
@@ -51086,6 +51084,7 @@
                      <bibl n="hsl_work_id_7493">Hochzeitsmusik für Klavier zu 4 Händen, op. 45</bibl>
                      <bibl n="hsl_work_id_7494">Hochzeitsmusik für Klavier, op. 45 (Bearbeitung)</bibl>
                      <bibl n="hsl_work_id_7495">Hochzeitsmusik für Orchester, op. 45 (Bearbeitung)</bibl>
+                     <bibl n="hsl_work_id_7691">Lied</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_3482" resp="#awilfing" cert="high">
@@ -51351,7 +51350,7 @@
                      <bibl n="hsl_work_id_2093">Romanzen für Violine und Orchester in G-Dur, op. 26</bibl>
                      <bibl n="hsl_work_id_2843">Quintett für 2 Violinen, 2 Violen und Cello in C-Dur, op. 5</bibl>
                      <bibl n="hsl_work_id_2844">Oktett für 4 Violinen, 2 Violen und 2 Celli in A-Dur, op. 3</bibl>
-                     <bibl n="hsl_work_id_2856">Karneval i Paris, op. 9</bibl>
+                     <bibl n="hsl_work_id_2856">Karneval in Paris, op. 9</bibl>
                      <bibl n="hsl_work_id_2857">Quartett für 2 Violinen, Viola und Cello in a-Moll, op. 1</bibl>
                   </listBibl>
                </person>
@@ -69902,7 +69901,6 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_238">Das Rheingold, WWV86A</bibl>
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_4986" resp="#awilfing" cert="high">
@@ -70103,7 +70101,6 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_238">Das Rheingold, WWV86A</bibl>
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
                </person>
@@ -70114,7 +70111,6 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_238">Das Rheingold, WWV86A</bibl>
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
                </person>
@@ -70125,7 +70121,6 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_238">Das Rheingold, WWV86A</bibl>
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
                </person>
@@ -70140,7 +70135,6 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_238">Das Rheingold, WWV86A</bibl>
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_5004" role="fictional" resp="#awilfing" cert="high">
@@ -70150,7 +70144,6 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_238">Das Rheingold, WWV86A</bibl>
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_5005" role="fictional" resp="#awilfing" cert="high">
@@ -70160,7 +70153,6 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_238">Das Rheingold, WWV86A</bibl>
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_5006" role="fictional" resp="#awilfing" cert="high">
@@ -81267,7 +81259,6 @@
                      <surname>Erste Norn</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
                </person>
@@ -81277,7 +81268,6 @@
                      <surname>Zweite Norn</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
                </person>
@@ -81287,7 +81277,6 @@
                      <surname>Dritte Norn</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
                </person>
@@ -91519,7 +91508,6 @@
                      <surname>Hunding</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_649">Die Walküre, WWV86B</bibl>
                   </listBibl>
                </person>
@@ -95429,7 +95417,6 @@
                      <surname>Chriemhild; Gutrun</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
                </person>
@@ -95495,7 +95482,6 @@
                      <surname>Waltraute</surname>
                   </persName>
                   <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_418">Der Ring des Nibelungen, WWV86</bibl>
                      <bibl n="hsl_work_id_1316">Götterdämmerung, WWV86D</bibl>
                   </listBibl>
                </person>
@@ -105772,15 +105758,6 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q20488598</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_6147">Un Mari à la Porte</bibl>
-                  </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_8485" role="fictional" resp="#awilfing" cert="high">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Fritz</surname>
-                  </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_1070">La Grande-Duchesse de Gérolstein</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_8486" resp="#awilfing" cert="high">
@@ -116564,6 +116541,194 @@
                      <forename/>
                      <surname>Nigg</surname>
                   </persName>
+               </person>
+               <person xml:id="hsl_person_id_10058" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Hermann</forename>
+                     <surname>Nigg</surname>
+                  </persName>
+                  <birth notBefore="1849-01-01" notAfter="1849-12-31">1849-1928</birth>
+                  <death notBefore="1928-01-01" notAfter="1928-12-31">1849-1928</death>
+                  <occupation style="background-color: darker-cyan;">Maler</occupation>
+                  <occupation style="background-color: dark-gray;">Sänger (Bassist)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1158600097</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q51471490</idno>
+               </person>
+               <person xml:id="hsl_person_id_10059" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>Arma</forename>
+                     <surname>Senkrah</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Harkness</surname>
+                  </persName>
+                  <birth notBefore="1864-01-01" notAfter="1864-12-31">1864-1900</birth>
+                  <death notBefore="1900-01-01" notAfter="1900-12-31">1864-1900</death>
+                  <occupation style="background-color: gray;">Violinistin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117477834</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q16654001</idno>
+               </person>
+               <person xml:id="hsl_person_id_10060" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>William</forename>
+                     <surname>Huch</surname>
+                  </persName>
+                  <birth notBefore="1857-01-01" notAfter="1857-12-31">1857-1950</birth>
+                  <death notBefore="1950-01-01" notAfter="1950-12-31">1857-1950</death>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: darker-orange;">Sänger</occupation>
+                  <occupation style="background-color: dark-pink;">Photograph</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1268683213</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15854668</idno>
+               </person>
+               <person xml:id="hsl_person_id_10061" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Werner Kirchhof</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_4674">Der Trompeter von Säkkingen. Ein Sang vom Oberrhein</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10062" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Freiherr von Schönau</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_4674">Der Trompeter von Säkkingen. Ein Sang vom Oberrhein</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10063" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Margareta von Schönau</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_4674">Der Trompeter von Säkkingen. Ein Sang vom Oberrhein</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10064" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Graf von Wildenstein</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_953">Der Trompeter von Säkkingen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10065" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Conradin</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_953">Der Trompeter von Säkkingen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10066" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Prince Paul</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1070">La Grande-Duchesse de Gérolstein</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10067" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Freiherr von Schönau</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_953">Der Trompeter von Säkkingen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10068" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Damian</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_953">Der Trompeter von Säkkingen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10069" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Hiddigeigei</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_4674">Der Trompeter von Säkkingen. Ein Sang vom Oberrhein</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10070" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Athanodoros</surname>
+                  </persName>
+                  <birth>unbekannt (1. Jhdt. v.u.Z.)</birth>
+                  <death>unbekannt (1. Jhdt. v.u.Z.)</death>
+                  <occupation style="background-color: darker-pink;">Bildhauer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118832107</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q182235</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7711">Laokoon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10071" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Polydoros</surname>
+                  </persName>
+                  <birth>unbekannt (1. Jhdt. v.u.Z.)</birth>
+                  <death>unbekannt (1. Jhdt. v.u.Z.)</death>
+                  <occupation style="background-color: darker-pink;">Bildhauer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118832123</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2102799</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7711">Laokoon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10072" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Hagesandros</surname>
+                  </persName>
+                  <birth>unbekannt (1. Jhdt. v.u.Z.)</birth>
+                  <death>unbekannt (1. Jhdt. v.u.Z.)</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118832115</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q983432</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7711">Laokoon</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10073" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Hans von</forename>
+                     <surname>Rokitansky</surname>
+                  </persName>
+                  <birth notBefore="1835-01-01" notAfter="1835-12-31">1835-1909</birth>
+                  <death notBefore="1909-01-01" notAfter="1909-12-31">1835-1909</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116600187</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1543405</idno>
+                  <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/9558/</idno>
+                  <idno type="URI" subtype="OEML">https://dx.doi.org/10.1553/0x0001df89</idno>
+                  <idno type="URI" subtype="OEBL">https://biographien.ac.at/ID-0.3047216-1</idno>
+               </person>
+               <person xml:id="hsl_person_id_10074" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Therese</forename>
+                     <surname>Rothauser</surname>
+                  </persName>
+                  <birth notBefore="1865-01-01" notAfter="1865-12-31">1865-1943</birth>
+                  <death notBefore="1943-01-01" notAfter="1943-12-31">1865-1943</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116639709</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1111316</idno>
+                  <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/102854/</idno>
+                  <idno type="URI" subtype="OEML">https://dx.doi.org/10.1553/0x0001dfc3</idno>
+                  <idno type="URI" subtype="OEBL">https://biographien.ac.at/ID-0.3045384-1</idno>
                </person>
             </listPerson>
          </div>
