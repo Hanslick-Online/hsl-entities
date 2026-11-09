@@ -6505,6 +6505,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_3070">Doctor Marianus</name>
                <name type="character" ref="#hsl_person_id_4864">Faust</name>
+               <name type="character" ref="#hsl_person_id_10075">Gretchen</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146787</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3476599</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Szenen_aus_Goethes_Faust%2C_WoO_3_(Schumann%2C_Robert)</idno>
@@ -9963,6 +9964,7 @@
                <name type="character" ref="#hsl_person_id_10065">Conradin</name>
                <name type="character" ref="#hsl_person_id_10067">Freiherr von Schönau</name>
                <name type="character" ref="#hsl_person_id_10068">Damian</name>
+               <name type="character" ref="#hsl_person_id_10078">Maria</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30054085X</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5261231</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Trompeter_von_S%C3%A4kkingen_(Nessler%2C_Viktor_Ernst)</idno>
@@ -60952,8 +60954,14 @@ philosophes du 18 siècle</title>
                   <persName>Jensen, Adolf</persName>
                </author>
             </bibl>
-            <bibl xml:id="hsl_work_id_7694" resp="#awilfing" cert="medium">
-               <title type="main"/>
+            <bibl xml:id="hsl_work_id_7694" resp="#awilfing" cert="high">
+               <title type="main">Nordseebilder</title>
+               <author ref="#hsl_person_id_116">
+                  <persName>Heine, Heinrich</persName>
+               </author>
+               <author ref="#hsl_person_id_1036">
+                  <persName>Huber, Hans</persName>
+               </author>
             </bibl>
             <bibl xml:id="hsl_work_id_7697" resp="#awilfing" cert="high">
                <title type="main">Geschwinde, ihr wirbelnden Winde, BWV201</title>
@@ -61081,6 +61089,122 @@ philosophes du 18 siècle</title>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4262408-3</idno>
                <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q465762</idno>
                <idno type="URL" subtype="Digitalisat">https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-pio-clementino/Cortile-Ottagono/laocoonte.html</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7712" resp="#awilfing" cert="medium">
+               <title type="main">Die Schiffersfrau</title>
+               <author ref="#hsl_person_id_4834">
+                  <persName>Krinninger, Franz</persName>
+               </author>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7713" resp="#awilfing" cert="medium">
+               <title type="main">Drei Lieder für drei Frauenstimmen, op. 114</title>
+               <title type="alternative">Chöre für Frauenstimmen</title>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Lieder_für_3_Frauenstimmen%2C_Op.114_(Schumann%2C_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7714" resp="#awilfing" cert="medium">
+               <title type="main">Nänie</title>
+               <title type="alternative">Vögleins Begräbnis; auf den Tod eines Singvogels</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_7713">Drei Lieder für drei Frauenstimmen, op. 114</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Lieder_für_3_Frauenstimmen%2C_Op.114_(Schumann%2C_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7715" resp="#awilfing" cert="medium">
+               <title type="main">Triolett</title>
+               <title type="alternative">Senkt die Nacht den sanften Fittich nieder</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_7713">Drei Lieder für drei Frauenstimmen, op. 114</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Lieder_für_3_Frauenstimmen%2C_Op.114_(Schumann%2C_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7716" resp="#awilfing" cert="medium">
+               <title type="main">Spruch</title>
+               <title type="alternative">Oh blicke, wenn den Sinn dir will die Welt verwirren</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_7713">Drei Lieder für drei Frauenstimmen, op. 114</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_282">
+                  <persName>Schumann, Robert</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/3_Lieder_für_3_Frauenstimmen%2C_Op.114_(Schumann%2C_Robert)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7717" resp="#awilfing" cert="medium">
+               <title type="main">Lieder für gemischten Chor, op. 10</title>
+               <author ref="#hsl_person_id_1845">
+                  <persName>Herzogenberg, Heinrich von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lieder_für_gemischten_Chor,_Op.10_(Herzogenberg,_Heinrich_von)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7718" resp="#awilfing" cert="medium">
+               <title type="main">Hüt' du dich</title>
+               <title type="alternative">Lieder für gemischten Chor, op. 10 Nr. 3</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_7717">Lieder für gemischten Chor, op. 10</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_1845">
+                  <persName>Herzogenberg, Heinrich von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lieder_für_gemischten_Chor,_Op.10_(Herzogenberg,_Heinrich_von)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7719" resp="#awilfing" cert="medium">
+               <title type="main">Frühlingsanfang</title>
+               <author ref="#hsl_person_id_10077">
+                  <persName>Lamberg, Josef</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://musikverein.at/konzert/wiener-singakademie-000617e4/</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7720" resp="#awilfing" cert="medium">
+               <title type="main">Tafellied für sechsstimmigen gemischten Chor mit Klavier, op. 93b</title>
+               <author ref="#hsl_person_id_41">
+                  <persName>Brahms, Johannes</persName>
+               </author>
+               <author ref="#hsl_person_id_1245">
+                  <persName>Eichendorff, Joseph von</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Tafellied,_Op.93b_(Brahms,_Johannes)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7721" resp="#awilfing" cert="medium">
+               <title type="main">Symphonie Nr. 31 in D-Dur, KV297</title>
+               <title type="alternative">Pariser Symphonie</title>
+               <author ref="#hsl_person_id_189">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300111053</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q224417</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphony_No.31_in_D_major,_K.297/300a_(Mozart,_Wolfgang_Amadeus)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7722" resp="#awilfing" cert="medium">
+               <title type="main">Die drei Zigeuner, S. 320</title>
+               <author ref="#hsl_person_id_164">
+                  <persName>Liszt, Franz</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Song,_Die_drei_Zigeuner,_S.320_(Liszt,_Franz)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7724" resp="#awilfing" cert="high">
+               <title type="main">Scènes pittoresques für Orchester</title>
+               <author ref="#hsl_person_id_1302">
+                  <persName>Massenet, Jules</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/300301898</idno>
+               <idno type="URI" subtype="WIKIDATA">https://imslp.org/wiki/Sc%C3%A8nes_pittoresques_(Massenet,_Jules)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7725" resp="#awilfing" cert="high">
+               <title type="main">Jota Aragonesa für Violine und Orchester, op. 27</title>
+               <title type="alternative">Jota arragonesa</title>
+               <author ref="#hsl_person_id_3505">
+                  <persName>Sarasate, Pablo de</persName>
+               </author>
+               <idno type="URI" subtype="GND">http://d-nb.info/gnd/300317581</idno>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Jota_Aragonesa,_Op.27_(Sarasate,_Pablo_de)</idno>
             </bibl>
       </listBibl>
       </body>
