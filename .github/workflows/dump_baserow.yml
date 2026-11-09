@@ -30,6 +30,7 @@ jobs:
             sleep $((attempt * 15))
           done
           uv run scripts/python/denormalize.py
+          uv run scripts/python/add_alternative_titles.py
       - name: data dump to xml
         run: |
           uv run scripts/python/json2xml.py

@@ -3,10 +3,15 @@ import geocoder
 import json
 from time import sleep
 from acdh_id_reconciler import geonames_to_gnd, geonames_to_wikidata, gnd_to_wikidata_custom
-from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
+from acdh_id_reconciler.utils import normalize_wikidata_id
+from AcdhArcheAssets.uri_norm_rules import get_normalized_uri, get_norm_id
 from acdh_obj2xml_pyutils import ObjectToXml
 
 from config import (BASEROW_URL, BASEROW_TOKEN, br_client)
+
+LOBID_GND_URL = "https://lobid.org/gnd/{}.json"
+WIKIDATA_API_URL = "https://www.wikidata.org/w/api.php"
+TITLES_USER_AGENT = "hsl-entities (https://github.com/Hanslick-Online/hsl-entities)"
 
 
 def _load_table_rows(br_table_id, attempts=3):
@@ -341,3 +346,130 @@ def denormalize_json(fn, path, mapping):
         json.dump(dta, w)
     print(f"finished update of {save_and_open} and save as {save_and_open}.")
     return dta
+
+
+def _fetch_gnd_titles(gnd_id):
+    """Fetch the preferred and variant titles of a GND record via lobid.org."""
+    url = LOBID_GND_URL.format(gnd_id)
+    try:
+        r = requests.get(url, headers={"User-Agent": TITLES_USER_AGENT}, timeout=30)
+        r.raise_for_status()
+        record = r.json()
+    except Exception as err:
+        print(f"no GND record found for {gnd_id}: {err}")
+        return None
+    return {
+        "preferred": record.get("preferredName", ""),
+        "variants": record.get("variantName", []),
+    }
+
+
+def _fetch_wikidata_titles(qid):
+    """Fetch the labels and aliases of a Wikidata item, keyed by language code."""
+    params = {
+        "action": "wbgetentities",
+        "format": "json",
+        "ids": qid,
+        "props": "labels|aliases",
+    }
+    try:
+        r = requests.get(
+            WIKIDATA_API_URL, params=params,
+            headers={"User-Agent": TITLES_USER_AGENT}, timeout=30
+        )
+        r.raise_for_status()
+        entity = r.json().get("entities", {}).get(qid, {})
+    except Exception as err:
+        print(f"no Wikidata record found for {qid}: {err}")
+        return None
+    labels = {lang: v["value"] for lang, v in entity.get("labels", {}).items()}
+    aliases = {
+        lang: [a["value"] for a in values]
+        for lang, values in entity.get("aliases", {}).items()
+    }
+    return {"labels": labels, "aliases": aliases}
+
+
+def add_alternative_titles(input_path="json_dumps/Werke.json", output_path=None, sleep_seconds=0.2):
+    """
+    Enrich a dump of the Werke table with alternative titles resolved from the
+    GND and Wikidata URIs already present in the `gnd` and `wikidata` columns.
+
+    Adds, to every work:
+    - `titel_original`: the GND preferred name (the catalogued title in the
+      work's original language).
+    - `titel_de`: German labels/aliases found on Wikidata.
+    - `titel_en`: English labels/aliases found on Wikidata.
+    - `titel_sonstige`: remaining GND variant titles not already covered above.
+    """
+    output_path = output_path or input_path
+    with open(input_path, "rb") as f:
+        data = json.load(f)
+
+    gnd_cache = {}
+    wikidata_cache = {}
+    enriched = 0
+
+    for record in data.values():
+        name = (record.get("name") or "").strip()
+        gnd_url = (record.get("gnd") or "").strip()
+        wikidata_url = (record.get("wikidata") or "").strip()
+
+        gnd_info = None
+        if gnd_url:
+            gnd_id = get_norm_id(gnd_url)
+            if gnd_id not in gnd_cache:
+                gnd_cache[gnd_id] = _fetch_gnd_titles(gnd_id)
+                sleep(sleep_seconds)
+            gnd_info = gnd_cache[gnd_id]
+
+        wikidata_info = None
+        if wikidata_url:
+            qid = normalize_wikidata_id(wikidata_url)
+            if qid not in wikidata_cache:
+                wikidata_cache[qid] = _fetch_wikidata_titles(qid)
+                sleep(sleep_seconds)
+            wikidata_info = wikidata_cache[qid]
+
+        # tracks titles already assigned to a field, to avoid duplicates across fields
+        seen = {name.casefold()} if name else set()
+
+        def _dedupe(values):
+            result = []
+            for value in values:
+                value = (value or "").strip()
+                key = value.casefold()
+                if not value or key in seen:
+                    continue
+                seen.add(key)
+                result.append(value)
+            return result
+
+        titel_original = ""
+        if gnd_info:
+            titel_original = "; ".join(_dedupe([gnd_info["preferred"]]))
+
+        titel_de = ""
+        titel_en = ""
+        if wikidata_info:
+            de_values = [wikidata_info["labels"].get("de", "")] + wikidata_info["aliases"].get("de", [])
+            titel_de = "; ".join(_dedupe(de_values))
+            en_values = [wikidata_info["labels"].get("en", "")] + wikidata_info["aliases"].get("en", [])
+            titel_en = "; ".join(_dedupe(en_values))
+
+        titel_sonstige = ""
+        if gnd_info:
+            titel_sonstige = "; ".join(_dedupe(gnd_info["variants"]))
+
+        record["titel_original"] = titel_original
+        record["titel_de"] = titel_de
+        record["titel_en"] = titel_en
+        record["titel_sonstige"] = titel_sonstige
+
+        if gnd_info or wikidata_info:
+            enriched += 1
+
+    with open(output_path, "w") as f:
+        json.dump(data, f)
+    print(f"{enriched} of {len(data)} works enriched with alternative titles; saved to {output_path}")
+    return data
