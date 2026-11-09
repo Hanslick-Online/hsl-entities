@@ -64,7 +64,7 @@
                <title type="alternative">{{ x.Alternativtitel }}</title>
                {% endif %}
                {% if x.titel_original and x.titel_original|length != 0 %}
-               <title type="alternative" xml:lang="orig">{{ x.titel_original }}</title>
+               <title type="alternative" subtype="original">{{ x.titel_original }}</title>
                {% endif %}
                {% if x.titel_de and x.titel_de|length != 0 %}
                <title type="alternative" xml:lang="de">{{ x.titel_de }}</title>
@@ -73,7 +73,7 @@
                <title type="alternative" xml:lang="en">{{ x.titel_en }}</title>
                {% endif %}
                {% if x.titel_sonstige and x.titel_sonstige|length != 0 %}
-               <title type="alternative">{{ x.titel_sonstige }}</title>
+               <title type="alternative" subtype="other">{{ x.titel_sonstige }}</title>
                {% endif %}
                {% if x.Werkbezug and x.Werkbezug|length != 0 %}
                <noteGrp type="Werkbezug">
