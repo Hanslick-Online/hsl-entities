@@ -58,51 +58,51 @@
       <body>
          <listBibl>
          {% for x in objects %}
-            <bibl xml:id="{{ x.hsl_id }}" resp="#awilfing" cert="{% if x.Ueberprueft %}high{% else %}medium{% endif %}">
-               <title type="main">{{ x.name }}</title>
+            <bibl xml:id="{{ x.hsl_id | e }}" resp="#awilfing" cert="{% if x.Ueberprueft %}high{% else %}medium{% endif %}">
+               <title type="main">{{ x.name | e }}</title>
                {% if x.Alternativtitel %}
-               <title type="alternative">{{ x.Alternativtitel }}</title>
+               <title type="alternative">{{ x.Alternativtitel | e }}</title>
                {% endif %}
                {% if x.titel_original and x.titel_original|length != 0 %}
-               <title type="alternative" subtype="original">{{ x.titel_original }}</title>
+               <title type="alternative" subtype="original">{{ x.titel_original | e }}</title>
                {% endif %}
                {% if x.titel_de and x.titel_de|length != 0 %}
-               <title type="alternative" xml:lang="de">{{ x.titel_de }}</title>
+               <title type="alternative" xml:lang="de">{{ x.titel_de | e }}</title>
                {% endif %}
                {% if x.titel_en and x.titel_en|length != 0 %}
-               <title type="alternative" xml:lang="en">{{ x.titel_en }}</title>
+               <title type="alternative" xml:lang="en">{{ x.titel_en | e }}</title>
                {% endif %}
                {% if x.titel_sonstige and x.titel_sonstige|length != 0 %}
-               <title type="alternative" subtype="other">{{ x.titel_sonstige }}</title>
+               <title type="alternative" subtype="other">{{ x.titel_sonstige | e }}</title>
                {% endif %}
                {% if x.Werkbezug and x.Werkbezug|length != 0 %}
                <noteGrp type="Werkbezug">
                   {% for w in x.Werkbezug %}
-                  <note type="Werkbezug" target="hsl_work_id_{{ w.id }}">{{ w.value }}</note>
+                  <note type="Werkbezug" target="hsl_work_id_{{ w.id | e }}">{{ w.value | e }}</note>
                   {% endfor %}
                </noteGrp>
                {% endif %}
                {% if x.schoepfer %}
                {% for s in x.schoepfer if s.data %}
-               <author ref="#{{ s.data.hsl_id }}">
-                  <persName>{{ s.data.name }}</persName>
+               <author ref="#{{ s.data.hsl_id | e }}">
+                  <persName>{{ s.data.name | e }}</persName>
                </author>
                {% endfor %}
                {% endif %}
                {% if x.figur %}
                {% for f in x.figur if f.data %}
-               <name type="character" ref="#{{ f.data.hsl_id }}">{{ f.data.name }}</name>
+               <name type="character" ref="#{{ f.data.hsl_id | e }}">{{ f.data.name | e }}</name>
                {% endfor %}
                {% endif %}
                {% if x.gnd|length != 0 %}
-               <idno type="URI" subtype="GND">{{ x.gnd }}</idno>
+               <idno type="URI" subtype="GND">{{ x.gnd | e }}</idno>
                {% endif %}
                {% if x.wikidata is defined and x.wikidata|length != 0 %}
-               <idno type="URI" subtype="WIKIDATA">{{ x.wikidata }}</idno>
+               <idno type="URI" subtype="WIKIDATA">{{ x.wikidata | e }}</idno>
                {% endif %}
                {% if x.Digitalisat and x.Digitalisat|length != 0 %}
                {% for d in x.Digitalisat|split_string(" , ") %}
-               <idno type="URL" subtype="Digitalisat">{{ d }}</idno>
+               <idno type="URL" subtype="Digitalisat">{{ d | e }}</idno>
                {% endfor %}
                {% endif %}
             </bibl>
