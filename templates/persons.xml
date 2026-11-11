@@ -59,52 +59,52 @@
          <div type="index_persons">
             <listPerson xml:id="listperson">
             {% for x in objects %}
-               <person xml:id="{{ x.hsl_id }}" {% if x.role_real == False %}role="fictional"{% endif %} resp="#awilfing" cert="{% if x.Ueberprueft %}high{% else %}medium{% endif %}">
+               <person xml:id="{{ x.hsl_id | e }}" {% if x.role_real == False %}role="fictional"{% endif %} resp="#awilfing" cert="{% if x.Ueberprueft %}high{% else %}medium{% endif %}">
                   <persName type="main">
-                     <forename>{{ x.name.split(', ')[1] }}</forename>
-                     <surname>{{ x.name.split(', ')[0] }}</surname>
+                     <forename>{{ x.name.split(', ')[1] | e }}</forename>
+                     <surname>{{ x.name.split(', ')[0] | e }}</surname>
                   </persName>
                   {% if x.Alternativname %}
                   <persName type="alternative">
-                     <forename>{{ x.Alternativname.split(', ')[1] }}</forename>
-                     <surname>{{ x.Alternativname.split(', ')[0] }}</surname>
+                     <forename>{{ x.Alternativname.split(', ')[1] | e }}</forename>
+                     <surname>{{ x.Alternativname.split(', ')[0] | e }}</surname>
                   </persName>
                   {% endif %}
                   {% if x.lebensdaten and x.lebensdaten|length > 0 %}
-                  <birth>{{ x.lebensdaten }}</birth>
-                  <death>{{ x.lebensdaten }}</death>
+                  <birth>{{ x.lebensdaten | e }}</birth>
+                  <death>{{ x.lebensdaten | e }}</death>
                   {% endif %}
                   {% if x.beschreibung and x.beschreibung|length > 0 %}
                   {% for occupation in x.beschreibung %}
-                  <occupation style="background-color: {{ occupation.color }};">{{ occupation.value }}</occupation>
+                  <occupation style="background-color: {{ occupation.color | e }};">{{ occupation.value | e }}</occupation>
                   {% endfor %}
                   {% endif %}
                   {% if x.gnd|length > 0 %}
-                  <idno type="URI" subtype="GND">{{ x.gnd }}</idno>
+                  <idno type="URI" subtype="GND">{{ x.gnd | e }}</idno>
                   {% endif %}
                   {% if x.wikidata|length > 0 %}
-                  <idno type="URI" subtype="WIKIDATA">{{ x.wikidata }}</idno>
+                  <idno type="URI" subtype="WIKIDATA">{{ x.wikidata | e }}</idno>
                   {% endif %}
                   {% if x.pmb|length > 0 %}
-                  <idno type="URI" subtype="PMB">{{ x.pmb }}</idno>
+                  <idno type="URI" subtype="PMB">{{ x.pmb | e }}</idno>
                   {% endif %}
                   {% if x.oeml|length > 0 %}
-                  <idno type="URI" subtype="OEML">{{ x.oeml }}</idno>
+                  <idno type="URI" subtype="OEML">{{ x.oeml | e }}</idno>
                   {% endif %}
                   {% if x.oebl|length > 0 %}
-                  <idno type="URI" subtype="OEBL">{{ x.oebl }}</idno>
+                  <idno type="URI" subtype="OEBL">{{ x.oebl | e }}</idno>
                   {% endif %}
                   {% if x.werke_schoepfer %}
                   <listBibl type="authorOf">
                      {% for b in x.werke_schoepfer if b.data %}
-                     <bibl n="{{ b.data.hsl_id }}">{{ b.data.name }}</bibl>
+                     <bibl n="{{ b.data.hsl_id | e }}">{{ b.data.name | e }}</bibl>
                      {% endfor %}
                   </listBibl>
                   {% endif %}
                   {% if x.werke_figur %}
                   <listBibl type="characterOf">
                      {% for b in x.werke_figur if b.data %}
-                     <bibl n="{{ b.data.hsl_id }}">{{ b.data.name }}</bibl>
+                     <bibl n="{{ b.data.hsl_id | e }}">{{ b.data.name | e }}</bibl>
                      {% endfor %}
                   </listBibl>
                   {% endif %}
