@@ -3097,6 +3097,7 @@
                      <bibl n="hsl_work_id_7604">Faust</bibl>
                      <bibl n="hsl_work_id_7650">3 Gesänge des Harfners für Singstimme und Klavier, D478</bibl>
                      <bibl n="hsl_work_id_7651">Wer nie sein Brot mit Thränen aß, D478 Nr. 2</bibl>
+                     <bibl n="hsl_work_id_7750">Wilhelm Meisters Wanderjahre oder die Entsagenden</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_101" resp="#awilfing" cert="high">
@@ -116927,6 +116928,69 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_178">I masnadieri, H47</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10091" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="hsl_person_id_10092" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Sparafucile</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_59">Rigoletto, H53</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10093" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Salvatore</forename>
+                     <surname>Patti</surname>
+                  </persName>
+                  <birth notBefore="1799-01-01" notAfter="1799-12-31">1799-1869</birth>
+                  <death notBefore="1869-01-01" notAfter="1869-12-31">1799-1869</death>
+                  <occupation style="background-color: light-red;">Sänger (Tenor)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1329208889</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2215727</idno>
+               </person>
+               <person xml:id="hsl_person_id_10094" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Amalie</forename>
+                     <surname>Patti</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Amalia</surname>
+                  </persName>
+                  <birth notBefore="1831-01-01" notAfter="1831-12-31">1831-1915</birth>
+                  <death notBefore="1915-01-01" notAfter="1915-12-31">1831-1915</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <occupation style="background-color: dark-blue;">Gesangslehrerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117306223</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q461584</idno>
+               </person>
+               <person xml:id="hsl_person_id_10095" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Cornelius</forename>
+                     <surname>Vanderbilt</surname>
+                  </persName>
+                  <birth notBefore="1794-01-01" notAfter="1794-12-31">1794-1877</birth>
+                  <death notBefore="1877-01-01" notAfter="1877-12-31">1794-1877</death>
+                  <occupation style="background-color: yellow;">Unternehmer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118803875</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q313721</idno>
+               </person>
+               <person xml:id="hsl_person_id_10096" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Teresa</forename>
+                     <surname>Parodi</surname>
+                  </persName>
+                  <birth notBefore="1827-01-01" notAfter="1827-12-31">1827-1878</birth>
+                  <death notBefore="1878-01-01" notAfter="1878-12-31">1827-1878</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4345747</idno>
                </person>
             </listPerson>
          </div>
