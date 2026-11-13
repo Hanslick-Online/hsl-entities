@@ -462,9 +462,13 @@ def add_alternative_titles(input_path="json_dumps/Werke.json", output_path=None,
             titel_sonstige = "; ".join(_dedupe(gnd_info["variants"]))
 
         record["titel_original"] = titel_original
+        record["titel_original_type"] = "alias"
         record["titel_de"] = titel_de
+        record["titel_de_type"] = "alias"
         record["titel_en"] = titel_en
+        record["titel_en_type"] = "alias"
         record["titel_sonstige"] = titel_sonstige
+        record["titel_sonstige_type"] = "alias"
 
         if gnd_info or wikidata_info:
             enriched += 1
