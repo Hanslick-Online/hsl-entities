@@ -458,6 +458,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_748">Freya</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/112555715X</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5551889</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Germanenzug%2C_WAB_70_(Bruckner%2C_Anton)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_25" resp="#awilfing" cert="high">
@@ -751,11 +752,14 @@
             <bibl xml:id="hsl_work_id_50" resp="#awilfing" cert="high">
                <title type="main">Ein Sommernachtstraum, MWV P 3 (Ouvertüre)</title>
                <title type="alias" subtype="original">Konzert-Ouvertüre zu Shakespeares Sommernachtstraum</title>
+               <title type="alias" xml:lang="de">Ein Sommernachtstraum</title>
+               <title type="alias" xml:lang="en">A Midsummer Night&amp;#39;s Dream</title>
                <title type="alias" subtype="other">Ouverture aus der Musik zu Shakespeares &amp;#34;Sommernachtstraum&amp;#34;; Overture to Shakespeare&amp;#39;s A midsummer night&amp;#39;s dream; Sommernachtstraum-Ouvertüre; Ouverture zu Shakespeares Sommernachtstraum; Konzert-Ouvertüre, MWV P 3; Ein Sommernachtstraum. Ouvertüre; Ouvertüre zu Shakespeares Sommernachtstraum; Uvertjura &amp;#34;Son v letnjuju nočʹ&amp;#34;</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300102305</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1305214</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/A_Midsummer_Night%27s_Dream,_overture,_Op.21_(Mendelssohn,_Felix)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_51" resp="#awilfing" cert="high">
@@ -1556,7 +1560,10 @@
                <author ref="#hsl_person_id_1410">
                   <persName>Nuitter, Charles</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_537">Franz Waldung</name>
+               <author ref="#hsl_person_id_1411">
+                  <persName>Wolzogen, Alfred von</persName>
+               </author>
+               <name type="character" ref="#hsl_person_id_537">Franz Baldung</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4842212-5</idno>
                <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1215785</idno>
             </bibl>
@@ -3279,7 +3286,9 @@
             <bibl xml:id="hsl_work_id_222" resp="#awilfing" cert="high">
                <title type="main">Die Heimkehr aus der Fremde, MWV L 6</title>
                <title type="alias" subtype="original">Aus der Fremde</title>
-               <title type="alias" subtype="other">Son and Stranger; Die Heimkehr aus der Fremde; Return of the Roamer</title>
+               <title type="alias" xml:lang="de">Die Heimkehr aus der Fremde</title>
+               <title type="alias" xml:lang="en">The Return from Abroad</title>
+               <title type="alias" subtype="other">Son and Stranger; Return of the Roamer</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
@@ -3289,6 +3298,7 @@
                <name type="character" ref="#hsl_person_id_7510">Hermann</name>
                <name type="character" ref="#hsl_person_id_7511">Kauz</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300101619</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1213333</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Heimkehr_aus_der_Fremde,_Op.89_(Mendelssohn,_Felix)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_223" resp="#awilfing" cert="high">
@@ -3431,6 +3441,7 @@
                   <persName>Horn, Moritz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300186703</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4443382</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Rose_Pilgerfahrt,_Op.112_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_245" resp="#awilfing" cert="high">
@@ -3450,6 +3461,7 @@
             <bibl xml:id="hsl_work_id_234" resp="#awilfing" cert="high">
                <title type="main">Der Neugierige, D795 Nr. 6</title>
                <title type="alias" subtype="original">Die schöne Müllerin. Der Neugierige</title>
+               <title type="alias" xml:lang="de">Die schöne Müllerin</title>
                <title type="alias" subtype="other">Ich frage keine Blume; Der Neugierige</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_214">Die schöne Müllerin, D795</note>
@@ -3461,6 +3473,7 @@
                   <persName>Müller, Wilhelm</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300300158</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q765966</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_sch%C3%B6ne_M%C3%BCllerin%2C_D.795_(Schubert%2C_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_235" resp="#awilfing" cert="high">
@@ -4344,6 +4357,7 @@
             <bibl xml:id="hsl_work_id_299" resp="#awilfing" cert="high">
                <title type="main">Dardanus, RCT35</title>
                <title type="alias" subtype="original">Dardanus, RCT 35 A</title>
+               <title type="alias" xml:lang="de">Dardanus</title>
                <author ref="#hsl_person_id_227">
                   <persName>Rameau, Jean-Philippe</persName>
                </author>
@@ -4351,6 +4365,7 @@
                   <persName>Le Clerc de La Bruère, Charles-Antoine</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1116640570</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q167222</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Dardanus%2C_RCT_35_(Rameau%2C_Jean-Philippe)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_300" resp="#awilfing" cert="high">
@@ -7079,11 +7094,14 @@
                <title type="main">Episode de la vie d&amp;#39;un artiste. Grande symphonie fantastique par Hector Berlioz für Klavier, S470</title>
                <title type="alternative">Phantastische Symphonie</title>
                <title type="alias" subtype="original">Episode de la vie d&amp;#39;un artiste</title>
-               <title type="alias" subtype="other">Fantastic symphony; Symphonie fantastique; Episode aus dem Leben eines Künstlers; Grande symphonie fantastique; An episode in the life of an artist</title>
+               <title type="alias" xml:lang="de">Symphonie fantastique</title>
+               <title type="alias" xml:lang="en">An Episode in the Life of an Artist, in Five Parts; Fantastical Symphony: Episode in the Life of an Artist … in Five Sections; Fantastical Symphony Op. 14</title>
+               <title type="alias" subtype="other">Fantastic symphony; Episode aus dem Leben eines Künstlers; Grande symphonie fantastique; An episode in the life of an artist</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300317107</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q462313</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Symphonie_fantastique,_H_48_(Berlioz,_Hector)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_575" resp="#awilfing" cert="high">
@@ -7444,6 +7462,7 @@
                <author ref="#hsl_person_id_2212">
                   <persName>Stein, Leo</persName>
                </author>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1171619</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Das_s%C3%BC%C3%9Fe_M%C3%A4del_(Reinhardt%2C_Heinrich)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_606" resp="#awilfing" cert="high">
@@ -9030,8 +9049,6 @@
             <bibl xml:id="hsl_work_id_752" resp="#awilfing" cert="high">
                <title type="main">Studien für den Pedal-Flügel. 6 Stücke in kanonischer Form, op. 56</title>
                <title type="alternative">Canons für den Pedalflügel; Studien für den Pedalflügel</title>
-               <title type="alias" subtype="original">Studien, Pedalklavier, op. 56</title>
-               <title type="alias" subtype="other">Stücke in kanonischer Form, op. 56; Pièces en form de canon; Studien, Kl, op. 56; Stücke in kanonischer Form; Studien für den Pedalflügel; Kanonische Stücke; Stücke in canonischer Form; Studien, Klavier, op. 56</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
@@ -9437,6 +9454,7 @@
                <title type="main">Chant sans paroles, TH125 Nr. 3</title>
                <title type="alternative">Lied ohne Worte</title>
                <title type="alias" subtype="original">Vospominanie o Gapsale. Pesnja bez slov</title>
+               <title type="alias" xml:lang="de">Souvenir de Hapsal</title>
                <title type="alias" subtype="other">Chanson sans paroles; Chant sans paroles; Lied ohne Worte; Vospominanie o Gamsale. Pesnja bez slov; Souvenir de Hapsal. Chant sans paroles; Vospominanie o Gamsale. Lied ohne Worte; Pesnja bez slov</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_3503">Souvenir de Hapsal für Klavier, TH125</note>
@@ -9445,6 +9463,7 @@
                   <persName>Čajkovskij, Pëtr Ilʹič</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300033923</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3492380</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Souvenir_de_Hapsal%2C_Op.2_(Tchaikovsky%2C_Pyotr)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_790" resp="#awilfing" cert="high">
@@ -9531,11 +9550,14 @@
                <title type="main">Die Weihe des Hauses, op. 124</title>
                <title type="alternative">Fest-Ouverture</title>
                <title type="alias" subtype="original">Ouvertüre zum Festspiel &amp;#34;Die Weihe des Hauses&amp;#34;</title>
-               <title type="alias" subtype="other">Ouvertüre zum Festspiel &amp;#34;Die Weihe des Hauses&amp;#34; von Carl Meisl; Orchesterwerk, op. 124; Die Weihe des Hauses; The consecration of the house; Ouverture &amp;#34;Die Weihe des Hauses&amp;#34;; Ouvertüre &amp;#34;Die Weihe des Hauses&amp;#34;</title>
+               <title type="alias" xml:lang="de">Die Weihe des Hauses</title>
+               <title type="alias" xml:lang="en">The Consecration of the House</title>
+               <title type="alias" subtype="other">Ouvertüre zum Festspiel &amp;#34;Die Weihe des Hauses&amp;#34; von Carl Meisl; Orchesterwerk, op. 124; Ouverture &amp;#34;Die Weihe des Hauses&amp;#34;; Ouvertüre &amp;#34;Die Weihe des Hauses&amp;#34;</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300017715</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1217412</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Weihe_des_Hauses,_Op.124_(Beethoven,_Ludwig_van)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_799" resp="#awilfing" cert="high">
@@ -10042,6 +10064,8 @@
                <title type="main">Hemmelighed, op. 57 Nr. 4</title>
                <title type="alternative">Geheimnis</title>
                <title type="alias" subtype="original">Lyrische Stücke op. 57. Geheimnis</title>
+               <title type="alias" xml:lang="de">Lyrische Stücke</title>
+               <title type="alias" xml:lang="en">Lyric Pieces; Lyriske stykker</title>
                <title type="alias" subtype="other">Geheimnis</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_3466">Lyriske stykker für Klavier, op. 57</note>
@@ -10050,12 +10074,15 @@
                   <persName>Grieg, Edvard</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300582765</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2304758</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lyric_Pieces%2C_Op.57_(Grieg%2C_Edvard)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_840" resp="#awilfing" cert="high">
                <title type="main">Hun danser, op. 57 Nr. 5</title>
                <title type="alternative">Sie tanzt</title>
                <title type="alias" subtype="original">Lyriske stykker, op. 57. Hun danser</title>
+               <title type="alias" xml:lang="de">Lyrische Stücke</title>
+               <title type="alias" xml:lang="en">Lyric Pieces; Lyriske stykker</title>
                <title type="alias" subtype="other">She dances; Elle danse; Hun danser; Sie tanzt; Lyrische Stücke op. 57. Sie tanzt</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_3466">Lyriske stykker für Klavier, op. 57</note>
@@ -10064,6 +10091,7 @@
                   <persName>Grieg, Edvard</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1233807080</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2304758</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lyric_Pieces%2C_Op.57_(Grieg%2C_Edvard)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_841" resp="#awilfing" cert="high">
@@ -11069,6 +11097,7 @@
                <title type="main">Coppélia, ou La fille aux yeux d&amp;#39;émail</title>
                <title type="alternative">Coppelia</title>
                <title type="alias" subtype="original">Coppélia</title>
+               <title type="alias" xml:lang="de">Coppelia oder Das Mädchen mit den Glasaugen; Coppelia</title>
                <title type="alias" subtype="other">Coppélia ou La fille aux yeux d&amp;#39;émail; Coppélia ...; La fille aux yeux d&amp;#39;émail; Das Mädchen mit den Emaille-Augen</title>
                <author ref="#hsl_person_id_1410">
                   <persName>Nuitter, Charles</persName>
@@ -11081,6 +11110,7 @@
                <name type="character" ref="#hsl_person_id_7286">Swanilda</name>
                <name type="character" ref="#hsl_person_id_7318">Frantz</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300042728</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q831852</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Copp%C3%A9lia_(Delibes,_L%C3%A9o)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_917" resp="#awilfing" cert="high">
@@ -11525,6 +11555,8 @@
             <bibl xml:id="hsl_work_id_948" resp="#awilfing" cert="high">
                <title type="main">Waldesgespräch, op. 39 Nr. 3</title>
                <title type="alias" subtype="original">Liederkreis nach Joseph Freiherrn von Eichendorff. Waldesgespräch</title>
+               <title type="alias" xml:lang="de">Liederkreis op. 39</title>
+               <title type="alias" xml:lang="en">Liederkreis, Op. 39</title>
                <title type="alias" subtype="other">Liederkreis von Joseph Freiherrn von Eichendorff. Waldesgepräch; Liederkreis von Joseph von Eichendorff. Waldesgepräch; Liederkreis, op. 39. Waldesgepräch; Liederkreis op. 39 &amp;lt;Waldesgepräch&amp;gt;; Eichendorff-Liederkreis. Waldesgepräch; Es ist schon spät, es ist schon kalt; Liederkreis, op. 39,2; Waldesgepräch; Liederkreis nach Joseph von Eichendorff. Waldesgepräch</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_2593">Liederkreis nach Joseph von Eichendorff, op. 39</note>
@@ -11536,6 +11568,7 @@
                   <persName>Eichendorff, Joseph von</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1074379810</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1469612</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_949" resp="#awilfing" cert="high">
@@ -11830,6 +11863,7 @@
             <bibl xml:id="hsl_work_id_977" resp="#awilfing" cert="high">
                <title type="main">Don César de Bazan</title>
                <title type="alternative">Don Cäsar de Bazan; Don Cäsar von Bazan; Don Cesar de Bazan</title>
+               <title type="alias" xml:lang="en">Don Cesar de Bazan</title>
                <author ref="#hsl_person_id_1302">
                   <persName>Massenet, Jules</persName>
                </author>
@@ -11849,6 +11883,7 @@
                <name type="character" ref="#hsl_person_id_6842">Lazarille</name>
                <name type="character" ref="#hsl_person_id_6843">Capitaine des Gardes</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1120344522</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2918663</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Don_C%C3%A9sar_de_Bazan_(Massenet,_Jules)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_978" resp="#awilfing" cert="high">
@@ -13548,6 +13583,7 @@
                   <persName>Liszt, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300093616</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q258840</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Festkl%C3%A4nge,_S.101_(Liszt,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1119" resp="#awilfing" cert="high">
@@ -14299,6 +14335,7 @@
             <bibl xml:id="hsl_work_id_1181" resp="#awilfing" cert="high">
                <title type="main">Es war einmal</title>
                <title type="alias" subtype="original">Es war einmal ...</title>
+               <title type="alias" xml:lang="de">Es war einmal …</title>
                <author ref="#hsl_person_id_1818">
                   <persName>Zemlinsky, Alexander von</persName>
                </author>
@@ -14306,6 +14343,7 @@
                   <persName>Singer, Maximilian</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300248458</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3057622</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Es_war_einmal_(Zemlinsky%2C_Alexander_von)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1182" resp="#awilfing" cert="high">
@@ -15792,6 +15830,7 @@
                <title type="main">Daphnis et Cloé</title>
                <title type="alternative">Daphnis und Chloë</title>
                <title type="alias" subtype="original">Daphnis et Chloé</title>
+               <title type="alias" xml:lang="en">Daphnis et Chloe</title>
                <author ref="#hsl_person_id_202">
                   <persName>Offenbach, Jacques</persName>
                </author>
@@ -15803,6 +15842,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_6892">Cloé</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4692276-3</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5221748</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Daphnis_et_Chlo%C3%A9_(Offenbach%2C_Jacques)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1310" resp="#awilfing" cert="high">
@@ -16734,9 +16774,11 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1395" resp="#awilfing" cert="high">
                <title type="main">Franz Schubert&amp;#39;s Werke. Kritische durchgesehene Gesammtausgabe</title>
+               <title type="alias" xml:lang="en">Franz Schubert&amp;#39;s Works</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q19877159</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Franz_Schubert&amp;#39;s_Werke_(Schubert%2C_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1396" resp="#awilfing" cert="high">
@@ -16756,7 +16798,8 @@
                <title type="main">Die Verschworenen, D787</title>
                <title type="alternative">Der häusliche Krieg</title>
                <title type="alias" subtype="original">Die Verschworenen</title>
-               <title type="alias" subtype="other">Der häusliche Krieg; Die Weiberverschwörung; Häuslicher Krieg</title>
+               <title type="alias" xml:lang="en">Der häusliche Krieg; The Conspirators</title>
+               <title type="alias" subtype="other">Die Weiberverschwörung; Häuslicher Krieg</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -16770,6 +16813,7 @@
                <name type="character" ref="#hsl_person_id_2400">Heribert von Lüdenstein</name>
                <name type="character" ref="#hsl_person_id_2401">Isella</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300142307</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q750057</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Verschworenen,_D.787_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1398" resp="#awilfing" cert="high">
@@ -16880,9 +16924,13 @@
             </bibl>
             <bibl xml:id="hsl_work_id_1409" resp="#awilfing" cert="high">
                <title type="main">Ludwig van Beethovens Werke. Vollständige, kritisch durchgesehene, überall berechtigte Ausgabe</title>
+               <title type="alternative">Beethoven-Ausgabe</title>
+               <title type="alias" xml:lang="de">Neue Beethoven-Gesamtausgabe</title>
+               <title type="alias" xml:lang="en">Beethoven Gesamtausgabe</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2514364</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ludwig_van_Beethovens_Werke_(Beethoven,_Ludwig_van)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1411" resp="#awilfing" cert="high">
@@ -17082,6 +17130,7 @@
             <bibl xml:id="hsl_work_id_1429" resp="#awilfing" cert="high">
                <title type="main">Der Wanderer, D489</title>
                <title type="alias" subtype="original">Der Wanderer, D 489</title>
+               <title type="alias" xml:lang="de">Des Fremdlings Abendlied; Der Wanderer</title>
                <title type="alias" subtype="other">Der Wanderer D 489; Ich komme vom Gebirge her; Lieder, op. 4,1; Lieder, D 489</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
@@ -17090,6 +17139,7 @@
                   <persName>Schmidt, Georg Philipp</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300142390</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1200447</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Wanderer,_D.489_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1430" resp="#awilfing" cert="high">
@@ -17136,6 +17186,7 @@
             <bibl xml:id="hsl_work_id_1433" resp="#awilfing" cert="high">
                <title type="main">Ungeduld, D795 Nr. 7</title>
                <title type="alias" subtype="original">Die schöne Müllerin. Ungeduld</title>
+               <title type="alias" xml:lang="de">Die schöne Müllerin</title>
                <title type="alias" subtype="other">Dein ist mein Herz; Ich schnitt&amp;#39; es gern in alle Rinden ein; Die schöne Müllerin &amp;lt;Ungeduld&amp;gt;; Ungeduld</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_214">Die schöne Müllerin, D795</note>
@@ -17147,6 +17198,7 @@
                   <persName>Müller, Wilhelm</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141645</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q765966</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_sch%C3%B6ne_M%C3%BCllerin%2C_D.795_(Schubert%2C_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1434" resp="#awilfing" cert="high">
@@ -17171,6 +17223,7 @@
             <bibl xml:id="hsl_work_id_1435" resp="#awilfing" cert="high">
                <title type="main">Wohin?, D795 Nr. 2</title>
                <title type="alias" subtype="original">Die schöne Müllerin. Wohin?</title>
+               <title type="alias" xml:lang="de">Die schöne Müllerin</title>
                <title type="alias" subtype="other">Ich hört ein Bächlein rauschen; Whither?; Ich hört&amp;#39; ein Bächlein rauschen; Wohin?</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_214">Die schöne Müllerin, D795</note>
@@ -17182,6 +17235,7 @@
                   <persName>Müller, Wilhelm</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141653</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q765966</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_sch%C3%B6ne_M%C3%BCllerin%2C_D.795_(Schubert%2C_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1436" resp="#awilfing" cert="high">
@@ -18277,6 +18331,7 @@
                <name type="character" ref="#hsl_person_id_9187">Xenie Borisovna</name>
                <name type="character" ref="#hsl_person_id_9219">Jov, Patriarcha Moskerský</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7595245-2</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5277544</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Dimitrij%2C_Op.64_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1528" resp="#awilfing" cert="high">
@@ -18503,6 +18558,11 @@
             <bibl xml:id="hsl_work_id_1549" resp="#awilfing" cert="high">
                <title type="main">God save the Queen</title>
                <title type="alternative">God save the King</title>
+               <title type="alias" subtype="original">God save the King</title>
+               <title type="alias" xml:lang="de">Nationalhymne Großbritanniens; Nationalhymne der Kaimaninseln; Nationalhymne der Westindischen Föderation; Nationalhymne Nordirlands; Nationalhymne Montserrats; Nationalhymne des Britischen Territoriums im Indischen Ozean; Nationalhymne der Britischen Jungferninseln; Nationalhymne des Vereinigten Königreichs; Nationalhymne der Falklandinseln; Nationalhymne der Pitcairninseln; Nationalhymne der Bermudas; Nationalhymne der Turks- und Caicosinseln; Nationalhymne von St. Helena</title>
+               <title type="alias" xml:lang="en">God Save Our Lord the King</title>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4531996-0</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q40807</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/God_Save_the_King_(Carey,_Henry)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1550" resp="#awilfing" cert="high">
@@ -19406,6 +19466,7 @@
                   <persName>Liszt, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300093837</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q785335</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Ideale,_S.106_(Liszt,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1628" resp="#awilfing" cert="high">
@@ -20351,6 +20412,7 @@
                   <persName>Steinheim, Salomon Ludwig</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1029145822</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q25219173</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Zerst%C3%B6rung_Jerusalems%2C_Op.24_(Hiller%2C_Ferdinand)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1715" resp="#awilfing" cert="high">
@@ -23111,6 +23173,8 @@
                <title type="main">I Hjemmet, op. 43 Nr. 3</title>
                <title type="alternative">In der Heimat</title>
                <title type="alias" subtype="original">Lyriske stykker, op. 43. I hjemmet</title>
+               <title type="alias" xml:lang="de">Lyrische Stücke</title>
+               <title type="alias" xml:lang="en">Lyric Pieces; Lyriske stykker</title>
                <title type="alias" subtype="other">In der Heimath; Lyrische Stücke op. 43. In der Heimat; In my native country; In der Heimat; I hjemmet; Dans mon pays; Lyriske stykker, op. 43 (I hjemmet)</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_1979">Lyriske stykker für Klavier, op. 43</note>
@@ -23119,12 +23183,15 @@
                   <persName>Grieg, Edvard</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300298935</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2304758</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lyric_Pieces%2C_Op.43_(Grieg%2C_Edvard)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1973" resp="#awilfing" cert="high">
                <title type="main">Ensom vandrer, op. 43 Nr. 2</title>
                <title type="alternative">Einsamer Wanderer</title>
                <title type="alias" subtype="original">Lyriske stykker, op. 43. I hjemmet</title>
+               <title type="alias" xml:lang="de">Lyrische Stücke</title>
+               <title type="alias" xml:lang="en">Lyric Pieces; Lyriske stykker</title>
                <title type="alias" subtype="other">In der Heimath; Lyrische Stücke op. 43. In der Heimat; In my native country; In der Heimat; I hjemmet; Dans mon pays; Lyriske stykker, op. 43 (I hjemmet)</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_1979">Lyriske stykker für Klavier, op. 43</note>
@@ -23133,11 +23200,14 @@
                   <persName>Grieg, Edvard</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300298935</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2304758</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lyric_Pieces%2C_Op.43_(Grieg%2C_Edvard)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1974" resp="#awilfing" cert="high">
                <title type="main">Erotik, op. 43 Nr. 5</title>
                <title type="alias" subtype="original">Lyriske stykker, op. 43. Erotikk</title>
+               <title type="alias" xml:lang="de">Lyrische Stücke</title>
+               <title type="alias" xml:lang="en">Lyric Pieces; Lyriske stykker</title>
                <title type="alias" subtype="other">Lyric pieces, op. 43. Erotikon; Erotik; Lyriske stykker, op. 43. Nr. 5; Erotikon; Erotikk; Lyrische Stücke, op. 43. Erotik</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_1979">Lyriske stykker für Klavier, op. 43</note>
@@ -23146,12 +23216,15 @@
                   <persName>Grieg, Edvard</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300298943</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2304758</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lyric_Pieces%2C_Op.43_(Grieg%2C_Edvard)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1975" resp="#awilfing" cert="high">
                <title type="main">Til våren, op. 43 Nr. 6</title>
                <title type="alternative">Frühling</title>
                <title type="alias" subtype="original">Lyriske stykker, op. 43. Til våren</title>
+               <title type="alias" xml:lang="de">Lyrische Stücke</title>
+               <title type="alias" xml:lang="en">Lyric Pieces; Lyriske stykker</title>
                <title type="alias" subtype="other">Lyrische Stücke, op. 43. An den Frühling; Lyriske stykker, op. 43. Til foråret; Lyriske stykker, op. 43. Nr. 6; Au printemps; To spring; Til våren; An den Frühling; Lyric pieces, op. 43. To spring</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_1979">Lyriske stykker für Klavier, op. 43</note>
@@ -23160,12 +23233,15 @@
                   <persName>Grieg, Edvard</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300299842</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2304758</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lyric_Pieces%2C_Op.43_(Grieg%2C_Edvard)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1976" resp="#awilfing" cert="high">
                <title type="main">Sommerfugl, op. 43 Nr. 1</title>
                <title type="alternative">Schmetterling</title>
                <title type="alias" subtype="original">Lyriske stykker, op. 43. Sommerfugl</title>
+               <title type="alias" xml:lang="de">Lyrische Stücke</title>
+               <title type="alias" xml:lang="en">Lyric Pieces; Lyriske stykker</title>
                <title type="alias" subtype="other">Schmetterling; Lyric pieces, op. 43. Butterfly; Butterfly; Sommerfugl; Lyrische Stücke, op. 43. Schmetterling</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_1979">Lyriske stykker für Klavier, op. 43</note>
@@ -23174,12 +23250,15 @@
                   <persName>Grieg, Edvard</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300062311</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2304758</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lyric_Pieces%2C_Op.43_(Grieg%2C_Edvard)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1977" resp="#awilfing" cert="high">
                <title type="main">Liden Fugl, op. 43 Nr. 4</title>
                <title type="alternative">Vöglein</title>
                <title type="alias" subtype="original">Lyriske stykker, op. 43. Småfugl</title>
+               <title type="alias" xml:lang="de">Lyrische Stücke</title>
+               <title type="alias" xml:lang="en">Lyric Pieces; Lyriske stykker</title>
                <title type="alias" subtype="other">Vöglein; Păsărică; Pasăre mică; Småfugl; Lyric pieces, op. 43. Little bird; Lyrische Stücke, op. 43. Vöglein; Liden fugl; Little bird</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_1979">Lyriske stykker für Klavier, op. 43</note>
@@ -23188,6 +23267,7 @@
                   <persName>Grieg, Edvard</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1080337784</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2304758</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Lyric_Pieces%2C_Op.43_(Grieg%2C_Edvard)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1978" resp="#awilfing" cert="high">
@@ -23325,6 +23405,8 @@
             <bibl xml:id="hsl_work_id_1995" resp="#awilfing" cert="high">
                <title type="main">Die Stille, op. 39 Nr. 4</title>
                <title type="alias" subtype="original">Liederkreis nach Joseph Freiherrn von Eichendorff. Die Stille</title>
+               <title type="alias" xml:lang="de">Liederkreis op. 39</title>
+               <title type="alias" xml:lang="en">Liederkreis, Op. 39</title>
                <title type="alias" subtype="other">Liederkreis von Joseph Freiherrn von Eichendorff. Die Stille; Die Stille; Es weiß und rät es doch keiner; Es weiss und räth es doch Keiner; Liederkreis, op. 39,4; Liederkreis op. 39 &amp;lt;Die Stille&amp;gt;; Eichendorff-Liederkreis. Die Stille; Liederkreis nach Joseph von Eichendorff. Die Stille; Liederkreis von Joseph von Eichendorff. Die Stille; Liederkreis, op. 39. Die Stille</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_2593">Liederkreis nach Joseph von Eichendorff, op. 39</note>
@@ -23336,11 +23418,14 @@
                   <persName>Eichendorff, Joseph von</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1051889901</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1469612</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1996" resp="#awilfing" cert="high">
                <title type="main">Schöne Fremde, op. 39 Nr. 6</title>
                <title type="alias" subtype="original">Liederkreis nach Joseph Freiherrn von Eichendorff. Schöne Fremde</title>
+               <title type="alias" xml:lang="de">Liederkreis op. 39</title>
+               <title type="alias" xml:lang="en">Liederkreis, Op. 39</title>
                <title type="alias" subtype="other">Liederkreis op. 39 &amp;lt;Schöne Fremde&amp;gt;; Es rauschen die Wipfel und schauern; Liederkreis von Joseph von Eichendorff. Schöne Fremde; Liederkreis nach Joseph von Eichendorff. Schöne Fremde; Eichendorff-Liederkreis. Schöne Fremde; Liederkreis von Joseph Freiherrn von Eichendorff. Schöne Fremde; Liederkreis, op. 39. Schöne Fremde; Liederkreis, op. 39,6; Schöne Fremde</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_2593">Liederkreis nach Joseph von Eichendorff, op. 39</note>
@@ -23352,11 +23437,14 @@
                   <persName>Eichendorff, Joseph von</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300445202</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1469612</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1997" resp="#awilfing" cert="high">
                <title type="main">In der Fremde, op. 39 Nr. 1</title>
                <title type="alias" subtype="original">Liederkreis nach Joseph Freiherrn von Eichendorff. In der Fremde</title>
+               <title type="alias" xml:lang="de">Liederkreis op. 39</title>
+               <title type="alias" xml:lang="en">Liederkreis, Op. 39</title>
                <title type="alias" subtype="other">Liederkreis, op. 39. In der Fremde; In der Fremde; Ich hör’ die Bächlein rauschen; Liederkreis von Joseph Freiherrn von Eichendorff. In der Fremde; Liederkreis von Joseph von Eichendorff. In der Fremde; Liederkreis, op. 39,8; Liederkreis op. 39 &amp;lt;In der Fremde&amp;gt;; Liederkreis nach Joseph von Eichendorff. In der Fremde; Eichendorff-Liederkreis. In der Fremde</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_2593">Liederkreis nach Joseph von Eichendorff, op. 39</note>
@@ -23368,11 +23456,14 @@
                   <persName>Eichendorff, Joseph von</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1209172232</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1469612</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1998" resp="#awilfing" cert="high">
                <title type="main">Frühlingsnacht, op. 39 Nr. 12</title>
                <title type="alias" subtype="original">Liederkreis nach Joseph Freiherrn von Eichendorff. Frühlingsnacht</title>
+               <title type="alias" xml:lang="de">Liederkreis op. 39</title>
+               <title type="alias" xml:lang="en">Liederkreis, Op. 39</title>
                <title type="alias" subtype="other">Liederkreis op. 39 &amp;lt;Frühlingsnacht&amp;gt;; Liederkreis, op. 39. Frühlingsnacht; Liederkreis von Joseph von Eichendorff. Frühlingsnacht; Eichendorff-Liederkreis. Frühlingsnacht; Liederkreis nach Joseph von Eichendorff. Frühlingsnacht; Liederkreis, op. 39,8; Überm Garten durch die Lüfte; Frühlingsnacht; Liederkreis von Joseph Freiherrn von Eichendorff. Frühlingsnacht</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_2593">Liederkreis nach Joseph von Eichendorff, op. 39</note>
@@ -23384,6 +23475,7 @@
                   <persName>Eichendorff, Joseph von</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145772</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1469612</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1999" resp="#awilfing" cert="high">
@@ -23526,6 +23618,7 @@
                   <persName>Sografi, Antonio Simeone</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30082856X</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q457166</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Gli_Orazi_e_i_Curiazi_(Cimarosa%2C_Domenico)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2014" resp="#awilfing" cert="high">
@@ -23902,11 +23995,13 @@
             <bibl xml:id="hsl_work_id_2056" resp="#awilfing" cert="high">
                <title type="main">Faschingsschwank aus Wien für Klavier, op. 26</title>
                <title type="alias" subtype="original">Faschingsschwank aus Wien</title>
-               <title type="alias" subtype="other">Faschingsschwank aus Wien, op. 26; Carnival scenes from Vienna; Carnaval de Vienne</title>
+               <title type="alias" xml:lang="en">Faschingsschwank aus Wien, Op. 26; Carnival Scenes from Vienna</title>
+               <title type="alias" subtype="other">Carnaval de Vienne</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300144814</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1397324</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Faschingsschwank_aus_Wien,_Op.26_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2058" resp="#awilfing" cert="high">
@@ -24592,11 +24687,14 @@
                <title type="main">Slovanské tance, B78 (Klavierfassung)</title>
                <title type="alternative">Slavische Tänze; Slawische Tänze</title>
                <title type="alias" subtype="original">Slovanské tance, B 78</title>
+               <title type="alias" xml:lang="de">Slawische Tänze</title>
+               <title type="alias" xml:lang="en">Slavonic Dances; B. 78; B. 145; Slavonic Dances, Op. 46 and Op. 72</title>
                <title type="alias" subtype="other">Slovanské tance B 78; Slavonic dances, B 78; Slawische Tänze, B 78</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300048181</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1468901</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Slavonic_Dances%2C_Op.46_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2124" resp="#awilfing" cert="high">
@@ -25581,6 +25679,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_2214" resp="#awilfing" cert="high">
                <title type="main">Die Puppenfee</title>
+               <title type="alias" xml:lang="en">Fata delle bambole</title>
                <title type="alias" subtype="other">Im Puppenladen</title>
                <author ref="#hsl_person_id_1379">
                   <persName>Bayer, Josef</persName>
@@ -25593,6 +25692,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_6221">Puppenfee</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300014430</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1215571</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Puppenfee_(Bayer%2C_Josef)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2215" resp="#awilfing" cert="high">
@@ -26078,6 +26178,7 @@
             <bibl xml:id="hsl_work_id_2253" resp="#awilfing" cert="high">
                <title type="main">Dmitri Donskoi</title>
                <title type="alternative">Dimitri Donskoi</title>
+               <title type="alias" xml:lang="en">Dmitry Donskoy</title>
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
@@ -26087,6 +26188,7 @@
                <author ref="#hsl_person_id_3701">
                   <persName>Zotov, Vladimir</persName>
                </author>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5285707</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Dmitri_Donskoi_(Rubinstein%2C_Anton)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2254" resp="#awilfing" cert="high">
@@ -28044,11 +28146,13 @@
             <bibl xml:id="hsl_work_id_2449" resp="#awilfing" cert="high">
                <title type="main">Choralis Constantinus 1</title>
                <title type="alias" subtype="original">Choralis Constantinus, tomus 1</title>
+               <title type="alias" xml:lang="en">Choralis Constantinus</title>
                <title type="alias" subtype="other">Primus tomus ... coralis Constantini ...</title>
                <author ref="#hsl_person_id_4087">
                   <persName>Isaac, Heinrich</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30089984X</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5104956</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Choralis_Constantinus_I_(Isaac,_Heinrich)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2450" resp="#awilfing" cert="high">
@@ -28323,11 +28427,13 @@
             <bibl xml:id="hsl_work_id_2480" resp="#awilfing" cert="high">
                <title type="main">Grand duo concertant für Klarinette und Klavier in Es-Dur, J204</title>
                <title type="alias" subtype="original">Duos, Klarinette, Klavier, J 204 (Es-Dur)</title>
-               <title type="alias" subtype="other">Grand duo concertant; Konzertante Duos, Klar Kl J 204; Duos, Klar, Kl, op. 48; Grand duo concertant, op. 48</title>
+               <title type="alias" xml:lang="de">Grand Duo Concertant</title>
+               <title type="alias" subtype="other">Konzertante Duos, Klar Kl J 204; Duos, Klar, Kl, op. 48; Grand duo concertant, op. 48</title>
                <author ref="#hsl_person_id_321">
                   <persName>Weber, Carl Maria von</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300171595</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q19893002</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Grand_duo_concertant,_Op.48_(Weber,_Carl_Maria_von)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2481" resp="#awilfing" cert="high">
@@ -28462,6 +28568,7 @@
             <bibl xml:id="hsl_work_id_2496" resp="#awilfing" cert="high">
                <title type="main">Die Post, D911 Nr. 13</title>
                <title type="alias" subtype="original">Winterreise. Die Post</title>
+               <title type="alias" xml:lang="de">Winterreise; fälschlich: Die Winterreise</title>
                <title type="alias" subtype="other">Von der Straße her ein Posthorn klingt; Winterreise &amp;lt;Die Post&amp;gt;; Die Post</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_1437">Winterreise, D911</note>
@@ -28473,6 +28580,7 @@
                   <persName>Müller, Wilhelm</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300300131</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q611529</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Winterreise,_D.911_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2497" resp="#awilfing" cert="high">
@@ -29292,6 +29400,7 @@
             <bibl xml:id="hsl_work_id_2578" resp="#awilfing" cert="high">
                <title type="main">Der Zwerg, D771</title>
                <title type="alias" subtype="original">Der Zwerg</title>
+               <title type="alias" xml:lang="en">Der Zwerg, D. 771</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -29299,6 +29408,7 @@
                   <persName>Collin, Matthäus von</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300182783</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5261251</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Der_Zwerg,_D.771_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2579" resp="#awilfing" cert="high">
@@ -29405,6 +29515,7 @@
                <name type="character" ref="#hsl_person_id_4177">Roland</name>
                <name type="character" ref="#hsl_person_id_4178">Parséïs</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300231946</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2550219</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Esclarmonde_(opera)_(Massenet,_Jules)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2587" resp="#awilfing" cert="high">
@@ -29571,6 +29682,7 @@
                   <persName>Sonnleithner, Joseph</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7617183-8</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5433891</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Faniska_(Cherubini%2C_Luigi)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2600" resp="#awilfing" cert="high">
@@ -29913,6 +30025,7 @@
                <title type="main">Du bist geboren mir zugute, BWV68 Nr. 4</title>
                <title type="alternative">Du bist geboren mir zu Gute</title>
                <title type="alias" subtype="original">Also hat Gott die Welt geliebt</title>
+               <title type="alias" xml:lang="de">Also hat Gott die Welt geliebt, BWV 68</title>
                <title type="alias" subtype="other">For God has loved the world so well; So greatly God has loved the world; For God has so loved the world; Kantaten, BWV 68; For God so loved the world; In truth hath God the world so loved; For God his wondrous love to show; So greatly God esteemed the world; God so loved the world; Kantaten BWV 68</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_2621">Also hat Gott die Welt geliebt, BWV68</note>
@@ -29924,6 +30037,7 @@
                   <persName>Ziegler, Christiane Mariane von</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30000754X</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2002835</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Also_hat_Gott_die_Welt_geliebt,_BWV_68_(Bach,_Johann_Sebastian)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2624" resp="#awilfing" cert="high">
@@ -31334,6 +31448,7 @@
             <bibl xml:id="hsl_work_id_2766" resp="#awilfing" cert="high">
                <title type="main">Der Lindenbaum, D911 Nr. 5</title>
                <title type="alias" subtype="original">Winterreise. Der Lindenbaum</title>
+               <title type="alias" xml:lang="de">Winterreise; fälschlich: Die Winterreise</title>
                <title type="alias" subtype="other">Winterreise, Nr. 5; Am Brunnen vor dem Tore; Der Lindenbaum</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_1437">Winterreise, D911</note>
@@ -31345,6 +31460,7 @@
                   <persName>Müller, Wilhelm</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4806102-5</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q611529</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Winterreise,_D.911_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2767" resp="#awilfing" cert="high">
@@ -31483,11 +31599,14 @@
             <bibl xml:id="hsl_work_id_2781" resp="#awilfing" cert="high">
                <title type="main">Fantasia für Klavier in g-Moll, op. 77</title>
                <title type="alias" subtype="original">Fantasien, Klavier, op. 77</title>
+               <title type="alias" xml:lang="de">Klavierfantasie</title>
+               <title type="alias" xml:lang="en">Fantasia in G minor; Fantasia in G Minor, Op. 77</title>
                <title type="alias" subtype="other">Fantasien, Kl, op. 77</title>
                <author ref="#hsl_person_id_25">
                   <persName>Beethoven, Ludwig van</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300015178</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3066527</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Fantasia_for_Piano,_Op.77_(Beethoven,_Ludwig_van)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2782" resp="#awilfing" cert="high">
@@ -34874,11 +34993,14 @@
                <title type="main">Slovanské tance, B83 (Orchesterfassung)</title>
                <title type="alternative">Slavische Tänze; Slawische Tänze</title>
                <title type="alias" subtype="original">Slovanské tance, B 83</title>
+               <title type="alias" xml:lang="de">Slawische Tänze</title>
+               <title type="alias" xml:lang="en">Slavonic Dances; B. 78; B. 145; Slavonic Dances, Op. 46 and Op. 72</title>
                <title type="alias" subtype="other">Slawische Tänze op. 46. Orch; Slovanské tance B 83</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300048203</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1468901</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Slavonic_Dances%2C_Op.46_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3102" resp="#awilfing" cert="high">
@@ -35355,6 +35477,8 @@
             <bibl xml:id="hsl_work_id_3143" resp="#awilfing" cert="high">
                <title type="main">Die alten, bösen Lieder, op. 48 Nr. 16</title>
                <title type="alias" subtype="original">Dichterliebe. Die alten bösen Lieder</title>
+               <title type="alias" xml:lang="de">Dichterliebe</title>
+               <title type="alias" xml:lang="en">Dichterliebe, Op. 48</title>
                <title type="alias" subtype="other">Dichterliebe. Nr. 16; Lieder, op. 48. Nr. 16; Die alten bösen Lieder; Dichterliebe &amp;lt;Die alten bösen Lieder&amp;gt;; Lieder, op. 48. Die alten bösen Lieder</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_1809">Dichterliebe, op. 48</note>
@@ -35366,6 +35490,7 @@
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30014458X</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1209545</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Dichterliebe,_Op.48_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3144" resp="#awilfing" cert="high">
@@ -35996,7 +36121,7 @@
             <bibl xml:id="hsl_work_id_3210" resp="#awilfing" cert="high">
                <title type="main">Le carnet d&amp;#39;un ténor</title>
                <author ref="#hsl_person_id_239">
-                  <persName>Roger, Gustave-Hippolyte</persName>
+                  <persName>Roger, Gustave</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k6536438x</idno>
             </bibl>
@@ -36095,11 +36220,13 @@
             <bibl xml:id="hsl_work_id_3219" resp="#awilfing" cert="high">
                <title type="main">Grandes études de Paganini für Klavier, S141</title>
                <title type="alias" subtype="original">Grandes études de Paganini</title>
+               <title type="alias" xml:lang="en">Grandes études de Paganini, S.141</title>
                <title type="alias" subtype="other">Paganini Etüden; Etudes de Paganini</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300093357</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1040663</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Grandes_%C3%A9tudes_de_Paganini,_S.141_(Liszt,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3220" resp="#awilfing" cert="high">
@@ -36699,6 +36826,9 @@
                <author ref="#hsl_person_id_101">
                   <persName>Goldmark, Karl</persName>
                </author>
+               <author ref="#hsl_person_id_1603">
+                  <persName>Groth, Klaus</persName>
+               </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/12_Ges%C3%A4nge%2C_Op.18_(Goldmark%2C_Carl)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3278" resp="#awilfing" cert="high">
@@ -37242,6 +37372,7 @@
             <bibl xml:id="hsl_work_id_3328" resp="#awilfing" cert="high">
                <title type="main">Die liebe Farbe, D795 Nr. 16</title>
                <title type="alias" subtype="original">Die schöne Müllerin. Die liebe Farbe</title>
+               <title type="alias" xml:lang="de">Die schöne Müllerin</title>
                <title type="alias" subtype="other">Die schöne Müllerin. Nr. 16; Die liebe Farbe; In grün will ich mich kleiden; Couleur favorite</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_214">Die schöne Müllerin, D795</note>
@@ -37253,6 +37384,7 @@
                   <persName>Müller, Wilhelm</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1052294103</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q765966</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_sch%C3%B6ne_M%C3%BCllerin%2C_D.795_(Schubert%2C_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3329" resp="#awilfing" cert="high">
@@ -39235,9 +39367,11 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3503" resp="#awilfing" cert="high">
                <title type="main">Souvenir de Hapsal für Klavier, TH125</title>
+               <title type="alias" xml:lang="de">Souvenir de Hapsal</title>
                <author ref="#hsl_person_id_1014">
                   <persName>Čajkovskij, Pëtr Ilʹič</persName>
                </author>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3492380</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Souvenir_de_Hapsal%2C_Op.2_(Tchaikovsky%2C_Pyotr)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3504" resp="#awilfing" cert="high">
@@ -40054,6 +40188,7 @@
                </author>
                <name type="character" ref="#hsl_person_id_7512">Romeo</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300580878</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3769464</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Giulietta_e_Romeo_(Vaccai,_Nicola)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3611" resp="#awilfing" cert="high">
@@ -40209,31 +40344,40 @@
             <bibl xml:id="hsl_work_id_3625" resp="#awilfing" cert="high">
                <title type="main">Furiant, B83 Nr. 1 (Orchesterfassung)</title>
                <title type="alias" subtype="original">Slovanské tance, B 83. Nr. 1</title>
+               <title type="alias" xml:lang="de">Slawische Tänze</title>
+               <title type="alias" xml:lang="en">Slavonic Dances; B. 78; B. 145; Slavonic Dances, Op. 46 and Op. 72</title>
                <title type="alias" subtype="other">Slovanské tance B 83, 1; Furiant</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300501110</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1468901</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Slavonic_Dances%2C_Op.46_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3626" resp="#awilfing" cert="high">
                <title type="main">Dumka für Klavier in e-Moll, B83 Nr. 2 (Orchesterfassung)</title>
                <title type="alias" subtype="original">Slovanské tance, B 83. Nr. 2</title>
+               <title type="alias" xml:lang="de">Slawische Tänze</title>
+               <title type="alias" xml:lang="en">Slavonic Dances; B. 78; B. 145; Slavonic Dances, Op. 46 and Op. 72</title>
                <title type="alias" subtype="other">Dumka; Slovanské tance B 83, 2</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300048211</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1468901</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Slavonic_Dances%2C_Op.46_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3627" resp="#awilfing" cert="high">
                <title type="main">Furiant, B83 Nr. 8 (Orchesterfassung)</title>
                <title type="alias" subtype="original">Slovanské tance, B 83. Nr. 8</title>
+               <title type="alias" xml:lang="de">Slawische Tänze</title>
+               <title type="alias" xml:lang="en">Slavonic Dances; B. 78; B. 145; Slavonic Dances, Op. 46 and Op. 72</title>
                <title type="alias" subtype="other">Furiant</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1179242351</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1468901</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Slavonic_Dances%2C_Op.46_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3629" resp="#awilfing" cert="high">
@@ -41544,15 +41688,12 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3765" resp="#awilfing" cert="high">
                <title type="main">Konzert für Oboe und Orchester in g-Moll, HWV287 (Bearbeitung)</title>
-               <title type="alias" subtype="original">Konzerte, Oboe, Orchester, Nr. 3, HWV 287 (g-Moll)</title>
-               <title type="alias" subtype="other">Konzerte, Ob Orch HWV 287; Konzerte, Ob, Orch, HWW 287</title>
                <author ref="#hsl_person_id_108">
                   <persName>Händel, Georg Friedrich</persName>
                </author>
                <author ref="#hsl_person_id_1250">
                   <persName>Bachrich, Siegmund</persName>
                </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300064977</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Oboe_Concerto_in_G_minor,_HWV_287_(Handel,_George_Frideric)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3766" resp="#awilfing" cert="high">
@@ -42060,11 +42201,14 @@
                <title type="main">Es ist ein Ros&amp;#39; entsprungen</title>
                <title type="alternative">Weihnachtslied</title>
                <title type="alias" subtype="original">Musae Sioniae, Theil 6. Es ist ein Ros&amp;#39; entsprungen</title>
+               <title type="alias" xml:lang="de">Es ist ein Ros entsprungen; GL 243; EG 30</title>
+               <title type="alias" xml:lang="en">Lo, how a rose e&amp;#39;er blooming</title>
                <title type="alias" subtype="other">Musae Sioniae ..., Theil 6. Es ist ein Ros&amp;#39; entsprungen; Musae Sioniae, Teil 6. Es ist ein Ros&amp;#39; entsprungen; Behold! A rose ist growing; Musae Sioniae ..., Theil 6&amp;lt;Es ist ein Ros&amp;#39; entsprungen&amp;gt;</title>
                <author ref="#hsl_person_id_5449">
                   <persName>Praetorius, Michael</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300121113</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q763041</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Es_ist_ein_Ros_entsprungen_(Praetorius%2C_Michael)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3822" resp="#awilfing" cert="high">
@@ -42260,6 +42404,8 @@
             </bibl>
             <bibl xml:id="hsl_work_id_3846" resp="#awilfing" cert="high">
                <title type="main">Euphrosine, ou Le tyran corrigé</title>
+               <title type="alias" xml:lang="de">Euphrosine ou Le tyran corrigé; Euphrosine; Le tyran corrigé; Der bekehrte Tyrann; Euphrosine oder Der bekehrte Tyrann</title>
+               <title type="alias" xml:lang="en">Euphrosine, or The Tyrant Reformed)</title>
                <author ref="#hsl_person_id_179">
                   <persName>Méhul, Étienne Nicolas</persName>
                </author>
@@ -42267,6 +42413,7 @@
                   <persName>Hoffmann, François Benoit</persName>
                </author>
                <name type="character" ref="#hsl_person_id_5784">Euphrosine</name>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q8011747</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Euphrosine_(M%C3%A9hul,_Etienne_Nicolas)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3847" resp="#awilfing" cert="high">
@@ -42700,6 +42847,8 @@
                <title type="main">Ellens Gesang, D838</title>
                <title type="alternative">Ellen’s Gesang</title>
                <title type="alias" subtype="original">Ellens Gesang, D 838</title>
+               <title type="alias" xml:lang="de">Ellens dritter Gesang; Ave Maria; Ellens Gesang III</title>
+               <title type="alias" xml:lang="en">Ellen&amp;#39;s Third Song; Ave Maria (Schubert); Schubert&amp;#39;s Ave Maria</title>
                <title type="alias" subtype="other">Ellens zweiter Gesang; Ellens Gesang II; Gesänge aus Walter Scott&amp;#39;s Fräulein vom See. Nr. 2; Jäger, ruhe von der Jagd; Ellens Gesang D 838; Ellens Gesang, 2</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
@@ -42708,6 +42857,7 @@
                   <persName>Storck, Adam</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300194242</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1331995</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ave_Maria,_D.839_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3891" resp="#awilfing" cert="high">
@@ -43480,8 +43630,6 @@
             <bibl xml:id="hsl_work_id_3959" resp="#awilfing" cert="high">
                <title type="main">Ellens Gesang, D838 (Bearbeitung für Frauenchor und Orchester)</title>
                <title type="alternative">Ellen’s Gesang</title>
-               <title type="alias" subtype="original">Ellens Gesang, D 838</title>
-               <title type="alias" subtype="other">Ellens zweiter Gesang; Ellens Gesang II; Gesänge aus Walter Scott&amp;#39;s Fräulein vom See. Nr. 2; Jäger, ruhe von der Jagd; Ellens Gesang D 838; Ellens Gesang, 2</title>
                <author ref="#hsl_person_id_41">
                   <persName>Brahms, Johannes</persName>
                </author>
@@ -43491,7 +43639,6 @@
                <author ref="#hsl_person_id_5704">
                   <persName>Storck, Adam</persName>
                </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300194242</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ellens_Zweiter_Gesang,_Anh_17_(Brahms,_Johannes)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3960" resp="#awilfing" cert="high">
@@ -44717,6 +44864,7 @@
                   <persName>Litolff, Henry</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1071676814</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q21038109</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Concerto_Symphonique_No.3,_Op.45_(Litolff,_Henry_Charles)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4100" resp="#awilfing" cert="high">
@@ -45331,6 +45479,7 @@
                   <persName>Tschudy, Jean Baptiste Louis Théodore de</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7704358-3</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3577487</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/%C3%89cho_et_Narcisse,_Wq.47_(Gluck,_Christoph_Willibald)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4163" resp="#awilfing" cert="high">
@@ -48022,11 +48171,13 @@
                <title type="main">Genoveva, op. 81 (Ouvertüre)</title>
                <title type="alternative">Genovefa; Genofeva</title>
                <title type="alias" subtype="original">Genoveva. Ouverture</title>
+               <title type="alias" xml:lang="de">Genoveva</title>
                <title type="alias" subtype="other">Genoveva. Ouvertüre; Genoveva &amp;lt;Ouvertüre&amp;gt;</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300145071</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q957377</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Genoveva,_Op.81_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4446" resp="#awilfing" cert="high">
@@ -48679,6 +48830,7 @@
             <bibl xml:id="hsl_work_id_4507" resp="#awilfing" cert="high">
                <title type="main">Eliza</title>
                <title type="alternative">Elisa</title>
+               <title type="alias" xml:lang="de">Elisa, ou Le voyage aux glaciers du Mont St-Bernard</title>
                <title type="alias" subtype="other">Eliza ou le voyage aux glaciers du Mont St. Bernard; Eliza ...; Le voyage aux glaciers du Mont Saint Bernard; Le voyage aux glaciers du Mont Saint-Bernard; Eliza ou le voyage aux glaciers du Mont Saint-Bernard; Elisa</title>
                <author ref="#hsl_person_id_47">
                   <persName>Cherubini, Luigi</persName>
@@ -48687,6 +48839,7 @@
                   <persName>Révéroni Saint-Cyr, Jacques Antoine de</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300311869</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3063192</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Eliza_(Cherubini%2C_Luigi)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4508" resp="#awilfing" cert="high">
@@ -49729,6 +49882,8 @@
             <bibl xml:id="hsl_work_id_4606" resp="#awilfing" cert="high">
                <title type="main">Christbaum, op. 8 Nr. 1</title>
                <title type="alias" subtype="original">Weihnachtslieder. Christbaum</title>
+               <title type="alias" xml:lang="de">Weihnachtslieder, Op. 8</title>
+               <title type="alias" xml:lang="en">Weihnachtslieder : ein Cyklus für eine Singstimme mit Pianofortebegleitung : Op. 8</title>
                <title type="alias" subtype="other">Christmas tree; Wie schön geschmückt der festliche Raum; Christbaum; How prettily is the festive room adorned; Weihnachtslieder op. 8, Nr. 1; Wie schön geschmückt der festliche Raum!</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_4605">Weihnachtslieder, op. 8</note>
@@ -49737,6 +49892,7 @@
                   <persName>Cornelius, Peter</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/107187280X</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q60457069</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Weihnachtslieder%2C_Op.8_(Cornelius%2C_Peter)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4607" resp="#awilfing" cert="high">
@@ -50535,12 +50691,18 @@
             </bibl>
             <bibl xml:id="hsl_work_id_4687" resp="#awilfing" cert="high">
                <title type="main">Christ lag in Todesbanden, BWV4</title>
+               <title type="alias" subtype="original">Christ lag in Todes Banden, BWV 4.2</title>
+               <title type="alias" xml:lang="de">Christ lag in Todes Banden, BWV 4; BWV 4; Christ lag in Todes Banden (Bach)</title>
+               <title type="alias" xml:lang="en">Christ lag in Todes Banden</title>
+               <title type="alias" subtype="other">Christ lay in death&amp;#39;s dark prison, BWV 4.2; Christ lay by death enshrouded, BWV 4.2; Christ lag in Todesbanden; Kantaten, BWV 4; Christ gisait dans les liens de la mort, BWV 4.2; Christ était retenu par les bandelettes de la mort, BWV 4.2; Christ lay in death&amp;#39;s bonds, BWV 4.2; Christ lay in the bonds of death, BWV 4.2; Kantaten BWV 4; Christ lay to death in bondage, BWV 4.2; Christ lay fast bound in death&amp;#39;s harsh chain, BWV 4.2</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
                <author ref="#hsl_person_id_169">
                   <persName>Luther, Martin</persName>
                </author>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300006799</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1078019</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Christ_lag_in_Todes_Banden%2C_BWV_4_(Bach%2C_Johann_Sebastian)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4688" resp="#awilfing" cert="high">
@@ -50956,6 +51118,7 @@
             <bibl xml:id="hsl_work_id_4735" resp="#awilfing" cert="high">
                <title type="main">Die böse Farbe, D795 Nr. 17</title>
                <title type="alias" subtype="original">Die schöne Müllerin. Die böse Farbe</title>
+               <title type="alias" xml:lang="de">Die schöne Müllerin</title>
                <title type="alias" subtype="other">Die böse Farbe</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_214">Die schöne Müllerin, D795</note>
@@ -50967,6 +51130,7 @@
                   <persName>Müller, Wilhelm</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300759517</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q765966</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_sch%C3%B6ne_M%C3%BCllerin%2C_D.795_(Schubert%2C_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4736" resp="#awilfing" cert="high">
@@ -51651,6 +51815,8 @@
             <bibl xml:id="hsl_work_id_4805" resp="#awilfing" cert="high">
                <title type="main">Du bist die Ruh, D776</title>
                <title type="alias" subtype="original">Du bist die Ruh</title>
+               <title type="alias" xml:lang="de">Du bist die Ruh&amp;#39;</title>
+               <title type="alias" xml:lang="en">Du bist die Ruh, D. 776</title>
                <title type="alias" subtype="other">Du bist die Ruh, D 776; Du bist die Ruh, der Friede mild; Lieder, op. 59,3; Lieder, D 776; Du bist die Ruh, op. 59,3</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
@@ -51659,6 +51825,7 @@
                   <persName>Rückert, Friedrich</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300274068</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q24964408</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Du_bist_die_Ruh,_D.776_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4806" resp="#awilfing" cert="high">
@@ -51689,6 +51856,7 @@
                   <persName>Döring, Georg</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300712693</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q28228278</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_R%C3%A4uberbraut,_Op.156_(Ries,_Ferdinand)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4809" resp="#awilfing" cert="high">
@@ -55120,6 +55288,9 @@
                <title type="alternative">König von Thule</title>
                <title type="alias" subtype="original">Gesänge, op. 151</title>
                <title type="alias" subtype="other">Gesänge, Singstimme, Klavier, op. 151; Lieder, op. 151</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_5250">6 Lieder für tiefe Stimme und Klavier, op. 151</note>
+               </noteGrp>
                <author ref="#hsl_person_id_100">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
@@ -55212,6 +55383,7 @@
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">http://d-nb.info/gnd/300195001</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q630565</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Forelle%2C_D.550_(Schubert%2C_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5258" resp="#awilfing" cert="high">
@@ -57110,6 +57282,7 @@ philosophes du 18 siècle</title>
             <bibl xml:id="hsl_work_id_5612" resp="#awilfing" cert="high">
                <title type="main">Erstarrung, D911 Nr. 4</title>
                <title type="alias" subtype="original">Winterreise. Erstarrung</title>
+               <title type="alias" xml:lang="de">Winterreise; fälschlich: Die Winterreise</title>
                <title type="alias" subtype="other">Ich such im Schnee vergebens; Erstarrung; Winterreise. Nr. 4</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_1437">Winterreise, D911</note>
@@ -57121,6 +57294,7 @@ philosophes du 18 siècle</title>
                   <persName>Müller, Wilhelm</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1082217743</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q611529</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Winterreise,_D.911_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5614" resp="#awilfing" cert="high">
@@ -59404,12 +59578,14 @@ philosophes du 18 siècle</title>
             <bibl xml:id="hsl_work_id_6100" resp="#awilfing" cert="high">
                <title type="main">Die Glocken des Strassburger Münsters, S6</title>
                <title type="alternative">Die Glocken des Straßburger Münsters; Die Glocken vom Straßburger Münster; Straßburger Glocken</title>
+               <title type="alias" xml:lang="en">The Bells of the Strasbourg Cathedral</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
                <author ref="#hsl_person_id_8410">
                   <persName>Longfellow, Henry Wadsworth</persName>
                </author>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q56323008</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Glocken_des_Strassburger_M%C3%BCnsters,_S.6_(Liszt,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_6101" resp="#awilfing" cert="high">
@@ -60780,6 +60956,7 @@ philosophes du 18 siècle</title>
             <bibl xml:id="hsl_work_id_6291" resp="#awilfing" cert="high">
                <title type="main">Gnomenreigen, S145 Nr. 2</title>
                <title type="alias" subtype="original">Konzertetüden, Klavier, R 6. Gnomenreigen</title>
+               <title type="alias" xml:lang="en">Two Concert Études; Two Concert Etudes; Zwei Konzertetüden; 2 Concert Etudes; 2 Konzertetüden</title>
                <title type="alias" subtype="other">Etüden, Kl, R 6 &amp;lt;Gnomenreigen&amp;gt;; Etüden, Kl R 6. Gnomenreigen; Gnomenreigen</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_6290">2 Konzertetüden für Klavier, S145</note>
@@ -60788,11 +60965,13 @@ philosophes du 18 siècle</title>
                   <persName>Liszt, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300353642</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q755485</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/2_Konzertet%C3%BCden,_S.145_(Liszt,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_6292" resp="#awilfing" cert="high">
                <title type="main">Waldesrauschen, S145 Nr. 1</title>
                <title type="alias" subtype="original">Etüden, Kl, R 6. Waldesrauschen</title>
+               <title type="alias" xml:lang="en">Two Concert Études; Two Concert Etudes; Zwei Konzertetüden; 2 Concert Etudes; 2 Konzertetüden</title>
                <title type="alias" subtype="other">Etüden, Kl R 6. Waldesrauschen; Waldesrauschen</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_6290">2 Konzertetüden für Klavier, S145</note>
@@ -60801,6 +60980,7 @@ philosophes du 18 siècle</title>
                   <persName>Liszt, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300279507</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q755485</idno>
                <idno type="URL" subtype="Digitalisat">imslp.org/wiki/2_Konzertetüden,_S.145_(Liszt,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_6293" resp="#awilfing" cert="high">
@@ -61978,8 +62158,6 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_6477" resp="#awilfing" cert="high">
                <title type="main">Nacht und Träume, D827 (Bearbeitung)</title>
-               <title type="alias" subtype="original">Nacht und Träume</title>
-               <title type="alias" subtype="other">Night and Dreams; Heil&amp;#39;ge Nacht, du sinkest nieder</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
@@ -61989,7 +62167,6 @@ philosophes du 18 siècle</title>
                <author ref="#hsl_person_id_3517">
                   <persName>Gericke, Wilhelm</persName>
                </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141203</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Nacht_und_Tr%C3%A4ume%2C_D.827_(Schubert%2C_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_6478" resp="#awilfing" cert="high">
@@ -62917,6 +63094,7 @@ philosophes du 18 siècle</title>
             <bibl xml:id="hsl_work_id_6608" resp="#awilfing" cert="high">
                <title type="main">Die Zwillingsbrüder, D647</title>
                <title type="alias" subtype="original">Die Zwillingsbrüder</title>
+               <title type="alias" xml:lang="en">The Twin Brothers</title>
                <title type="alias" subtype="other">Die Zwillingsbrüder, D 647</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
@@ -62927,6 +63105,7 @@ philosophes du 18 siècle</title>
                <name type="character" ref="#hsl_person_id_9084">Franz Spieß</name>
                <name type="character" ref="#hsl_person_id_9085">Friedrich Spieß</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300142471</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1217815</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Die_Zwillingsbr%C3%BCder,_D.647_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_6609" resp="#awilfing" cert="high">
@@ -63306,11 +63485,14 @@ philosophes du 18 siècle</title>
             <bibl xml:id="hsl_work_id_6646" resp="#awilfing" cert="high">
                <title type="main">Fantasie  für Violine mit Orchester und Harfe unter freier Benutzung schottischer Volksmelodien, op. 46</title>
                <title type="alias" subtype="original">Fantasie unter freier Benutzung schottischer Volksmelodien</title>
-               <title type="alias" subtype="other">Scottish fantasy; Fantasien, Violine, Harfe, Orchester, op. 46; Schottische Fantasie</title>
+               <title type="alias" xml:lang="de">Scottish Fantasy; Fantasie für die Violine mit Orchester und Harfe unter freier Benutzung schottischer Volksmelodien</title>
+               <title type="alias" xml:lang="en">Scottish Fantasy, Op. 46</title>
+               <title type="alias" subtype="other">Fantasien, Violine, Harfe, Orchester, op. 46; Schottische Fantasie</title>
                <author ref="#hsl_person_id_371">
                   <persName>Bruch, Max</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30002911X</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1076860</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Scottish_Fantasy%2C_Op.46_(Bruch%2C_Max)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_6647" resp="#awilfing" cert="high">
@@ -63488,12 +63670,9 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_6665" resp="#awilfing" cert="high">
                <title type="main">Concerto symphonique Nr. 4 in g-Moll, op. 102 (Bearbeitung)</title>
-               <title type="alias" subtype="original">Sinfonische Konzerte, Klavier, Orchester, Nr. 4, op. 102 (d-Moll)</title>
-               <title type="alias" subtype="other">Concerto Symphonique, Klavier, Orchester, op. 102, Nr. 4 (d-moll); Sinfonische Konzerte, Klavier, Orchester, op. 102, Nr. 4 (d-moll)</title>
                <author ref="#hsl_person_id_5951">
                   <persName>Litolff, Henry</persName>
                </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300525648</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Concerto_symphonique_No.4%2C_Op.102_(Litolff%2C_Henry_Charles)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_6666" resp="#awilfing" cert="high">
@@ -67843,28 +68022,22 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_7494" resp="#awilfing" cert="high">
                <title type="main">Hochzeitsmusik für Klavier, op. 45 (Bearbeitung)</title>
-               <title type="alias" subtype="original">Hochzeitsmusik</title>
-               <title type="alias" subtype="other">Wedding music; Musique nuptiale; Stücke, Klavier, 4-händig, op. 45</title>
                <author ref="#hsl_person_id_3481">
                   <persName>Jensen, Adolf</persName>
                </author>
                <author ref="#hsl_person_id_4643">
                   <persName>Lassen, Eduard</persName>
                </author>
-               <idno type="URI" subtype="GND">http://d-nb.info/gnd/1069307432</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Hochzeitsmusik,_Op.45_(Jensen,_Adolf)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_7495" resp="#awilfing" cert="high">
                <title type="main">Hochzeitsmusik für Orchester, op. 45 (Bearbeitung)</title>
-               <title type="alias" subtype="original">Hochzeitsmusik</title>
-               <title type="alias" subtype="other">Wedding music; Musique nuptiale; Stücke, Klavier, 4-händig, op. 45</title>
                <author ref="#hsl_person_id_1819">
                   <persName>Becker, Reinhold</persName>
                </author>
                <author ref="#hsl_person_id_3481">
                   <persName>Jensen, Adolf</persName>
                </author>
-               <idno type="URI" subtype="GND">http://d-nb.info/gnd/1069307432</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Hochzeitsmusik,_Op.45_(Jensen,_Adolf)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_7528" resp="#awilfing" cert="high">
@@ -68037,8 +68210,6 @@ philosophes du 18 siècle</title>
             <bibl xml:id="hsl_work_id_7547" resp="#awilfing" cert="high">
                <title type="main">Mirjams Siegesgesang, D942 (Bearbeitung für Orchester)</title>
                <title type="alternative">Mirjam&amp;#39;s Siegesgesang; Siegesgesang Mirjam&amp;#39;s</title>
-               <title type="alias" subtype="original">Mirjams Siegesgesang</title>
-               <title type="alias" subtype="other">Kantaten, D 942; Rührt die Zimbel; Mirjam&amp;#39;s Siegesgesang, D 942 op. post. 136; Miriam&amp;#39;s song of triumph; Mirjam&amp;#39;s Siegesgesang; Mirjam&amp;#39;s song of victory</title>
                <author ref="#hsl_person_id_151">
                   <persName>Lachner, Franz</persName>
                </author>
@@ -68048,7 +68219,6 @@ philosophes du 18 siècle</title>
                <author ref="#hsl_person_id_721">
                   <persName>Grillparzer, Franz</persName>
                </author>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141122</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Mirjam%27s_Siegesgesang,_D.942_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_7548" resp="#awilfing" cert="high">
@@ -69033,7 +69203,7 @@ philosophes du 18 siècle</title>
                </author>
             </bibl>
             <bibl xml:id="hsl_work_id_7713" resp="#awilfing" cert="medium">
-               <title type="main">Drei Lieder für drei Frauenstimmen, op. 114</title>
+               <title type="main">3 Lieder für drei Frauenstimmen und Klavier, op. 114</title>
                <title type="alternative">Chöre für Frauenstimmen</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -69044,7 +69214,7 @@ philosophes du 18 siècle</title>
                <title type="main">Nänie</title>
                <title type="alternative">Vögleins Begräbnis; auf den Tod eines Singvogels</title>
                <noteGrp type="Werkbezug">
-                  <note type="Werkbezug" target="hsl_work_id_7713">Drei Lieder für drei Frauenstimmen, op. 114</note>
+                  <note type="Werkbezug" target="hsl_work_id_7713">3 Lieder für drei Frauenstimmen und Klavier, op. 114</note>
                </noteGrp>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -69055,7 +69225,7 @@ philosophes du 18 siècle</title>
                <title type="main">Triolett</title>
                <title type="alternative">Senkt die Nacht den sanften Fittich nieder</title>
                <noteGrp type="Werkbezug">
-                  <note type="Werkbezug" target="hsl_work_id_7713">Drei Lieder für drei Frauenstimmen, op. 114</note>
+                  <note type="Werkbezug" target="hsl_work_id_7713">3 Lieder für drei Frauenstimmen und Klavier, op. 114</note>
                </noteGrp>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -69066,7 +69236,7 @@ philosophes du 18 siècle</title>
                <title type="main">Spruch</title>
                <title type="alternative">Oh blicke, wenn den Sinn dir will die Welt verwirren</title>
                <noteGrp type="Werkbezug">
-                  <note type="Werkbezug" target="hsl_work_id_7713">Drei Lieder für drei Frauenstimmen, op. 114</note>
+                  <note type="Werkbezug" target="hsl_work_id_7713">3 Lieder für drei Frauenstimmen und Klavier, op. 114</note>
                </noteGrp>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
@@ -69432,6 +69602,23 @@ philosophes du 18 siècle</title>
                   <persName>Reber, Napoléon Henri</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/6_Pieces,_Op.15_(Reber,_Napol%C3%A9on_Henri)</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7752" resp="#awilfing" cert="high">
+               <title type="main">Was sich der Wald erzählt. Ein Märchenstrauß</title>
+               <author ref="#hsl_person_id_221">
+                  <persName>Putlitz, Gustav Heinrich Gans zu</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11261421</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7753" resp="#awilfing" cert="high">
+               <title type="main">Im Waggon. Urtheil eines Franzosen über einige deutsche Opernvorstellungen</title>
+               <noteGrp type="Werkbezug">
+                  <note type="Werkbezug" target="hsl_work_id_3282">Recensionen und Mittheilungen über Theater und Musik</note>
+               </noteGrp>
+               <author ref="#hsl_person_id_10097">
+                  <persName>K. J.</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=rec&amp;amp;datum=18640924</idno>
             </bibl>
       </listBibl>
       </body>

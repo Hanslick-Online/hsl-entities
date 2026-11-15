@@ -1381,8 +1381,8 @@
                      <forename/>
                      <surname>Bettelheim-Gomperz</surname>
                   </persName>
-                  <birth notBefore="1848-01-01" notAfter="1848-12-31">1848-1925</birth>
-                  <death notBefore="1925-01-01" notAfter="1925-12-31">1848-1925</death>
+                  <birth notBefore="1845-01-01" notAfter="1845-12-31">1845-1925</birth>
+                  <death notBefore="1925-01-01" notAfter="1925-12-31">1845-1925</death>
                   <occupation style="background-color: dark-gray;">Sängerin (Alt)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116155833</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q255628</idno>
@@ -6137,6 +6137,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_169">Indra, das Schlangenmädchen</bibl>
                      <bibl n="hsl_work_id_2712">Rübezahl</bibl>
+                     <bibl n="hsl_work_id_7752">Was sich der Wald erzählt. Ein Märchenstrauß</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_222" resp="#awilfing" cert="high">
@@ -6431,7 +6432,7 @@
                </person>
                <person xml:id="hsl_person_id_239" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>Gustave-Hippolyte</forename>
+                     <forename>Gustave</forename>
                      <surname>Roger</surname>
                   </persName>
                   <birth notBefore="1815-01-01" notAfter="1815-12-31">1815-1879</birth>
@@ -7581,7 +7582,7 @@
                      <bibl n="hsl_work_id_7685">Jugendbriefe von Robert Schumann</bibl>
                      <bibl n="hsl_work_id_7702">Myrthen, op. 25</bibl>
                      <bibl n="hsl_work_id_7703">Du bist wie eine Blume, Nr. 25 op. 25</bibl>
-                     <bibl n="hsl_work_id_7713">Drei Lieder für drei Frauenstimmen, op. 114</bibl>
+                     <bibl n="hsl_work_id_7713">3 Lieder für drei Frauenstimmen und Klavier, op. 114</bibl>
                      <bibl n="hsl_work_id_7714">Nänie</bibl>
                      <bibl n="hsl_work_id_7715">Triolett</bibl>
                      <bibl n="hsl_work_id_7716">Spruch</bibl>
@@ -11440,11 +11441,7 @@
                <person xml:id="hsl_person_id_537" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
-                     <surname>Franz Waldung</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Baldung</surname>
+                     <surname>Franz Baldung</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_107">Les fées du Rhin</bibl>
@@ -23180,6 +23177,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117435325</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1487508</idno>
                   <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_107">Les fées du Rhin</bibl>
                      <bibl n="hsl_work_id_7157">Sakuntala, frei nach Kalidasa&amp;#39;s altindischen Drama</bibl>
                   </listBibl>
                </person>
@@ -25713,6 +25711,7 @@
                      <bibl n="hsl_work_id_2199">Regenlied, op. 59 Nr. 3</bibl>
                      <bibl n="hsl_work_id_2916">Die Holsten in der Hamme</bibl>
                      <bibl n="hsl_work_id_3177">Keine Sorg&amp;#39; um den Weg, op. 143 Nr. 2</bibl>
+                     <bibl n="hsl_work_id_3277">Er sagt&amp;#39; mir so viel, op. 18 Nr. 10</bibl>
                      <bibl n="hsl_work_id_3329">9 Lieder und Gesänge für Singstimme und Klavier, op. 63</bibl>
                      <bibl n="hsl_work_id_4232">Wie Melodien zieht es mir</bibl>
                      <bibl n="hsl_work_id_4257">Im Herbst, op. 104 Nr. 5</bibl>
@@ -116992,6 +116991,22 @@
                   <death notBefore="1878-01-01" notAfter="1878-12-31">1827-1878</death>
                   <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4345747</idno>
+               </person>
+               <person xml:id="hsl_person_id_10097" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>K. J.</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>unklarer Bezug</surname>
+                  </persName>
+                  <birth>unbekannt (19. Jhdt.)</birth>
+                  <death>unbekannt (19. Jhdt.)</death>
+                  <occupation style="background-color: light-yellow;">Musikkritiker</occupation>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7753">Im Waggon. Urtheil eines Franzosen über einige deutsche Opernvorstellungen</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
