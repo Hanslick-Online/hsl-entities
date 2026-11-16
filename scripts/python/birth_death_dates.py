@@ -16,6 +16,7 @@ for x in doc.any_xpath(".//tei:birth"):
             if int(birth_year) < int(death_year):
                 x.attrib["notBefore"] = f"{birth_year}-01-01"
                 x.attrib["notAfter"] = f"{birth_year}-12-31"
+                x.text = birth_year
 doc.tree_to_file(file)
 
 for x in doc.any_xpath(".//tei:death"):
@@ -26,4 +27,5 @@ for x in doc.any_xpath(".//tei:death"):
             if int(birth_year) < int(death_year):
                 x.attrib["notBefore"] = f"{death_year}-01-01"
                 x.attrib["notAfter"] = f"{death_year}-12-31"
+                x.text = death_year
 doc.tree_to_file(file)
