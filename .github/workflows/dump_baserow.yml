@@ -38,9 +38,9 @@ jobs:
       - name: create pmb beacon
         run: |
           uv run scripts/python/pmb-beacon-generator.py
-      - name: fix double-escaped entities
-        run: |
-          uv run scripts/python/fix_double_escaped_entities.py
+     # - name: fix double-escaped entities
+     #   run: |
+     #     uv run scripts/python/fix_double_escaped_entities.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
