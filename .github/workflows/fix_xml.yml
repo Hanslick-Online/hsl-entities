@@ -1,7 +1,6 @@
 name: Fix escape sequences in XML
 
 on:
-  schedule:
   workflow_dispatch:
 
 jobs:
