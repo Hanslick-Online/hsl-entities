@@ -34,6 +34,16 @@ def unescape_overescaping(text):
         count += n
 
 
+def normalize(text):
+    """Fix double-escaping, then re-serialize so &#39; / &#34; become ' / "."""
+    fixed, count = unescape_overescaping(text)
+    root = ET.fromstring(fixed.encode("utf-8"))
+    out = ET.tostring(
+        root.getroottree(), encoding="utf-8", xml_declaration=True
+    ).decode("utf-8")
+    return out, count
+
+
 def main():
     files = sorted(glob.glob(f"{OUT_DIR}/*.xml"))
     if not files:
@@ -45,26 +55,22 @@ def main():
         with open(path, "r", encoding="utf-8") as f:
             original = f.read()
 
-        fixed, count = unescape_overescaping(original)
-
-        if count == 0:
-            print(f"{path}: OK, no double-escaped entities found")
-            continue
-
         try:
-            ET.fromstring(fixed.encode("utf-8"))
+            result, count = normalize(original)
         except ET.XMLSyntaxError as err:
             had_errors = True
-            print(f"{path}: found {count} double-escaped entities, but the "
-                  f"fix produced invalid XML, left file untouched: {err}")
+            print(f"{path}: invalid XML, left file untouched: {err}")
+            continue
+
+        if result.strip() == original.strip():
+            print(f"{path}: OK, nothing to change")
             continue
 
         with open(path, "w", encoding="utf-8") as f:
-            f.write(fixed)
-        print(f"{path}: fixed {count} double-escaped entities")
+            f.write(result)
+        print(f"{path}: normalized ({count} double-escaped entities collapsed)")
 
     return 1 if had_errors else 0
-
 
 if __name__ == "__main__":
     sys.exit(main())
