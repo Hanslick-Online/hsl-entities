@@ -1,0 +1,23 @@
+name: Fix escape sequences in XML
+
+on:
+  schedule:
+  workflow_dispatch:
+
+jobs:
+  fixxml:
+    name: fix xml
+    runs-on: ubuntu-latest
+    env:
+    steps:
+      - name: Perfom Checkout
+        uses: actions/checkout@v5
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v8.2.0
+      - name: fix double-escaped entities
+        run: |
+          uv run scripts/python/fix_double_escaped_entities.py
+      - name: Commit data
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: Data fixed
