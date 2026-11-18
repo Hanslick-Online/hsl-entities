@@ -64,21 +64,21 @@
                <title type="alternative">{{ x.Alternativtitel | e }}</title>
                {% endif %}
                {% if x.titel_original and x.titel_original|length != 0 %}
-               <title type="{{ x.titel_original_type|default('alternative')|e }}" subtype="original">{{ x.titel_original|e }}</title>
+               <title type="{{ x.titel_original_type|default('alternative') }}" subtype="original">{{ x.titel_original|e }}</title>
                {% endif %}
                {% if x.titel_de and x.titel_de|length != 0 %}
-               <title type="{{ x.titel_de_type|default('alternative')|e }}" xml:lang="de">{{ x.titel_de|e }}</title>
+               <title type="{{ x.titel_de_type|default('alternative') }}" xml:lang="de">{{ x.titel_de|e }}</title>
                {% endif %}
                {% if x.titel_en and x.titel_en|length != 0 %}
-               <title type="{{ x.titel_en_type|default('alternative')|e }}" xml:lang="en">{{ x.titel_en|e }}</title>
+               <title type="{{ x.titel_en_type|default('alternative') }}" xml:lang="en">{{ x.titel_en|e }}</title>
                {% endif %}
                {% if x.titel_sonstige and x.titel_sonstige|length != 0 %}
-               <title type="{{ x.titel_sonstige_type|default('alternative')|e }}" subtype="other">{{ x.titel_sonstige|e }}</title>
+               <title type="{{ x.titel_sonstige_type|default('alternative') }}" subtype="other">{{ x.titel_sonstige|e }}</title>
                {% endif %}
                {% if x.Werkbezug and x.Werkbezug|length != 0 %}
                <noteGrp type="Werkbezug">
                   {% for w in x.Werkbezug %}
-                  <note type="Werkbezug" target="hsl_work_id_{{ w.id | e }}">{{ w.value | e }}</note>
+                  <note type="Werkbezug" target="hsl_work_id_{{ w.id | e}}">{{ w.value | e }}</note>
                   {% endfor %}
                </noteGrp>
                {% endif %}
