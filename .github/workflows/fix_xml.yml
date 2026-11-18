@@ -8,7 +8,6 @@ jobs:
   fixxml:
     name: fix xml
     runs-on: ubuntu-latest
-    env:
     steps:
       - name: Perfom Checkout
         uses: actions/checkout@v5
