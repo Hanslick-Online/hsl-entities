@@ -58,10 +58,10 @@
       <body>
          <listBibl>
          {% for x in objects %}
-            <bibl xml:id="{{ x.hsl_id | e }}" resp="#awilfing" cert="{% if x.Ueberprueft %}high{% else %}medium{% endif %}">
-               <title type="main">{{ x.name | e }}</title>
+            <bibl xml:id="{{ x.hsl_id }}" resp="#awilfing" cert="{% if x.Ueberprueft %}high{% else %}medium{% endif %}">
+               <title type="main">{{ x.name }}</title>
                {% if x.Alternativtitel %}
-               <title type="alternative">{{ x.Alternativtitel | e }}</title>
+               <title type="alternative">{{ x.Alternativtitel }}</title>
                {% endif %}
                {% if x.titel_original and x.titel_original|length != 0 %}
                <title type="{{ x.titel_original_type|default('alternative') }}" subtype="original">{{ x.titel_original|e }}</title>
@@ -78,31 +78,31 @@
                {% if x.Werkbezug and x.Werkbezug|length != 0 %}
                <noteGrp type="Werkbezug">
                   {% for w in x.Werkbezug %}
-                  <note type="Werkbezug" target="hsl_work_id_{{ w.id | e}}">{{ w.value | e }}</note>
+                  <note type="Werkbezug" target="hsl_work_id_{{ w.id | e}}">{{ w.value }}</note>
                   {% endfor %}
                </noteGrp>
                {% endif %}
                {% if x.schoepfer %}
                {% for s in x.schoepfer if s.data %}
-               <author ref="#{{ s.data.hsl_id | e }}">
-                  <persName>{{ s.data.name | e }}</persName>
+               <author ref="#{{ s.data.hsl_id }}">
+                  <persName>{{ s.data.name }}</persName>
                </author>
                {% endfor %}
                {% endif %}
                {% if x.figur %}
                {% for f in x.figur if f.data %}
-               <name type="character" ref="#{{ f.data.hsl_id | e }}">{{ f.data.name | e }}</name>
+               <name type="character" ref="#{{ f.data.hsl_id }}">{{ f.data.name }}</name>
                {% endfor %}
                {% endif %}
                {% if x.gnd|length != 0 %}
-               <idno type="URI" subtype="GND">{{ x.gnd | e }}</idno>
+               <idno type="URI" subtype="GND">{{ x.gnd }}</idno>
                {% endif %}
                {% if x.wikidata is defined and x.wikidata|length != 0 %}
-               <idno type="URI" subtype="WIKIDATA">{{ x.wikidata | e }}</idno>
+               <idno type="URI" subtype="WIKIDATA">{{ x.wikidata }}</idno>
                {% endif %}
                {% if x.Digitalisat and x.Digitalisat|length != 0 %}
                {% for d in x.Digitalisat|split_string(" , ") %}
-               <idno type="URL" subtype="Digitalisat">{{ d | e }}</idno>
+               <idno type="URL" subtype="Digitalisat">{{ d }}</idno>
                {% endfor %}
                {% endif %}
             </bibl>
