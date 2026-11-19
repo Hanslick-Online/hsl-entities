@@ -9829,6 +9829,7 @@
                <name type="character" ref="#hsl_person_id_6806">Jeremias</name>
                <name type="character" ref="#hsl_person_id_6966">Königin von Saba</name>
                <name type="character" ref="#hsl_person_id_9778">David</name>
+               <name type="character" ref="#hsl_person_id_10098">Tobias</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4006406-2</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1845</idno>
                <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/</idno>
@@ -12466,6 +12467,7 @@
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_820">Bibel</note>
                </noteGrp>
+               <name type="character" ref="#hsl_person_id_10098">Tobias</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4001515-4</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q19786</idno>
                <idno type="URL" subtype="Digitalisat">https://www.uibk.ac.at/theol/leseraum/bibel/</idno>
@@ -64708,7 +64710,9 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_6839" resp="#awilfing" cert="high">
                <title type="main">Englische Suite Nr. 4 in F-Dur, BWV809</title>
+               <title type="alias" subtype="original">Englische Suiten. Nr. 4</title>
                <title type="alias" xml:lang="en">English Suite No. 4; English Suite No. 4 in F Major, BWV 809</title>
+               <title type="alias" subtype="other">Englische Suiten &amp;lt;Suite BWV 809&amp;gt;</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
@@ -65689,6 +65693,8 @@ philosophes du 18 siècle</title>
             <bibl xml:id="hsl_work_id_7042" resp="#awilfing" cert="high">
                <title type="main">Konzert-Etüde für Cello und Klavier, op. 55 Nr. 1</title>
                <title type="alternative">Spinnlied</title>
+               <title type="alias" subtype="original">Konzertetüden, Violoncello, Klavier, op. 55. Spinnlied</title>
+               <title type="alias" subtype="other">Etüden, Vc Kl op. 55. Spinnlied; Spinnlied</title>
                <author ref="#hsl_person_id_3555">
                   <persName>Popper, David</persName>
                </author>
@@ -69422,6 +69428,8 @@ philosophes du 18 siècle</title>
             <bibl xml:id="hsl_work_id_7736" resp="#awilfing" cert="high">
                <title type="main">Komm bald, op. 97 Nr. 5</title>
                <title type="alternative">Komm’ bald!</title>
+               <title type="alias" subtype="original">Lieder, op. 97. Komm bald</title>
+               <title type="alias" subtype="other">Warum denn warten von Tag zu Tag?; Komm bald</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_7733">6 Lieder für Singstimme und Klavier, op. 97</note>
                </noteGrp>
@@ -69436,6 +69444,8 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_7737" resp="#awilfing" cert="high">
                <title type="main">Nachtigall, op. 97 Nr. 1</title>
+               <title type="alias" subtype="original">Lieder, op. 97. Nachtigall</title>
+               <title type="alias" subtype="other">Nachtigall; O Nachtigall, dein süßer Schall</title>
                <noteGrp type="Werkbezug">
                   <note type="Werkbezug" target="hsl_work_id_7733">6 Lieder für Singstimme und Klavier, op. 97</note>
                </noteGrp>
@@ -69605,6 +69615,27 @@ philosophes du 18 siècle</title>
                   <persName>K. J.</persName>
                </author>
                <idno type="URL" subtype="Digitalisat">https://anno.onb.ac.at/cgi-content/anno?aid=rec&amp;datum=18640924</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7754" resp="#awilfing" cert="medium">
+               <title type="main">Soixante ans de souvenirs. Première Partie</title>
+               <title type="alternative">Memoiren</title>
+               <author ref="#hsl_person_id_156">
+                  <persName>Legouvé, Ernest</persName>
+               </author>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q19232370</idno>
+               <idno type="URL" subtype="Digitalisat">https://gallica.bnf.fr/ark:/12148/bpt6k49924f/f1.item.r=Soixante%20ans%20de%20souvenirs</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7755" resp="#awilfing" cert="medium">
+               <title type="main">Soixante ans de souvenirs. Dernière Partie</title>
+               <title type="alternative">Memoiren</title>
+               <author ref="#hsl_person_id_156">
+                  <persName>Legouvé, Ernest</persName>
+               </author>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q19232370</idno>
+               <idno type="URL" subtype="Digitalisat">https://archive.org/details/1886soixanteansd02lego/page/n3/mode/2up</idno>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7756" resp="#awilfing" cert="medium">
+               <title type="main"/>
             </bibl>
       </listBibl>
       </body>
