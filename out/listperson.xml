@@ -595,7 +595,7 @@
                   </persName>
                   <birth notBefore="1835-01-01" notAfter="1835-12-31">1835</birth>
                   <death notBefore="1907-01-01" notAfter="1907-12-31">1907</death>
-                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
+                  <occupation style="background-color: dark-gray;">Sängerin (Mezzo-Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116037229</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q271414</idno>
                </person>
@@ -700,6 +700,7 @@
                      <bibl n="hsl_work_id_4400">Zerline, ou La corbeille d'oranges</bibl>
                      <bibl n="hsl_work_id_4402">Marco Spada, AWV43</bibl>
                      <bibl n="hsl_work_id_4403">Jenny Bell, AWV44</bibl>
+                     <bibl n="hsl_work_id_7757">Le testament et les billets doux, AWV4</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_17" resp="#awilfing" cert="high">
@@ -1518,8 +1519,8 @@
                </person>
                <person xml:id="hsl_person_id_38" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>Jérôme</forename>
-                     <surname>Bonaparte</surname>
+                     <forename>König von Westfalen</forename>
+                     <surname>Jérôme</surname>
                   </persName>
                   <persName type="alternative">
                      <forename>Jerome</forename>
@@ -2284,8 +2285,8 @@
                      <forename/>
                      <surname>Dobyhal; Dobihal</surname>
                   </persName>
-                  <birth>unbekannt (19. Jhdt.)</birth>
-                  <death>unbekannt (19. Jhdt.)</death>
+                  <birth notBefore="1817-01-01" notAfter="1817-12-31">1817</birth>
+                  <death notBefore="1894-01-01" notAfter="1894-12-31">1894</death>
                   <occupation style="background-color: light-gray;">Violinist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1036616010</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4163361</idno>
@@ -2556,7 +2557,7 @@
                      <forename/>
                      <surname>Eszterhazy</surname>
                   </persName>
-                  <birth notBefore="1811-01-01" notAfter="1811-12-31">1811</birth>
+                  <birth notBefore="1805-01-01" notAfter="1805-12-31">1805</birth>
                   <death notBefore="1851-01-01" notAfter="1851-12-31">1851</death>
                   <occupation style="background-color: light-blue;">Adelige</occupation>
                   <occupation style="background-color: dark-blue;">Pianistin</occupation>
@@ -3931,7 +3932,7 @@
                </person>
                <person xml:id="hsl_person_id_126" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>Kasimir W. Friedrich</forename>
+                     <forename>Wilhelm Kasimir Friedrich</forename>
                      <surname>Hilpert</surname>
                   </persName>
                   <birth notBefore="1841-01-01" notAfter="1841-12-31">1841</birth>
@@ -6454,6 +6455,7 @@
                   <birth notBefore="1836-01-01" notAfter="1836-12-31">1836</birth>
                   <death notBefore="1896-01-01" notAfter="1896-12-31">1896</death>
                   <occupation style="background-color: light-blue;">Sänger (Bariton)</occupation>
+                  <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117593427</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15439787</idno>
@@ -7793,21 +7795,6 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q86555</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Sonnleithner_Familie.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Sonnleithner_Leopold_1797_1873.xml</idno>
-               </person>
-               <person xml:id="hsl_person_id_290" resp="#awilfing" cert="high">
-                  <persName type="main">
-                     <forename>Anton von</forename>
-                     <surname>Spaun</surname>
-                  </persName>
-                  <birth notBefore="1790-01-01" notAfter="1790-12-31">1790</birth>
-                  <death notBefore="1849-01-01" notAfter="1849-12-31">1849</death>
-                  <occupation style="background-color: green;">Jurist</occupation>
-                  <occupation style="background-color: red;">Historiker</occupation>
-                  <occupation style="background-color: dark-orange;">Germanist</occupation>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117481645</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q596448</idno>
-                  <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Spaun_Anton.xml</idno>
-                  <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Spaun_Anton_1790_1849.xml</idno>
                </person>
                <person xml:id="hsl_person_id_292" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -10664,18 +10651,16 @@
                      <bibl n="hsl_work_id_513">Clavigo</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_451" role="fictional" resp="#awilfing" cert="high">
+               <person xml:id="hsl_person_id_451" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename/>
-                     <surname>Belshazzar</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
+                     <forename>Kronprinz von Babylonien</forename>
                      <surname>Belsazar</surname>
                   </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_253">Belshazzar, HWV61</bibl>
-                  </listBibl>
+                  <birth>unbekannt (6. Jhdt. v.u.Z.)</birth>
+                  <death>unbekannt (6. Jhdt. v.u.Z.)</death>
+                  <occupation style="background-color: dark-cyan;">Adeliger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11865523X</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q225198</idno>
                </person>
                <person xml:id="hsl_person_id_452" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -12527,19 +12512,6 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_55">Roméo et Juliette, H79</bibl>
-                  </listBibl>
-               </person>
-               <person xml:id="hsl_person_id_631" role="fictional" resp="#awilfing" cert="high">
-                  <persName type="main">
-                     <forename/>
-                     <surname>Moses</surname>
-                  </persName>
-                  <persName type="alternative">
-                     <forename/>
-                     <surname>Mosè</surname>
-                  </persName>
-                  <listBibl type="characterOf">
-                     <bibl n="hsl_work_id_520">Israel in Egypt, HWV54</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_632" role="fictional" resp="#awilfing" cert="high">
@@ -18764,6 +18736,8 @@
                   <birth notBefore="1763-01-01" notAfter="1763-12-31">1763</birth>
                   <death notBefore="1830-01-01" notAfter="1830-12-31">1830</death>
                   <occupation style="background-color: orange;">Gymnasiallehrer</occupation>
+                  <occupation style="background-color: muted-green;">Schulleiter</occupation>
+                  <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1014515483</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q63210142</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Schubert_Franz-Theodor_1763_1830.xml</idno>
@@ -31628,6 +31602,7 @@
                      <bibl n="hsl_work_id_1701">Le pré aux clercs</bibl>
                      <bibl n="hsl_work_id_2444">La double échelle</bibl>
                      <bibl n="hsl_work_id_2445">Le Perruquier de la Régence</bibl>
+                     <bibl n="hsl_work_id_7757">Le testament et les billets doux, AWV4</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2037" resp="#awilfing" cert="high">
@@ -116781,13 +116756,15 @@
                      <bibl n="hsl_work_id_7711">Laokoon</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_10073" resp="#awilfing" cert="medium">
+               <person xml:id="hsl_person_id_10073" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Hans von</forename>
                      <surname>Rokitansky</surname>
                   </persName>
                   <birth notBefore="1835-01-01" notAfter="1835-12-31">1835</birth>
                   <death notBefore="1909-01-01" notAfter="1909-12-31">1909</death>
+                  <occupation style="background-color: dark-gray;">Sänger (Bassist)</occupation>
+                  <occupation style="background-color: darker-yellow;">Gesangslehrer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116600187</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1543405</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/9558</idno>

@@ -1594,6 +1594,7 @@
             </bibl>
             <bibl xml:id="hsl_work_id_109" resp="#awilfing" cert="high">
                <title type="main">Les chaperons blancs</title>
+               <title type="alternative">Le chaperons blancs</title>
                <title type="alias" subtype="other">Die Weißmützen; Die schöne Flamänderin</title>
                <author ref="#hsl_person_id_16">
                   <persName>Auber, Daniel-François-Esprit</persName>
@@ -2793,7 +2794,7 @@
                <author ref="#hsl_person_id_149">
                   <persName>Kreissle von Hellborn, Heinrich</persName>
                </author>
-               <idno type="URL" subtype="Digitalisat">https://www.digitale-sammlungen.de/de/details/bsb11426217</idno>
+               <idno type="URL" subtype="Digitalisat">https://www.google.at/books/edition/Franz_Schubert/iEIQlCnMNUoC</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_194" resp="#awilfing" cert="high">
                <title type="main">Fra Diavolo, ou L'hôtellerie de Terracine, AWV18</title>
@@ -3718,7 +3719,6 @@
                <author ref="#hsl_person_id_139">
                   <persName>Jennens, Charles</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_451">Belshazzar</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300064233</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q816183</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Belshazzar%2C_HWV_61_(Handel%2C_George_Frideric)</idno>
@@ -5172,11 +5172,14 @@
             <bibl xml:id="hsl_work_id_372" resp="#awilfing" cert="high">
                <title type="main">Präludium und Fuge für Klavier in C-Dur, BWV846</title>
                <title type="alias" subtype="original">Das wohltemperierte Klavier, Teil 1. Nr. 1. Praeludium, BWV 846</title>
+               <title type="alias" xml:lang="de">Präludium und Fuge C-Dur BWV 846</title>
+               <title type="alias" xml:lang="en">Prelude and Fugue in C major, BWV 846; Prelude No. 1 in C major; BWV 846; Prelude and Fugue No. 1 in C major; Prelude and Fugue, BMV 846; Praeludium BWV 846</title>
                <title type="alias" subtype="other">Das wohltemperierte Klavier, Teil 1. Präludium und Fuge, BWV 846. Präludium; Das wohltemperierte Klavier, Teil 1 &amp;lt;Präludium und Fuge BWV 846, Präludium&amp;gt;</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300011911</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4376908</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Prelude_and_Fugue_in_C_major,_BWV_846_(Bach,_Johann_Sebastian)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_373" resp="#awilfing" cert="high">
@@ -6623,7 +6626,6 @@
                <author ref="#hsl_person_id_139">
                   <persName>Jennens, Charles</persName>
                </author>
-               <name type="character" ref="#hsl_person_id_631">Moses</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300064756</idno>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1674646</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Israel_in_Egypt,_HWV_54_(Handel,_George_Frideric)</idno>
@@ -7062,6 +7064,7 @@
                <author ref="#hsl_person_id_5233">
                   <persName>Dercy, P.</persName>
                </author>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q7107454</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Ossian_(Le_Sueur%2C_Jean-Fran%C3%A7ois)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_567" resp="#awilfing" cert="high">
@@ -7396,11 +7399,14 @@
             <bibl xml:id="hsl_work_id_600" resp="#awilfing" cert="high">
                <title type="main">Quintett für 2 Violinen, Viola, Cello und Klavier in Es-Dur, op. 44</title>
                <title type="alias" subtype="original">Quintette, Violine (2), Viola, Violoncello, Klavier, op. 44 (Es-Dur)</title>
+               <title type="alias" xml:lang="de">Quintett Es-Dur op. 44</title>
+               <title type="alias" xml:lang="en">Piano Quintet; Piano Quintet in E-flat Major, Op. 44</title>
                <title type="alias" subtype="other">Klavierquintett Es-Dur, op. 44; Quintette, Vl 1 2 Va Vc Kl op. 44</title>
                <author ref="#hsl_person_id_282">
                   <persName>Schumann, Robert</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300146035</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1620665</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Quintet,_Op.44_(Schumann,_Robert)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_601" resp="#awilfing" cert="high">
@@ -12023,11 +12029,13 @@
             <bibl xml:id="hsl_work_id_984" resp="#awilfing" cert="high">
                <title type="main">Psalm 150, WAB38</title>
                <title type="alias" subtype="original">Psalm 150</title>
+               <title type="alias" xml:lang="de">Psalm 150 (Bruckner)</title>
                <title type="alias" subtype="other">Psalmen 150; Halleluja! Praise ye the Lord in his sanctuary; Halleluja! Lobet Gott in seinem Heiligtum</title>
                <author ref="#hsl_person_id_742">
                   <persName>Bruckner, Anton</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30002987X</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q7253928</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Psalm_150%2C_WAB_38_(Bruckner%2C_Anton)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_985" resp="#awilfing" cert="high">
@@ -13033,12 +13041,14 @@
             <bibl xml:id="hsl_work_id_1067" resp="#awilfing" cert="high">
                <title type="main">Néron</title>
                <title type="alternative">Nero</title>
+               <title type="alias" xml:lang="en">Nero; Neron</title>
                <author ref="#hsl_person_id_90">
                   <persName>Barbier, Jules</persName>
                </author>
                <author ref="#hsl_person_id_244">
                   <persName>Rubinštejn, Anton G.</persName>
                </author>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q7071449</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/N%C3%A9ron_(Rubinstein%2C_Anton)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1068" resp="#awilfing" cert="high">
@@ -15124,7 +15134,9 @@
                <title type="main">Prodaná nevěsta, JB1:100</title>
                <title type="alternative">Prodaná nevesta; Die verkaufte Braut</title>
                <title type="alias" subtype="original">Prodaná nevěsta (Oper, 1866)</title>
-               <title type="alias" subtype="other">Die verkaufte Braut; The bartered bride; La fiancée vendue</title>
+               <title type="alias" xml:lang="de">Die verkaufte Braut; Verkaufte Braut; Prodanà nevesta; Prodaná nevěsta; Prodaná nevĕsta; Prodana nevesta</title>
+               <title type="alias" xml:lang="en">The Bartered Bride</title>
+               <title type="alias" subtype="other">La fiancée vendue</title>
                <author ref="#hsl_person_id_1617">
                   <persName>Smetana, Bedřich</persName>
                </author>
@@ -15143,6 +15155,7 @@
                <name type="character" ref="#hsl_person_id_3166">Mařenka</name>
                <name type="character" ref="#hsl_person_id_3169">Jeník</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1108590942</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q907745</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Prodan%C3%A1_nev%C4%9Bsta%2C_JB_1:100_(Smetana%2C_Bed%C5%99ich)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1241" resp="#awilfing" cert="high">
@@ -15258,11 +15271,13 @@
                <title type="main">O del mio dolce ardor</title>
                <title type="alternative">langzeitig Stradella zugeordnet</title>
                <title type="alias" subtype="original">Paride ed Elena. O del mio dolce ardor</title>
+               <title type="alias" xml:lang="de">Paride ed Elena</title>
                <title type="alias" subtype="other">O meiner Leidenschaft begehrtes Abbild; Paride ed Elena &amp;lt;O del mio dolce ardor&amp;gt;</title>
                <author ref="#hsl_person_id_99">
                   <persName>Gluck, Christoph Willibald</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300060386</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3810521</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Paride_ed_Elena,_Wq.39_(Gluck,_Christoph_Willibald)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1252" resp="#awilfing" cert="high">
@@ -16527,6 +16542,7 @@
             <bibl xml:id="hsl_work_id_1366" resp="#awilfing" cert="high">
                <title type="main">Pépito</title>
                <title type="alternative">Das Mädchen von Elizondo; Das Mädchen von Elisonzo</title>
+               <title type="alias" xml:lang="en">Pepito</title>
                <title type="alias" subtype="other">Das Mädchen von Elizondo; Vertigo</title>
                <author ref="#hsl_person_id_202">
                   <persName>Offenbach, Jacques</persName>
@@ -16538,6 +16554,7 @@
                   <persName>Moinaux, Jules</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300115636</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3926120</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/P%C3%A9pito_(Offenbach%2C_Jacques)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1367" resp="#awilfing" cert="high">
@@ -21132,21 +21149,27 @@
             <bibl xml:id="hsl_work_id_1775" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 12 in F-Dur, B179</title>
                <title type="alias" subtype="original">Quartette, Violine (2), Viola, Violoncello, B 179 (F-Dur)</title>
+               <title type="alias" xml:lang="de">12. Streichquartett; Quartett F-Dur für 2 Violinen, Viola und Violoncello op.96; op. 96; Streichquartett Nr. 12; Streichquartett F-Dur</title>
+               <title type="alias" xml:lang="en">String Quartet No. 12; String Quartet No. 12 in F Major, Op. 96, &amp;#34;American&amp;#34;</title>
                <title type="alias" subtype="other">Quartette (F-Dur); Streichquartett (F-Dur); American quartet; American; Americký kvartet; Quartette, op. 96; Quartette, Violine (2), Viola, Violoncello, op. 96 (F-Dur); Quartette, Vl 1 2, Va, Vc, B 179; Amerikanisches Quartett; Quartette, Vl 1 2 Va Vc B 179; String quartet in F major; Amerikanisches Streichquartett; Quartette, Violine (2), Viola, Violoncello, Nr. 12 (F-Dur); Smyčcový kvartet (F-Dur)</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300047800</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q172092</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_No.12%2C_Op.96_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1776" resp="#awilfing" cert="high">
                <title type="main">Quintett für 2 Violinen, 2 Violen und Cello Nr. 3 in Es-Dur, B180</title>
                <title type="alias" subtype="original">Quintette, Violine (2), Viola (2), Violoncello, B 180 (Es-Dur)</title>
+               <title type="alias" xml:lang="de">Quintett Es-Dur op. 97</title>
+               <title type="alias" xml:lang="en">String Quintet No. 3; String Quintet in E-flat Major, Op. 97</title>
                <title type="alias" subtype="other">Quintette, Vl 1 2 Va 1 2 Vc B 180</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300047886</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q499070</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quintet_No.3%2C_Op.97_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1777" resp="#awilfing" cert="high">
@@ -21798,11 +21821,14 @@
             <bibl xml:id="hsl_work_id_1838" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 15 in G-Dur, D887</title>
                <title type="alias" subtype="original">Quartette, Violine (2), Viola, Violoncello, D 887 (G-Dur)</title>
+               <title type="alias" xml:lang="de">15. Streichquartett</title>
+               <title type="alias" xml:lang="en">String Quartet No. 15; String Quartet in G Major, D. 887</title>
                <title type="alias" subtype="other">Quartette, Vl 1 2 Va Vc D 887; Streichquartett, D 887</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141467</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3413774</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_in_G_major,_D.887_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1839" resp="#awilfing" cert="high">
@@ -23041,11 +23067,14 @@
             <bibl xml:id="hsl_work_id_1953" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 13 in G-Dur, B192</title>
                <title type="alias" subtype="original">Quartette, Violine (2), Viola, Violoncello, B 192 (G-Dur)</title>
-               <title type="alias" subtype="other">Streichquartett op. 106 (1895, G-Dur); Quartette, Vl 1 2 Va Vc B 192; Quartette, Violine (2), Viola, Violoncello, Nr. 13, op. 106 (G-Dur); Streichquartett Nr. 13; Quartett G-Dur; Quartette, Vl 1 2, Va, Vc, B 192</title>
+               <title type="alias" xml:lang="de">13. Streichquartett; Streichquartett Nr. 13; Streichquartett G-Dur</title>
+               <title type="alias" xml:lang="en">String Quartet No. 13; String Quartet No. 13 in G Major, Op. 106; String Quartet in G Major</title>
+               <title type="alias" subtype="other">Streichquartett op. 106 (1895, G-Dur); Quartette, Vl 1 2 Va Vc B 192; Quartette, Violine (2), Viola, Violoncello, Nr. 13, op. 106 (G-Dur); Quartett G-Dur; Quartette, Vl 1 2, Va, Vc, B 192</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300047819</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2614872</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_No.13%2C_Op.106_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1954" resp="#awilfing" cert="high">
@@ -23232,11 +23261,14 @@
             <bibl xml:id="hsl_work_id_1968" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 1 in g-Moll, op. 27</title>
                <title type="alias" subtype="original">Quartette, Violine (2), Viola, Violoncello, Nr. 1, op. 27 (g-Moll)</title>
+               <title type="alias" xml:lang="de">Streichquartett g-Moll; Streichquartett Nr. 1; 1. Streichquartett</title>
+               <title type="alias" xml:lang="en">String Quartet No. 1; String Quartet in G Minor, Op. 27</title>
                <title type="alias" subtype="other">Quartette, Vl 1 2 Va Vc op. 27; Streichquartett, op. 27; Quartette, Vl 1 2, Va, Vc, op. 27; Strykekvartett I g-Moll</title>
                <author ref="#hsl_person_id_1042">
                   <persName>Grieg, Edvard</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300062575</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q745514</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_No.1%2C_Op.27_(Grieg%2C_Edvard)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1969" resp="#awilfing" cert="high">
@@ -23488,11 +23520,14 @@
             <bibl xml:id="hsl_work_id_1993" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello in c-Moll, D703</title>
                <title type="alias" subtype="original">Quartette, Violine (2), Viola, Violoncello, D 703 (c-Moll)</title>
+               <title type="alias" xml:lang="de">Quartettsatz; Streichquartett Nr. 12; 12. Streichquartett; Quartettsatz c-Moll</title>
+               <title type="alias" xml:lang="en">String Quartet No. 12; Quartettsatz in C minor</title>
                <title type="alias" subtype="other">Quartette, Vl 1 2, Va, Vc, D 703; Quartettsatz, D 703; Quartette, Vl 1 2 Va Vc D 703</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300141424</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3413020</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_in_C_minor,_D.703_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_1994" resp="#awilfing" cert="high">
@@ -24429,11 +24464,13 @@
                <title type="main">Ouvertüre in G-Dur</title>
                <title type="alternative">Concert-Ouvertüre</title>
                <title type="alias" subtype="original">Ouvertüren (G-Dur)</title>
+               <title type="alias" xml:lang="en">Overture in G major</title>
                <title type="alias" subtype="other">Concert-Ouvertüre; Ouvertüren G-Dur</title>
                <author ref="#hsl_person_id_47">
                   <persName>Cherubini, Luigi</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300310056</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q16962326</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Concert_Overture_(Cherubini%2C_Luigi)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2089" resp="#awilfing" cert="high">
@@ -25733,6 +25770,7 @@
                   <persName>Gade, Niels Wilhelm</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300278594</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15879986</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Octet,_Op.17_(Gade,_Niels)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2210" resp="#awilfing" cert="high">
@@ -26982,6 +27020,7 @@
                   <persName>Dvořák, Antonín</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300239890</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q7108559</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Othello,_Op.93_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2320" resp="#awilfing" cert="high">
@@ -27149,11 +27188,14 @@
             <bibl xml:id="hsl_work_id_2334" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 1 in D-Dur, TH111</title>
                <title type="alias" subtype="original">Quartette, Violine (2), Viola, Violoncello, ČS 90 (D-Dur)</title>
+               <title type="alias" xml:lang="de">1. Streichquartett</title>
+               <title type="alias" xml:lang="en">String Quartet No. 1; String Quartet No. 1 in D Major, Op. 11</title>
                <title type="alias" subtype="other">Quartette, Vl 1 2, Va, Vc, ČS 90; Quartette, Vl 1 2 Va Vc op. 11</title>
                <author ref="#hsl_person_id_1014">
                   <persName>Čajkovskij, Pëtr Ilʹič</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300229569</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2612039</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_No.1%2C_Op.11_(Tchaikovsky%2C_Pyotr)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2335" resp="#awilfing" cert="high">
@@ -27193,11 +27235,14 @@
             <bibl xml:id="hsl_work_id_2338" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 8 in E-Dur, B57</title>
                <title type="alias" subtype="original">Quartette, Violine (2), Viola, Violoncello, B 57 (E-Dur)</title>
+               <title type="alias" xml:lang="de">8. Streichquartett; Streichquartett Nr. 8; Streichquartett E-Dur</title>
+               <title type="alias" xml:lang="en">String Quartet No. 8; String Quartet in E major</title>
                <title type="alias" subtype="other">Quartette, Vl 1 2 Va Vc B 57; Streichquartett Nr. 8 E-Dur op. 80</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300047762</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2117669</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_No.8%2C_Op.80_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2339" resp="#awilfing" cert="high">
@@ -27213,11 +27258,14 @@
             <bibl xml:id="hsl_work_id_2340" resp="#awilfing" cert="high">
                <title type="main">Quintett für 2 Violinen, Viola, Cell und Klavier Nr. 2 in A-Dur, B155</title>
                <title type="alias" subtype="original">Quintette, Violine (2), Viola, Violoncello, Klavier, B 155 (A-Dur)</title>
+               <title type="alias" xml:lang="de">2. Klavierquintett; Quintett A-Dur für 2 Violinen, Viola, Violoncello und Klavier op. 81</title>
+               <title type="alias" xml:lang="en">Piano Quintet No. 2; quintet for piano, 2 violins, viola, and cello; op. 81</title>
                <title type="alias" subtype="other">Quintette, Kl, Vl 1 2, Va, Vc, op. 81; Klavierquintett B 155; Quintette, Vl 1 2 Va Vc Kl B 155; Klavierquintett op. 81; Quintette, Vl 1 2, Va, Vc, Kl, B 155</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30004786X</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q210227</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Piano_Quintet_No.2%2C_Op.81_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2341" resp="#awilfing" cert="high">
@@ -28874,11 +28922,14 @@
                <title type="main">Phantasie für Violine und Klavier in C-Dur, D934</title>
                <title type="alternative">Fantasie</title>
                <title type="alias" subtype="original">Fantasien, Violine, Klavier, D 934 (C-Dur)</title>
+               <title type="alias" xml:lang="de">Fantasie C-Dur; Fantasie in C-Dur; Fantasie für Violine und Klavier; Fantasie C-Dur für Violine und Klavier</title>
+               <title type="alias" xml:lang="en">Fantasie in C major; Fantasie for violin and piano; Fantasie in C major for violin and piano; Fantasy for Violin and Piano in C Major, D. 934; Fantasy for violin and piano</title>
                <title type="alias" subtype="other">Fantasien, Violine, Klavier, op. posth. 159 (C-Dur); Fantasien, Violine, Klavier, op. post. 159 (C-Dur); Fantasie, D 934; Fantasien, Vl Kl D 934; Fantasien, Vl, Kl, D 934</title>
                <author ref="#hsl_person_id_279">
                   <persName>Schubert, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300140347</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q24899576</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Fantasie_in_C_major,_D.934_(Schubert,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2515" resp="#awilfing" cert="high">
@@ -31756,11 +31807,14 @@
             <bibl xml:id="hsl_work_id_2784" resp="#awilfing" cert="high">
                <title type="main">Old Folks at Home</title>
                <title type="alternative">Der Alten Heim</title>
-               <title type="alias" subtype="other">Swanee ribber; Swanee River; The old folks at home</title>
+               <title type="alias" xml:lang="de">Swanee Ribber</title>
+               <title type="alias" xml:lang="en">Swanee River; Suwannee River</title>
+               <title type="alias" subtype="other">The old folks at home</title>
                <author ref="#hsl_person_id_4463">
                   <persName>Foster, Stephen Collins</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300365624</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q834609</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Old_Folks_at_Home_(Foster,_Stephen)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2785" resp="#awilfing" cert="high">
@@ -33854,6 +33908,7 @@
                   <persName>Gounod, Charles</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1304031780</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q7226316</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Polyeucte,_CG_11_(Gounod,_Charles)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_2982" resp="#awilfing" cert="high">
@@ -34052,11 +34107,14 @@
             <bibl xml:id="hsl_work_id_3003" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 10 in Es-Dur, B92</title>
                <title type="alias" subtype="original">Quartette, Violine (2), Viola, Violoncello, B 92 (Es-Dur)</title>
-               <title type="alias" subtype="other">Slavonic quartet; Quartette, Violine (2), Viola, Violoncello, op. 51 (Es-Dur); Slawisches Quartett; Quartette, Vl 1 2 Va Vc B 92; Quartette, Violine (2), Viola, Violoncello, Nr. 10, op. 51 (Es-Dur); Quartette, Vl 1 2, Va, Vc, op. 51; Quartette, Vl 1 2, Va, Vc, B 92; Streichquartett Nr. 10</title>
+               <title type="alias" xml:lang="de">10. Streichquartett; Streichquartett Nr. 10; Streichquartett es-Moll</title>
+               <title type="alias" xml:lang="en">String Quartet No. 10; String Quartet in E-flat major; String Quartet No. 10 in E-flat Major, Op. 51; String Quartet No. 10 in E-flat Major, B. 92</title>
+               <title type="alias" subtype="other">Slavonic quartet; Quartette, Violine (2), Viola, Violoncello, op. 51 (Es-Dur); Slawisches Quartett; Quartette, Vl 1 2 Va Vc B 92; Quartette, Violine (2), Viola, Violoncello, Nr. 10, op. 51 (Es-Dur); Quartette, Vl 1 2, Va, Vc, op. 51; Quartette, Vl 1 2, Va, Vc, B 92</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300047789</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1949980</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_No.10%2C_Op.51_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3004" resp="#awilfing" cert="high">
@@ -34601,7 +34659,8 @@
                <title type="main">Nevěsta messinská, op. 18</title>
                <title type="alternative">Die Braut von Messina</title>
                <title type="alias" subtype="original">Nevěsta mesinská</title>
-               <title type="alias" subtype="other">The bride of Messina; Die Braut von Messina; Nevěsta messinská</title>
+               <title type="alias" xml:lang="en">The Bride of Messina; Nevěsta messinská; Messinská nevěsta</title>
+               <title type="alias" subtype="other">Die Braut von Messina</title>
                <author ref="#hsl_person_id_716">
                   <persName>Hostinský, Otakar</persName>
                </author>
@@ -34609,6 +34668,7 @@
                   <persName>Fibich, Zdeněk</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300395833</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3496414</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Nev%C4%9Bsta_messinsk%C3%A1,_Op.18_(Fibich,_Zden%C4%9Bk)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3051" resp="#awilfing" cert="high">
@@ -34965,11 +35025,14 @@
             <bibl xml:id="hsl_work_id_3080" resp="#awilfing" cert="high">
                <title type="main">Nonett für Flöte, Oboe, Klarinette, Horn, Fagott, Violine, Viola, Cello und Kontrabass in F-Dur, op. 31</title>
                <title type="alias" subtype="original">Nonette, Violine, Viola, Violoncello, Kontrabass, Querflöte, Oboe, Klarinette, Fagott, Horn, op. 31 (F-Dur)</title>
+               <title type="alias" xml:lang="de">Nonett für Flöte, Oboe, Klarinette, Horn, Fagott, Violine, Viola, Violoncello und Kontrabass F-Dur; Nonett F-Dur; op. 31; Nonett F-Dur für Violine, Viola, Violoncello, Kontrabass, Flöte, Oboe, Klarinette, Fagott und Horn</title>
+               <title type="alias" xml:lang="en">Nonet in F Major, Op. 31; Nonet for flute, oboe, clarinet, horn, bassoon, violin, viola, cello &amp;amp; double bass in F major; Nonet, Op. 31; Nonet in F major</title>
                <title type="alias" subtype="other">Nonette, op. 31; Nonette op. 31; Grand Nonetto pour Violon, Alto, Violoncelle, Contrabasse, Flûte, Hautbois, Clarinette, Basson et Cor Oeuvre 31</title>
                <author ref="#hsl_person_id_293">
                   <persName>Spohr, Louis</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/30015190X</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2385981</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Nonet,_Op.31_(Spohr,_Louis)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3081" resp="#awilfing" cert="high">
@@ -38156,11 +38219,14 @@
             <bibl xml:id="hsl_work_id_3384" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 2 in d-Moll, JB1:124</title>
                <title type="alias" subtype="original">Quartette, Violine (2), Viola, Violoncello, Nr. 2 (d-Moll)</title>
+               <title type="alias" xml:lang="de">2. Streichquartett</title>
+               <title type="alias" xml:lang="en">String Quartet No. 2</title>
                <title type="alias" subtype="other">Streichquartett, Nr. 2; Streichquartett (d-Moll); Quartette, Vl 1 2, Va, Vc, Nr. 2; Quartette, Vl 1 2 Va Vc d-Moll</title>
                <author ref="#hsl_person_id_1617">
                   <persName>Smetana, Bedřich</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300149751</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q7623929</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_No.2%2C_JB_1:124_(Smetana%2C_Bed%C5%99ich)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3385" resp="#awilfing" cert="high">
@@ -39051,21 +39117,26 @@
             <bibl xml:id="hsl_work_id_3456" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello in g-Moll, Hob. III:33</title>
                <title type="alias" subtype="original">Quartette, Violine (2), Viola, Violoncello, Hob 3 31-36. Nr. 3</title>
+               <title type="alias" xml:lang="en">String Quartets, Op. 20</title>
                <title type="alias" subtype="other">Quartette, Vl 1 2, Va, Vc, op. 20,3; Quartette, Vl 1 2, Va, Vc, Hob 3,31 - 36. Quartett, Hob 3,33; Quartette, Violine (2), Viola, Violoncello, op. 20. Nr. 3; Quartette, Vl 1 2 Va Vc, Hob 3,31 - 36 &amp;lt;Quartett Hob 3,33&amp;gt;; Sonnenquartett op. 20, 3; Sonnenquartett, op. 20,3; Quartette, Vl 1 2 Va Vc H 3, 33</title>
                <author ref="#hsl_person_id_114">
                   <persName>Haydn, Joseph</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300877307</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3413887</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_in_G_minor,_Hob.III:33_(Haydn,_Joseph)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3457" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 5 in Es-Dur, MWV R 28</title>
                <title type="alias" subtype="original">Quartette, Violine (2), Viola, Violoncello, MWV R 28 (Es-Dur)</title>
+               <title type="alias" xml:lang="de">Streichquartett Nr. 5; Streichquartett in Es-Dur; Streichquartett Es-Dur; Streichquartett op. 44; 5. Streichquartett</title>
+               <title type="alias" xml:lang="en">String Quartet No. 5; String Quartet No. 5 in E-flat Major, Op. 44, No. 3; String Quartet, Op. 44; String Quartet in E-flat major</title>
                <title type="alias" subtype="other">Quartette, Vl 1 2 Va Vc op. 44, 3; Quartette, Vl 1 2, Va, Vc, op. 44,3; Quartette, Vl 1 2, Va, Vc, MWV R 28</title>
                <author ref="#hsl_person_id_21">
                   <persName>Mendelssohn Bartholdy, Felix</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300102577</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3413866</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_No.5,_Op.44_No.3_(Mendelssohn,_Felix)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3458" resp="#awilfing" cert="high">
@@ -41765,11 +41836,13 @@
             <bibl xml:id="hsl_work_id_3756" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello in D-Dur, Hob.III:34</title>
                <title type="alias" subtype="original">Quartette, Violine (2), Viola, Violoncello, Hob 3 31-36. Nr. 4</title>
+               <title type="alias" xml:lang="en">String Quartets, Op. 20</title>
                <title type="alias" subtype="other">Quartette, Vl 1 2, Va, Vc, op. 20,4; Quartette, Vl 1 2 Va Vc, Hob 3,31 - 36 &amp;lt;Quartett Hob 3,34&amp;gt;; Quartette, Violine (2), Viola, Violoncello, op. 20. Nr. 4; Quartette, Vl 1 2, Va, Vc, Hob 3,31 - 36. Quartett, Hob 3,34; Quartette, Vl 1 2 Va Vc H 3, 34; Sonnenquartett op. 20, 4</title>
                <author ref="#hsl_person_id_114">
                   <persName>Haydn, Joseph</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300205511</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3413887</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_in_D_major,_Hob.III:34_(Haydn,_Joseph)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_3757" resp="#awilfing" cert="high">
@@ -44969,6 +45042,7 @@
                   <persName>Strauss junior, Johann</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300155387</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3870239</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Napoleon-Marsch,_Op.156_(Strauss_Jr.,_Johann)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4090" resp="#awilfing" cert="high">
@@ -49632,11 +49706,14 @@
             <bibl xml:id="hsl_work_id_4558" resp="#awilfing" cert="high">
                <title type="main">Präludium und Fuge über den Namen BACH, S260</title>
                <title type="alias" subtype="original">Präludium und Fuge über den Namen B A C H</title>
+               <title type="alias" xml:lang="de">Fantasie und Fuge über das Thema B-A-C-H</title>
+               <title type="alias" xml:lang="en">Fantasy and Fugue on the Theme B-A-C-H</title>
                <title type="alias" subtype="other">Prelude and fugue on the name B-A-C-H; Praeludium und Fuge über den Namen BACH; Präludium und Fuge über den Namen B-A-C-H; Präludium und Fuge über das Thema B-A-C-H; Präludium und Fuge über B-A-C-H; Präludium und Fuge über das Motiv B-A-C-H; Prelude and fugue on the motif B-A-C-H; Präludium &amp;amp; Fuge über B-A-C-H; Prelude and fugue on B-A-C-H</title>
                <author ref="#hsl_person_id_164">
                   <persName>Liszt, Franz</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300094396</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q754371</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Pr%C3%A4ludium_und_Fuge_%C3%BCber_den_Namen_BACH,_S.260_(Liszt,_Franz)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4559" resp="#awilfing" cert="high">
@@ -53824,11 +53901,14 @@
             <bibl xml:id="hsl_work_id_4979" resp="#awilfing" cert="high">
                <title type="main">Partita für Violine in d-Moll,  BWV1004</title>
                <title type="alias" subtype="original">Sonaten und Partiten, Violine, BWV 1001-1006. Partita, Nr. 2. Chaconne</title>
+               <title type="alias" xml:lang="de">Partita II d-moll BWV 1004; BWV 1004</title>
+               <title type="alias" xml:lang="en">Partita No. 2 in D minor, BWV 1004</title>
                <title type="alias" subtype="other">Sonaten und Partiten. Partita, BWV 1004. Satz 5; Sonaten und Partiten. Partita, BWV 1004. Chaconne; Sonaten und Partiten, Violine, BWV 1001-1006. Partita, Nr. 2. Satz 5; Sonaten und Partiten, Vl BWV 1001 - 1006. Partita BWV 1004, 5. Satz; Chaconne d-Moll; Ciaccona; Sonaten und Partiten &amp;lt;Partita BWV 1004, 5. Satz&amp;gt;; Partita, Violine, BWV 1004</title>
                <author ref="#hsl_person_id_18">
                   <persName>Bach, Johann Sebastian</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300011148</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q625094</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Violin_Partita_No.2_in_D_minor%2C_BWV_1004_(Bach%2C_Johann_Sebastian)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_4980" resp="#awilfing" cert="high">
@@ -54770,11 +54850,14 @@
             <bibl xml:id="hsl_work_id_5107" resp="#awilfing" cert="high">
                <title type="main">Quintett für 2 Violinen, 2 Violen und Cello in e-Moll, op. 8</title>
                <title type="alias" subtype="original">Quintette, Violine (2), Viola (2), Violoncello, op. 8 (e-Moll)</title>
+               <title type="alias" xml:lang="de">Streichquintett e-Moll; Streichquintett op. 8</title>
+               <title type="alias" xml:lang="en">String Quintet in E minor; String Quintet, Op. 8</title>
                <title type="alias" subtype="other">Quintette, Vl 1 2 Va 1 2 Vc op. 8</title>
                <author ref="#hsl_person_id_94">
                   <persName>Gade, Niels Wilhelm</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300544294</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15882428</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quintet%2C_Op.8_(Gade%2C_Niels)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5108" resp="#awilfing" cert="high">
@@ -56473,7 +56556,9 @@ immerwährender Streit</title>
             <bibl xml:id="hsl_work_id_5476" resp="#awilfing" cert="high">
                <title type="main">Orphée et Eurydice, Wq.41</title>
                <title type="alias" subtype="original">Orphée et Eurydice</title>
-               <title type="alias" subtype="other">Orpheus und Eurydike; Orpheus und Eurydike (1744); Orphée et Euridice (Pariser Fassung); Orfeo ed Euridice (Französische Fassung)</title>
+               <title type="alias" xml:lang="de">Orfeo ed Euridice; Orphee et Euridice; Orphée et Euridice; Orpheus und Eurydike</title>
+               <title type="alias" xml:lang="en">Orphee et Eurydice; Orpheus and Eurydice</title>
+               <title type="alias" subtype="other">Orpheus und Eurydike (1744); Orphée et Euridice (Pariser Fassung); Orfeo ed Euridice (Französische Fassung)</title>
                <author ref="#hsl_person_id_99">
                   <persName>Gluck, Christoph Willibald</persName>
                </author>
@@ -56481,6 +56566,7 @@ immerwährender Streit</title>
                   <persName>Moline, Pierre Louis</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300060343</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q723776</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Orph%C3%A9e_et_Eurydice%2C_Wq.41_(Gluck%2C_Christoph_Willibald)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5477" resp="#awilfing" cert="high">
@@ -57173,6 +57259,8 @@ immerwährender Streit</title>
             <bibl xml:id="hsl_work_id_5576" resp="#awilfing" cert="high">
                <title type="main">Psyché, LWV56</title>
                <title type="alias" subtype="original">Psyché, LWV 56</title>
+               <title type="alias" xml:lang="de">Psyché; LWV 56</title>
+               <title type="alias" xml:lang="en">Psyche</title>
                <title type="alias" subtype="other">Psyché (Oper); Psyché (Opera); Psyché, Tragédie en musique</title>
                <author ref="#hsl_person_id_168">
                   <persName>Lully, Jean-Baptiste</persName>
@@ -57181,6 +57269,7 @@ immerwährender Streit</title>
                   <persName>Corneille, Thomas</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/136702465X</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3099033</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Psych%C3%A9%2C_LWV_56_(Lully%2C_Jean-Baptiste)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5577" resp="#awilfing" cert="high">
@@ -57388,6 +57477,7 @@ philosophes du 18 siècle</title>
                <name type="character" ref="#hsl_person_id_7927">Dunois</name>
                <name type="character" ref="#hsl_person_id_7928">Isabelle</name>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1331526922</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1136391</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Partant_pour_la_Syrie_(Beauharnais%2C_Hortense_de)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5599" resp="#awilfing" cert="high">
@@ -58404,6 +58494,7 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_5889" resp="#awilfing" cert="high">
                <title type="main">O sanctissima</title>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1759398</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/O_Sanctissima_(Anonymous)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_5890" resp="#awilfing" cert="high">
@@ -60879,21 +60970,27 @@ philosophes du 18 siècle</title>
             <bibl xml:id="hsl_work_id_6267" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 2 in F-Dur, TH112</title>
                <title type="alias" subtype="original">Quartette, Violine (2), Viola, Violoncello, ČS 91 (F-Dur)</title>
+               <title type="alias" xml:lang="de">2. Streichquartett</title>
+               <title type="alias" xml:lang="en">String Quartet No. 2; String Quartet No. 2 in F major</title>
                <title type="alias" subtype="other">Quartette, Vl 1 2, Va, Vc, ČS 91; Quartette, Vl 1 2, Va, Vc, op. 22</title>
                <author ref="#hsl_person_id_1014">
                   <persName>Čajkovskij, Pëtr Ilʹič</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4431661-6</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2612044</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_No.2%2C_Op.22_(Tchaikovsky%2C_Pyotr)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_6268" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 3 in es-Moll, TH113</title>
                <title type="alias" subtype="original">Quartette, Violine (2), Viola, Violoncello, ČS 92 (es-Moll)</title>
+               <title type="alias" xml:lang="de">3. Streichquartett</title>
+               <title type="alias" xml:lang="en">String Quartet No. 3; String Quartet No. 3 in E-Flat minor</title>
                <title type="alias" subtype="other">Quartette, Violine (2), Viola, Violoncello, Nr. 3 (es-Moll); Quartette, Vl 1 2 Va Vc op. 30; Quartette, Vl 1 2, Va, Vc, ČS 92; Quartette, Violine (2), Viola, Violoncello, op. 30 (es-Moll)</title>
                <author ref="#hsl_person_id_1014">
                   <persName>Čajkovskij, Pëtr Ilʹič</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300261144</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2612052</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_No.3%2C_Op.30_(Tchaikovsky%2C_Pyotr)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_6269" resp="#awilfing" cert="high">
@@ -63228,11 +63325,14 @@ philosophes du 18 siècle</title>
             <bibl xml:id="hsl_work_id_6595" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 11 in C-Dur, B121</title>
                <title type="alias" subtype="original">Quartette, Violine (2), Viola, Violoncello, B 121 (C-Dur)</title>
-               <title type="alias" subtype="other">Quartette, Vl 1 2, Va, Vc, B 121; Quartette, Violine (2), Viola, Violoncello, Nr. 11, op. 61 (C-Dur); Quartette, Vl 1 2 Va Vc B 121; Streichquartett B 121; Streichquartett Nr. 11; Streichquartett op. 61</title>
+               <title type="alias" xml:lang="de">11. Streichquartett; Streichquartett Nr. 11; Streichquartett C-Dur</title>
+               <title type="alias" xml:lang="en">String Quartet No. 11; String Quartet in C major</title>
+               <title type="alias" subtype="other">Quartette, Vl 1 2, Va, Vc, B 121; Quartette, Violine (2), Viola, Violoncello, Nr. 11, op. 61 (C-Dur); Quartette, Vl 1 2 Va Vc B 121; Streichquartett B 121; Streichquartett op. 61</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300047797</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q920831</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_No.11%2C_Op.61_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_6596" resp="#awilfing" cert="high">
@@ -64336,11 +64436,14 @@ philosophes du 18 siècle</title>
             <bibl xml:id="hsl_work_id_6773" resp="#awilfing" cert="high">
                <title type="main">Quartett für 2 Violinen, Viola und Cello Nr. 9 in d-Moll, B75</title>
                <title type="alias" subtype="original">Quartette, Violine (2), Viola, Violoncello, B 75 (d-Moll)</title>
-               <title type="alias" subtype="other">Streichquartett Nr. 9; Quartette, Vl 1 2, Va, Vc, B 75; Quartette, Vl 1 2 Va Vc B 75; Quartette, Violine (2), Viola, Violoncello, Nr. 9, op. 34 (d-Moll)</title>
+               <title type="alias" xml:lang="de">9. Streichquartett; Streichquartett Nr. 9; Streichquartett d-Moll</title>
+               <title type="alias" xml:lang="en">String Quartet No. 9; String Quartet in D minor; String Quartet No. 9 in D Minor, Op. 34</title>
+               <title type="alias" subtype="other">Quartette, Vl 1 2, Va, Vc, B 75; Quartette, Vl 1 2 Va Vc B 75; Quartette, Violine (2), Viola, Violoncello, Nr. 9, op. 34 (d-Moll)</title>
                <author ref="#hsl_person_id_1265">
                   <persName>Dvořák, Antonín</persName>
                </author>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/300047770</idno>
+               <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1977856</idno>
                <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/String_Quartet_No.9%2C_Op.34_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</idno>
             </bibl>
             <bibl xml:id="hsl_work_id_6774" resp="#awilfing" cert="high">
@@ -69896,6 +69999,16 @@ philosophes du 18 siècle</title>
             </bibl>
             <bibl xml:id="hsl_work_id_7756" resp="#awilfing" cert="medium">
                <title type="main"/>
+            </bibl>
+            <bibl xml:id="hsl_work_id_7757" resp="#awilfing" cert="high">
+               <title type="main">Le testament et les billets doux, AWV4</title>
+               <author ref="#hsl_person_id_16">
+                  <persName>Auber, Daniel-François-Esprit</persName>
+               </author>
+               <author ref="#hsl_person_id_2036">
+                  <persName>Planard, Eugène de</persName>
+               </author>
+               <idno type="URL" subtype="Digitalisat">https://imslp.org/wiki/Le_testament_et_les_billets_doux_(Auber%2C_Daniel_Fran%C3%A7ois_Esprit)</idno>
             </bibl>
       </listBibl>
       </body>
