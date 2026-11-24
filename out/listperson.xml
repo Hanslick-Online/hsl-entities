@@ -194,6 +194,7 @@
                      <bibl n="hsl_work_id_674">Tannhäuser. Zukunftsposse mit vergangener Musik und gegenwärtigen Gruppirungen</bibl>
                      <bibl n="hsl_work_id_1722">Eulenspiegel, oder Schabernack über Schabernack</bibl>
                      <bibl n="hsl_work_id_3814">Der böse Geist Lumpacivagabundus</bibl>
+                     <bibl n="hsl_work_id_7793">Die schlimmen Buben in der Schule</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_6" resp="#awilfing" cert="high">
@@ -347,6 +348,7 @@
                      <bibl n="hsl_work_id_3982">Die Priesterin der Isis in Rom, op. 30</bibl>
                      <bibl n="hsl_work_id_3983">Schön Ellen, op. 24</bibl>
                      <bibl n="hsl_work_id_6646">Fantasie  für Violine mit Orchester und Harfe unter freier Benutzung schottischer Volksmelodien, op. 46</bibl>
+                     <bibl n="hsl_work_id_7796">Ingeborg's Klage, Nr. 5, op. 23</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_373" resp="#awilfing" cert="high">
@@ -6032,6 +6034,7 @@
                      <bibl n="hsl_work_id_4535">Alessandro nell'Indie (Fassung 1758)</bibl>
                      <bibl n="hsl_work_id_4536">Alessandro nell'Indie (Fassung 1774)</bibl>
                      <bibl n="hsl_work_id_7294">Il gran Cid</bibl>
+                     <bibl n="hsl_work_id_7795">Iphigénie en Tauride</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_216" resp="#awilfing" cert="high">
@@ -9282,6 +9285,7 @@
                      <bibl n="hsl_work_id_5009">Goethes Faust. Neue Beiträge zur Kritik des Gedichts</bibl>
                      <bibl n="hsl_work_id_6833">Faust. Der Tragödie dritter Theil</bibl>
                      <bibl n="hsl_work_id_7748">Shakespeare-Vorträge</bibl>
+                     <bibl n="hsl_work_id_7760">Auch Einer</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_380" resp="#awilfing" cert="high">
@@ -115018,6 +115022,10 @@
                      <forename>Michele</forename>
                      <surname>Costa</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Michael</forename>
+                     <surname>Costa</surname>
+                  </persName>
                   <birth notBefore="1808-01-01" notAfter="1808-12-31">1808</birth>
                   <death notBefore="1884-01-01" notAfter="1884-12-31">1884</death>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
@@ -115085,6 +115093,7 @@
                   </persName>
                   <birth notBefore="1847-01-01" notAfter="1847-12-31">1847</birth>
                   <death notBefore="1910-01-01" notAfter="1910-12-31">1910</death>
+                  <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q16029473</idno>
                </person>
                <person xml:id="hsl_person_id_9911" resp="#awilfing" cert="high">
@@ -115121,6 +115130,10 @@
                <person xml:id="hsl_person_id_9914" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Carl</forename>
+                     <surname>Rosa</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Karl</forename>
                      <surname>Rosa</surname>
                   </persName>
                   <birth notBefore="1842-01-01" notAfter="1842-12-31">1842</birth>
@@ -115269,6 +115282,10 @@
                   <persName type="main">
                      <forename>Diomiro</forename>
                      <surname>Tramezzani</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Trampezzani</surname>
                   </persName>
                   <birth notBefore="1776-01-01" notAfter="1776-12-31">1776</birth>
                   <death notBefore="1848-01-01" notAfter="1848-12-31">1848</death>
@@ -116923,12 +116940,6 @@
                      <bibl n="hsl_work_id_178">I masnadieri, H47</bibl>
                   </listBibl>
                </person>
-               <person xml:id="hsl_person_id_10091" role="fictional" resp="#awilfing" cert="medium">
-                  <persName type="main">
-                     <forename/>
-                     <surname/>
-                  </persName>
-               </person>
                <person xml:id="hsl_person_id_10092" role="fictional" resp="#awilfing" cert="medium">
                   <persName type="main">
                      <forename/>
@@ -117126,12 +117137,6 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/10422231X</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q512930</idno>
                </person>
-               <person xml:id="hsl_person_id_10108" role="fictional" resp="#awilfing" cert="medium">
-                  <persName type="main">
-                     <forename/>
-                     <surname/>
-                  </persName>
-               </person>
                <person xml:id="hsl_person_id_10109" resp="#awilfing" cert="medium">
                   <persName type="main">
                      <forename>Benjamin</forename>
@@ -117156,6 +117161,200 @@
                   <occupation style="background-color: light-purple;">Pädagoge</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1294432486</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3407779</idno>
+               </person>
+               <person xml:id="hsl_person_id_10111" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Robert</forename>
+                     <surname>Vischer</surname>
+                  </persName>
+                  <birth notBefore="1847-01-01" notAfter="1847-12-31">1847</birth>
+                  <death notBefore="1933-01-01" notAfter="1933-12-31">1933</death>
+                  <occupation style="background-color: dark-orange;">Kunsthistoriker</occupation>
+                  <occupation style="background-color: cyan;">Ästhetiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117436658</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q101640</idno>
+               </person>
+               <person xml:id="hsl_person_id_10112" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Thekla</forename>
+                     <surname>Vischer</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Heinzl</surname>
+                  </persName>
+                  <birth notBefore="1812-01-01" notAfter="1812-12-31">1812</birth>
+                  <death notBefore="1878-01-01" notAfter="1878-12-31">1878</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117436704</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q85088185</idno>
+               </person>
+               <person xml:id="hsl_person_id_10113" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Jetty</forename>
+                     <surname>Treffz</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename>Henriette; Strauss-Treffz</forename>
+                     <surname>Chalupetzky</surname>
+                  </persName>
+                  <birth notBefore="1818-01-01" notAfter="1818-12-31">1818</birth>
+                  <death notBefore="1878-01-01" notAfter="1878-12-31">1878</death>
+                  <occupation style="background-color: dark-gray;">Sängerin (Mezzo-Sopran)</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117408581</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q275478</idno>
+                  <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/365026/</idno>
+                  <idno type="URI" subtype="OEML">https://dx.doi.org/10.1553/0x0001e4f1</idno>
+                  <idno type="URI" subtype="OEBL">https://doi-org.uaccess.univie.ac.at/10.1553/0x00284fe3</idno>
+               </person>
+               <person xml:id="hsl_person_id_10114" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Angelika</forename>
+                     <surname>Dittrich</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Strauss; Lili</surname>
+                  </persName>
+                  <birth notBefore="1850-01-01" notAfter="1850-12-31">1850</birth>
+                  <death notBefore="1919-01-01" notAfter="1919-12-31">1919</death>
+                  <occupation style="background-color: gray;">Sängerin</occupation>
+                  <occupation style="background-color: dark-red;">Schauspielerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1083832123</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q85083694</idno>
+                  <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/364972/</idno>
+               </person>
+               <person xml:id="hsl_person_id_10115" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Kneipp</surname>
+                  </persName>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_3814">Der böse Geist Lumpacivagabundus</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10148" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Lorle</forename>
+                     <surname>Meissner</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Vischer</surname>
+                  </persName>
+                  <birth notBefore="1880-01-01" notAfter="1880-12-31">1880</birth>
+                  <death notBefore="1948-01-01" notAfter="1948-12-31">1948</death>
+                  <occupation style="background-color: gray;">Sängerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116870486</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q94752530</idno>
+               </person>
+               <person xml:id="hsl_person_id_10149" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Willibald</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_7793">Die schlimmen Buben in der Schule</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10150" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Sansquartier</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_7794">Sieben Mädchen in Uniform</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10151" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Landgraf Purzel</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_674">Tannhäuser. Zukunftsposse mit vergangener Musik und gegenwärtigen Gruppirungen</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10152" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Franz Anton von</forename>
+                     <surname>Thun und Hohenstein</surname>
+                  </persName>
+                  <birth notBefore="1847-01-01" notAfter="1847-12-31">1847</birth>
+                  <death notBefore="1916-01-01" notAfter="1916-12-31">1916</death>
+                  <occupation style="background-color: dark-gray;">Politiker</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117626651</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q79119</idno>
+               </person>
+               <person xml:id="hsl_person_id_10153" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Marie-Joséphine</forename>
+                     <surname>Laguerre</surname>
+                  </persName>
+                  <birth notBefore="1755-01-01" notAfter="1755-12-31">1755</birth>
+                  <death notBefore="1783-01-01" notAfter="1783-12-31">1783</death>
+                  <occupation style="background-color: gray;">Sängerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/138337705</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q138925169</idno>
+               </person>
+               <person xml:id="hsl_person_id_10154" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Iphignénie</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_7795">Iphigénie en Tauride</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10155" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Therese</forename>
+                     <surname>Zerbst</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Halir; Zerbst-Halir</surname>
+                  </persName>
+                  <birth notBefore="1859-01-01" notAfter="1859-12-31">1859</birth>
+                  <death notBefore="1910-01-01" notAfter="1910-12-31">1910</death>
+                  <occupation style="background-color: gray;">Sängerin</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1171233183</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q134701373</idno>
+                  <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/194805/</idno>
+               </person>
+               <person xml:id="hsl_person_id_10156" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Diane</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Diana</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_7795">Iphigénie en Tauride</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10157" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Thoas</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>roi de Scythie</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_7795">Iphigénie en Tauride</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10158" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Lakmé</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_1612">Lakmé</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
