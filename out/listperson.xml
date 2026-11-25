@@ -2106,6 +2106,7 @@
                      <bibl n="hsl_work_id_4219">Théodore vierge et martyre</bibl>
                      <bibl n="hsl_work_id_5575">Psyché, LWV45</bibl>
                      <bibl n="hsl_work_id_7329">Le Cid</bibl>
+                     <bibl n="hsl_work_id_7865">Avertissement</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_52" resp="#awilfing" cert="high">
@@ -5511,6 +5512,7 @@
                      <bibl n="hsl_work_id_7064">Non più! Tutto ascoltai, KV490</bibl>
                      <bibl n="hsl_work_id_7684">Der Hölle Rache kocht in meinem Herzen</bibl>
                      <bibl n="hsl_work_id_7721">Symphonie Nr. 31 in D-Dur, KV297</bibl>
+                     <bibl n="hsl_work_id_7866">La finta semplice, KV 51/46 a</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_190" resp="#awilfing" cert="high">
@@ -40780,6 +40782,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4394">Mandolinata für Singstimme und Klavier</bibl>
                      <bibl n="hsl_work_id_4858">L'amour africain</bibl>
+                     <bibl n="hsl_work_id_7831">Patrie!</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_2688" resp="#awilfing" cert="high">
@@ -43572,6 +43575,9 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116195398</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1200639</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/114463</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7797">Home! Sweet Home!</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_2902" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -115587,12 +115593,19 @@
                      <forename>Jakob</forename>
                      <surname>Blumenthal</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename>Jacques</forename>
+                     <surname>Blumenthal</surname>
+                  </persName>
                   <birth notBefore="1829-01-01" notAfter="1829-12-31">1829</birth>
                   <death notBefore="1908-01-01" notAfter="1908-12-31">1908</death>
                   <occupation style="background-color: dark-orange;">Pianist</occupation>
                   <occupation style="background-color: light-gray;">Komponist</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116209321</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q6120433</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7798">Romanze</bibl>
+                  </listBibl>
                </person>
                <person xml:id="hsl_person_id_9950" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -115660,7 +115673,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Chevalier B.</surname>
+                     <surname>Chevalier B.; Mr. B.</surname>
                   </persName>
                   <birth notBefore="1849-01-01" notAfter="1849-12-31">1849</birth>
                   <death notBefore="1902-01-01" notAfter="1902-12-31">1902</death>
@@ -115671,12 +115684,18 @@
                </person>
                <person xml:id="hsl_person_id_9955" resp="#awilfing" cert="high">
                   <persName type="main">
-                     <forename>Joseph</forename>
-                     <surname>Kirkman III</surname>
+                     <forename>Jacob</forename>
+                     <surname>Kirkman</surname>
                   </persName>
-                  <birth notBefore="1822-01-01" notAfter="1822-12-31">1822</birth>
-                  <death notBefore="1896-01-01" notAfter="1896-12-31">1896</death>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Kirkmann</surname>
+                  </persName>
+                  <birth notBefore="1710-01-01" notAfter="1710-12-31">1710</birth>
+                  <death notBefore="1792-01-01" notAfter="1792-12-31">1792</death>
                   <occupation style="background-color: dark-green;">Klavierbauer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1043784780</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q18877545</idno>
                </person>
                <person xml:id="hsl_person_id_9956" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -117354,6 +117373,103 @@
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1612">Lakmé</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10159" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>John Howard</forename>
+                     <surname>Payne</surname>
+                  </persName>
+                  <birth notBefore="1791-01-01" notAfter="1791-12-31">1791</birth>
+                  <death notBefore="1852-01-01" notAfter="1852-12-31">1852</death>
+                  <occupation style="background-color: blue;">Schriftsteller</occupation>
+                  <occupation style="background-color: light-blue;">Schauspieler</occupation>
+                  <occupation style="background-color: dark-red;">Diplomat</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/105608104X</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4401542</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7797">Home! Sweet Home!</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10160" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename>John</forename>
+                     <surname>Broadwood</surname>
+                  </persName>
+                  <birth notBefore="1732-01-01" notAfter="1732-12-31">1732</birth>
+                  <death notBefore="1812-01-01" notAfter="1812-12-31">1812</death>
+                  <occupation style="background-color: dark-green;">Klavierbauer</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/132580454</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q264239</idno>
+               </person>
+               <person xml:id="hsl_person_id_10193" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Saint Jacques</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Erscheinung des heiligen Jakobus; heiliger Jago; San Jago</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2598">Le Cid</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10194" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Le Roi</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Ferdinand I.</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2598">Le Cid</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10227" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Don Diègue</surname>
+                  </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Don Diego</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_2598">Le Cid</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10228" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Elvira</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_4174">Der Cid</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10229" role="fictional" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Sol</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_4174">Der Cid</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10230" resp="#awilfing" cert="medium">
+                  <persName type="main">
+                     <forename>Guillén</forename>
+                     <surname>de Castro</surname>
+                  </persName>
+                  <birth notBefore="1569-01-01" notAfter="1569-12-31">1569</birth>
+                  <death notBefore="1631-01-01" notAfter="1631-12-31">1631</death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118667491</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q457209</idno>
+                  <listBibl type="authorOf">
+                     <bibl n="hsl_work_id_7832">Le gesta del Cid</bibl>
                   </listBibl>
                </person>
             </listPerson>
