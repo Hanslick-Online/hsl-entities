@@ -477,3 +477,301 @@ def add_alternative_titles(input_path="json_dumps/Werke.json", output_path=None,
         json.dump(data, f)
     print(f"{enriched} of {len(data)} works enriched with alternative titles; saved to {output_path}")
     return data
+
+def _fetch_gnd_dates(gnd_id, attempts=3):
+    """Fetch dates of birth and death from lobid GND."""
+    url = LOBID_GND_URL.format(gnd_id)
+
+    for attempt in range(attempts):
+        try:
+            r = requests.get(
+                url,
+                headers={"User-Agent": TITLES_USER_AGENT},
+                timeout=15
+            )
+            r.raise_for_status()
+            record = r.json()
+
+            return {
+                "Geburtsdatum": _complete_iso_date(
+                    record.get("dateOfBirth")
+                ),
+                "Todesdatum": _complete_iso_date(
+                    record.get("dateOfDeath")
+                )
+            }
+
+        except requests.exceptions.HTTPError as err:
+            status = err.response.status_code
+
+            if status not in (429, 500, 502, 503, 504):
+                print(f"GND lookup failed for {gnd_id}: {err}")
+                return {}
+
+            print(
+                f"GND server error ({status}) for {gnd_id}, "
+                f"attempt {attempt + 1}/{attempts}"
+            )
+
+        except requests.exceptions.RequestException as err:
+            print(
+                f"GND connection error for {gnd_id}, "
+                f"attempt {attempt + 1}/{attempts}: {err}"
+            )
+
+        except ValueError as err:
+            print(f"Invalid GND JSON for {gnd_id}: {err}")
+            return {}
+
+        if attempt < attempts - 1:
+            sleep(2 ** attempt)
+
+    print(f"GND unavailable for {gnd_id}; trying fallback sources.")
+    return {}
+
+
+def _complete_iso_date(value):
+    """Return a complete YYYY-MM-DD date, otherwise None."""
+    if not value:
+        return None
+
+    value = str(value).strip()
+
+    try:
+        from datetime import date
+        parsed = date.fromisoformat(value)
+        return parsed.isoformat()
+    except ValueError:
+        return None
+
+
+def _fetch_wikidata_dates(qid):
+    """Fetch complete dates of birth and death from Wikidata."""
+    params = {
+        "action": "wbgetentities",
+        "format": "json",
+        "ids": qid,
+        "props": "claims"
+    }
+
+    try:
+        r = requests.get(
+            WIKIDATA_API_URL,
+            params=params,
+            headers={"User-Agent": TITLES_USER_AGENT},
+            timeout=30
+        )
+        r.raise_for_status()
+        entity = r.json().get("entities", {}).get(qid, {})
+    except Exception as err:
+        print(f"Wikidata lookup failed for {qid}: {err}")
+        return {}
+
+    result = {}
+
+    properties = {
+        "Geburtsdatum": "P569",
+        "Todesdatum": "P570"
+    }
+
+    for field, prop in properties.items():
+        claims = entity.get("claims", {}).get(prop, [])
+
+        # Prefer preferred-rank statements; otherwise use normal rank.
+        claims = sorted(
+            claims,
+            key=lambda claim: (
+                claim.get("rank") != "preferred",
+                claim.get("rank") == "deprecated"
+            )
+        )
+
+        for claim in claims:
+            if claim.get("rank") == "deprecated":
+                continue
+
+            mainsnak = claim.get("mainsnak", {})
+            datavalue = mainsnak.get("datavalue", {})
+
+            if datavalue.get("type") != "time":
+                continue
+
+            date_value = datavalue["value"]
+
+            # Only Gregorian dates with day precision.
+            if date_value.get("precision") != 11:
+                continue
+
+            if not date_value.get("calendarmodel", "").endswith("Q1985727"):
+                continue
+
+            iso_date = _complete_iso_date(
+                date_value.get("time", "").split("T")[0].lstrip("+")
+            )
+
+            if iso_date:
+                result[field] = iso_date
+                break
+
+    return result
+
+
+def _fetch_pmb_dates(pmb_id):
+    """Fetch birth and death dates from a PMB person record."""
+    url = PMB_API_URL.format(pmb_id)
+
+    try:
+        r = requests.get(
+            url,
+            headers={"User-Agent": TITLES_USER_AGENT},
+            timeout=30
+        )
+        r.raise_for_status()
+        record = r.json()
+    except Exception as err:
+        print(f"PMB lookup failed for {pmb_id}: {err}")
+        return {}
+
+    return {
+        "Geburtsdatum": _complete_iso_date(record.get("start_date")),
+        "Todesdatum": _complete_iso_date(record.get("end_date"))
+    }
+
+
+def fill_person_dates(br_table_id, overwrite=False, sleep_seconds=0.25):
+    """
+    Fill Geburtsdatum and Todesdatum in a Baserow person table.
+
+    Lookup order:
+    1. GND
+    2. Wikidata
+
+    Existing dates are never overwritten.
+    Only complete Gregorian dates are written.
+    """
+    table = _load_table_rows(br_table_id)
+    br_rows_url = f"{BASEROW_URL}database/rows/table/{br_table_id}/"
+
+    gnd_cache = {}
+    wikidata_cache = {}
+
+    updated_rows = 0
+    updated_birth = 0
+    updated_death = 0
+
+    for row in table:
+        birth = row.get("Geburtsdatum")
+        death = row.get("Todesdatum")
+
+        if not overwrite and birth and death:
+            continue
+
+        missing_birth = overwrite or not birth
+        missing_death = overwrite or not death
+
+        dates = {}
+
+        # 1. GND
+        gnd_url = row.get("gnd") or ""
+
+        if gnd_url:
+            try:
+                gnd_id = get_norm_id(gnd_url)
+
+                if gnd_id not in gnd_cache:
+                    gnd_cache[gnd_id] = _fetch_gnd_dates(gnd_id)
+                    sleep(sleep_seconds)
+
+                dates.update(gnd_cache[gnd_id])
+
+            except Exception as err:
+                print(f"GND processing error: {err}")
+
+        # 2. Wikidata: fill only dates still missing.
+        wikidata_url = row.get("wikidata") or ""
+
+        if missing_birth and not dates.get("Geburtsdatum") or (
+            missing_death and not dates.get("Todesdatum")
+        ):
+            if wikidata_url:
+                try:
+                    qid = normalize_wikidata_id(wikidata_url)
+
+                    if qid not in wikidata_cache:
+                        wikidata_cache[qid] = _fetch_wikidata_dates(qid)
+                        sleep(sleep_seconds)
+
+                    wd_dates = wikidata_cache[qid]
+
+                    for field, value in wd_dates.items():
+                        if not dates.get(field):
+                            dates[field] = value
+
+                except Exception as err:
+                    print(f"Wikidata processing error: {err}")
+        # 3. PMB: fill any dates still missing.
+        if (
+            (missing_birth and not dates.get("Geburtsdatum"))
+            or (missing_death and not dates.get("Todesdatum"))
+        ):
+            pmb_url = row.get("pmb") or ""
+
+            if pmb_url:
+                try:
+                    pmb_id = get_norm_id(pmb_url)
+
+                    pmb_dates = _fetch_pmb_dates(pmb_id)
+
+                    for field, value in pmb_dates.items():
+                        if not dates.get(field):
+                            dates[field] = value
+
+                    sleep(sleep_seconds)
+
+                except Exception as err:
+                    print(f"PMB processing error: {err}")
+
+        # Update only previously empty fields.
+        if missing_birth and dates.get("Geburtsdatum"):
+            update["Geburtsdatum"] = dates["Geburtsdatum"]
+
+        if missing_death and dates.get("Todesdatum"):
+            update["Todesdatum"] = dates["Todesdatum"]
+
+        if not update:
+            continue
+
+        row_id = row["id"]
+        url = f"{br_rows_url}{row_id}/?user_field_names=true"
+
+        try:
+            response = requests.patch(
+                url,
+                headers={
+                    "Authorization": f"Token {BASEROW_TOKEN}",
+                    "Content-Type": "application/json"
+                },
+                json=update,
+                timeout=30
+            )
+            response.raise_for_status()
+
+            updated_rows += 1
+            updated_birth += "Geburtsdatum" in update
+            updated_death += "Todesdatum" in update
+
+            print(f"Row {row_id}: {update}")
+
+        except Exception as err:
+            print(f"Failed to update row {row_id}: {err}")
+
+        sleep(sleep_seconds)
+
+    print(
+        f"Finished: {updated_rows} rows updated; "
+        f"{updated_birth} birth dates and "
+        f"{updated_death} death dates."
+    )
+
+
+
