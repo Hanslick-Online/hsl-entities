@@ -20,3 +20,7 @@ jobs:
       - name: enrich dates
         run: |
           uv run scripts/python/fill_dates.py
+      - name: Commit data
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: Saves cache

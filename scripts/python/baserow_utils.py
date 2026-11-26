@@ -1,17 +1,24 @@
 import requests
 import geocoder
 import json
+from pathlib import Path
 from time import sleep
-from acdh_id_reconciler import geonames_to_gnd, geonames_to_wikidata, gnd_to_wikidata_custom
+from acdh_id_reconciler import (
+    geonames_to_gnd,
+    geonames_to_wikidata,
+    gnd_to_wikidata_custom,
+)
 from acdh_id_reconciler.utils import normalize_wikidata_id
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri, get_norm_id
 from acdh_obj2xml_pyutils import ObjectToXml
 
-from config import (BASEROW_URL, BASEROW_TOKEN, br_client)
+from config import BASEROW_URL, BASEROW_TOKEN, br_client
 
 LOBID_GND_URL = "https://lobid.org/gnd/{}.json"
 WIKIDATA_API_URL = "https://www.wikidata.org/w/api.php"
 TITLES_USER_AGENT = "hsl-entities (https://github.com/Hanslick-Online/hsl-entities)"
+
+PERSON_DATES_CACHE = Path("json_dumps/person_dates_cache.json")
 
 
 def _load_table_rows(br_table_id, attempts=3):
@@ -21,7 +28,7 @@ def _load_table_rows(br_table_id, attempts=3):
         except requests.exceptions.RequestException:
             if attempt == attempts - 1:
                 raise
-            delay = 2 ** attempt
+            delay = 2**attempt
             print(f"Failed to load Baserow table {br_table_id}; retrying in {delay}s.")
             sleep(delay)
 
@@ -37,7 +44,7 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
     for x in table:
         update = {}
         if uri == "gnd":
-            if (len(x[field_name_input["gnd"]]) > 0):
+            if len(x[field_name_input["gnd"]]) > 0:
                 norm_id = get_normalized_uri(x[field_name_input["gnd"]])
                 print(norm_id)
                 try:
@@ -70,14 +77,21 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
                     wd = gnd_to_wikidata_custom(norm_id, "P12483")
                     if len(wd["custom"]) > 0:
                         pmb = wd["custom"]
-                        update[field_name_update["pmb"]] = f"https://pmb.acdh.oeaw.ac.at/entity/{pmb}"
+                        update[field_name_update["pmb"]] = (
+                            f"https://pmb.acdh.oeaw.ac.at/entity/{pmb}"
+                        )
                         v_pmb += 1
-                        print(f"gnd id matched with pmb: https://pmb.acdh.oeaw.ac.at/entity/{pmb}")
+                        print(
+                            f"gnd id matched with pmb: https://pmb.acdh.oeaw.ac.at/entity/{pmb}"
+                        )
                 except Exception as err:
                     print(err)
                     print(f"no pmb match for {norm_id} found.")
         if uri == "geonames":
-            if (len(x[field_name_input["geonames"]]) and len(x[field_name_input["wikidata"]]) == 0):
+            if (
+                len(x[field_name_input["geonames"]])
+                and len(x[field_name_input["wikidata"]]) == 0
+            ):
                 norm_id = get_normalized_uri(x[field_name_input["geonames"]])
                 print(norm_id)
                 update[field_name_update["geonames"]] = norm_id
@@ -105,15 +119,17 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
                     url,
                     headers={
                         "Authorization": f"Token {BASEROW_TOKEN}",
-                        "Content-Type": "application/json"
+                        "Content-Type": "application/json",
                     },
-                    json=update
+                    json=update,
                 )
                 print(f"{url} : updated")
             except Exception as err:
                 print(err)
         sleep(0.25)
-    print(f"{v_wd} wikidata uri and {v_geo} geonames uri of {len(table)} table rows matched")
+    print(
+        f"{v_wd} wikidata uri and {v_geo} geonames uri of {len(table)} table rows matched"
+    )
 
 
 def geonames_to_location(br_table_id, user, field_name_input, field_name_update):
@@ -122,12 +138,12 @@ def geonames_to_location(br_table_id, user, field_name_input, field_name_update)
     geo_u = 0
     for x in table:
         update = {}
-        if (len(x[field_name_input["geonames"]]) > 0 and x["updated"] is False):
+        if len(x[field_name_input["geonames"]]) > 0 and x["updated"] is False:
             norm_id = get_normalized_uri(x[field_name_input["geonames"]])
             print(norm_id)
-            geo_id = norm_id.split('/')[-2]
+            geo_id = norm_id.split("/")[-2]
             try:
-                g = geocoder.geonames(geo_id, method='details', key=user)
+                g = geocoder.geonames(geo_id, method="details", key=user)
             except Exception as err:
                 print(f"no match for {norm_id} found. Error {err}")
             if g:
@@ -158,9 +174,9 @@ def geonames_to_location(br_table_id, user, field_name_input, field_name_update)
                     url,
                     headers={
                         "Authorization": f"Token {BASEROW_TOKEN}",
-                        "Content-Type": "application/json"
+                        "Content-Type": "application/json",
                     },
-                    json=update
+                    json=update,
                 )
                 print(f"{url} : updated")
             except Exception as err:
@@ -199,10 +215,7 @@ def _geojson_coordinates(value):
 
 
 def make_geojson(input, fn, clmn1, clmn2, clm3):
-    geojson = {
-        "type": "FeatureCollection",
-        "features": []
-    }
+    geojson = {"type": "FeatureCollection", "features": []}
     with open(input, "rb") as f:
         file = json.load(f)
     for f in file:
@@ -217,15 +230,12 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
             if coords is not None:
                 feature_point = {
                     "type": "Feature",
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": coords
-                    },
+                    "geometry": {"type": "Point", "coordinates": coords},
                     "properties": {
                         "title": obj["ortsname"],
                         "id": obj["hsl_id"],
-                        "country_code": obj["country_code"]
-                    }
+                        "country_code": obj["country_code"],
+                    },
                 }
                 geojson["features"].append(feature_point)
         try:
@@ -238,15 +248,12 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
             if coords is not None:
                 feature_point = {
                     "type": "Feature",
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": coords
-                    },
+                    "geometry": {"type": "Point", "coordinates": coords},
                     "properties": {
                         "title": obj["ortsname"],
                         "id": obj["hsl_id"],
-                        "country_code": obj["country_code"]
-                    }
+                        "country_code": obj["country_code"],
+                    },
                 }
                 geojson["features"].append(feature_point)
         try:
@@ -262,17 +269,14 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
                 if coords:
                     feature_point = {
                         "type": "Feature",
-                        "geometry": {
-                            "type": "Point",
-                            "coordinates": coords
-                        },
+                        "geometry": {"type": "Point", "coordinates": coords},
                         "properties": {
                             "title": nm,
                             "id": o_id,
                             "title_plc": x["data"]["ortsname"],
                             "id_plc": x["data"]["hsl_id"],
-                            "country_code": x["data"]["country_code"]
-                        }
+                            "country_code": x["data"]["country_code"],
+                        },
                     }
                     geojson["features"].append(feature_point)
                 else:
@@ -280,17 +284,14 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
                     if coords is not None:
                         feature_point = {
                             "type": "Feature",
-                            "geometry": {
-                                "type": "Point",
-                                "coordinates": coords
-                            },
+                            "geometry": {"type": "Point", "coordinates": coords},
                             "properties": {
                                 "title": nm,
                                 "id": o_id,
                                 "title_plc": x["data"]["name"],
                                 "id_plc": x["data"]["hsl_id"],
-                                "country_code": x["data"]["country_code"]
-                            }
+                                "country_code": x["data"]["country_code"],
+                            },
                         }
                         geojson["features"].append(feature_point)
     with open(f"out/{fn}.geojson", "w") as f:
@@ -338,8 +339,11 @@ def denormalize_json(fn, path, mapping):
                     # use id for lockup file
                     i_upt = lockup[str(i_id)]
                     # create normalized data
-                    norm = {n: i_upt[n] for n in i_upt
-                            if not isinstance(i_upt[n], list) and n != "id" and n != "order"}
+                    norm = {
+                        n: i_upt[n]
+                        for n in i_upt
+                        if not isinstance(i_upt[n], list) and n != "id" and n != "order"
+                    }
                     i["data"] = norm
                     i["data"]["filename"] = mpg[m]
     with open(save_and_open, "w") as w:
@@ -374,8 +378,10 @@ def _fetch_wikidata_titles(qid):
     }
     try:
         r = requests.get(
-            WIKIDATA_API_URL, params=params,
-            headers={"User-Agent": TITLES_USER_AGENT}, timeout=30
+            WIKIDATA_API_URL,
+            params=params,
+            headers={"User-Agent": TITLES_USER_AGENT},
+            timeout=30,
         )
         r.raise_for_status()
         entity = r.json().get("entities", {}).get(qid, {})
@@ -390,7 +396,9 @@ def _fetch_wikidata_titles(qid):
     return {"labels": labels, "aliases": aliases}
 
 
-def add_alternative_titles(input_path="json_dumps/Werke.json", output_path=None, sleep_seconds=0.2):
+def add_alternative_titles(
+    input_path="json_dumps/Werke.json", output_path=None, sleep_seconds=0.2
+):
     """
     Enrich a dump of the Werke table with alternative titles resolved from the
     GND and Wikidata URIs already present in the `gnd` and `wikidata` columns.
@@ -452,9 +460,13 @@ def add_alternative_titles(input_path="json_dumps/Werke.json", output_path=None,
         titel_de = ""
         titel_en = ""
         if wikidata_info:
-            de_values = [wikidata_info["labels"].get("de", "")] + wikidata_info["aliases"].get("de", [])
+            de_values = [wikidata_info["labels"].get("de", "")] + wikidata_info[
+                "aliases"
+            ].get("de", [])
             titel_de = "; ".join(_dedupe(de_values))
-            en_values = [wikidata_info["labels"].get("en", "")] + wikidata_info["aliases"].get("en", [])
+            en_values = [wikidata_info["labels"].get("en", "")] + wikidata_info[
+                "aliases"
+            ].get("en", [])
             titel_en = "; ".join(_dedupe(en_values))
 
         titel_sonstige = ""
@@ -475,8 +487,60 @@ def add_alternative_titles(input_path="json_dumps/Werke.json", output_path=None,
 
     with open(output_path, "w") as f:
         json.dump(data, f)
-    print(f"{enriched} of {len(data)} works enriched with alternative titles; saved to {output_path}")
+    print(
+        f"{enriched} of {len(data)} works enriched with alternative titles; saved to {output_path}"
+    )
     return data
+
+
+def _load_person_dates_cache(path=PERSON_DATES_CACHE):
+    """Load the authority-date cache, creating it if necessary."""
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+
+    if not path.exists():
+        path.write_text(
+            json.dumps({"gnd": {}, "wikidata": {}, "pmb": {}}, indent=2),
+            encoding="utf-8",
+        )
+
+    with path.open(encoding="utf-8") as f:
+        return json.load(f)
+
+
+def _save_person_dates_cache(cache, path=PERSON_DATES_CACHE):
+    """Save cache atomically."""
+    path = Path(path)
+    temp_path = path.with_suffix(".tmp")
+
+    temp_path.write_text(
+        json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    temp_path.replace(path)
+
+
+def _get_cached_person_dates(cache, source, identifier, fetcher):
+    """Return cached dates or fetch and cache a new authority record."""
+    identifier = str(identifier)
+    source_cache = cache.setdefault(source, {})
+
+    if identifier in source_cache:
+        print(f"{source}: cache hit for {identifier}")
+        return source_cache[identifier]
+
+    print(f"{source}: fetching {identifier}")
+
+    result = fetcher(identifier)
+
+    # None means that the request failed. Do not cache failures.
+    if result is None:
+        return {}
+
+    source_cache[identifier] = result
+    _save_person_dates_cache(cache)
+
+    return result
+
 
 def _fetch_gnd_dates(gnd_id, attempts=3):
     """Fetch dates of birth and death from lobid GND."""
@@ -484,21 +548,13 @@ def _fetch_gnd_dates(gnd_id, attempts=3):
 
     for attempt in range(attempts):
         try:
-            r = requests.get(
-                url,
-                headers={"User-Agent": TITLES_USER_AGENT},
-                timeout=15
-            )
+            r = requests.get(url, headers={"User-Agent": TITLES_USER_AGENT}, timeout=15)
             r.raise_for_status()
             record = r.json()
 
             return {
-                "Geburtsdatum": _complete_iso_date(
-                    record.get("dateOfBirth")
-                ),
-                "Todesdatum": _complete_iso_date(
-                    record.get("dateOfDeath")
-                )
+                "Geburtsdatum": _complete_iso_date(record.get("dateOfBirth")),
+                "Todesdatum": _complete_iso_date(record.get("dateOfDeath")),
             }
 
         except requests.exceptions.HTTPError as err:
@@ -506,7 +562,7 @@ def _fetch_gnd_dates(gnd_id, attempts=3):
 
             if status not in (429, 500, 502, 503, 504):
                 print(f"GND lookup failed for {gnd_id}: {err}")
-                return {}
+                return None
 
             print(
                 f"GND server error ({status}) for {gnd_id}, "
@@ -521,13 +577,16 @@ def _fetch_gnd_dates(gnd_id, attempts=3):
 
         except ValueError as err:
             print(f"Invalid GND JSON for {gnd_id}: {err}")
-            return {}
+            return None
 
         if attempt < attempts - 1:
-            sleep(2 ** attempt)
+            sleep(2**attempt)
 
     print(f"GND unavailable for {gnd_id}; trying fallback sources.")
-    return {}
+    return {
+        "Geburtsdatum": _complete_iso_date(record.get("dateOfBirth")),
+        "Todesdatum": _complete_iso_date(record.get("dateOfDeath")),
+    }
 
 
 def _complete_iso_date(value):
@@ -539,6 +598,7 @@ def _complete_iso_date(value):
 
     try:
         from datetime import date
+
         parsed = date.fromisoformat(value)
         return parsed.isoformat()
     except ValueError:
@@ -551,7 +611,7 @@ def _fetch_wikidata_dates(qid):
         "action": "wbgetentities",
         "format": "json",
         "ids": qid,
-        "props": "claims"
+        "props": "claims",
     }
 
     try:
@@ -559,20 +619,17 @@ def _fetch_wikidata_dates(qid):
             WIKIDATA_API_URL,
             params=params,
             headers={"User-Agent": TITLES_USER_AGENT},
-            timeout=30
+            timeout=30,
         )
         r.raise_for_status()
         entity = r.json().get("entities", {}).get(qid, {})
     except Exception as err:
         print(f"Wikidata lookup failed for {qid}: {err}")
-        return {}
+        return None
 
     result = {}
 
-    properties = {
-        "Geburtsdatum": "P569",
-        "Todesdatum": "P570"
-    }
+    properties = {"Geburtsdatum": "P569", "Todesdatum": "P570"}
 
     for field, prop in properties.items():
         claims = entity.get("claims", {}).get(prop, [])
@@ -582,8 +639,8 @@ def _fetch_wikidata_dates(qid):
             claims,
             key=lambda claim: (
                 claim.get("rank") != "preferred",
-                claim.get("rank") == "deprecated"
-            )
+                claim.get("rank") == "deprecated",
+            ),
         )
 
         for claim in claims:
@@ -621,20 +678,16 @@ def _fetch_pmb_dates(pmb_id):
     url = PMB_API_URL.format(pmb_id)
 
     try:
-        r = requests.get(
-            url,
-            headers={"User-Agent": TITLES_USER_AGENT},
-            timeout=30
-        )
+        r = requests.get(url, headers={"User-Agent": TITLES_USER_AGENT}, timeout=30)
         r.raise_for_status()
         record = r.json()
     except Exception as err:
         print(f"PMB lookup failed for {pmb_id}: {err}")
-        return {}
+        return None
 
     return {
         "Geburtsdatum": _complete_iso_date(record.get("start_date")),
-        "Todesdatum": _complete_iso_date(record.get("end_date"))
+        "Todesdatum": _complete_iso_date(record.get("end_date")),
     }
 
 
@@ -690,8 +743,10 @@ def fill_person_dates(br_table_id, overwrite=False, sleep_seconds=0.25):
         # 2. Wikidata: fill only dates still missing.
         wikidata_url = row.get("wikidata") or ""
 
-        if missing_birth and not dates.get("Geburtsdatum") or (
-            missing_death and not dates.get("Todesdatum")
+        if (
+            missing_birth
+            and not dates.get("Geburtsdatum")
+            or (missing_death and not dates.get("Todesdatum"))
         ):
             if wikidata_url:
                 try:
@@ -710,9 +765,8 @@ def fill_person_dates(br_table_id, overwrite=False, sleep_seconds=0.25):
                 except Exception as err:
                     print(f"Wikidata processing error: {err}")
         # 3. PMB: fill any dates still missing.
-        if (
-            (missing_birth and not dates.get("Geburtsdatum"))
-            or (missing_death and not dates.get("Todesdatum"))
+        if (missing_birth and not dates.get("Geburtsdatum")) or (
+            missing_death and not dates.get("Todesdatum")
         ):
             pmb_url = row.get("pmb") or ""
 
@@ -749,10 +803,10 @@ def fill_person_dates(br_table_id, overwrite=False, sleep_seconds=0.25):
                 url,
                 headers={
                     "Authorization": f"Token {BASEROW_TOKEN}",
-                    "Content-Type": "application/json"
+                    "Content-Type": "application/json",
                 },
                 json=update,
-                timeout=30
+                timeout=30,
             )
             response.raise_for_status()
 
@@ -772,6 +826,3 @@ def fill_person_dates(br_table_id, overwrite=False, sleep_seconds=0.25):
         f"{updated_birth} birth dates and "
         f"{updated_death} death dates."
     )
-
-
-
