@@ -1,0 +1,22 @@
+name: Enrich Baserow data with birth and death dates
+
+on:
+  workflow_dispatch:
+
+jobs:
+  download:
+    name: enrich baserow with dates
+    runs-on: ubuntu-latest
+    env:
+      BASEROW_TOKEN: ${{secrets.BASEROW_TOKEN}}
+      BASEROW_USER: ${{secrets.BASEROW_USER}}
+      BASEROW_PW: ${{secrets.BASEROW_PW}}
+      GEONAMES_USER: ${{secrets.GEONAMES_USER}}
+    steps:
+      - name: Perfom Checkout
+        uses: actions/checkout@v5
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v8.2.0
+      - name: enrich dates
+        run: |
+          uv run scripts/python/fill_dates.py
