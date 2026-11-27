@@ -17,7 +17,7 @@ from config import BASEROW_URL, BASEROW_TOKEN, br_client
 LOBID_GND_URL = "https://lobid.org/gnd/{}.json"
 WIKIDATA_API_URL = "https://www.wikidata.org/w/api.php"
 TITLES_USER_AGENT = "hsl-entities (https://github.com/Hanslick-Online/hsl-entities)"
-
+PMB_API_URL = "https://pmb.acdh.oeaw.ac.at/apis/entities/entity/{}/"
 PERSON_DATES_CACHE = Path("json_dumps/person_dates_cache.json")
 
 
@@ -29,7 +29,7 @@ def _load_table_rows(br_table_id, attempts=3):
             if attempt == attempts - 1:
                 raise
             delay = 2**attempt
-            print(f"Failed to load Baserow table {br_table_id}; retrying in {delay}s.")
+            print(f"Failed to load Baserow table {br_table_id}. Retrying in {delay}s.")
             sleep(delay)
 
 
@@ -43,8 +43,6 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
     v_oeml = 0
     for x in table:
         update = {}
-        birth = row.get("Geburtsdatum")
-        death = row.get("Todesdatum")
         if uri == "gnd":
             if len(x[field_name_input["gnd"]]) > 0:
                 norm_id = get_normalized_uri(x[field_name_input["gnd"]])
@@ -490,7 +488,7 @@ def add_alternative_titles(
     with open(output_path, "w") as f:
         json.dump(data, f)
     print(
-        f"{enriched} of {len(data)} works enriched with alternative titles; saved to {output_path}"
+        f"{enriched} of {len(data)} works enriched with alternative titles. javed to {output_path}"
     )
     return data
 
@@ -584,7 +582,7 @@ def _fetch_gnd_dates(gnd_id, attempts=3):
         if attempt < attempts - 1:
             sleep(2**attempt)
 
-    print(f"GND unavailable for {gnd_id}; trying fallback sources.")
+    print(f"GND unavailable for {gnd_id}. Trying fallback sources.")
     return {
         "Geburtsdatum": _complete_iso_date(record.get("dateOfBirth")),
         "Todesdatum": _complete_iso_date(record.get("dateOfDeath")),
@@ -715,6 +713,8 @@ def fill_person_dates(br_table_id, overwrite=False, sleep_seconds=0.25):
     updated_death = 0
 
     for row in table:
+
+        update = {}
         birth = row.get("Geburtsdatum")
         death = row.get("Todesdatum")
 
@@ -824,7 +824,7 @@ def fill_person_dates(br_table_id, overwrite=False, sleep_seconds=0.25):
         sleep(sleep_seconds)
 
     print(
-        f"Finished: {updated_rows} rows updated; "
+        f"Finished: {updated_rows} rows updated, "
         f"{updated_birth} birth dates and "
         f"{updated_death} death dates."
     )
