@@ -43,6 +43,8 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
     v_oeml = 0
     for x in table:
         update = {}
+        birth = row.get("Geburtsdatum")
+        death = row.get("Todesdatum")
         if uri == "gnd":
             if len(x[field_name_input["gnd"]]) > 0:
                 norm_id = get_normalized_uri(x[field_name_input["gnd"]])
@@ -698,9 +700,9 @@ def fill_person_dates(br_table_id, overwrite=False, sleep_seconds=0.25):
     Lookup order:
     1. GND
     2. Wikidata
+    3. PMB
 
-    Existing dates are never overwritten.
-    Only complete Gregorian dates are written.
+    Existing dates are only overwritten if paramete --overwrite is passed.
     """
     table = _load_table_rows(br_table_id)
     br_rows_url = f"{BASEROW_URL}database/rows/table/{br_table_id}/"
