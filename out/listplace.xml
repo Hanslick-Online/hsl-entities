@@ -290,6 +290,7 @@
                <place xml:id="hsl_place_id_15" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Dresden</placeName>
+                     <placeName type="alternative">Dressden</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
@@ -3421,7 +3422,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q727</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4001783-7</idno>
                </place>
-               <place xml:id="hsl_place_id_273" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_273" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Den Haag</placeName>
                   </settlement>
@@ -3514,7 +3515,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q1200</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4049795-1</idno>
                </place>
-               <place xml:id="hsl_place_id_280" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_280" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Endenich</placeName>
                   </settlement>
@@ -4284,7 +4285,7 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q218</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4050939-4</idno>
                </place>
-               <place xml:id="hsl_place_id_342" resp="#awilfing" cert="medium">
+               <place xml:id="hsl_place_id_342" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Srbija</placeName>
                      <placeName type="alternative">Serbien</placeName>
@@ -12194,6 +12195,14 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3186886/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1435</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4108914-5</idno>
+               </place>
+               <place xml:id="hsl_place_id_1699" resp="#awilfing" cert="high">
+                  <placeName type="main">Martinswand</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2771851/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q54997284</idno>
+               </place>
+               <place xml:id="hsl_place_id_1700" resp="#awilfing" cert="high">
+                  <placeName type="main">Hohle Gasse</placeName>
                </place>
             </listPlace>
          </div>

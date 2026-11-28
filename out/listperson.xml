@@ -9918,7 +9918,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Dieu; Dio; Herr; Seigneur; Vater</surname>
+                     <surname>Deus; Dieu; Dio; Herr; Seigneur; Vater</surname>
                   </persName>
                   <occupation style="background-color: dark-gray;">Gottheit</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4021662-7</idno>
@@ -35903,7 +35903,7 @@
                   </persName>
                   <persName type="alternative">
                      <forename/>
-                     <surname>Bobèche</surname>
+                     <surname>König Bobèche</surname>
                   </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_1069">Barbe-Bleue</bibl>
@@ -44282,8 +44282,8 @@
                      <surname>Sand</surname>
                   </persName>
                   <persName type="alternative">
-                     <forename/>
-                     <surname>Amantine Aurore Lucile Dupin de Francueil</surname>
+                     <forename>Georges</forename>
+                     <surname>Amantine Aurore Lucile Dupin de Francueil; Sand</surname>
                   </persName>
                   <birth notBefore="1804-01-01" notAfter="1804-12-31">1804</birth>
                   <death notBefore="1876-01-01" notAfter="1876-12-31">1876</death>
@@ -89450,6 +89450,7 @@
                      <bibl n="hsl_work_id_4660">4 Lieder für Singstimme und Klavier, op. 12</bibl>
                      <bibl n="hsl_work_id_4794">Quintett für Klavier, 2 Violinen, Viola und Cello in g-Moll, op. 19</bibl>
                      <bibl n="hsl_work_id_6675">Melusine, op. 24</bibl>
+                     <bibl n="hsl_work_id_7743">Das Andreasfest</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_6621" resp="#awilfing" cert="high">
@@ -102201,6 +102202,10 @@
                      <forename>Roderich</forename>
                      <surname>Fels</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Rosenfeld</surname>
+                  </persName>
                   <birth notBefore="1844-01-01" notAfter="1844-12-31">1844</birth>
                   <death notBefore="1883-01-01" notAfter="1883-12-31">1883</death>
                   <occupation style="background-color: light-blue;">Schauspieler</occupation>
@@ -102210,6 +102215,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q94935354</idno>
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_5774">Ännchen von Tharau, op. 44</bibl>
+                     <bibl n="hsl_work_id_7743">Das Andreasfest</bibl>
                   </listBibl>
                </person>
                <person xml:id="hsl_person_id_8065" role="fictional" resp="#awilfing" cert="high">
@@ -114189,6 +114195,10 @@
                      <forename/>
                      <surname>Mark Antony</surname>
                   </persName>
+                  <persName type="alternative">
+                     <forename/>
+                     <surname>Antonius</surname>
+                  </persName>
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_6259">Julius Caesar</bibl>
                   </listBibl>
@@ -117483,6 +117493,72 @@
                   <occupation style="background-color: dark-gray;">Politiker</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118503529</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q51673</idno>
+               </person>
+               <person xml:id="hsl_person_id_10264" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Andreas</surname>
+                  </persName>
+                  <birth>unbekannt (1. Jhdt.)</birth>
+                  <death>unbekannt (1. Jhdt.)</death>
+                  <occupation style="background-color: light-gray;">Apostel</occupation>
+                  <occupation style="background-color: red;">Heiliger</occupation>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118502891</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q43399</idno>
+               </person>
+               <person xml:id="hsl_person_id_10265" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Adam</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_7743">Das Andreasfest</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10266" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Agnes</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_7743">Das Andreasfest</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10267" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Meister Ulram</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_7743">Das Andreasfest</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10268" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Walter</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_7743">Das Andreasfest</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10269" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Ein Herold der Stadt Innsbruck</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_7743">Das Andreasfest</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="hsl_person_id_10270" role="fictional" resp="#awilfing" cert="high">
+                  <persName type="main">
+                     <forename/>
+                     <surname>Maximilian I</surname>
+                  </persName>
+                  <listBibl type="characterOf">
+                     <bibl n="hsl_work_id_7743">Das Andreasfest</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>
